@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander James Stevenson",
+    "birth_place": "Blackhall, Midlothian, Scotland",
+    "death_date": "1970",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "family": "Henry Stevenson (uncle)",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm underarm",
+    "source": "https://www.espncricinfo.com/player/alexander-stevenson-25357 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "190",
+        "bat avg": "27.14",
+        "100s/50s": "\u2013/1",
+        "top score": "54",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1925&ndash;1928"
+    }
+}

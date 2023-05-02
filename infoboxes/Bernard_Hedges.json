@@ -1,0 +1,39 @@
+{
+    "name": "Bernard Hedges",
+    "birth_place": "Pontypridd, Wales",
+    "death_date": "df=y",
+    "death_place": "Mumbles, Swansea, Wales",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/14145.html Cricinfo",
+    "First-class": {
+        "matches": "422",
+        "runs": "17733",
+        "bat avg": "25.22",
+        "100s/50s": "21/84",
+        "top score": "182",
+        "deliveries": "572",
+        "wickets": "3",
+        "bowl avg": "86.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1-16",
+        "catches/stumpings": "200/0"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "250",
+        "bat avg": "41.66",
+        "100s/50s": "1/1",
+        "deliveries": "228",
+        "wickets": "8",
+        "bowl avg": "16.75",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "2-17",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Glamorgan": "1950 to 1967"
+    },
+    "birth_date": "1927-11-10"
+}

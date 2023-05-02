@@ -1,0 +1,29 @@
+{
+    "name": "Jack Capes",
+    "country": "England",
+    "fullname": "Charles John Capes",
+    "birth_place": "Forest Hill, London",
+    "death_date": "1933",
+    "death_place": "Ospedaletti, Liguria, Italy",
+    "batting": "Right-handed",
+    "bowling": "Left-arm medium Left-arm medium pace",
+    "type1": "First-class",
+    "source": "http://www.espncricinfo.com/ci/content/player/11002.html CricInfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "534",
+        "bat avg": "16.18",
+        "100s/50s": "0/1",
+        "deliveries": "3,954",
+        "wickets": "55",
+        "bowl avg": "25.10",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/20",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {
+        "Kent": "1923\u20131928"
+    },
+    "birth_date": "1898-01-05"
+}

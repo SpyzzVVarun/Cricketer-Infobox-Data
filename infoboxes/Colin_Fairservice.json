@@ -1,0 +1,40 @@
+{
+    "name": "Colin Fairservice",
+    "fullname": "Colin Fairservice",
+    "birth_place": "Hadlow, Kent",
+    "death_date": "df=yes",
+    "death_place": "Canterbury, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "family": "Bill Fairservice (father)",
+    "type1": "FC",
+    "debutdate1": "22 June",
+    "debutyear1": "1929",
+    "debutfor1": "Kent",
+    "debutagainst1": "Derbyshire",
+    "lastdate1": "20 June",
+    "lastyear1": "1936",
+    "lastfor1": "Middlesex",
+    "lastagainst1": "MCC",
+    "source": "http://www.espncricinfo.com/ci/content/player/12945.html CricInfo",
+    "First-class": {
+        "matches": "74",
+        "runs": "1,650",
+        "bat avg": "17.55",
+        "100s/50s": "1/6",
+        "top score": "110",
+        "deliveries": "1,519",
+        "wickets": "18",
+        "bowl avg": "38.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/49",
+        "catches/stumpings": "44/\u2013"
+    },
+    "clubs": {
+        "Kent": "1929\u20131933",
+        "MCC": "1934\u20131936",
+        "Middlesex": "1936"
+    },
+    "birth_date": "1909-08-06"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Murray Commins",
+    "country": "Ireland",
+    "birth_place": "Cape Town, Western Cape, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "family": "John Commins (father) Kevin Commins (grandfather)",
+    "testdebutdate": "4 April",
+    "testdebutyear": "2023",
+    "testdebutagainst": "Bangladesh",
+    "testcap": "19",
+    "lasttestdate": "16 April",
+    "lasttestyear": "2023",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "21 January",
+    "odidebutyear": "2023",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "65",
+    "lastodidate": "23 January",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Zimbabwe",
+    "source": "http://www.espncricinfo.com/ci/content/player/594992.html ESPNcricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "453",
+        "bat avg": "21.57",
+        "100s/50s": "0/4",
+        "top score": "78",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "602",
+        "bat avg": "43.00",
+        "100s/50s": "1/4",
+        "top score": "125",
+        "catches/stumpings": "12/\u2013"
+    },
+    "T20": {
+        "matches": "18",
+        "runs": "239",
+        "bat avg": "14.93",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "South Western Districts": "2016/17\u20132017/18",
+        "Boland": "2017/18\u20132018/19",
+        "Northern Knights": "2019",
+        "Munster Reds": "2021\u20132022"
+    },
+    "birth_date": "1997-1-2"
+}

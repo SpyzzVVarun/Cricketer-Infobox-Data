@@ -1,0 +1,55 @@
+{
+    "name": "Revelation Plaatjie",
+    "country": "South Africa",
+    "fullname": "Tsherolo Revelation Plaatjie",
+    "birth_place": "Kimberley, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/70/70868/70868.html CricketArchive ",
+    "FC": {
+        "matches": "20",
+        "runs": "286",
+        "bat avg": "16.82",
+        "100s/50s": "0/0",
+        "deliveries": "1,682",
+        "wickets": "39",
+        "bowl avg": "30.41",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "19",
+        "runs": "52",
+        "bat avg": "26.00",
+        "100s/50s": "0/0",
+        "deliveries": "647",
+        "wickets": "18",
+        "bowl avg": "32.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/51",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "\u2014",
+        "bat avg": "\u2014",
+        "100s/50s": "\u2014",
+        "top score": "\u2014",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Griqualand West": "2004/05\u20132011/12",
+        "Easterns": "2006/07\u20132007/08"
+    },
+    "birth_date": "1982-6-11"
+}

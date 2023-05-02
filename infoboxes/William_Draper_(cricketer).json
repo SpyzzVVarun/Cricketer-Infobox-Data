@@ -1,0 +1,39 @@
+{
+    "name": "William Draper",
+    "country": "England",
+    "fullname": "William Draper",
+    "birth_place": "Penshurst, Kent",
+    "death_date": "1919",
+    "death_place": "Tunbridge Wells, Kent",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Henry Draper (brother)",
+    "type1": "First-class",
+    "debutdate1": "13 July",
+    "debutyear1": "1874",
+    "debutfor1": "Kent",
+    "debutagainst1": "Derbyshire",
+    "lastdate1": "19 August",
+    "lastyear1": "1880",
+    "lastfor1": "Kent",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.espncricinfo.com/ci/content/player/12253.html CricInfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "108",
+        "bat avg": "7.20",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "769",
+        "wickets": "20",
+        "bowl avg": "14.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/51",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Kent": "1874-1880"
+    },
+    "birth_date": "1848-11-12"
+}

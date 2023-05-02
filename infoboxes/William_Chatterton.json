@@ -1,0 +1,49 @@
+{
+    "name": "William Chatterton",
+    "country": "England",
+    "fullname": "William Chatterton",
+    "birth_place": "Thornsett, Derbyshire",
+    "death_date": "1913",
+    "death_place": "Hyde, Cheshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "family": "Joseph Chatterton (brother)",
+    "onetest": "true",
+    "testdebutdate": "19 March",
+    "testdebutyear": "1892",
+    "testdebutagainst": "South Africa",
+    "testcap": "74",
+    "source": "http://content-uk.cricinfo.com/england/content/player/10716.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "48",
+        "bat avg": "48.00",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "289",
+        "runs": "10,914",
+        "bat avg": "23.17",
+        "100s/50s": "8/53",
+        "top score": "169",
+        "deliveries": "11,896",
+        "wickets": "208",
+        "bowl avg": "21.46",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/42",
+        "catches/stumpings": "239/4"
+    },
+    "clubs": {
+        "Derbyshire": "1882\u20131902"
+    },
+    "birth_date": "1861-12-27"
+}

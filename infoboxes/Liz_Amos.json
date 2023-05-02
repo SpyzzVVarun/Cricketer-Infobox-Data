@@ -1,0 +1,31 @@
+{
+    "name": "Liz Amos",
+    "fullname": "Elizabeth Amos",
+    "country": "Australia",
+    "female": "yes",
+    "batting": "Left-handed",
+    "bowling": "Right-arm",
+    "testdebutdate": "17 March",
+    "testdebutyear": "1961",
+    "testdebutagainst": "New Zealand",
+    "lasttestdate": "20 July",
+    "lasttestyear": "1963",
+    "lasttestagainst": "England",
+    "testcap": "53",
+    "source": "http://www.espncricinfo.com/ci/content/player/53476.html CricInfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "182",
+        "bat avg": "30.33",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

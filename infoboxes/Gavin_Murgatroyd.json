@@ -1,0 +1,36 @@
+{
+    "name": "Gavin Murgatroyd",
+    "country": "Namibia",
+    "fullname": "Bryan Gavin Murgatroyd",
+    "birth_place": "Walvis Bay, South West Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "internationalspan": "1990\u20132004",
+    "odidebutdate": "10 February",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "8",
+    "lastodidate": "3 March",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/24799.html ESPNcricinfo",
+    "ODI": {
+        "matches": "6",
+        "runs": "90",
+        "bat avg": "15.00",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "375",
+        "bat avg": "23.43",
+        "100s/50s": "0/3",
+        "top score": "53",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1969-10-19"
+}

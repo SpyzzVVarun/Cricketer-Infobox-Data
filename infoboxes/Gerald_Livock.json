@@ -1,0 +1,38 @@
+{
+    "name": "G. E. Livock",
+    "country": "England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "22 September",
+    "debutyear1": "1923",
+    "debutfor1": "Lord Cowdray's XI",
+    "debutagainst1": "Rest of England",
+    "lastdate1": "16 June",
+    "lastyear1": "1934",
+    "lastfor1": "Gentlemen of England",
+    "lastagainst1": "Australia",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/31/31028/31028.html CricketArchive  ",
+    "First-class": {
+        "matches": "13",
+        "runs": "403",
+        "bat avg": "25.18",
+        "100s/50s": "0/2",
+        "top score": "65",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "19/6"
+    },
+    "clubs": {
+        "Lord Cowdray's XI": "1923",
+        "LH Tennyson's XI": "1925\u20131926",
+        "Middlesex": "1925\u20131927",
+        "Gentlemen of England": "1925\u20131934",
+        "Royal Air Force": "1927\u20131932",
+        "Marylebone Cricket Club (MCC)": "1933"
+    }
+}

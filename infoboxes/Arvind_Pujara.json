@@ -1,0 +1,21 @@
+{
+    "name": "Arvind Pujara",
+    "country": "India",
+    "fullname": "Arvind Shivlal Pujara",
+    "birth_place": "Rajkot, Saurashtra, India",
+    "role": "Batsman Occasional wicket-keeper",
+    "family": "Cheteshwar Pujara (son) ,  Bipin Pujara (brother),  Shivlal Pujara (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/32945.html ESPNcricinfo",
+    "First-class": {
+        "matches": "6",
+        "runs": "172",
+        "bat avg": "14.33",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Saurashtra": "1976\u20131980"
+    },
+    "birth_date": "1950-12-21"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Graham Ford",
+    "country": "South Africa",
+    "fullname": "Graham Xavier Ford",
+    "birth_place": "Pietermaritzburg, Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "Coach",
+    "family": "Matt Ford (son)  ",
+    "type1": "FC",
+    "debutdate1": "12 November",
+    "debutyear1": "1982",
+    "debutfor1": "Natal B",
+    "debutagainst1": "Western Province B",
+    "lastdate1": "6 January",
+    "lastyear1": "1990",
+    "lastfor1": "Natal B",
+    "lastagainst1": "Eastern Province B",
+    "coachclub1": "Sri Lanka",
+    "coachyear1": "2012\u20132014",
+    "coachclub2": "Surrey",
+    "coachyear2": "2014\u20132016",
+    "coachclub3": "Sri Lanka",
+    "coachyear3": "2016\u20132017",
+    "coachclub4": "Ireland",
+    "coachyear4": "2017\u20132021",
+    "source": "http://content-uk.cricinfo.com/southafrica/content/player/45086.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "162",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Natal B": "1982/83\u20131989/90"
+    },
+    "birth_date": "1960-11-16"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Umega Chaturanga",
+    "country": "Sri Lanka",
+    "full_name": "Jasinthuliyana Umega Chaturanga",
+    "birth_place": "Galle, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/35/35536/35536.html CricketArchive ",
+    "FC": {
+        "matches": "59",
+        "runs": "689",
+        "bat avg": "13.00",
+        "100s/50s": "0/2",
+        "top score": "56",
+        "deliveries": "10,831",
+        "wickets": "225",
+        "bowl avg": "24.68",
+        "fivefor": "15",
+        "tenfor": "5",
+        "best bowling": "9/47",
+        "catches/stumpings": "21/\u2013"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "156",
+        "bat avg": "8.21",
+        "100s/50s": "0/0",
+        "deliveries": "1,791",
+        "wickets": "59",
+        "bowl avg": "18.98",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/24",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "deliveries": "275",
+        "wickets": "22",
+        "bowl avg": "13.50",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "4/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Galle": "2005\u20132013",
+        "Moors": "2009\u20132015",
+        "Singha": "2010/11",
+        "Negombo": "2017/18",
+        "Air Force": "2018/19",
+        "Kandy Customs": "2019\u20132023"
+    },
+    "birth_date": "1984-6-3"
+}

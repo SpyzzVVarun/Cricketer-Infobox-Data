@@ -1,0 +1,50 @@
+{
+    "name": "Pat Moore",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1961\u20131966",
+    "fullname": "Patricia Nellie Moore",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "testdebutdate": "17 March",
+    "testdebutyear": "1961",
+    "testdebutagainst": "Australia",
+    "testcap": "42",
+    "lasttestdate": "6 August",
+    "lasttestyear": "1966",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17298/17298.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "80",
+        "bat avg": "40.00",
+        "100s/50s": "0/0",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WFC": {
+        "matches": "74",
+        "runs": "2,771",
+        "bat avg": "29.79",
+        "100s/50s": "6/12",
+        "top score": "143",
+        "deliveries": "7,332",
+        "wickets": "170",
+        "bowl avg": "15.56",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "6/14",
+        "catches/stumpings": "38/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1947/48\u20131967/68"
+    },
+    "birth_date": "1930-8-13"
+}

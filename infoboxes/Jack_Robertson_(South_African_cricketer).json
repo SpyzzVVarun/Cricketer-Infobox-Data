@@ -1,0 +1,41 @@
+{
+    "name": "Jack Robertson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "14 December",
+    "testdebutyear": "1935",
+    "lasttestdate": "1 January",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1936",
+    "source": "https://cricketarchive.com/Archive/Players/0/672/672.html CricketArchive",
+    "Test": {
+        "matches": "3",
+        "runs": "51",
+        "bat avg": "10.19",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "738",
+        "wickets": "6",
+        "bowl avg": "53.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/143",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "23",
+        "runs": "450",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "deliveries": "3,458",
+        "wickets": "65",
+        "bowl avg": "24.20",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "8/96",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {}
+}

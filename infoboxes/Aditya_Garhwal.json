@@ -1,0 +1,59 @@
+{
+    "name": "Aditya Garhwal",
+    "country": "India",
+    "fullname": "Aditya Narendra Garhwal",
+    "nickname": "Chhota Sehwag title=Aditya Garhwal \u2014 the Chhota Sehwag who is making waves",
+    "birth_place": "Sikar, Rajasthan, India",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/725435.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "62",
+        "bat avg": "12.40",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "176",
+        "wickets": "1",
+        "bowl avg": "103.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/40",
+        "catches/stumpings": "2/-"
+    },
+    "List A": {
+        "matches": "20",
+        "runs": "479",
+        "bat avg": "23.95",
+        "100s/50s": "1/2",
+        "top score": "108",
+        "deliveries": "141",
+        "wickets": "2",
+        "bowl avg": "67.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "6/\u2013"
+    },
+    "T20": {
+        "matches": "32",
+        "runs": "471",
+        "bat avg": "15.70",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "96",
+        "wickets": "6",
+        "bowl avg": "17.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/7",
+        "catches/stumpings": "4/-"
+    },
+    "clubs": {
+        "Rajasthan": "2014\u2013present"
+    },
+    "birth_date": "1996-4-15"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Roshon Primus",
+    "birth_place": "Bridgetown, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-hand Right-hand medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/1065662.html ESPNcricinfo ",
+    "LA": {
+        "matches": "18",
+        "runs": "169",
+        "bat avg": "14.08",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "689",
+        "wickets": "22",
+        "bowl avg": "30.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/47",
+        "catches/stumpings": "7/\u2013"
+    },
+    "FC": {
+        "matches": "14",
+        "runs": "470",
+        "bat avg": "23.50",
+        "100s/50s": "0/3",
+        "top score": "65",
+        "deliveries": "1,356",
+        "wickets": "33",
+        "bowl avg": "25.87",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/30",
+        "catches/stumpings": "13/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "156",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "deliveries": "233",
+        "wickets": "13",
+        "bowl avg": "24.53",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/30",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2016-present",
+        "Guyana Amazon Warriors( 69 )": "2017-2018",
+        "Barbados Tridents": "2019"
+    },
+    "birth_date": "1995-8-14"
+}

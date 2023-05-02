@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "James David Martin",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1988",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/james-martin-25282 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "101",
+        "bat avg": "25.25",
+        "100s/50s": "\u2013/1",
+        "top score": "88",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1926&ndash;1929"
+    }
+}

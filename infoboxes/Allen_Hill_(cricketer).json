@@ -1,0 +1,52 @@
+{
+    "name": "Allen Hill",
+    "country": "England",
+    "birth_place": "Kirkheaton, Yorkshire, England",
+    "death_date": "1910",
+    "death_place": "Leyland, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm fast Right arm fast (roundarm)",
+    "testdebutdate": "15 March",
+    "testdebutyear": "1877",
+    "testdebutagainst": "Australia",
+    "testcap": "5",
+    "lasttestdate": "4 April",
+    "lasttestyear": "1877",
+    "lasttestagainst": "Australia",
+    "umpire": "true",
+    "testsumpired": "1",
+    "umptestdebutyr": "1890",
+    "source": "https://cricketarchive.com/Archive/Players/0/11/11.html CricketArchive ",
+    "Test": {
+        "matches": "2",
+        "runs": "101",
+        "bat avg": "50.50",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "340",
+        "wickets": "7",
+        "bowl avg": "18.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "193",
+        "runs": "2,478",
+        "bat avg": "8.94",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "30,032",
+        "wickets": "749",
+        "bowl avg": "14.26",
+        "fivefor": "57",
+        "tenfor": "10",
+        "best bowling": "8/48",
+        "catches/stumpings": "142/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1871\u20131882"
+    },
+    "birth_date": "1845-11-14"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Cyril Stanley Rattigan",
+    "birth_place": "Camberwell, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Beaumont-Hamel, Somme, France",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/19588.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "183",
+        "bat avg": "20.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "42",
+        "deliveries": "444",
+        "wickets": "5",
+        "bowl avg": "43.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/61",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1906&ndash;1907",
+        "Marylebone Cricket Club": "1908"
+    }
+}

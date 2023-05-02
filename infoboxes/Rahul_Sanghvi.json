@@ -1,0 +1,38 @@
+{
+    "name": "Rahul Sanghvi",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "birth_place": "Delhi, India",
+    "country": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/34214.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "74",
+        "wickets": "2",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/67",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "10",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "498",
+        "wickets": "10",
+        "bowl avg": "39.89",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1974-9-3"
+}

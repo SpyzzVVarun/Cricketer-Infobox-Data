@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Peter Bosworth Kirkwood Gracey",
+    "birth_place": "Bannu, North-West Frontier Province, British India",
+    "death_date": "df=yes",
+    "death_place": "Rye, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/13528.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "176",
+        "bat avg": "22.00",
+        "100s/50s": "\u2013/1",
+        "top score": "61",
+        "deliveries": "86",
+        "wickets": "2",
+        "bowl avg": "27.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/21",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1945/46",
+        "Oxford University": "1947&ndash;1948"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "country": "South Africa",
+    "fullname": "Murray Wayne Creed",
+    "nickname": "Panther",
+    "birth_place": "Port Elizabeth, Cape Province, South Africa",
+    "heightft": "5",
+    "heightinch": "9",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/44494.html Cricinfo ",
+    "FC": {
+        "matches": "22",
+        "runs": "728",
+        "bat avg": "25.10",
+        "100s/50s": "&ndash;/3",
+        "top score": "72",
+        "deliveries": "1,633",
+        "wickets": "18",
+        "bowl avg": "49.38",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/30",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "512",
+        "bat avg": "20.48",
+        "100s/50s": "&ndash;/1",
+        "top score": "77",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire Cricket Board": "2001-2002",
+        "Eastern Province": "1998/99-2000/01",
+        "Eastern Province B": "1997/98-1998/99"
+    },
+    "birth_date": "1979-3-5"
+}

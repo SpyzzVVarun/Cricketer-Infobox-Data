@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Michael Thomas Halifax Wyatt",
+    "birth_place": "North Wraxall, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Westminster, London, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ireland/content/player/23450.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "78",
+        "bat avg": "9.75",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1850&ndash;1851",
+        "Marylebone Cricket Club": "1858"
+    }
+}

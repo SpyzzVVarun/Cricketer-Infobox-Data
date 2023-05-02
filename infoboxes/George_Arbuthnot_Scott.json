@@ -1,0 +1,40 @@
+{
+    "name": "George Scott",
+    "country": "England",
+    "fullname": "George Arbuthnot Scott",
+    "birth_place": "Wimbledon, London, England",
+    "death_date": "1927",
+    "death_place": "Ore, Hastings, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "family": "Father, Avison, cousin Elliot Tillard",
+    "type1": "First-class",
+    "debutdate1": "17 May",
+    "debutyear1": "1900",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "25 May",
+    "lastyear1": "1901",
+    "lastfor1": "Cambridge University",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32627/32627.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "40",
+        "bat avg": "6.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "570",
+        "wickets": "8",
+        "bowl avg": "33.12",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/72",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cambridge University": "1900&ndash;01"
+    },
+    "birth_date": "1879-4-12"
+}

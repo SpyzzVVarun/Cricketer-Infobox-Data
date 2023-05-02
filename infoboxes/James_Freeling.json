@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "James Robert Freeling",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Brussels, Belgium",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13295.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "34",
+        "bat avg": "5.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1843",
+        "Oxford University": "1844"
+    }
+}

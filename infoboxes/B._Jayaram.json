@@ -1,0 +1,27 @@
+{
+    "country": "India",
+    "fullname": "Bangalore Jayaram",
+    "birth_place": "Bangalore, Kingdom of Mysore, British India",
+    "death_date": "1936",
+    "death_place": "Bangalore, Kingdom of Mysore, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/29758.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "340",
+        "bat avg": "14.78",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "London County": "1903&ndash;1904"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Frederick Cooper",
+    "birth_place": "Henley-on-Thames, Oxfordshire, England",
+    "death_date": "1928",
+    "death_place": "Henley-on-Thames, Oxfordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/11303.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1881"
+    }
+}

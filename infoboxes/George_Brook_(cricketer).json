@@ -1,0 +1,21 @@
+{
+    "name": "George Brook",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "source": "http://cricketarchive.co.uk/Archive/Players/28/28160/28160.html CricketArchive",
+    "First-class": {
+        "matches": "150",
+        "runs": "1,877",
+        "bat avg": "9.33",
+        "100s/50s": "0/3",
+        "top score": "56",
+        "deliveries": "24,877",
+        "wickets": "461",
+        "bowl avg": "27.86",
+        "fivefor": "23",
+        "tenfor": "4",
+        "best bowling": "7/50",
+        "catches/stumpings": "77/\u2013"
+    },
+    "clubs": {}
+}

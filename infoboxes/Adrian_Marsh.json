@@ -1,0 +1,30 @@
+{
+    "name": "Adrian Marsh",
+    "country": "England",
+    "fullname": "Adrian John Marsh",
+    "birth_place": "Nottingham, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "List A",
+    "debutdate1": "19 May",
+    "debutyear1": "1999",
+    "debutfor1": "Derbyshire CB",
+    "debutagainst1": "Wales Minor Counties",
+    "lastdate1": "29 August",
+    "lastyear1": "2001",
+    "lastfor1": "Derbyshire CB",
+    "lastagainst1": "Bedfordshire",
+    "source": "https://cricketarchive.com/Archive/Players/9/9006/9006.html CricketArchive ",
+    "List A": {
+        "matches": "4",
+        "runs": "73",
+        "bat avg": "18.25",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Derbyshire Cricket Board": "1999&ndash;2001"
+    },
+    "birth_date": "1978-11-4"
+}

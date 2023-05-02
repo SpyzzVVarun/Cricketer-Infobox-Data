@@ -1,0 +1,39 @@
+{
+    "name": "Robert Baynton",
+    "country": "England",
+    "fullname": "Robert Geoffrey Baynton",
+    "birth_place": "Moseley, Birmingham, England",
+    "death_date": "1924",
+    "death_place": "Moor Green, Birmingham",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "25 June",
+    "debutyear1": "1921",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Somerset",
+    "lastdate1": "14 June",
+    "lastyear1": "1923",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/27/27769/27769.html CricketArchive ",
+    "FC": {
+        "matches": "13",
+        "runs": "212",
+        "bat avg": "11.77",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "1009",
+        "wickets": "14",
+        "bowl avg": "34.21",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/56",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1921\u201323"
+    },
+    "birth_date": "1900-3-5"
+}

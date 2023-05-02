@@ -1,0 +1,38 @@
+{
+    "name": "Geoff Smith",
+    "fullname": "Geoffrey Smith",
+    "birth_place": "Huddersfield, Yorkshire",
+    "death_date": "df=yes",
+    "death_place": "Heathfield, East Sussex",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "6 June",
+    "debutyear1": "1951",
+    "debutfor1": "Kent",
+    "debutagainst1": "Minor Counties",
+    "lastdate1": "12 July",
+    "lastyear1": "1958",
+    "lastfor1": "Kent",
+    "lastagainst1": "Surrey",
+    "source": "http://www.espncricinfo.com/england/content/player/20856.html CricInfo",
+    "First-class": {
+        "matches": "42",
+        "runs": "728",
+        "bat avg": "12.33",
+        "100s/50s": "0/2",
+        "top score": "60",
+        "deliveries": "9,079",
+        "wickets": "165",
+        "bowl avg": "22.82",
+        "fivefor": "10",
+        "tenfor": "0",
+        "best bowling": "8/110",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Kent": "1951\u20131958"
+    },
+    "birth_date": "1925-10-30"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Delorn Johnson",
+    "country": "West Indies",
+    "fullname": "Delorn Edison Johnson",
+    "birth_place": "St. Vincent",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/westindies/content/player/315912.html Cricinfo ",
+    "FC": {
+        "matches": "42",
+        "runs": "526",
+        "bat avg": "11.19",
+        "100s/50s": "0/2",
+        "top score": "56",
+        "deliveries": "5,662",
+        "wickets": "112",
+        "bowl avg": "25.27",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/34",
+        "catches/stumpings": "26/\u2013"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "153",
+        "bat avg": "12.75",
+        "100s/50s": "0/0",
+        "deliveries": "1330",
+        "wickets": "42",
+        "bowl avg": "25.40",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/37",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20": {
+        "matches": "21",
+        "runs": "12",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "deliveries": "431",
+        "wickets": "32",
+        "bowl avg": "17.25",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/5",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Windward Islands": "2010/11\u2013present",
+        "Trinidad & Tobago Red Steel": "2013\u2013present",
+        "St Lucia Zouks": "2016\u2013present"
+    },
+    "birth_date": "1988-9-15"
+}

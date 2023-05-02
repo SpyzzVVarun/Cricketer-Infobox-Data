@@ -1,0 +1,30 @@
+{
+    "name": "Herbert Cooper",
+    "country": "England",
+    "birth_place": "Dukinfield, Cheshire, England",
+    "death_date": "1963",
+    "death_place": "Oldham Lancashire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "3 July",
+    "debutyear1": "1905",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "12 May",
+    "lastyear1": "1910",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/28/28706/28706.html CricketArchive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "216",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1905\u20131910"
+    },
+    "birth_date": "1883-12-25"
+}

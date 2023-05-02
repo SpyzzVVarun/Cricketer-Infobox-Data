@@ -1,0 +1,30 @@
+{
+    "name": "Charles Spencer",
+    "country": "England",
+    "fullname": "Charles Richard Spencer",
+    "birth_place": "Llandough, Penarth, Vale of Glamorgan, Wales",
+    "death_date": "1941",
+    "death_place": "Havant, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/20302.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "46",
+        "bat avg": "11.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Glamorgan": "1925",
+        "Oxford University": "1923&ndash;1924"
+    },
+    "birth_date": "1903-6-21"
+}

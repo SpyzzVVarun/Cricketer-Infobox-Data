@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Henry Tansley Luddington",
+    "birth_place": "Littleport, Cambridgeshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ashdon, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/16684.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "76",
+        "bat avg": "6.90",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "1,917",
+        "wickets": "42",
+        "bowl avg": "19.80",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "2/28",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1876&ndash;1877"
+    }
+}

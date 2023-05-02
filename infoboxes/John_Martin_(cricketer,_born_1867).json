@@ -1,0 +1,22 @@
+{
+    "name": "John Martin",
+    "fullname": "John Newton Martin",
+    "birth_place": "St Austell, Cornwall, England",
+    "death_date": "1942",
+    "death_place": "Torquay, Devon, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/17396.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1891",
+        "Devon": "1901\u20131903"
+    },
+    "birth_date": "1867-7-3"
+}

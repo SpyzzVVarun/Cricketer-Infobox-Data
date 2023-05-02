@@ -1,0 +1,30 @@
+{
+    "name": "Neville Markham",
+    "country": "South Africa",
+    "fullname": "Neville Evelyn Markham",
+    "birth_place": "Mbabane, Swaziland Protectorate",
+    "death_date": "2000",
+    "death_place": "Pietermaritzburg, KwaZulu-Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Fish Markham (brother)",
+    "source": "https://www.espncricinfo.com/player/neville-markham-46300 Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "365",
+        "bat avg": "14.60",
+        "100s/50s": "0/2",
+        "top score": "78",
+        "deliveries": "3800",
+        "wickets": "62",
+        "bowl avg": "25.90",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/77",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "Natal": "1951-52 to 1956-57"
+    },
+    "birth_date": "1926-2-1"
+}

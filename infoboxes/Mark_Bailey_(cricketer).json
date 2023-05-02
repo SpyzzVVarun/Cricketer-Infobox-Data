@@ -1,0 +1,16 @@
+{
+    "name": "Mark Bailey",
+    "country": "New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/mark-bailey-36285 CricInfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "medaltemplates": [
+        "Country: {{NZL}}",
+        "Sport: Men's Cricket",
+        "Competition: Commonwealth Games"
+    ]
+}

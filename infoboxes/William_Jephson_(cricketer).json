@@ -1,0 +1,31 @@
+{
+    "name": "William Jephson",
+    "country": "England",
+    "fullname": "William Vincent Jephson",
+    "birth_place": "Ayot St Peter, Hertfordshire, England",
+    "death_date": "1956",
+    "death_place": "Monkton Combe, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Occasional wicket-keeper",
+    "family": "Selwyn Jephson (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/15503.html Cricinfo ",
+    "First-class": {
+        "matches": "62",
+        "runs": "1,791",
+        "bat avg": "17.55",
+        "100s/50s": "1/7",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "13.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/13",
+        "catches/stumpings": "39/1"
+    },
+    "clubs": {
+        "Hampshire": "1903\u20131919",
+        "Marylebone Cricket Club": "1908\u20131920",
+        "Dorset": "1920\u20131925"
+    },
+    "birth_date": "1873-10-6"
+}

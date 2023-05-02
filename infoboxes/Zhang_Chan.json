@@ -1,0 +1,23 @@
+{
+    "name": "Zhang Chan",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "country": "China",
+    "internationalspan": "2018\u2013present",
+    "T20Idebutdate": "3 November",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "South Korea",
+    "source": "https://www.espncricinfo.com/player/zhang-chan-1121354 Espncricinfo",
+    "WT20I": {
+        "matches": "16",
+        "runs": "164",
+        "bat avg": "12.61",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "catches/stumpings": "5/5"
+    },
+    "clubs": {},
+    "birth_date": "1997-11-07"
+}

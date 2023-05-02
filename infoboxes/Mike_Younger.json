@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Michael Edward Younger",
+    "birth_place": "Corbridge, Northumberland, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/23543.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "123",
+        "bat avg": "30.75",
+        "100s/50s": "&ndash;/1",
+        "top score": "57",
+        "deliveries": "204",
+        "wickets": "2",
+        "bowl avg": "75.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/32",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Northumberland": "1974&ndash;1994"
+    },
+    "birth_date": "1951-11-29"
+}

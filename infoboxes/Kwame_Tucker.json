@@ -1,0 +1,29 @@
+{
+    "name": "Kwame Tucker",
+    "batting": "Right-handed",
+    "country": "Bermuda",
+    "odidebutagainst": "Canada",
+    "odidebutdate": "17 May",
+    "odidebutyear": "2006",
+    "lastodidate": "26 February",
+    "lastodiagainst": "Canada",
+    "lastodiyear": "2007",
+    "source": "https://www.espncricinfo.com/player/kwame-tucker-23729 CricInfo",
+    "ODI": {
+        "matches": "12",
+        "runs": "95",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "9/1"
+    },
+    "First-class": {
+        "matches": "3",
+        "runs": "43",
+        "bat avg": "14.33",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {}
+}

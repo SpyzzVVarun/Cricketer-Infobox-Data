@@ -1,0 +1,27 @@
+{
+    "name": "Anwar Rahman",
+    "country": "Malaysia",
+    "fullname": "Muhammad Anwar Rahman",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "T20Idebutdate": "25 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Maldives",
+    "T20Icap": "12",
+    "lastT20Idate": "15 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Bahrain",
+    "source": "http://www.espncricinfo.com/ci/content/player/568447.html ESPNCricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1996-9-23",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

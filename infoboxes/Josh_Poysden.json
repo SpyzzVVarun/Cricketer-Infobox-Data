@@ -1,0 +1,59 @@
+{
+    "name": "Josh Poysden |image = 2 17 Blake & Poysden.jpg |caption = Poysden in 2019",
+    "country": "England",
+    "fullname": "Joshua Edward Poysden",
+    "birth_place": "Shoreham-by-Sea, West Sussex, England",
+    "heightft": "5",
+    "heightinch": "5",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "source": "https://cricketarchive.com/Archive/Players/466/466289/466289.html CricketArchive ",
+    "FC": {
+        "matches": "14",
+        "runs": "96",
+        "bat avg": "9.60",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "1,549",
+        "wickets": "33",
+        "bowl avg": "32.84",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/29",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "32",
+        "runs": "35",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "deliveries": "1,281",
+        "wickets": "30",
+        "bowl avg": "41.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20": {
+        "matches": "33",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "deliveries": "598",
+        "wickets": "26",
+        "bowl avg": "29.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/51",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridge MCCU": "2011\u20132013",
+        "Unicorns": "2013",
+        "Warwickshire( 14 )": "2014\u20132018",
+        "\u2192 Yorkshire  (on loan)": "2018",
+        "Yorkshire( 14 )": "2019\u20132021"
+    },
+    "birth_date": "1991-8-8"
+}

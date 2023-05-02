@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Henry Maister",
+    "birth_place": "Winestead, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Skefflington, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17816.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1832"
+    }
+}

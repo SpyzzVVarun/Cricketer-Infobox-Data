@@ -1,0 +1,30 @@
+{
+    "name": "Ellie Johnston",
+    "female": "true",
+    "fullname": "Ellie Renee Johnston",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "family": "Ruth Johnston (cousin)",
+    "country": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/2440/2440252/2440252.html CricketArchive",
+    "WLA": {
+        "matches": "6",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Queensland": "2020/21\u2013present",
+        "Brisbane Heat": "2021/22\u2013present"
+    },
+    "birth_date": "2003-01-29"
+}

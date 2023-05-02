@@ -1,0 +1,41 @@
+{
+    "name": "Stuart McCullum",
+    "country": "New Zealand",
+    "fullname": "Stuart James McCullum",
+    "birth_place": "Eltham, New Zealand",
+    "batting": "Left-handed",
+    "role": "Occasional wicket-keeper",
+    "family": "Brendon McCullum (son)",
+    "source": "https://cricketarchive.com/Archive/Players/22/22420/22420.html CricketArchive ",
+    "First-class": {
+        "matches": "75",
+        "runs": "3,174",
+        "bat avg": "24.41",
+        "100s/50s": "2/16",
+        "top score": "134",
+        "deliveries": "86",
+        "wickets": "1",
+        "bowl avg": "46.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "69/2"
+    },
+    "List A": {
+        "matches": "41",
+        "runs": "798",
+        "bat avg": "20.46",
+        "100s/50s": "0/3",
+        "deliveries": "9",
+        "wickets": "1",
+        "bowl avg": "8.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/2",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Otago": "1976/77\u20131990/91"
+    },
+    "birth_date": "1956-12-6"
+}

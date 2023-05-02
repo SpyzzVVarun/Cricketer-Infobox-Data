@@ -1,0 +1,43 @@
+{
+    "name": "George Beet",
+    "country": "England",
+    "birth_place": "Somercotes, England",
+    "death_date": "1946",
+    "death_place": "Somercotes, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "George Beet junior Gordon Beet",
+    "umpire": "true",
+    "testsumpired": "1",
+    "umptestdebutyr": "1946",
+    "fcumpired": "290",
+    "umpfcdebutyr": "1926",
+    "umpfclastyr": "1946",
+    "type1": "FC",
+    "debutdate1": "7 July",
+    "debutyear1": "1910",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Kent",
+    "lastdate1": "16 May",
+    "lastyear1": "1925",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Players/27/27795/27795.html CricketArchive ",
+    "First-class": {
+        "matches": "48",
+        "runs": "1277",
+        "bat avg": "16.37",
+        "100s/50s": "0/6",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "62/11"
+    },
+    "clubs": {
+        "Derbyshire": "1910\u20131925"
+    },
+    "birth_date": "1886-4-24"
+}

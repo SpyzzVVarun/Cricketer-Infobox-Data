@@ -1,0 +1,27 @@
+{
+    "name": "Raymond Flood",
+    "country": "England",
+    "fullname": "Raymond David Flood",
+    "birth_place": "Northam, Hampshire, England",
+    "death_date": "2014",
+    "death_place": "Lyndhurst, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/12859.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "885",
+        "bat avg": "23.28",
+        "100s/50s": "1/5",
+        "deliveries": "12",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1956\u20131960"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Ruman Ahmed",
+    "country": "Bangladesh",
+    "birth_place": "Dhaka, Bangladesh",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/444142.html ESPNcricinfo ",
+    "FC": {
+        "matches": "39",
+        "runs": "1,614",
+        "bat avg": "26.03",
+        "100s/50s": "1/10",
+        "top score": "106",
+        "catches/stumpings": "33/1"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "344",
+        "bat avg": "14.95",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "9.5",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1991-10-5"
+}

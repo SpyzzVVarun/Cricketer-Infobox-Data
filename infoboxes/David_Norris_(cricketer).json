@@ -1,0 +1,27 @@
+{
+    "name": "David Norris",
+    "country": "England",
+    "fullname": "David William Worsley Norris",
+    "birth_place": "Hampstead, Middlesex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/england/content/player/18159.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "307",
+        "bat avg": "9.90",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "21/3"
+    },
+    "clubs": {
+        "Cambridge University": "1967\u20131968"
+    },
+    "birth_date": "1946-5-1"
+}

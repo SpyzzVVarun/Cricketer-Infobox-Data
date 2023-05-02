@@ -1,0 +1,39 @@
+{
+    "name": "Muqudos Khan",
+    "female": "true",
+    "fullname": "Shazia Muqudos Khan",
+    "birth_place": "Gujranwala, Pakistan",
+    "role": "Batter",
+    "internationalspan": "1998",
+    "country": "Pakistan",
+    "onetest": "true",
+    "testdebutdate": "17 April",
+    "testdebutyear": "1998",
+    "testdebutagainst": "Sri Lanka",
+    "testcap": "6",
+    "odidebutdate": "11 April",
+    "odidebutyear": "1998",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "22",
+    "lastodidate": "15 April",
+    "lastodiyear": "1998",
+    "lastodiagainst": "Sri Lanka",
+    "source": "https://cricketarchive.com/Archive/Players/17/17348/17348.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "3",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1981-1-4"
+}

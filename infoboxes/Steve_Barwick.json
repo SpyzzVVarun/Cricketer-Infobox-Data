@@ -1,0 +1,44 @@
+{
+    "name": "Steve Barwick",
+    "country": "England",
+    "fullname": "Stephen Royston Barwick",
+    "nickname": "Baz",
+    "birth_place": "Neath, Glamorgan, Wales",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9027.html Cricinfo ",
+    "First-class": {
+        "matches": "212",
+        "runs": "873",
+        "bat avg": "6.76",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "36,576",
+        "wickets": "456",
+        "bowl avg": "35.49",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "8/42",
+        "catches/stumpings": "47/\u2013"
+    },
+    "List A": {
+        "matches": "276",
+        "runs": "360",
+        "bat avg": "8.18",
+        "100s/50s": "0/0",
+        "deliveries": "12,593",
+        "wickets": "325",
+        "bowl avg": "26.36",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/28",
+        "catches/stumpings": "39/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1981\u20131996",
+        "Wales Minor Counties": "1997\u20132001"
+    },
+    "birth_date": "1960-9-6"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Bev Brentnall",
+    "country": "New Zealand",
+    "fullname": "Beverley Anne Brentnall",
+    "birth_place": "Devonport, Auckland, New Zealand",
+    "female": "true",
+    "batting": "Right-handed",
+    "role": "Wicket keeper",
+    "internationalspan": "1966\u20131973",
+    "testdebutdate": "18 June",
+    "testdebutyear": "1966",
+    "testdebutagainst": "England",
+    "testcap": "44",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1972",
+    "lasttestagainst": "South Africa",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Trinidad and Tobago",
+    "odicap": "2",
+    "lastodidate": "21 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "Young England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17238/17238.html CricketArchive ",
+    "WTest": {
+        "matches": "10",
+        "runs": "301",
+        "bat avg": "21.50",
+        "100s/50s": "0/1",
+        "catches/stumpings": "16/12"
+    },
+    "WODI": {
+        "matches": "5",
+        "runs": "40",
+        "bat avg": "13.33",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "3/3"
+    },
+    "WFC": {
+        "matches": "55",
+        "runs": "1,167",
+        "bat avg": "20.12",
+        "100s/50s": "0/4",
+        "catches/stumpings": "56/92"
+    },
+    "clubs": {
+        "Middlesex": "1964",
+        "North Shore": "1965/66\u20131972/73",
+        "Southern Transvaal": "1973/74"
+    },
+    "birth_date": "1936-2-21"
+}

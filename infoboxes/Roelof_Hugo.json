@@ -1,0 +1,28 @@
+{
+    "name": "Roelof Hugo",
+    "fullname": "Roelof Petrus Hugo",
+    "birth_place": "Johannesburg, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "https://www.espncricinfo.com/player/roelof-hugo-261404 Cricinfo ",
+    "FC": {
+        "matches": "38",
+        "runs": "1312",
+        "bat avg": "21.16",
+        "100s/50s": "0/4",
+        "top score": "91",
+        "catches/stumpings": "98/14"
+    },
+    "LA": {
+        "matches": "41",
+        "runs": "777",
+        "bat avg": "25.90",
+        "100s/50s": "1/4",
+        "catches/stumpings": "31/13"
+    },
+    "clubs": {
+        "Mpumalanga": "2006/07",
+        "South Western Districts": "2007/08\u20132010/11"
+    },
+    "birth_date": "1983-7-1"
+}

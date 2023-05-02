@@ -1,0 +1,42 @@
+{
+    "name": "Jim Watts",
+    "country": "England",
+    "fullname": "Patrick James Watts",
+    "birth_place": "Henlow, Bedfordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/33/33685/33685.html CricketArchive ",
+    "First-class": {
+        "matches": "375",
+        "runs": "14,449",
+        "bat avg": "27.94",
+        "100s/50s": "10/75",
+        "top score": "145",
+        "deliveries": "21,946",
+        "wickets": "333",
+        "bowl avg": "26.15",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/18",
+        "catches/stumpings": "279/\u2013"
+    },
+    "List A": {
+        "matches": "151",
+        "runs": "1,845",
+        "bat avg": "16.47",
+        "100s/50s": "0/3",
+        "top score": "83",
+        "deliveries": "4,705",
+        "wickets": "117",
+        "bowl avg": "26.33",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/24",
+        "catches/stumpings": "59/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "1959\u20131980"
+    },
+    "birth_date": "1940-6-16"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Rista Stoop",
+    "female": "true",
+    "fullname": "Rista Stoop",
+    "birth_place": "Pietermaritzburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "internationalspan": "1997",
+    "country": "South Africa",
+    "odidebutdate": "5 August",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Ireland",
+    "odicap": "10",
+    "lastodidate": "20 August",
+    "lastodiyear": "1997",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/5/5619/5619.html CricketArchive ",
+    "WODI": {
+        "matches": "4",
+        "runs": "70",
+        "bat avg": "23.33",
+        "100s/50s": "0/0",
+        "deliveries": "96",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "5",
+        "runs": "78",
+        "bat avg": "26.00",
+        "100s/50s": "0/0",
+        "deliveries": "156",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "KwaZulu-Natal": "1997/98"
+    },
+    "birth_date": "1970-10-7"
+}

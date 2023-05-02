@@ -1,0 +1,39 @@
+{
+    "name": "Neisha Pratt",
+    "female": "true",
+    "country": "Hong Kong",
+    "country2": "Singapore",
+    "T20Idebutdate": "9 August",
+    "T20Idebutyear": "2018",
+    "T20Idebutfor": "Singapore",
+    "T20Icap2": "5",
+    "T20Idebutagainst": "Malaysia",
+    "lastT20Idate": "12 August",
+    "lastT20Iyear": "2018",
+    "lastT20Iagainst": "Malaysia",
+    "lastT20Ifor": "Singapore",
+    "fullname": "Neisha Anne Pratt",
+    "birth_place": "Te Awamutu, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/260139.html Cricinfo  ",
+    "WT20I": {
+        "matches": "5",
+        "runs": "91",
+        "bat avg": "18.20",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Northern Districts Spirit": "1999/00 \u2013 2000/01"
+    },
+    "birth_date": "1973-3-21"
+}

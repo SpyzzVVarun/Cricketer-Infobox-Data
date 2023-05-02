@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Paul Anthony Rawden",
+    "birth_place": "Stamford, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19514.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "21",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Lincolnshire": "1992&ndash;1997"
+    },
+    "birth_date": "1973-7-15"
+}

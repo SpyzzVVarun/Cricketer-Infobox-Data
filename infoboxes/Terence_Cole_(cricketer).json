@@ -1,0 +1,32 @@
+{
+    "name": "Terence Cole",
+    "fullname": "Terence George Owen Cole",
+    "birth_place": "Llanrhaiadr, Denbighshire, Wales",
+    "death_date": "1944",
+    "death_place": "Stoke Court, near Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/3/3489/3489.html CricketArchive ",
+    "FC": {
+        "matches": "20",
+        "runs": "499",
+        "bat avg": "15.59",
+        "100s/50s": "0/3",
+        "top score": "68",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "0/17",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1898",
+        "Marylebone Cricket Club": "1899",
+        "Lancashire": "1904",
+        "Derbyshire": "1913",
+        "Somerset": "1922"
+    },
+    "birth_date": "1877-11-14"
+}

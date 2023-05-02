@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "John Fiennes Twisleton Wykeham Fiennes",
+    "birth_place": "Adlestrop, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Broughton, Oxfordshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13271.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "4.71",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1850&ndash;1852"
+    }
+}

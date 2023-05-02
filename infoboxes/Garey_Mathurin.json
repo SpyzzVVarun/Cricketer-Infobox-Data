@@ -1,0 +1,53 @@
+{
+    "name": "Garey Mathurin",
+    "country": "West Indies",
+    "fullname": "Garey Earl Mathurin",
+    "birth_place": "Mon Repos, Saint Lucia",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/117/117566/117566.html CricketArchive ",
+    "T20I": {
+        "matches": "3",
+        "runs": "4",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "deliveries": "60",
+        "wickets": "4",
+        "bowl avg": "16.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/9",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "16",
+        "runs": "306",
+        "bat avg": "11.76",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "3,055",
+        "wickets": "58",
+        "bowl avg": "21.12",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/72",
+        "catches/stumpings": "12/\u2013"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "73",
+        "bat avg": "18.25",
+        "100s/50s": "0/0",
+        "deliveries": "657",
+        "wickets": "12",
+        "bowl avg": "35.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/38",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Windward Islands": "2007\u2013present"
+    },
+    "birth_date": "1983-9-22"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "William Bunce",
+    "country": "England",
+    "fullname": "William Newman Bunce",
+    "birth_place": "Pill, Somerset, England",
+    "death_date": "1981",
+    "death_place": "Pill, Somerset, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "16 May",
+    "debutyear1": "1936",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "2 July",
+    "lastyear1": "1937",
+    "lastfor1": "Somerset",
+    "lastagainst1": "New Zealanders",
+    "source": "https://cricketarchive.com/Archive/Players/3/3464/3464.html CricketArchive ",
+    "First-class": {
+        "matches": "14",
+        "runs": "227",
+        "bat avg": "12.61",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "deliveries": "258",
+        "wickets": "4",
+        "bowl avg": "46.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/81",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1936\u201337"
+    },
+    "birth_date": "1911-4-17"
+}

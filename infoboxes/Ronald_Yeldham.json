@@ -1,0 +1,37 @@
+{
+    "name": "Ronald Yeldham",
+    "country": "India",
+    "fullname": "Ronald Ernest Stephen Yeldham",
+    "birth_place": "Ahmednagar, Maharashtra, India",
+    "death_date": "1983",
+    "death_place": "Bodmin, Cornwall",
+    "type1": "First-class",
+    "debutdate1": "6 March",
+    "debutyear1": "1925",
+    "debutfor1": "Europeans",
+    "debutagainst1": "Muslims",
+    "lastdate1": "5 December",
+    "lastyear1": "1927",
+    "lastfor1": "Europeans",
+    "lastagainst1": "Muslims",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/34/34362/34362.html ",
+    "First-class": {
+        "matches": "6",
+        "runs": "148",
+        "bat avg": "21.14",
+        "100s/50s": "0/0",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/30",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Europeans (India)": "1925-1927",
+        "Northern Punjab": "1926",
+        "MCC": "1926"
+    },
+    "birth_date": "1902-8-18"
+}

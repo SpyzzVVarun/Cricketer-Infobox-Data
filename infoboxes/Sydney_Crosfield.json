@@ -1,0 +1,29 @@
+{
+    "name": "Sydney Crosfield",
+    "country": "England",
+    "fullname": "Sydney Morland Crosfield",
+    "birth_place": "Warrington, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Las Palmas, Canary Islands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "https://www.espncricinfo.com/england/content/player/11445.html Cricinfo",
+    "First-class": {
+        "matches": "96",
+        "runs": "2027",
+        "bat avg": "14.90",
+        "100s/50s": "0/7",
+        "top score": "82 not out",
+        "deliveries": "339",
+        "wickets": "3",
+        "bowl avg": "50.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "49/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1883 to 1899"
+    },
+    "birth_date": "1861-11-12"
+}

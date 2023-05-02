@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Frederick Campbell",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1926",
+    "death_place": "Sydenham Hill, Kent, England",
+    "family": "Ian Campbell (son)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/10989.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "52",
+        "bat avg": "8.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "384",
+        "wickets": "13",
+        "bowl avg": "8.92",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/37",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1868\u20131869"
+    }
+}

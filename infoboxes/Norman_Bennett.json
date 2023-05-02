@@ -1,0 +1,29 @@
+{
+    "name": "Norman Bennett",
+    "country": "England",
+    "fullname": "Norman Osborn Bennett",
+    "nickname": "Nobby",
+    "birth_place": "Putney, London, England",
+    "death_date": "2005",
+    "death_place": "Dinckley, Lancashire, England",
+    "batting": "Right-handed",
+    "source": "http://content-uk.cricinfo.com/england/content/player/9694.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Worcestershire": "1946"
+    },
+    "birth_date": "1922-9-21"
+}

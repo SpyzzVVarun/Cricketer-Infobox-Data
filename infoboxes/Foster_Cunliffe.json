@@ -1,0 +1,29 @@
+{
+    "name": "Foster Cunliffe",
+    "country": "England",
+    "birth_place": "Belgravia, London, England",
+    "death_date": "10 July 1916 (aged 40)",
+    "death_place": "Ovillers-la-Boisselle, France",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11482.html CricInfo ",
+    "First-class": {
+        "matches": "56",
+        "runs": "1,053",
+        "bat avg": "15.26",
+        "100s/50s": "0/0",
+        "top score": "70",
+        "deliveries": "11,304",
+        "wickets": "235",
+        "bowl avg": "21.78",
+        "fivefor": "15",
+        "tenfor": "10",
+        "best bowling": "8/26",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Oxford University Cricket Club": "1895\u20131898",
+        "Middlesex County Cricket Club": "1897\u20131903",
+        "MCC": "1899\u20131903"
+    }
+}

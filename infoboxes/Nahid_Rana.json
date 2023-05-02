@@ -1,0 +1,28 @@
+{
+    "name": "Nahid Rana",
+    "birth_place": "Chapai Nawabganj",
+    "heightm": "1.88",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/cricketers/nahid-rana-1210511 ESPNcricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "11",
+        "bat avg": "1.37",
+        "100s/50s": "0/0",
+        "deliveries": "1477",
+        "wickets": "46",
+        "bowl avg": "19.76",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/62",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Rajshahi Division": "2021\u2013present",
+        "Khulna Tigers": "2023",
+        "Shinepukur Cricket Club": "2023\u2013present"
+    },
+    "birth_date": "2002-10-2"
+}

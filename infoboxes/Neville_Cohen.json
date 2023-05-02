@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Aaron Neville Cohen",
+    "birth_place": "Calcutta, Bengal, British India",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/11213.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "27",
+        "bat avg": "27.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "453",
+        "wickets": "4",
+        "bowl avg": "67.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/79",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1934"
+    }
+}

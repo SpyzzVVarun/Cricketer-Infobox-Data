@@ -1,0 +1,35 @@
+{
+    "name": "Marcel Schewe",
+    "country": "Netherlands",
+    "fullname": "Marcelis Michael Catharinus Schewe",
+    "birth_place": "Wateringen, Netherlands",
+    "internationalspan": "1996\u20131996",
+    "odidebutdate": "17 February",
+    "odidebutyear": "1996",
+    "odidebutagainst": "New Zealand",
+    "odicap": "9",
+    "lastodidate": "5 May",
+    "lastodiyear": "1996",
+    "lastodiagainst": "South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/netherlands/content/player/24888.html Cricinfo ",
+    "ODI": {
+        "matches": "5",
+        "runs": "49",
+        "bat avg": "16.33",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "2/1"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "80",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {},
+    "birth_date": "1969-3-10"
+}

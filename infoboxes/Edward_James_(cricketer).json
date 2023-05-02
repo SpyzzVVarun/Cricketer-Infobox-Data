@@ -1,0 +1,30 @@
+{
+    "name": "Edward James",
+    "country": "England",
+    "fullname": "Edward Hugh James",
+    "birth_place": "Briton Ferry, Glamorgan, Wales",
+    "death_date": "1975",
+    "death_place": "Briton Ferry, Glamorgan, Wales",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "David James (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/15471.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "2.16",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "353",
+        "wickets": "7",
+        "bowl avg": "29.85",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/79",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1920 and 1922"
+    },
+    "birth_date": "1896-4-14"
+}

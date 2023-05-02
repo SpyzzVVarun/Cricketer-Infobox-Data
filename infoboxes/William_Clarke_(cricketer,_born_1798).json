@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "birth_place": "Nottingham, England",
+    "death_date": "25 August 1856 (aged 57)",
+    "death_place": "Wandsworth, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/11160.html CricInfo  ",
+    "First-class": {
+        "matches": "143",
+        "runs": "2,133",
+        "bat avg": "10.35",
+        "100s/50s": "0/7",
+        "top score": "75",
+        "deliveries": "14,027+",
+        "wickets": "795",
+        "bowl avg": "9.99",
+        "fivefor": "82",
+        "tenfor": "25",
+        "best bowling": "9/29",
+        "catches/stumpings": "55/0"
+    },
+    "clubs": {}
+}

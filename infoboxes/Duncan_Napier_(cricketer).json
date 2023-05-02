@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Duncan Robertson Napier",
+    "birth_place": "Croydon, Surrey, England",
+    "death_date": "1898",
+    "death_place": "Kensington, London, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/18059.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "50",
+        "bat avg": "16.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1892"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Edward Compton",
+    "country": "England",
+    "fullname": "Edward Denison Compton",
+    "birth_place": "Frome, Somerset, England",
+    "death_date": "1940",
+    "death_place": "Rye, East Sussex, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "type1": "First-class",
+    "debutdate1": "14 June",
+    "debutyear1": "1894",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "26 July",
+    "lastyear1": "1907",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3492/3492.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "51",
+        "bat avg": "7.28",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Somerset": "1894\u20131907",
+        "Oxford University": "1896"
+    },
+    "birth_date": "1872-4-11"
+}

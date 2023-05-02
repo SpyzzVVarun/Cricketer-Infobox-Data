@@ -1,0 +1,28 @@
+{
+    "name": "Arthur Duthie",
+    "country": "England",
+    "fullname": "Arthur Murray Duthie",
+    "birth_place": "Saharanpur,, North-Western Provinces,, British India",
+    "death_date": "1973",
+    "death_place": "Chideock, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/arthur-duthie-11966 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "225",
+        "wickets": "5",
+        "bowl avg": "28.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/85",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1911"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Paul Swannell",
+    "country": "England",
+    "fullname": "Paul Aaron Swannell",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/20427.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "22",
+        "bat avg": "7.33",
+        "100s/50s": "\u2013/-",
+        "top score": "12",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "110.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/28",
+        "catches/stumpings": "\u2013/-"
+    },
+    "clubs": {
+        "Cambridgeshire": "2003&ndash;2006",
+        "Huntingdonshire": "1999&ndash;2002"
+    },
+    "birth_date": "1980-7-6"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Philip Harrison",
+    "fullname": "William Philip Harrison",
+    "birth_place": "Finchley, Middlesex",
+    "death_date": "df=yes",
+    "death_place": "Harrogate, Yorkshire",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "type1": "FC",
+    "debutdate1": "16 June",
+    "debutyear1": "1904",
+    "debutfor1": "Kent",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "29 June",
+    "lastyear1": "1911",
+    "lastfor1": "Middlesex",
+    "lastagainst1": "Gloucestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/14586.html CricInfo",
+    "First-class": {
+        "matches": "56",
+        "runs": "1,896",
+        "bat avg": "23.70",
+        "100s/50s": "2/5",
+        "top score": "156",
+        "deliveries": "201",
+        "wickets": "7",
+        "bowl avg": "28.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/61",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Kent": "1904\u20131905",
+        "Cambridge University": "1905\u20131907",
+        "Middlesex": "1906\u20131911"
+    },
+    "birth_date": "1885-11-13"
+}

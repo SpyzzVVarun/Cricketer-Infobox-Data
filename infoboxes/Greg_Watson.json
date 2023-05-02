@@ -1,0 +1,35 @@
+{
+    "name": "Greg Watson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-uk.cricinfo.com/australia/content/player/8177.html Cricinfo",
+    "First-class": {
+        "matches": "45",
+        "runs": "552",
+        "bat avg": "12.83",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "7,762",
+        "wickets": "102",
+        "bowl avg": "37.56",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/45",
+        "catches/stumpings": "12/\u2013"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "19",
+        "bat avg": "4.75",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "465",
+        "wickets": "21",
+        "bowl avg": "11.38",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/22",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,39 @@
+{
+    "country": "England",
+    "fullname": "John Mark Knight",
+    "birth_place": "Oundle, Northamptonshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/16083.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "318",
+        "bat avg": "9.93",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,824",
+        "wickets": "32",
+        "bowl avg": "44.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/69",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "77",
+        "bat avg": "19.25",
+        "100s/50s": "\u2013/1",
+        "deliveries": "231",
+        "wickets": "3",
+        "bowl avg": "77.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/13",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1977&ndash;1982",
+        "Oxford University": "1978&ndash;1981"
+    },
+    "birth_date": "1958-3-16"
+}

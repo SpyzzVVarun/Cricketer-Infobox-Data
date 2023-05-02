@@ -1,0 +1,45 @@
+{
+    "name": "Elquemedo Willett",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "West Indies",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "9 March",
+    "testdebutyear": "1973",
+    "lasttestdate": "27 December",
+    "lasttestagainst": "India",
+    "lasttestyear": "1974",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/53227.html CricInfo",
+    "Test": {
+        "matches": "5",
+        "runs": "74",
+        "bat avg": "14.80",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "1,326",
+        "wickets": "11",
+        "bowl avg": "43.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "98",
+        "runs": "1,100",
+        "bat avg": "12.94",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "deliveries": "21,515",
+        "wickets": "286",
+        "bowl avg": "28.43",
+        "fivefor": "10",
+        "tenfor": "3",
+        "best bowling": "8/73",
+        "catches/stumpings": "66/\u2013"
+    },
+    "clubs": {
+        "Leeward Islands": "1970/71\u20131988/89"
+    },
+    "birth_date": "1953-5-1"
+}

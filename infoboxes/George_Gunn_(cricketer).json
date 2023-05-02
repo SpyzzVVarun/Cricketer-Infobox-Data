@@ -1,0 +1,47 @@
+{
+    "name": "George Gunn",
+    "birth_place": "Hucknall, Nottinghamshire, England",
+    "death_date": "29 June 1958 (aged 79)",
+    "death_place": "Cuckfield, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "13 December",
+    "testdebutyear": "1907",
+    "lasttestdate": "3 April",
+    "lasttestyear": "1930",
+    "lasttestagainst": "West Indies",
+    "family": "John Gunn (brother)",
+    "source": "https://www.espncricinfo.com/england/content/player/13489.html CricInfo",
+    "Test": {
+        "matches": "15",
+        "runs": "1,120",
+        "bat avg": "40.00",
+        "100s/50s": "2/7",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "First-class": {
+        "matches": "643",
+        "runs": "35,208",
+        "bat avg": "35.96",
+        "100s/50s": "62/194",
+        "top score": "220",
+        "deliveries": "4,223",
+        "wickets": "66",
+        "bowl avg": "35.68",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/50",
+        "catches/stumpings": "477/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1902\u20131932"
+    }
+}

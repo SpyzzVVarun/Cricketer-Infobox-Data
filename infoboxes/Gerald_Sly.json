@@ -1,0 +1,27 @@
+{
+    "name": "Gerald Sly",
+    "country": "England",
+    "fullname": "Gerald Brian Sly",
+    "birth_place": "Ealing, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20813.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "99",
+        "wickets": "1",
+        "bowl avg": "29.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/24",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1953"
+    },
+    "birth_date": "1932-10-21"
+}

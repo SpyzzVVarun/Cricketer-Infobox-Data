@@ -1,0 +1,48 @@
+{
+    "name": "Barbara Wood",
+    "female": "true",
+    "fullname": "Ruth Barbara Wood",
+    "death_date": "1998",
+    "death_place": "Yorkshire, England",
+    "role": "Bowler",
+    "internationalspan": "1949",
+    "country": "England",
+    "onetest": "true",
+    "testdebutdate": "28 January",
+    "testdebutyear": "1949",
+    "testdebutagainst": "Australia",
+    "testcap": "29",
+    "source": "https://cricketarchive.com/Players/17/17110/17110.html CricketArchive",
+    "WTest": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "53.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/53",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "8",
+        "runs": "6",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "864",
+        "wickets": "14",
+        "bowl avg": "20.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1937\u20131949"
+    },
+    "birth_date": "1917-3-19"
+}

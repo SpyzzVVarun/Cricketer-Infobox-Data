@@ -1,0 +1,29 @@
+{
+    "name": "Vedam Hariharan",
+    "country": "India",
+    "nickname": "Hari",
+    "birth_place": "Cochin, Kerala, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/29405.html ESPNcricinfo ",
+    "FC": {
+        "matches": "42",
+        "runs": "926",
+        "bat avg": "16.53",
+        "100s/50s": "1/1",
+        "top score": "103",
+        "deliveries": "5,982",
+        "wickets": "114",
+        "bowl avg": "32.06",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/60",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Karnataka": "1974/75",
+        "Kerala": "1980/81\u20131989/90"
+    },
+    "birth_date": "1954-6-5"
+}

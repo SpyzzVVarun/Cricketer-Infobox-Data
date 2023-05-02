@@ -1,0 +1,38 @@
+{
+    "name": "Aaron Ayre",
+    "birth_place": "Canberra, Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/333639.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "90",
+        "bat avg": "22.50",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "3/1"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Victoria( 4 )": "2015-present",
+        "Melbourne Renegades": "2016"
+    },
+    "birth_date": "1992-8-6"
+}

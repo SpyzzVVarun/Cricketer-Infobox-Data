@@ -1,0 +1,37 @@
+{
+    "name": "James Carroll",
+    "fullname": "James Thomas Carroll",
+    "birth_place": "Gravesend, Kent",
+    "death_date": "1926",
+    "death_place": "Gravesend, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "15 June",
+    "debutyear1": "1865",
+    "debutfor1": "Kent",
+    "debutagainst1": "Sussex",
+    "lastdate1": "12 July",
+    "lastyear1": "1869",
+    "lastfor1": "Kent",
+    "lastagainst1": "Sussex",
+    "source": "http://www.espncricinfo.com/ci/content/player/11030.html Cricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "610",
+        "bat avg": "12.20",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "519",
+        "wickets": "8",
+        "bowl avg": "32.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/21",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Kent": "1865\u20131869"
+    },
+    "birth_date": "1843-3-18"
+}

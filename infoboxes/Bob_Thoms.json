@@ -1,0 +1,22 @@
+{
+    "name": "Bob Thoms",
+    "birth_name": "Robert Arthur Thoms",
+    "birth_place": "Marylebone, London, United Kingdom",
+    "death_date": "1903",
+    "death_place": "Regent's Park, London, United Kingdom",
+    "nationality": "English",
+    "occupation": "Cricketer, cricket umpire",
+    "years_active": "1850\u20131851, 1863\u20131900",
+    "spouse": "Elizabeth Constance Farley",
+    "children": "4",
+    "module": "Infobox cricketer",
+    "child": "yes",
+    "umpire": "true",
+    "testsumpired": "2",
+    "umptestdebutyr": "1880",
+    "umptestlastyr": "1882  ",
+    "clubs": {
+        "Marylebone Cricket Club": "1850",
+        "All-England Eleven": "1851"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Ian Payne",
+    "country": "England",
+    "fullname": "Ian Roger Payne",
+    "birth_place": "Kennington, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18472.html Cricinfo ",
+    "First-class": {
+        "matches": "47",
+        "runs": "550",
+        "bat avg": "12.22",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "3,839",
+        "wickets": "45",
+        "bowl avg": "42.60",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/13",
+        "catches/stumpings": "41/\u2013"
+    },
+    "List A": {
+        "matches": "82",
+        "runs": "605",
+        "bat avg": "16.80",
+        "100s/50s": "0/2",
+        "deliveries": "2,937",
+        "wickets": "69",
+        "bowl avg": "32.14",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/21",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1977\u20131984",
+        "Gloucestershire": "1985\u20131986",
+        "Shropshire": "1994\u20131997"
+    },
+    "birth_date": "1958-5-9"
+}

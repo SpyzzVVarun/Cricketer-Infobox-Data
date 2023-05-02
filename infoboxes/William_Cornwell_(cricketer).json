@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "William Lofts Cornwell",
+    "birth_place": "Bottisham, Cambridgeshire, England",
+    "death_date": "1915",
+    "death_place": "Bottisham, Cambridgeshire, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/11682.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "22",
+        "bat avg": "4.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {
+        "Cambridgeshire": "1864&ndash;1868"
+    }
+}

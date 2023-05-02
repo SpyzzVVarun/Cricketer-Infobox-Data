@@ -1,0 +1,53 @@
+{
+    "name": "Percy McDonnell",
+    "country": "Australia",
+    "fullname": "Percy Stanislaus McDonnell",
+    "birth_place": "Kensington, London, England",
+    "death_date": "1896",
+    "death_place": "South Brisbane, Queensland, Australia",
+    "heightm": "1.85",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "testdebutdate": "6 September",
+    "testdebutyear": "1880",
+    "testdebutagainst": "England",
+    "testcap": "21",
+    "lasttestdate": "30 August",
+    "lasttestyear": "1888",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/46/46.html CricketArchive ",
+    "Test": {
+        "matches": "19",
+        "runs": "950",
+        "bat avg": "28.78",
+        "100s/50s": "3/2",
+        "top score": "147",
+        "deliveries": "52",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "First-class": {
+        "matches": "166",
+        "runs": "6,470",
+        "bat avg": "23.52",
+        "100s/50s": "7/24",
+        "top score": "239",
+        "deliveries": "400",
+        "wickets": "2",
+        "bowl avg": "123.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "99/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1877/78\u20131884/85",
+        "New South Wales": "1885/86\u20131891/92",
+        "Queensland": "1894/95\u20131895/96"
+    },
+    "birth_date": "1858-11-13"
+}

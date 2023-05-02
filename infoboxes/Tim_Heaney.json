@@ -1,0 +1,28 @@
+{
+    "name": "Tim Heaney",
+    "fullname": "John Llewellyn Heaney",
+    "birth_place": "Mossel Bay, Cape Province, South Africa",
+    "death_date": "1996",
+    "death_place": "Humansdorp, Eastern Cape, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/45421.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "277",
+        "bat avg": "11.08",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "8060",
+        "wickets": "100",
+        "bowl avg": "21.83",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/45",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Transvaal": "1934-35 to 1950-51"
+    },
+    "birth_date": "1914-8-14"
+}

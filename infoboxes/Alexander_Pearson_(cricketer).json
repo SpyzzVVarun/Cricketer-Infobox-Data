@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Gillespie Pearson",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Locarno, Ticino, Switzerland",
+    "family": "Robert Pearson (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18849.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "163",
+        "bat avg": "8.15",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "781",
+        "wickets": "16",
+        "bowl avg": "18.06",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/10",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1876&ndash;1878"
+    }
+}

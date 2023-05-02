@@ -1,0 +1,62 @@
+{
+    "name": "Geoff Millman",
+    "fullname": "Geoffrey Millman",
+    "birth_place": "Bedford, England",
+    "death_date": "2005",
+    "death_place": "Bedford, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Wicket-keeper",
+    "country": "England",
+    "testdebutagainst": "India",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1961",
+    "lasttestdate": "21 June",
+    "lasttestagainst": "Pakistan",
+    "lasttestyear": "1962",
+    "source": "http://www.espncricinfo.com/england/content/player/17032.html CricInfo",
+    "Test": {
+        "matches": "6",
+        "runs": "60",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "13/2"
+    },
+    "FC": {
+        "matches": "282",
+        "runs": "7,771",
+        "bat avg": "18.86",
+        "100s/50s": "3/25",
+        "deliveries": "39",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "558/97"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "150",
+        "bat avg": "30.00",
+        "100s/50s": "0/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/2"
+    },
+    "clubs": {
+        "Bedfordshire": "1966\u20131968",
+        "Nottinghamshire": "1957\u20131965"
+    },
+    "birth_date": "1934-10-2"
+}

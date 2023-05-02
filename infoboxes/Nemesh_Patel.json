@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Nemesh Girishchandra Patel",
+    "birth_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/18710.html Cricinfo ",
+    "LA": {
+        "matches": "7",
+        "runs": "139",
+        "bat avg": "23.16",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "234",
+        "wickets": "4",
+        "bowl avg": "48.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/30",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Leicestershire Cricket Board": "1999-2002"
+    },
+    "birth_date": "1976-10-8"
+}

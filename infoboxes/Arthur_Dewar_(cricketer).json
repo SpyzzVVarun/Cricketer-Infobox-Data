@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Arthur Dewar",
+    "birth_place": "Perth, Perthshire, Scotland",
+    "death_date": "2020",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/arthur-dewar-25185 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "15",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "713",
+        "wickets": "11",
+        "bowl avg": "33.27",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "7/71",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1960&ndash;1962"
+    }
+}

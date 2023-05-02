@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Alfred Stuart Dallas",
+    "birth_place": "Kasauli, Punjab, British India",
+    "death_date": "1921",
+    "death_place": "Secunderabad, Hyderabad,, British India",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/28141.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "97",
+        "bat avg": "48.50",
+        "100s/50s": "\u2013/1",
+        "top score": "52",
+        "deliveries": "72",
+        "wickets": "3",
+        "bowl avg": "32.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/96",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1920/21"
+    }
+}

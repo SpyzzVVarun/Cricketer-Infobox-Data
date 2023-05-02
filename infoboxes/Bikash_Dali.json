@@ -1,0 +1,33 @@
+{
+    "name": "Bikash Dali",
+    "country": "Nepal",
+    "fullname": "Bikash Lal Dali",
+    "birth_place": "Nepal",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "23 April",
+    "debutyear1": "2004",
+    "debutfor1": "Nepal",
+    "debutagainst1": "Malaysia",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/63/63872/First-Class_Matches.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Nepal": "2004"
+    },
+    "birth_date": "1980-11-9"
+}

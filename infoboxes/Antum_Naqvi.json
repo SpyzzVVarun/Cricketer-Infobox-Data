@@ -1,0 +1,39 @@
+{
+    "name": "Antum Naqvi",
+    "fullname": "Antum Amir Naqvi",
+    "birth_place": "Brussels, Belgium",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/player/antum-naqvi-1352601 Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "379",
+        "bat avg": "94.75",
+        "100s/50s": "3/0",
+        "deliveries": "912",
+        "wickets": "18",
+        "bowl avg": "24.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "64",
+        "bat avg": "64.00",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "66",
+        "wickets": "4",
+        "bowl avg": "17.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Mid West Rhinos": "2022/23"
+    },
+    "birth_date": "1999-4-5"
+}

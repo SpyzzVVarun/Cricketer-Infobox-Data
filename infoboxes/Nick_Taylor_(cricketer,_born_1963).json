@@ -1,0 +1,42 @@
+{
+    "name": "Nick Taylor",
+    "fullname": "Nicholas Simon Taylor",
+    "birth_place": "Holmfirth, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/3/3847/3847.html CricketArchive ",
+    "FC": {
+        "matches": "34",
+        "runs": "180",
+        "bat avg": "8.18",
+        "100s/50s": "0/0",
+        "deliveries": "4600",
+        "wickets": "79",
+        "bowl avg": "35.12",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/44",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "LA": {
+        "matches": "25",
+        "runs": "53",
+        "bat avg": "6.62",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "1083",
+        "wickets": "32",
+        "bowl avg": "25.81",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "5/51",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Yorkshire": "1982\u20131983",
+        "Surrey": "1984\u20131985",
+        "Somerset": "1986",
+        "Norfolk": "1990"
+    },
+    "birth_date": "1963-6-2"
+}

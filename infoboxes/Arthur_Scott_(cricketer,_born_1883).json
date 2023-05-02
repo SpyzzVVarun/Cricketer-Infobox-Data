@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Arthur Avison Scott",
+    "birth_place": "Bootle, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Attleborough, Norfolk, England",
+    "family": "Avison Scott (father), George Scott (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/20618.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "48.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/46",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

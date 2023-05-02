@@ -1,0 +1,20 @@
+{
+    "country": "South Africa",
+    "fullname": "Richard Angwin Rail",
+    "birth_place": "Waverley, New South Wales, Australia",
+    "death_date": "df=yes",
+    "death_place": "Poelkappelle, West Flanders, Belgium",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/47020.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1913/14"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Paul Henry Foley",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=yes",
+    "death_place": "Pimlico, London, England",
+    "heightft": "6",
+    "heightinch": "3",
+    "family": "Henry Foley (son), Cyril Foley (cousin)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/13109.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1891",
+        "Worcestershire": "1895&ndash;1896"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Matthew Cindy Kay",
+    "birth_place": "London Borough of Enfield",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/16117.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cambridge UCCE": "2004",
+        "Cambridgeshire": "2002&ndash;2004"
+    },
+    "birth_date": "1962-11-9"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Vivian Crawford",
+    "country": "England",
+    "fullname": "Vivian Frank Shergold Crawford",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Merton, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Batsman",
+    "family": "JC Crawford (father), JN Crawford (brother), RT Crawford (brother), FF Crawford (uncle)",
+    "type1": "First-class",
+    "debutdate1": "22 June",
+    "debutyear1": "1896",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "3 September",
+    "lastyear1": "1910",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/28/28816/28816.html CricketArchive ",
+    "First-class": {
+        "matches": "293",
+        "runs": "11,909",
+        "bat avg": "26.64",
+        "100s/50s": "16/51",
+        "deliveries": "1,435",
+        "wickets": "17",
+        "bowl avg": "51.47",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "262/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1896\u20131902",
+        "Leicestershire": "1903\u20131910"
+    },
+    "birth_date": "1879-4-11"
+}

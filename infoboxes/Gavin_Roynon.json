@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Gavin Devonald Roynon",
+    "birth_place": "Sutton, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Wargrave, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/19857.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "188",
+        "bat avg": "14.46",
+        "100s/50s": "\u2013/1",
+        "top score": "58",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1954&ndash;1958",
+        "Oxford University": "1958"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edward Tolfree",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1966",
+    "death_place": "West End, Hampshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/21551.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "53",
+        "bat avg": "8.83",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "324",
+        "wickets": "2",
+        "bowl avg": "92.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/13",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1906&ndash;1919"
+    },
+    "birth_date": "1881-7-12"
+}

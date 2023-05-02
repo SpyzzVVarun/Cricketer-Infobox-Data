@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Alfred George Lucas",
+    "birth_place": "Wandsworth, Surrey, England",
+    "death_date": "1941",
+    "death_place": "Hove, Sussex, England",
+    "family": "Charles Lucas (brother), Frederick Lucas (brother), Morton Lucas (brother), Charles Lucas (nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16674.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "46",
+        "bat avg": "46.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1880"
+    }
+}

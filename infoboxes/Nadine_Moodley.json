@@ -1,0 +1,62 @@
+{
+    "name": "Nadine Moodley",
+    "female": "true",
+    "country": "South Africa",
+    "fullname": "Nadine Avril Moodley",
+    "birth_place": "Durban, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "internationalspan": "2013\u20132015",
+    "onetest": "true",
+    "testdebutdate": "16 November",
+    "testdebutyear": "2014",
+    "testdebutagainst": "India",
+    "testcap": "54",
+    "odidebutdate": "28 October",
+    "odidebutyear": "2013",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "69",
+    "odishirt": "49",
+    "lastodidate": "17 March",
+    "lastodiyear": "2015",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "22 January",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "36",
+    "lastT20Idate": "22 March",
+    "lastT20Iyear": "2015",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/498874.html Cricinfo ",
+    "WTest": {
+        "matches": "1",
+        "runs": "49",
+        "bat avg": "24.50",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "9",
+        "runs": "80",
+        "bat avg": "10.00",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "9",
+        "runs": "30",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "KwaZulu-Natal": "2005/06\u20132009/10",
+        "Western Province": "2010/11\u20132011/12",
+        "KwaZulu-Natal Coastal": "2012/13\u2013present"
+    },
+    "birth_date": "1990-4-9"
+}

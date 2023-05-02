@@ -1,0 +1,37 @@
+{
+    "name": "George Nash",
+    "fullname": "George Nash",
+    "birth_place": "Aylesbury, Buckinghamshire, England",
+    "death_date": "1903",
+    "death_place": "Aylesbury, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "First-class",
+    "debutdate1": "26 May",
+    "debutyear1": "1879",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "28 May",
+    "lastyear1": "1885",
+    "lastfor1": "Lancashire",
+    "lastagainst1": "Kent",
+    "source": "http://www.espncricinfo.com/england/content/player/18065.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "58",
+        "runs": "347",
+        "bat avg": "5.78",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "7,793",
+        "wickets": "232",
+        "bowl avg": "12.36",
+        "fivefor": "17",
+        "tenfor": "5",
+        "best bowling": "8/14",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1879\u20131885"
+    },
+    "birth_date": "1850-4-1"
+}

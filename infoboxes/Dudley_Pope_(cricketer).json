@@ -1,0 +1,30 @@
+{
+    "name": "Dudley Pope",
+    "country": "England",
+    "fullname": "Dudley Fairbridge Pope",
+    "birth_place": "Barnes, England",
+    "death_date": "1934",
+    "death_place": "Writtle, Essex, England",
+    "batting": "Right-hand bat",
+    "role": "Batsman",
+    "source": "http://www.cricinfo.com/england/content/player/18686.html CricInfo ",
+    "FC": {
+        "matches": "159",
+        "runs": "6557",
+        "bat avg": "26.33",
+        "100s/50s": "7/31",
+        "top score": "161",
+        "deliveries": "348",
+        "wickets": "4",
+        "bowl avg": "68.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/11",
+        "catches/stumpings": "37/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1925-1927",
+        "Essex": "1928-1934"
+    },
+    "birth_date": "1906-10-28"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Rajiv Sharma",
+    "country": "England",
+    "fullname": "Rajiv Sharma",
+    "birth_place": "Auckland, New Zealand",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "FC",
+    "debutdate1": "11 April",
+    "debutyear1": "2009",
+    "debutfor1": "Oxford MCCU",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "24 June",
+    "lastyear1": "2012",
+    "lastfor1": "Oxford University",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/451/451963/451963.html  |birth_date=1984",
+    "First-class": {
+        "matches": "12",
+        "runs": "518",
+        "bat avg": "32.37",
+        "100s/50s": "1/1",
+        "top score": "114",
+        "deliveries": "1316",
+        "wickets": "15",
+        "bowl avg": "39.46",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/68",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Auckland A": "2004-2008, 2013",
+        "Oxford University": "2009\u20132012",
+        "Oxford MCCU": "2009\u20132012"
+    }
+}

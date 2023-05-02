@@ -1,0 +1,30 @@
+{
+    "name": "Colin McVicar",
+    "country": "New Zealand",
+    "fullname": "Colin Cameron McVicar",
+    "birth_place": "Palmerston North, New Zealand",
+    "death_date": "1987",
+    "death_place": "Palmerston North",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Stuart McVicar (brother)",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37906.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "182",
+        "bat avg": "20.22",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "12/0"
+    },
+    "clubs": {
+        "Central Districts": "1950-51 to 1951-52"
+    },
+    "birth_date": "1916-6-3"
+}

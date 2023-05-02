@@ -1,0 +1,22 @@
+{
+    "name": "Charles Hall",
+    "country": "England",
+    "birth_place": "Islington, London",
+    "death_place": "London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/fanzone/content/player/14453.html Charles Hall CricInfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0",
+        "top score": "12",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Middlesex": "1867"
+    },
+    "birth_date": "1842-10-16"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Ella Telford",
+    "female": "true",
+    "fullname": "Ella Freya Telford",
+    "birth_place": "Penrith, Cumbria, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/986/986773/986773.html CricketArchive",
+    "WLA": {
+        "matches": "15",
+        "runs": "64",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "438",
+        "wickets": "8",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20": {
+        "matches": "19",
+        "runs": "59",
+        "bat avg": "9.83",
+        "100s/50s": "0/0",
+        "deliveries": "231",
+        "wickets": "9",
+        "bowl avg": "19.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/7",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Cumbria": "2010\u20132017",
+        "Lancashire": "2017\u20132018",
+        "Lancashire Thunder": "2017",
+        "Yorkshire": "2019\u2013present",
+        "Northern Diamonds": "2020\u20132021"
+    },
+    "birth_date": "1999-4-5"
+}

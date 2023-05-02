@@ -1,0 +1,21 @@
+{
+    "name": "James Sutcliffe",
+    "country": "England",
+    "fullname": "James Frederick Sutcliffe",
+    "birth_place": "Chatham, Kent, England",
+    "death_date": "1915",
+    "death_place": "Cape Helles, Gallipoli,, Ottoman Empire",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/20416.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1911"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "fullname": "John Hales",
+    "birth_place": "Charmouth, Dorset, England",
+    "death_date": "df=yes",
+    "death_place": "Bournemouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast-medium",
+    "source": "http://www.espncricinfo.com/india/content/player/14447.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "69",
+        "bat avg": "4.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1855&ndash;1859"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Gerry Lester",
+    "country": "England",
+    "fullname": "Gerald Lester",
+    "birth_place": "Long Whatton, Leicestershire, England",
+    "death_date": "1998",
+    "death_place": "Leicester, Leicestershire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg-break and Right-arm leg-break and googly",
+    "role": "Batsman/all-rounder",
+    "type1": "First-class",
+    "debutdate1": "29 May",
+    "debutyear1": "1937",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Kent",
+    "lastdate1": "7 July",
+    "lastyear1": "1958",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/30/30973/30973.html CricketArchive ",
+    "First-class": {
+        "matches": "373",
+        "runs": "12857",
+        "bat avg": "21.60",
+        "100s/50s": "9/52",
+        "top score": "143",
+        "deliveries": "20814",
+        "wickets": "307",
+        "bowl avg": "35.44",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "6/42",
+        "catches/stumpings": "159/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1937\u201358"
+    },
+    "birth_date": "1915-12-27"
+}

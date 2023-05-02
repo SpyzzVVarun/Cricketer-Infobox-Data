@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Mark Philip Lawrence",
+    "birth_place": "Warrington, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Lindfield, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/16481.html Cricinfo ",
+    "First-class": {
+        "matches": "30",
+        "runs": "101",
+        "bat avg": "4.04",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "5,364",
+        "wickets": "42",
+        "bowl avg": "70.92",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/79",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1982&ndash;1986"
+    }
+}

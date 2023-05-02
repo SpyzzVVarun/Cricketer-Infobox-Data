@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Andrew Charles Agar",
+    "birth_place": "Sanderstead, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/andrew-agar-8606 Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "deliveries": "126",
+        "wickets": "2",
+        "bowl avg": "33.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/44",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1977&ndash;1985"
+    },
+    "birth_date": "1956-2-19"
+}

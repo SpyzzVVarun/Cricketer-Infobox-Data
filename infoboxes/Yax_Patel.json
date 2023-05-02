@@ -1,0 +1,28 @@
+{
+    "name": "Yax Patel",
+    "country": "Canada",
+    "fullname": "Yax Rakesh Patel",
+    "birth_place": "Bardoli, India",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "batting": "Left-handed",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/1195765.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "10",
+        "bat avg": "3.33",
+        "100s/50s": "0/0",
+        "deliveries": "120",
+        "wickets": "3",
+        "bowl avg": "31.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Canada": "2019-present",
+        "Montreal Tigers": "2019"
+    },
+    "birth_date": "1999-5-29"
+}

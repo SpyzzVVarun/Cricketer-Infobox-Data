@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Archibald Moir Park Lyle",
+    "birth_place": "Greenock, Renfrewshire, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/25273.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "77",
+        "bat avg": "12.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1904&ndash;1906",
+        "Scotland": "1912"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Gareth White",
+    "country": "England",
+    "fullname": "Gareth Andrew White",
+    "birth_place": "Whitehaven, Cumbria, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "type1": "List A",
+    "onetype1": "true",
+    "debutdate1": "29 August",
+    "debutyear1": "2002",
+    "debutfor1": ", Cumberland",
+    "debutagainst1": "Nottinghamshire Cricket Board",
+    "source": "https://cricketarchive.com/Archive/Players/10/10768/10768.html CricketArchive ",
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "28.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/28",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cumberland": "2002"
+    },
+    "birth_date": "1979-1-28"
+}

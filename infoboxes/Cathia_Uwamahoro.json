@@ -1,0 +1,31 @@
+{
+    "name": "Cathia",
+    "female": "true",
+    "fullname": "Cathia Uwamahoro",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "country": "Rwanda",
+    "T20Idebutdate": "26 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nigeria",
+    "T20Icap": "9",
+    "lastT20Idate": "18 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://espncricinfo.com/ci/content/player/383862.html Cricinfo ",
+    "WT20I": {
+        "matches": "35",
+        "runs": "362",
+        "bat avg": "15.08",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1993-05-19"
+}

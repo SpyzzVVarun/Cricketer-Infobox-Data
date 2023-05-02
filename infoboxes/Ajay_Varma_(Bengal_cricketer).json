@@ -1,0 +1,36 @@
+{
+    "name": "Ajay Varma",
+    "birth_place": "Trivandrum, Kerala",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/18/18537/18537.html CricketArchive",
+    "First-class": {
+        "matches": "25",
+        "runs": "1,263",
+        "bat avg": "36.08",
+        "100s/50s": "3/6",
+        "top score": "162",
+        "deliveries": "2,601",
+        "wickets": "46",
+        "bowl avg": "23.58",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/56",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "343",
+        "bat avg": "38.11",
+        "100s/50s": "0/3",
+        "deliveries": "438",
+        "wickets": "7",
+        "bowl avg": "38.28",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/26",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "26 December 1963"
+}

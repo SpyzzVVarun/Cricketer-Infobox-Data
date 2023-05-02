@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Hubert Percy Waugh",
+    "birth_place": "West Ham, Essex, England",
+    "death_date": "1954",
+    "death_place": "Dollis Hill, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22344.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "251",
+        "bat avg": "15.68",
+        "100s/50s": "1/\u2013",
+        "top score": "128",
+        "deliveries": "318",
+        "wickets": "4",
+        "bowl avg": "42.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/6",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1937",
+        "Suffolk": "1934\u20131939",
+        "Essex": "1919\u20131929"
+    },
+    "birth_date": "1898-12-24"
+}

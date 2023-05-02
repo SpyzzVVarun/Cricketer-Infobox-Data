@@ -1,0 +1,36 @@
+{
+    "name": "John Ashworth",
+    "fullname": "John Thomas Ashworth",
+    "birth_place": "Haslingden, England",
+    "death_date": "1901",
+    "death_place": "Oldham, England",
+    "role": "Middle-order batsman",
+    "type1": "First-class",
+    "debutdate1": "3 August",
+    "debutyear1": "1871",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Kent",
+    "lastdate1": "30 June",
+    "lastyear1": "1873",
+    "lastfor1": "Lancashire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/27/27548/27548.html CricketArchive ",
+    "FC": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "0",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "N/A",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1871\u20131873"
+    },
+    "birth_date": "1850-2-27"
+}

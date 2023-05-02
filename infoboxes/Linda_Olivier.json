@@ -1,0 +1,50 @@
+{
+    "name": "Linda Olivier",
+    "female": "true",
+    "fullname": "Linda Olivier",
+    "birth_place": "Orange Free State, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "internationalspan": "1997\u20132000",
+    "country": "South Africa",
+    "odidebutdate": "5 August",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Ireland",
+    "odicap": "8",
+    "lastodidate": "18 December",
+    "lastodiyear": "2000",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/5/5614/5614.html CricketArchive ",
+    "WODI": {
+        "matches": "28",
+        "runs": "838",
+        "bat avg": "34.91",
+        "100s/50s": "1/7",
+        "deliveries": "180",
+        "wickets": "4",
+        "bowl avg": "23.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WLA": {
+        "matches": "31",
+        "runs": "871",
+        "bat avg": "32.25",
+        "100s/50s": "1/7",
+        "deliveries": "180",
+        "wickets": "4",
+        "bowl avg": "23.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Gauteng": "1995/96\u20131997/98",
+        "Northerns": "1998/99"
+    },
+    "birth_date": "1965-4-17"
+}

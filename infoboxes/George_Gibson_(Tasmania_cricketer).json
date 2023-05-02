@@ -1,0 +1,30 @@
+{
+    "name": "George Gibson",
+    "country": "Australia",
+    "fullname": "George Gibson",
+    "birth_place": "Norfolk Plains, Tasmania, Australia",
+    "death_date": "8 October 1873",
+    "death_place": "Sandy Bay, Tasmania, Australia",
+    "family": "George Herbert Bailey (son-in-law)",
+    "type1": "First-class",
+    "debutdate1": "11 February",
+    "debutyear1": "1851",
+    "debutfor1": "Tasmania",
+    "debutagainst1": "Victoria",
+    "lastdate1": "25 February",
+    "lastyear1": "1858",
+    "lastfor1": "Tasmania",
+    "lastagainst1": "Victoria",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/2/2529/2529.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "12",
+        "bat avg": "2.40",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1850&ndash;58"
+    }
+}

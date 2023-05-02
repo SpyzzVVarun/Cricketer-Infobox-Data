@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "George Alderson Milman",
+    "birth_place": "Westminster, Middlesex, England",
+    "death_date": "1898",
+    "death_place": "Heavitree, Devon, England",
+    "family": "Sir Lionel Milman (nephew), Sir Dermot Milman (great-nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17602.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "48",
+        "bat avg": "9.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "360",
+        "wickets": "15",
+        "bowl avg": "9.60",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/65",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1868&ndash;1869"
+    }
+}

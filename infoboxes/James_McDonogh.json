@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "James John Murphy McDonogh",
+    "birth_place": "Killarney, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Philadelphia, Pennsylvania,, United States",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ireland/content/player/31132.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "203",
+        "bat avg": "18.45",
+        "100s/50s": "\u2013/2",
+        "top score": "86",
+        "deliveries": "618",
+        "wickets": "10",
+        "bowl avg": "25.70",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/53",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Europeans (India)": "1908/09"
+    }
+}

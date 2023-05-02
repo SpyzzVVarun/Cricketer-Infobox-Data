@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Gerald Gwydyr Heslop",
+    "birth_place": "Thames Ditton, Surrey, England",
+    "death_date": "1913",
+    "death_place": "Cringleford, Norfolk, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/14754.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "4.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1895\u20131901",
+        "Cambridge University": "1898"
+    }
+}

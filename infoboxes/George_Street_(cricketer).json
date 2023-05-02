@@ -1,0 +1,48 @@
+{
+    "name": "George Street",
+    "country": "England",
+    "fullname": "George Benjamin Street",
+    "birth_place": "Charlwood, Surrey, England",
+    "death_date": "1924",
+    "death_place": "Portslade, Sussex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "18 January",
+    "testdebutyear": "1923",
+    "testdebutagainst": "South Africa",
+    "testcap": "212",
+    "source": "https://cricketarchive.com/Archive/Players/0/427/427.html CricketArchive ",
+    "Tests": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/1"
+    },
+    "FC": {
+        "matches": "197",
+        "runs": "3984",
+        "bat avg": "17.24",
+        "100s/50s": "1/12",
+        "top score": "109",
+        "deliveries": "105",
+        "wickets": "3",
+        "bowl avg": "22.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/26",
+        "catches/stumpings": "310/119"
+    },
+    "clubs": {
+        "Sussex": "1909&ndash;1923",
+        "Marylebone Cricket Club (MCC)": "1922/23"
+    },
+    "birth_date": "1889-12-6"
+}

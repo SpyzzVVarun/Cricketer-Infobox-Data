@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Yuvraj Jivabhai Odedra",
+    "birth_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/1090829.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "126",
+        "wickets": "2",
+        "bowl avg": "47.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/41",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Wales Minor Counties": "2018",
+        "Cardiff MCCU": "2019"
+    },
+    "birth_date": "December 1997"
+}

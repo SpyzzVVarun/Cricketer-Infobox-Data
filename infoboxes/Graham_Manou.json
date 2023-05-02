@@ -1,0 +1,59 @@
+{
+    "name": "Graham Manou",
+    "country": "Australia",
+    "fullname": "Graham Allan Manou",
+    "birth_place": "Modbury, South Australia, Australia",
+    "nickname": "Choc",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2009",
+    "onetest": "true",
+    "testdebutdate": "30 July",
+    "testdebutyear": "2009",
+    "testdebutagainst": "England",
+    "testcap": "411",
+    "odidebutdate": "31 October",
+    "odidebutyear": "2009",
+    "odidebutagainst": "India",
+    "odicap": "180",
+    "lastodidate": "8 November",
+    "lastodiyear": "2009",
+    "lastodiagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/8/8191/8191.html CricketArchive |caption=Manou in a practice session",
+    "Test": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/0"
+    },
+    "ODI": {
+        "matches": "4",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "5/0"
+    },
+    "FC": {
+        "matches": "103",
+        "runs": "4,003",
+        "bat avg": "25.49",
+        "100s/50s": "6/20",
+        "top score": "190",
+        "catches/stumpings": "328/21"
+    },
+    "LA": {
+        "matches": "118",
+        "runs": "1,613",
+        "bat avg": "21.79",
+        "100s/50s": "0/4",
+        "top score": "63",
+        "catches/stumpings": "152/16"
+    },
+    "clubs": {
+        "South Australia": "1999/00\u20132010/11",
+        "Melbourne Renegades": "2011/12"
+    },
+    "birth_date": "1979-4-23"
+}

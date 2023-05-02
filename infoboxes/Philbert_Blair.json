@@ -1,0 +1,41 @@
+{
+    "name": "Philbert Blair",
+    "fullname": "Philbert Duncan Blair",
+    "birth_place": "Georgetown, British Guiana",
+    "country": "West Indies",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/23/23303/23303.html Cricket Archive",
+    "First-class": {
+        "matches": "31",
+        "runs": "142",
+        "bat avg": "5.91",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "4662",
+        "wickets": "77",
+        "bowl avg": "34.15",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/60",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "93",
+        "wickets": "1",
+        "bowl avg": "85.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/42",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Guyana": "1967-68 to 1973-74"
+    },
+    "birth_date": "1943-10-30"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Anuj Rawat",
+    "birth_place": "Ramnagar, Uttarakhand, India",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper-batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/1123073.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "528",
+        "bat avg": "33.00",
+        "100s/50s": "1/2",
+        "top score": "134",
+        "catches/stumpings": "24/8"
+    },
+    "clubs": {
+        "Delhi": "2017\u2013present",
+        "Rajasthan Royals": "2021",
+        "Royal Challengers Bangalore": "2022\u2013present"
+    },
+    "birth_date": "1999-10-17"
+}

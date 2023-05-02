@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Earle Clark Reoch",
+    "birth_place": "Monifieth, Angus, Scotland",
+    "death_date": "1989",
+    "death_place": "Dundee, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/earl-reoch-25329 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1973"
+    }
+}

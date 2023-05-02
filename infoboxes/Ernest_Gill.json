@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/13620.html CricInfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "deliveries": "831",
+        "wickets": "12",
+        "bowl avg": "34.41",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/61",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1901"
+    }
+}

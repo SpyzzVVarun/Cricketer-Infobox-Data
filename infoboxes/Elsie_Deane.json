@@ -1,0 +1,28 @@
+{
+    "name": "Elsie Deane",
+    "fullname": "Elsie May Deane",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Medium Right-arm Medium pace",
+    "onetest": "true",
+    "testdebutdate": "12 June",
+    "testdebutyear": "1937",
+    "testdebutagainst": "England",
+    "testcap": "20",
+    "source": "http://www.espncricinfo.com/ci/content/player/53493.html CricInfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "-/-",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {}
+}

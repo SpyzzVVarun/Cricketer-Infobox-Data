@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Frederic Watson",
+    "birth_place": "Bitteswell, Leicestershire,, England",
+    "death_date": "df=yes",
+    "death_place": "Cork, Ireland",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/22773.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "222",
+        "bat avg": "11.68",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "catches/stumpings": "7/1"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1869&ndash;1874"
+    }
+}

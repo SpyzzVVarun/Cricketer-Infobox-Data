@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Christopher Allan Sayers",
+    "birth_place": "Harrow, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/20067.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "122",
+        "bat avg": "10.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "deliveries": "498",
+        "wickets": "2",
+        "bowl avg": "178.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/21",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1999&ndash;2001",
+        "Cambridge UCCE": "2001"
+    },
+    "birth_date": "1978-12-19"
+}

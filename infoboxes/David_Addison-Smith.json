@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "David Lind Addison-Smith",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1937",
+    "death_place": "Leith, Midlothian, Scotland",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/david-smith-25349 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "59",
+        "bat avg": "29.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "102",
+        "wickets": "1",
+        "bowl avg": "108.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/91",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1905"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Simon Mackin",
+    "country": "Australia",
+    "fullname": "Simon Patrick Mackin",
+    "birth_place": "Wyalkatchem, Western Australia",
+    "heightm": "2.02",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "8 December",
+    "debutyear1": "2013",
+    "debutfor1": "WA",
+    "debutagainst1": "Tasmania",
+    "type2": "LA",
+    "debutdate2": "20 July",
+    "debutyear2": "2014",
+    "debutfor2": "National Performance Squad",
+    "debutagainst2": "South Africa A",
+    "source": "http://www.espncricinfo.com/australia/content/player/500276.html ESPNcricinfo ",
+    "FC": {
+        "matches": "32",
+        "runs": "105",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "deliveries": "5,796",
+        "wickets": "101",
+        "bowl avg": "30.39",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "7/81",
+        "catches/stumpings": "16/\u2013"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "534",
+        "wickets": "14",
+        "bowl avg": "31.92",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/33",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Western Australia( 33 )": "2013/14\u20132019/20",
+        "Victoria": "2020/21"
+    },
+    "birth_date": "1992-09-01"
+}

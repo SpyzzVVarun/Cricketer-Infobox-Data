@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Andrew Philip Hollingsworth",
+    "birth_place": "Chertsey, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15328.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "72",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "138",
+        "wickets": "4",
+        "bowl avg": "21.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/35",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "56",
+        "bat avg": "28.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "120",
+        "wickets": "3",
+        "bowl avg": "27.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/36",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Durham UCCE": "2002",
+        "Surrey Cricket Board": "2001-2002"
+    },
+    "birth_date": "1979-10-11"
+}

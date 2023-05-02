@@ -1,0 +1,29 @@
+{
+    "name": "Herbert Burrell",
+    "fullname": "Herbert John Edwin Burrell",
+    "birth_place": "Kirtling, Cambridgeshire, England",
+    "death_date": "1949",
+    "death_place": "Trumpington, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/9309.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "153",
+        "wickets": "2",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/37",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Oxford University": "1889",
+        "Essex": "1895"
+    },
+    "birth_date": "1866-11-15"
+}

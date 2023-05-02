@@ -1,0 +1,28 @@
+{
+    "name": "Ernest Bailey",
+    "country": "Australia",
+    "fullname": "Ernest Albert Bailey",
+    "birth_place": "Adelaide, Australia",
+    "death_date": "1966",
+    "death_place": "Northfield, Australia",
+    "batting": "Right-hand bat",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/4307.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "23",
+        "bat avg": "23.00",
+        "100s/50s": "\u2013/-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {
+        "South Australia": "1906/07"
+    },
+    "birth_date": "1881-11-15"
+}

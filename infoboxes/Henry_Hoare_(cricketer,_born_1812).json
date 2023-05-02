@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry James Hoare",
+    "birth_place": "Morden, Surrey, England",
+    "death_date": "1859",
+    "death_place": "Torquay, Devon, England",
+    "family": "Charles Hoare (son), Charles Hoare (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15251.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "98",
+        "bat avg": "9.80",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1835&ndash;1838"
+    }
+}

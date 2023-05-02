@@ -1,0 +1,30 @@
+{
+    "name": "Graham Bunyard",
+    "country": "South Africa",
+    "fullname": "Graham Stuart Bunyard",
+    "birth_place": "Port Elizabeth, Cape Province, South Africa",
+    "death_date": "2018",
+    "death_place": "Plettenberg Bay, Western Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/44140.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "192",
+        "bat avg": "13.71",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "2358",
+        "wickets": "48",
+        "bowl avg": "22.54",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Transvaal": "1959-60 to 1960-61",
+        "Rhodesia": "1962-63"
+    },
+    "birth_date": "1939-10-17"
+}

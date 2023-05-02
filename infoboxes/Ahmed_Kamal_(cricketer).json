@@ -1,0 +1,43 @@
+{
+    "name": "Ahmed Kamal",
+    "birth_place": "Kotpara, Kushtia, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Bangladesh",
+    "oneodi": "true",
+    "odidebutagainst": "West Indies",
+    "odidebutdate": "9 October",
+    "odidebutyear": "1999",
+    "odicap": "49",
+    "source": "https://cricketarchive.com/Archive/Players/9/9290/9290.html CricketArchive",
+    "ODI": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "10",
+        "runs": "91",
+        "bat avg": "8.27",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "1,509",
+        "wickets": "16",
+        "bowl avg": "35.68",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/40",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "15 June 1977"
+}

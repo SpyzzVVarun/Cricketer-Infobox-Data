@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Edward Keppel Stephenson",
+    "birth_place": "Kensington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Blyth, Suffolk, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/34453.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1914"
+    }
+}

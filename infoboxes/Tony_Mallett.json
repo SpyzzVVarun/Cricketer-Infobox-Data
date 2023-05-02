@@ -1,0 +1,31 @@
+{
+    "name": "Tony Mallett",
+    "country": "England",
+    "fullname": "Anthony William Haward Mallett",
+    "birth_place": "Dulwich, England",
+    "death_date": "10 December 1994 (aged 70)",
+    "death_place": "Rosebank, Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "family": "Nick Mallett (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/17294.html CricInfo ",
+    "First-class": {
+        "matches": "75",
+        "runs": "1,764",
+        "bat avg": "18.76",
+        "100s/50s": "0/5",
+        "top score": "97",
+        "deliveries": "5,748",
+        "wickets": "213",
+        "bowl avg": "26.98",
+        "fivefor": "9",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "61/\u2013"
+    },
+    "clubs": {
+        "Kent": "1946\u20131953",
+        "Oxford University": "1947\u20131948"
+    }
+}

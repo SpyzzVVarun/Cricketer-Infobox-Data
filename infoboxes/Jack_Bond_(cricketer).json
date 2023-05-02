@@ -1,0 +1,42 @@
+{
+    "name": "Jack Bond",
+    "fullname": "John David Bond",
+    "birth_place": "Kearsley, Lancashire, England",
+    "death_date": "df=yes",
+    "batting": "Right-handed",
+    "bowling": "Right arm leg Right arm leg break",
+    "source": "https://cricketarchive.com/Archive/Players/7/7351/7351.html CricketArchive ",
+    "First-class": {
+        "matches": "362",
+        "runs": "12,125",
+        "bat avg": "25.90",
+        "100s/50s": "14/54",
+        "top score": "157",
+        "deliveries": "67",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "222/\u2013"
+    },
+    "List A": {
+        "matches": "99",
+        "runs": "698",
+        "bat avg": "12.92",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "31/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1955\u20131972",
+        "Nottinghamshire": "1974"
+    },
+    "birth_date": "1932-5-6"
+}

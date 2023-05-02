@@ -1,0 +1,29 @@
+{
+    "name": "Arthur Cotterill",
+    "country": "New Zealand",
+    "fullname": "Arthur James Cotterill",
+    "birth_place": "Colney, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Napier, New Zealand",
+    "family": "Henry Cotterill (brother), Edward Cotterill (brother), William Cotterill (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/36749.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "258",
+        "bat avg": "15.17",
+        "100s/50s": "0/1",
+        "top score": "72",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Canterbury": "1865\u201366 to 1873\u201374"
+    },
+    "birth_date": "1848-1-22"
+}

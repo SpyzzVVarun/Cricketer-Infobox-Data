@@ -1,0 +1,58 @@
+{
+    "name": "Andrew Birch",
+    "fullname": "Andrew Charles Ross Birch",
+    "birth_place": "East London, Eastern Cape, South Africa",
+    "nickname": "Steaks",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "country": "South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/44413.html Cricinfo",
+    "FC": {
+        "matches": "88",
+        "runs": "1,952",
+        "bat avg": "16.68",
+        "100s/50s": "0/6",
+        "top score": "88",
+        "deliveries": "15,307",
+        "wickets": "304",
+        "bowl avg": "24.99",
+        "fivefor": "11",
+        "tenfor": "0",
+        "best bowling": "8/30",
+        "catches/stumpings": "34/\u2013"
+    },
+    "LA": {
+        "matches": "68",
+        "runs": "479",
+        "bat avg": "14.51",
+        "100s/50s": "0/1",
+        "deliveries": "3,046",
+        "wickets": "113",
+        "bowl avg": "21.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/15",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "56",
+        "runs": "144",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "1,102",
+        "wickets": "66",
+        "bowl avg": "20.51",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/16",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "2005\u20132011",
+        "Warriors": "2007\u2013present",
+        "Dhaka Dynamites": "2019\u20132020"
+    },
+    "birth_date": "1985-6-7"
+}

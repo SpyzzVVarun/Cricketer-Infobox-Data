@@ -1,0 +1,58 @@
+{
+    "name": "Avishka Gunawardene",
+    "country": "Sri Lanka",
+    "fullname": "Dihan Avishka Gunawardene",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Left-handed",
+    "role": "Opening batsman",
+    "internationalspan": "1998\u20132006",
+    "testdebutdate": "4 March",
+    "testdebutyear": "1999",
+    "testdebutagainst": "Pakistan",
+    "testcap": "76",
+    "lasttestdate": "10 December",
+    "lasttestyear": "2005",
+    "lasttestagainst": "India",
+    "odidebutdate": "26 January",
+    "odidebutyear": "1998",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "93",
+    "lastodidate": "3 January",
+    "lastodiyear": "2006",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/49010.html Cricinfo  ",
+    "Test": {
+        "matches": "6",
+        "runs": "181",
+        "bat avg": "16.45",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "2/\u2013"
+    },
+    "ODI": {
+        "matches": "61",
+        "runs": "1,708",
+        "bat avg": "28.46",
+        "100s/50s": "1/12",
+        "top score": "132",
+        "catches/stumpings": "13/\u2013"
+    },
+    "FC": {
+        "matches": "129",
+        "runs": "6,680",
+        "bat avg": "35.53",
+        "100s/50s": "12/40",
+        "top score": "209",
+        "catches/stumpings": "67/\u2013"
+    },
+    "LA": {
+        "matches": "184",
+        "runs": "5,362",
+        "bat avg": "29.95",
+        "100s/50s": "6/35",
+        "top score": "132",
+        "catches/stumpings": "54/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1977-5-26"
+}

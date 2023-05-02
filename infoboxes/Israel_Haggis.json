@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Israel Haggis",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1849",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "heightft": "5",
+    "heightinch": "8 title=Cricket. Sketches of the Players",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15172.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "306",
+        "bat avg": "10.92",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Cambridge Town Club": "1834&ndash;1849"
+    }
+}

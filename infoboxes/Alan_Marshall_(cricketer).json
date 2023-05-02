@@ -1,0 +1,40 @@
+{
+    "name": "Alan Marshall",
+    "country": "England",
+    "fullname": "Alan George Marshall",
+    "birth_place": "Tripatur, Chennai, India",
+    "death_date": "1973",
+    "death_place": "Pettistree, Woodbridge, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "All-rounder, occ. wicketkeeper",
+    "family": "Brother Leslie",
+    "type1": "First-class",
+    "debutdate1": "6 July",
+    "debutyear1": "1914",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Sussex",
+    "lastdate1": "21 August",
+    "lastyear1": "1931",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/3/3705/3705.html CricketArchive ",
+    "First-class": {
+        "matches": "45",
+        "runs": "592",
+        "bat avg": "10.20",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "37",
+        "deliveries": "654",
+        "wickets": "10",
+        "bowl avg": "33.30",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/51",
+        "catches/stumpings": "34/9"
+    },
+    "clubs": {
+        "Somerset": "1914&ndash;31"
+    },
+    "birth_date": "1895-4-17"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Jessica Woolston",
+    "female": "true",
+    "fullname": "Jessica A Woolston",
+    "birth_place": "Stockton-on-Tees, Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1668/1668427/1668427.html CricketArchive",
+    "WLA": {
+        "matches": "3",
+        "runs": "26",
+        "bat avg": "26.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "11",
+        "runs": "39",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "147.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Durham": "2017",
+        "Yorkshire": "2021\u2013present",
+        "Northern Diamonds": "2022\u2013present"
+    },
+    "birth_date": "2003-2-25"
+}

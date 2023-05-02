@@ -1,0 +1,41 @@
+{
+    "name": "Angela Murnane",
+    "female": "true",
+    "full_name": "Angela Lee Murnane",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/93/93854/93854.html CricketArchive",
+    "WLA": {
+        "matches": "22",
+        "runs": "149",
+        "bat avg": "12.41",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "462",
+        "wickets": "10",
+        "bowl avg": "36.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "8/\u2013"
+    },
+    "WT20": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Queensland": "2003/04\u20132008/09"
+    },
+    "birth_date": "1983-04-13"
+}

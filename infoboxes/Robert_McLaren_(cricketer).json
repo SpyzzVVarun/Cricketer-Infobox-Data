@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Stewart McLaren",
+    "birth_place": "Perth, Perthshire, Scotland",
+    "death_date": "2006",
+    "death_place": "Torquay, Devon, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/robert-mclaren-25291 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "23",
+        "bat avg": "2.87",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "6/7"
+    },
+    "clubs": {
+        "Scotland": "1947&ndash;1949"
+    }
+}

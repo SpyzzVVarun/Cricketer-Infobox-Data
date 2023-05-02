@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Daniel Alan Alderman",
+    "birth_place": "Cuckfield, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/8505.html Cricinfo ",
+    "LA": {
+        "matches": "6",
+        "runs": "38",
+        "bat avg": "12.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "338",
+        "wickets": "3",
+        "bowl avg": "56.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Sussex Cricket Board": "1999-2001"
+    },
+    "birth_date": "1976-8-14"
+}

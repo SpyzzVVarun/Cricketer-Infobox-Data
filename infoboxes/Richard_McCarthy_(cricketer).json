@@ -1,0 +1,41 @@
+{
+    "country": "Australia",
+    "fullname": "Richard Charles Arthur Marum McCarthy",
+    "birth_place": "Geelong, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/6688.html Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "230",
+        "bat avg": "19.16",
+        "100s/50s": "&ndash;/1",
+        "top score": "61",
+        "deliveries": "1,968",
+        "wickets": "23",
+        "bowl avg": "45.47",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/80",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "6",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "216",
+        "wickets": "4",
+        "bowl avg": "43.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/46",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Yorkshire Cricket Board": "2000",
+        "Victoria": "1984/85-1989/90"
+    },
+    "birth_date": "1961-12-21"
+}

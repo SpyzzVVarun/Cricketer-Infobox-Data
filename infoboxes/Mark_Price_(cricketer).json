@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Mark Richard Price",
+    "birth_place": "Liverpool, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/18617.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "144",
+        "bat avg": "16.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "36",
+        "deliveries": "1,738",
+        "wickets": "19",
+        "bowl avg": "42.42",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/97",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "59",
+        "bat avg": "9.83",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "22",
+        "deliveries": "280",
+        "wickets": "5",
+        "bowl avg": "38.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/22",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1984&ndash;1985"
+    },
+    "birth_date": "1960-4-20"
+}

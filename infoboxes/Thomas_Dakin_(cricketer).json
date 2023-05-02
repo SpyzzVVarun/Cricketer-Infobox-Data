@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Thomas Dakin",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12336.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "54",
+        "bat avg": "7.71",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1851&ndash;1862"
+    }
+}

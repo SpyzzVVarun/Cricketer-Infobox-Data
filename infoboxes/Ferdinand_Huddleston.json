@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Ferdinand Huddleston",
+    "source": "http://www.cricinfo.com/ci/content/player/15306.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "59",
+        "bat avg": "14.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1842&ndash;1843",
+        "Marylebone Cricket Club": "1841"
+    }
+}

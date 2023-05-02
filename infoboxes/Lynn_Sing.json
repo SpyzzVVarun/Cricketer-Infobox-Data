@@ -1,0 +1,43 @@
+{
+    "name": "Lynn Sing",
+    "female": "true",
+    "fullname": "Lynn Helen Sing",
+    "birth_place": "Durban, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "internationalspan": "1997",
+    "country": "South Africa",
+    "oneodi": "true",
+    "odidebutdate": "8 August",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Ireland",
+    "odicap": "15",
+    "source": "https://cricketarchive.com/Archive/Players/5/5618/5618.html CricketArchive ",
+    "WODI": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1961-10-29"
+}

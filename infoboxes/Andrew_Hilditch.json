@@ -1,0 +1,30 @@
+{
+    "name": "Andrew Hilditch",
+    "fullname": "Andrew Mark Jefferson Hilditch",
+    "birth_place": "North Adelaide, South Australia",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/5656.html CricInfo ",
+    "Test": {
+        "matches": "18",
+        "runs": "1,073",
+        "bat avg": "31.55",
+        "100s/50s": "2/6",
+        "top score": "119",
+        "catches/stumpings": "13/\u2013"
+    },
+    "ODI": {
+        "matches": "8",
+        "runs": "226",
+        "bat avg": "28.25",
+        "100s/50s": "0/1",
+        "top score": "72",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1976/77\u20131980/81",
+        "South Australia": "1982/83\u20131991/92"
+    },
+    "birth_date": "20 May 1956"
+}

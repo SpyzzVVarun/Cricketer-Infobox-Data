@@ -1,0 +1,26 @@
+{
+    "country": "Australia/England",
+    "fullname": "Ian Gompertz",
+    "nickname": "Gompz",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13397.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "41",
+        "bat avg": "13.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "49.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/5",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Devon": "1993-2000"
+    }
+}

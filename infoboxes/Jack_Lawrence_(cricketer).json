@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "John Fortune Lawrence",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "1984",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/24578.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dublin University": "1926"
+    }
+}

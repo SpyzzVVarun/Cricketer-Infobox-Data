@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Patrick Craig MacLarnon",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17262.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "177",
+        "bat avg": "13.61",
+        "100s/50s": "\u2013/1",
+        "top score": "56",
+        "deliveries": "54",
+        "wickets": "3",
+        "bowl avg": "106.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1985&ndash;1986"
+    },
+    "birth_date": "1963-9-24"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Hayden Kerr",
+    "fullname": "Hayden Kerr",
+    "birth_place": "Bowral, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/australia/content/player/1163855.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "234",
+        "bat avg": "26.00",
+        "100s/50s": "0/2",
+        "top score": "88",
+        "deliveries": "808",
+        "wickets": "14",
+        "bowl avg": "25.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/63",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "115",
+        "bat avg": "16.42",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "290",
+        "wickets": "10",
+        "bowl avg": "24.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "41",
+        "runs": "394",
+        "bat avg": "21.88",
+        "100s/50s": "0/1",
+        "deliveries": "687",
+        "wickets": "49",
+        "bowl avg": "19.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/32",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "New South Wales( 50 )": "2019/20\u2013",
+        "Sydney Sixers": "2019/20\u2013",
+        "Derbyshire( 50 )": "2022"
+    },
+    "birth_date": "1996-7-10"
+}

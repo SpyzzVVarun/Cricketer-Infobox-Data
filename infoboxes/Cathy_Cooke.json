@@ -1,0 +1,45 @@
+{
+    "name": "Cathy Cooke",
+    "female": "true",
+    "country": "England",
+    "fullname": "Catherine Cooke",
+    "role": "Bowler",
+    "internationalspan": "1989\u20131990",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Netherlands",
+    "lastodidate": "17 August",
+    "lastodiyear": "1990",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/16/16992/16992.html CricketArchive ",
+    "WODI": {
+        "matches": "6",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "33.50",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "1/15",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WLA": {
+        "matches": "25",
+        "runs": "98",
+        "bat avg": "10.88",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "943",
+        "wickets": "17",
+        "bowl avg": "28.11",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "2/10",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1988\u20131991"
+    }
+}

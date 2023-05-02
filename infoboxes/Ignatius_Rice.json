@@ -1,0 +1,38 @@
+{
+    "name": "Ignatius Rice",
+    "country": "England",
+    "fullname": "William Ignatius Rice O.S.B.",
+    "birth_place": "Birmingham, Warwickshire , England",
+    "death_date": "1955",
+    "death_place": "Douai Abbey, nr. Reading, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "debutdate1": "5 May",
+    "debutyear1": "1920",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "8 May",
+    "lastyear1": "1920",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Surrey",
+    "source": "http://cricketarchive.co.uk/Archive/Players/32/32334/32334.html cricketarchive.com  ",
+    "First-class": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "3.75",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1"
+    },
+    "clubs": {
+        "Warwickshire": "1920"
+    },
+    "birth_date": "1883-3-15"
+}

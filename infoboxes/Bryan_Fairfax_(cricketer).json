@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Bryan Charles Fairfax",
+    "birth_place": "Bilbrough, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Whitwell-on-the-Hill, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/player/bryan-fairfax-28676 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1897/98"
+    }
+}

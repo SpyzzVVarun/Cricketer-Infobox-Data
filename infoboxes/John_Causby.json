@@ -1,0 +1,42 @@
+{
+    "name": "John Causby",
+    "country": "Australia",
+    "fullname": "John Phillip Causby",
+    "birth_place": "Hindmarsh, South Australia, Australia",
+    "death_date": "df=yes",
+    "batting": "Right-hand bat",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/australia/content/player/4686.html ",
+    "First-class": {
+        "matches": "63",
+        "runs": "3067",
+        "bat avg": "28.93",
+        "100s/50s": "3/14",
+        "top score": "137",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "25/&ndash;"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "129",
+        "bat avg": "21.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "28",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1960/61&ndash;1973/74"
+    },
+    "birth_date": "1942-10-27"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry Clarke Jollye",
+    "birth_place": "Broome, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Walton, Wiltshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15801.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1862"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Matthew James Emrys Green",
+    "birth_place": "Wakefield, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/559383.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "450",
+        "wickets": "4",
+        "bowl avg": "57.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/60",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Durham MCCU": "2012&ndash;2013"
+    },
+    "birth_date": "1993-4-19"
+}

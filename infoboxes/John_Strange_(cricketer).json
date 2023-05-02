@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "John Strange",
+    "birth_place": "St John's Wood, Middlesex, England",
+    "death_date": "6 September 1840 (aged 22)",
+    "death_place": "Paris, France",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21373.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "107",
+        "bat avg": "4.86",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "38",
+        "bowl avg": "?",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/?",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1836&ndash;1839"
+    }
+}

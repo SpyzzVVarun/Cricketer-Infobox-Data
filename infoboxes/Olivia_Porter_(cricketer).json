@@ -1,0 +1,29 @@
+{
+    "name": "Olivia Porter",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Olivia P Porter",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1579/1579771/1579771.html CricketArchive ",
+    "WLA": {
+        "matches": "6",
+        "runs": "39",
+        "bat avg": "7.80",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "82.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/21",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sydney Thunder": "2020/21\u2013present",
+        "Australian Capital Territory": "2020/21\u2013present"
+    },
+    "birth_date": "2001-11-14"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Ian Austin",
+    "country": "England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/8590.html CricInfo ",
+    "ODI": {
+        "matches": "9",
+        "runs": "34",
+        "bat avg": "6.79",
+        "100s/50s": "0/0",
+        "deliveries": "475",
+        "wickets": "6",
+        "bowl avg": "60.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "124",
+        "runs": "3,778",
+        "bat avg": "27.98",
+        "100s/50s": "2/20",
+        "deliveries": "17,135",
+        "wickets": "262",
+        "bowl avg": "30.35",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "6/43",
+        "catches/stumpings": "35/\u2013"
+    },
+    "LA": {
+        "matches": "315",
+        "runs": "2,301",
+        "bat avg": "18.11",
+        "100s/50s": "0/4",
+        "top score": "97",
+        "deliveries": "15,036",
+        "wickets": "363",
+        "bowl avg": "27.80",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/56",
+        "catches/stumpings": "53/\u2013"
+    },
+    "clubs": {}
+}

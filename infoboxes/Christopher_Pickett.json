@@ -1,0 +1,43 @@
+{
+    "name": "Christopher Pickett",
+    "country": "England",
+    "fullname": "Christopher Arthur Pickett",
+    "birth_place": "Hedgerley, Buckinghamshire, England",
+    "death_date": "October 1995",
+    "death_place": "Buckinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm orthodox, Left arm Slow left-arm orthodox, Left arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/18944.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "78",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "276",
+        "wickets": "7",
+        "bowl avg": "22.28",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/20",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1953",
+        "Buckinghamshire": "1949&ndash;1970"
+    },
+    "birth_date": "1926-8-26"
+}

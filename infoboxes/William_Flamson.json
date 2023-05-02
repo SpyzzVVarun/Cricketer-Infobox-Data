@@ -1,0 +1,38 @@
+{
+    "name": "William Flamson",
+    "country": "England",
+    "fullname": "William Henry Flamson",
+    "birth_place": "Heather, Leicestershire, England",
+    "death_date": "1945",
+    "death_place": "Heather, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "16 June",
+    "debutyear1": "1934",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Derbyshire",
+    "lastdate1": "29 August",
+    "lastyear1": "1939",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Glamorgan",
+    "source": "https://cricketarchive.com/Archive/Players/29/29426/29426.html CricketArchive ",
+    "First-class": {
+        "matches": "49",
+        "runs": "351",
+        "bat avg": "7.46",
+        "100s/50s": "\u2013/1",
+        "deliveries": "10522",
+        "wickets": "151",
+        "bowl avg": "32.92",
+        "fivefor": "7",
+        "tenfor": "\u2013",
+        "best bowling": "7/46",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1934\u201339"
+    },
+    "birth_date": "1904-8-12"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Edgar Samuel Ford",
+    "birth_place": "Bradford-on-Avon, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Cranmore, Isle of Wight, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/13126.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Wiltshire": "1899&ndash;1903",
+        "London County": "1902"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Simon Alexis Twigg",
+    "birth_place": "Wakefield, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/22132.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "149",
+        "bat avg": "37.25",
+        "100s/50s": "&ndash;/2",
+        "top score": "68",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cheshire": "2003&ndash;2005",
+        "Cumberland": "2002"
+    },
+    "birth_date": "1977-10-8"
+}

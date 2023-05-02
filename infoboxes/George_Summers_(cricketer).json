@@ -1,0 +1,23 @@
+{
+    "name": "George Summers",
+    "country": "England",
+    "fullname": "George Summers",
+    "birth_place": "Nottingham, England",
+    "death_date": "1870",
+    "death_place": "Nottingham, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/33/33121/33121.html ",
+    "First-class": {
+        "matches": "32",
+        "runs": "922",
+        "bat avg": "15.89",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1867\u20131870"
+    },
+    "birth_date": "1844-6-21"
+}

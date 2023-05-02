@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Lee Joseph Rushworth",
+    "birth_place": "Sunderland, Tyne and Wear, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/20017.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Durham Cricket Board": "2001"
+    },
+    "birth_date": "1982-6-18"
+}

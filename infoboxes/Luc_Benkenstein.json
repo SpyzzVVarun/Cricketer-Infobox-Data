@@ -1,0 +1,33 @@
+{
+    "name": "Luc Benkenstein",
+    "fullname": "Luc Martin Benkenstein",
+    "birth_place": "Durban, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "family": "Dale Benkenstein (father), Martin Benkenstein (grandfather)",
+    "type1": "List A",
+    "debutdate1": "8 August",
+    "debutyear1": "2021",
+    "debutfor1": "Essex",
+    "debutagainst1": "Durham",
+    "source": "http://www.espncricinfo.com/ci/content/player/1262575.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "72",
+        "bat avg": "14.40",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "222",
+        "wickets": "11",
+        "bowl avg": "17.90",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Essex( 99 )": "2021\u20132022"
+    },
+    "birth_date": "2004-11-2"
+}

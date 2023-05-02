@@ -1,0 +1,50 @@
+{
+    "name": "Denis Smith",
+    "country": "England",
+    "fullname": "Denis Smith",
+    "birth_place": "Somercotes, Derbyshire, England",
+    "death_date": "1979",
+    "death_place": "Derby, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "testdebutdate": "13 July",
+    "testdebutyear": "1935",
+    "testdebutagainst": "South Africa",
+    "lasttestdate": "27 July",
+    "lasttestyear": "1935",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/0/666/666.html CricketArchive ",
+    "Test": {
+        "matches": "2",
+        "runs": "128",
+        "bat avg": "32.00",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "443",
+        "runs": "21,843",
+        "bat avg": "31.65",
+        "100s/50s": "32/116",
+        "top score": "225",
+        "deliveries": "1,516",
+        "wickets": "20",
+        "bowl avg": "36.70",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/37",
+        "catches/stumpings": "382/5"
+    },
+    "clubs": {
+        "Derbyshire": "1927\u20131952"
+    },
+    "birth_date": "1907-1-24"
+}

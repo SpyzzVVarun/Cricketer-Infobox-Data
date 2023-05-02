@@ -1,0 +1,39 @@
+{
+    "name": "Ian Salisbury",
+    "country": "England",
+    "fullname": "Ian David Kenneth Salisbury",
+    "birth_place": "Northampton, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "source": "http://content.cricinfo.com/england/content/player/20051.html CricInfo ",
+    "Tests": {
+        "matches": "15",
+        "runs": "368",
+        "bat avg": "16.72",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "2,492",
+        "wickets": "20",
+        "bowl avg": "76.95",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/163",
+        "catches/stumpings": "5/\u2013"
+    },
+    "ODIs": {
+        "matches": "4",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "186",
+        "wickets": "5",
+        "bowl avg": "35.39",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/41",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1970-1-21"
+}

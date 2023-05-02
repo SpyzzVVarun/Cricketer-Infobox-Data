@@ -1,0 +1,51 @@
+{
+    "name": "Andrew Gait",
+    "full_name": "Andrew Ian Gait",
+    "birth_place": "Bulawayo, Rhodesia",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "12 February",
+    "debutyear1": "1999",
+    "debutfor1": "Free State",
+    "debutagainst1": "Eastern Province",
+    "lastdate1": "12 August",
+    "lastyear1": "2004",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "type2": "List A",
+    "debutdate2": "10 February",
+    "debutyear2": "1999",
+    "debutfor2": "Free State",
+    "debutagainst2": "Griqualand West",
+    "lastdate2": "18 July",
+    "lastyear2": "2004",
+    "lastfor2": "Derbyshire",
+    "lastagainst2": "Sussex",
+    "FC": {
+        "matches": "63",
+        "runs": "3,093",
+        "bat avg": "26.66",
+        "100s/50s": "4/19",
+        "top score": "175",
+        "catches/stumpings": "55/0"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "858",
+        "bat avg": "26.00",
+        "100s/50s": "1/2",
+        "catches/stumpings": "10/0"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Free State": "1999\u20132001",
+        "Derbyshire": "2002\u20132004"
+    }
+}

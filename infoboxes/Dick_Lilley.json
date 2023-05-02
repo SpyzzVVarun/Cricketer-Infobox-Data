@@ -1,0 +1,53 @@
+{
+    "name": "Dick Lilley",
+    "country": "England",
+    "full_name": "Arthur Frederick Augustus Lilley",
+    "birth_place": "Holloway Head, Birmingham",
+    "death_date": "1929",
+    "death_place": "Brislington, Bristol",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "Wicket-keeper",
+    "testdebutdate": "22 June",
+    "testdebutyear": "1896",
+    "testdebutagainst": "Australia",
+    "testcap": "104",
+    "lasttestdate": "9 August",
+    "lasttestyear": "1909",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/212/212.html CricketArchive ",
+    "Test": {
+        "matches": "35",
+        "runs": "903",
+        "bat avg": "20.52",
+        "100s/50s": "0/4",
+        "top score": "84",
+        "deliveries": "25",
+        "wickets": "1",
+        "bowl avg": "23.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "70/22"
+    },
+    "First-class": {
+        "matches": "416",
+        "runs": "15,597",
+        "bat avg": "26.30",
+        "100s/50s": "16/77",
+        "top score": "171",
+        "deliveries": "2,323",
+        "wickets": "41",
+        "bowl avg": "36.21",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/46",
+        "catches/stumpings": "714/197"
+    },
+    "clubs": {
+        "Warwickshire": "1888\u20131911",
+        "North": "1891\u20131908",
+        "Players": "1895\u20131909"
+    },
+    "birth_date": "1866-11-28"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Frederick Keeton",
+    "country": "England",
+    "fullname": "Frederick William Keeton",
+    "birth_place": "Mosborough, England",
+    "death_date": "1911",
+    "death_place": "Bolton, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "2 July",
+    "debutyear1": "1876",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "19 August",
+    "lastyear1": "1880",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Players/30/30707/30707.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "33",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1876\u20131880"
+    },
+    "birth_date": "1855-10-26"
+}

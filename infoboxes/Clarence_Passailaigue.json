@@ -1,0 +1,43 @@
+{
+    "name": "Charles Passailaigue",
+    "fullname": "Charles Clarence Passailaigue",
+    "birth_place": "Kingston, Jamaica",
+    "death_date": "1972",
+    "death_place": "Montego Bay, Jamaica",
+    "batting": "Right-handed",
+    "country": "West Indies",
+    "testdebutagainst": "England",
+    "testdebutdate": "3 April",
+    "testdebutyear": "1930",
+    "onetest": "true",
+    "source": "http://www.espncricinfo.com/ci/content/player/52799.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "46",
+        "bat avg": "46.00",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "12",
+        "runs": "788",
+        "bat avg": "52.53",
+        "100s/50s": "2/2",
+        "deliveries": "62",
+        "wickets": "1",
+        "bowl avg": "56.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/22",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1901-8-4"
+}

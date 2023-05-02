@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Ernest Edwin Coombs",
+    "birth_place": "Croydon, Surrey, England",
+    "death_date": "1960",
+    "death_place": "Hove, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/27738.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "48",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "642",
+        "wickets": "19",
+        "bowl avg": "14.73",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "8/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1901/02&ndash;1918/19"
+    }
+}

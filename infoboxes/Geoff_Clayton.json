@@ -1,0 +1,51 @@
+{
+    "name": "Geoff Clayton",
+    "country": "England",
+    "fullname": "Geoffrey Clayton",
+    "nickname": "Chimp",
+    "birth_place": "Mossley, England",
+    "death_date": "2018",
+    "death_place": "Delph, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "19 June",
+    "debutyear1": "1957",
+    "debutfor1": "Combined Services",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "8 September",
+    "lastyear1": "1967",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Lancashire",
+    "type2": "LA",
+    "debutdate2": "1 May",
+    "debutyear2": "1963",
+    "debutfor2": "Lancashire",
+    "debutagainst2": "Leicestershire",
+    "lastdate2": "2 September",
+    "lastyear2": "1967",
+    "lastfor2": "Somerset",
+    "lastagainst2": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/3/3487/3487.html CricketArchive ",
+    "First-class": {
+        "matches": "274",
+        "runs": "6,154",
+        "bat avg": "17.63",
+        "100s/50s": "1/25",
+        "top score": "106",
+        "catches/stumpings": "605/65"
+    },
+    "List A": {
+        "matches": "19",
+        "runs": "145",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "27/2"
+    },
+    "clubs": {
+        "Lancashire": "1959\u20131964",
+        "Somerset": "1965\u20131967"
+    },
+    "birth_date": "1938-2-3"
+}

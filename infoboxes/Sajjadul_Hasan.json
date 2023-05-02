@@ -1,0 +1,41 @@
+{
+    "name": "Sajjadul Hasan",
+    "fullname": "Mohammad Sajjadul Hasan",
+    "birth_place": "Khulna, Bangladesh",
+    "death_date": "2007",
+    "death_place": "Kartikdanga, Bangladesh",
+    "nickname": "Setu",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/35/35176/35176.html CricketArchive ",
+    "First-class": {
+        "matches": "50",
+        "runs": "2,443",
+        "bat avg": "28.08",
+        "100s/50s": "3/12",
+        "top score": "147",
+        "deliveries": "444",
+        "wickets": "4",
+        "bowl avg": "56.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/45",
+        "catches/stumpings": "25/1"
+    },
+    "List A": {
+        "matches": "39",
+        "runs": "680",
+        "bat avg": "18.37",
+        "100s/50s": "1/2",
+        "top score": "106 not out",
+        "deliveries": "690",
+        "wickets": "17",
+        "bowl avg": "30.64",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/17",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Khulna Division": "2000\u20132007"
+    },
+    "birth_date": "1978-9-25"
+}

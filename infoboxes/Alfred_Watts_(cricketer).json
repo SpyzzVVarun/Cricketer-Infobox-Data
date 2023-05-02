@@ -1,0 +1,23 @@
+{
+    "name": "Alfred Watts",
+    "country": "England",
+    "fullname": "Alfred William Watts",
+    "source": "http://www.cricinfo.com/ci/content/player/22341.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "8.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "92",
+        "wickets": "2",
+        "bowl avg": "21.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/9",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1882"
+    }
+}

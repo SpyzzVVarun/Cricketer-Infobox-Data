@@ -1,0 +1,61 @@
+{
+    "name": "Uton Dowe",
+    "country": "West Indies",
+    "fullname": "Uton George Dowe",
+    "birth_place": "Saint Mary Parish, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "internationalspan": "1971\u20131973",
+    "testdebutdate": "1 April",
+    "testdebutyear": "1971",
+    "testdebutagainst": "India",
+    "testcap": "140",
+    "lasttestdate": "16 February",
+    "lasttestyear": "1973",
+    "lasttestagainst": "Australia",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/51653.html ESPNcricinfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "deliveries": "1014",
+        "wickets": "12",
+        "bowl avg": "44.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/69",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "27",
+        "runs": "128",
+        "bat avg": "7.11",
+        "100s/50s": "0/0",
+        "deliveries": "5,167",
+        "wickets": "97",
+        "bowl avg": "27.86",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/19",
+        "catches/stumpings": "9/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "11",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "165",
+        "wickets": "4",
+        "bowl avg": "32.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Jamaica  |year1      = 1969/70\u20131976/77": ""
+    },
+    "birth_date": "1949-3-29"
+}

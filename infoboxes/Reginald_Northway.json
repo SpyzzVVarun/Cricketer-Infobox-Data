@@ -1,0 +1,33 @@
+{
+    "name": "Reginald Northway",
+    "country": "England",
+    "fullname": "Reginald Philip Northway",
+    "birth_place": "Ceylon",
+    "death_date": "1936",
+    "death_place": "Kibworth, Leicestershire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Edward Northway (brother)",
+    "type1": "FC",
+    "debutdate1": "8 June",
+    "debutyear1": "1929",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "25 August",
+    "lastyear1": "1936",
+    "lastfor1": "Northants",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3737/3737.html CricketArchive ",
+    "First-class": {
+        "matches": "34",
+        "runs": "806",
+        "bat avg": "15.50",
+        "100s/50s": "0/2",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1929\u20131933",
+        "Northamptonshire": "1936"
+    },
+    "birth_date": "1906-8-14"
+}

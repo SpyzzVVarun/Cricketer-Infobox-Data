@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Denis William Arthur Vann",
+    "birth_place": "Northampton, Northamptonshire, England",
+    "death_date": "1961",
+    "death_place": "Kettering, Northamptonshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/22201.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "47",
+        "bat avg": "7.83",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "16",
+        "deliveries": "180",
+        "wickets": "2",
+        "bowl avg": "52.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/26",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1936&ndash;1937"
+    },
+    "birth_date": "1916-11-21"
+}

@@ -1,0 +1,46 @@
+{
+    "country": "England",
+    "fullname": "Richard Ingleby Jefferson",
+    "birth_place": "Frimley Green, Surrey, England",
+    "family": "Julian Jefferson (father), Will Jefferson (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/15669.html Cricinfo ",
+    "First-class": {
+        "matches": "94",
+        "runs": "2,094",
+        "bat avg": "19.75",
+        "100s/50s": "2/6",
+        "top score": "136",
+        "deliveries": "17,326",
+        "wickets": "263",
+        "bowl avg": "27.56",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "6/25",
+        "catches/stumpings": "32/\u2013"
+    },
+    "List A": {
+        "matches": "12",
+        "runs": "112",
+        "bat avg": "10.18",
+        "100s/50s": "\u2013/1",
+        "top score": "55",
+        "deliveries": "798",
+        "wickets": "13",
+        "bowl avg": "33.15",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/44",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1961",
+        "Surrey": "1961&ndash;1966",
+        "Marylebone Cricket Club": "1963",
+        "Norfolk": "1968&ndash;1971",
+        "Minor Counties": "1969",
+        "Minor Counties North": "1972"
+    },
+    "birth_date": "1941-8-15"
+}

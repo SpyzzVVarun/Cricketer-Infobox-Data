@@ -1,0 +1,29 @@
+{
+    "country": "Australia",
+    "fullname": "John Cox",
+    "birth_place": "Longford, Tasmania, Australia",
+    "death_date": "1866",
+    "death_place": "Invercargill, Southland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4648.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "32",
+        "bat avg": "6.40",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Victoria": "1853/54",
+        "Tasmania": "1851/52&ndash;1857/58"
+    },
+    "birth_date": "1823-8-6"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Roy Booth",
+    "country": "England",
+    "fullname": "Roy Booth",
+    "birth_place": "Marsden, West Riding of Yorkshire, England",
+    "death_date": "2018",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicketkeeper-batsman",
+    "source": "https://cricketarchive.com/Archive/Players/28/28006/28006.html CricketArchive",
+    "First-class": {
+        "matches": "468",
+        "runs": "10,134",
+        "bat avg": "18.90",
+        "100s/50s": "2/24",
+        "deliveries": "12",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "948/178"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "160",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/1",
+        "top score": "55",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "28/2"
+    },
+    "clubs": {},
+    "birth_date": "1926-10-1"
+}

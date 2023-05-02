@@ -1,0 +1,43 @@
+{
+    "name": "Alan Stimpson",
+    "fullname": "Alan James Peter Stimpson",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1994",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Opening bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/38566.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "231",
+        "bat avg": "9.62",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "3972",
+        "wickets": "61",
+        "bowl avg": "33.16",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/46",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "35",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "19 not out",
+        "deliveries": "432",
+        "wickets": "10",
+        "bowl avg": "29.90",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/15",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "1974-75 to 1978-79"
+    },
+    "birth_date": "1951-7-9"
+}

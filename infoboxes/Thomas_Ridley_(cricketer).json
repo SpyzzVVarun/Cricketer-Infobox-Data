@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Thomas Glynn Ridley",
+    "birth_place": "Cullercoats, Northumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Sea Point, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/19708.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "33",
+        "bat avg": "16.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

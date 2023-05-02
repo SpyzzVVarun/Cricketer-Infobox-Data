@@ -1,0 +1,33 @@
+{
+    "name": "Suhani Thadani",
+    "female": "true",
+    "country": "United States",
+    "fullname": "Suhani Rajiv Thadani",
+    "birth_place": "San Jose, California",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "T20Idebutdate": "18 October",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Brazil",
+    "T20Icap": "20",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "United Arab Emirates",
+    "source": "http://www.espncricinfo.com/ci/content/player/1283450.html Cricinfo ",
+    "WT20I": {
+        "matches": "10",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "deliveries": "172",
+        "wickets": "10",
+        "bowl avg": "8.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2006-8-2"
+}

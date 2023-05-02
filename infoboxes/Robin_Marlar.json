@@ -1,0 +1,30 @@
+{
+    "name": "Robin Marlar",
+    "country": "England",
+    "fullname": "Robin Geoffrey Marlar",
+    "birth_place": "Eastbourne, Sussex, England",
+    "death_date": "2022",
+    "death_place": "Epsom, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://cricketarchive.com/Archive/Players/31/31218/31218.html CricketArchive ",
+    "First-class": {
+        "matches": "289",
+        "runs": "3,033",
+        "bat avg": "9.72",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "deliveries": "54,450",
+        "wickets": "970",
+        "bowl avg": "25.22",
+        "fivefor": "66",
+        "tenfor": "15",
+        "best bowling": "9/46",
+        "catches/stumpings": "137/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1951\u20131953",
+        "Sussex": "1951\u20131968"
+    },
+    "birth_date": "1931-1-2"
+}

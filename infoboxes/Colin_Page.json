@@ -1,0 +1,38 @@
+{
+    "name": "Colin Page",
+    "fullname": "John Colin Theodore Page",
+    "birth_place": "Mereworth, Kent",
+    "death_date": "1990",
+    "death_place": "Tunbridge Wells, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "7 June",
+    "debutyear1": "1950",
+    "debutfor1": "Kent",
+    "debutagainst1": "Northants",
+    "lastdate1": "17 August",
+    "lastyear1": "1963",
+    "lastfor1": "Kent",
+    "lastagainst1": "Somerset County Cricket Club",
+    "source": "http://www.espncricinfo.com/england/content/player/18723.html Cricinfo ",
+    "First-class": {
+        "matches": "198",
+        "runs": "818",
+        "bat avg": "5.48",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "30,389",
+        "wickets": "521",
+        "bowl avg": "28.72",
+        "fivefor": "22",
+        "tenfor": "2",
+        "best bowling": "8/117",
+        "catches/stumpings": "74/\u2013"
+    },
+    "clubs": {
+        "Kent": "1950\u20131963"
+    },
+    "birth_date": "1930-5-20"
+}

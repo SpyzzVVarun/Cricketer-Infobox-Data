@@ -1,0 +1,36 @@
+{
+    "name": "Ken James",
+    "fullname": "Kenneth Cecil James",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1976",
+    "death_place": "Palmerston North, New Zealand",
+    "country": "New Zealand",
+    "internationalspan": "1930\u20131933",
+    "testdebutdate": "10 January",
+    "testdebutyear": "1930",
+    "testdebutagainst": "England",
+    "testcap": "7",
+    "lasttestdate": "31 March",
+    "lasttestyear": "1933",
+    "lasttestagainst": "England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37487.html Cricinfo ",
+    "Test": {
+        "matches": "11",
+        "runs": "52",
+        "bat avg": "4.72",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "11/5"
+    },
+    "First-class": {
+        "matches": "205",
+        "runs": "6,413",
+        "bat avg": "22.19",
+        "100s/50s": "7/23",
+        "catches/stumpings": "311/112"
+    },
+    "clubs": {},
+    "birth_date": "1904-3-12"
+}

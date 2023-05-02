@@ -1,0 +1,65 @@
+{
+    "name": "Jaya Sharma",
+    "female": "true",
+    "fullname": "Jaya Puranprakash Sharma",
+    "birth_place": "Ghaziabad, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "country": "India",
+    "internationalspan": "2002\u20132008",
+    "onetest": "true",
+    "testdebutdate": "19 March",
+    "testdebutyear": "2002",
+    "testdebutagainst": "South Africa",
+    "testcap": "58",
+    "odidebutdate": "6 January",
+    "odidebutyear": "2002",
+    "odidebutagainst": "England",
+    "odicap": "62",
+    "lastodidate": "8 November",
+    "lastodiyear": "2008",
+    "lastodiagainst": "Australia",
+    "oneT20I": "true",
+    "T20Idebutdate": "28 October",
+    "T20Idebutyear": "2008",
+    "T20Idebutagainst": "Australia",
+    "T20Icap": "14",
+    "source": "https://cricketarchive.com/Archive/Players/10/10451/10451.html CricketArchive",
+    "WTest": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "77",
+        "runs": "2,091",
+        "bat avg": "30.75",
+        "100s/50s": "2/14",
+        "catches/stumpings": "11/\u2013"
+    },
+    "WT20I": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "176",
+        "runs": "5,336",
+        "bat avg": "36.05",
+        "100s/50s": "5/36",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Delhi": "2010/11\u20132012/13",
+        "Railways": "2002/03\u20132008/09",
+        "Rajasthan": "2013/14\u20132014/15"
+    },
+    "birth_date": "1980-9-17"
+}

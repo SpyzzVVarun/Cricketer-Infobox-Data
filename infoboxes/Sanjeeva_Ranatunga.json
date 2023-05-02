@@ -1,0 +1,42 @@
+{
+    "name": "Sanjeeva Ranatunga",
+    "country": "Sri Lanka",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "family": "Arjuna Ranatunga (brother), Nishantha Ranatunga (brother), Dammika Ranatunga (brother) , Prasanna Ranatunga",
+    "internationalspan": "1994\u20131997",
+    "testdebutdate": "26 August",
+    "testdebutyear": "1994",
+    "testdebutagainst": "Pakistan",
+    "testcap": "62",
+    "lasttestdate": "20 June",
+    "lasttestyear": "1998",
+    "lasttestagainst": "West Indies",
+    "odidebutdate": "3 August",
+    "odidebutyear": "1993",
+    "odidebutagainst": "Pakistan",
+    "odicap": "81",
+    "lastodidate": "14 January",
+    "lastodiyear": "1996",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50247.html Cricinfo ",
+    "Test": {
+        "matches": "9",
+        "runs": "531",
+        "bat avg": "33.18",
+        "100s/50s": "2/2",
+        "top score": "118",
+        "catches/stumpings": "2/\u2013"
+    },
+    "ODI": {
+        "matches": "13",
+        "runs": "253",
+        "bat avg": "23.00",
+        "100s/50s": "0/2",
+        "top score": "70",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1969-04-25"
+}

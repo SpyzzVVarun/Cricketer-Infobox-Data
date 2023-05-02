@@ -1,0 +1,31 @@
+{
+    "name": "Joseph Willoughby",
+    "birth_place": "Aldershot, Hampshire, England",
+    "death_date": "df=y",
+    "death_place": "Plumstead, Cape Town, Western Cape, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "13 February",
+    "testdebutyear": "1896",
+    "lasttestdate": "21 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1896",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/47904.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "275",
+        "wickets": "6",
+        "bowl avg": "26.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

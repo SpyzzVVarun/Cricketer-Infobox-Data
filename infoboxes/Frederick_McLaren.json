@@ -1,0 +1,30 @@
+{
+    "name": "Frederick McLaren",
+    "country": "England",
+    "fullname": "Frederick Albert McLaren",
+    "birth_place": "Farnham, Surrey, England",
+    "death_date": "1952",
+    "death_place": "Dartford, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/16984.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "4.60",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "288",
+        "wickets": "6",
+        "bowl avg": "24.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/30",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Europeans (India)": "1919",
+        "Hampshire": "1908"
+    },
+    "birth_date": "1874-8-19"
+}

@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Henry Perkins",
+    "birth_place": "Sawston, Cambridgeshire, England",
+    "death_date": "1916",
+    "death_place": "New Barnet, Hertfordshire, England",
+    "family": "John Perkins (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/18902.html Cricinfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "370",
+        "bat avg": "9.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "946",
+        "wickets": "30",
+        "bowl avg": "18.07",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/48",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1854",
+        "Cambridgeshire": "1857&ndash;1866",
+        "Marylebone Cricket Club": "1857&ndash;1868"
+    }
+}

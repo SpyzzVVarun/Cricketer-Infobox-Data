@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "James Osmund Airy",
+    "birth_place": "Kings Norton, Warwickshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ballyvourney, Ireland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/26401.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "172",
+        "bat avg": "17.20",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1905/06&ndash;1908/09"
+    }
+}

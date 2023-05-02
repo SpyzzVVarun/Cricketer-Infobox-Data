@@ -1,0 +1,41 @@
+{
+    "name": "David Saker",
+    "country": "Australia",
+    "fullname": "David James Saker",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Matthew Gale (nephew)",
+    "source": "https://cricketarchive.com/Archive/Players/5/5643/5643.html CricketArchive ",
+    "First-class": {
+        "matches": "72",
+        "runs": "1,384",
+        "bat avg": "19.77",
+        "100s/50s": "0/4",
+        "deliveries": "15,943",
+        "wickets": "247",
+        "bowl avg": "30.10",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "7/32",
+        "catches/stumpings": "18/&ndash;"
+    },
+    "List A": {
+        "matches": "43",
+        "runs": "255",
+        "bat avg": "15.93",
+        "100s/50s": "0/0",
+        "deliveries": "2,211",
+        "wickets": "46",
+        "bowl avg": "32.82",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/35",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Victoria": "1994/95\u20131999/00",
+        "Tasmania": "2000/01\u20132002/03"
+    },
+    "birth_date": "1966-5-29"
+}

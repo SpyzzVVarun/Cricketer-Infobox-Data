@@ -1,0 +1,26 @@
+{
+    "name": "Richard Bateman",
+    "country": "England",
+    "birth_place": "Farnham, Surrey, England",
+    "death_date": "1913",
+    "death_place": "Ash Vale, Surrey, England",
+    "batting": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/9031.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "18",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1883"
+    },
+    "birth_date": "1849-4-29"
+}

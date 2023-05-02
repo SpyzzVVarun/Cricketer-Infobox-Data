@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Ernest Meade Smythe",
+    "birth_place": "Ealing, Middlesex, England",
+    "death_date": "1975",
+    "death_place": "St Columb Major, Cornwall, England",
+    "source": "http://www.espncricinfo.com/ci/content/player/34439.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "19.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/9",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Bengal Governor's XI": "1930/31",
+        "Devon": "1928"
+    },
+    "birth_date": "1904-3-25"
+}

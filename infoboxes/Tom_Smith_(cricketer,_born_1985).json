@@ -1,0 +1,60 @@
+{
+    "name": "Tom Smith",
+    "country": "England",
+    "fullname": "Thomas Christopher Smith",
+    "birth_place": "Liverpool, England",
+    "nickname": "Smudger",
+    "heightft": "6",
+    "heightinch": "3",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/64/64210/64210.html CricketArchive ",
+    "FC": {
+        "matches": "107",
+        "runs": "3,972",
+        "bat avg": "29.42",
+        "100s/50s": "3/26",
+        "top score": "128",
+        "deliveries": "13,431",
+        "wickets": "241",
+        "bowl avg": "28.56",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/46",
+        "catches/stumpings": "112/\u2013"
+    },
+    "LA": {
+        "matches": "73",
+        "runs": "1,635",
+        "bat avg": "32.70",
+        "100s/50s": "2/11",
+        "top score": "117",
+        "deliveries": "2,700",
+        "wickets": "84",
+        "bowl avg": "28.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/48",
+        "catches/stumpings": "24/\u2013"
+    },
+    "T20": {
+        "matches": "96",
+        "runs": "2,113",
+        "bat avg": "27.80",
+        "100s/50s": "0/11",
+        "deliveries": "1,229",
+        "wickets": "51",
+        "bowl avg": "31.84",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {
+        "Lancashire( 24 )": "2005\u20132017",
+        "\u2192 Leicestershire  (on loan)": "2008",
+        "Matabeleland Tuskers": "2011/12"
+    },
+    "birth_date": "1985-12-26"
+}

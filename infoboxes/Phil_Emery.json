@@ -1,0 +1,28 @@
+{
+    "name": "Phil Emery",
+    "full_name": "Philip Allen Emery",
+    "birth_place": "St Ives, New South Wales, Australia",
+    "nickname": "Phillthy, Slink, Fatty",
+    "country": "Australia",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper\u2013batsman",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/5139.html ESPNcricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/1"
+    },
+    "ODI": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1987/88\u20131998/99"
+    },
+    "birth_date": "1964-06-25"
+}

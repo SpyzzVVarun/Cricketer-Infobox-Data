@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Augustus Hunter Vanderspar",
+    "birth_place": "Galle, Southern Province, Ceylon",
+    "death_date": "1940",
+    "death_place": "Bournemouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22200.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1893"
+    }
+}

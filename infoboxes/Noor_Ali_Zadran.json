@@ -1,0 +1,63 @@
+{
+    "name": "Noor Ali Zadran",
+    "country": "Afghanistan",
+    "fullname": "Noor Ali Zadran",
+    "birth_place": "Khost, Afghanistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Mujeeb Ur Rahman (nephew)",
+    "internationalspan": "2009\u20132019",
+    "odidebutdate": "19 April",
+    "odidebutyear": "2009",
+    "odidebutagainst": "Scotland",
+    "odicap": "8",
+    "lastodidate": "18 June",
+    "lastodiyear": "2019",
+    "lastodiagainst": "England",
+    "odishirt": "15",
+    "T20Idebutdate": "4 February",
+    "T20Idebutyear": "2010",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "13",
+    "lastT20Idate": "5 May",
+    "lastT20Iyear": "2010",
+    "lastT20Iagainst": "South Africa",
+    "T20Ishirt": "15",
+    "source": "http://www.cricinfo.com/ci/content/player/318340.html Cricinfo ",
+    "ODI": {
+        "matches": "51",
+        "runs": "1,216",
+        "bat avg": "24.81",
+        "100s/50s": "1/7",
+        "top score": "114",
+        "catches/stumpings": "15/\u2013"
+    },
+    "T20I": {
+        "matches": "20",
+        "runs": "506",
+        "bat avg": "26.63",
+        "100s/50s": "0/3",
+        "top score": "63",
+        "catches/stumpings": "4/\u2013"
+    },
+    "FC": {
+        "matches": "11",
+        "runs": "886",
+        "bat avg": "46.63",
+        "100s/50s": "3/5",
+        "top score": "130",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "79",
+        "runs": "2,056",
+        "bat avg": "27.05",
+        "100s/50s": "4/10",
+        "top score": "122",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Mis Ainak Region": "2017"
+    },
+    "birth_date": "1988-7-10"
+}

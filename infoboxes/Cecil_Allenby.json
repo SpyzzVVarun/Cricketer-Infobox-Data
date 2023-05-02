@@ -1,0 +1,33 @@
+{
+    "name": "Cecil Allenby",
+    "country": "England",
+    "fullname": "Marmaduke Cecil Allenby",
+    "birth_place": "Elvington Hall, Brinkworth, England",
+    "death_date": "1932",
+    "death_place": "Mannamead, Plymouth, England",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "27 August",
+    "debutyear1": "1900",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "Sussex",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/6/6446/6446.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1900"
+    },
+    "birth_date": "1873-8-30"
+}

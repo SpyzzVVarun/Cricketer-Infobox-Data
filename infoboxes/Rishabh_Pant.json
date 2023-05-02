@@ -1,0 +1,69 @@
+{
+    "name": "Rishabh Pant",
+    "country": "India",
+    "fullname": "Rishabh Rajendra Pant",
+    "birth_place": "Roorkee, Uttarakhand, India url=http://www.espncricinfo.com/ranji-trophy-2016-17/content/story/1069518.html ",
+    "height": "5 ft 7 in",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper-batter",
+    "internationalspan": "2017\u20132022",
+    "testdebutdate": "18 August",
+    "testdebutyear": "2018",
+    "testdebutagainst": "England",
+    "testcap": "291",
+    "lasttestdate": "22 December",
+    "lasttestyear": "2022",
+    "lasttestagainst": "Bangladesh",
+    "odidebutdate": "21 October",
+    "odidebutyear": "2018",
+    "odidebutagainst": "West Indies",
+    "odicap": "224",
+    "odishirt": "17",
+    "lastodidate": "30 November",
+    "lastodiyear": "2022",
+    "lastodiagainst": "New Zealand",
+    "T20Idebutdate": "1 February",
+    "T20Idebutyear": "2017",
+    "T20Idebutagainst": "England",
+    "T20Icap": "68",
+    "T20Ishirt": "17 (formerly 47, 77)",
+    "lastT20Idate": "20 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/india/content/player/931581.html Cricinfo ",
+    "Test": {
+        "matches": "33",
+        "runs": "2,271",
+        "bat avg": "43.67",
+        "100s/50s": "5/11",
+        "catches/stumpings": "119/14"
+    },
+    "ODI": {
+        "matches": "30",
+        "runs": "865",
+        "bat avg": "34.60",
+        "100s/50s": "1/5",
+        "catches/stumpings": "26/1"
+    },
+    "T20I": {
+        "matches": "66",
+        "runs": "987",
+        "bat avg": "22.43",
+        "100s/50s": "0/3",
+        "catches/stumpings": "27/9"
+    },
+    "FC": {
+        "matches": "57",
+        "runs": "4,123",
+        "bat avg": "48.50",
+        "100s/50s": "10/19",
+        "top score": "308",
+        "catches/stumpings": "189/21"
+    },
+    "clubs": {
+        "Delhi": "2015\u2013present",
+        "Delhi Capitals( 17 )": "2016\u2013present"
+    },
+    "birth_date": "1997-10-04"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Edward Balfour",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Genoa, Kingdom of Sardinia",
+    "family": "Robert Balfour (brother), Archibald Balfour (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm roundarm Unknown-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/9497.html Cricinfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "586",
+        "bat avg": "12.73",
+        "100s/50s": "\u2013/2",
+        "top score": "62",
+        "deliveries": "?",
+        "wickets": "44",
+        "bowl avg": "10.00",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "5/?",
+        "catches/stumpings": "14/2"
+    },
+    "clubs": {
+        "Oxford University": "1852&ndash;1854",
+        "Marylebone Cricket Club": "1853&ndash;1854"
+    }
+}

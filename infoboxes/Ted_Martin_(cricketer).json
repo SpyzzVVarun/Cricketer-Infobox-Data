@@ -1,0 +1,31 @@
+{
+    "name": "Ted Martin",
+    "country": "Australia",
+    "fullname": "Edmund John Martin",
+    "birth_place": "Eaglehawk, Bendigo, Victoria, Australia",
+    "death_date": "2004",
+    "death_place": "Perth, Western Australia, Australia",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg spin",
+    "role": "bowler",
+    "source": "https://cricketarchive.com/Archive/Players/16/16389/16389.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "318",
+        "wickets": "6",
+        "bowl avg": "48.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/50",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1932",
+        "Australian XI": "1932"
+    },
+    "birth_date": "1902-9-30"
+}

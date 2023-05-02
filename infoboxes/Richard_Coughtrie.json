@@ -1,0 +1,41 @@
+{
+    "name": "Richard Coughtrie",
+    "country": "England",
+    "fullname": "Richard George Coughtrie",
+    "birth_place": "North Shields, Northumberland, England",
+    "heightft": "5",
+    "heightinch": "9",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "11 April",
+    "debutyear1": "2009",
+    "debutfor1": "Oxford UCCE",
+    "debutagainst1": "Worcestershire",
+    "type2": "LA",
+    "debutdate2": "2 June",
+    "debutyear2": "2011",
+    "debutfor2": "Gloucestershire",
+    "debutagainst2": "Surrey",
+    "source": "https://cricketarchive.com/Players/118/118384/118384.html CricketArchive ",
+    "FC": {
+        "matches": "30",
+        "runs": "909",
+        "bat avg": "19.76",
+        "100s/50s": "0/2",
+        "catches/stumpings": "59/1"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "65",
+        "bat avg": "7.22",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "6/6"
+    },
+    "clubs": {
+        "Oxford MCCU": "2009\u20132011",
+        "Gloucestershire( 12 )": "2010\u20132013"
+    },
+    "birth_date": "1988-9-1"
+}

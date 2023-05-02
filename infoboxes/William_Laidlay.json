@@ -1,0 +1,25 @@
+{
+    "country": "Scotland",
+    "fullname": "William James Laidlay",
+    "birth_place": "Calcutta, Bengal Presidency,, British India",
+    "death_date": "df=yes",
+    "death_place": "Freshwater, Isle of Wight,, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16431.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "228",
+        "wickets": "3",
+        "bowl avg": "35.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/85",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

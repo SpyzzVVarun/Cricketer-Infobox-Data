@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Lionel Peter Collins",
+    "birth_place": "Reading, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Fleet, Hampshire, England",
+    "family": "Sidney Olivier (brother-in-law), Louis Hunt (son-in-law)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/11250.html Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "858",
+        "bat avg": "26.81",
+        "100s/50s": "1/3",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1897&ndash;1913",
+        "Oxford University": "1899",
+        "Marylebone Cricket Club": "1907&ndash;1910"
+    }
+}

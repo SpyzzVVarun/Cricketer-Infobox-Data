@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Harry Edmund Roberts",
+    "birth_place": "Earlsdon, Warwickshire, England",
+    "death_date": "1995",
+    "death_place": "Coventry, Warwickshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19428.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "52",
+        "bat avg": "6.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1949&ndash;1950"
+    }
+}

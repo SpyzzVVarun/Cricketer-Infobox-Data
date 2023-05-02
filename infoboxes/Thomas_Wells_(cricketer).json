@@ -1,0 +1,29 @@
+{
+    "name": "Thomas Wells",
+    "country": "New Zealand",
+    "fullname": "Thomas Umfrey Wells",
+    "birth_place": "Panmure, Auckland, New Zealand",
+    "death_date": "2001",
+    "death_place": "New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right arm, style Right arm, style unknown",
+    "source": "https://cricketarchive.com/Archive/Players/33/33739/33739.html CricketArchive ",
+    "FC": {
+        "matches": "21",
+        "runs": "446",
+        "bat avg": "16.51",
+        "100s/50s": "0/2",
+        "deliveries": "228",
+        "wickets": "5",
+        "bowl avg": "23.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2-24",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Cambridge University": "1950&ndash;52",
+        "Worcestershire": "1950"
+    },
+    "birth_date": "1927-02-06"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Martin George Bayley",
+    "birth_place": "Leamington Spa, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/9617.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "318",
+        "wickets": "3",
+        "bowl avg": "41.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/54",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1969"
+    },
+    "birth_date": "1952-7-10"
+}

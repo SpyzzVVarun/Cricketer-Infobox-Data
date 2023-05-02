@@ -1,0 +1,42 @@
+{
+    "name": "Sonali Patel",
+    "female": "true",
+    "fullname": "Sonali Patel",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1864/1864653/1864653.html CricketArchive",
+    "WLA": {
+        "matches": "18",
+        "runs": "55",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "602",
+        "wickets": "24",
+        "bowl avg": "19.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/40",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "15",
+        "runs": "21",
+        "bat avg": "5.25",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "156",
+        "wickets": "7",
+        "bowl avg": "26.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/17",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "2018\u2013present",
+        "Sunrisers": "2020\u20132022"
+    },
+    "birth_date": "2003-5-23"
+}

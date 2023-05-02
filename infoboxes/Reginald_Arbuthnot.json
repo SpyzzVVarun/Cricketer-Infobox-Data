@@ -1,0 +1,31 @@
+{
+    "name": "Reginald Arbuthnot",
+    "country": "England",
+    "fullname": "Reginald James Hugh Arbuthnot",
+    "birth_place": "Brighton, Sussex",
+    "death_date": "1917",
+    "death_place": "Brighton, Sussex",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "25 August",
+    "debutyear1": "1881",
+    "debutfor1": "Kent",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "8 May",
+    "lastyear1": "1890",
+    "lastfor1": "Kent",
+    "lastagainst1": "MCC",
+    "source": "http://www.espncricinfo.com/ci/content/player/8765.html CricInfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Kent": "1881\u20131890"
+    },
+    "birth_date": "1853-6-2"
+}

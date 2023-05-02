@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "William Justus Lawry",
+    "birth_place": "St Just, Cornwall, England",
+    "batting": "Left-handed",
+    "bowling": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/16484.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1965 & 1969",
+        "Cornwall": "1958-1980"
+    },
+    "birth_date": "1940-4-24"
+}

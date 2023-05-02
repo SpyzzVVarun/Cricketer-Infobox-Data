@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Arthur Cazenove",
+    "birth_place": "Clapton, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Cranborne, Dorset, England",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm roundarm Unknown-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11602.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "129",
+        "bat avg": "16.12",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "15",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/?",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1851&ndash;1853"
+    }
+}

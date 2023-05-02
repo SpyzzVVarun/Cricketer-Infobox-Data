@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Frederick Roland Studdert Shaw",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "df=y",
+    "death_place": "Haditha, Iraq",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24597.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "193",
+        "bat avg": "17.54",
+        "100s/50s": "\u2013/1",
+        "top score": "65",
+        "deliveries": "782",
+        "wickets": "21",
+        "bowl avg": "13.80",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/30",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Europeans (India)": "1922/23",
+        "Ireland": "1913&ndash;1914"
+    }
+}

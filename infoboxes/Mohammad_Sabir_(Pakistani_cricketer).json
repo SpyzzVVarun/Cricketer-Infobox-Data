@@ -1,0 +1,43 @@
+{
+    "name": "Mohammad Sabir",
+    "country": "Pakistan",
+    "fullname": "Mohammad Sabir Hussain",
+    "birth_place": "Patiala, British India",
+    "death_date": "1998",
+    "death_place": "Sukho, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/41798.html Cricinfo",
+    "FC": {
+        "matches": "57",
+        "runs": "372",
+        "bat avg": "7.59",
+        "100s/50s": "0/0",
+        "deliveries": "11,925",
+        "wickets": "248",
+        "bowl avg": "22.12",
+        "fivefor": "18",
+        "tenfor": "6",
+        "best bowling": "7/61",
+        "catches/stumpings": "18/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "56",
+        "wickets": "3",
+        "bowl avg": "6.66",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Rawalpindi": "1962-63 to 1986-87",
+        "Punjab": "1971-72 to 1975-76"
+    },
+    "birth_date": "1943-9-1"
+}

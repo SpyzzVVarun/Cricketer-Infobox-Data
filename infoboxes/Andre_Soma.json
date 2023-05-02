@@ -1,0 +1,41 @@
+{
+    "name": "Andre Soma",
+    "full_name": "Andre Davy Soma",
+    "birth_place": "Mutare, Manicaland, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/andre-soma-55750 ESPNcricinfo",
+    "FC": {
+        "matches": "14",
+        "runs": "549",
+        "bat avg": "22.87",
+        "100s/50s": "1/0",
+        "top score": "204",
+        "deliveries": "742",
+        "wickets": "12",
+        "bowl avg": "40.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/8",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "23",
+        "bat avg": "7.66",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Manicaland": "2000/01\u20132004/05",
+        "Easterns": "2006/07"
+    },
+    "birth_date": "1983-08-12"
+}

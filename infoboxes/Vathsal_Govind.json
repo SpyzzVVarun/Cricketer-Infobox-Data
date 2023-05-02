@@ -1,0 +1,28 @@
+{
+    "name": "Vathsal Govind",
+    "birth_place": "Delhi, India",
+    "batting": "Right-handed",
+    "bowling": "Left-arm leg Left-arm leg spin",
+    "role": "Batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/1168708.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "292",
+        "bat avg": "97.33",
+        "100s/50s": "0/2",
+        "top score": "95",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Kerala": "2018-present"
+    },
+    "birth_date": "2000-1-2"
+}

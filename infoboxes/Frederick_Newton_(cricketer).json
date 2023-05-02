@@ -1,0 +1,39 @@
+{
+    "name": "Frederick Newton",
+    "country": "England",
+    "fullname": "Frederick Arthur Newton",
+    "birth_place": "Denaby, Yorkshire, England",
+    "death_date": "1924",
+    "death_place": "Warsop, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "family": "Frank Newton (brother)",
+    "type1": "FC",
+    "debutdate1": "26 July",
+    "debutyear1": "1909",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "19 May",
+    "lastyear1": "1919",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/31/31711/31711.html CricketArchive ",
+    "First-class": {
+        "matches": "20",
+        "runs": "422",
+        "bat avg": "13.61",
+        "100s/50s": "0/1",
+        "top score": "87",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1909\u20131919"
+    },
+    "birth_date": "1890-9-16"
+}

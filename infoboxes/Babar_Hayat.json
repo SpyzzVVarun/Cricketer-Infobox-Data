@@ -1,0 +1,60 @@
+{
+    "name": "Babar Hayat",
+    "country": "Hong Kong",
+    "fullname": "Babar Hayat",
+    "birth_place": "Hazro, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "internationalspan": "2012\u2013present",
+    "odidebutdate": "1 May",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Afghanistan",
+    "odicap": "22",
+    "lastodidate": "18 September",
+    "lastodiyear": "2018",
+    "lastodiagainst": "India",
+    "odishirt": "10",
+    "T20Idebutdate": "16 March",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Nepal",
+    "T20Icap": "3",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Malaysia",
+    "T20Ishirt": "10",
+    "source": "http://www.espncricinfo.com/ci/content/player/539304.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "22",
+        "runs": "784",
+        "bat avg": "39.20",
+        "100s/50s": "0/8",
+        "top score": "89",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20I": {
+        "matches": "34",
+        "runs": "799",
+        "bat avg": "28.53",
+        "100s/50s": "1/4",
+        "top score": "122",
+        "catches/stumpings": "21/\u2013"
+    },
+    "FC": {
+        "matches": "6",
+        "runs": "712",
+        "bat avg": "71.20",
+        "100s/50s": "3/1",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "53",
+        "runs": "1,806",
+        "bat avg": "39.26",
+        "100s/50s": "1/14",
+        "top score": "135",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1992-01-05"
+}

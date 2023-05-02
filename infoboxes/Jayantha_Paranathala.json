@@ -1,0 +1,33 @@
+{
+    "name": "Jayantha Paranathala",
+    "country": "Sri Lanka",
+    "fullname": "Dissanayake Mudiyanselage Mahasen Jayantha Paranathala",
+    "nickname": "Para",
+    "birth_place": "Pannipitiya, Sri Lanka",
+    "batting": "Left-handed",
+    "role": "Bowler",
+    "testdebutdate": "16 December",
+    "testdebutyear": "1977",
+    "testdebutagainst": "England",
+    "testcap": "6",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1990",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50074.html  ",
+    "Tests": {
+        "matches": "6",
+        "runs": "224",
+        "bat avg": "32.00",
+        "100s/50s": "00/1",
+        "top score": "85",
+        "wickets": "6",
+        "bowl avg": "21.16",
+        "fivefor": "00",
+        "tenfor": "0",
+        "best bowling": "3/12"
+    },
+    "clubs": {
+        "Burgher Recreation Club": "1977-1990"
+    },
+    "birth_date": "1950-11-24"
+}

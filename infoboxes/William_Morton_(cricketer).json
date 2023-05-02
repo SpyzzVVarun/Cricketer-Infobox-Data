@@ -1,0 +1,35 @@
+{
+    "name": "William Morton",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "Scotland",
+    "source": "https://cricketarchive.com/Archive/Players/27/27105/27105.html CricketArchive",
+    "death_date": "19 July 2019 (aged 58)",
+    "First-class": {
+        "matches": "13",
+        "runs": "57",
+        "bat avg": "5.70",
+        "100s/50s": "0/0",
+        "deliveries": "2117",
+        "wickets": "29",
+        "bowl avg": "34.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/40",
+        "catches/stumpings": "11/\u2013"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "60",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "482",
+        "wickets": "15",
+        "bowl avg": "22.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/47",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

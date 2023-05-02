@@ -1,0 +1,28 @@
+{
+    "name": "Deon Smith",
+    "country": "United States",
+    "fullname": "Deon Desmond Smith",
+    "birth_place": "Stellenbosch, Cape Province,, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/11/11416/11416.html CricketArchive ",
+    "FC": {
+        "matches": "11",
+        "runs": "22",
+        "bat avg": "2.44",
+        "100s/50s": "0/0",
+        "deliveries": "1,533",
+        "wickets": "22",
+        "bowl avg": "33.31",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/80",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Boland": "1991\u20131994",
+        "Boland B": "1993\u20131994"
+    },
+    "birth_date": "1968-3-30"
+}

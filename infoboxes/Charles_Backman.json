@@ -1,0 +1,29 @@
+{
+    "name": "Charles Backman",
+    "country": "Australia",
+    "fullname": "Charles James Backman",
+    "birth_place": "Adelaide, South Australia, Australia",
+    "death_date": "1915",
+    "death_place": "Anzac Cove, Gallipoli, Ottoman Turkey",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4303.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "\u2013",
+        "wickets": "3",
+        "bowl avg": "17.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/53",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "South Australia": "1911/12"
+    },
+    "birth_date": "1884-4-14"
+}

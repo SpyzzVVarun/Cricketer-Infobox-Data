@@ -1,0 +1,28 @@
+{
+    "name": "Darren Cowley",
+    "country": "England",
+    "fullname": "Darren James Cowley",
+    "birth_place": "Winchester, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Nigel Cowley (Father)",
+    "source": "http://www.cricinfo.com/ci/content/player/11568.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dorset": "2000\u20132008"
+    },
+    "birth_date": "1976-10-30"
+}

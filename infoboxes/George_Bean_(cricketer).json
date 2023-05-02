@@ -1,0 +1,42 @@
+{
+    "name": "George Bean",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1892",
+    "lasttestdate": "28 March",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1892",
+    "source": "https://cricketarchive.com/Archive/Players/0/144/144.html CricketArchive",
+    "Test": {
+        "matches": "3",
+        "runs": "92",
+        "bat avg": "18.40",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "247",
+        "runs": "8,634",
+        "bat avg": "20.70",
+        "100s/50s": "9/40",
+        "top score": "186",
+        "deliveries": "17,076",
+        "wickets": "260",
+        "bowl avg": "27.25",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "8/29",
+        "catches/stumpings": "154/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "William Ezra Coleman",
+    "birth_place": "Hitchin, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Napsbury, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11227.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "180",
+        "bat avg": "11.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "1,008",
+        "wickets": "23",
+        "bowl avg": "21.00",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/30",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1896&ndash;1914",
+        "Marylebone Cricket Club": "1902&ndash;1909"
+    }
+}

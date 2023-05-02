@@ -1,0 +1,23 @@
+{
+    "name": "Joe Hills",
+    "country": "England",
+    "fullname": "Joseph John Hills",
+    "birth_place": "Plumstead, London, England",
+    "death_date": "1969",
+    "death_place": "Westbourne, Bournemouth, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "https://www.espncricinfo.com/player/joe-hills-14194 Cricinfo ",
+    "First-class": {
+        "matches": "107",
+        "runs": "3474",
+        "bat avg": "21.57",
+        "100s/50s": "7/12",
+        "top score": "166",
+        "catches/stumpings": "95/4"
+    },
+    "clubs": {
+        "Glamorgan": "1926&ndash;1931"
+    },
+    "birth_date": "1897-10-14"
+}

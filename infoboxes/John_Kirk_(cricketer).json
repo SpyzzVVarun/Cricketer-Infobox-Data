@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "John Alexander Wright Kirk",
+    "birth_place": "Coatbridge, Lanarkshire, Scotland",
+    "death_date": "1961",
+    "death_place": "Coatbridge, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/john-kirk-25259 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "3.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "792",
+        "wickets": "11",
+        "bowl avg": "31.36",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/80",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1920&ndash;1923"
+    }
+}

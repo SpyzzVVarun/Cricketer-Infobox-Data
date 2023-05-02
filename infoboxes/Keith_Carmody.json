@@ -1,0 +1,31 @@
+{
+    "name": "Keith Carmody",
+    "country": "Australia",
+    "fullname": "Douglas Keith Carmody",
+    "birth_place": "Mosman, New South Wales, Australia",
+    "death_date": "1977",
+    "death_place": "Concord, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Middle-order batsman",
+    "source": "https://cricketarchive.com/Archive/Players/5/5769/5769.html CricketArchive ",
+    "First-class": {
+        "matches": "65",
+        "runs": "3,496",
+        "bat avg": "28.89",
+        "100s/50s": "2/20",
+        "top score": "198",
+        "deliveries": "371",
+        "wickets": "3",
+        "bowl avg": "62.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "39/3"
+    },
+    "clubs": {
+        "New South Wales": "1939/40\u20131946/47",
+        "Western Australia": "1947/48\u20131955/56"
+    },
+    "birth_date": "1919-2-16"
+}

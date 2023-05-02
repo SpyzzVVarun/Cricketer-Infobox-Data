@@ -1,0 +1,39 @@
+{
+    "name": "Garnet Lee",
+    "country": "England",
+    "fullname": "Garnet Morley Lee",
+    "birth_place": "Calverton, Nottinghamshire, England",
+    "death_date": "1976",
+    "death_place": "Newark-on-Trent, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break, Leg break, googly",
+    "role": "All-rounder",
+    "type1": "FC",
+    "debutdate1": "21 July",
+    "debutyear1": "1910",
+    "debutfor1": "Notts",
+    "debutagainst1": "Sussex",
+    "lastdate1": "30 August",
+    "lastyear1": "1933",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/30/30938/30938.html CricketArchive subscription needed ",
+    "First-class": {
+        "matches": "373",
+        "runs": "14,858",
+        "bat avg": "25.75",
+        "100s/50s": "22/60",
+        "deliveries": "24,782",
+        "wickets": "397",
+        "bowl avg": "28.04",
+        "fivefor": "19",
+        "tenfor": "1",
+        "best bowling": "7/67",
+        "catches/stumpings": "157/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1910\u20131922",
+        "Derbyshire": "1925\u20131933"
+    },
+    "birth_date": "1887-6-7"
+}

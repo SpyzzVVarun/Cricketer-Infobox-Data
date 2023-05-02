@@ -1,0 +1,28 @@
+{
+    "name": "John Madden",
+    "fullname": "John Charles Pengelley Madden",
+    "birth_place": "Pontypool, Monmouthshire, England",
+    "death_date": "1975",
+    "death_place": "Lowertown, Helston, Cornwall, England",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/4/4519/4519.html CricketArchive ",
+    "FC": {
+        "matches": "10",
+        "runs": "300",
+        "bat avg": "15.78",
+        "100s/50s": "0/2",
+        "top score": "63",
+        "deliveries": "3",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "0/8",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1922",
+        "Somerset": "1928&ndash;1930"
+    },
+    "birth_date": "1896-3-1"
+}

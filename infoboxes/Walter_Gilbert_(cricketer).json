@@ -1,0 +1,30 @@
+{
+    "name": "Walter Gilbert",
+    "country": "England",
+    "fullname": "Walter Raleigh Gilbert",
+    "birth_place": "Strand, London, England",
+    "death_date": "1924",
+    "death_place": "Calgary, Alberta, Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/29/29642/29642.html CricketArchive ",
+    "First-class": {
+        "matches": "175",
+        "runs": "5,290",
+        "bat avg": "19.16",
+        "100s/50s": "3/15",
+        "deliveries": "11,867",
+        "wickets": "295",
+        "bowl avg": "17.93",
+        "fivefor": "15",
+        "tenfor": "1",
+        "best bowling": "7/28",
+        "catches/stumpings": "160/6"
+    },
+    "clubs": {
+        "Middlesex": "1873\u20131874",
+        "Gloucestershire": "1876\u20131886"
+    },
+    "birth_date": "1853-9-16"
+}

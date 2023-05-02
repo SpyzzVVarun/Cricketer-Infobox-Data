@@ -1,0 +1,37 @@
+{
+    "name": "Obaid Haroon",
+    "country": "India",
+    "fullname": "Obaid Haroon",
+    "birth_place": "Srinagar, Kashmir",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/india/content/player/430524.html cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "501",
+        "bat avg": "25.05",
+        "100s/50s": "0/3",
+        "top score": "94",
+        "catches/stumpings": "30/5"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "4/1"
+    },
+    "T20": {
+        "matches": "7",
+        "runs": "21",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Jammu & Kashmir": "2009"
+    },
+    "birth_date": "1986-12-2"
+}

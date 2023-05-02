@@ -1,0 +1,38 @@
+{
+    "name": "Babar Naeem",
+    "country": "Pakistan",
+    "birth_place": "Rawalpindi, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/39959.html Cricinfo ",
+    "FC": {
+        "matches": "162",
+        "runs": "8120",
+        "bat avg": "29.20",
+        "100s/50s": "12/41",
+        "top score": "227",
+        "deliveries": "9311",
+        "wickets": "144",
+        "bowl avg": "32.25",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/57",
+        "catches/stumpings": "114/-"
+    },
+    "List A": {
+        "matches": "105",
+        "runs": "3185",
+        "bat avg": "30.04",
+        "100s/50s": "1/24",
+        "top score": "112",
+        "deliveries": "4131",
+        "wickets": "84",
+        "bowl avg": "41.50",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/31",
+        "catches/stumpings": "32/-"
+    },
+    "clubs": {},
+    "birth_date": "1983-1-1"
+}

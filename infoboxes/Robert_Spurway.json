@@ -1,0 +1,32 @@
+{
+    "name": "Robert Spurway",
+    "country": "England",
+    "fullname": "Robert Popham Spurway",
+    "birth_place": "Heathfield, Somerset, England",
+    "death_date": "1898",
+    "death_place": "Woolwich, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "type1": "First-class",
+    "debutdate1": "27 December",
+    "debutyear1": "1889",
+    "debutfor1": "Natal",
+    "debutagainst1": "Port Elizabeth",
+    "lastdate1": "2 June",
+    "lastyear1": "1898",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3829/3829.html CricketArchive ",
+    "First-class": {
+        "matches": "20",
+        "runs": "578",
+        "bat avg": "18.64",
+        "100s/50s": "1/2",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Natal": "1889\u20131890",
+        "Somerset": "1893\u20131898"
+    },
+    "birth_date": "1866-07-16"
+}

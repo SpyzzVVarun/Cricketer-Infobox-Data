@@ -1,0 +1,32 @@
+{
+    "name": "William Curgenven",
+    "country": "England",
+    "fullname": "William Grafton Curgenven",
+    "birth_place": "Plymouth, England",
+    "death_date": "1910",
+    "death_place": "Fareham, Hampshire, England",
+    "batting": "Right-handed",
+    "family": "Henry Curgenven (son)",
+    "type1": "FC",
+    "debutdate1": "9 August",
+    "debutyear1": "1872",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "19 August",
+    "lastyear1": "1878",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Archive/Players/28/28890/28890.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "376",
+        "bat avg": "12.53",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1872\u20131878"
+    },
+    "birth_date": "1841-11-30"
+}

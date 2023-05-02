@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "John Monteath",
+    "birth_place": "Ballyholme, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Awliscombe, Devon, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ireland/content/player/31167.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1903/04"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Bob White",
+    "fullname": "Robert Arthur White",
+    "birth_place": "Fulham, London",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/7/7359/7359.html CricketArchive",
+    "First-class": {
+        "matches": "413",
+        "runs": "12,452",
+        "bat avg": "23.18",
+        "100s/50s": "5/50",
+        "deliveries": "47,694",
+        "wickets": "693",
+        "bowl avg": "30.50",
+        "fivefor": "28",
+        "tenfor": "4",
+        "best bowling": "7/41",
+        "catches/stumpings": "191/0"
+    },
+    "List A": {
+        "matches": "169",
+        "runs": "1,379",
+        "bat avg": "17.02",
+        "100s/50s": "0/2",
+        "deliveries": "5,933",
+        "wickets": "136",
+        "bowl avg": "27.47",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/15",
+        "catches/stumpings": "44/0"
+    },
+    "clubs": {
+        "Middlesex": "1958 to 1965",
+        "Nottinghamshire": "1966 to 1980"
+    },
+    "birth_date": "6 October 1936"
+}

@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Mohamed Asif Din",
+    "birth_place": "Kampala, Protectorate of Uganda",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "https://www.espncricinfo.com/player/asif-din-8574 Cricinfo ",
+    "First-class": {
+        "matches": "211",
+        "runs": "9,074",
+        "bat avg": "30.55",
+        "100s/50s": "9/42",
+        "top score": "217",
+        "deliveries": "6,573",
+        "wickets": "79",
+        "bowl avg": "55.60",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/61",
+        "catches/stumpings": "114/\u2013"
+    },
+    "List A": {
+        "matches": "256",
+        "runs": "5,943",
+        "bat avg": "31.11",
+        "100s/50s": "7/26",
+        "top score": "137",
+        "deliveries": "951",
+        "wickets": "16",
+        "bowl avg": "43.81",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/40",
+        "catches/stumpings": "43/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1981&ndash;1994",
+        "Marylebone Cricket Club": "1997",
+        "Shropshire": "1996&ndash;2002"
+    }
+}

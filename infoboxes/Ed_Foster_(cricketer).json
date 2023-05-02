@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Edward John Foster",
+    "birth_place": "Banbury, Oxfordshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "John Foster (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/13315.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "291",
+        "bat avg": "32.33",
+        "100s/50s": "1/1",
+        "top score": "105",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {
+        "Loughborough UCCE": "2005\u20132007",
+        "Shropshire": "2004\u2013present"
+    },
+    "birth_date": "1975-1-21"
+}

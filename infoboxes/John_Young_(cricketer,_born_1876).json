@@ -1,0 +1,37 @@
+{
+    "name": "John Young",
+    "country": "England",
+    "fullname": "John Henry Young",
+    "birth_place": "Melbourne, Derbyshire, England",
+    "death_date": "1913",
+    "death_place": "Melbourne, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "FC",
+    "debutdate1": "8 June",
+    "debutyear1": "1899",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "29 August",
+    "lastyear1": "1901",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Leicestershire",
+    "source": "https://cricketarchive.com/Archive/Players/34/34155/34155.html CricketArchive ",
+    "First-class": {
+        "matches": "28",
+        "runs": "379",
+        "bat avg": "9.71",
+        "100s/50s": "0/0",
+        "deliveries": "1,967",
+        "wickets": "28",
+        "bowl avg": "35.57",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/65",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1899\u20131901"
+    },
+    "birth_date": "1876-7-2"
+}

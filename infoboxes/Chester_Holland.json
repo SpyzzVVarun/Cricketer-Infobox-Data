@@ -1,0 +1,29 @@
+{
+    "name": "Chester Holland",
+    "country": "New Zealand",
+    "fullname": "Chester Arthur Holland",
+    "birth_place": "Bunnythorpe, Manawatu, New Zealand",
+    "death_date": "1976",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://cricketarchive.co.uk/Archive/Players/22/22145/22145.html Cricket Archive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "121",
+        "bat avg": "25.09",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "657",
+        "wickets": "6",
+        "bowl avg": "62.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/60",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Wellington": "1923-24 to 1924-25"
+    },
+    "birth_date": "1888-8-26"
+}

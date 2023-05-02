@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "David Craig Stevenson",
+    "birth_place": "Kilmarnock, Ayrshire, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Dundee, Angus, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/25395.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "96",
+        "bat avg": "8.72",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "246",
+        "wickets": "4",
+        "bowl avg": "20.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1922&ndash;1925",
+        "Northumberland": "1932"
+    }
+}

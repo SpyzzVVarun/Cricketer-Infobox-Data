@@ -1,0 +1,31 @@
+{
+    "name": "Leland Hone",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "1896",
+    "death_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "country": "England",
+    "onetest": "true",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "2 January",
+    "testdebutyear": "1879",
+    "source": "https://cricketarchive.com/Archive/Players/0/31/31.html CricketArchive",
+    "Tests": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "2/0"
+    },
+    "First-class": {
+        "matches": "8",
+        "runs": "85",
+        "bat avg": "7.08",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "9/2"
+    },
+    "clubs": {},
+    "birth_date": "1853-01-30"
+}

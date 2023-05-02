@@ -1,0 +1,28 @@
+{
+    "name": "Claude Hickson",
+    "country": "New Zealand",
+    "fullname": "Henry Claude Hickson",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1948",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/37388.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "973",
+        "bat avg": "21.62",
+        "100s/50s": "1/2",
+        "top score": "135",
+        "deliveries": "432",
+        "wickets": "10",
+        "bowl avg": "22.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/56",
+        "catches/stumpings": "26/0"
+    },
+    "clubs": {
+        "Wellington": "1898/99\u20131911/12"
+    },
+    "birth_date": "1878-9-4"
+}

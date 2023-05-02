@@ -1,0 +1,40 @@
+{
+    "name": "Murray Sargent",
+    "country": "Australia",
+    "fullname": "Murray Alfred James Sargent",
+    "birth_place": "North Adelaide, South Australia",
+    "death_date": "2012",
+    "death_place": "Sanctuary Cove, Queensland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm legbreak/medium Right-arm legbreak/medium pace",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "9 June",
+    "debutyear1": "1951",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "7 February",
+    "lastyear1": "1961",
+    "lastfor1": "South Australia",
+    "lastagainst1": "New South Wales",
+    "source": "https://cricketarchive.com/Archive/Players/16/16651/16651.html CricketArchive ",
+    "First-class": {
+        "matches": "22",
+        "runs": "804",
+        "bat avg": "23.64",
+        "100s/50s": "1/4",
+        "top score": "164",
+        "deliveries": "352",
+        "wickets": "3",
+        "bowl avg": "68.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/18",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1951\u201352",
+        "South Australia": "1960/61"
+    },
+    "birth_date": "1928-8-23"
+}

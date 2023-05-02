@@ -1,0 +1,53 @@
+{
+    "name": "Jean Coulston",
+    "female": "true",
+    "fullname": "Jean Marie Coulston",
+    "birth_place": "Petone, New Zealand",
+    "death_date": "2001",
+    "death_place": "Lower Hutt, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "Bowler",
+    "family": "James Franklin (nephew)",
+    "internationalspan": "1954\u20131957",
+    "country": "New Zealand",
+    "testdebutdate": "3 July",
+    "testdebutyear": "1954",
+    "testdebutagainst": "England",
+    "testcap": "32",
+    "lasttestdate": "27 December",
+    "lasttestyear": "1957",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17253/17253.html CricketArchive ",
+    "WTest": {
+        "matches": "5",
+        "runs": "76",
+        "bat avg": "10.85",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "1,171",
+        "wickets": "19",
+        "bowl avg": "17.94",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/38",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WFC": {
+        "matches": "29",
+        "runs": "536",
+        "bat avg": "14.48",
+        "100s/50s": "0/1",
+        "deliveries": "4,382",
+        "wickets": "89",
+        "bowl avg": "13.54",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/24",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1952/53\u20131957/58"
+    },
+    "birth_date": "1934-10-8"
+}

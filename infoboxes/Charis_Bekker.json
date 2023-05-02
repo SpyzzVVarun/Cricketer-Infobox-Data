@@ -1,0 +1,29 @@
+{
+    "name": "Charis Bekker",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Charis Bekker",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/2510/2510029/2510029.html CricketArchive",
+    "WLA": {
+        "matches": "15",
+        "runs": "130",
+        "bat avg": "16.25",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "352",
+        "wickets": "7",
+        "bowl avg": "43.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2021/22\u2013present",
+        "Perth Scorchers": "2022/23\u2013present"
+    },
+    "birth_date": "2004-3-14"
+}

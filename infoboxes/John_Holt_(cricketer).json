@@ -1,0 +1,43 @@
+{
+    "name": "John Holt",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "family": "Joseph Holt (father)",
+    "country": "West Indies",
+    "testdebutagainst": "England",
+    "testdebutdate": "15 January",
+    "testdebutyear": "1954",
+    "lasttestdate": "6 March",
+    "lasttestagainst": "Pakistan",
+    "lasttestyear": "1959",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/52186.html CricInfo",
+    "Test": {
+        "matches": "17",
+        "runs": "1,066",
+        "bat avg": "36.75",
+        "100s/50s": "2/5",
+        "top score": "166",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "20.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "8/\u2013"
+    },
+    "First-class": {
+        "matches": "71",
+        "runs": "4,258",
+        "bat avg": "41.33",
+        "100s/50s": "9/22",
+        "top score": "172",
+        "deliveries": "366",
+        "wickets": "5",
+        "bowl avg": "35.39",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/2",
+        "catches/stumpings": "30/1"
+    },
+    "clubs": {}
+}

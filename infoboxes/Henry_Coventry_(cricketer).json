@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Henry Thomas Coventry",
+    "birth_place": "Regent's Park, London, England",
+    "death_date": "1934",
+    "death_place": "Westminster, London, England",
+    "family": "Charles Coventry (brother), John Coventry (nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/11359.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "12.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1888"
+    }
+}

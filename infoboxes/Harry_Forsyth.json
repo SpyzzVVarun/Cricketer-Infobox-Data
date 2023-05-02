@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "Harry Hollingsworth Forsyth",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Ireland",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24570.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "49",
+        "bat avg": "24.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Dublin University": "1926"
+    }
+}

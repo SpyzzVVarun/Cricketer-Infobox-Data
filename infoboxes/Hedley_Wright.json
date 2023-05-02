@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Hedley James Wootton Wright",
+    "birth_place": "Spilsby, Lincolnshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/23287.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "38",
+        "bat avg": "12.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "16",
+        "deliveries": "180",
+        "wickets": "4",
+        "bowl avg": "31.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/29",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Suffolk": "1984&ndash;1990",
+        "Buckinghamshire": "1975&ndash;1978"
+    },
+    "birth_date": "1953-6-20"
+}

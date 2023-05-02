@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Frederick Henry Browning",
+    "birth_place": "Bury St Edmunds, Suffolk, England",
+    "death_date": "1929",
+    "death_place": "Flaxley, Gloucestershire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/10091.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "38",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1907&ndash;1908"
+    }
+}

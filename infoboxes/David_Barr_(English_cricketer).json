@@ -1,0 +1,21 @@
+{
+    "name": "David Barr",
+    "country": "England",
+    "fullname": "David James Barr",
+    "birth_place": "Coventry, Warwickshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/10312.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "89",
+        "bat avg": "14.83",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Warwickshire Cricket Board": "2001\u20132002",
+        "Buckinghamshire": "2003\u20132005"
+    },
+    "birth_date": "1970-7-23"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Rowland Shaddick",
+    "country": "England",
+    "fullname": "Rowland Allen Shaddick",
+    "birth_place": "Clapton, London, England",
+    "death_date": "1994",
+    "death_place": "Enfield, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/england/content/player/20677.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "62",
+        "bat avg": "5.16",
+        "100s/50s": "0/0",
+        "top score": "12 not out",
+        "deliveries": "2573",
+        "wickets": "49",
+        "bowl avg": "28.93",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/34",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Middlesex": "1946&ndash;1947"
+    },
+    "birth_date": "1920-3-26"
+}

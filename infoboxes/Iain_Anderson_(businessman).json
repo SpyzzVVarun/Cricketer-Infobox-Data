@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Iain Mair Anderson",
+    "birth_place": "Ballygunge, Bengal Presidency, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/25139.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "114",
+        "bat avg": "14.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1951&ndash;1953"
+    },
+    "birth_date": "1931-5-11"
+}

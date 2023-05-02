@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Ian James Curtis",
+    "birth_place": "Purley, Surrey, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/10922.html Cricinfo ",
+    "First-class": {
+        "matches": "31",
+        "runs": "77",
+        "bat avg": "4.81",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "4,795",
+        "wickets": "51",
+        "bowl avg": "41.35",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/28",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "23",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,037",
+        "wickets": "10",
+        "bowl avg": "65.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/53",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1985\u20132000",
+        "Surrey": "1983\u20131984",
+        "Combined Universities": "1980\u20131982",
+        "Oxford University": "1980\u20131982"
+    },
+    "birth_date": "1959-5-13"
+}

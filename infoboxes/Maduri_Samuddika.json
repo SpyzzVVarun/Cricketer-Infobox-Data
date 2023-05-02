@@ -1,0 +1,21 @@
+{
+    "name": "Maduri Samuddika",
+    "female": "true",
+    "country": "Sri Lanka",
+    "fullname": "Hewanam Arachchige Maduri Samuddika",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off spin",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/332543.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1984-11-8",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2014 Incheon Team"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Rohan Kunnummal",
+    "fullname": "Rohan Sushil Kunnummal",
+    "birth_place": "Palakkad, Kerala, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Opening batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/1079382.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "769",
+        "bat avg": "96.12",
+        "100s/50s": "4/3",
+        "top score": "143",
+        "catches/stumpings": "5/0"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "717",
+        "bat avg": "55.15",
+        "100s/50s": "2/3",
+        "top score": "134",
+        "catches/stumpings": "3/0"
+    },
+    "T20": {
+        "matches": "19",
+        "runs": "531",
+        "bat avg": "33.18",
+        "100s/50s": "0/4",
+        "top score": "58",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Kerala( 10 )": "2017\u2013present"
+    },
+    "birth_date": "1998-05-10"
+}

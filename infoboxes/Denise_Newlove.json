@@ -1,0 +1,27 @@
+{
+    "name": "Denise Newlove",
+    "fullname": "Denise Marie Newlove",
+    "female": "true",
+    "birth_place": "Patea, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "country": "Scotland",
+    "internationalspan": "2000\u20132001",
+    "odidebutdate": "10 August",
+    "odidebutyear": "2001",
+    "odidebutagainst": "England",
+    "odicap": "5",
+    "lastodidate": "12 August",
+    "lastodiyear": "2001",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/55201.html Cricinfo  ",
+    "ODI": {
+        "matches": "3",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1977-2-2"
+}

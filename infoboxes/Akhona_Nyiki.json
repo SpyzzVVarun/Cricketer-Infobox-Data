@@ -1,0 +1,62 @@
+{
+    "name": "Akhona Nyiki",
+    "country": "South Africa",
+    "female": "true",
+    "fullname": "Akhona Nyiki",
+    "birth_place": "Fort Beaufort, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "internationalspan": "2011",
+    "oneodi": "true",
+    "odidebutdate": "26 November",
+    "odidebutyear": "2011",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "61",
+    "source": "https://cricketarchive.com/Archive/Players/415/415928/415928.html CricketArchive ",
+    "WODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "54",
+        "wickets": "2",
+        "bowl avg": "16.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "55",
+        "runs": "353",
+        "bat avg": "9.54",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "1,520",
+        "wickets": "41",
+        "bowl avg": "15.48",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/33",
+        "catches/stumpings": "12/\u2013"
+    },
+    "WT20": {
+        "matches": "5",
+        "runs": "12",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "90",
+        "wickets": "4",
+        "bowl avg": "14.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Border": "2006/07\u20132014/15"
+    },
+    "birth_date": "1992-06-02"
+}

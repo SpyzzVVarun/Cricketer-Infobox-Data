@@ -1,0 +1,20 @@
+{
+    "name": "Batchelor Roper",
+    "country": "England",
+    "fullname": "Batchelor Roper",
+    "birth_place": "Hollingbourne, Kent",
+    "death_date": "10 January 1876",
+    "death_place": "Hollingbourne, Kent",
+    "source": "http://www.espncricinfo.com/ci/content/player/19997.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "1.75",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Kent": "1835"
+    }
+}

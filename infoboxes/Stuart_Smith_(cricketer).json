@@ -1,0 +1,19 @@
+{
+    "country": "Ireland",
+    "fullname": "Stuart Campbell Smith",
+    "birth_place": "Rathmines, Ireland",
+    "death_date": "Unknown",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24522.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "3.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1907&ndash;1908"
+    }
+}

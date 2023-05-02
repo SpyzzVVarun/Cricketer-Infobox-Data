@@ -1,0 +1,47 @@
+{
+    "name": "William Perkins",
+    "country": "West Indies",
+    "fullname": "William Keith Donald Perkins",
+    "birth_place": "Barbados",
+    "batting": "Left-handed",
+    "role": "Batsman, Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/97/97645/97645.html CricketArchive ",
+    "FC": {
+        "matches": "5",
+        "runs": "243",
+        "bat avg": "24.30",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "catches/stumpings": "3/0"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "52",
+        "bat avg": "10.40",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "3/1"
+    },
+    "T20I": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "337",
+        "bat avg": "33.70",
+        "100s/50s": "0/3",
+        "top score": "56",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2006\u20132011",
+        "Combined Campuses and Colleges": "2011\u2013",
+        "Trinbago Knight Riders": "2013\u2013present"
+    },
+    "birth_date": "1986-10-8"
+}

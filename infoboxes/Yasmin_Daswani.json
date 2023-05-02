@@ -1,0 +1,32 @@
+{
+    "name": "Yasmin Daswani",
+    "female": "true",
+    "country": "Hong Kong",
+    "fullname": "Yasmin Daswani",
+    "birth_place": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "12 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Indonesia",
+    "T20Icap": "4",
+    "lastT20Idate": "30 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Japan",
+    "source": "https://www.espncricinfo.com/player/yasmin-daswani-411109 Cricinfo ",
+    "WT20I": {
+        "matches": "29",
+        "runs": "313",
+        "bat avg": "15.65",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {},
+    "birth_date": "1994-09-21"
+}

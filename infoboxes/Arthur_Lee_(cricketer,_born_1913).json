@@ -1,0 +1,31 @@
+{
+    "name": "Arthur Lee",
+    "country": "England",
+    "fullname": "Arthur Michael Lee",
+    "birth_place": "Liphook, Hampshire, England",
+    "death_date": "1983",
+    "death_place": "Midhurst, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Edward Lee (Father)",
+    "source": "http://www.cricinfo.com/ci/content/player/16243.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "64",
+        "bat avg": "10.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1934&ndash;1935",
+        "Hampshire": "1933"
+    },
+    "birth_date": "1913-8-22"
+}

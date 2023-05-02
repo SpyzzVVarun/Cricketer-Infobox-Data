@@ -1,0 +1,29 @@
+{
+    "name": "Michael Cowan",
+    "country": "England",
+    "fullname": "Michael Joseph Cowan",
+    "birth_place": "Leeds, Yorkshire, England",
+    "death_date": "2022",
+    "death_place": "Chicago, Illinois, United States",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11367.html Cricinfo",
+    "First-class": {
+        "matches": "99",
+        "runs": "233",
+        "bat avg": "5.54",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "15,963",
+        "wickets": "276",
+        "bowl avg": "24.57",
+        "fivefor": "13",
+        "tenfor": "2",
+        "best bowling": "9/43",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1953\u20131962"
+    },
+    "birth_date": "1933-06-10"
+}

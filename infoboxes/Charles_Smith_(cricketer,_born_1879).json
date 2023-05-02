@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Lawrence Arthur Smith",
+    "birth_place": "Henfield, Sussex, England",
+    "death_date": "1949",
+    "death_place": "Wineham, Sussex, England",
+    "family": "Charles Smith (father), Alfred Smith (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "https://www.espncricinfo.com/player/charles-smith-20838 Cricinfo ",
+    "First-class": {
+        "matches": "220",
+        "runs": "5,844",
+        "bat avg": "19.54",
+        "100s/50s": "2/23",
+        "deliveries": "912",
+        "wickets": "9",
+        "bowl avg": "65.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/0",
+        "catches/stumpings": "148/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1898&ndash;1911"
+    }
+}

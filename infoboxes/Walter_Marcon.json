@@ -1,0 +1,38 @@
+{
+    "name": "Walter Marcon",
+    "country": "England",
+    "birth_place": "Swaffham, Norfolk, England",
+    "death_date": "1875",
+    "death_place": "Edgefield, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1843",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "MCC",
+    "lastdate1": "5 August",
+    "lastyear1": "1844",
+    "lastfor1": "West of England",
+    "lastagainst1": "MCC",
+    "source": "http://content-uk.cricinfo.com/england/content/player/17829.html CricInfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "85",
+        "bat avg": "9.44",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "40",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1843\u20131844"
+    },
+    "birth_date": "1824-03-28"
+}

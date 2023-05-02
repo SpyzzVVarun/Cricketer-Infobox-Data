@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Francis Brandt",
+    "birth_place": "Pendleton, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Cheltenham, Gloucestershire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10504.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "76",
+        "bat avg": "8.44",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "632",
+        "wickets": "16",
+        "bowl avg": "15.30",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/22",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1859&ndash;1861"
+    }
+}

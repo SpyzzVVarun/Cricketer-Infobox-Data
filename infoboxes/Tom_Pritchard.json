@@ -1,0 +1,32 @@
+{
+    "name": "Tom Pritchard",
+    "country": "New Zealand",
+    "fullname": "Thomas Leslie Pritchard",
+    "birth_place": "Kaupokonui, Taranaki, New Zealand",
+    "death_date": "2017",
+    "death_place": "Levin, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast, right-arm Right-arm fast, right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/38224.html Cricinfo ",
+    "First-class": {
+        "matches": "200",
+        "runs": "3,363",
+        "bat avg": "13.34",
+        "100s/50s": "0/6",
+        "top score": "81",
+        "deliveries": "42,871",
+        "wickets": "818",
+        "bowl avg": "23.30",
+        "fivefor": "48",
+        "tenfor": "11",
+        "best bowling": "8/20",
+        "catches/stumpings": "84/\u2212"
+    },
+    "clubs": {
+        "Wellington": "1937/38\u20131940/41",
+        "Warwickshire": "1946\u20131955",
+        "Kent": "1956"
+    },
+    "birth_date": "1917-3-10"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Dom Telo",
+    "country": "South Africa",
+    "fullname": "Filipe Dominic Telo",
+    "birth_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-uk.cricinfo.com/countycricket2008/content/player/222838.html Cricinfo.com ",
+    "FC": {
+        "matches": "37",
+        "runs": "1798",
+        "bat avg": "30.47",
+        "100s/50s": "4/7",
+        "deliveries": "47",
+        "wickets": "1",
+        "bowl avg": "48.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/36",
+        "catches/stumpings": "8/0"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "626",
+        "bat avg": "26.36",
+        "100s/50s": "0/4",
+        "top score": "90",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "T20": {
+        "matches": "16",
+        "runs": "256",
+        "bat avg": "19.69",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Western Province": "2005/06\u20132010/11",
+        "Cape Cobras": "2005/06\u20132007/08",
+        "Derbyshire": "2008\u20132009"
+    },
+    "birth_date": "1986-03-04"
+}

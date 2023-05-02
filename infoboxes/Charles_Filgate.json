@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "Charles Roden Filgate",
+    "birth_place": "Ardee, Ireland",
+    "death_date": "1930",
+    "death_place": "Pinner, Middlesex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/13046.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "563",
+        "bat avg": "15.63",
+        "100s/50s": "0/2",
+        "top score": "93",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1869&ndash;1873",
+        "Gloucestershire": "1870&ndash;1877"
+    }
+}

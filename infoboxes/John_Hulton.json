@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Meredith Hulton",
+    "birth_place": "Whalley Range, Lancashire, England",
+    "death_date": "1942",
+    "death_place": "Poole, Dorset, England",
+    "family": "Campbell Hulton senior (father), Campbell Hulton junior (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15039.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "127",
+        "bat avg": "25.40",
+        "100s/50s": "\u2013/1",
+        "top score": "65",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1903&ndash;1905"
+    }
+}

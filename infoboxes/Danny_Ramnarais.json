@@ -1,0 +1,42 @@
+{
+    "country": "Canada",
+    "fullname": "Karamchandra  Ramnarais",
+    "birth_place": "Port Mourant, East Berbice-Corentyne, Guyana",
+    "batting": "Right-handed",
+    "bowling": "n/a",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/5/5591/5591.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/1"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "1",
+        "bat avg": "0.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/2"
+    },
+    "clubs": {
+        "Canada": "1993-1998",
+        "Guyana": "1986/87",
+        "Berbice": "1983/84&ndash;1986/87"
+    },
+    "birth_date": "1964-6-20"
+}

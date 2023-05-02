@@ -1,0 +1,20 @@
+{
+    "name": "Jason Borgas",
+    "fullname": "Jason Daniel Borgas",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/4299.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "417",
+        "bat avg": "34.75",
+        "100s/50s": "0/4",
+        "top score": "95",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2007/08"
+    },
+    "birth_date": "1981-9-3"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Trevin Bastiampillai",
+    "country": "Canada",
+    "fullname": "Trevin Callistus Bastiampillai",
+    "birth_place": "Colombo, Western Province, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "internationalspan": "2007\u20132014",
+    "odidebutdate": "3 July",
+    "odidebutyear": "2007",
+    "odidebutagainst": "Netherlands",
+    "odicap": "45",
+    "lastodidate": "28 January",
+    "lastodiyear": "2014",
+    "lastodiagainst": "Netherlands",
+    "T20Idebutdate": "3 February",
+    "T20Idebutyear": "2010",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "22",
+    "lastT20Idate": "04 February",
+    "lastT20Iyear": "2010",
+    "lastT20Iagainst": "Afghanistan",
+    "source": "http://www.espncricinfo.com/canada/content/player/23874.html Cricinfo ",
+    "ODI": {
+        "matches": "13",
+        "runs": "175",
+        "bat avg": "13.46",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20I": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "10",
+        "runs": "478",
+        "bat avg": "25.15",
+        "100s/50s": "0/5",
+        "top score": "73",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "278",
+        "bat avg": "14.63",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1985-10-26"
+}

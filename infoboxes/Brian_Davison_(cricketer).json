@@ -1,0 +1,43 @@
+{
+    "name": "Brian Davison",
+    "country": "Australia",
+    "fullname": "Brian Fettes Davison",
+    "birth_place": "Bulawayo, Matabeleland, Southern Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium/Off Right-arm medium/Off break",
+    "role": "Batsman",
+    "source": "http://content-uk.cricinfo.com/australia/content/player/55362.html Cricinfo.com |",
+    "FC": {
+        "matches": "467",
+        "runs": "27,453",
+        "bat avg": "39.96",
+        "100s/50s": "53/148",
+        "top score": "189",
+        "wickets": "82",
+        "bowl avg": "32.78",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/52",
+        "catches/stumpings": "338/&ndash;"
+    },
+    "List A": {
+        "matches": "334",
+        "runs": "8,343",
+        "bat avg": "31.24",
+        "100s/50s": "7/46",
+        "deliveries": "1,802",
+        "wickets": "54",
+        "bowl avg": "25.22",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/29",
+        "catches/stumpings": "80/&ndash;"
+    },
+    "clubs": {
+        "Rhodesia": "1967-68&ndash;1979-80",
+        "Leicestershire": "1970&ndash;1980",
+        "Gloucestershire": "1981&ndash;1987",
+        "Tasmania": "1979-80&ndash;1987-88"
+    },
+    "birth_date": "1946-12-21"
+}

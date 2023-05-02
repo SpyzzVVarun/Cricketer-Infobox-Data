@@ -1,0 +1,32 @@
+{
+    "name": "Gerald Innes",
+    "country": "South Africa",
+    "fullname": "Gerald Alfred Skerten Innes",
+    "birth_place": "Wynberg, Cape Town, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Cape Town",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://cricketarchive.com/Archive/Players/3/3033/3033.html CricketArchive",
+    "First-class": {
+        "matches": "75",
+        "runs": "4,001",
+        "bat avg": "33.62",
+        "100s/50s": "7/21",
+        "top score": "140 not out",
+        "deliveries": "1,836",
+        "wickets": "16",
+        "bowl avg": "45.81",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/22",
+        "catches/stumpings": "60/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1950/51\u20131962/63",
+        "Transvaal": "1963/64\u20131964/65"
+    },
+    "birth_date": "1931-11-16"
+}

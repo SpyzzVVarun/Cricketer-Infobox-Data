@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "David Bleakley",
+    "birth_place": "Pilkington, Lancashire, England",
+    "death_date": "1882 (aged 64/65)",
+    "death_place": "Bury, Lancashire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10465.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "68",
+        "bat avg": "6.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {}
+}

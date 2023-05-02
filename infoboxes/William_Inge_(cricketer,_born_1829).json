@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Inge",
+    "birth_place": "Kegworth, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "family": "Francis Inge (brother), John Inge (brother), Will Inge (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15452.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "7",
+        "bowl avg": "?",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/?",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1853"
+    }
+}

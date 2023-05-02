@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Clark Ford",
+    "birth_place": "Uddingston, Lanarkshire, Scotland",
+    "death_date": "1986",
+    "death_place": "Broxburn, West Lothian, Scotland",
+    "family": "Malcolm Ford (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/alexander-ford-25209 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "138",
+        "wickets": "1",
+        "bowl avg": "78.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/64",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1924&ndash;1925"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Rita Scott",
+    "fullname": "Rita Scott",
+    "female": "true",
+    "birth_place": "Jamaica",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "West Indies",
+    "internationalspan": "1993\u20131997",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "India",
+    "odicap": "23",
+    "lastodidate": "20 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Archive/Players/17/17441/17441.html CricketArchive ",
+    "WODI": {
+        "matches": "4",
+        "runs": "73",
+        "bat avg": "24.33",
+        "100s/50s": "0/1",
+        "top score": "66",
+        "catches/stumpings": "1/1"
+    },
+    "WFC": {
+        "matches": "11",
+        "runs": "264",
+        "bat avg": "33.00",
+        "100s/50s": "0/1",
+        "catches/stumpings": "0/1"
+    },
+    "WLA": {
+        "matches": "26",
+        "runs": "697",
+        "bat avg": "34.85",
+        "100s/50s": "0/5",
+        "catches/stumpings": "7/2"
+    },
+    "clubs": {
+        "Jamaica": "1975/76\u20132003"
+    }
+}

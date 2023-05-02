@@ -1,0 +1,36 @@
+{
+    "name": "Oswald Burton",
+    "country": "England",
+    "birth_place": "Gorton, Manchester, England",
+    "death_date": "1944",
+    "death_place": "Kingsdown, Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "FC",
+    "debutdate1": "23 May",
+    "debutyear1": "1901",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "MCC",
+    "lastdate1": "21 August",
+    "lastyear1": "1905",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/28/28337/28337.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "21",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "232",
+        "wickets": "5",
+        "bowl avg": "31.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/44",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1901\u20131905"
+    },
+    "birth_date": "1874-6-24"
+}

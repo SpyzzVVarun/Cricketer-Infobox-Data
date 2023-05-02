@@ -1,0 +1,73 @@
+{
+    "name": "Shimron Hetmyer",
+    "country": "West Indies",
+    "fullname": "Shimron Odilon Hetmyer",
+    "birth_place": "Cumberland, Guyana",
+    "role": "Top-order batter",
+    "internationalspan": "2017\u20132022",
+    "testdebutdate": "21 April",
+    "testdebutyear": "2017",
+    "testdebutagainst": "Pakistan",
+    "testcap": "310",
+    "lasttestdate": "27 November",
+    "lasttestyear": "2019",
+    "lasttestagainst": "Afghanistan",
+    "odidebutdate": "20 December",
+    "odidebutyear": "2017",
+    "odidebutagainst": "New Zealand",
+    "odicap": "183",
+    "lastodidate": "26 July",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Australia",
+    "odishirt": "2",
+    "T20Idebutdate": "1 January",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "New Zealand",
+    "T20Icap": "69",
+    "lastT20Idate": "14 August",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "New Zealand",
+    "T20Ishirt": "2",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/670025.html Cricinfo ",
+    "Test": {
+        "matches": "16",
+        "runs": "838",
+        "bat avg": "27.93",
+        "100s/50s": "0/5",
+        "top score": "93",
+        "catches/stumpings": "7/\u2013"
+    },
+    "ODI": {
+        "matches": "47",
+        "runs": "1,447",
+        "bat avg": "35.29",
+        "100s/50s": "5/4",
+        "top score": "139",
+        "catches/stumpings": "19/\u2013"
+    },
+    "T20I": {
+        "matches": "50",
+        "runs": "797",
+        "bat avg": "20.97",
+        "100s/50s": "0/4",
+        "catches/stumpings": "18/\u2013"
+    },
+    "FC": {
+        "matches": "41",
+        "runs": "2,163",
+        "bat avg": "30.46",
+        "100s/50s": "1/12",
+        "top score": "107",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Guyana": "2014\u2013present",
+        "Guyana Amazon Warriors": "2016\u2013present",
+        "Royal Challengers Bangalore": "2019",
+        "Delhi Capitals": "2020\u20132021",
+        "Rajasthan Royals": "2022-present"
+    },
+    "birth_date": "1996-12-26"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Barry Reed",
+    "country": "England",
+    "fullname": "Barry Lindsay Reed",
+    "birth_place": "Southsea, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.cricinfo.com/ci/content/player/19358.html Cricinfo ",
+    "FC": {
+        "matches": "123",
+        "runs": "4,962",
+        "bat avg": "24.32",
+        "100s/50s": "2/29",
+        "top score": "138",
+        "deliveries": "6",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "61/&ndash;"
+    },
+    "LA": {
+        "matches": "32",
+        "runs": "900",
+        "bat avg": "36.00",
+        "100s/50s": "2/1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1966",
+        "Hampshire": "1958 & 1965&ndash;1972"
+    },
+    "birth_date": "1937-9-17"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Joseph Marshall",
+    "country": "England",
+    "birth_place": "Ripley, Derbyshire, England",
+    "death_date": "1913",
+    "death_place": "Derby, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "28 July",
+    "debutyear1": "1887",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Surrey",
+    "lastdate1": "15 August",
+    "lastyear1": "1887",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/31/31259/31259.html CricketArchive",
+    "module": "Infobox football biography",
+    "embed": "yes",
+    "header-color": "#b0c4de",
+    "position": "Goalkeeper",
+    "years1": "1886",
+    "clubs1": "Staveley| caps1 = ? |goals1 = ?",
+    "years2": "1888\u20131889| clubs2 = Derby County| caps2 = 16  |goals2 = 0",
+    "years3": "1889| clubs3 = Derby Junction| caps3 = ?  |goals3 = ?  ",
+    "First-class": {
+        "matches": "2",
+        "runs": "50",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1887"
+    },
+    "birth_date": "1862-7-25"
+}

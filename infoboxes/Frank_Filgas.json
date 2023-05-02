@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "Frank Miroslav Filgas",
+    "birth_place": "Carlow, Leinster, Ireland",
+    "death_date": "2006",
+    "death_place": "Blackrock, Leinster, Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricinfo.com/ci/content/player/24367.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1948"
+    }
+}

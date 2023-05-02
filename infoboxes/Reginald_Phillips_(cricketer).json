@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Reginald Maurice Phillips",
+    "birth_place": "Newport, Monmouthshire, Wales",
+    "death_date": "1963",
+    "death_place": "Budleigh Salterton, Devon, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/18931.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wales": "1925"
+    },
+    "birth_date": "1897-10-19"
+}

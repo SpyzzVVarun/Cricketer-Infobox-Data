@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Timothy David Alexander",
+    "birth_place": "Norwich, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/648301.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "269",
+        "wickets": "1",
+        "bowl avg": "240.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/230",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Durham MCCU": "2014&ndash;2016"
+    },
+    "birth_date": "1994-12-1"
+}

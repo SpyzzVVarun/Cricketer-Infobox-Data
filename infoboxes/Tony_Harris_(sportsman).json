@@ -1,0 +1,32 @@
+{
+    "name": "Tony Harris",
+    "birth_place": "Kimberley, South Africa",
+    "death_date": "df=y",
+    "death_place": "Plettenberg Bay, Cape Province",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "7 June",
+    "testdebutyear": "1947",
+    "lasttestdate": "12 February",
+    "lasttestagainst": "England",
+    "lasttestyear": "1949",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/45414.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "100",
+        "bat avg": "25.00",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "55",
+        "runs": "3,028",
+        "bat avg": "41.47",
+        "100s/50s": "6/16",
+        "catches/stumpings": "52/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1916-8-27"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Nicole Faltum",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Nicole Maria Faltum",
+    "birth_place": "Traralgon, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1806/1806499/1806499.html CricketArchive",
+    "WLA": {
+        "matches": "27",
+        "runs": "217",
+        "bat avg": "16.69",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "20/5"
+    },
+    "WT20": {
+        "matches": "41",
+        "runs": "95",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "11/12"
+    },
+    "clubs": {
+        "Victoria": "2017/18\u2013present",
+        "Melbourne Stars": "2017/18\u2013present",
+        "Sussex": "2023\u2013present"
+    },
+    "birth_date": "2000-1-17"
+}

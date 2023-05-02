@@ -1,0 +1,22 @@
+{
+    "name": "Frederick Bates",
+    "country": "England",
+    "fullname": "Frederick Stanley Bates",
+    "birth_place": "Lambourn, Berkshire, England",
+    "death_date": "1969",
+    "death_place": "Hammersmith, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/11956.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1920"
+    },
+    "birth_date": "1899-2-25"
+}

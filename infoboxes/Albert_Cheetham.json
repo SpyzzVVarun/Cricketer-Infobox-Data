@@ -1,0 +1,27 @@
+{
+    "name": "Albert Cheetham",
+    "birth_place": "Sydney, Australia",
+    "death_date": "1997",
+    "death_place": "Melbourne, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4565.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "899",
+        "bat avg": "20.90",
+        "100s/50s": "0/5",
+        "top score": "85",
+        "deliveries": "1,517",
+        "wickets": "42",
+        "bowl avg": "36.11",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/75",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1936/37\u20131945/46"
+    },
+    "birth_date": "1915-12-7"
+}

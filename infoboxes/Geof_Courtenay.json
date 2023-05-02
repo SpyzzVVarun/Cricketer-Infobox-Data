@@ -1,0 +1,41 @@
+{
+    "name": "Geof Courtenay",
+    "country": "England",
+    "fullname": "Geofry William List Courtenay",
+    "birth_place": "Castle Cary, Somerset, England",
+    "death_date": "1980",
+    "death_place": "Edinburgh, Scotland",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Brother, Peter",
+    "type1": "First-class",
+    "debutdate1": "4 June",
+    "debutyear1": "1947",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Sussex",
+    "lastdate1": "17 May",
+    "lastyear1": "1957",
+    "lastfor1": "Scotland",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3500/3500.html CricketArchive ",
+    "First-class": {
+        "matches": "8",
+        "runs": "168",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/1",
+        "top score": "69",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1947",
+        "Minor Counties": "1953",
+        "Scotland": "1955\u201357"
+    },
+    "birth_date": "1921-12-16"
+}

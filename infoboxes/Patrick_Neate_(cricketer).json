@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Patrick Whistler Neate",
+    "birth_place": "Newbury, Berkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Francis Neate (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/18081.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "174",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1966",
+        "Berkshire": "1964-1979"
+    },
+    "birth_date": "1946-5-2"
+}

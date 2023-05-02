@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Christian Tindall",
+    "birth_place": "Leighton Buzzard, Bedfordshire, England",
+    "death_date": "1951",
+    "death_place": "Littleham, Devon, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/21853.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "London County": "1904"
+    }
+}

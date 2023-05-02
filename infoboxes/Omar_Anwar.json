@@ -1,0 +1,35 @@
+{
+    "country": "England",
+    "fullname": "Omar Anwar",
+    "birth_place": "Harrow, Middlesex, England",
+    "batting": "Right handed",
+    "bowling": "Unknown",
+    "type1": "First-class",
+    "debutdate1": "12 April",
+    "debutyear1": "2003",
+    "debutfor1": "Oxford UCCE",
+    "debutagainst1": "Middlesex",
+    "lastdate1": "31 May",
+    "lastyear1": "2006",
+    "lastfor1": "Oxford UCCE",
+    "lastagainst1": "Durham",
+    "source": "https://cricketarchive.com/Archive/Players/49/49642/49642.html   CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "402",
+        "bat avg": "23.64",
+        "100s/50s": "-/2",
+        "top score": "99",
+        "deliveries": "3",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Oxford UCCE": "2003&ndash;2006"
+    },
+    "birth_date": "1983-7-1"
+}

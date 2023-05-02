@@ -1,0 +1,58 @@
+{
+    "name": "Irfan Karim",
+    "country": "Kenya",
+    "fullname": "Irfan Ali Karim",
+    "internationalspan": "2011\u2013present",
+    "odidebutdate": "12 September",
+    "odidebutyear": "2011",
+    "odidebutagainst": "Netherlands",
+    "odicap": "46",
+    "lastodidate": "30 January",
+    "lastodiyear": "2014",
+    "lastodiagainst": "Scotland",
+    "T20Idebutdate": "1 March",
+    "T20Idebutyear": "2013",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "24",
+    "lastT20Idate": "25 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Seychelles",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicket-keeper",
+    "family": "Aasif Karim (father)",
+    "source": "http://www.espncricinfo.com/kenya/content/player/348016.html Cricinfo ",
+    "ODI": {
+        "matches": "9",
+        "runs": "396",
+        "bat avg": "44.00",
+        "100s/50s": "2/1",
+        "top score": "112",
+        "catches/stumpings": "8/1"
+    },
+    "T20I": {
+        "matches": "43",
+        "runs": "877",
+        "bat avg": "30.24",
+        "100s/50s": "0/6",
+        "catches/stumpings": "40/20"
+    },
+    "FC": {
+        "matches": "5",
+        "runs": "147",
+        "bat avg": "14.70",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "catches/stumpings": "13/0"
+    },
+    "LA": {
+        "matches": "57",
+        "runs": "1,702",
+        "bat avg": "34.04",
+        "100s/50s": "2/12",
+        "top score": "112",
+        "catches/stumpings": "63/32"
+    },
+    "clubs": {},
+    "birth_date": "1992-9-25"
+}

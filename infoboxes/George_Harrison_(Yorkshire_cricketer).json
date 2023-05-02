@@ -1,0 +1,21 @@
+{
+    "name": "George Harrison",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/30/30003/statistics_lists.html CricketArchive",
+    "First-class": {
+        "matches": "67",
+        "runs": "484",
+        "bat avg": "6.72",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "10,288",
+        "wickets": "249",
+        "bowl avg": "15.70",
+        "fivefor": "14",
+        "tenfor": "3",
+        "best bowling": "7/43",
+        "catches/stumpings": "39/0"
+    },
+    "clubs": {}
+}

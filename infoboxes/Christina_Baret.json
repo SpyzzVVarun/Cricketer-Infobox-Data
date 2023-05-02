@@ -1,0 +1,35 @@
+{
+    "name": "Christina Baret",
+    "female": "true",
+    "fullname": "Christina Nina Anak Baret",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "country": "Malaysia",
+    "T20Idebutdate": "3 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "India",
+    "T20Icap": "2",
+    "lastT20Idate": "30 August",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Singapore",
+    "source": "http://espncricinfo.com/srilanka/content/player/779589.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "T20I": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1992-06-16",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Bronze Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

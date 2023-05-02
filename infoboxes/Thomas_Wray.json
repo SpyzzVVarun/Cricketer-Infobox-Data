@@ -1,0 +1,35 @@
+{
+    "name": "Thomas Wray",
+    "fullname": "Thomas Fawcett Wray",
+    "birth_place": "Cleasby, Yorkshire, England",
+    "death_date": "6 September 1877",
+    "death_place": "Melbourne, Australia",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "11 January",
+    "debutyear1": "1858",
+    "debutfor1": "Victoria",
+    "debutagainst1": "New South Wales",
+    "lastdate1": "2 February",
+    "lastyear1": "1860",
+    "lastfor1": "Victoria",
+    "lastagainst1": "New South Wales",
+    "source": "http://www.espncricinfo.com/australia/content/player/8381.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "58",
+        "bat avg": "11.60",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1857/58\u20131859/60"
+    }
+}

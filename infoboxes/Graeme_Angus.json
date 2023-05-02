@@ -1,0 +1,26 @@
+{
+    "name": "Graeme Angus",
+    "country": "England",
+    "birth_place": "Newcastle upon Tyne, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/9/9073/9073.html CricketArchive ",
+    "LA": {
+        "matches": "7",
+        "runs": "21",
+        "bat avg": "5.25",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "414",
+        "wickets": "10",
+        "bowl avg": "29.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Northumberland County Cricket Club": "1994"
+    },
+    "birth_date": "1971-5-17"
+}

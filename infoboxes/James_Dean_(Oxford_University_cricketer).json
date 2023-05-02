@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Philip James Dean",
+    "birth_place": "Skipton, Yorkshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12126.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "75",
+        "bat avg": "18.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1978"
+    },
+    "birth_date": "1955-6-4"
+}

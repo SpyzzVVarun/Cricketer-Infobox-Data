@@ -1,0 +1,16 @@
+{
+    "module": "child=yes   |embed=yes",
+    "batting": "Unknown",
+    "source": "id=27603   ",
+    "First-class": {
+        "matches": "4",
+        "runs": "49",
+        "bat avg": "8.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Europeans": "1906/07\u20131922/23"
+    }
+}

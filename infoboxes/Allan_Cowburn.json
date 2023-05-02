@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Allan Cowburn",
+    "birth_place": "St Pancras, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Meopham, Kent, England",
+    "family": "William Smith-Masters (son), Fleetwood Edwards (son-in-law), Spencer Gore (son-in-law)",
+    "source": "http://www.espncricinfo.com/england/content/player/11687.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "4.25",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "?",
+        "wickets": "12",
+        "bowl avg": "?",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1841"
+    }
+}

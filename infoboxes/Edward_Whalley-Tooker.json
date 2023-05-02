@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Edward Whalley-Tooker",
+    "birth_place": "Wem, Shropshire, England",
+    "death_date": "1940",
+    "death_place": "Hambledon, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm underarm Unknown-arm underarm slow",
+    "source": "http://www.cricinfo.com/ci/content/player/22378.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "20",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1883-1885"
+    },
+    "birth_date": "1863-1-15"
+}

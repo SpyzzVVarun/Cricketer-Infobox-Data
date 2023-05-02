@@ -1,0 +1,47 @@
+{
+    "name": "Cathy Murphy",
+    "female": "true",
+    "country": "Ireland",
+    "fullname": "Catherine Louise Murphy",
+    "birth_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "internationalspan": "2008",
+    "T20Idebutdate": "27 June",
+    "T20Idebutyear": "2008",
+    "T20Idebutagainst": "West Indies",
+    "T20Icap": "8",
+    "lastT20Idate": "1 August",
+    "lastT20Iyear": "2008",
+    "lastT20Iagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/209/209152/209152.html CricketArchive",
+    "WT20I": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WLA": {
+        "matches": "3",
+        "runs": "45",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "5",
+        "runs": "9",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scorchers": "2017\u20132018"
+    },
+    "birth_date": "1983-9-26"
+}

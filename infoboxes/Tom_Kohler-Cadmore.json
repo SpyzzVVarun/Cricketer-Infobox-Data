@@ -1,0 +1,58 @@
+{
+    "name": "Tom Kohler-Cadmore",
+    "country": "England",
+    "fullname": "Tom Kohler-Cadmore",
+    "birth_place": "Chatham, Kent, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "role": "Wicket-keeper batsman",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "type1": "First-class",
+    "debutdate1": "6 April",
+    "debutyear1": "2014",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Hampshire",
+    "type2": "List A",
+    "debutdate2": "16 August",
+    "debutyear2": "2013",
+    "debutfor2": "Worcestershire",
+    "debutagainst2": "Bangladesh A",
+    "source": "https://www.espncricinfo.com/player/tom-kohler-cadmore-470633 ESPNcricinfo  ",
+    "FC": {
+        "matches": "86",
+        "runs": "4,277",
+        "bat avg": "31.91",
+        "100s/50s": "10/18",
+        "top score": "176",
+        "catches/stumpings": "128/1"
+    },
+    "LA": {
+        "matches": "56",
+        "runs": "1,808",
+        "bat avg": "34.11",
+        "100s/50s": "3/10",
+        "top score": "164",
+        "catches/stumpings": "29/\u2013"
+    },
+    "T20": {
+        "matches": "145",
+        "runs": "3,787",
+        "bat avg": "29.58",
+        "100s/50s": "1/29",
+        "top score": "127",
+        "catches/stumpings": "77/2"
+    },
+    "clubs": {
+        "Worcestershire( 32 )": "2013\u20132017",
+        "Yorkshire( 32 )": "2017\u20132022",
+        "Quetta Gladiators": "2018",
+        "Peshawar Zalmi( 32 )": "2021\u2013present",
+        "Northern Superchargers": "2021",
+        "Jaffna Kings": "2021\u20132022",
+        "Trent Rockets": "2022",
+        "Rangpur Riders": "2023",
+        "Somerset( 32 )": "2023"
+    },
+    "birth_date": "1994-8-19"
+}

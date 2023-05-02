@@ -1,0 +1,30 @@
+{
+    "name": "John Murtagh",
+    "country": "New Zealand",
+    "fullname": "John Richard Murtagh",
+    "birth_place": "Geraldine, Canterbury, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/18/18653/18653.html CricketArchive ",
+    "FC": {
+        "matches": "6",
+        "runs": "126",
+        "bat avg": "11.45",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1991/92",
+        "Otago": "1988/89"
+    },
+    "birth_date": "1967-7-21"
+}

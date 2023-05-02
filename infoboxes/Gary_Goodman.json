@@ -1,0 +1,40 @@
+{
+    "name": "Gary Goodman",
+    "country": "Australia",
+    "fullname": "Gary Weech Goodman",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/5407.html Cricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "1537",
+        "bat avg": "28.66",
+        "100s/50s": "1/9",
+        "deliveries": "870",
+        "wickets": "6",
+        "bowl avg": "98.4",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/50",
+        "catches/stumpings": "27/1"
+    },
+    "List A": {
+        "matches": "15",
+        "runs": "353",
+        "bat avg": "32.5",
+        "100s/50s": "1/3",
+        "top score": "100",
+        "wickets": "3",
+        "bowl avg": "89",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/33",
+        "catches/stumpings": "17/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1980/81",
+        "Tasmania": "1978/79&ndash;1992/93"
+    },
+    "birth_date": "1953-12-6"
+}

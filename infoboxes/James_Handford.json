@@ -1,0 +1,29 @@
+{
+    "name": "James Hartford",
+    "country": "England",
+    "fullname": "James Hartford",
+    "birth_place": "Hayfield, Derbyshire, England",
+    "death_date": "1948",
+    "death_place": "Stockport, Cheshire, England",
+    "batting": "Right-hand bat",
+    "role": "Batsman",
+    "source": "http://www.cricinfo.com/ci/content/player/14504.html CricInfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "137",
+        "bat avg": "9.78",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Derbyshire": "1910"
+    },
+    "birth_date": "1890-02-01"
+}

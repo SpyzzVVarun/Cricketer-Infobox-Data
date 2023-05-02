@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "James Malcolm Clark Ford",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1987",
+    "death_place": "Polbeth, West Lothian, Scotland",
+    "family": "Alexander Ford (father)",
+    "batting": "Left-handed",
+    "source": "https://www.espncricinfo.com/player/james-ford-25210 Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "235",
+        "bat avg": "18.07",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1960&ndash;1966"
+    }
+}

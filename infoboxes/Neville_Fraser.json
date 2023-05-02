@@ -1,0 +1,27 @@
+{
+    "country": "Australia",
+    "fullname": "John Neville Fraser",
+    "birth_place": "Toorak, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Lindfield, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/13193.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "195",
+        "bat avg": "11.47",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "2,642",
+        "wickets": "59",
+        "bowl avg": "23.57",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "6/35",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1912&ndash;1914"
+    }
+}

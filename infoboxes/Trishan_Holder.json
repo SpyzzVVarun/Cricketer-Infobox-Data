@@ -1,0 +1,57 @@
+{
+    "name": "Trishan Holder",
+    "female": "true",
+    "fullname": "Trishan Holder",
+    "birth_place": "Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "country": "Barbados",
+    "internationalspan": "2022",
+    "country2": "West Indies",
+    "T20Idebutdate": "29 July",
+    "T20Idebutyear": "2022",
+    "T20Idebutfor": "Barbados",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "5",
+    "T20Icap2": "45",
+    "lastT20Idate": "19 February",
+    "lastT20Iyear": "2023",
+    "lastT20Ifor": "West Indies",
+    "lastT20Iagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Archive/Players/2210/2210836/2210836.html CricketArchive ",
+    "WT20I": {
+        "matches": "6",
+        "runs": "34",
+        "bat avg": "6.80",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "tenfor": "0",
+        "best bowling": "/",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "tenfor": "0",
+        "best bowling": "/",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "6",
+        "runs": "34",
+        "bat avg": "6.80",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "tenfor": "0",
+        "best bowling": "/",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Barbados": "2022\u2013present"
+    },
+    "birth_date": "2003-11-8"
+}

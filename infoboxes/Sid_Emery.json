@@ -1,0 +1,47 @@
+{
+    "name": "Sid Emery",
+    "fullname": "Sidney Hand Emery",
+    "birth_place": "Macdonaldtown, Sydney, Australia",
+    "death_date": "1967",
+    "death_place": "Petersham, Sydney, Australia",
+    "nickname": "Mad Mick",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "country": "Australia",
+    "testdebutdate": "27 May",
+    "testdebutyear": "1912",
+    "lasttestdate": "5 August",
+    "lasttestyear": "1912",
+    "source": "http://www.espncricinfo.com/australia/content/player/5140.html Cricinfo",
+    "Tests": {
+        "matches": "4",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "462",
+        "wickets": "5",
+        "bowl avg": "49.79",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/46",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "58",
+        "runs": "1192",
+        "bat avg": "18.33",
+        "100s/50s": "0/6",
+        "deliveries": "7078",
+        "wickets": "183",
+        "bowl avg": "23.79",
+        "fivefor": "11",
+        "tenfor": "3",
+        "best bowling": "7/28",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1908-09 to 1912-13"
+    },
+    "birth_date": "1885-10-15"
+}

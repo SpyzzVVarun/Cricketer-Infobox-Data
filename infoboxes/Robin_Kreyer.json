@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Robin Grey Kreyer",
+    "birth_place": "Multan, Punjab, British India",
+    "death_date": "df=yes",
+    "death_place": "Barton Mills, Suffolk, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/30271.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "74.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/74",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1931"
+    }
+}

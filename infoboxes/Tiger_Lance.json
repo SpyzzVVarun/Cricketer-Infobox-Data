@@ -1,0 +1,42 @@
+{
+    "name": "Tiger Lance",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "South Africa",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "2 February",
+    "testdebutyear": "1962",
+    "lasttestdate": "5 March",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1970",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/45960.html Cricinfo",
+    "Test": {
+        "matches": "13",
+        "runs": "591",
+        "bat avg": "28.14",
+        "100s/50s": "0/5",
+        "top score": "70",
+        "deliveries": "948",
+        "wickets": "12",
+        "bowl avg": "39.91",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/30",
+        "catches/stumpings": "7/\u2013"
+    },
+    "First-class": {
+        "matches": "103",
+        "runs": "5,336",
+        "bat avg": "34.87",
+        "100s/50s": "11/25",
+        "top score": "169",
+        "deliveries": "4,284",
+        "wickets": "167",
+        "bowl avg": "25.65",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/55",
+        "catches/stumpings": "101/\u2013"
+    },
+    "clubs": {}
+}

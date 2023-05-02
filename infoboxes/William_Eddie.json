@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "William Eddie",
+    "birth_place": "Brechin, Angus, Scotland",
+    "death_date": "1979",
+    "death_place": "Brechin, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/william-eddie-25197 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "156",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1913"
+    }
+}

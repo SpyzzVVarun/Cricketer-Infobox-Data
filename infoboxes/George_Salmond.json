@@ -1,0 +1,41 @@
+{
+    "name": "George Salmond",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Scotland",
+    "internationalspan": "1999",
+    "odidebutdate": "16 May",
+    "odidebutyear": "1999",
+    "odidebutagainst": "Australia",
+    "lastodidate": "31 May",
+    "lastodiyear": "1999",
+    "lastodiagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/4/4963/4963.html CricketArchive",
+    "birth_place": "Dundee, Scotland ",
+    "ODI": {
+        "matches": "5",
+        "runs": "57",
+        "bat avg": "11.40",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "12",
+        "runs": "888",
+        "bat avg": "46.73",
+        "100s/50s": "2/3",
+        "top score": "181",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "543",
+        "bat avg": "543",
+        "100s/50s": "0/3",
+        "top score": "70",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1 December 1969"
+}

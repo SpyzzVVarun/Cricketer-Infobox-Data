@@ -1,0 +1,57 @@
+{
+    "name": "Mehboob Alam",
+    "country": "Nepal",
+    "birth_place": "Rajbiraj, Saptari, Nepal",
+    "batting": "Left-handed",
+    "bowling": "Left-arm fast Left-arm fast bowler",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/10/10312/10312.html CricketArchive ",
+    "FC": {
+        "matches": "4",
+        "runs": "98",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "414",
+        "wickets": "12",
+        "bowl avg": "14.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "7",
+        "runs": "34",
+        "bat avg": "5.66",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "47.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "2/-"
+    },
+    "Youth ODI": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "102",
+        "wickets": "4",
+        "bowl avg": "23.75",
+        "fivefor": "0",
+        "tenfor": "1",
+        "best bowling": "3/36",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Sagarmatha Legends  (NPL)": "2014\u20132014",
+        "Biratnagar  (National League)": "2003\u20132015",
+        "Pentagon  (SPA Cup)": "2013\u20132015"
+    },
+    "birth_date": "1981-8-31"
+}

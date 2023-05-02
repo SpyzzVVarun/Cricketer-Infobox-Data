@@ -1,0 +1,41 @@
+{
+    "name": "David Haggo",
+    "country": "Scotland",
+    "fullname": "David John Haggo",
+    "birth_place": "Ayr, Scotland",
+    "batting": "Right-hand bat",
+    "bowling": "n/a",
+    "role": "Wicket-keeper",
+    "family": "Samantha Haggo (Niece)",
+    "source": "http://www.espncricinfo.com/scotland/content/player/25457.html ESPN cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "140",
+        "bat avg": "20.00",
+        "100s/50s": "-/-",
+        "top score": "45",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "6/4"
+    },
+    "List A": {
+        "matches": "18",
+        "runs": "109",
+        "bat avg": "13.62",
+        "100s/50s": "-/-",
+        "top score": "25",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "9/6"
+    },
+    "clubs": {},
+    "birth_date": "1964-04-13"
+}

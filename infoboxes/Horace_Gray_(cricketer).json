@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Horace Gray",
+    "birth_place": "Chesterton, Cambridgeshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bredfield, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/13719.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "97",
+        "bat avg": "6.06",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "3,525",
+        "wickets": "89",
+        "bowl avg": "22.76",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "7/48",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1894&ndash;1896",
+        "Cambridgeshire": "1895&ndash;1906"
+    }
+}

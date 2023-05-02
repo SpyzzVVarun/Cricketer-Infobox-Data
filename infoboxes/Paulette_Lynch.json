@@ -1,0 +1,46 @@
+{
+    "name": "Paulette Lynch",
+    "female": "true",
+    "fullname": "Paulette Lynch",
+    "birth_place": "Jamaica",
+    "role": "Bowler",
+    "internationalspan": "1973",
+    "country": "International XI",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "England",
+    "odicap": "6",
+    "lastodidate": "18 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "Trinidad and Tobago",
+    "source": "https://cricketarchive.com/Archive/Players/17/17163/17163.html CricketArchive ",
+    "WODI": {
+        "matches": "4",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "192",
+        "wickets": "4",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/34",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WLA": {
+        "matches": "5",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "234",
+        "wickets": "6",
+        "bowl avg": "20.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/34",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1973\u20131982"
+    }
+}

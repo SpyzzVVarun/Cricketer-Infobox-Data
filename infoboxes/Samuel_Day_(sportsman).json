@@ -1,0 +1,30 @@
+{
+    "name": "Sammy Day",
+    "country": "England",
+    "fullname": "Samuel Hulme Day",
+    "birth_place": "Peckham Rye, London",
+    "death_date": "df=y",
+    "death_place": "Chobham, Surrey",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast",
+    "family": "Sydney Day (brother) Arthur Day (brother) Anthony Day (son), David Day (nephew)",
+    "source": "http://www.espncricinfo.com/ci/content/player/12107.html CricInfo ",
+    "First-class": {
+        "matches": "171",
+        "runs": "7,722",
+        "bat avg": "29.70",
+        "100s/50s": "7/48",
+        "deliveries": "397",
+        "wickets": "8",
+        "bowl avg": "39.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/46",
+        "catches/stumpings": "58/\u2013"
+    },
+    "clubs": {
+        "Kent": "1897\u20131919",
+        "Cambridge University": "1899\u20131902"
+    },
+    "birth_date": "1878-12-29"
+}

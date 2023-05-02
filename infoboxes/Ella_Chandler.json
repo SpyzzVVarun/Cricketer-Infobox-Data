@@ -1,0 +1,44 @@
+{
+    "name": "Ella Chandler",
+    "female": "true",
+    "fullname": "Ella Reseigh Chandler",
+    "birth_place": "Frimley, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1307/1307812/1307812.html CricketArchive",
+    "WLA": {
+        "matches": "31",
+        "runs": "466",
+        "bat avg": "19.41",
+        "100s/50s": "0/3",
+        "top score": "58",
+        "deliveries": "145",
+        "wickets": "3",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/22",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20": {
+        "matches": "42",
+        "runs": "719",
+        "bat avg": "21.78",
+        "100s/50s": "0/2",
+        "top score": "52",
+        "deliveries": "240",
+        "wickets": "12",
+        "bowl avg": "13.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/12",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "2016\u2013present",
+        "Canterbury": "2019/20",
+        "Southern Vipers": "2020\u20132022"
+    },
+    "birth_date": "2000-10-19"
+}

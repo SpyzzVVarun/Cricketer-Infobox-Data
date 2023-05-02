@@ -1,0 +1,32 @@
+{
+    "name": "Saqib Mahmood",
+    "country": "England",
+    "fullname": "Saqib Mahmood",
+    "birth_place": "Kettering, Northamptonshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "25 June",
+    "debutyear1": "1999",
+    "debutfor1": "Somerset",
+    "debutagainst1": "New Zealanders",
+    "source": "https://cricketarchive.com/Archive/Players/8/8252/8252.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1999"
+    },
+    "birth_date": "1977-8-24"
+}

@@ -1,0 +1,39 @@
+{
+    "country": "Sri Lanka",
+    "fullname": "Jayantha Seneviratne",
+    "birth_place": "Colombo, Western Province, Ceylon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50623.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "646",
+        "bat avg": "30.76",
+        "100s/50s": "&ndash;/6",
+        "deliveries": "328",
+        "wickets": "4",
+        "bowl avg": "29.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/72",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "68",
+        "bat avg": "11.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "7",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Sri Lanka Board President's XI": "1973/74&ndash;1975/76",
+        "Bloomfield Cricket and Athletic Club": "1973/74"
+    },
+    "birth_date": "1952-6-6"
+}

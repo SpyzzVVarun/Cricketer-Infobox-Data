@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Wilson Carpenter",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "5 March 1876",
+    "death_place": "Nagpur, Central Provinces, , British Raj",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11021.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "47",
+        "bat avg": "7.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "140",
+        "wickets": "3",
+        "bowl avg": "15.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1868"
+    }
+}

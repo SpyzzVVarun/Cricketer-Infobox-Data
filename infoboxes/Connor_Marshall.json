@@ -1,0 +1,32 @@
+{
+    "name": "Connor Marshall",
+    "fullname": "Connor Robert Marshall",
+    "birth_place": "Cardiff, Wales",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "type1": "List A",
+    "debutdate1": "22 July",
+    "debutyear1": "2021",
+    "debutfor1": ", Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/767057.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "55",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "114",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire( 5 )": "2021"
+    },
+    "birth_date": "1998-1-28"
+}

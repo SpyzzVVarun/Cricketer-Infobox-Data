@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Edward Austen-Leigh",
+    "birth_place": "Tring, Hertfordshire, England",
+    "death_date": "df=y",
+    "death_place": "Alfriston, Sussex, England",
+    "family": "Arthur Austen-Leigh (brother), Cholmeley Austen-Leigh (brother), Spencer Austen-Leigh (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16784.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "38",
+        "wickets": "3",
+        "bowl avg": "4.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1862&ndash;1863"
+    }
+}

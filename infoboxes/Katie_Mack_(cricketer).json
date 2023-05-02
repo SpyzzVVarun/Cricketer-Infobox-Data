@@ -1,0 +1,47 @@
+{
+    "name": "Katie Mack",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Katie Maree Mack",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "nickname": "Brina; K-MAX, Mack Attack, K-Truck",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/959/959587/959587.html CricketArchive ",
+    "WLA": {
+        "matches": "53",
+        "runs": "1,983",
+        "bat avg": "38.88",
+        "100s/50s": "3/13",
+        "deliveries": "59",
+        "wickets": "4",
+        "bowl avg": "10.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "25/\u2013"
+    },
+    "WT20": {
+        "matches": "108",
+        "runs": "1,560",
+        "bat avg": "21.08",
+        "100s/50s": "0/5",
+        "deliveries": "66",
+        "wickets": "4",
+        "bowl avg": "12.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/20",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "NSW Breakers": "2011/12",
+        "Essex": "2012",
+        "Australian Capital Territory( 2 )": "2013/14\u2013present",
+        "Melbourne Stars( 2 )": "2015/16\u20132018/19",
+        "Adelaide Strikers( 2 )": "2019/20\u2013present",
+        "Birmingham Phoenix( 2 )": "2021"
+    },
+    "birth_date": "1993-9-14"
+}

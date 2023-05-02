@@ -1,0 +1,73 @@
+{
+    "name": "Shai Hope",
+    "fullname": "Shai Diego Hope",
+    "birth_place": "Saint Michael, Barbados",
+    "heightm": "1.75",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Wicket-keeper-batter",
+    "family": "Kyle Hope (brother)",
+    "country": "West Indies",
+    "internationalspan": "2015\u2013present",
+    "testdebutdate": "1 May",
+    "testdebutyear": "2015",
+    "testdebutagainst": "England",
+    "testcap": "302",
+    "lasttestdate": "21 November",
+    "lasttestyear": "2021",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "29 November",
+    "odidebutyear": "2016",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "175",
+    "lastodidate": "21 March",
+    "lastodiyear": "2023",
+    "lastodiagainst": "South Africa",
+    "odishirt": "4",
+    "T20Idebutdate": "29 December",
+    "T20Idebutyear": "2017",
+    "T20Idebutagainst": "New Zealand",
+    "T20Icap": "68",
+    "lastT20Idate": "20 February",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "India",
+    "source": "https://www.espncricinfo.com/player/shai-hope-581379 CricInfo",
+    "Test": {
+        "matches": "38",
+        "runs": "1,726",
+        "bat avg": "25.01",
+        "100s/50s": "2/5",
+        "top score": "147",
+        "catches/stumpings": "53/1"
+    },
+    "ODI": {
+        "matches": "106",
+        "runs": "4,452",
+        "bat avg": "50.02",
+        "100s/50s": "14/21",
+        "top score": "170",
+        "catches/stumpings": "111/12"
+    },
+    "T20I": {
+        "matches": "19",
+        "runs": "304",
+        "bat avg": "17.88",
+        "100s/50s": "0/2",
+        "top score": "55",
+        "catches/stumpings": "9/2"
+    },
+    "FC": {
+        "matches": "69",
+        "runs": "4,019",
+        "bat avg": "35.25",
+        "100s/50s": "9/15",
+        "catches/stumpings": "84/2"
+    },
+    "clubs": {
+        "Barbados": "2012\u2013present",
+        "Barbados Tridents": "2015\u20132021",
+        "Guyana Amazon Warriors": "2022\u2013present",
+        "Yorkshire": "2023"
+    },
+    "birth_date": "1993-11-10"
+}

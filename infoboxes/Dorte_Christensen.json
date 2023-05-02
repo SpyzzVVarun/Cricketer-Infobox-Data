@@ -1,0 +1,30 @@
+{
+    "name": "Dorte Christensen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Dorte Christensen",
+    "batting": "Right-handed",
+    "odidebutdate": "18 July",
+    "odidebutyear": "1995",
+    "odidebutagainst": "Ireland",
+    "odicap": "24",
+    "lastodidate": "21 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54950.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "11",
+        "runs": "53",
+        "bat avg": "6.62",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

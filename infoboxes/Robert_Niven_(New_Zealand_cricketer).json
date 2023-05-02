@@ -1,0 +1,29 @@
+{
+    "name": "Robert Niven",
+    "country": "New Zealand",
+    "fullname": "Robert Campbell Niven",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "1919",
+    "death_place": "Wellington, New Zealand",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/38046.html ESPNcricinfo ",
+    "FC": {
+        "matches": "18",
+        "runs": "215",
+        "bat avg": "10.75",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "17/19"
+    },
+    "clubs": {
+        "Otago": "1887-88 to 1888-89",
+        "Wellington": "1890-91 to 1901-02"
+    },
+    "birth_date": "1859-12-11"
+}

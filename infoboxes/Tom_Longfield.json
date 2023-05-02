@@ -1,0 +1,40 @@
+{
+    "name": "Tom Longfield",
+    "fullname": "Thomas Cuthbert Longfield",
+    "birth_place": "High Halstow, Kent, England",
+    "death_date": "1981",
+    "death_place": "Ealing, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "4 May",
+    "debutyear1": "1927",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "2 June",
+    "lastyear1": "1951",
+    "lastfor1": "Free Foresters",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.espncricinfo.com/ci/content/player/16418.html CricInfo ",
+    "First-class": {
+        "matches": "82",
+        "runs": "2,446",
+        "bat avg": "22.44",
+        "100s/50s": "2/7",
+        "top score": "120",
+        "deliveries": "6,416",
+        "wickets": "195",
+        "bowl avg": "32.90",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/12",
+        "catches/stumpings": "49/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1927\u20131928",
+        "Kent": "1927\u20131939",
+        "Europeans": "1929/30\u20131936/37",
+        "Bengal": "1936/37\u20131938/39"
+    },
+    "birth_date": "1906-5-12"
+}

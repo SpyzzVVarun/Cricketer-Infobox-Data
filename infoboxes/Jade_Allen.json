@@ -1,0 +1,28 @@
+{
+    "name": "Jade Allen",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/player/jade-allen-1282072 ESPNcricinfo ",
+    "WT20": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Sydney Sixers": "2021/22\u2013present",
+        "New South Wales": "2021/22\u2013present"
+    },
+    "birth_date": "2003-11-13"
+}

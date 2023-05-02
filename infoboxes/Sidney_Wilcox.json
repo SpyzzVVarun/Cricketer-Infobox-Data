@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Sidney Charles Wilcox",
+    "birth_place": "Maesteg, Glamorgan, Wales",
+    "death_date": "1973",
+    "death_place": "Maesteg, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/22975.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {
+        "Wales": "1930",
+        "Monmouthshire": "1921&ndash;1934"
+    },
+    "birth_date": "1893-2-28"
+}

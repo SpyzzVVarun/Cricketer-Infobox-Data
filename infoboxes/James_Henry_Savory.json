@@ -1,0 +1,33 @@
+{
+    "name": "James Henry Savory",
+    "country": "England",
+    "birth_place": "Binfield, Berkshire, England",
+    "death_date": "1903",
+    "death_place": "Bayham Abbey, Sussex, England",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "24 May",
+    "debutyear1": "1877",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Marylebone Cricket Club (MCC)",
+    "lastdate1": "24 May",
+    "lastyear1": "1883",
+    "lastfor1": "Marylebone Cricket Club (MCC)",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Archive/Players/32/32606/32606.html CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "231",
+        "bat avg": "10.04",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Oxford University Cricket Club": "1877-1878",
+        "Marylebone Cricket Club": "1879-1883",
+        "A.W. Ridley's XI": "1879-1879",
+        "Gentlemen of England": "1882-1882"
+    },
+    "birth_date": "1855-3-20"
+}

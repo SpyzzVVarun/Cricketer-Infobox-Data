@@ -1,0 +1,28 @@
+{
+    "name": "Treffor Davies",
+    "country": "England",
+    "fullname": "Treffor Elliott Davies",
+    "death_date": "2013",
+    "birth_place": "Stourbridge, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "source": "http://content-uk.cricinfo.com/england/content/player/12073.html Cricinfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "481",
+        "bat avg": "19.24",
+        "100s/50s": "0/3",
+        "top score": "76",
+        "deliveries": "228",
+        "wickets": "6",
+        "bowl avg": "28.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/22",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Worcestershire": "1955\u20131961"
+    },
+    "birth_date": "1938-3-13"
+}

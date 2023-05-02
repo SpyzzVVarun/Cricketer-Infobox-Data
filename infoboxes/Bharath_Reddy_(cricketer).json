@@ -1,0 +1,56 @@
+{
+    "name": "Bharath Reddy",
+    "birth_place": "Chennai, India",
+    "country": "India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1978\u20131981",
+    "testdebutdate": "12 July",
+    "testdebutyear": "1979",
+    "testdebutagainst": "England",
+    "testcap": "144",
+    "lasttestdate": "30 August",
+    "lasttestyear": "1979",
+    "lasttestagainst": "England",
+    "odidebutdate": "3 January",
+    "odidebutyear": "1978",
+    "odidebutagainst": "Pakistan",
+    "odicap": "27",
+    "lastodidate": "18 January",
+    "lastodiyear": "1981",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/33152.html Cricinfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "38",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "9/2"
+    },
+    "ODI": {
+        "matches": "3",
+        "runs": "11",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/0"
+    },
+    "FC": {
+        "matches": "95",
+        "runs": "1,743",
+        "bat avg": "17.78",
+        "100s/50s": "0/9",
+        "top score": "88",
+        "catches/stumpings": "171/50"
+    },
+    "LA": {
+        "matches": "18",
+        "runs": "120",
+        "bat avg": "17.14",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "10/2"
+    },
+    "clubs": {},
+    "birth_date": "12 November 1954"
+}

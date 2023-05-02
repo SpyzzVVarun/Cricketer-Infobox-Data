@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Arthur Coppin Straker",
+    "birth_place": "Hexham, Northumberland, England",
+    "death_date": "1961",
+    "death_place": "Pawston, Northumberland, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/21072.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Denbighshire": "1933&ndash;1935",
+        "Cambridge University": "1913"
+    },
+    "birth_date": "1893-8-12"
+}

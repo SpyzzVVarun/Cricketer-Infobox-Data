@@ -1,0 +1,40 @@
+{
+    "name": "Neville Ford",
+    "country": "England",
+    "fullname": "Neville Montague Ford",
+    "birth_place": "Repton Derbyshire, England",
+    "death_date": "2000",
+    "death_place": "Bembridge, Isle of Wight, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "18 August",
+    "debutyear1": "1926",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "8 June",
+    "lastyear1": "1935",
+    "lastfor1": "Free Foresters",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/11/11609/11609.html CricketArchive ",
+    "First-class": {
+        "matches": "75",
+        "runs": "2,925",
+        "bat avg": "26.11",
+        "100s/50s": "5/13",
+        "top score": "183",
+        "deliveries": "135",
+        "wickets": "1",
+        "bowl avg": "117.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1926\u20131934",
+        "Oxford University": "1928\u20131930",
+        "Middlesex": "1932",
+        "MCC": "1932"
+    },
+    "birth_date": "1906-11-18"
+}

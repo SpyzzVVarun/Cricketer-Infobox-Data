@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "Francis Edward Collyer",
+    "birth_place": "Brentford, Middlesex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/11258.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "96",
+        "bat avg": "13.71",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "11/1"
+    },
+    "List A": {
+        "matches": "58",
+        "runs": "775",
+        "bat avg": "16.14",
+        "100s/50s": "\u2013/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "48/4"
+    },
+    "clubs": {
+        "Minor Counties West": "1976\u20131978",
+        "Minor Counties": "1973\u20131984",
+        "Minor Counties South": "1972\u20131979",
+        "Cambridge University": "1967\u20131969",
+        "Hertfordshire": "1967\u20131987"
+    },
+    "birth_date": "1947-2-4"
+}

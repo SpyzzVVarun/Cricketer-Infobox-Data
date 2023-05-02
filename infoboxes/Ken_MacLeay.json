@@ -1,0 +1,59 @@
+{
+    "name": "Ken MacLeay",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "odidebutdate": "31 January",
+    "odidebutyear": "1983",
+    "odidebutagainst": "New Zealand",
+    "odicap": "74",
+    "lastodidate": "26 January",
+    "lastodiyear": "1987",
+    "lastodiagainst": "England",
+    "source": "http://content-aus.cricinfo.com/australia/content/player/6453.html CricInfo ",
+    "ODI": {
+        "matches": "16",
+        "runs": "139",
+        "bat avg": "12.63",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "857",
+        "wickets": "15",
+        "bowl avg": "41.73",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/39",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "129",
+        "runs": "3750",
+        "bat avg": "26.97",
+        "100s/50s": "3/19",
+        "deliveries": "22122",
+        "wickets": "300",
+        "bowl avg": "30.26",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "6/93",
+        "catches/stumpings": "79/\u2013"
+    },
+    "LA": {
+        "matches": "100",
+        "runs": "929",
+        "bat avg": "17.20",
+        "100s/50s": "3/19",
+        "top score": "43",
+        "deliveries": "4759",
+        "wickets": "116",
+        "bowl avg": "26.10",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/39",
+        "catches/stumpings": "28/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1981/82\u20131991/92",
+        "Somerset": "1991\u20131992"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Jon Ayling",
+    "country": "England",
+    "fullname": "Jonathan Richard Ayling",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/8595.html Cricinfo ",
+    "FC": {
+        "matches": "60",
+        "runs": "2,082",
+        "bat avg": "26.69",
+        "100s/50s": "1/11",
+        "top score": "121",
+        "deliveries": "7,374",
+        "wickets": "134",
+        "bowl avg": "25.41",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/12",
+        "catches/stumpings": "17/\u2013"
+    },
+    "LA": {
+        "matches": "94",
+        "runs": "1,028",
+        "bat avg": "22.84",
+        "100s/50s": "\u2013/1",
+        "top score": "56",
+        "deliveries": "4,413",
+        "wickets": "93",
+        "bowl avg": "35.91",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/37",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1987\u20131993"
+    },
+    "birth_date": "1967-6-13"
+}

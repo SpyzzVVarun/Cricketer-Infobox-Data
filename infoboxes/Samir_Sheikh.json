@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Samir Majid Sheikh",
+    "birth_place": "Southwark, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/20151.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "713",
+        "wickets": "12",
+        "bowl avg": "36.41",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1999&ndash;2000"
+    },
+    "birth_date": "1978-10-16"
+}

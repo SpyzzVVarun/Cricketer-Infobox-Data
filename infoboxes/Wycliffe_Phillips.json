@@ -1,0 +1,48 @@
+{
+    "name": "Wycliffe Phillips",
+    "country": "West Indies",
+    "fullname": "Roy Wycliffe Phillips",
+    "birth_place": "Holders Hill, Saint James, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "9 February",
+    "debutyear1": "1967",
+    "debutfor1": "Barbados",
+    "debutagainst1": "Leeward Islands",
+    "lastdate1": "7 July",
+    "lastyear1": "1970",
+    "lastfor1": "Gloucestershire",
+    "lastagainst1": "Glamorgan",
+    "type2": "LA",
+    "debutdate2": "18 May",
+    "debutyear2": "1969",
+    "debutfor2": "Gloucestershire",
+    "debutagainst2": "Lancashire",
+    "lastdate2": "30 August",
+    "lastyear2": "1970",
+    "lastfor2": "Gloucestershire",
+    "lastagainst2": "Essex",
+    "source": "http://www.espncricinfo.com/westindies/content/player/52764.html CricInfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "18",
+        "bat avg": "18.89",
+        "100s/50s": "0/2",
+        "top score": "92",
+        "catches/stumpings": "9/\u2013"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "538",
+        "bat avg": "31.64",
+        "100s/50s": "1/3",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1966/67",
+        "Gloucestershire": "1968\u20131970"
+    },
+    "birth_date": "1941-4-8"
+}

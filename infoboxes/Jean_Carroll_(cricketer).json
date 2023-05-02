@@ -1,0 +1,55 @@
+{
+    "name": "Jean Carroll",
+    "female": "yes",
+    "country": "Ireland",
+    "fullname": "Jean Christine Carroll",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2007\u20132009",
+    "odidebutdate": "17 August",
+    "odidebutyear": "2007",
+    "odidebutagainst": "Netherlands",
+    "odicap": "55",
+    "lastodidate": "26 May",
+    "lastodiyear": "2009",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "27 June",
+    "T20Idebutyear": "2008",
+    "T20Idebutagainst": "West Indies",
+    "T20Icap": "2",
+    "lastT20Idate": "29 May",
+    "lastT20Iyear": "2009",
+    "lastT20Iagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Archive/Players/209/209151/209151.html CricketArchive ",
+    "WODI": {
+        "matches": "8",
+        "runs": "6",
+        "bat avg": "1.20",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/7"
+    },
+    "WT20I": {
+        "matches": "5",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "WLA": {
+        "matches": "13",
+        "runs": "6",
+        "bat avg": "0.85",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/8"
+    },
+    "WT20": {
+        "matches": "6",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1980-06-19"
+}

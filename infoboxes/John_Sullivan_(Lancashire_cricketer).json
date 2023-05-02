@@ -1,0 +1,22 @@
+{
+    "name": "John Sullivan",
+    "birth_place": "Stalybridge, Cheshire England",
+    "death_date": "2006",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/21117.html Cricinfo ",
+    "FC": {
+        "matches": "154",
+        "runs": "4286",
+        "wickets": "76"
+    },
+    "List A": {
+        "matches": "139",
+        "runs": "2365",
+        "wickets": "113"
+    },
+    "clubs": {
+        "Lancashire": "1963\u20131976"
+    },
+    "birth_date": "1945-2-5"
+}

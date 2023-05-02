@@ -1,0 +1,40 @@
+{
+    "name": "Roger Pierce",
+    "country": "New Zealand",
+    "fullname": "Roger Alen Pierce",
+    "birth_place": "Motueka, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38195.html Cricinfo ",
+    "FC": {
+        "matches": "53",
+        "runs": "2296",
+        "bat avg": "24.68",
+        "100s/50s": "1/14",
+        "deliveries": "1330",
+        "wickets": "14",
+        "bowl avg": "40.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/8",
+        "catches/stumpings": "40/\u2013"
+    },
+    "List A": {
+        "matches": "19",
+        "runs": "312",
+        "bat avg": "18.35",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "384",
+        "wickets": "14",
+        "bowl avg": "17.07",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "4/26",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Central Districts": "1971-72 to 1984-85"
+    },
+    "birth_date": "1952-5-24"
+}

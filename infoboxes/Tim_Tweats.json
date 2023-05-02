@@ -1,0 +1,40 @@
+{
+    "name": "Tim Tweats",
+    "full_name": "Timothy Andrew Tweats",
+    "birth_place": "Stoke-on-Trent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "https://cricketarchive.com/Archive/Players/4/4697/4697.html CricketArchive subscription needed",
+    "FC": {
+        "matches": "33",
+        "runs": "1405",
+        "bat avg": "24.64",
+        "100s/50s": "2/4",
+        "top score": "189",
+        "deliveries": "298",
+        "wickets": "4",
+        "bowl avg": "59.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "29/-"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "315",
+        "bat avg": "13.69",
+        "100s/50s": "0/0",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/27",
+        "catches/stumpings": "10/-"
+    },
+    "clubs": {
+        "Derbyshire": "1992\u20131999",
+        "Staffordshire": "1992, 2000"
+    },
+    "birth_date": "1974-04-18"
+}

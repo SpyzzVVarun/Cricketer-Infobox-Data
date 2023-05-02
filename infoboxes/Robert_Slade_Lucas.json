@@ -1,0 +1,30 @@
+{
+    "name": "Robert Lucas",
+    "country": "England",
+    "fullname": "Robert Slade Lucas",
+    "birth_place": "Teddington, Middlesex, England",
+    "death_date": "1942",
+    "death_place": "Franklands Village, Haywards Heath, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/31/31097/31097.html  CricketArchive ",
+    "First-class": {
+        "matches": "93",
+        "runs": "2,685",
+        "bat avg": "18.64",
+        "100s/50s": "1/9",
+        "top score": "185",
+        "deliveries": "378",
+        "wickets": "6",
+        "bowl avg": "61.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/44",
+        "catches/stumpings": "43/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1891\u20131900",
+        "Marylebone": "1894\u20131895"
+    },
+    "birth_date": "1867-7-17"
+}

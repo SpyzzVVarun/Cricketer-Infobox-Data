@@ -1,0 +1,41 @@
+{
+    "name": "Mick Norman",
+    "country": "England",
+    "fullname": "Michael Eric John Charles Norman",
+    "birth_place": "Northampton, Northamptonshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/31/31744/31744.html CricketArchive ",
+    "FC": {
+        "matches": "363",
+        "runs": "17441",
+        "bat avg": "29.26",
+        "100s/50s": "24/80",
+        "deliveries": "190",
+        "wickets": "2",
+        "bowl avg": "82.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/0",
+        "catches/stumpings": "161/&ndash;"
+    },
+    "OD": {
+        "matches": "120",
+        "runs": "2412",
+        "bat avg": "25.65",
+        "100s/50s": "&ndash;/11",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "30/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1952&ndash;65",
+        "Leicestershire": "1966&ndash;75"
+    },
+    "birth_date": "1933-1-19"
+}

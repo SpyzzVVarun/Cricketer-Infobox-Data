@@ -1,0 +1,30 @@
+{
+    "name": "Callum Geldart",
+    "country": "England",
+    "fullname": "Callum John Geldart",
+    "birth_place": "Huddersfield, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "10 May",
+    "debutyear1": "2010",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Loughborough UCCE",
+    "lastdate1": "27 April",
+    "lastyear1": "2011",
+    "lastfor1": "Yorkshire",
+    "lastagainst1": "Durham MCCU",
+    "source": "http://www.espncricinfo.com/ci/content/player/407890.html Espncricinfo.com ",
+    "First-class": {
+        "matches": "2",
+        "runs": "51",
+        "bat avg": "25.50",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2010\u20132011"
+    },
+    "birth_date": "1991-12-17"
+}

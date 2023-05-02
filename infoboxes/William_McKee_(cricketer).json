@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "William Alexander McKee",
+    "birth_place": "Coleraine, Northern Ireland",
+    "death_date": "September 1986 (aged 66/67)",
+    "death_place": "Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24446.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "114",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1946"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "George Bennett",
+    "birth_place": "Shorne Ridgeway, Kent",
+    "death_date": "df=yes",
+    "death_place": "Shorne Ridgeway, Kent",
+    "nickname": "Farmer Bennett",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/9685.html CricInfo",
+    "First-class": {
+        "matches": "169CricInfo and CricketArchive disagree over the number of matches Bennett played. The CricInfo total of 169 has been used here as the site is not behind a paywall. CricketArchive provides a total of 170 matches. Runs scored and wickets taken are identical for both sources.",
+        "runs": "4,199",
+        "bat avg": "14.73",
+        "100s/50s": "1/13",
+        "top score": "100",
+        "deliveries": [
+            "Due to incomplete scorecards from the mid-19th century, the number of balls bowled and bowling average are approximate"
+        ],
+        "wickets": "612",
+        "bowl avg": [
+            ""
+        ],
+        "fivefor": "41",
+        "tenfor": "12",
+        "best bowling": "9/113",
+        "catches/stumpings": "122/\u2013"
+    },
+    "clubs": {
+        "Kent": "1853\u20131873"
+    },
+    "birth_date": "1829-02-12"
+}

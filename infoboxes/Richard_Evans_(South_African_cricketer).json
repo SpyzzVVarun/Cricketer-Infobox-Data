@@ -1,0 +1,29 @@
+{
+    "name": "Richard Evans",
+    "country": "South Africa",
+    "fullname": "Richard James Evans",
+    "birth_place": "East London, Cape Province, Union of South Africa",
+    "death_date": "1943",
+    "death_place": "South Atlantic Ocean, near Danger Point Lighthouse, Cape Town, Cape Province, Union of South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/44991.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "234",
+        "bat avg": "13.00",
+        "100s/50s": "0/1",
+        "top score": "88",
+        "deliveries": "1543",
+        "wickets": "49",
+        "bowl avg": "18.48",
+        "fivefor": "4",
+        "tenfor": "2",
+        "best bowling": "8/64",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Border": "1934\u201335 to 1939\u201340"
+    },
+    "birth_date": "1914-10-11"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Richard Ashley",
+    "country": "England",
+    "fullname": "Richard Ashley",
+    "birth_place": "Weston-super-Mare, Somerset, England",
+    "death_date": "1974",
+    "death_place": "Bognor Regis, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm fast-medium",
+    "type1": "First-class",
+    "debutdate1": "1 June",
+    "debutyear1": "1932",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "15 November",
+    "lastyear1": "1939",
+    "lastfor1": "Europeans (India)",
+    "lastagainst1": "Hindus",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3407/3407.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "61",
+        "bat avg": "10.16",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "307",
+        "wickets": "8",
+        "bowl avg": "22.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/26",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1932",
+        "Mysore": "1937\u201338",
+        "Europeans (India)": "1938\u201340"
+    },
+    "birth_date": "1902-10-27"
+}

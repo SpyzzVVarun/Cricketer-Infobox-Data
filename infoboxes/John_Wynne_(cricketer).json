@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "John Henry Griffith Wynne",
+    "birth_place": "Coleshill, Warwickshire, England",
+    "death_date": "df=yes",
+    "death_place": "Windsor, Berkshire, England",
+    "family": "Charles Wynne-Finch (brother), Edward Wynne-Finch (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23453.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "121",
+        "bat avg": "6.05",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "deliveries": "?",
+        "wickets": "7",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1838&ndash;1840",
+        "Marylebone Cricket Club": "1850"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Keith Linney",
+    "country": "England",
+    "fullname": "Charles Keith Linney",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "death_date": "1992",
+    "death_place": "Tunbridge Wells, Kent, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-pace",
+    "role": "Batsman",
+    "family": "Father George",
+    "type1": "First-class",
+    "debutdate1": "6 May",
+    "debutyear1": "1931",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "25 June",
+    "lastyear1": "1937",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Essex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3686/3686.html CricketArchive ",
+    "First-class": {
+        "matches": "32",
+        "runs": "576",
+        "bat avg": "14.40",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "222",
+        "wickets": "2",
+        "bowl avg": "59.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1931&ndash;1937"
+    },
+    "birth_date": "1912-8-26"
+}

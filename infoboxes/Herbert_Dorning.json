@@ -1,0 +1,25 @@
+{
+    "country": "Argentina",
+    "fullname": "Herbert Dorning",
+    "birth_place": "Lancashire, England",
+    "death_date": "2 February 1955 (aged 80)",
+    "death_place": "Perranmar, Cornwall, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm fast-medium, Left-arm Left-arm fast-medium, Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23622.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "190",
+        "bat avg": "14.61",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "2,066",
+        "wickets": "39",
+        "bowl avg": "20.25",
+        "fivefor": "2",
+        "tenfor": "2",
+        "best bowling": "7/38",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

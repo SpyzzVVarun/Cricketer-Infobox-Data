@@ -1,0 +1,30 @@
+{
+    "name": "Tracey Moore",
+    "fullname": "Tracey Ivan Moore",
+    "birth_place": "Ingham, Norfolk",
+    "death_date": "2018",
+    "nickname": "TC",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/17789.html CricInfo",
+    "List A": {
+        "matches": "13",
+        "runs": "24",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "deliveries": "831",
+        "wickets": "19",
+        "bowl avg": "27.63",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/48",
+        "catches/stumpings": "22/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1959\u20131978"
+    },
+    "birth_date": "1941-12-16"
+}

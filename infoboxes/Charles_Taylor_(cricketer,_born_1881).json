@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Charles James Taylor",
+    "birth_place": "Bedminster, Bristol, England",
+    "death_date": "1960",
+    "death_place": "Leek, Staffordshire, England",
+    "family": "Frederick Taylor (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/33/33197/33197.html CricketArchive ",
+    "First-class": {
+        "matches": "21",
+        "runs": "226",
+        "bat avg": "6.84",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "3,131",
+        "wickets": "61",
+        "bowl avg": "32.14",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/82",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1908\u20131909",
+        "Somerset": "1910\u20131911",
+        "Staffordshire": "1921\u20131932"
+    }
+}

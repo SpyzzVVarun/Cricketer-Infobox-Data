@@ -1,0 +1,28 @@
+{
+    "name": "Tom Jones",
+    "country": "England",
+    "fullname": "Thomas Charles Jones",
+    "birth_place": "Pontypool, Monmouthshire, Wales",
+    "death_date": "1935",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/15556.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "36",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1925 & 1928"
+    },
+    "birth_date": "1901-4-1"
+}

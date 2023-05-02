@@ -1,0 +1,36 @@
+{
+    "name": "John Chapman",
+    "country": "England",
+    "birth_place": "Frocester, Gloucestershire, England",
+    "death_date": "1956",
+    "death_place": "Carlecotes Yorkshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "15 May",
+    "debutyear1": "1909",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "1 September",
+    "lastyear1": "1920",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Somerset",
+    "source": "https://cricketarchive.com/Archive/Players/11/11821/11821.html CricketArchive ",
+    "First-class": {
+        "matches": "113",
+        "runs": "3,624",
+        "bat avg": "18.58",
+        "100s/50s": "2/17",
+        "top score": "198",
+        "deliveries": "264",
+        "wickets": "1",
+        "bowl avg": "241.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/42",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1909\u20131920"
+    },
+    "birth_date": "1877-3-11"
+}

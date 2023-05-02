@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Charles Groves",
+    "birth_place": "Leith, Midlothian, Scotland",
+    "death_date": "1949",
+    "death_place": "Danby, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/charles-groves-25225 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "150",
+        "bat avg": "18.75",
+        "100s/50s": "\u2013/1",
+        "top score": "64",
+        "deliveries": "582",
+        "wickets": "9",
+        "bowl avg": "31.55",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/83",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1923&ndash;1928"
+    }
+}

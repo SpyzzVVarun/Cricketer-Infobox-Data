@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Thomas Spencer Curteis",
+    "birth_place": "Shelton, Norfolk, England",
+    "death_date": "1914",
+    "death_place": "Brampton, Suffolk, England",
+    "batting": "Unknown",
+    "bowling": "Left-arm roundarm Left-arm roundarm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11498.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "65",
+        "bat avg": "7.22",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "1,199",
+        "wickets": "24",
+        "bowl avg": "19.43",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/23",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1864&ndash;1865"
+    }
+}

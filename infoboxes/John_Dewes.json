@@ -1,0 +1,51 @@
+{
+    "name": "John Dewes",
+    "fullname": "John Gordon Dewes",
+    "birth_place": "Latchford, Cheshire, England",
+    "death_date": "df=y",
+    "family": "Jim Dewes (son)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "14 August",
+    "testdebutyear": "1948",
+    "lasttestdate": "22 December",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1950",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/11883.html CricInfo",
+    "Test": {
+        "matches": "5",
+        "runs": "121",
+        "bat avg": "12.09",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "137",
+        "runs": "8,564",
+        "bat avg": "41.77",
+        "100s/50s": "18/45",
+        "top score": "212",
+        "deliveries": "114",
+        "wickets": "2",
+        "bowl avg": "35.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "48/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1948\u20131950",
+        "Middlesex": "1948\u20131956",
+        "Marylebone Cricket Club": "1948\u20131950/51"
+    },
+    "birth_date": "1926-10-11"
+}

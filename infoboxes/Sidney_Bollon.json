@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Sidney Bollon",
+    "birth_place": "Edmonton, Middlesex, England",
+    "death_date": "1986",
+    "death_place": "Tavistock, Devon, England",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9842.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "193",
+        "wickets": "6",
+        "bowl avg": "13.50",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/59",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

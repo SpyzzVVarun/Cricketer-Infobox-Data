@@ -1,0 +1,25 @@
+{
+    "name": "Joe Medew-Ewen",
+    "fullname": "Joe Medew-Ewen",
+    "batting": "Right-handed",
+    "bowling": "Left-arm unorthodox Left-arm unorthodox spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1253847.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "234",
+        "wickets": "3",
+        "bowl avg": "55.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/105",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2020/21"
+    }
+}

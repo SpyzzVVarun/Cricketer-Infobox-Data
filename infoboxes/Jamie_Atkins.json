@@ -1,0 +1,32 @@
+{
+    "name": "Jamie Atkins",
+    "fullname": "Jamie Ardley Atkins",
+    "birth_place": "Redhill, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "29 April",
+    "debutyear1": "2021",
+    "debutfor1": "Sussex",
+    "debutagainst1": "Lancashire",
+    "source": "https://www.espncricinfo.com/player/jamie-atkins-1258113 Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "57",
+        "bat avg": "8.14",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "1,157",
+        "wickets": "24",
+        "bowl avg": "30.12",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/51",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Sussex( 88 )": "2021\u2013present"
+    },
+    "birth_date": "2002-5-20"
+}

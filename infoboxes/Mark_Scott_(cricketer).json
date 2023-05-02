@@ -1,0 +1,38 @@
+{
+    "name": "Mark Scott",
+    "batting": "Right-handed",
+    "birth_place": "Muswell Hill, Middlesex",
+    "fullname": "Mark Stephen Scott",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/20086.html Cricinfo",
+    "First-class": {
+        "matches": "32",
+        "runs": "1,383",
+        "bat avg": "24.26",
+        "100s/50s": "1/9",
+        "top score": "109",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "List A": {
+        "matches": "24",
+        "runs": "392",
+        "bat avg": "16.33",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1959-3-10"
+}

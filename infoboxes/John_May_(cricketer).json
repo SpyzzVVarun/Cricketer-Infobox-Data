@@ -1,0 +1,24 @@
+{
+    "name": "John May",
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/16953.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "71",
+        "bat avg": "11.83",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "28",
+        "deliveries": "336",
+        "wickets": "6",
+        "bowl avg": "27.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/80",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1867 and 1870"
+    }
+}

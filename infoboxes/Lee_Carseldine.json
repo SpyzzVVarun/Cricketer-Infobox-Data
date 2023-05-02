@@ -1,0 +1,56 @@
+{
+    "name": "Lee Carseldine",
+    "fullname": "Lee Andrew Carseldine",
+    "birth_place": "Nambour, Queensland",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Allrounder",
+    "source": "http://www.espncricinfo.com/australia/content/player/4541.html Cricinfo ",
+    "FC": {
+        "matches": "47",
+        "runs": "2,298",
+        "bat avg": "34.29",
+        "100s/50s": "3/13",
+        "top score": "152",
+        "deliveries": "1,377",
+        "wickets": "14",
+        "bowl avg": "47.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "51/\u2013"
+    },
+    "LA": {
+        "matches": "59",
+        "runs": "1,529",
+        "bat avg": "28.31",
+        "100s/50s": "3/7",
+        "top score": "126",
+        "deliveries": "378",
+        "wickets": "11",
+        "bowl avg": "27.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/6",
+        "catches/stumpings": "21/\u2013"
+    },
+    "T20": {
+        "matches": "26",
+        "runs": "596",
+        "bat avg": "31.36",
+        "100s/50s": "0/4",
+        "top score": "74",
+        "deliveries": "84",
+        "wickets": "7",
+        "bowl avg": "16.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1998/99\u20132010/11",
+        "Rajasthan Royals": "2009"
+    },
+    "birth_date": "1975-11-17"
+}

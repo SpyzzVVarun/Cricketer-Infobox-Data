@@ -1,0 +1,25 @@
+{
+    "name": "Leslie David Andersen",
+    "fullname": "Leslie David Andersen",
+    "birth_place": "Melbourne, Australia",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/36239.html ESPNcricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "36",
+        "bat avg": "7.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "Unknown",
+        "wickets": "10",
+        "bowl avg": "45.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/41",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1960/61",
+        "Northern Districts": "1967/68"
+    },
+    "birth_date": "1939-12-11"
+}

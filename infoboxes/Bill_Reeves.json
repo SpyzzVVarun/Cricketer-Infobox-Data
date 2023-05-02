@@ -1,0 +1,24 @@
+{
+    "name": "Bill Reeves",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "birth_place": "Cambridge, England",
+    "death_date": "22 March 1944 (aged 68)",
+    "death_place": "Wormwood Park, Hammersmith, London",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/5/5270/5270.html CricketArchive",
+    "First-class": {
+        "matches": "280",
+        "runs": "6,656",
+        "bat avg": "16.59",
+        "100s/50s": "3/24",
+        "top score": "135",
+        "deliveries": "31,168",
+        "wickets": "601",
+        "bowl avg": "27.49",
+        "fivefor": "38",
+        "tenfor": "5",
+        "best bowling": "7/33",
+        "catches/stumpings": "122/\u2013"
+    },
+    "clubs": {}
+}

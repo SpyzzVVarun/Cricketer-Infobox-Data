@@ -1,0 +1,29 @@
+{
+    "name": "Henry Persse",
+    "country": "England",
+    "fullname": "Henry Wilfred Persse",
+    "birth_place": "Portswood, Hampshire, England",
+    "death_date": "1918",
+    "death_place": "Near Saint-Omer, Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/18510.html Cricinfo ",
+    "FC": {
+        "matches": "51",
+        "runs": "889",
+        "bat avg": "11.69",
+        "100s/50s": "&ndash;/3",
+        "top score": "71",
+        "deliveries": "6,993",
+        "wickets": "127",
+        "bowl avg": "30.02",
+        "fivefor": "3",
+        "tenfor": "&ndash;",
+        "best bowling": "6/64",
+        "catches/stumpings": "40/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1905&ndash;1909"
+    },
+    "birth_date": "1885-9-19"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Gus Kelly",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26796/26796.html CricketArchive",
+    "First-class": {
+        "matches": "26",
+        "runs": "614",
+        "bat avg": "16.59",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "2567",
+        "wickets": "55",
+        "bowl avg": "22.85",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {}
+}

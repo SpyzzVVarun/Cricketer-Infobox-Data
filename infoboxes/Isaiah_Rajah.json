@@ -1,0 +1,40 @@
+{
+    "name": "Isaiah Rajah",
+    "country": "Trinidad and Tobago",
+    "birth_place": "Sangre Grande, Trinidad",
+    "batting": "Left-handed",
+    "bowling": "Legbreak",
+    "source": "http://www.espncricinfo.com/ci/content/player/1066826.html ESPNcricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "517",
+        "bat avg": "23.50",
+        "100s/50s": "0/2",
+        "top score": "69",
+        "deliveries": "10",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "73",
+        "bat avg": "36.50",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "15",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2016\u2013present"
+    },
+    "birth_date": "1993-10-16"
+}

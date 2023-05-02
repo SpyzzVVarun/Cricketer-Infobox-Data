@@ -1,0 +1,27 @@
+{
+    "name": "Frank Walkinshaw",
+    "country": "England",
+    "birth_place": "Hong Kong",
+    "death_date": "1934",
+    "death_place": "Bramley, Hampshire, England",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/22277.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Hampshire": "1885"
+    },
+    "birth_date": "1861-2-28"
+}

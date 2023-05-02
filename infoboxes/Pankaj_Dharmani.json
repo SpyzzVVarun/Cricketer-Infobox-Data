@@ -1,0 +1,37 @@
+{
+    "name": "Pankaj Dharmani",
+    "country": "India",
+    "fullname": "Pankaj Dharmani",
+    "birth_place": "Delhi, India",
+    "batting": "Right-hand bat",
+    "bowling": "n/a",
+    "role": "Wicket-keeper",
+    "odidebutdate": "23 October",
+    "odidebutyear": "1996",
+    "odidebutagainst": "South Africa",
+    "odicap": "100",
+    "oneodi": "true",
+    "lastodidate": "23 October",
+    "lastodiyear": "1996",
+    "lastodiagainst": "South Africa",
+    "source": "http://content-ind.cricinfo.com/ci/content/player/28067.html ",
+    "Tests": {
+        "matches": "0"
+    },
+    "ODIs": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "-/-",
+        "top score": "8",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "4/4"
+    },
+    "clubs": {},
+    "birth_date": "1974-09-27"
+}

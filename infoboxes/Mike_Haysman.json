@@ -1,0 +1,50 @@
+{
+    "name": "Mike Haysman",
+    "country": "Australia",
+    "fullname": "Michael Donald Haysman",
+    "birth_place": "Adelaide, South Australia, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Off Right-arm Off Break",
+    "role": "Commentator",
+    "type1": "First-class",
+    "debutyear1": "1982",
+    "debutfor1": "South Australia",
+    "debutagainst1": "Victoria",
+    "lastyear1": "1994",
+    "lastfor1": "Northern Transvaal",
+    "source": "http://www.cricinfo.com/australia/content/player/5919.html Cricinfo ",
+    "FC": {
+        "matches": "103",
+        "runs": "5977",
+        "bat avg": "36.89",
+        "100s/50s": "13/24",
+        "top score": "180",
+        "deliveries": "1244",
+        "wickets": "5",
+        "bowl avg": "135.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/19",
+        "catches/stumpings": "140/&ndash;"
+    },
+    "LA": {
+        "matches": "81",
+        "runs": "1947",
+        "bat avg": "29.95",
+        "100s/50s": "2/13",
+        "deliveries": "233",
+        "wickets": "5",
+        "bowl avg": "35.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/7",
+        "catches/stumpings": "36/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1987/88",
+        "Leicestershire": "1983/84",
+        "Australian XI": "1985/86",
+        "Northern Transvaal": "1988/89"
+    },
+    "birth_date": "1961-4-22"
+}

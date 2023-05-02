@@ -1,0 +1,25 @@
+{
+    "name": "Abdul Aziz",
+    "country": "India",
+    "fullname": "Abdul Aziz Durrani",
+    "birth_place": "Kabul,   Emirate of Afghanistan",
+    "death_date": "1979",
+    "nickname": "Master Aziz",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Salim Durani (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/26338.html ESPNcricinfo",
+    "First-class": {
+        "matches": "19",
+        "runs": "394",
+        "bat avg": "14.59",
+        "100s/50s": "0/3",
+        "top score": "89",
+        "catches/stumpings": "23/11"
+    },
+    "clubs": {
+        "Sind": "1932\u20131936",
+        "Nawanagar": "1936\u20131938"
+    },
+    "birth_date": "1905-8-15"
+}

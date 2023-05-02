@@ -1,0 +1,44 @@
+{
+    "country": "England",
+    "fullname": "John Frederick Steele",
+    "birth_place": "Brown Edge, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "David Steele (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/4/4665/4665.html Cricket Archive ",
+    "FC": {
+        "matches": "379",
+        "runs": "15,054",
+        "bat avg": "28.95",
+        "100s/50s": "21/70",
+        "top score": "195",
+        "deliveries": "39,292",
+        "wickets": "584",
+        "bowl avg": "27.04",
+        "fivefor": "16",
+        "tenfor": "\u2013",
+        "best bowling": "7/29",
+        "catches/stumpings": "414/\u2013"
+    },
+    "LA": {
+        "matches": "302",
+        "runs": "3,532",
+        "bat avg": "20.89",
+        "100s/50s": "1/14",
+        "top score": "108 not out",
+        "deliveries": "12,434",
+        "wickets": "293",
+        "bowl avg": "25.54",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "5/11",
+        "catches/stumpings": "146/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "1965\u20131969",
+        "Leicestershire": "1970\u20131983",
+        "Natal": "1973-74\u20131977-78",
+        "Glamorgan": "1984\u20131986"
+    },
+    "birth_date": "1946-7-23"
+}

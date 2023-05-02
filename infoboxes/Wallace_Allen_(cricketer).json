@@ -1,0 +1,23 @@
+{
+    "name": "Wallace Allen",
+    "country": "Ireland",
+    "fullname": "John Wallace Allen",
+    "birth_place": "Cullion, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Derry, Northern Ireland",
+    "nickname": "Waldo",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24303.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1948"
+    }
+}

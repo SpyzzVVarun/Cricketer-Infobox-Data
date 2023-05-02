@@ -1,0 +1,38 @@
+{
+    "name": "Muriel Haddelsey",
+    "female": "true",
+    "fullname": "Muriel Ethel Haddelsey",
+    "birth_place": "Moseley, Warwickshire, England",
+    "death_date": "1983",
+    "death_place": "Malvern, Worcestershire, England",
+    "role": "Batter",
+    "family": "MJ Haddelsey (sister)",
+    "internationalspan": "1937",
+    "country": "England",
+    "onetest": "true",
+    "testdebutdate": "12 June",
+    "testdebutyear": "1937",
+    "testdebutagainst": "Australia",
+    "testcap": "15",
+    "source": "https://cricketarchive.com/Players/17/17020/17020.html CricketArchive",
+    "WTest": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "2",
+        "runs": "44",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1937"
+    },
+    "birth_date": "1894-8-7"
+}

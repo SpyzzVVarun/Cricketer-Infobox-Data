@@ -1,0 +1,41 @@
+{
+    "name": "Daryl Ferrario",
+    "fullname": "Daryl Sundar Ferrario",
+    "birth_place": "Malappuram, Kerala, India",
+    "batting": "Right handed",
+    "bowling": "Right arm Right arm off-break",
+    "role": "Batting all-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/1070185.html Cricinfo ",
+    "LA": {
+        "matches": "8",
+        "runs": "80",
+        "bat avg": "13.33",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2014",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/0"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "51",
+        "bat avg": "12.75",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "\u2014",
+        "wickets": "\u2014",
+        "bowl avg": "\u2014",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Kerala": "2017-present"
+    },
+    "birth_date": "1998-5-7"
+}

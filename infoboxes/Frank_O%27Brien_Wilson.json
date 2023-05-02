@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Frank O'Brien Wilson",
+    "birth_place": "Biarritz, Nouvelle-Aquitaine, France",
+    "death_date": "1962",
+    "death_place": "Nairobi, Kenya",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/frank-wilson-35981 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "192",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1905/06",
+        "Devon": "1909"
+    }
+}

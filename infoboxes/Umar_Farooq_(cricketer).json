@@ -1,0 +1,26 @@
+{
+    "country": "Denmark",
+    "fullname": "Umar Farooq Ahmed",
+    "birth_place": "Denmark",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/23943.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "60",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Denmark": "2003"
+    },
+    "birth_date": "1979-1-4"
+}

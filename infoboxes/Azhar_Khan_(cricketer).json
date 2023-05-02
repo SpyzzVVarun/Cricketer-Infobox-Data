@@ -1,0 +1,43 @@
+{
+    "name": "Azhar Khan",
+    "fullname": "Mohammad Azhar Khan",
+    "birth_place": "Gujranwala, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "country": "Pakistan",
+    "onetest": "true",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "18 March",
+    "testdebutyear": "1980",
+    "testcap": "84",
+    "source": "http://www.espncricinfo.com/ci/content/player/39022.html ESPNcricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "-/-",
+        "top score": "14",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "2.00",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/1",
+        "catches/stumpings": "-/-"
+    },
+    "First-class": {
+        "matches": "159",
+        "runs": "7733",
+        "bat avg": "37.53",
+        "100s/50s": "16/42",
+        "deliveries": "7528",
+        "wickets": "122",
+        "bowl avg": "25.62",
+        "fivefor": "4",
+        "tenfor": "-",
+        "best bowling": "6/34",
+        "catches/stumpings": "111/-"
+    },
+    "clubs": {},
+    "birth_date": "1955-9-7"
+}

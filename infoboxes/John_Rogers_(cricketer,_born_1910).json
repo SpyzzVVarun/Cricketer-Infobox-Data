@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "John Hickling Rogers",
+    "birth_place": "Birkenhead, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bangkok, Thailand",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/19802.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "26",
+        "bat avg": "5.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1930&ndash;1934",
+        "Oxford University": "1932"
+    }
+}

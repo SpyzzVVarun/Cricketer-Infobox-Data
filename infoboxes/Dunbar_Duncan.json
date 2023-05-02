@@ -1,0 +1,28 @@
+{
+    "name": "Dunbar Duncan",
+    "country": "England",
+    "fullname": "Dunbar Wilson Johnston Duncan",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1919",
+    "death_place": "Regent's Park, London, England",
+    "batting": "Right-handed",
+    "family": "Arthur Duncan (Brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/11957.html Cricinfo ",
+    "FC": {
+        "matches": "17",
+        "runs": "581",
+        "bat avg": "22.34",
+        "100s/50s": "\u2013/4",
+        "deliveries": "60",
+        "wickets": "3",
+        "bowl avg": "6.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/1",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1875-1885"
+    },
+    "birth_date": "1852-7-8"
+}

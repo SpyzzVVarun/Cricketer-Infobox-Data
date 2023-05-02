@@ -1,0 +1,37 @@
+{
+    "name": "Brian Brain",
+    "birth_place": "Worcester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/9946.html Cricinfo",
+    "First-class": {
+        "matches": "259",
+        "runs": "1,704",
+        "bat avg": "8.39",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "41,028",
+        "wickets": "824",
+        "bowl avg": "24.50",
+        "fivefor": "33",
+        "tenfor": "6",
+        "best bowling": "8/55",
+        "catches/stumpings": "50/\u2013"
+    },
+    "List A": {
+        "matches": "204",
+        "runs": "497",
+        "bat avg": "8.28",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "9,776",
+        "wickets": "290",
+        "bowl avg": "20.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/13",
+        "catches/stumpings": "36/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "13 September 1940"
+}

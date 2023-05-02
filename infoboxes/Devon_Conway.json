@@ -1,0 +1,80 @@
+{
+    "name": "Devon Conway",
+    "country": "New Zealand",
+    "fullname": "Devon Philip Conway",
+    "birth_place": "Johannesburg, Gauteng Province, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper-batter",
+    "internationalspan": "2020\u2013present",
+    "testdebutdate": "2 June",
+    "testdebutyear": "2021",
+    "testdebutagainst": "England",
+    "testcap": "281",
+    "lasttestdate": "17 March",
+    "lasttestyear": "2023",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "20 March",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "198",
+    "lastodidate": "24 January",
+    "lastodiyear": "2023",
+    "lastodiagainst": "India",
+    "odishirt": "88",
+    "T20Idebutdate": "27 November",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "West Indies",
+    "T20Icap": "84",
+    "lastT20Idate": "1 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "India",
+    "T20Ishirt": "88",
+    "source": "http://www.espncricinfo.com/ci/content/player/379140.html ESPNcricinfo",
+    "Test": {
+        "matches": "16",
+        "runs": "1,403",
+        "bat avg": "50.10",
+        "100s/50s": "4/8",
+        "top score": "200",
+        "catches/stumpings": "6/\u2013"
+    },
+    "ODI": {
+        "matches": "18",
+        "runs": "733",
+        "bat avg": "45.81",
+        "100s/50s": "3/3",
+        "top score": "138",
+        "catches/stumpings": "9/\u2013"
+    },
+    "T20I": {
+        "matches": "38",
+        "runs": "1,234",
+        "bat avg": "45.70",
+        "100s/50s": "0/9",
+        "catches/stumpings": "22/4"
+    },
+    "FC": {
+        "matches": "126",
+        "runs": "8,654",
+        "bat avg": "47.54",
+        "100s/50s": "22/41",
+        "catches/stumpings": "105/\u2013"
+    },
+    "clubs": {
+        "Gauteng": "2008/09\u20132016/17",
+        "Dolphins": "2010/11\u20132011/12",
+        "Highveld Lions": "2013/14\u20132016/17",
+        "Wellington": "2017/18\u2013present",
+        "Somerset": "2021",
+        "Southern Brave": "2021",
+        "Chennai Super Kings": "2022\u2013present"
+    },
+    "birth_date": "1991-7-8",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{NZ}}",
+        "Competition: T20 World Cup",
+        "Competition: ICC World Test Championship"
+    ]
+}

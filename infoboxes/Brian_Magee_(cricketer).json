@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Brian Robert Boyd Magee",
+    "birth_place": "Toronto, Ontario, Canada",
+    "death_date": "May 2006",
+    "death_place": "Toronto, Ontario, Canada",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23836.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "40.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/22",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Canada": "1954"
+    },
+    "birth_date": "1918-5-4"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Alan Ormrod",
+    "birth_place": "Ramsbottom, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "https://cricketarchive.com/Archive/Players/31/31807/31807.html CricketArchive",
+    "First-class": {
+        "matches": "500",
+        "runs": "23,206",
+        "bat avg": "30.90",
+        "100s/50s": "32/113",
+        "deliveries": "1,794",
+        "wickets": "25",
+        "bowl avg": "43.76",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/27",
+        "catches/stumpings": "400/0"
+    },
+    "List A": {
+        "matches": "286",
+        "runs": "6,398",
+        "bat avg": "25.18",
+        "100s/50s": "2/34",
+        "deliveries": "153",
+        "wickets": "4",
+        "bowl avg": "33.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/51",
+        "catches/stumpings": "78/0"
+    },
+    "clubs": {},
+    "birth_date": "22 December 1942"
+}

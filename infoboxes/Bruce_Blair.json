@@ -1,0 +1,63 @@
+{
+    "name": "Bruce Blair",
+    "birth_place": "Dunedin",
+    "family": "Wayne Blair (brother), Roy Blair (father), James Blair (great uncle)",
+    "country": "New Zealand",
+    "internationalspan": "1982\u20131986",
+    "odidebutdate": "17 February",
+    "odidebutyear": "1982",
+    "odidebutagainst": "Australia",
+    "odicap": "41",
+    "lastodidate": "15 April",
+    "lastodiyear": "1986",
+    "lastodiagainst": "Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36299.html Cricinfo ",
+    "ODI": {
+        "matches": "14",
+        "runs": "174",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "4/\u2013"
+    },
+    "FC": {
+        "matches": "110",
+        "runs": "5,995",
+        "bat avg": "32.58",
+        "100s/50s": "7/40",
+        "top score": "143",
+        "deliveries": "3,796",
+        "wickets": "55",
+        "bowl avg": "31.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/26",
+        "catches/stumpings": "81/\u2013"
+    },
+    "LA": {
+        "matches": "74",
+        "runs": "1,583",
+        "bat avg": "23.62",
+        "100s/50s": "0/11",
+        "top score": "91",
+        "deliveries": "2,087",
+        "wickets": "43",
+        "bowl avg": "31.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/37",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Otago": "1986/87\u20131989/90",
+        "Northern Districts": "1984/85\u20131985/86"
+    },
+    "birth_date": "27 December 1957"
+}

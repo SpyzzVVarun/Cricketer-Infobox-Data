@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Oswald Thomas Norris",
+    "birth_place": "Chipstead, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Pease Pottage, Sussex, England",
+    "family": "Anthony Allom (grandson), Maurice Allom (son-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/18161.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "413",
+        "bat avg": "20.65",
+        "100s/50s": "\u2013/3",
+        "top score": "87",
+        "deliveries": "474",
+        "wickets": "4",
+        "bowl avg": "68.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/109",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1904&ndash;1905"
+    }
+}

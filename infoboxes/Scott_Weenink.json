@@ -1,0 +1,41 @@
+{
+    "country": "New Zealand",
+    "fullname": "Scott William Weenink",
+    "birth_place": "Christchurch, Canterbury, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/38763.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "224",
+        "bat avg": "13.17",
+        "100s/50s": "\u2013/1",
+        "deliveries": "1,050",
+        "wickets": "10",
+        "bowl avg": "64.10",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/69",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "142",
+        "bat avg": "20.28",
+        "100s/50s": "1/\u2013",
+        "top score": "113",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1995/96&ndash;1996/97",
+        "Oxford Universities": "2000",
+        "Oxford University": "2000"
+    },
+    "birth_date": "1973-1-1"
+}

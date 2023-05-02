@@ -1,0 +1,41 @@
+{
+    "name": "Graham Reynolds",
+    "fullname": "Graham Edward Arthur Reynolds",
+    "birth_place": "Newport, Monmouthshire, Wales",
+    "death_date": "2008",
+    "death_place": "Newport, Wales",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/19371.html Cricinfo",
+    "First-class": {
+        "matches": "2",
+        "runs": "37",
+        "bat avg": "37.00",
+        "100s/50s": "0/0",
+        "deliveries": "192",
+        "wickets": "2",
+        "bowl avg": "37.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "0/0"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "31",
+        "bat avg": "10.33",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "492",
+        "wickets": "17",
+        "bowl avg": "20.41",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "5/37",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Glamorgan": "1969\u20131971"
+    },
+    "birth_date": "1937-9-23"
+}

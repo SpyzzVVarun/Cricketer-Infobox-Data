@@ -1,0 +1,27 @@
+{
+    "name": "Neil Dansie",
+    "country": "Australia",
+    "fullname": "Hampton Neil Dansie",
+    "birth_place": "Nuriootpa, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "source": "http://content-usa.cricinfo.com/australia/content/player/4894.html Cricinfo ",
+    "First-class": {
+        "matches": "124",
+        "runs": "7,543",
+        "bat avg": "34.44",
+        "100s/50s": "18/36",
+        "top score": "185",
+        "deliveries": "6,188",
+        "wickets": "90",
+        "bowl avg": "33.31",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/61",
+        "catches/stumpings": "49/-"
+    },
+    "clubs": {
+        "South Australia": "1949/50\u20131966/67"
+    },
+    "birth_date": "1928-7-2"
+}

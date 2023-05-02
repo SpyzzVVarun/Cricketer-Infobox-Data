@@ -1,0 +1,28 @@
+{
+    "name": "Carl Beal",
+    "fullname": "Carl Ernest Beal",
+    "birth_place": "Launceston, Tasmania, Australia",
+    "death_date": "1916",
+    "death_place": "Melbourne, Victoria, Australia",
+    "family": "William Beal (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/36402.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "436",
+        "bat avg": "24.22",
+        "100s/50s": "1/1",
+        "top score": "105",
+        "deliveries": "180",
+        "wickets": "3",
+        "bowl avg": "37.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/16",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Otago": "1906/07\u20131908/09",
+        "Canterbury": "1913/14\u20131914/15"
+    },
+    "birth_date": "1887-7-12"
+}

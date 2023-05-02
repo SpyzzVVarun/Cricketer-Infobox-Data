@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Rees",
+    "fullname": "Arthur Westland Rees",
+    "birth_place": "Hokitika, New Zealand",
+    "death_date": "1921",
+    "death_place": "Gisborne, New Zealand",
+    "family": "William Lee Rees (father) Grace family",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/38297.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "13",
+        "bat avg": "1.85",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "1400",
+        "wickets": "41",
+        "bowl avg": "13.02",
+        "fivefor": "4",
+        "tenfor": "2",
+        "best bowling": "8/36",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1889\u201390",
+        "Hawke's Bay": "1896\u201397"
+    },
+    "birth_date": "1866-9-9"
+}

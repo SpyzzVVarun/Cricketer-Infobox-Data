@@ -1,0 +1,65 @@
+{
+    "name": "Merlyn Edwards",
+    "female": "true",
+    "fullname": "Merlyn Edwards",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "country": "Trinidad and Tobago",
+    "country2": "West Indies",
+    "internationalspan": "1973",
+    "internationalspan2": "1979",
+    "testdebutdate": "23 June",
+    "testdebutyear": "1979",
+    "testdebutfor": "West Indies",
+    "testdebutagainst": "England",
+    "testcap2": "18",
+    "lasttestdate": "1 July",
+    "lasttestyear": "1979",
+    "lasttestfor": "West Indies",
+    "lasttestagainst": "England",
+    "odidebutdate": "30 June",
+    "odidebutyear": "1973",
+    "odidebutfor": "Trinidad and Tobago",
+    "odidebutagainst": "Australia",
+    "odicap": "13",
+    "odicap2": "5",
+    "lastodidate": "7 July",
+    "lastodiyear": "1979",
+    "lastodifor": "West Indies",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17411/17411.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "60",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WODI": {
+        "matches": "6",
+        "runs": "23",
+        "bat avg": "3.83",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "2/0"
+    },
+    "WFC": {
+        "matches": "5",
+        "runs": "78",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "2/1"
+    },
+    "WLA": {
+        "matches": "11",
+        "runs": "151",
+        "bat avg": "16.77",
+        "100s/50s": "0/1",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1973\u20131994"
+    }
+}

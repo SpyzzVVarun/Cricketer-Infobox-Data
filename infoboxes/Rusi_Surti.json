@@ -1,0 +1,51 @@
+{
+    "name": "Rusi Surti",
+    "fullname": "Rusi Framroze Surti",
+    "birth_place": "Surat, British India",
+    "death_date": "2013",
+    "death_place": "Mumbai, Maharashtra, India",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "country": "India",
+    "testcap": "99",
+    "testdebutagainst": "Pakistan",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1960",
+    "lasttestdate": "4 November",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1969",
+    "source": "https://cricketarchive.com/Archive/Players/1/1142/1142.html CricketArchive",
+    "Test": {
+        "matches": "26",
+        "runs": "1,263",
+        "bat avg": "28.70",
+        "100s/50s": "0/9",
+        "top score": "99",
+        "deliveries": "3,870",
+        "wickets": "42",
+        "bowl avg": "46.71",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/74",
+        "catches/stumpings": "26/\u2013"
+    },
+    "First-class": {
+        "matches": "160",
+        "runs": "8,066",
+        "bat avg": "30.90",
+        "100s/50s": "6/53",
+        "deliveries": "19,515",
+        "wickets": "284",
+        "bowl avg": "37.07",
+        "fivefor": "10",
+        "tenfor": "0",
+        "best bowling": "5/42",
+        "catches/stumpings": "122/\u2013"
+    },
+    "clubs": {
+        "Gujarat": "1956/57\u20131967/68",
+        "Rajasthan": "1959/60\u20131960/61",
+        "Queensland": "1968/69\u20131972/73"
+    },
+    "birth_date": "1936-5-25"
+}

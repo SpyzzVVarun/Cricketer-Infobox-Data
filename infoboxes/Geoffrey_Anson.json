@@ -1,0 +1,33 @@
+{
+    "name": "Geoffrey Anson",
+    "country": "England",
+    "fullname": "Geoffrey Frank Anson",
+    "birth_place": "Sevenoaks, Kent, England",
+    "death_date": "1977",
+    "death_place": "Hastings, Sussex, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "10 May",
+    "debutyear1": "1947",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Essex",
+    "lastdate1": "23 August",
+    "lastyear1": "1947",
+    "lastfor1": "Kent",
+    "lastagainst1": "Somerset",
+    "source": "https://www.espncricinfo.com/ci/content/player/8748.html CricInfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "460",
+        "bat avg": "25.55",
+        "100s/50s": "1/2",
+        "top score": "106",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Cambridge University": "1947",
+        "Kent": "1947"
+    },
+    "birth_date": "1922-10-8"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "David Laycock",
+    "fullname": "David Allen Laycock",
+    "birth_place": "Woolwich, London",
+    "death_date": "2008",
+    "death_place": "Eastbourne, Sussex",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "6 August",
+    "debutyear1": "1969",
+    "debutfor1": "Kent",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "18 July",
+    "lastyear1": "1973",
+    "lastfor1": "Kent",
+    "lastagainst1": "West Indians",
+    "type2": "LA",
+    "debutdate2": "14 August",
+    "debutyear2": "1969",
+    "debutfor2": "Kent",
+    "debutagainst2": "Yorkshire",
+    "lastdate2": "16 August",
+    "lastyear2": "1973",
+    "lastfor2": "Kent",
+    "lastagainst2": "Lancashire",
+    "source": "http://www.espncricinfo.com/england/content/player/16490.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "266",
+        "bat avg": "19.00",
+        "100s/50s": "0/1",
+        "top score": "58",
+        "catches/stumpings": "2/0"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "34",
+        "bat avg": "11.33",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Kent": "1969\u20131973"
+    },
+    "birth_date": "1947-9-2"
+}

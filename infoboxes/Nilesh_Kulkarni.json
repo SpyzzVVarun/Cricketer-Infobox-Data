@@ -1,0 +1,39 @@
+{
+    "name": "Nilesh Kulkarni",
+    "country": "India",
+    "birth_place": "Dombivli, Maharashtra, India",
+    "height": "193 cm",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "role": "Bowler",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/30149.html cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "738",
+        "wickets": "2",
+        "bowl avg": "166.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/70",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "10",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "deliveries": "402",
+        "wickets": "11",
+        "bowl avg": "32.45",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1973-04-03"
+}

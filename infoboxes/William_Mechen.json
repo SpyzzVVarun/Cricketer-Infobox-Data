@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Mechen",
+    "birth_place": "Southwick, Sussex, England",
+    "death_date": "1880",
+    "death_place": "Southwick, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/17511.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "43",
+        "bat avg": "5.37",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "20",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1876&ndash;1879"
+    },
+    "birth_date": "1852-8-1"
+}

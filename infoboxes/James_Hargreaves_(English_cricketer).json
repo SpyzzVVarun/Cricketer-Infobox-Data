@@ -1,0 +1,23 @@
+{
+    "name": "James Hargreaves",
+    "country": "England",
+    "fullname": "James Henry Hargreaves",
+    "source": "http://www.cricinfo.com/ci/content/player/14050.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "3.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "14",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1884&ndash;1885"
+    }
+}

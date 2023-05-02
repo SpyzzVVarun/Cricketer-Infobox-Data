@@ -1,0 +1,45 @@
+{
+    "name": "Brooke Hepburn",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Brooke Louise Hepburn",
+    "birth_place": "Launceston, Tasmania Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/913/913885/913885.html",
+    "WLA": {
+        "matches": "60",
+        "runs": "277",
+        "bat avg": "8.65",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "2,100",
+        "wickets": "47",
+        "bowl avg": "40.80",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/39",
+        "catches/stumpings": "14/\u2013"
+    },
+    "WT20": {
+        "matches": "122",
+        "runs": "129",
+        "bat avg": "5.60",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "2,004",
+        "wickets": "80",
+        "bowl avg": "28.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/19",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "2010/11\u20132020/21",
+        "Scorchers": "2015",
+        "Hobart Hurricanes( 12 )": "2015/16\u20132020/21"
+    },
+    "birth_date": "1990-4-19"
+}

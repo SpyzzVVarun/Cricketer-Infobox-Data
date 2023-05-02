@@ -1,0 +1,34 @@
+{
+    "name": "Harilal Shah",
+    "country": "East Africa",
+    "fullname": "Harilal Raishi Shah",
+    "nickname": "|birth_date     =",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "odidebutdate": "7 June",
+    "odidebutyear": "1975",
+    "odidebutagainst": "New Zealand",
+    "odicap": "2",
+    "lastodidate": "14 June",
+    "lastodiyear": "1975",
+    "lastodiagainst": "England",
+    "source": "http://www.espncricinfo.com/kenya/content/player/23952.html Cricinfo ",
+    "ODI": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "1",
+        "runs": "92",
+        "bat avg": "46.00",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

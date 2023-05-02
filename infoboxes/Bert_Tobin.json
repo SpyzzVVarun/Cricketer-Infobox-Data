@@ -1,0 +1,32 @@
+{
+    "name": "Bert Tobin",
+    "country": "Australia",
+    "fullname": "Bertrandt Joseph Tobin",
+    "birth_place": "North Adelaide, South Australia",
+    "death_date": "1969",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "heightft": "6",
+    "heightinch": "2",
+    "source": "http://www.espncricinfo.com/australia/content/player/7996.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "722",
+        "bat avg": "16.04",
+        "100s/50s": "0/4",
+        "top score": "61",
+        "deliveries": "3667",
+        "wickets": "51",
+        "bowl avg": "39.03",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/31",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "South Australia": "1930-31 to 1930-34"
+    },
+    "birth_date": "1910-11-11"
+}

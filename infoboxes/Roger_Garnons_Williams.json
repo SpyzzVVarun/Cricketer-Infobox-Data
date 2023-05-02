@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Roger Fenton Garnons Williams",
+    "birth_place": "Chelsea, Middlesex, England",
+    "death_date": "1961",
+    "death_place": "Midhurst, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/28947.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "178",
+        "bat avg": "19.77",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "48.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/11",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1923/24&ndash;1927/28",
+        "Indian Army": "1926/27"
+    }
+}

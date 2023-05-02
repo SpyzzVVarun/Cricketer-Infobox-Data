@@ -1,0 +1,44 @@
+{
+    "name": "Ismail Ebrahim",
+    "country": "South Africa",
+    "fullname": "Ismail Ebrahim",
+    "death_date": "2020",
+    "birth_place": "Durban, Natal Province, South Africa",
+    "death_place": "Durban, KwaZulu-Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Spin bowler",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/44980.html ESPNcricinfo ",
+    "FC": {
+        "matches": "48",
+        "runs": "520",
+        "bat avg": "10.19",
+        "100s/50s": "-/-",
+        "top score": "47",
+        "deliveries": "10,793",
+        "wickets": "179",
+        "bowl avg": "21.33",
+        "fivefor": "8",
+        "tenfor": "2",
+        "best bowling": "7/50",
+        "catches/stumpings": "35/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "-/-",
+        "top score": "3",
+        "deliveries": "96",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "-",
+        "catches/stumpings": "-/\u2013"
+    },
+    "clubs": {
+        "Natal": "1971-1985"
+    },
+    "birth_date": "1946-11-5"
+}

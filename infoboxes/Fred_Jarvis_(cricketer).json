@@ -1,0 +1,30 @@
+{
+    "name": "Fred Jarvis",
+    "country": "Australia",
+    "fullname": "Alfred Jarvis",
+    "birth_place": "Hindmarsh, Adelaide, South Australia",
+    "death_date": "1938",
+    "death_place": "Semaphore, Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Affie Jarvis (brother)",
+    "source": "http://www.espncricinfo.com/australia/content/player/6077.html Cricinfo ",
+    "First-class": {
+        "matches": "56",
+        "runs": "1867",
+        "bat avg": "20.51",
+        "100s/50s": "1/7",
+        "top score": "154",
+        "deliveries": "9185",
+        "wickets": "110",
+        "bowl avg": "37.14",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/114",
+        "catches/stumpings": "40/0"
+    },
+    "clubs": {
+        "South Australia": "1889-90 to 1905-06"
+    },
+    "birth_date": "1868-2-15"
+}

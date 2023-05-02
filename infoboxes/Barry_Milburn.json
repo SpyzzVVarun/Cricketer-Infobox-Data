@@ -1,0 +1,45 @@
+{
+    "name": "Barry Milburn",
+    "fullname": "Barry Douglas Milburn",
+    "birth_place": "Dunedin, New Zealand",
+    "family": "Rowan Milburn (daughter)",
+    "internationalspan": "1969",
+    "country": "New Zealand",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "27 February",
+    "testdebutyear": "1969",
+    "testcap": "117",
+    "lasttestdate": "13 March",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1969",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37718.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/2"
+    },
+    "FC": {
+        "matches": "75",
+        "runs": "737",
+        "bat avg": "11.51",
+        "100s/50s": "1/0",
+        "top score": "103",
+        "catches/stumpings": "176/19"
+    },
+    "LA": {
+        "matches": "8",
+        "runs": "30",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "14/5"
+    },
+    "clubs": {
+        "Otago": "1963/64\u20131982/83"
+    },
+    "birth_date": "1943-11-24"
+}

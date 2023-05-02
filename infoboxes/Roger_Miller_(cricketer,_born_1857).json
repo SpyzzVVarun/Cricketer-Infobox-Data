@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Roger Miller",
+    "birth_place": "Reading, Berkshire, England",
+    "death_date": "1912",
+    "death_place": "Lowestoft, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17576.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "261",
+        "bat avg": "23.72",
+        "100s/50s": "\u2013/1",
+        "top score": "73",
+        "deliveries": "68",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1881",
+        "Marylebone Cricket Club": "1881&ndash;1884"
+    }
+}

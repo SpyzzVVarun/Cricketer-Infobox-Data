@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "George Carnegie-Brown",
+    "birth_place": "Jerusalem, Ottoman Syria",
+    "death_date": "1964",
+    "death_place": "Lincoln, Lincolnshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/11019.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "78",
+        "bat avg": "11.14",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "1947",
+        "Minor Counties": "1937",
+        "Dorset": "1935\u20131946",
+        "Cambridge University": "1926",
+        "Cambridgeshire": "1923\u20131931"
+    },
+    "birth_date": "1906-1-28"
+}

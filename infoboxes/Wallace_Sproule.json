@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Wallace Sproule",
+    "birth_place": "Killyleagh, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Belfast, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24523.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "294",
+        "wickets": "6",
+        "bowl avg": "13.83",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/64",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1923"
+    }
+}

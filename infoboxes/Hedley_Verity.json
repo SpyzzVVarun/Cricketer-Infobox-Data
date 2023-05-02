@@ -1,0 +1,50 @@
+{
+    "name": "Hedley Verity",
+    "country": "England",
+    "fullname": "Hedley Verity",
+    "birth_place": "Headingley, Leeds, West Riding of Yorkshire, England",
+    "death_date": "1943",
+    "death_place": "Caserta, Campania, Italy",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All rounder",
+    "testdebutdate": "29 July",
+    "testdebutyear": "1931",
+    "testdebutagainst": "New Zealand",
+    "testcap": "262",
+    "lasttestdate": "27 June",
+    "lasttestyear": "1939",
+    "lasttestagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/england/content/player/22185.html ESPNCricinfo ",
+    "Test": {
+        "matches": "40",
+        "runs": "669",
+        "bat avg": "20.90",
+        "100s/50s": "0/3",
+        "deliveries": "11,173",
+        "wickets": "144",
+        "bowl avg": "24.37",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "8/43",
+        "catches/stumpings": "30/\u2013"
+    },
+    "First-class": {
+        "matches": "378",
+        "runs": "5,603",
+        "bat avg": "18.07",
+        "100s/50s": "1/13",
+        "top score": "101",
+        "deliveries": "84,219",
+        "wickets": "1,956",
+        "bowl avg": "14.90",
+        "fivefor": "164",
+        "tenfor": "54",
+        "best bowling": "10/10",
+        "catches/stumpings": "269/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1930\u20131939"
+    },
+    "birth_date": "1905-05-18"
+}

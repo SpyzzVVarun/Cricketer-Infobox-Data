@@ -1,0 +1,43 @@
+{
+    "name": "Lawrence Smith",
+    "country": "England",
+    "fullname": "Lawrence Kilner Smith",
+    "birth_place": "Mirfield, Yorkshire, England",
+    "role": "Occasional wicket-keeper",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "https://cricketarchive.com/Archive/Players/17/17778/17778.html CricketArchive ",
+    "FC": {
+        "matches": "4",
+        "runs": "62",
+        "bat avg": "10.33",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "20.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "2/0"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "76",
+        "bat avg": "38.00",
+        "100s/50s": "0/1",
+        "top score": "73",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "N/A",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Worcestershire": "1985&ndash;1987",
+        "Wiltshire": "1993"
+    },
+    "birth_date": "1964-1-6"
+}

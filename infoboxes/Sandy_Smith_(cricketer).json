@@ -1,0 +1,20 @@
+{
+    "name": "Sandy Smith",
+    "fullname": "Alexander Victor Smith",
+    "birth_place": "Shankill, Leinster, Ireland",
+    "nickname": "Sandy",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24521.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1978\u20131979"
+    },
+    "birth_date": "1945-5-11"
+}

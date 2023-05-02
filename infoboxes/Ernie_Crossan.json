@@ -1,0 +1,38 @@
+{
+    "name": "Ernie Crossan",
+    "country": "Australia",
+    "fullname": "Ernest Eric Crossan",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "death_date": "2009",
+    "death_place": "Batemans Bay, New South Wales, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "First class",
+    "debutdate1": "4 December",
+    "debutyear1": "1937",
+    "debutfor1": "New South Wales",
+    "debutagainst1": "Victoria",
+    "lastdate1": "22 December",
+    "lastyear1": "1945",
+    "lastfor1": "New South Wales",
+    "lastagainst1": "Victoria",
+    "source": "https://cricketarchive.com/Archive/Players/5/5803/5803.html Cricket Archive ",
+    "FC": {
+        "matches": "4",
+        "runs": "103",
+        "bat avg": "14.71",
+        "100s/50s": "0/0",
+        "deliveries": "312",
+        "wickets": "1",
+        "bowl avg": "96.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "New South Wales": "1937-1946"
+    },
+    "birth_date": "1915-11-3"
+}

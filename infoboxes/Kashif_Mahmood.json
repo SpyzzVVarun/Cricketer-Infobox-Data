@@ -1,0 +1,28 @@
+{
+    "name": "Kashif Mahmood",
+    "country": "Pakistan",
+    "fullname": "Kashif Mahmood Butt",
+    "birth_place": "Lahore, Pakistan",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/pakistan/content/player/41034.html Cricinfo",
+    "FC": {
+        "matches": "26",
+        "runs": "593",
+        "bat avg": "16.02",
+        "100s/50s": "0/1",
+        "top score": "73",
+        "catches/stumpings": "80/5"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "80",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Lahore Shalimar": "2007-08 to 2013-14"
+    },
+    "birth_date": "1985-12-21"
+}

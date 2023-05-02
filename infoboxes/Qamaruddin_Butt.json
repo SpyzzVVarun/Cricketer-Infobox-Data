@@ -1,0 +1,35 @@
+{
+    "name": "Qamaruddin Butt",
+    "country": "Pakistan",
+    "birth_place": "Amritsar, Punjab, India",
+    "death_date": "8 June 1974",
+    "death_place": "Rawalpindi, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "umpire": "true",
+    "testsumpired": "1",
+    "umptestdebutyr": "1965",
+    "fcumpired": "53",
+    "umpfcdebutyr": "1954",
+    "umpfclastyr": "1973",
+    "source": "https://cricketarchive.com/Archive/Players/43/43129/43129.html Cricket Archive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "225",
+        "bat avg": "20.45",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "deliveries": "362",
+        "wickets": "7",
+        "bowl avg": "30.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/33",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Southern Punjab": "1933-34, 1937-38",
+        "Northern India": "1935-36",
+        "Delhi": "1946-47"
+    }
+}

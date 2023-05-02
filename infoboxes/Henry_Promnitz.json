@@ -1,0 +1,42 @@
+{
+    "name": "Henry Promnitz",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1927",
+    "lasttestdate": "31 December",
+    "lasttestagainst": "England",
+    "lasttestyear": "1927",
+    "source": "https://cricketarchive.com/Archive/Players/0/462/462.html CricketArchive",
+    "Test": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "528",
+        "wickets": "8",
+        "bowl avg": "20.12",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/58",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "45",
+        "runs": "592",
+        "bat avg": "11.83",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "8,518",
+        "wickets": "150",
+        "bowl avg": "23.80",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "7/101",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {}
+}

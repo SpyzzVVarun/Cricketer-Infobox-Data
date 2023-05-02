@@ -1,0 +1,42 @@
+{
+    "name": "Shishir Bhavane",
+    "country": "India",
+    "fullname": "Shishir Anil Bhavane",
+    "birth_place": "Hubli, Karnataka, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/474794.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "86",
+        "bat avg": "43.00",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "3/-"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "139",
+        "bat avg": "34.75",
+        "100s/50s": "0/1",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Karnataka": "2014/15\u2013present",
+        "Royal Challengers Bangalore": "2015\u2013present"
+    },
+    "birth_date": "1991-9-24"
+}

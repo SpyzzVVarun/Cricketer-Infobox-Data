@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Arthur Watson",
+    "birth_place": "Lancing, Sussex, England",
+    "death_date": "1920",
+    "death_place": "Cowes, Isle of Wight, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "Arthur Watson (son)",
+    "source": "https://www.espncricinfo.com/player/arthur-watson-23350 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "?",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1858"
+    }
+}

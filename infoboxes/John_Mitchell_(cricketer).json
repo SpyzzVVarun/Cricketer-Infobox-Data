@@ -1,0 +1,37 @@
+{
+    "name": "John Mitchell",
+    "country": "New Zealand",
+    "fullname": "William John Mitchell",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "4 February",
+    "debutyear1": "1965",
+    "debutfor1": "Northern Districts",
+    "debutagainst1": "Pakistanis",
+    "lastdate1": "30 December",
+    "lastyear1": "1968",
+    "lastfor1": "Otago",
+    "lastagainst1": "Wellington",
+    "source": "http://content-uk.cricinfo.com/newzealand/content/player/37935.html CricInfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "634",
+        "bat avg": "27.56",
+        "100s/50s": "1/4",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/15",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "1964/65\u20131966/67",
+        "Otago": "1968/69"
+    },
+    "birth_date": "1947-12-1"
+}

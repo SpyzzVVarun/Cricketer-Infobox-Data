@@ -1,0 +1,46 @@
+{
+    "name": "George Bell",
+    "fullname": "George Joseph Bell",
+    "birth_place": "Manchester, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper, Batsman",
+    "type1": "FC",
+    "debutdate1": "20 September",
+    "debutyear1": "2022",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Essex",
+    "type2": "LA",
+    "debutdate2": "10 August",
+    "debutyear2": "2022",
+    "debutfor2": "Lancashire",
+    "debutagainst2": "Worcs",
+    "source": "https://www.espncricinfo.com/player/george-bell-1260229 ESPNcricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "214",
+        "bat avg": "30.57",
+        "100s/50s": "0/2",
+        "top score": "60",
+        "catches/stumpings": "10/1"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "35",
+        "bat avg": "35.00",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "0/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "31",
+        "bat avg": "31.00",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Lancashire( 17 )": "2022\u20132023"
+    },
+    "birth_date": "2002-9-25"
+}

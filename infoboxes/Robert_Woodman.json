@@ -1,0 +1,55 @@
+{
+    "name": "Robert Woodman",
+    "country": "England",
+    "fullname": "Robert James Woodman",
+    "birth_place": "Taunton, Somerset, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/64/64278/64278.html CricketArchive ",
+    "FC": {
+        "matches": "10",
+        "runs": "213",
+        "bat avg": "15.21",
+        "100s/50s": "0/0",
+        "deliveries": "495",
+        "wickets": "7",
+        "bowl avg": "48.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/65",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "150",
+        "wickets": "1",
+        "bowl avg": "163.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/38",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "2",
+        "bowl avg": "31.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Somerset": "2005",
+        "Gloucestershire": "2008\u20132009"
+    },
+    "birth_date": "1986-10-12"
+}

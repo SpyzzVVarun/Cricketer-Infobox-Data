@@ -1,0 +1,26 @@
+{
+    "name": "John Stenton",
+    "fullname": "John Derek Stenton",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/3/3833/3833.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "44.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/18",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1953"
+    },
+    "birth_date": "1924-10-26"
+}

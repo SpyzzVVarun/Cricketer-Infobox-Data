@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Dayrell Wood",
+    "birth_place": "Hampstead, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Auchy-lez-La-Bass\u00e9e, Pas-de-Calais, France",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/23144.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "18.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/16",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "1910&ndash;1911",
+        "Oxford University": "1912"
+    }
+}

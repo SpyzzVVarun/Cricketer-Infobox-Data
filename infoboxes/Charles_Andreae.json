@@ -1,0 +1,29 @@
+{
+    "name": "Charles Andreae",
+    "country": "England",
+    "fullname": "Charles Andreae",
+    "birth_place": "Marylebone, London",
+    "death_date": "1970",
+    "death_place": "Broomhall, Sunningdale, Berkshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27482/27482.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "44",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "216",
+        "wickets": "2",
+        "bowl avg": "59",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/60",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "Cambridge University": "1929"
+    },
+    "birth_date": "1906-12-16"
+}

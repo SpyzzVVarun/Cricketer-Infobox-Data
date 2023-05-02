@@ -1,0 +1,29 @@
+{
+    "name": "James Gornall",
+    "country": "England",
+    "fullname": "James Parrington Gornall",
+    "birth_place": "Farnborough, Hampshire, England",
+    "death_date": "1983",
+    "death_place": "Lower Froyle, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/13406.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "149",
+        "bat avg": "18.62",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1923"
+    },
+    "birth_date": "1899-9-22"
+}

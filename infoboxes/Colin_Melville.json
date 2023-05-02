@@ -1,0 +1,20 @@
+{
+    "country": "South Africa",
+    "fullname": "Colin McLean Melville",
+    "birth_place": "Carnarvon, Cape Colony",
+    "death_date": "df=yes",
+    "death_place": "Johannesburg, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/17532.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1928"
+    }
+}

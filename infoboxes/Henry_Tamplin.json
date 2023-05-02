@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Henry Pagden Tamplin",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "1867",
+    "death_place": "Pyecombe, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/22045.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1827&ndash;1828"
+    },
+    "birth_date": "1801-2-8"
+}

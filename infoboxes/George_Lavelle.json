@@ -1,0 +1,45 @@
+{
+    "name": "George Lavelle",
+    "fullname": "George Isaac Davies Lavelle",
+    "birth_place": "Lancashire, England",
+    "batting": "Right-handed",
+    "role": "Batsman, wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "6 September",
+    "debutyear1": "2020",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Derbyshire",
+    "type2": "List A",
+    "debutdate2": "23 July",
+    "debutyear2": "2021",
+    "debutfor2": "Lancashire",
+    "debutagainst2": "Sussex",
+    "source": "http://www.espncricinfo.com/ci/content/player/1094350.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "105",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "17/1"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "290",
+        "bat avg": "32.22",
+        "100s/50s": "0/3",
+        "catches/stumpings": "18/1"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Lancashire( 24 )": "2018\u2013present"
+    },
+    "birth_date": "2000-3-24"
+}

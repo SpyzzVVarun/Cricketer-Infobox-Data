@@ -1,0 +1,59 @@
+{
+    "name": "Scott McKechnie",
+    "country": "Hong Kong",
+    "fullname": "Scott Stephen McKechnie",
+    "birth_place": "Salford, England",
+    "batting": "Right-handed",
+    "role": "Batsman, wicket-keeper",
+    "internationalspan": "2017\u2013present",
+    "odidebutdate": "6 December",
+    "odidebutyear": "2017",
+    "odidebutagainst": "PNG",
+    "odicap": "40",
+    "lastodidate": "18 September",
+    "lastodiyear": "2018",
+    "lastodiagainst": "India",
+    "odishirt": "40",
+    "T20Idebutdate": "5 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Oman",
+    "T20Icap": "28",
+    "lastT20Idate": "2 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/459752.html Cricinfo ",
+    "ODI": {
+        "matches": "8",
+        "runs": "108",
+        "bat avg": "15.42",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "8/1"
+    },
+    "T20I": {
+        "matches": "29",
+        "runs": "264",
+        "bat avg": "17.60",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "13/9"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "248",
+        "bat avg": "19.07",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "19/3"
+    },
+    "T20": {
+        "matches": "29",
+        "runs": "264",
+        "bat avg": "17.60",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "13/9"
+    },
+    "clubs": {},
+    "birth_date": "1991-8-6"
+}

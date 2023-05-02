@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Walter Blackett Trevelyan",
+    "birth_place": "Morpeth, Northumberland, England",
+    "death_date": "1894",
+    "death_place": "Golders Green, Middlesex, England",
+    "family": "Ralph Spencer (great-nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22096.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "155",
+        "bat avg": "9.11",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1842&ndash;1843",
+        "Marylebone Cricket Club": "1846&ndash;1851"
+    }
+}

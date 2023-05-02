@@ -1,0 +1,43 @@
+{
+    "name": "Shahid Qambrani",
+    "country": "Pakistan",
+    "fullname": "Shahid Ali Qambrani",
+    "birth_place": "Kotri, Sindh, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/19/19719/19719.html Cricket Archive ",
+    "FC": {
+        "matches": "96",
+        "runs": "4620",
+        "bat avg": "28.69",
+        "100s/50s": "8/26",
+        "deliveries": "1209",
+        "wickets": "17",
+        "bowl avg": "40.82",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/137",
+        "catches/stumpings": "55/&ndash;"
+    },
+    "List A": {
+        "matches": "44",
+        "runs": "1433",
+        "bat avg": "39.80",
+        "100s/50s": "3/9",
+        "deliveries": "311",
+        "wickets": "3",
+        "bowl avg": "92.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/28",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Hyderabad": "1998-99 to 2011-12",
+        "Pakistan National Shipping Corporation": "1999-2000",
+        "Dadu": "2002-03",
+        "Pakistan Customs": "2006-07",
+        "Sindh": "2006-07"
+    },
+    "birth_date": "1978-2-2"
+}

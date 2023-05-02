@@ -1,0 +1,30 @@
+{
+    "name": "Geoff Edrich",
+    "country": "England",
+    "fullname": "Geoffrey Arthur Edrich",
+    "birth_place": "Lingwood, Norfolk",
+    "death_date": "2004",
+    "death_place": "Cheltenham, Gloucestershire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12620.html Cricinfo ",
+    "First-class": {
+        "matches": "339",
+        "runs": "15,600",
+        "bat avg": "34.82",
+        "100s/50s": "26/80",
+        "deliveries": "786",
+        "wickets": "5",
+        "bowl avg": "79.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "332/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1937\u20131939",
+        "Lancashire": "1946\u20131958",
+        "Cumberland": "1960\u20131962"
+    },
+    "birth_date": "1918-7-13"
+}

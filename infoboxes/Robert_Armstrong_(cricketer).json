@@ -1,0 +1,27 @@
+{
+    "name": "Robert Armstrong",
+    "country": "England",
+    "fullname": "Robert George Chadwick Armstrong",
+    "birth_place": "Gravesend, Kent, England",
+    "death_date": "1863",
+    "death_place": "Peckham, Surrey, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/8889.html CricInfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "76",
+        "bat avg": "6.90",
+        "100s/50s": "0/0",
+        "deliveries": "44",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Kent": "1859\u20131861"
+    },
+    "birth_date": "1836-8-12"
+}

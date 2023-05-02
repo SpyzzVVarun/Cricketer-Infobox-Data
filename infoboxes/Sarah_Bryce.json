@@ -1,0 +1,48 @@
+{
+    "name": "Sarah Bryce",
+    "female": "true",
+    "country": "Scotland",
+    "fullname": "Sarah Jennifer Bryce",
+    "family": "Kathryn Bryce (sister)",
+    "birth_place": "Edinburgh, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper-batter",
+    "T20Idebutdate": "7 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Uganda",
+    "T20Icap": "3",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Papua New Guinea",
+    "source": "https://cricketarchive.com/Archive/Players/1135/1135566/1135566.html CricketArchive ",
+    "WT20I": {
+        "matches": "28",
+        "runs": "628",
+        "bat avg": "31.40",
+        "100s/50s": "0/2",
+        "top score": "65",
+        "catches/stumpings": "18/22"
+    },
+    "WLA": {
+        "matches": "35",
+        "runs": "1,171",
+        "bat avg": "37.77",
+        "100s/50s": "1/9",
+        "catches/stumpings": "25/11"
+    },
+    "WT20": {
+        "matches": "78",
+        "runs": "1,597",
+        "bat avg": "32.59",
+        "100s/50s": "1/7",
+        "catches/stumpings": "41/40"
+    },
+    "clubs": {
+        "Nottinghamshire": "2019",
+        "Kent": "2020\u2013present",
+        "The Blaze": "2020\u2013present",
+        "Oval Invincibles": "2021",
+        "Welsh Fire": "2022\u2013present"
+    },
+    "birth_date": "2000-1-8"
+}

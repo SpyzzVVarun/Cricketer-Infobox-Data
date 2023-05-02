@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Richard Dupuis",
+    "birth_place": "Eton, Buckinghamshire, England",
+    "death_date": "1912",
+    "death_place": "Sessay, Yorkshire, England",
+    "family": "Harry Dupuis (uncle)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/george-dupuis-12419 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "161",
+        "bat avg": "14.63",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "32.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/32",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1854&ndash;1857"
+    }
+}

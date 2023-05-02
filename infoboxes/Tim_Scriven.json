@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Timothy John Adam Scriven",
+    "birth_place": "High Wycombe, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/20092.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "901",
+        "wickets": "10",
+        "bowl avg": "44.60",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/43",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "57",
+        "bat avg": "8.14",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "33",
+        "deliveries": "540",
+        "wickets": "9",
+        "bowl avg": "43.55",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/61",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1994",
+        "Buckinghamshire": "1988&ndash;1999",
+        "Somerset": "1988&ndash;1989"
+    },
+    "birth_date": "1965-12-15"
+}

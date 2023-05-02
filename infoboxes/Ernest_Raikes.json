@@ -1,0 +1,29 @@
+{
+    "name": "Ernest Raikes",
+    "country": "England",
+    "fullname": "Ernest Barkley Raikes",
+    "birth_place": "Carleton Forehoe, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Ham Common, Surrey, England",
+    "family": "Thomas Raikes (son) George Raikes (brother)",
+    "bowling": "Slow",
+    "source": "http://www.espncricinfo.com/england/content/player/33280.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "51",
+        "bat avg": "6.37",
+        "100s/50s": "0/0",
+        "deliveries": "1,464",
+        "wickets": "49",
+        "bowl avg": "10.28",
+        "fivefor": "3",
+        "tenfor": "2",
+        "best bowling": "8/22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1892/93\u20131900/01",
+        "Bombay": "1892/93",
+        "Norfolk": "1897\u20131909"
+    }
+}

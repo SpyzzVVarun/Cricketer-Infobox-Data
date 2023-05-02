@@ -1,0 +1,20 @@
+{
+    "name": "Kalana Perera",
+    "fullname": "Kopiyawattege Kalana Vichithra Perera",
+    "birth_place": "Panadura, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1152432.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "2000-7-28",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

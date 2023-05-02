@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Oswell Robert Borradaile",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=yes",
+    "death_place": "Bexhill-on-Sea, Sussex, England",
+    "family": "Thomas Reay (cousin)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9155.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Essex": "1894"
+    }
+}

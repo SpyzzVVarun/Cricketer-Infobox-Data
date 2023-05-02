@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "birth_place": "Croydon, Surrey, England",
+    "death_date": "1943",
+    "death_place": "Lymington, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "source": "https://cricketarchive.com/Archive/Players/32/32860/32860.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "778",
+        "bat avg": "29.32",
+        "100s/50s": "1/4",
+        "top score": "132",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1893\u20131896",
+        "Surrey": "1896"
+    },
+    "birth_date": "1872-11-25"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bob McCullough",
+    "country": "New Zealand",
+    "fullname": "Robert Bruce McCullough",
+    "birth_place": "Waipawa, New Zealand",
+    "death_date": "2020",
+    "death_place": "Lower Hutt, New Zealand",
+    "batting": "Right handed",
+    "bowling": "Left-arm Left-arm medium",
+    "type1": "First-class",
+    "source": "http://www.espncricinfo.com/ci/content/player/37987.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "184",
+        "wickets": "1",
+        "bowl avg": "93.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/63",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Wellington": "1971/72"
+    },
+    "birth_date": "1943-6-13"
+}

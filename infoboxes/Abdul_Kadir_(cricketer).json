@@ -1,0 +1,29 @@
+{
+    "name": "Abdul Kadir Jamali",
+    "batting": "Left-handed",
+    "country": "Pakistan",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "24 October",
+    "testdebutyear": "1964",
+    "lasttestdate": "29 January",
+    "lasttestagainst": "New Zealand",
+    "lasttestyear": "1965",
+    "testcap": "41",
+    "source": "http://www.espncricinfo.com/ci/content/player/38971.html ESPNcricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "272",
+        "bat avg": "34.00",
+        "100s/50s": "0/2",
+        "top score": "95",
+        "catches/stumpings": "0/1"
+    },
+    "First-class": {
+        "matches": "36",
+        "runs": "1,523",
+        "bat avg": "28.73",
+        "100s/50s": "1/9",
+        "catches/stumpings": "46/13"
+    },
+    "clubs": {}
+}

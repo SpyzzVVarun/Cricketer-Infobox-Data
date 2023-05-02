@@ -1,0 +1,30 @@
+{
+    "name": "John Arthur",
+    "country": "Australia",
+    "fullname": "John Lake Allen Arthur",
+    "birth_place": "Longford, Tasmania",
+    "death_date": "1877",
+    "death_place": "Longford, Tasmania",
+    "role": "All rounder",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm roundarm",
+    "source": "http://content-aus.cricinfo.com/australia/content/player/3991.html  cricinfo.com ",
+    "FC": {
+        "matches": "4",
+        "runs": "135",
+        "bat avg": "19.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "deliveries": "148",
+        "wickets": "4",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/100",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Tasmania": "1868\u201369 \u2013 1872\u201373"
+    },
+    "birth_date": "1847-4-7"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "J. B. Thompson",
+    "country": "Australia",
+    "fullname": "James Bogne Thompson",
+    "birth_place": "Yorkshire, England",
+    "death_date": "1877",
+    "death_place": "Melbourne, Victoria, Australia",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "9 January",
+    "debutyear1": "1862",
+    "debutfor1": "Victoria",
+    "debutagainst1": "New South Wales",
+    "source": "https://cricketarchive.com/Archive/Players/16/16775/16775.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1861/62"
+    }
+}

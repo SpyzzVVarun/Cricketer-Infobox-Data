@@ -1,0 +1,42 @@
+{
+    "name": "Wayne Burtt",
+    "country": "New Zealand",
+    "fullname": "John Wayne Burtt",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Noel Burtt (father), Tom Burtt (uncle), John Ward (cousin)",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36561.html Cricinfo ",
+    "First-class": {
+        "matches": "54",
+        "runs": "2,378",
+        "bat avg": "28.30",
+        "100s/50s": "1/11",
+        "deliveries": "2,616",
+        "wickets": "27",
+        "bowl avg": "51.77",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/49",
+        "catches/stumpings": "23/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "128",
+        "bat avg": "32.00",
+        "100s/50s": "0/1",
+        "top score": "77",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1965\u201366 to 1972\u201373",
+        "Central Districts": "1973\u201374 to 1974\u201375"
+    },
+    "birth_date": "1944-6-10"
+}

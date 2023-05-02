@@ -1,0 +1,59 @@
+{
+    "name": "Sinalo Jafta",
+    "female": "true",
+    "country": "South Africa",
+    "fullname": "Sinalo Jafta",
+    "birth_place": "East London, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2016\u2013present",
+    "onetest": "true",
+    "testdebutdate": "27 June",
+    "testdebutyear": "2022",
+    "testdebutagainst": "England",
+    "testcap": "61",
+    "odidebutdate": "22 October",
+    "odidebutyear": "2016",
+    "odidebutagainst": "New Zealand",
+    "odicap": "77",
+    "lastodidate": "3 February",
+    "lastodiyear": "2022",
+    "lastodiagainst": "West Indies",
+    "T20Idebutdate": "15 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "53",
+    "lastT20Idate": "26 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/499254.html Cricinfo ",
+    "WTest": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "16",
+        "runs": "82",
+        "bat avg": "13.66",
+        "100s/50s": "0/0",
+        "catches/stumpings": "9/0"
+    },
+    "WT20I": {
+        "matches": "18",
+        "runs": "58",
+        "bat avg": "19.33",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "11/2"
+    },
+    "clubs": {
+        "Border": "2014/15",
+        "North West": "2012/13\u20132018/19",
+        "Western Province": "2019/20\u2013present"
+    },
+    "birth_date": "1994-12-22"
+}

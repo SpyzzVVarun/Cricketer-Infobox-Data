@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "John Richard Kilbee",
+    "birth_place": "Victoria, British Hong Kong",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/16015.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "70",
+        "bat avg": "8.75",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "508",
+        "wickets": "8",
+        "bowl avg": "33.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/96",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1968&ndash;1969"
+    },
+    "birth_date": "1947-7-24"
+}

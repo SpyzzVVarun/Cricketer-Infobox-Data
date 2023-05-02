@@ -1,0 +1,26 @@
+{
+    "name": "June James",
+    "country": "Australia",
+    "female": "true",
+    "birth_place": "South Perth, Western Australia",
+    "death_date": "1997",
+    "death_place": "South Perth, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "onetest": "true",
+    "testdebutdate": "16 June",
+    "testdebutyear": "1951",
+    "testcap": "38",
+    "testdebutagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/10/10825/10825.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "3/-"
+    },
+    "clubs": {},
+    "birth_date": "1925-04-22"
+}

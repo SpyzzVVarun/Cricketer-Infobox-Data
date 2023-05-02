@@ -1,0 +1,38 @@
+{
+    "name": "Bill Fairservice",
+    "country": "England",
+    "fullname": "William John Fairservice",
+    "birth_place": "Nunhead, Surrey",
+    "death_date": "1971",
+    "death_place": "Canterbury, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "family": "Colin Fairservice (son)",
+    "type1": "FC",
+    "debutdate1": "29 May",
+    "debutyear1": "1902",
+    "debutfor1": "Kent",
+    "debutagainst1": "MCC",
+    "lastdate1": "24 August",
+    "lastyear1": "1921",
+    "lastfor1": "Kent",
+    "lastagainst1": "Middlesex",
+    "source": "http://www.espncricinfo.com/ci/content/player/12989.html Cricinfo ",
+    "First-class": {
+        "matches": "302",
+        "runs": "4,939",
+        "bat avg": "15.29",
+        "100s/50s": "0/9",
+        "deliveries": "44,889",
+        "wickets": "859",
+        "bowl avg": "22.60",
+        "fivefor": "39",
+        "tenfor": "7",
+        "best bowling": "7/44",
+        "catches/stumpings": "164/\u2013"
+    },
+    "clubs": {
+        "Kent": "1902\u20131921"
+    },
+    "birth_date": "1881-5-16"
+}

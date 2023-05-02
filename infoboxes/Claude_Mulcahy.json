@@ -1,0 +1,26 @@
+{
+    "country": "South Africa",
+    "fullname": "Claude Ludovic Hickman Mulcahy",
+    "birth_place": "Little Headington, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Montauban-de-Picardie, Somme, France",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/46381.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Natal": "1910/11"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Stewart Pether",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "death_date": "df=y",
+    "death_place": "Eynsham, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/18915.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "103",
+        "bat avg": "8.58",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,532",
+        "wickets": "31",
+        "bowl avg": "20.06",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/7",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1936&ndash;1948",
+        "Oxford University": "1939"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Yuka Yoshida",
+    "birth_place": "Nara, Japan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Japan",
+    "source": "http://espncricinfo.com/ci/content/player/540479.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1989-03-20",
+    "medaltemplates": [
+        "Country: {{JAP}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2010 Guangzhou Team"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Everton Matambanadzo",
+    "country": "Zimbabwe",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "birth_date=1976|family=Darlington Matambanadzo (brother)",
+    "Tests": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "4.25",
+        "100s/50s": "-/-",
+        "top score": "7",
+        "deliveries": "384",
+        "wickets": "4",
+        "bowl avg": "62.50",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "2/62",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "7",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "-/-",
+        "deliveries": "297",
+        "wickets": "11",
+        "bowl avg": "19.72",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "4/32",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {}
+}

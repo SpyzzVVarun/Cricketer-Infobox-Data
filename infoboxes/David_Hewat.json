@@ -1,0 +1,29 @@
+{
+    "name": "David Hewat",
+    "country": "New Zealand",
+    "fullname": "David Falconer Hewat",
+    "birth_place": "Oamaru, New Zealand",
+    "death_date": "1959",
+    "death_place": "Wellington, New Zealand",
+    "bowling": "Fast",
+    "role": "Bowler",
+    "source": "http://cricketarchive.com/Archive/Players/22/22109/22109.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "18",
+        "bat avg": "3.60",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "556",
+        "wickets": "27",
+        "bowl avg": "8.22",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/30",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Wellington": "1887-88 to 1889-90"
+    },
+    "birth_date": "1866-1-23"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Humayun Farhat",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Imran Farhat (brother)",
+    "internationalspan": "2001",
+    "onetest": "true",
+    "testdebutdate": "27 March",
+    "testdebutyear": "2001",
+    "testdebutagainst": "New Zealand",
+    "testcap": "168",
+    "odidebutdate": "8 March",
+    "odidebutyear": "2001",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "136",
+    "lastodidate": "20 March",
+    "lastodiyear": "2001",
+    "lastodiagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/ci/content/player/40383.html ESPNcricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "54",
+        "bat avg": "27.00",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "60",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "4/3"
+    },
+    "clubs": {},
+    "birth_date": "1981-1-24"
+}

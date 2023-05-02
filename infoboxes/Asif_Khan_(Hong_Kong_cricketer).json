@@ -1,0 +1,23 @@
+{
+    "country": "Hong Kong",
+    "fullname": "Asif Khan",
+    "birth_place": "Hong Kong",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/401541.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "102",
+        "wickets": "3",
+        "bowl avg": "30.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/46",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1989-11-28"
+}

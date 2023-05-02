@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "William Evetts",
+    "birth_place": "Tackley, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Tackley, Oxfordshire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "family": "Julian Evetts (grandson)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12708.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "531",
+        "bat avg": "15.61",
+        "100s/50s": "1/2",
+        "top score": "102",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1868&ndash;1869",
+        "Marylebone Cricket Club": "1870&ndash;1882"
+    }
+}

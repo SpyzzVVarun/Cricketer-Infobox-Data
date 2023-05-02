@@ -1,0 +1,21 @@
+{
+    "country": "South Africa",
+    "fullname": "John Devitt Elrick Gartly",
+    "birth_place": "Johannesburg, Transvaal,, South Africa",
+    "death_date": "1941",
+    "death_place": "Sidi Rezegh, Italian Libya",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/45218.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "38",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Transvaal": "1931/32&ndash;1932/33"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry Calver Francis",
+    "birth_place": "Southwold, Suffolk, England",
+    "death_date": "1866",
+    "death_place": "Godmanchester, Huntingdonshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/13292.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "218",
+        "bat avg": "24.22",
+        "100s/50s": "1/\u2013",
+        "top score": "114",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1849&ndash;1862"
+    }
+}

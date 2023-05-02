@@ -1,0 +1,46 @@
+{
+    "name": "Terri Bennett",
+    "female": "true",
+    "fullname": "Terri Bennett",
+    "role": "All-rounder",
+    "internationalspan": "1990",
+    "country": "Ireland",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1990",
+    "odidebutagainst": "England",
+    "odicap": "21",
+    "lastodidate": "16 August",
+    "lastodiyear": "1990",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17170/17170.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "25",
+        "runs": "167",
+        "bat avg": "18.55",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "499",
+        "wickets": "19",
+        "bowl avg": "15.21",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/14",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "East Midlands": "1985\u20131990"
+    }
+}

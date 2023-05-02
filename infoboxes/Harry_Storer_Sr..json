@@ -1,0 +1,37 @@
+{
+    "name": "Harry Storer",
+    "country": "England",
+    "birth_place": "Ripley, Derbyshire, England",
+    "death_date": "1908",
+    "death_place": "Holloway, Derbyshire, England",
+    "batting": "Right-handed",
+    "family": "Bill Storer (brother)",
+    "type1": "FC",
+    "debutdate1": "19 June",
+    "debutyear1": "1895",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "11 July",
+    "lastyear1": "1895",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Archive/Players/33/33063/33063.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "92",
+        "bat avg": "10.22",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "25",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1895"
+    },
+    "birth_date": "1870-7-24"
+}

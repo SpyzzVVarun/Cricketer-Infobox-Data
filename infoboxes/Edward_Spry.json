@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edward James Spry",
+    "birth_place": "Bristol, England",
+    "death_date": "1958",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/cid/content/player/20970.html Cricinfo ",
+    "First-class": {
+        "matches": "89",
+        "runs": "1,447",
+        "bat avg": "11.13",
+        "100s/50s": "&ndash;/2",
+        "top score": "76",
+        "deliveries": "7,137",
+        "wickets": "149",
+        "bowl avg": "28.89",
+        "fivefor": "13",
+        "tenfor": "3",
+        "best bowling": "8/52",
+        "catches/stumpings": "45/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire": "1899&ndash;1921"
+    }
+}

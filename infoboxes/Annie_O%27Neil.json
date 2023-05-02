@@ -1,0 +1,31 @@
+{
+    "name": "Annie O'Neil",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Annie V O'Neil",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1232/1232618/1232618.html CricketArchive",
+    "WLA": {
+        "matches": "15",
+        "runs": "175",
+        "bat avg": "13.46",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20": {
+        "matches": "4",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2017/18\u2013present",
+        "Adelaide Strikers": "2019/20\u2013present"
+    },
+    "birth_date": "1999-2-18"
+}

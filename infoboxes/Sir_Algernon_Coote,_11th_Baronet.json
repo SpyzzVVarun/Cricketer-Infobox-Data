@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "Algernon Coote",
+    "birth_place": "Ballyfin, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Ballyfin, Ireland",
+    "family": "Charles Coote (nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11679.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "156",
+        "bat avg": "7.42",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1837&ndash;1840"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas Lewis Hemingway",
+    "birth_place": "Stevenage, Hertfordshire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/300190.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "70",
+        "bat avg": "17.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,240",
+        "wickets": "14",
+        "bowl avg": "48.07",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/58",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "2007&ndash;2008",
+        "Cambridge UCCE": "2008"
+    },
+    "birth_date": "1986-5-19"
+}

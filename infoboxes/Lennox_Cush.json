@@ -1,0 +1,55 @@
+{
+    "name": "Lennox Cush",
+    "country": "United States",
+    "fullname": "Lennox Joseph Cush",
+    "birth_place": "Georgetown, Guyana",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/12/12322/12322.html CricketArchive ",
+    "FC": {
+        "matches": "38",
+        "runs": "1,249",
+        "bat avg": "20.81",
+        "100s/50s": "2/2",
+        "top score": "154",
+        "deliveries": "2,640",
+        "wickets": "26",
+        "bowl avg": "42.30",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/57",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "488",
+        "bat avg": "21.21",
+        "100s/50s": "&ndash;/2",
+        "top score": "70",
+        "deliveries": "1,209",
+        "wickets": "25",
+        "bowl avg": "31.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/33",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "T20": {
+        "matches": "18",
+        "runs": "158",
+        "bat avg": "15.80",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "49",
+        "deliveries": "402",
+        "wickets": "23",
+        "bowl avg": "19.78",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/25",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Guyana": "1995/96&ndash;present"
+    },
+    "birth_date": "1974-12-12"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Jiska Howard",
+    "female": "true",
+    "birth_place": "Delft, Netherlands",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "country": "Netherlands",
+    "internationalspan": "1990\u20131999",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1990",
+    "odidebutagainst": "Denmark",
+    "odicap": "26",
+    "lastodidate": "21 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Players/12/12280/12280.html CricketArchive ",
+    "WODI": {
+        "matches": "21",
+        "runs": "207",
+        "bat avg": "9.85",
+        "100s/50s": "0/1",
+        "top score": "66",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1971-9-6"
+}

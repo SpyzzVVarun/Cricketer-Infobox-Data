@@ -1,0 +1,27 @@
+{
+    "name": "Kajal Shrestha",
+    "country": "Nepal",
+    "fullname": "Kajal Shrestha",
+    "female": "true",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "T20Idebutdate": "12 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "China",
+    "T20Icap": "10",
+    "lastT20Idate": "21 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Hong Kong",
+    "source": "http://www.espncricinfo.com/ci/content/player/779623.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1999-5-20",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Annie Wikman",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Annie Sylvia Wikman",
+    "birth_place": "Brisbane, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1961/1961839/1961839.html CricketArchive",
+    "WLA": {
+        "matches": "9",
+        "runs": "177",
+        "bat avg": "25.28",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "157",
+        "wickets": "3",
+        "bowl avg": "48.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Australian Capital Territory": "2021/22\u2013present"
+    },
+    "birth_date": "2001-4-27"
+}

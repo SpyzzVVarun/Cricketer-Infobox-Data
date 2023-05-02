@@ -1,0 +1,53 @@
+{
+    "name": "Richie Benaud",
+    "honorific_suffix": "OBE",
+    "country": "Australia",
+    "full_name": "Richard Benaud",
+    "birth_place": "Penrith, New South Wales, Australia",
+    "death_date": "df=yes",
+    "death_place": "Sydney, New South Wales, Australia",
+    "family": "John Benaud (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "All-rounder",
+    "testdebutdate": "25 January",
+    "testdebutyear": "1952",
+    "testdebutagainst": "West Indies",
+    "testcap": "190",
+    "lasttestdate": "12 February",
+    "lasttestyear": "1964",
+    "lasttestagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/australia/content/player/4123.html ESPNcricinfo ",
+    "Test": {
+        "matches": "63",
+        "runs": "2,201",
+        "bat avg": "24.45",
+        "100s/50s": "3/9",
+        "top score": "122",
+        "deliveries": "19,108",
+        "wickets": "248",
+        "bowl avg": "27.03",
+        "fivefor": "16",
+        "tenfor": "1",
+        "best bowling": "7/72",
+        "catches/stumpings": "65/\u2013"
+    },
+    "First-class": {
+        "matches": "259",
+        "runs": "11,719",
+        "bat avg": "36.50",
+        "100s/50s": "23/61",
+        "top score": "187",
+        "deliveries": "60,481",
+        "wickets": "945",
+        "bowl avg": "24.73",
+        "fivefor": "56",
+        "tenfor": "9",
+        "best bowling": "7/18",
+        "catches/stumpings": "254/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1948\u20131964"
+    },
+    "birth_date": "1930-10-6"
+}

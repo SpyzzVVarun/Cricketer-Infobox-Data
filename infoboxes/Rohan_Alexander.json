@@ -1,0 +1,42 @@
+{
+    "name": "Rohan Alexander",
+    "country": "United States",
+    "fullname": "Rohan Phillmore Alexander",
+    "birth_place": "Jamaica",
+    "batting": "Left-handed",
+    "bowling": "Off Off spin",
+    "role": "Batsman",
+    "odidebutdate": "10 September",
+    "odidebutyear": "2004",
+    "odidebutagainst": "New Zealand",
+    "odicap": "2",
+    "lastodidate": "13 September",
+    "lastodiyear": "2004",
+    "lastodiagainst": "Australia",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/21/21149/21149.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "229",
+        "bat avg": "19.08",
+        "100s/50s": "0/2",
+        "top score": "55",
+        "catches/stumpings": "3/0"
+    },
+    "ICCT": {
+        "matches": "12",
+        "runs": "278",
+        "bat avg": "27.80",
+        "100s/50s": "1/0",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {},
+    "birth_date": "1973-2-20"
+}

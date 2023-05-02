@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Charles Musgrave Harvey",
+    "birth_place": "Hornsey, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Ealing, Middlesex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15206.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "111",
+        "bat avg": "15.85",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1858",
+        "Marylebone Cricket Club": "1859",
+        "Middlesex": "1859"
+    }
+}

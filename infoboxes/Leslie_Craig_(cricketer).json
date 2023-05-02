@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Leslie Craig",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1971",
+    "death_place": "Willington Quay, Northumberland, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/leslie-craig-25177 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Scotland": "1928\u20131929"
+    }
+}

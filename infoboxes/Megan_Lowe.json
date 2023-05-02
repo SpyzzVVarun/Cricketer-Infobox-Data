@@ -1,0 +1,52 @@
+{
+    "name": "Megan Lowe",
+    "female": "true",
+    "fullname": "Dorothy Megan Lowe",
+    "birth_place": "Syston, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Canterbury, Kent, England",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "1949",
+    "country": "England",
+    "testdebutdate": "15 January",
+    "testdebutyear": "1949",
+    "testdebutagainst": "Australia",
+    "testcap": "23",
+    "lasttestdate": "26 March",
+    "lasttestyear": "1949",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17045/17045.html CricketArchive",
+    "WTest": {
+        "matches": "4",
+        "runs": "77",
+        "bat avg": "15.40",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "384",
+        "wickets": "4",
+        "bowl avg": "31.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/34",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "21",
+        "runs": "170",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "3,038",
+        "wickets": "49",
+        "bowl avg": "19.63",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/41",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1949"
+    },
+    "birth_date": "1915-11-17"
+}

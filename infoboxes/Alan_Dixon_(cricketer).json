@@ -1,0 +1,38 @@
+{
+    "name": "Alan Dixon",
+    "fullname": "Alan Leonard Dixon",
+    "birth_place": "Dartford, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm off Right-arm medium Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/12185.html CricInfo ",
+    "First-class": {
+        "matches": "381",
+        "runs": "9,589",
+        "bat avg": "18.83",
+        "100s/50s": "3/37",
+        "deliveries": "55,620",
+        "wickets": "935",
+        "bowl avg": "25.73",
+        "fivefor": "46",
+        "tenfor": "10",
+        "best bowling": "8/61",
+        "catches/stumpings": "155/\u2013"
+    },
+    "List A": {
+        "matches": "23",
+        "runs": "122",
+        "bat avg": "11.09",
+        "100s/50s": "0/0",
+        "deliveries": "1,070",
+        "wickets": "34",
+        "bowl avg": "18.82",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/15",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Kent": "1950\u20131970"
+    },
+    "birth_date": "1933-11-27"
+}

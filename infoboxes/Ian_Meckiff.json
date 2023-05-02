@@ -1,0 +1,49 @@
+{
+    "name": "Ian Meckiff",
+    "country": "Australia",
+    "fullname": "Ian Meckiff",
+    "nickname": "The Count, Sputnik, Mecki",
+    "birth_place": "Mentone, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "role": "Bowler",
+    "testdebutdate": "23 December",
+    "testdebutyear": "1957",
+    "testdebutagainst": "South Africa",
+    "testcap": "208",
+    "lasttestdate": "6 December",
+    "lasttestyear": "1963",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/1/1059/1059.html CricketArchive ",
+    "Test": {
+        "matches": "18",
+        "runs": "154",
+        "bat avg": "11.84",
+        "100s/50s": "0/0",
+        "deliveries": "3,734",
+        "wickets": "45",
+        "bowl avg": "31.62",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/38",
+        "catches/stumpings": "9/\u2013"
+    },
+    "First-class": {
+        "matches": "74",
+        "runs": "778",
+        "bat avg": "11.27",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "16,376",
+        "wickets": "269",
+        "bowl avg": "23.35",
+        "fivefor": "12",
+        "tenfor": "1",
+        "best bowling": "6/29",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1956/57\u20131963/64"
+    },
+    "birth_date": "1935-1-6"
+}

@@ -1,0 +1,28 @@
+{
+    "fullname": "Harold Watson",
+    "birth_place": "Gooderstone, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Hauxton, Cambridgeshire,, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22776.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "189",
+        "bat avg": "9.45",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "42",
+        "deliveries": "1,731",
+        "wickets": "37",
+        "bowl avg": "25.02",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/70",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1924",
+        "Marylebone Cricket Club": "1913\u20131921",
+        "Norfolk": "1910\u20131927"
+    }
+}

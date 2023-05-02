@@ -1,0 +1,26 @@
+{
+    "name": "Orme Bristowe",
+    "fullname": "Orme Cheshyre Bristowe",
+    "birth_place": "Watford, Hertfordshire, England",
+    "death_date": "1938",
+    "death_place": "Freiston Shore, Lincolnshire, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/9227.html Cricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "567",
+        "bat avg": "18.29",
+        "top score": "81",
+        "wickets": "74",
+        "bowl avg": "23.66",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/81",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Essex": "1913\u20131914"
+    },
+    "birth_date": "1895-4-12"
+}

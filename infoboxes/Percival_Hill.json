@@ -1,0 +1,29 @@
+{
+    "name": "Percival Hill",
+    "country": "Australia",
+    "birth_place": "Kent Town, South Australia",
+    "death_date": "1950",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Clem Hill (brother)",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "27 March",
+    "debutyear1": "1893",
+    "debutfor1": "South Australia",
+    "debutagainst1": "Western Australia",
+    "source": "https://cricketarchive.com/Archive/Players/16/16176/16176.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1892/93"
+    },
+    "birth_date": "1868-7-4"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Steven Craig Oddy",
+    "birth_place": "Rochdale, Greater Manchester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18360.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "90",
+        "wickets": "2",
+        "bowl avg": "23.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/27",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Lancashire Cricket Board": "2001"
+    },
+    "birth_date": "1979-5-17"
+}

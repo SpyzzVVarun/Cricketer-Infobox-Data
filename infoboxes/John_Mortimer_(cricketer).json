@@ -1,0 +1,29 @@
+{
+    "country": "Scotland",
+    "fullname": "John Mortimer",
+    "birth_place": "Peterculter, Aberdeenshire, Scotland",
+    "death_date": "1967",
+    "death_place": "Aberdeen, Aberdeenshire, Scotland",
+    "family": "Colin Smith (grandson)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://www.espncricinfo.com/player/john-mortimer-25304 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "19. 22",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "363",
+        "wickets": "8",
+        "bowl avg": "19. 25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/67",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1932\u20131933"
+    },
+    "birth_date": "1911-01-13"
+}

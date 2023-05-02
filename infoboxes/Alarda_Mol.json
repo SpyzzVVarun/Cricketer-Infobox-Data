@@ -1,0 +1,43 @@
+{
+    "name": "Alarda Mol",
+    "fullname": "Alarda Catharina Mol",
+    "female": "true",
+    "birth_place": "The Hague, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "country": "Netherlands",
+    "internationalspan": "2009\u20132011",
+    "odidebutdate": "5 August",
+    "odidebutyear": "2009",
+    "odidebutagainst": "Ireland",
+    "odicap": "77",
+    "lastodidate": "29 April",
+    "lastodiyear": "2011",
+    "lastodiagainst": "Sri Lanka",
+    "T20Idebutdate": "6 August",
+    "T20Idebutyear": "2009",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "17",
+    "lastT20Idate": "24 April",
+    "lastT20Iyear": "2011",
+    "lastT20Iagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Players/128/128965/128965.html CricketArchive ",
+    "WODI": {
+        "matches": "4",
+        "runs": "9",
+        "bat avg": "2.25",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20I": {
+        "matches": "3",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1982-1-20"
+}

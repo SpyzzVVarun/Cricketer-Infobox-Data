@@ -1,0 +1,25 @@
+{
+    "name": "Brian Marris",
+    "country": "New Zealand",
+    "fullname": "Brian Alfred Marris",
+    "nickname": "Curly",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37812.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "126",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "22 not out",
+        "deliveries": "761",
+        "wickets": "24",
+        "bowl avg": "20.37",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/50",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Wellington": "1917\u201318 to 1919\u201320"
+    }
+}

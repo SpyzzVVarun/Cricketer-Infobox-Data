@@ -1,0 +1,29 @@
+{
+    "country": "Ireland",
+    "fullname": "Robin O'Brien",
+    "birth_place": "Shillong, Assam, British India",
+    "death_date": "df=yes",
+    "death_place": "Biddenden, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24481.html Cricinfo ",
+    "First-class": {
+        "matches": "40",
+        "runs": "1,609",
+        "bat avg": "22.66",
+        "100s/50s": "2/5",
+        "top score": "146",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1954&ndash;1956",
+        "Ireland": "1954&ndash;1958",
+        "Marylebone Cricket Club": "1958"
+    }
+}

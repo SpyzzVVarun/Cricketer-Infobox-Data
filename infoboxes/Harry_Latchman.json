@@ -1,0 +1,41 @@
+{
+    "name": "Harry Latchman",
+    "fullname": "Amritt Harrichand Latchman",
+    "birth_place": "Kingston, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg-break and Right-arm leg-break and googly",
+    "source": "http://www.espncricinfo.com/england/content/player/16465.html Cricinfo ",
+    "FC": {
+        "matches": "213",
+        "runs": "2333",
+        "bat avg": "13.25",
+        "100s/50s": "0/5",
+        "top score": "96",
+        "deliveries": "26,484",
+        "wickets": "487",
+        "bowl avg": "27.90",
+        "fivefor": "22",
+        "tenfor": "1",
+        "best bowling": "7/65",
+        "catches/stumpings": "107/\u2013"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "145",
+        "bat avg": "12.08",
+        "100s/50s": "0/0",
+        "top score": "45 not out",
+        "deliveries": "714",
+        "wickets": "15",
+        "bowl avg": "33.46",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "3/26",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1965\u20131973",
+        "Nottinghamshire": "1974\u20131976"
+    },
+    "birth_date": "1943-7-26"
+}

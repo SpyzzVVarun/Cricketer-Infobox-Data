@@ -1,0 +1,26 @@
+{
+    "name": "Jim Workman",
+    "country": "Australia",
+    "fullname": "James Allen Workman",
+    "birth_place": "Peterhead, Adelaide, South Australia",
+    "death_date": "1970",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/australia/content/player/8380.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "549",
+        "bat avg": "20.33",
+        "100s/50s": "0/4",
+        "top score": "76",
+        "deliveries": "8",
+        "wickets": "1",
+        "bowl avg": "6.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1917-3-17"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Janet Mitchell",
+    "female": "true",
+    "fullname": "Janet Mitchell",
+    "birth_place": "Barbados",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1976",
+    "country": "West Indies",
+    "onetest": "true",
+    "testdebutdate": "7 May",
+    "testdebutyear": "1976",
+    "testdebutagainst": "Australia",
+    "testcap": "7",
+    "source": "https://cricketarchive.com/Archive/Players/17/17432/17432.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "0/0"
+    },
+    "WFC": {
+        "matches": "4",
+        "runs": "43",
+        "bat avg": "14.33",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "7/1"
+    },
+    "WLA": {
+        "matches": "4",
+        "runs": "47",
+        "bat avg": "11.75",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Barbados": "1975/76\u20131980"
+    }
+}

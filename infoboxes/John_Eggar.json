@@ -1,0 +1,40 @@
+{
+    "name": "John Eggar",
+    "country": "England",
+    "fullname": "John Drennan Eggar",
+    "birth_place": "Nowshera, Khyber Pakhtunkhwa, British India",
+    "death_date": "1983",
+    "death_place": "Hinton St George, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "30 April",
+    "debutyear1": "1938",
+    "debutfor1": "Oxford Univ.",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "14 August",
+    "lastyear1": "1954",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/6/6581/6581.html CricketArchive ",
+    "First-class": {
+        "matches": "41",
+        "runs": "1,847",
+        "bat avg": "31.84",
+        "100s/50s": "4/9",
+        "top score": "219",
+        "deliveries": "354",
+        "wickets": "1",
+        "bowl avg": "193.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/2",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1938",
+        "Hampshire": "1938",
+        "Derbyshire": "1946\u20131954"
+    },
+    "birth_date": "1916-12-1"
+}

@@ -1,0 +1,43 @@
+{
+    "country": "West Indies",
+    "fullname": "Elvis Leroy Reifer",
+    "birth_place": "Saint George, Barbados",
+    "death_date": "2011",
+    "death_place": "Bridgetown, Barbados",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "family": "Floyd Reifer (nephew) Raymon Reifer (son)",
+    "source": "http://www.cricinfo.com/westindies/content/player/52807.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "408",
+        "bat avg": "22.66",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "3,221",
+        "wickets": "49",
+        "bowl avg": "36.95",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/43",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "List A": {
+        "matches": "19",
+        "runs": "97",
+        "bat avg": "9.70",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "899",
+        "wickets": "19",
+        "bowl avg": "34.26",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/46",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Barbados": "1984&ndash;1986",
+        "Hampshire": "1984"
+    },
+    "birth_date": "1961-3-21"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Hugh Massie",
+    "country": "Australia",
+    "fullname": "Hugh Hamon Massie",
+    "birth_place": "Near Belfast, now Port Fairy, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Point Piper, New South Wales, Australia",
+    "heightm": "1.83",
+    "batting": "Right-handed",
+    "role": "Top-order batsman",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1881",
+    "testdebutagainst": "England",
+    "lasttestdate": "24 February",
+    "lasttestyear": "1885",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/58/58.html CricketArchive ",
+    "Tests": {
+        "matches": "9",
+        "runs": "249",
+        "bat avg": "15.56",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "5/0"
+    },
+    "FC": {
+        "matches": "64",
+        "runs": "2485",
+        "bat avg": "23.00",
+        "100s/50s": "1/13",
+        "top score": "206",
+        "deliveries": "126",
+        "wickets": "2",
+        "bowl avg": "30.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/39",
+        "catches/stumpings": "35/0"
+    },
+    "clubs": {
+        "New South Wales": "1878\u20131888"
+    },
+    "birth_date": "1854-4-11"
+}

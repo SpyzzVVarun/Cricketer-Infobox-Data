@@ -1,0 +1,57 @@
+{
+    "name": "Matthew Spriegel",
+    "country": "England",
+    "fullname": "Matthew Spriegel",
+    "birth_place": "Epsom, Surrey, England",
+    "heightft": "6",
+    "heightinch": "3",
+    "role": "All-rounder",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "FC": {
+        "matches": "56",
+        "runs": "1,965",
+        "bat avg": "22.58",
+        "100s/50s": "3/6",
+        "deliveries": "2449",
+        "wickets": "35",
+        "bowl avg": "42.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/26",
+        "catches/stumpings": "32/\u2013"
+    },
+    "LA": {
+        "matches": "79",
+        "runs": "1,617",
+        "bat avg": "32.34",
+        "100s/50s": "0/10",
+        "top score": "86",
+        "deliveries": "2207",
+        "wickets": "51",
+        "bowl avg": "37.07",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "40/-"
+    },
+    "T20": {
+        "matches": "71",
+        "runs": "516",
+        "bat avg": "15.17",
+        "100s/50s": "0/1",
+        "deliveries": "879",
+        "wickets": "35",
+        "bowl avg": "32.34",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/33",
+        "catches/stumpings": "25/- |date = 21 January |year = 2016 |source = https://www.espncricinfo.com/player/matt-spriegel-288772 ESPNcricinfo "
+    },
+    "clubs": {
+        "Loughborough UCCE": "2007\u20132008",
+        "Surrey": "2008\u20132012",
+        "Northamptonshire": "2013\u20132014"
+    },
+    "birth_date": "1987-3-4"
+}

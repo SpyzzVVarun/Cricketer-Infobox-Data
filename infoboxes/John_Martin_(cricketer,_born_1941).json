@@ -1,0 +1,37 @@
+{
+    "name": "John Martin",
+    "country": "England",
+    "fullname": "John Donald Martin",
+    "birth_place": "Oxford, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "2 May",
+    "debutyear1": "1962",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "13 July",
+    "lastyear1": "1965",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Glamorgan",
+    "source": "https://cricketarchive.com/Archive/Players/3/3707/3707.html CricketArchive ",
+    "First-class": {
+        "matches": "40",
+        "runs": "148",
+        "bat avg": "3.89",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "6317",
+        "wickets": "93",
+        "bowl avg": "29.04",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "7/26",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1962\u201365",
+        "Somerset": "1964\u201365"
+    },
+    "birth_date": "1941-12-23"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Maxine Blythin",
+    "female": "true",
+    "fullname": "Maxine Blythin",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/2233/2233032/2233032.html CricketArchive",
+    "WLA": {
+        "matches": "9",
+        "runs": "221",
+        "bat avg": "31.57",
+        "100s/50s": "0/2",
+        "catches/stumpings": "8/\u2013"
+    },
+    "WT20": {
+        "matches": "6",
+        "runs": "48",
+        "bat avg": "29.16",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Kent": "2019\u20132021",
+        "South East Stars": "2020",
+        "Wiltshire": "2023\u2013present"
+    },
+    "birth_date": "1994-8-25"
+}

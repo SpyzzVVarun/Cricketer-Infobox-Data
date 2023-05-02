@@ -1,0 +1,43 @@
+{
+    "name": "Peter Hatzoglou",
+    "birth_place": "Perth, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "height": "1.93 m",
+    "| columns": "2",
+    "source": "http://www.espncricinfo.com/ci/content/player/1191384.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "deliveries": "126",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "30",
+        "runs": "19",
+        "bat avg": "4.75",
+        "100s/50s": "0/0",
+        "deliveries": "630",
+        "wickets": "34",
+        "bowl avg": "24.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/43",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Melbourne Renegades( 41 )": "2020/21",
+        "South Australia( 43 )": "2020/21",
+        "Perth Scorchers( 34 )": "2021/22\u2013",
+        "Oval Invincibles": "2022"
+    },
+    "birth_date": "1998-11-27"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Ian Smith",
+    "death_date": "df=y",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "7 June",
+    "testdebutyear": "1947",
+    "lasttestdate": "23 December",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1957",
+    "source": "https://cricketarchive.com/Archive/Players/0/780/780.html CricketArchive",
+    "Test": {
+        "matches": "9",
+        "runs": "39",
+        "bat avg": "3.89",
+        "100s/50s": "0/0",
+        "deliveries": "1,655",
+        "wickets": "12",
+        "bowl avg": "64.08",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/143",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "97",
+        "runs": "547",
+        "bat avg": "10.32",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "22,088",
+        "wickets": "365",
+        "bowl avg": "22.55",
+        "fivefor": "26",
+        "tenfor": "8",
+        "best bowling": "9/88",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1925-2-23"
+}

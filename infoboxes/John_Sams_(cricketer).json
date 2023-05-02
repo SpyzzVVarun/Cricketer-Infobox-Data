@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "John Sams",
+    "source": "http://www.espncricinfo.com/ci/content/player/21252.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "32",
+        "bat avg": "10.66",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "85",
+        "wickets": "3",
+        "bowl avg": "13.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/5",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1871"
+    }
+}

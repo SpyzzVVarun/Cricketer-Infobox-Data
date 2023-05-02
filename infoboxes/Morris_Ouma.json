@@ -1,0 +1,52 @@
+{
+    "name": "Maurice Ouma",
+    "country": "Kenya",
+    "fullname": "Maurice Amollo Ouma",
+    "nickname": "Risse, Pagal",
+    "birth_place": "Kiambu, Kenya",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Wicket-keeper",
+    "internationalspan": "2004\u20132014",
+    "odidebutdate": "11 September",
+    "odidebutyear": "2004",
+    "odidebutagainst": "India",
+    "odicap": "28",
+    "lastodidate": "30 January",
+    "lastodiyear": "2014",
+    "lastodiagainst": "Scotland",
+    "source": "http://www.espncricinfo.com/kenya/content/player/24750.html Cricinfo ",
+    "ODI": {
+        "matches": "80",
+        "runs": "1,501",
+        "bat avg": "20.64",
+        "100s/50s": "0/7",
+        "top score": "61",
+        "catches/stumpings": "48/10"
+    },
+    "T20I": {
+        "matches": "22",
+        "runs": "127",
+        "bat avg": "7.05",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "8/5"
+    },
+    "FC": {
+        "matches": "38",
+        "runs": "1,864",
+        "bat avg": "27.41",
+        "100s/50s": "3/10",
+        "top score": "130",
+        "catches/stumpings": "64/4"
+    },
+    "LA": {
+        "matches": "114",
+        "runs": "2,124",
+        "bat avg": "20.82",
+        "100s/50s": "0/10",
+        "catches/stumpings": "73/12"
+    },
+    "clubs": {},
+    "birth_date": "1982-11-8"
+}

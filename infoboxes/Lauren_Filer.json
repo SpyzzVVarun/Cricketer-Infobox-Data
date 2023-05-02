@@ -1,0 +1,43 @@
+{
+    "name": "Lauren Filer",
+    "female": "true",
+    "fullname": "Lauren Louise Filer",
+    "birth_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1677/1677034/1677034.html CricketArchive",
+    "WLA": {
+        "matches": "27",
+        "runs": "115",
+        "bat avg": "10.45",
+        "100s/50s": "0/1",
+        "deliveries": "1,011",
+        "wickets": "27",
+        "bowl avg": "31.07",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "6/\u2013"
+    },
+    "WT20": {
+        "matches": "30",
+        "runs": "78",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "428",
+        "wickets": "18",
+        "bowl avg": "23.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Somerset": "2018\u2013present",
+        "Western Storm": "2020\u2013present",
+        "Welsh Fire": "2021\u2013present"
+    },
+    "birth_date": "2000-12-22"
+}

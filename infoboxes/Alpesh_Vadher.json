@@ -1,0 +1,41 @@
+{
+    "name": "Alpesh Vadher",
+    "fullname": "Alpesh Vallabhdas Vadher",
+    "birth_place": "Nairobi, Kenya",
+    "country": "Kenya",
+    "internationalspan": "1997\u20131999",
+    "odidebutdate": "10 October",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "17",
+    "lastodidate": "30 September",
+    "lastodiyear": "1999",
+    "lastodiagainst": "South Africa",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/kenya/content/player/24729.html Cricinfo  ",
+    "ODI": {
+        "matches": "18",
+        "runs": "278",
+        "bat avg": "27.80",
+        "100s/50s": "0/2",
+        "catches/stumpings": "6/0"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "334",
+        "bat avg": "19.64",
+        "100s/50s": "0/2",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {},
+    "birth_date": "1974-9-7"
+}

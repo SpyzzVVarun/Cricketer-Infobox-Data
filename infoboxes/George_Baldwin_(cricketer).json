@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "George Frederick Baldwin",
+    "birth_place": "Northampton, Northamptonshire, England",
+    "death_date": "1970",
+    "death_place": "Burton upon Trent, Staffordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/9493.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "48",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "1906"
+    },
+    "birth_date": "1878-4-3"
+}

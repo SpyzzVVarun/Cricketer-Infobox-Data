@@ -1,0 +1,39 @@
+{
+    "name": "Dedunu Gunaratne",
+    "female": "true",
+    "country": "Sri Lanka",
+    "fullname": "Dedunu Gunaratne",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "family": "Thalika Gunaratne (sister)",
+    "internationalspan": "1998",
+    "onetest": "true",
+    "testdebutdate": "17 April",
+    "testdebutyear": "1998",
+    "testdebutagainst": "Pakistan",
+    "testcap": "4",
+    "odidebutdate": "13 April",
+    "odidebutyear": "1998",
+    "odidebutagainst": "Pakistan",
+    "odicap": "17",
+    "lastodidate": "15 April",
+    "lastodiyear": "1998",
+    "lastodiagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Archive/Players/17/17394/17394.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "2",
+        "runs": "72",
+        "bat avg": "72.00",
+        "100s/50s": "0/1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

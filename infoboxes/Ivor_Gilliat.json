@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Ivor Algernon Walter Gilliat",
+    "birth_place": "Eton, Buckinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "family": "Richard Gilliat (nephew), John Leslie (brother-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/13630.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "435",
+        "bat avg": "25.58",
+        "100s/50s": "\u2013/3",
+        "top score": "70",
+        "deliveries": "14",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "27/8"
+    },
+    "clubs": {
+        "Oxford University": "1922&ndash;1925"
+    }
+}

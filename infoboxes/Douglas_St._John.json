@@ -1,0 +1,39 @@
+{
+    "name": "Douglas St. John",
+    "country": "New Zealand",
+    "fullname": "Douglas Stuart St. John",
+    "birth_place": "Nelson, New Zealand",
+    "death_date": "1992",
+    "death_place": "\u014ct\u0101ne, Hawke's Bay, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First class",
+    "debutdate1": "1 January",
+    "debutyear1": "1947",
+    "debutfor1": "Otago",
+    "debutagainst1": "Auckland",
+    "lastdate1": "10 February",
+    "lastyear1": "1956",
+    "lastfor1": "Wellington",
+    "lastagainst1": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/22/22931/22931.html Cricket Archive ",
+    "FC": {
+        "matches": "34",
+        "runs": "1236",
+        "bat avg": "20.94",
+        "100s/50s": "0/5",
+        "top score": "88",
+        "deliveries": "84",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "21/0"
+    },
+    "clubs": {
+        "Otago": "1946-1951",
+        "Wellington": "1952-1956"
+    },
+    "birth_date": "1928-2-26"
+}

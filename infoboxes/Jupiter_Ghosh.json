@@ -1,0 +1,40 @@
+{
+    "name": "Jupiter Ghosh",
+    "country": "Bangladesh",
+    "fullname": "Jupiter Ghosh",
+    "birth_place": "Bagerhat, Khulna, Bangladesh",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/506586.html ESPNcricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "211",
+        "bat avg": "19.18",
+        "100s/50s": "-/1",
+        "top score": "56",
+        "deliveries": "336",
+        "wickets": "2",
+        "bowl avg": "61.00",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/16",
+        "catches/stumpings": "2/-"
+    },
+    "LA": {
+        "matches": "15",
+        "runs": "251",
+        "bat avg": "19.30",
+        "100s/50s": "-/-",
+        "top score": "44",
+        "deliveries": "192",
+        "wickets": "4",
+        "bowl avg": "32.75",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/16",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {},
+    "birth_date": "1989-07-22"
+}

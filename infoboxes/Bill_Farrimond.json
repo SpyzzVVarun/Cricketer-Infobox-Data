@@ -1,0 +1,29 @@
+{
+    "name": "Bill Farrimond",
+    "batting": "Right-handed",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "13 February",
+    "testdebutyear": "1931",
+    "lasttestdate": "29 June",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1935",
+    "source": "https://cricketarchive.com/Archive/Players/0/568/568.html CricketArchive",
+    "Test": {
+        "matches": "4",
+        "runs": "116",
+        "bat avg": "16.57",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "5/2"
+    },
+    "First-class": {
+        "matches": "153",
+        "runs": "2,908",
+        "bat avg": "23.64",
+        "100s/50s": "1/16",
+        "top score": "174",
+        "catches/stumpings": "252/80"
+    },
+    "clubs": {}
+}

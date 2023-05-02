@@ -1,0 +1,38 @@
+{
+    "name": "Jack Hubble",
+    "fullname": "John Charlton Hubble",
+    "birth_place": "Wateringbury, Kent",
+    "death_date": "1965",
+    "death_place": "St Leonards-on-Sea, Sussex",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Harold Hubble (nephew)",
+    "type1": "FC",
+    "debutdate1": "23 June",
+    "debutyear1": "1904",
+    "debutfor1": "Kent",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "20 July",
+    "lastyear1": "1929",
+    "lastfor1": "MCC",
+    "lastagainst1": "Royal Navy",
+    "source": "http://www.espncricinfo.com/ci/content/player/15015.html CricInfo ",
+    "First-class": {
+        "matches": "360",
+        "runs": "10,939",
+        "bat avg": "23.57",
+        "100s/50s": "5/58",
+        "top score": "189",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "437/221"
+    },
+    "clubs": {
+        "Kent": "1904\u20131929"
+    },
+    "birth_date": "1881-2-10"
+}

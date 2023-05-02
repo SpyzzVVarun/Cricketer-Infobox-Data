@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Robert Lionel Whitby",
+    "birth_place": "Kolkata, Bengal Presidency,, British India",
+    "death_date": "January 2003 (aged 74)",
+    "death_place": "Portsmouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/22896.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "228",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1950",
+        "Marylebone Cricket Club": "1957"
+    }
+}

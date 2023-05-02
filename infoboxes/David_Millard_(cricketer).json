@@ -1,0 +1,29 @@
+{
+    "country": "South Africa",
+    "fullname": "David Edward Shaxson Millard",
+    "birth_place": "Rondebosch, Cape Province,, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Cape Town, Cape Province,, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/46348.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "497",
+        "bat avg": "20.70",
+        "100s/50s": "\u2013/5",
+        "top score": "73",
+        "deliveries": "1,326",
+        "wickets": "15",
+        "bowl avg": "29.86",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/68",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1951/52&ndash;1954/55",
+        "Eastern Province": "1952/53&ndash;1953/54",
+        "Oxford University": "1965"
+    }
+}

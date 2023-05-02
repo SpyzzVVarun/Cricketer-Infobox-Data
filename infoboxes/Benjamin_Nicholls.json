@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Benjamin Ernest Nicholls",
+    "birth_place": "Byfleet, Surrey, England",
+    "death_date": "1945",
+    "death_place": "Kirdford, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/18127.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "192",
+        "bat avg": "10.10",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "deliveries": "1,368",
+        "wickets": "31",
+        "bowl avg": "21.48",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/46",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1901",
+        "Oxford University": "1884\u20131885",
+        "Sussex": "1883\u20131888"
+    }
+}

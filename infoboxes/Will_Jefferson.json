@@ -1,0 +1,60 @@
+{
+    "name": "Will Jefferson",
+    "fullname": "William Ingleby Jefferson",
+    "country": "England",
+    "birth_place": "Derby, England",
+    "family": "Richard Jefferson (father)",
+    "heightft": "6",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "https://cricketarchive.com/Archive/Players/8/8233/8233.html CricketArchive",
+    "FC": {
+        "matches": "119",
+        "runs": "7,096",
+        "bat avg": "35.83",
+        "100s/50s": "17/27",
+        "top score": "222",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "60.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "127/&ndash;"
+    },
+    "LA": {
+        "matches": "101",
+        "runs": "3,144",
+        "bat avg": "34.17",
+        "100s/50s": "4/18",
+        "top score": "132",
+        "deliveries": "24",
+        "wickets": "2",
+        "bowl avg": "4.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/9",
+        "catches/stumpings": "43/&ndash;"
+    },
+    "T20": {
+        "matches": "69",
+        "runs": "1,254",
+        "bat avg": "20.90",
+        "100s/50s": "0/6",
+        "top score": "83",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "25/&ndash;"
+    },
+    "clubs": {
+        "Essex": "2000\u20132006",
+        "Nottinghamshire": "2007\u20132009",
+        "Leicestershire": "2010\u20132012"
+    },
+    "birth_date": "1979-10-25"
+}

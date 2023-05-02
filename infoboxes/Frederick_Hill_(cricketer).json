@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Frederick Henry Hill",
+    "birth_place": "Bradfield, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Kempston, Bedfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14808.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "360",
+        "bat avg": "21.17",
+        "100s/50s": "\u2013/2",
+        "top score": "73",
+        "deliveries": "666",
+        "wickets": "9",
+        "bowl avg": "30.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/2",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1867&ndash;1870",
+        "Marylebone Cricket Club": "1871"
+    }
+}

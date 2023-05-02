@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Tom Friend",
+    "nickname": "Friendy url=http://www.mccuniversities.org/cardiff-glamorgan/player-profiles/tom-friend,214,PP.html",
+    "birth_place": "Newport, Isle of Wight, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/county-cricket-2011/content/current/player/467152.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "85",
+        "bat avg": "28.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "deliveries": "228",
+        "wickets": "2",
+        "bowl avg": "93.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/96",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "122.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/49",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cardiff MCCU": "2011",
+        "Unicorns": "2011"
+    },
+    "birth_date": "1991-5-3"
+}

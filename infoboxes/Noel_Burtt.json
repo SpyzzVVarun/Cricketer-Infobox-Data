@@ -1,0 +1,30 @@
+{
+    "name": "Noel Burtt",
+    "fullname": "Noel Vincent Burtt",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1983",
+    "death_place": "Christchurch, New Zealand",
+    "country": "New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Wayne Burtt (son), Tom Burtt (brother), Leighton Burtt (grandson)",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36562.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "59",
+        "bat avg": "5.90",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "1515",
+        "wickets": "22",
+        "bowl avg": "37.59",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/69",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Canterbury": "1937\u201338 to 1948\u201349"
+    },
+    "birth_date": "1911-11-10"
+}

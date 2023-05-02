@@ -1,0 +1,40 @@
+{
+    "name": "Monty Cranfield",
+    "country": "England",
+    "fullname": "Lionel Montague Cranfield",
+    "birth_place": "Bristol, England",
+    "death_date": "1993",
+    "death_place": "Stockport, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg break/off Right-arm leg break/off break",
+    "role": "All-rounder",
+    "family": "Father Lionel, uncle Beaumont",
+    "type1": "First-class",
+    "debutdate1": "2 May",
+    "debutyear1": "1934",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "15 May",
+    "lastyear1": "1951",
+    "lastfor1": "Gloucestershire",
+    "lastagainst1": "Somerset",
+    "source": "https://cricketarchive.com/Archive/Players/28/28805/28805.html CricketArchive ",
+    "First-class": {
+        "matches": "162",
+        "runs": "2466",
+        "bat avg": "14.25",
+        "100s/50s": "\u2013/4",
+        "top score": "90",
+        "deliveries": "15518",
+        "wickets": "233",
+        "bowl avg": "32.92",
+        "fivefor": "8",
+        "tenfor": "2",
+        "best bowling": "8/45",
+        "catches/stumpings": "38/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1934\u201351"
+    },
+    "birth_date": "1909-8-29"
+}

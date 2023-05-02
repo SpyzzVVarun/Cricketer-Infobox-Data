@@ -1,0 +1,12 @@
+{
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Women's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2015 Port Moresby 20 over cricket"
+    ]
+}

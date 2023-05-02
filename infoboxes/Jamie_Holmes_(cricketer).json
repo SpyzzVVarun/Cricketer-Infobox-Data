@@ -1,0 +1,27 @@
+{
+    "name": "Jamie Holmes",
+    "country": "Ireland",
+    "fullname": "Jamie Paul Holmes",
+    "birth_place": "Masterton, Wairarapa, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "type1": "Twenty20",
+    "onetype1": "true",
+    "debutdate1": "16 June",
+    "debutyear1": "2017",
+    "debutfor1": "Northern",
+    "debutagainst1": "North West",
+    "source": "http://www.espncricinfo.com/ci/content/player/1005361.html Cricinfo ",
+    "Twenty20": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Northern Knights": "2017\u2013present"
+    },
+    "birth_date": "1992-10-13"
+}

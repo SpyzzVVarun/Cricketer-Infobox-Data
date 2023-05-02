@@ -1,0 +1,40 @@
+{
+    "name": "Hylton Philipson",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "England",
+    "testdebutdate": "24 March",
+    "testdebutyear": "1892",
+    "lasttestdate": "6 March",
+    "lasttestyear": "1895",
+    "source": "https://cricketarchive.com/Archive/Players/0/162/162.html",
+    "Tests": {
+        "matches": "5",
+        "runs": "63",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "8/3"
+    },
+    "First-class": {
+        "matches": "85",
+        "runs": "1,951",
+        "bat avg": "17.41",
+        "100s/50s": "2/7",
+        "top score": "150",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "103/47"
+    },
+    "clubs": {}
+}

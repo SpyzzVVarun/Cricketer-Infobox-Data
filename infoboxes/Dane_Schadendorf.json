@@ -1,0 +1,39 @@
+{
+    "name": "Dane Schadendorf",
+    "fullname": "Dane Schadendorf",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "4 July",
+    "debutyear1": "2021",
+    "debutfor1": "Nottinghamshire",
+    "debutagainst1": "Derbyshire",
+    "type2": "List A",
+    "debutdate2": "25 July",
+    "debutyear2": "2021",
+    "debutfor2": "Nottinghamshire",
+    "debutagainst2": "Warwickshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/946527.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "147",
+        "bat avg": "14.70",
+        "100s/50s": "0/0",
+        "catches/stumpings": "13/4"
+    },
+    "clubs": {
+        "Nottinghamshire( 89 )": "2021\u20132022"
+    },
+    "birth_date": "2002-7-31"
+}

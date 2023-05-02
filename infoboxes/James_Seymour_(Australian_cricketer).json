@@ -1,0 +1,55 @@
+{
+    "name": "James Seymour",
+    "fullname": "James Lewis Seymour",
+    "batting": "Left-handed",
+    "bowling": "Right arm off Right arm off break",
+    "role": "Batsmen",
+    "source": "http://www.espncricinfo.com/ci/content/player/781297.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "254",
+        "bat avg": "28.22",
+        "100s/50s": "1/1",
+        "top score": "105",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "154",
+        "bat avg": "15.40",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "30",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2020/21\u2013",
+        "Melbourne Renegades": "2021/22"
+    },
+    "birth_date": "1992-3-13"
+}

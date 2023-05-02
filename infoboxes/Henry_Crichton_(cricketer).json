@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Henry Thompson Crichton",
+    "birth_place": "Edgbaston, Warwickshire, England",
+    "death_date": "1968",
+    "death_place": "Branksome Park, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Sam Troughton (great-grandson), Jim Troughton (great-grandson), William Troughton (great-grandson)",
+    "source": "http://www.espncricinfo.com/ci/content/player/11425.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "8.66",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "48",
+        "wickets": "2",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/21",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1908",
+        "Berkshire": "1913"
+    },
+    "birth_date": "1884-5-18"
+}

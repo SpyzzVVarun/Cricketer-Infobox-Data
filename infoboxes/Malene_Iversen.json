@@ -1,0 +1,31 @@
+{
+    "name": "Malene Iversen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Malene Iversen",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "24 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "New Zealand",
+    "odicap": "23",
+    "lastodidate": "20 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/54959.html Cricinfo ",
+    "WODI": {
+        "matches": "17",
+        "runs": "112",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/9"
+    },
+    "clubs": {},
+    "birth_date": "1976-12-27"
+}

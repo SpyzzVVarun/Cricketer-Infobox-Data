@@ -1,0 +1,30 @@
+{
+    "name": "Chick Cray",
+    "country": "England",
+    "fullname": "Stanley James Cray",
+    "nickname": "Chick",
+    "birth_place": "Stratford, Essex, England",
+    "death_date": "2008",
+    "death_place": "Torquay, Devon, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/10873.html Cricinfo ",
+    "First-class": {
+        "matches": "102",
+        "runs": "4,218",
+        "bat avg": "24.66",
+        "100s/50s": "7/17",
+        "top score": "163",
+        "deliveries": "32",
+        "wickets": "1",
+        "bowl avg": "40.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/0",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Devon": "1954 & 1957",
+        "Essex": "1938\u20131950"
+    },
+    "birth_date": "1921-5-29"
+}

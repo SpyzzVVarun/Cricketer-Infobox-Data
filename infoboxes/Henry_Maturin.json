@@ -1,0 +1,31 @@
+{
+    "name": "Henry Maturin",
+    "country": "Ireland",
+    "fullname": "Henry Maturin",
+    "birth_place": "Clondevaddock, Ireland",
+    "death_date": "1920",
+    "death_place": "Hartley Wintney, Hampshire, England",
+    "heightft": "5",
+    "heightinch": "5 title=Frederick Lillywhite's Cricket scores and Biographies",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/16943.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "178",
+        "bat avg": "9.88",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "436",
+        "wickets": "8",
+        "bowl avg": "33.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/68",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1863",
+        "Hampshire": "1864\u20131882"
+    }
+}

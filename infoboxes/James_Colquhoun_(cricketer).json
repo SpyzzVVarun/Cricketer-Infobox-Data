@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "James Clifton Colquhoun",
+    "birth_place": "Clifton, Arizona, United States",
+    "death_date": "df=y",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/india/content/player/11264.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "15.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "1929\u20131930"
+    }
+}

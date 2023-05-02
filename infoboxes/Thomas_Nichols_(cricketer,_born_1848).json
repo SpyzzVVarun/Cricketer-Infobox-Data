@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Thomas Bartrup Nichols",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1915",
+    "death_place": "Kineton, Warwickshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/18136.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1868"
+    }
+}

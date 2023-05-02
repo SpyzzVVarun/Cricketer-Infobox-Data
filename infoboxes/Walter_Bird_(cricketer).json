@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Walter Bird",
+    "birth_place": "Hornsey, Middlesex, England",
+    "death_date": "1921",
+    "death_place": "Upperton, Sussex, England",
+    "family": "George Bird (brother), Morice Bird (nephew), Austin Bird (nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/9762.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1880"
+    }
+}

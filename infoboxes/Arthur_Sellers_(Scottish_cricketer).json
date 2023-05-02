@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Arthur Ernest Sellers",
+    "birth_place": "Mansfield, Nottinghamshire, England",
+    "death_date": "1949",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/arthur-sellers-25342 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "369",
+        "wickets": "8",
+        "bowl avg": "19.12",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/22",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1920&ndash;1922"
+    }
+}

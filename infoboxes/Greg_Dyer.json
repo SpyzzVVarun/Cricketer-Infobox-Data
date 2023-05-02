@@ -1,0 +1,57 @@
+{
+    "name": "Greg Dyer",
+    "country": "Australia",
+    "fullname": "Gregory Charles Dyer",
+    "birth_place": "Parramatta, New South Wales, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "12 December",
+    "testdebutyear": "1986",
+    "testdebutagainst": "England",
+    "testcap": "339",
+    "lasttestdate": "12 February",
+    "lasttestyear": "1988",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "24 September",
+    "odidebutyear": "1986",
+    "odidebutagainst": "India",
+    "odicap": "94",
+    "lastodidate": "4 February",
+    "lastodiyear": "1988",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/1/1853/1853.html CricketArchive",
+    "Test": {
+        "matches": "6",
+        "runs": "131",
+        "bat avg": "21.83",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "catches/stumpings": "22/2"
+    },
+    "ODI": {
+        "matches": "23",
+        "runs": "174",
+        "bat avg": "15.81",
+        "100s/50s": "0/0",
+        "catches/stumpings": "24/4"
+    },
+    "FC": {
+        "matches": "51",
+        "runs": "1,671",
+        "bat avg": "28.81",
+        "100s/50s": "1/10",
+        "top score": "106",
+        "catches/stumpings": "123/18"
+    },
+    "LA": {
+        "matches": "45",
+        "runs": "408",
+        "bat avg": "20.40",
+        "100s/50s": "0/1",
+        "catches/stumpings": "39/9"
+    },
+    "clubs": {
+        "New South Wales": "1983/84\u20131988/89"
+    },
+    "birth_date": "1959-3-16"
+}

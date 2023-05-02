@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Joseph Edward Alfred Greatorex",
+    "birth_place": "Kensington, Middlesex, England",
+    "death_date": "1940",
+    "death_place": "Uppingham, Rutland, England",
+    "family": "Theophilus Greatorex (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/13727.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882&ndash;1884"
+    }
+}

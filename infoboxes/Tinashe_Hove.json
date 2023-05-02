@@ -1,0 +1,31 @@
+{
+    "name": "Tinashe Hove",
+    "country": "Zimbabwe",
+    "birth_place": "Tshabalala, Bulawayo, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening batsman",
+    "source": "https://cricketarchive.com/Archive/Players/62/62507/62507.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "588",
+        "bat avg": "19.60",
+        "100s/50s": "1/2",
+        "top score": "115",
+        "catches/stumpings": "12/\u2013"
+    },
+    "List A": {
+        "matches": "19",
+        "runs": "348",
+        "bat avg": "21.75",
+        "100s/50s": "0/3",
+        "top score": "80",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Matabeleland": "2003/04\u20132005/06",
+        "Westerns": "2006/07",
+        "Southerns": "2008"
+    },
+    "birth_date": "1984-9-1"
+}

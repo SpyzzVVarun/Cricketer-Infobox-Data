@@ -1,0 +1,25 @@
+{
+    "country": "Scotland",
+    "fullname": "Graham Edward Gardner",
+    "birth_place": "Brighton, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/graham-gardner-25411 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "37.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/36",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1996"
+    },
+    "birth_date": "1966-6-1"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Alan Nelson",
+    "country": "Ireland",
+    "fullname": "Alan Norris Nelson",
+    "birth_place": "Banbridge, County Down, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Noel Nelson (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/24594.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "56",
+        "bat avg": "18.66",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "750",
+        "wickets": "14",
+        "bowl avg": "22.57",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "deliveries": "318",
+        "wickets": "4",
+        "bowl avg": "48.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/19",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1988&ndash;1993"
+    },
+    "birth_date": "1965-11-22"
+}

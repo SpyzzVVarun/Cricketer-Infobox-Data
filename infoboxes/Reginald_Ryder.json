@@ -1,0 +1,27 @@
+{
+    "name": "Reginald Ryder",
+    "country": "England",
+    "fullname": "Reginald Talbot Ryder",
+    "birth_place": "Monks Coppenhall. Cheshire, England",
+    "death_date": "1923",
+    "death_place": "Stockport, Cheshire, England",
+    "type1": "FC",
+    "debutdate1": "20 August",
+    "debutyear1": "1903",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "London County",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/32/32560/32560.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1903"
+    },
+    "birth_date": "1875-6-18"
+}

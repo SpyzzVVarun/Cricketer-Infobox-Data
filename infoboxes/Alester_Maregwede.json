@@ -1,0 +1,54 @@
+{
+    "name": "Alester Maregwede",
+    "country": "Zimbabwe",
+    "fullname": "Alester Maregwede",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "6 May",
+    "testdebutyear": "2004",
+    "testdebutagainst": "Sri Lanka",
+    "lasttestdate": "14 May",
+    "lasttestyear": "2004",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "30 November",
+    "odidebutyear": "2003",
+    "odidebutagainst": "West Indies",
+    "lastodidate": "27 February",
+    "lastodiyear": "2005",
+    "lastodiagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/55573.html ESPNcricinfo  ",
+    "Test": {
+        "matches": "2",
+        "runs": "74",
+        "bat avg": "18.50",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "11",
+        "runs": "124",
+        "bat avg": "12.40",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "77",
+        "runs": "2,958",
+        "bat avg": "22.07",
+        "100s/50s": "2/18",
+        "top score": "107",
+        "catches/stumpings": "142/9"
+    },
+    "LA": {
+        "matches": "87",
+        "runs": "1,470",
+        "bat avg": "19.34",
+        "100s/50s": "0/7",
+        "catches/stumpings": "65/6"
+    },
+    "clubs": {},
+    "birth_date": "1981-8-5"
+}

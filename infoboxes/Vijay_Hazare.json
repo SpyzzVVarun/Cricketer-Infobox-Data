@@ -1,0 +1,51 @@
+{
+    "name": "Vijay Hazare",
+    "country": "India",
+    "fullname": "Vijay Samuel Hazare",
+    "birth_place": "Sangli, Bombay Presidency, British India",
+    "death_date": "2004",
+    "death_place": "Vadodara, Gujarat, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "testdebutdate": "22 June",
+    "testdebutyear": "1946",
+    "testdebutagainst": "England",
+    "testcap": "28",
+    "lasttestdate": "28 March",
+    "lasttestyear": "1953",
+    "lasttestagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/0/748/748.html Cricket Archive ",
+    "Tests": {
+        "matches": "30",
+        "runs": "2,192",
+        "bat avg": "47.65",
+        "100s/50s": "7/9",
+        "deliveries": "2,840",
+        "wickets": "20",
+        "bowl avg": "61.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/29",
+        "catches/stumpings": "11/\u2013"
+    },
+    "First-class": {
+        "matches": "238",
+        "runs": "18,740",
+        "bat avg": "58.38",
+        "100s/50s": "60/73",
+        "deliveries": "38,447",
+        "wickets": "595",
+        "bowl avg": "24.61",
+        "fivefor": "27",
+        "tenfor": "3",
+        "best bowling": "8/90",
+        "catches/stumpings": "166/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "1934\u20131942",
+        "Central India": "1935\u20131939",
+        "Baroda": "1941\u20131961",
+        "Holkar": "1957\u20131958"
+    },
+    "birth_date": "1915-3-11"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Nicolaas Pretorius",
+    "country": "South Africa",
+    "fullname": "Nicolaas Pretorius",
+    "birth_place": "Pretoria, South Africa",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "Twenty20",
+    "debutdate1": "26 May",
+    "debutyear1": "2017",
+    "debutfor1": "Munster",
+    "debutagainst1": "Northern",
+    "source": "http://www.espncricinfo.com/ci/content/player/1099373.html ESPNcricinfo ",
+    "Twenty20": {
+        "matches": "5",
+        "runs": "30",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Munster Reds": "2017\u2013present"
+    },
+    "birth_date": "1989-8-8"
+}

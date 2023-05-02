@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Richard Walmesley",
+    "birth_place": "Bath, Somerset, England",
+    "death_date": "1893",
+    "death_place": "Chippenham, Gloucestershire,, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/cricketers/richard-walmesley-23324 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Cambridge University": "1836"
+    }
+}

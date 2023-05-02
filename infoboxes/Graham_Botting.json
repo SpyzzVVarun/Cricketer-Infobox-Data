@@ -1,0 +1,32 @@
+{
+    "name": "Graham Botting",
+    "country": "New Zealand",
+    "fullname": "Graham Stuart Botting",
+    "birth_place": "Dunedin, Otago, New Zealand",
+    "death_date": "2007",
+    "death_place": "Dunedin, Otago, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "27 January",
+    "debutyear1": "1949",
+    "debutfor1": "New Zealand XI",
+    "debutagainst1": "The Rest",
+    "lastdate1": "13 January",
+    "lastyear1": "1954",
+    "lastfor1": "Otago",
+    "lastagainst1": "Central Districts",
+    "source": "https://www.espncricinfo.com/player/graham-botting-36486 Cricinfo ",
+    "FC": {
+        "matches": "16",
+        "runs": "164",
+        "bat avg": "8.20",
+        "100s/50s": "0/0",
+        "catches/stumpings": "24/14"
+    },
+    "clubs": {
+        "Central Districts": "1950/51\u20131952/53",
+        "Otago": "1953/54"
+    },
+    "birth_date": "1915-6-27"
+}

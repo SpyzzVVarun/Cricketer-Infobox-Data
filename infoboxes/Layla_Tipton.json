@@ -1,0 +1,43 @@
+{
+    "name": "Layla Tipton",
+    "female": "true",
+    "fullname": "Layla Tipton",
+    "birth_place": "Sunderland, County Durham, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1307/1307853/1307853.html CricketArchive",
+    "WLA": {
+        "matches": "14",
+        "runs": "210",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "162",
+        "wickets": "3",
+        "bowl avg": "46.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/29",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "34",
+        "runs": "370",
+        "bat avg": "16.81",
+        "100s/50s": "0/2",
+        "deliveries": "408",
+        "wickets": "14",
+        "bowl avg": "24.92",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/6",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Durham": "2016\u20132019",
+        "North East Warriors": "2020\u2013present",
+        "Northern Diamonds": "2020"
+    },
+    "birth_date": "2020-8-29-200"
+}

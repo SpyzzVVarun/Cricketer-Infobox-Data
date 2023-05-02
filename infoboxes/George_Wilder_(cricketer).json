@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "George Wilder",
+    "birth_place": "Stansted Park, Sussex, England",
+    "death_date": "1948",
+    "death_place": "Las Vegas, Nevada, United States",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/22428.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "203",
+        "bat avg": "13.53",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "deliveries": "96",
+        "wickets": "4",
+        "bowl avg": "12.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/14",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1905\u20131906",
+        "Hampshire": "1909"
+    }
+}

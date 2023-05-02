@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "William Whitworth Chetwynd Talbot",
+    "birth_place": "Ingestre, Staffordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Hatfield, Hertfordshire, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/22044.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Oxford University": "1837"
+    }
+}

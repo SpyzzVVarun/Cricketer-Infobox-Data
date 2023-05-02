@@ -1,0 +1,42 @@
+{
+    "name": "Ian Turner",
+    "country": "England",
+    "fullname": "Ian John Turner",
+    "birth_place": "Denmead, Hampshire, England",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/21620.html Cricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "159",
+        "bat avg": "8.36",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "4,299",
+        "wickets": "54",
+        "bowl avg": "36.38",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/81",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "754",
+        "wickets": "16",
+        "bowl avg": "34.25",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/58",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1989&ndash;1993"
+    },
+    "birth_date": "1968-7-18"
+}

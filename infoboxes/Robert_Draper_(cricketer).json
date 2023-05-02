@@ -1,0 +1,28 @@
+{
+    "name": "Robert Draper",
+    "fullname": "Robert William Draper",
+    "birth_place": "Calcutta (now Kolkata), Bengal, India",
+    "death_date": "1987",
+    "death_place": "Cowie's Hill, Durban, Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Left-arm medium Left-arm medium pace",
+    "source": "https://cricketarchive.com/Archive/Players/3/3524/3524.html CricketArchive ",
+    "FC": {
+        "matches": "3",
+        "runs": "20",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "505",
+        "wickets": "6",
+        "bowl avg": "36.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/73",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1925\u20131929"
+    },
+    "birth_date": "1903-1-20"
+}

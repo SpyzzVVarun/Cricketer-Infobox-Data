@@ -1,0 +1,43 @@
+{
+    "name": "Lucy Cripps",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Lucy Paige Cripps",
+    "birth_place": "Frankston, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/2251/2251965/2251965.html CricketArchive",
+    "WLA": {
+        "matches": "4",
+        "runs": "75",
+        "bat avg": "25.00",
+        "100s/50s": "0/0",
+        "deliveries": "12",
+        "wickets": "2",
+        "bowl avg": "12.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "3",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2018/19\u2013present",
+        "Melbourne Stars": "2019/20\u2013present"
+    },
+    "birth_date": "2001-12-6"
+}

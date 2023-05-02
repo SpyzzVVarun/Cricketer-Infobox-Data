@@ -1,0 +1,61 @@
+{
+    "name": "Albert Padmore",
+    "country": "West Indies",
+    "fullname": "Albert Leroy Padmore",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "testdebutdate": "7 April",
+    "testdebutyear": "1976",
+    "testdebutagainst": "India",
+    "testcap": "155",
+    "lasttestdate": "8 July",
+    "lasttestyear": "1976",
+    "lasttestagainst": "England",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/52667.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "deliveries": "474",
+        "wickets": "1",
+        "bowl avg": "135.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "68",
+        "runs": "562",
+        "bat avg": "13.06",
+        "100s/50s": "0/2",
+        "top score": "79",
+        "deliveries": "14,125",
+        "wickets": "193",
+        "bowl avg": "29.94",
+        "fivefor": "8",
+        "tenfor": "2",
+        "best bowling": "6/69",
+        "catches/stumpings": "29/\u2013"
+    },
+    "LA": {
+        "matches": "18",
+        "runs": "59",
+        "bat avg": "8.42",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "870",
+        "wickets": "20",
+        "bowl avg": "25.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/24",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1972\u20131984"
+    },
+    "birth_date": "1944-12-17"
+}

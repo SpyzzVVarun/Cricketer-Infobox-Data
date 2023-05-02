@@ -1,0 +1,43 @@
+{
+    "name": "Agha Zahid",
+    "fullname": "Agha Zahid",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Pakistan",
+    "testcap": "69",
+    "onetest": "true",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "15 February",
+    "testdebutyear": "1975",
+    "source": "http://www.espncricinfo.com/ci/content/player/38982.html ESPNcricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "-/-",
+        "top score": "14",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "First-class": {
+        "matches": "227",
+        "runs": "13484",
+        "bat avg": "36.84",
+        "100s/50s": "29/66",
+        "deliveries": "7621",
+        "wickets": "108",
+        "bowl avg": "32.18",
+        "fivefor": "1",
+        "tenfor": "-",
+        "best bowling": "5/24",
+        "catches/stumpings": "136/-"
+    },
+    "clubs": {},
+    "birth_date": "1953-1-7"
+}

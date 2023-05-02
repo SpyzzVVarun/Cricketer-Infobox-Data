@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "James Campbell Rowley",
+    "birth_place": "Manchester, Lancashire, England",
+    "death_date": "17 November 1870 (aged 40)",
+    "death_place": "Wealdstone, Middlesex, England",
+    "family": "Alexander Rowley, Jr. (brother) Edmund Rowley (brother) Ernest Rowley (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/20001.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "84",
+        "bat avg": "8.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "deliveries": "40",
+        "wickets": "2",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1851"
+    }
+}

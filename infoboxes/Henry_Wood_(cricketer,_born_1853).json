@@ -1,0 +1,40 @@
+{
+    "name": "Henry Wood",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "13 August",
+    "testdebutyear": "1888",
+    "lasttestdate": "19 March",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1892",
+    "source": "http://www.espncricinfo.com/england/content/player/22502.html CricInfo",
+    "Test": {
+        "matches": "4",
+        "runs": "204",
+        "bat avg": "68.00",
+        "100s/50s": "1/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/1"
+    },
+    "First-class": {
+        "matches": "316",
+        "runs": "5523",
+        "bat avg": "16.94",
+        "100s/50s": "1/17",
+        "deliveries": "65",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "556/118"
+    },
+    "clubs": {}
+}

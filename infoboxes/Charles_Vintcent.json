@@ -1,0 +1,41 @@
+{
+    "name": "Charles Vintcent",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "12 March",
+    "testdebutyear": "1889",
+    "lasttestdate": "19 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1892",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/47737.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "26",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "369",
+        "wickets": "4",
+        "bowl avg": "48.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/88",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "6",
+        "runs": "119",
+        "bat avg": "11.90",
+        "100s/50s": "0/1",
+        "deliveries": "730",
+        "wickets": "10",
+        "bowl avg": "36.39",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/70",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

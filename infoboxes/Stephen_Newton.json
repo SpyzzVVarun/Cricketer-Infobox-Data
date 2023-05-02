@@ -1,0 +1,41 @@
+{
+    "name": "Stephen Newton",
+    "country": "England",
+    "fullname": "Stephen Cox Newton",
+    "birth_place": "Nailsea, Somerset, England",
+    "death_date": "1916",
+    "death_place": "Ipswich, Suffolk, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "8 May",
+    "debutyear1": "1876",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "England XI",
+    "lastdate1": "23 May",
+    "lastyear1": "1890",
+    "lastfor1": "MCC",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3733/3733.html CricketArchive ",
+    "First-class": {
+        "matches": "33",
+        "runs": "1,137",
+        "bat avg": "20.30",
+        "100s/50s": "0/6",
+        "top score": "86",
+        "deliveries": "252",
+        "wickets": "2",
+        "bowl avg": "92.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/54",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1876",
+        "Somerset": "1876\u20131890",
+        "Middlesex": "1885",
+        "Marylebone Cricket Club (MCC)": "1885\u20131890"
+    },
+    "birth_date": "1853-4-21"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Harry Came",
+    "fullname": "Harry Robert Charles Came",
+    "birth_place": "Basingstoke, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "type1": "First-class",
+    "debutdate1": "20 August",
+    "debutyear1": "2019",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "Surrey",
+    "type2": "List A",
+    "debutdate2": "22 July",
+    "debutyear2": "2021",
+    "debutfor2": ", Derbyshire",
+    "debutagainst2": "Leicestershire",
+    "source": "http://www.espncricinfo.com/england/content/player/1042145.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "440",
+        "bat avg": "23.15",
+        "100s/50s": "0/3",
+        "top score": "78",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "286",
+        "bat avg": "23.83",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "278",
+        "bat avg": "17.37",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Hampshire( 4 )": "2019\u20132020",
+        "Derbyshire( 4 )": "2021\u2013"
+    },
+    "birth_date": "1998-8-27"
+}

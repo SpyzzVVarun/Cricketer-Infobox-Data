@@ -1,0 +1,24 @@
+{
+    "name": "Susanne Jorgensen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Susanne Jorgensen",
+    "role": "Wicket-keeper",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Ireland",
+    "odicap": "5",
+    "lastodidate": "20 July",
+    "lastodiyear": "1989",
+    "lastodiagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/54964.html Cricinfo ",
+    "WODI": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {}
+}

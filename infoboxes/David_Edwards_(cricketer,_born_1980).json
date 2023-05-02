@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "David James Edwards",
+    "birth_place": "Stoke-on-Trent, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12783.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "73.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "2001\u2013present"
+    },
+    "birth_date": "1980-6-6"
+}

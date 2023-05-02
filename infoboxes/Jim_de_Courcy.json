@@ -1,0 +1,35 @@
+{
+    "name": "Jim de Courcy",
+    "full_name": "James Harry de Courcy",
+    "birth_place": "Newcastle, New South Wales",
+    "death_date": "2000",
+    "death_place": "Belmont, New South Wales",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "9 July",
+    "testdebutyear": "1953",
+    "lasttestdate": "15 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1953",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/4932.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "81",
+        "bat avg": "16.19",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "79",
+        "runs": "3,778",
+        "bat avg": "37.03",
+        "100s/50s": "6/23",
+        "top score": "204",
+        "catches/stumpings": "51/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1927-04-18"
+}

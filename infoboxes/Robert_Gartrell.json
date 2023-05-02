@@ -1,0 +1,41 @@
+{
+    "name": "Robert Gartrell",
+    "country": "Australia",
+    "fullname": "Robert Boyd Gartrell",
+    "birth_place": "Middle Swan, Western Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/2/2522/2522.html CricketArchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "484",
+        "bat avg": "30.25",
+        "100s/50s": "1/1",
+        "top score": "104",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1984/85\u20131985/86",
+        "Tasmania": "1986/87"
+    },
+    "birth_date": "1962-3-9"
+}

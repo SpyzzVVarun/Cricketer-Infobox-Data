@@ -1,0 +1,43 @@
+{
+    "name": "Sandeep Gupta",
+    "country": "Kenya",
+    "fullname": "Sandeep Kumar Gupta",
+    "birth_place": "Nairobi, Kenya",
+    "internationalspan": "1996\u20132001",
+    "odidebutdate": "28 September",
+    "odidebutyear": "1996",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "14",
+    "lastodidate": "17 October",
+    "lastodiyear": "2001",
+    "lastodiagainst": "India",
+    "batting": "Right-handed",
+    "bowling": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/kenya/content/player/24694.html ESPNcricinfo  ",
+    "ODI": {
+        "matches": "10",
+        "runs": "121",
+        "bat avg": "13.44",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "125",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1967-4-7"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Alfred Cochrane",
+    "country": "England",
+    "fullname": "Alfred Henry John Cochrane",
+    "birth_place": "Moka, Mauritius",
+    "death_date": "df=y",
+    "death_place": "Batheaston, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "family": "Charles Cochrane",
+    "type1": "First-class",
+    "debutdate1": "4 August",
+    "debutyear1": "1884",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "2 July",
+    "lastyear1": "1888",
+    "lastfor1": "Oxford University",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/28/28607/28607.html ",
+    "First-class": {
+        "matches": "28",
+        "runs": "347",
+        "bat avg": "10.51",
+        "100s/50s": "0/2",
+        "deliveries": "4,977",
+        "wickets": "103",
+        "bowl avg": "18.99",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/66",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1884\u20131886",
+        "Oxford University": "1885\u20131888"
+    },
+    "birth_date": "1865-1-26"
+}

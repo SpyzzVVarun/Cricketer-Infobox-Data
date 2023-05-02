@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "James Michael Hands",
+    "birth_place": "Truro, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/14353.html Cricinfo ",
+    "List A": {
+        "matches": "8",
+        "runs": "187",
+        "bat avg": "23.37",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "deliveries": "378",
+        "wickets": "10",
+        "bowl avg": "24.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "1996\u20132007"
+    },
+    "birth_date": "1978-10-9"
+}

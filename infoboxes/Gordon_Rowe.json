@@ -1,0 +1,48 @@
+{
+    "name": "Gordon Rowe",
+    "fullname": "Charles Gordon Rowe",
+    "birth_place": "Glasgow, Scotland",
+    "death_date": "1995",
+    "death_place": "Palmerston North, New Zealand",
+    "onetest": "true",
+    "testcap": "38",
+    "country": "New Zealand",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "29 March",
+    "testdebutyear": "1946",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38256.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "11",
+        "runs": "380",
+        "bat avg": "20.00",
+        "100s/50s": "0/2",
+        "top score": "72",
+        "deliveries": "249",
+        "wickets": "3",
+        "bowl avg": "29.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/36",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1944/45\u20131945/46",
+        "Central Districts": "1952/53"
+    },
+    "birth_date": "1915-6-30"
+}

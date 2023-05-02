@@ -1,0 +1,43 @@
+{
+    "name": "Peter Aho",
+    "country": "Nigeria",
+    "fullname": "Peter Aho",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "T20Idebutdate": "11 September",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Kenya",
+    "T20Icap": "19",
+    "lastT20Idate": "9 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Cameroon",
+    "source": "http://www.espncricinfo.com/ci/content/player/1155526.html Cricinfo ",
+    "T20I": {
+        "matches": "17",
+        "runs": "169",
+        "bat avg": "15.36",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "341",
+        "wickets": "22",
+        "bowl avg": "15.77",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/5",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "169",
+        "bat avg": "15.36",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "341",
+        "wickets": "22",
+        "bowl avg": "15.77",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/5",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2003-3-2"
+}

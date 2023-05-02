@@ -1,0 +1,54 @@
+{
+    "country": "Namibia",
+    "fullname": "Wessel Myburgh",
+    "birth_place": "Windhoek, Khomas Region, Namibia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/897/897950/897950.html CricketArchive subscription required ",
+    "FC": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "1.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "66",
+        "bat avg": "16.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "33",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2009/10&ndash;"
+    },
+    "birth_date": "1990-5-31"
+}

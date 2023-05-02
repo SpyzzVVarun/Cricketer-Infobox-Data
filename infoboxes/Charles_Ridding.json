@@ -1,0 +1,33 @@
+{
+    "name": "Charles Ridding",
+    "country": "England",
+    "fullname": "Charles Henry Ridding",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "1905",
+    "death_place": "Funtley, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Occasional wicketkeeper",
+    "family": "William Ridding (brother), Arthur Ridding (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/19404.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "492",
+        "bat avg": "11.71",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "33",
+        "deliveries": "?",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/?",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1864",
+        "Hampshire (pre-county club)": "1861",
+        "Marylebone Cricket Club": "1852",
+        "Oxford University": "1845&ndash;1849"
+    },
+    "birth_date": "1825-11-26"
+}

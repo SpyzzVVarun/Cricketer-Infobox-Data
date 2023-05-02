@@ -1,0 +1,28 @@
+{
+    "name": "Harry Mortlock",
+    "fullname": "Harry Clive Mortlock",
+    "birth_place": "Hackney, London, England",
+    "death_date": "1963",
+    "death_place": "Brentwood, Essex, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/17112.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "32",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "582",
+        "wickets": "7",
+        "bowl avg": "54.28",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/104",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Essex": "1912\u20131921"
+    },
+    "birth_date": "1892-10-13"
+}

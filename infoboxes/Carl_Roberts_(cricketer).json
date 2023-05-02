@@ -1,0 +1,27 @@
+{
+    "name": "Carl Roberts",
+    "country": "England",
+    "fullname": "Carl Michael Roberts",
+    "birth_place": "Swansea, West Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/20034.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "26",
+        "wickets": "1",
+        "bowl avg": "22.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/22",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wales Minor Counties": "2004&ndash;2006"
+    },
+    "birth_date": "1983-6-17"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Tyler John Buchan",
+    "birth_place": "Aberdeen, Aberdeenshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/player/232432.html Cricinfo ",
+    "Twenty20": {
+        "matches": "5",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "49.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/17",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "2011/12"
+    },
+    "birth_date": "1985-9-12"
+}

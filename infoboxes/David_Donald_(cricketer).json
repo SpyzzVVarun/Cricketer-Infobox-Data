@@ -1,0 +1,27 @@
+{
+    "name": "David Donald",
+    "fullname": "David Lindsay Donald",
+    "birth_place": "Palmerston North, New Zealand",
+    "death_date": "2016",
+    "death_place": "Tauranga, New Zealand",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36901.html Cricinfo",
+    "First-class": {
+        "matches": "21",
+        "runs": "930",
+        "bat avg": "23.25",
+        "100s/50s": "1/6",
+        "top score": "106",
+        "deliveries": "2",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/0"
+    },
+    "clubs": {
+        "Northern Districts": "1957-58 to 1960-61"
+    },
+    "birth_date": "1933-7-20"
+}

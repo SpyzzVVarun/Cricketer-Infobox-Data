@@ -1,0 +1,37 @@
+{
+    "name": "Leonard Jackson",
+    "country": "England",
+    "birth_place": "Norton Woodseats, England",
+    "death_date": "1887",
+    "death_place": "Sheffield, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "2 September",
+    "debutyear1": "1875",
+    "debutfor1": "North",
+    "debutagainst1": "South",
+    "lastdate1": "18 May",
+    "lastyear1": "1882",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "MCC",
+    "source": "https://cricketarchive.com/Archive/Players/30/30566/30566.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "109",
+        "bat avg": "9.90",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "459",
+        "wickets": "10",
+        "bowl avg": "19.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/9",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1877\u20131882"
+    },
+    "birth_date": "1848-4-8"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Josh Brown",
+    "birth_place": "Brisbane",
+    "nickname": "Cecil, Brownie, Bison",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "debutdate1": "15th December",
+    "debutyear1": "2022",
+    "debutfor1": "Brisbane Heat",
+    "debutagainst1": "Melbourne Renegades",
+    "source": "https://www.espncricinfo.com/player/josh-brown-1223047 Cricinfo",
+    "T20": {
+        "matches": "13",
+        "runs": "233",
+        "bat avg": "17.92",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Brisbane Heat( 98 )": "2022\u2013"
+    },
+    "birth_date": "1993-12-26"
+}

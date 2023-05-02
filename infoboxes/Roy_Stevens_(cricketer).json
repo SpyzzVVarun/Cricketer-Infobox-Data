@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Roy Gilbert Stevens",
+    "birth_place": "Walmer, Kent, England",
+    "death_date": "1992",
+    "death_place": "Ipswich, Suffolk, England",
+    "source": "http://www.espncricinfo.com/ci/content/player/21030.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "23.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/23",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Combined Services": "1962",
+        "Devon": "1962"
+    },
+    "birth_date": "1933-2-6"
+}

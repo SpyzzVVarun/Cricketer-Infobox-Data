@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Westrow Hulse",
+    "birth_place": "Breamore, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Braklaagte, Orange Free State,, South Africa",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15035.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "22.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1885"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "David Frank Victor Johns",
+    "birth_place": "Paddington, London, England",
+    "death_date": "1979",
+    "death_place": "High Wycombe, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/england/content/player/15698.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "102",
+        "wickets": "1",
+        "bowl avg": "55.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/55",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "19.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "19",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1953",
+        "Buckinghamshire": "1950&ndash;1966"
+    },
+    "birth_date": "1921-6-27"
+}

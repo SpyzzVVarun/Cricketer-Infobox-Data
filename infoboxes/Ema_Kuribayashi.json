@@ -1,0 +1,43 @@
+{
+    "name": "Ema Kuribayashi",
+    "female": "true",
+    "country": "Japan",
+    "fullname": "Ema Kuribayashi",
+    "birth_place": "Japan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Wicket-keeper",
+    "odidebutdate": "21 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "8",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "West Indies",
+    "source": "http://espncricinfo.com/ci/content/player/55217.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "5",
+        "runs": "27",
+        "bat avg": "5.40",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {},
+    "birth_date": "1983-10-6",
+    "medaltemplates": [
+        "Country: {{JAP}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2010 Guangzhou Team"
+    ]
+}

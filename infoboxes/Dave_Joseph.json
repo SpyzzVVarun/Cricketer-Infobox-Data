@@ -1,0 +1,31 @@
+{
+    "name": "David Joseph",
+    "birth_place": "Antigua",
+    "batting": "Right-handed",
+    "country": "West Indies",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "5 March",
+    "testdebutyear": "1999",
+    "lasttestdate": "3 April",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1999",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/52204.html CricInfo",
+    "Test": {
+        "matches": "4",
+        "runs": "141",
+        "bat avg": "20.14",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "10/\u2013"
+    },
+    "First-class": {
+        "matches": "58",
+        "runs": "2,587",
+        "bat avg": "30.08",
+        "100s/50s": "6/15",
+        "top score": "131",
+        "catches/stumpings": "63/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1969-11-15"
+}

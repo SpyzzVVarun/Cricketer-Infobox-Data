@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Norman MacLachlan",
+    "birth_place": "Darlington, County Durham, England",
+    "death_date": "df=yes",
+    "death_place": "Torquay, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17258.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "252",
+        "bat avg": "8.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "deliveries": "1,552",
+        "wickets": "38",
+        "bowl avg": "17.76",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1879&ndash;1882"
+    }
+}

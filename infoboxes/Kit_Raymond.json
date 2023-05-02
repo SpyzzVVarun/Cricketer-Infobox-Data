@@ -1,0 +1,32 @@
+{
+    "name": "Kit Raymond",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Kit Arthurine Raymond",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "role": "Wicketkeeper",
+    "testdebutdate": "18 January",
+    "testdebutyear": "1957",
+    "testdebutagainst": "New Zealand",
+    "testcap": "40",
+    "lasttestdate": "17 March",
+    "lasttestyear": "1961",
+    "lasttestagainst": "New Zealand",
+    "source": "birth_place=Winton, Queensland",
+    "WTest": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "3.66",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {}
+}

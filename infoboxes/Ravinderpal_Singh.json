@@ -1,0 +1,30 @@
+{
+    "name": "Ravinderpal Singh",
+    "country": "Canada",
+    "fullname": "Ravinderpal Singh",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "odidebutdate": "27 March",
+    "odidebutyear": "2023",
+    "odidebutagainst": "Jersey",
+    "odicap": "90",
+    "lastodidate": "29 March",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United States",
+    "T20Idebutdate": "18 August",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Cayman Islands",
+    "T20Icap": "46",
+    "lastT20Idate": "21 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Oman",
+    "source": "http://www.espncricinfo.com/ci/content/player/1159653.html Cricinfo ",
+    "clubs": {
+        "Vancouver Knights": "2018",
+        "Toronto Nationals": "2019",
+        "Swift Gallopers": "2019",
+        "Colombo Kings": "2020",
+        "Bangla Tigers": "2021"
+    },
+    "birth_date": "1988-10-14"
+}

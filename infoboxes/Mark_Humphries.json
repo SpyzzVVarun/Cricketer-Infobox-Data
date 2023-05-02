@@ -1,0 +1,31 @@
+{
+    "name": "Mark Humphries",
+    "country": "England",
+    "fullname": "Mark Ian Humphries",
+    "nickname": "Humpty",
+    "birth_place": "Highley, Shropshire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "family": "David Humphries (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/14424.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "26",
+        "runs": "307",
+        "bat avg": "19.18",
+        "100s/50s": "0/0",
+        "catches/stumpings": "24/2"
+    },
+    "clubs": {
+        "Staffordshire": "1990\u20132003",
+        "Minor Counties": "1992\u20131995"
+    },
+    "birth_date": "1965-10-4"
+}

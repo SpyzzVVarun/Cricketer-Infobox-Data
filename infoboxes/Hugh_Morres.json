@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Hugh Frederick Michael Morres",
+    "birth_place": "Wokingham, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Swanage, Dorset, England",
+    "family": "Archibald Morres (son), Thomas Morres (uncle), Elliot Morres (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17685.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "15",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1897&ndash;1923",
+        "Oxford University": "1898&ndash;1899",
+        "Dorset": "1903&ndash;1905"
+    }
+}

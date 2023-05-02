@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Jonathan Rashleigh",
+    "birth_place": "Wilsford, Wiltshire, England",
+    "death_date": "1905",
+    "death_place": "Menabilly, Cornwall, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19940.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "42",
+        "bat avg": "5.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "20",
+        "deliveries": "?",
+        "wickets": "2",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/?",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1841&ndash;1842"
+    }
+}

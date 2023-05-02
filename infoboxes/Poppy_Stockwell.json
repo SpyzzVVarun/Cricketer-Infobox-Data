@@ -1,0 +1,21 @@
+{
+    "name": "Poppy Stockwell",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Poppy J Stockwell",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2510/2510026/2510026.html CricketArchive",
+    "WLA": {
+        "matches": "5",
+        "runs": "37",
+        "bat avg": "12.33",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Western Australia": "2021/22\u2013present"
+    },
+    "birth_date": "2003-10-24"
+}

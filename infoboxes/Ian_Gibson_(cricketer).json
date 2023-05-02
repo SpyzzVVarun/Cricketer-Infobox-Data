@@ -1,0 +1,38 @@
+{
+    "name": "Ian Gibson",
+    "country": "England",
+    "birth_place": "Glossop, Derbyshire, England",
+    "death_date": "1963",
+    "death_place": "Bowden, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break, Leg break, googly",
+    "type1": "FC",
+    "debutdate1": "30 April",
+    "debutyear1": "1955",
+    "debutfor1": "Oxford Univ.",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "30 August",
+    "lastyear1": "1961",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Hampshire",
+    "source": "https://cricketarchive.com/Archive/Players/29/29631/29631.html CricketArchive ",
+    "First-class": {
+        "matches": "51",
+        "runs": "1,697",
+        "bat avg": "19.96",
+        "100s/50s": "1/10",
+        "deliveries": "3,299",
+        "wickets": "51",
+        "bowl avg": "38.41",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/29",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1956\u20131958",
+        "Derbyshire": "1957\u20131961",
+        "MCC": "1961"
+    },
+    "birth_date": "1936-8-15"
+}

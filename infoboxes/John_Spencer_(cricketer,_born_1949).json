@@ -1,0 +1,35 @@
+{
+    "name": "John Spencer",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://hcs.cricketarchive.co.uk/Archive/Players/32/32957/32957.html CricketArchive",
+    "First-class": {
+        "matches": "215",
+        "runs": "2,787",
+        "bat avg": "13.52",
+        "100s/50s": "0/6",
+        "top score": "79",
+        "deliveries": "34,322",
+        "wickets": "554",
+        "bowl avg": "26.39",
+        "fivefor": "21",
+        "tenfor": "1",
+        "best bowling": "6/19",
+        "catches/stumpings": "75/\u2013"
+    },
+    "List A": {
+        "matches": "192",
+        "runs": "454",
+        "bat avg": "8.90",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "9262",
+        "wickets": "228",
+        "bowl avg": "23.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/16",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Charles Cecil Naumann",
+    "birth_place": "Croydon, Surrey, England",
+    "death_date": "1946",
+    "death_place": "St Pancras, London, England",
+    "family": "Frank Naumann (brother), John Naumann (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/18070.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1919"
+    }
+}

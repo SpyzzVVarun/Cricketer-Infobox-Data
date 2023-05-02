@@ -1,0 +1,28 @@
+{
+    "country": "Australia",
+    "fullname": "Thomas Furley Morres",
+    "birth_place": "Wokingham, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "East Melbourne, Victoria, Australia",
+    "family": "Elliot Morres (brother), Hugh Morres (nephew), Archibald Morres (great-nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/6814.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "87",
+        "bat avg": "7.90",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "deliveries": "185",
+        "wickets": "3",
+        "bowl avg": "17.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/15",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1855/56&ndash;1859/60"
+    }
+}

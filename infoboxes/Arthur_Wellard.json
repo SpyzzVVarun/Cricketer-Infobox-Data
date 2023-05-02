@@ -1,0 +1,51 @@
+{
+    "name": "Arthur Wellard",
+    "country": "England",
+    "fullname": "Arthur William Wellard",
+    "birth_place": "Southfleet, Kent, England",
+    "death_date": "1980",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "testdebutdate": "24 July",
+    "testdebutyear": "1937",
+    "testdebutagainst": "New Zealand",
+    "testcap": "296",
+    "lasttestdate": "24 June",
+    "lasttestyear": "1938",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/700/Test_Matches.html CricketArchive ",
+    "Test": {
+        "matches": "2",
+        "runs": "47",
+        "bat avg": "11.75",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "456",
+        "wickets": "7",
+        "bowl avg": "33.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/81",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "417",
+        "runs": "12485",
+        "bat avg": "19.72",
+        "100s/50s": "2/59",
+        "top score": "112",
+        "deliveries": "89738",
+        "wickets": "1614",
+        "bowl avg": "24.35",
+        "fivefor": "108",
+        "tenfor": "24",
+        "best bowling": "8/52",
+        "catches/stumpings": "377/\u2013"
+    },
+    "clubs": {
+        "Cr team Somerset": "1927\u20131950"
+    },
+    "birth_date": "1902-04-08"
+}

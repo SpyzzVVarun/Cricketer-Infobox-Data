@@ -1,0 +1,38 @@
+{
+    "name": "Walter Shuldham",
+    "country": "England",
+    "fullname": "Walter Frank Quantock Shuldham",
+    "birth_place": "Stoke-sub-Hamdon, Somerset, England",
+    "death_date": "1971",
+    "death_place": "Stoke-sub-Hamdon, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "27 July",
+    "debutyear1": "1914",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "27 November",
+    "lastyear1": "1926",
+    "lastfor1": "Rajputana and Central India",
+    "lastagainst1": "Marylebone Cricket Club (MCC)",
+    "source": "https://cricketarchive.com/Archive/Players/3/3814/3814.html CricketArchive ",
+    "First-class": {
+        "matches": "8",
+        "runs": "126",
+        "bat avg": "10.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1914&ndash;24"
+    },
+    "birth_date": "1892-6-17"
+}

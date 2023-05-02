@@ -1,0 +1,27 @@
+{
+    "name": "William Salmon",
+    "fullname": "William Joseph Salmon",
+    "birth_place": "Sydney, Australia",
+    "death_date": "df=yes",
+    "death_place": "Palmerston North, New Zealand",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38444.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "235",
+        "bat avg": "11.19",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/3"
+    },
+    "clubs": {
+        "Wellington": "1873-74 to 1884-85, 1886-87 to 1889-90",
+        "Hawke's Bay": "1885-86",
+        "Taranaki": "1891-92"
+    },
+    "birth_date": "1846-5-29"
+}

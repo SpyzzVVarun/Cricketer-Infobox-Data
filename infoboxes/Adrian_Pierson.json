@@ -1,0 +1,42 @@
+{
+    "name": "Adrian Pierson",
+    "fullname": "Adrian Roger Kirshaw Pierson",
+    "birth_place": "Enfield, Greater London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/4/4587/4587.html CricketArchive ",
+    "First-class": {
+        "matches": "180",
+        "runs": "2,651",
+        "bat avg": "17.21",
+        "100s/50s": "1/5",
+        "deliveries": "27,324",
+        "wickets": "363",
+        "bowl avg": "37.98",
+        "fivefor": "14",
+        "tenfor": "0",
+        "best bowling": "8/42",
+        "catches/stumpings": "87/\u2013"
+    },
+    "List A": {
+        "matches": "119",
+        "runs": "385",
+        "bat avg": "10.13",
+        "100s/50s": "0/0",
+        "deliveries": "4,887",
+        "wickets": "100",
+        "bowl avg": "35.70",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/36",
+        "catches/stumpings": "45/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1985\u20131991",
+        "Cambridgeshire": "1992",
+        "Leicestershire": "1993\u20131997",
+        "Somerset": "1998\u20132000",
+        "Derbyshire": "2001"
+    },
+    "birth_date": "1963-7-21"
+}

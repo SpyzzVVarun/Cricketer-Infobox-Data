@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Andrew Neville Campbell",
+    "birth_place": "Chesham Bois, Buckinghamshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/10988.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "530",
+        "bat avg": "20.38",
+        "100s/50s": "\u2013/4",
+        "top score": "73",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1970\u20131972",
+        "Oxford University": "1968\u20131970"
+    },
+    "birth_date": "1949-6-17"
+}

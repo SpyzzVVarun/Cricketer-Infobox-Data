@@ -1,0 +1,22 @@
+{
+    "name": "Arthur Thomas",
+    "country": "England",
+    "fullname": "Arthur Emlyn Thomas",
+    "birth_place": "Briton Ferry, Glamorgan, Wales",
+    "death_date": "1953",
+    "death_place": "Briton Ferry, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/21504.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1913 & 1925"
+    },
+    "birth_date": "1895-5-7"
+}

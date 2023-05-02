@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "James Pashley Burbeary",
+    "birth_place": "Tickhill, West Riding of Yorkshire, England",
+    "death_date": "21 July 1866 (aged 44) Deaths. ''Sheffield Telegraph''. 23 July 1866. p. 3",
+    "death_place": "Sheffield, West Riding of Yorkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10546.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "42",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "20",
+        "wickets": "1",
+        "bowl avg": "11.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

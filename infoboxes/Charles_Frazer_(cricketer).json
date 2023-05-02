@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Charles Ewan Frazer",
+    "birth_place": "Woollahra, New South Wales, Australia",
+    "death_date": "df=yes",
+    "death_place": "Tenterden, Kent, England",
+    "family": "John Frazer (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/australia/content/player/13195.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "101",
+        "bat avg": "12.62",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "42",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1927&ndash;1928"
+    }
+}

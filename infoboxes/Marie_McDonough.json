@@ -1,0 +1,22 @@
+{
+    "name": "Marie McDonough",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "testdebutdate": "21 March",
+    "testdebutyear": "1958",
+    "onetest": "true",
+    "testdebutagainst": "England",
+    "testcap": "50",
+    "source": "http://www.espncricinfo.com/ci/content/player/53542.html CricInfo ",
+    "WTest": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

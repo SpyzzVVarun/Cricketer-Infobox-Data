@@ -1,0 +1,33 @@
+{
+    "name": "Stanley Foster",
+    "honorific_suffix": "country=NZL",
+    "country": "New Zealand",
+    "fullname": "Philip Stanley Foster",
+    "birth_place": "Timaru, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Christchurch, New Zealand",
+    "heightft": "5",
+    "heightinch": "8.5",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://cricketarchive.com/Archive/Players/21/21892/21892.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "51",
+        "bat avg": "12.75",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1909-10",
+        "Canterbury": "1918-19 to 1919-20"
+    },
+    "birth_date": "1885-4-4"
+}

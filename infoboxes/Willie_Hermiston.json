@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "William Hermiston",
+    "birth_place": "Makerstoun, Roxburghshire, Scotland",
+    "death_date": "1987",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/william-hermiston-25233 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "8.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "192",
+        "wickets": "2",
+        "bowl avg": "42.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/21",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1949"
+    }
+}

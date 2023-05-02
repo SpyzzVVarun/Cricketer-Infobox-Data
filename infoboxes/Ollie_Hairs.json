@@ -1,0 +1,57 @@
+{
+    "name": "Ollie Hairs",
+    "country": "Scotland",
+    "fullname": "Oliver James Hairs",
+    "birth_place": "Redhill, Surrey, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "odidebutdate": "1 July",
+    "odidebutyear": "2010",
+    "odidebutagainst": "Netherlands",
+    "odicap": "44",
+    "lastodidate": "9 July",
+    "lastodiyear": "2010",
+    "lastodiagainst": "Afghanistan",
+    "T20Idebutdate": "16 September",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "50",
+    "lastT20Idate": "29 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/scotland/content/player/414973.html Cricinfo ",
+    "ODI": {
+        "matches": "5",
+        "runs": "68",
+        "bat avg": "13.60",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20I": {
+        "matches": "12",
+        "runs": "133",
+        "bat avg": "13.30",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "159",
+        "bat avg": "14.45",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "162",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1991-4-14"
+}

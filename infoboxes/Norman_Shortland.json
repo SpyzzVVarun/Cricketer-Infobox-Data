@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Norman Arthur Shortland",
+    "birth_place": "Coventry, Warwickshire, England",
+    "death_date": "1973",
+    "death_place": "Finham, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20747.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "487",
+        "bat avg": "13.91",
+        "100s/50s": "&ndash;/2",
+        "top score": "70",
+        "deliveries": "102",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1938&ndash;1950"
+    }
+}

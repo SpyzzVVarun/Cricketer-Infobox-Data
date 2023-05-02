@@ -1,0 +1,72 @@
+{
+    "name": "Tom Graveney",
+    "honorific_suffix": "OBE",
+    "country": "England",
+    "fullname": "Thomas William Graveney",
+    "nickname": "Long Tom",
+    "birth_place": "Riding Mill, Hexham, Northumberland, England",
+    "death_date": "df=yes",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batsman",
+    "family": [
+        "Ken Graveney (brother)",
+        "David Graveney (nephew)"
+    ],
+    "testdebutdate": "5 July",
+    "testdebutyear": "1951",
+    "testdebutagainst": "South Africa",
+    "testcap": "358",
+    "lasttestdate": "12 June",
+    "lasttestyear": "1969",
+    "lasttestagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/0/895/895.html CricketArchive ",
+    "Test": {
+        "matches": "79",
+        "runs": "4,882",
+        "bat avg": "44.38",
+        "100s/50s": "11/20",
+        "top score": "258",
+        "deliveries": "260",
+        "wickets": "1",
+        "bowl avg": "167.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/34",
+        "catches/stumpings": "80/\u2013"
+    },
+    "First-class": {
+        "matches": "732",
+        "runs": "47,793",
+        "bat avg": "44.91",
+        "100s/50s": "122/233",
+        "top score": "258",
+        "deliveries": "5,479",
+        "wickets": "80",
+        "bowl avg": "37.96",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/28",
+        "catches/stumpings": "553/1"
+    },
+    "List A": {
+        "matches": "45",
+        "runs": "1,147",
+        "bat avg": "31.86",
+        "100s/50s": "0/6",
+        "top score": "98",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1948\u20131960",
+        "Worcestershire": "1961\u20131970",
+        "Queensland": "1970\u20131972"
+    },
+    "birth_date": "1927-6-16"
+}

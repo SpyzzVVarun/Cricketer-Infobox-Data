@@ -1,0 +1,55 @@
+{
+    "name": "Zak Evans",
+    "nickname": "Cherry",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1088612.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2014",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "186",
+        "wickets": "1",
+        "bowl avg": "105.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "50.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/68",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "168",
+        "wickets": "13",
+        "bowl avg": "21.61",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/33",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2018/2019&ndash;",
+        "Melbourne Renegades": "2018/2019&ndash;"
+    },
+    "birth_date": "2000-3-26"
+}

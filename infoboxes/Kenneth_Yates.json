@@ -1,0 +1,40 @@
+{
+    "country": "Namibia",
+    "fullname": "Kenneth Clement Yates",
+    "birth_place": "Keetmanshoop, South-West Africa",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/23554.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cambridgeshire": "1963&ndash;1964",
+        "Cambridge University": "1961"
+    },
+    "birth_date": "1938-8-4"
+}

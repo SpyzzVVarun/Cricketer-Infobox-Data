@@ -1,0 +1,42 @@
+{
+    "name": "David Ogilvie",
+    "fullname": "Alan David Ogilvie",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "India",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1977",
+    "lasttestdate": "28 April",
+    "lasttestyear": "1978",
+    "lasttestagainst": "West Indies",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6996.html Cricinfo",
+    "Tests": {
+        "matches": "5",
+        "runs": "178",
+        "bat avg": "17.80",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "51",
+        "runs": "3,006",
+        "bat avg": "34.15",
+        "100s/50s": "8/10",
+        "top score": "194",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "44/\u2013"
+    },
+    "clubs": {}
+}

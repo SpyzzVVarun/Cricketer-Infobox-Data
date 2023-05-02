@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Andrew John Churchill",
+    "birth_place": "Hornchurch, London, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/10728.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "19",
+        "bat avg": "4.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "210",
+        "wickets": "5",
+        "bowl avg": "29.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Essex Cricket Board": "1999-2001"
+    },
+    "birth_date": "1970-11-27"
+}

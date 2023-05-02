@@ -1,0 +1,45 @@
+{
+    "name": "Frank King",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "West Indies",
+    "testdebutagainst": "India",
+    "testdebutdate": "21 January",
+    "testdebutyear": "1953",
+    "testcap": "75",
+    "lasttestdate": "3 March",
+    "lasttestagainst": "New Zealand",
+    "lasttestyear": "1956",
+    "source": "http://www.espncricinfo.com/westindies/content/player/52291.html CricInfo",
+    "Test": {
+        "matches": "14",
+        "runs": "116",
+        "bat avg": "8.28",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "2,869",
+        "wickets": "29",
+        "bowl avg": "39.96",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/74",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "31",
+        "runs": "237",
+        "bat avg": "9.11",
+        "100s/50s": "0/0",
+        "deliveries": "5,681",
+        "wickets": "90",
+        "bowl avg": "28.75",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1951/52\u20131956/57",
+        "Trinidad": "1950/51"
+    }
+}

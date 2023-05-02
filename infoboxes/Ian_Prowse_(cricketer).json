@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Ian Prowse",
+    "birth_place": "Lisburn, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium, Right-arm off Right-arm medium, Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/857661.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "186",
+        "wickets": "2",
+        "bowl avg": "60.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Loughborough MCCU": "2015"
+    },
+    "birth_date": "1991-1-31"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Jacqui Naidoo",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Jacqui Naidoo",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/2510/2510028/2510028.html CricketArchive",
+    "WLA": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "102.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/17",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2021/22"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Frederick Heath",
+    "country": "England",
+    "fullname": "Frederick Rhead Heath",
+    "birth_place": "Swadlincote, Derbyshire, England",
+    "death_date": "1967",
+    "death_place": "Seaford, East Sussex, England",
+    "family": "John Heath",
+    "type1": "First-class",
+    "debutdate1": "5 July",
+    "debutyear1": "1924",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "23 May",
+    "lastyear1": "1925",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Somerset",
+    "source": "https://cricketarchive.com/Archive/Players/30/30128/30128.html ",
+    "First-class": {
+        "matches": "4",
+        "runs": "72",
+        "bat avg": "14.40",
+        "100s/50s": "/",
+        "top score": "17",
+        "deliveries": "71",
+        "wickets": "3",
+        "bowl avg": "15,66",
+        "best bowling": "2\u20134",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "Derbyshire": "1924\u20131925"
+    },
+    "birth_date": "1894-10-30"
+}

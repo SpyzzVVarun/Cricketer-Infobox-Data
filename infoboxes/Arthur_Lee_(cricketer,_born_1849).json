@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Arthur George Lee",
+    "birth_place": "Chelsea, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Paddington, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/16515.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "22",
+        "bat avg": "4.40",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1868&ndash;1871"
+    }
+}

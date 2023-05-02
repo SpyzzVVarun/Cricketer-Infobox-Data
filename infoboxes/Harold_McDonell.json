@@ -1,0 +1,32 @@
+{
+    "name": "Harold McDonell",
+    "country": "England",
+    "fullname": "Harold Clark McDonell",
+    "birth_place": "Wimbledon, Surrey, England",
+    "death_date": "1965",
+    "death_place": "Onich, Scottish Highlands, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/16965.html Cricinfo ",
+    "First-class": {
+        "matches": "129",
+        "runs": "3,005",
+        "bat avg": "15.73",
+        "100s/50s": "&ndash;/9",
+        "top score": "78",
+        "deliveries": "16,006",
+        "wickets": "443",
+        "bowl avg": "21.91",
+        "fivefor": "22",
+        "tenfor": "3",
+        "best bowling": "8/83",
+        "catches/stumpings": "124/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1908&ndash;1921",
+        "Marylebone Cricket Club": "1905",
+        "Cambridge University": "1902&ndash;1905",
+        "Surrey": "1901 & 1903&ndash;1904"
+    },
+    "birth_date": "1882-9-19"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Richard Benstead",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "df=yes",
+    "death_place": "Solihull, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9701.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "470",
+        "wickets": "11",
+        "bowl avg": "23.54",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/37",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1920&ndash;1921",
+        "Cambridgeshire": "1921&ndash;1923"
+    }
+}

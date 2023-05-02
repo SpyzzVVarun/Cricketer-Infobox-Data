@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Thomas Latham",
+    "birth_place": "St Pancras, Middlesex, England",
+    "death_date": "1926",
+    "death_place": "West Folkestone, Kent, England",
+    "family": "Geoffrey Latham (son)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/16470.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "293",
+        "bat avg": "18.31",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1873&ndash;1874",
+        "Marylebone Cricket Club": "1874"
+    }
+}

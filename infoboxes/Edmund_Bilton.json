@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Edmund John Bilton",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1916",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/9752.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "25",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1866"
+    }
+}

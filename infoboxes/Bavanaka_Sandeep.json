@@ -1,0 +1,52 @@
+{
+    "name": "Bavanaka Sandeep",
+    "fullname": "Bavanaka Parameswar Sandeep",
+    "birth_place": "Hyderabad, India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/427484.html Cricinfo ",
+    "FC": {
+        "matches": "58",
+        "runs": "3,631",
+        "bat avg": "44.82",
+        "100s/50s": "7/21",
+        "deliveries": "1,487",
+        "wickets": "12",
+        "bowl avg": "72.08",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/57",
+        "catches/stumpings": "41/\u2013"
+    },
+    "LA": {
+        "matches": "48",
+        "runs": "1,343",
+        "bat avg": "32.75",
+        "100s/50s": "0/8",
+        "top score": "96",
+        "deliveries": "783",
+        "wickets": "18",
+        "bowl avg": "32.88",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/26",
+        "catches/stumpings": "28/\u2013"
+    },
+    "T20": {
+        "matches": "38",
+        "runs": "734",
+        "bat avg": "28.23",
+        "100s/50s": "0/2",
+        "deliveries": "321",
+        "wickets": "7",
+        "bowl avg": "54.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "2010-present"
+    },
+    "birth_date": "1992-4-25"
+}

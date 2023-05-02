@@ -1,0 +1,62 @@
+{
+    "name": "Daniel Morgan",
+    "country": "Bermuda",
+    "fullname": "Daniel Wayne Owen Morgan",
+    "birth_place": "Chelmsford, Essex, England",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "odidebutdate": "17 May",
+    "odidebutyear": "2006",
+    "odidebutagainst": "Canada",
+    "odicap": "5",
+    "lastodidate": "18 May",
+    "lastodiyear": "2006",
+    "lastodiagainst": "Zimbabwe",
+    "source": "http://content-aus.cricinfo.com/australia/content/player/217522.html Cricinfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "0",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "0",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "0",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Bermuda": "2005&ndash;2006"
+    },
+    "birth_date": "1974-2-13"
+}

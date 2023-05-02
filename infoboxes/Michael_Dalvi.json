@@ -1,0 +1,41 @@
+{
+    "name": "Michael Dalvi",
+    "fullname": "Michael Dalvi",
+    "birth_place": "Bombay, Maharashtra, India",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/38/38611/38611.html Cricket Archive ",
+    "FC": {
+        "matches": "88",
+        "runs": "4635",
+        "bat avg": "35.65",
+        "100s/50s": "12/17",
+        "top score": "179",
+        "deliveries": "150",
+        "wickets": "2",
+        "bowl avg": "40.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/2",
+        "catches/stumpings": "45/0"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "92",
+        "bat avg": "18.40",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Delhi": "1966-67",
+        "Tamil Nadu": "1967-68 to 1976-77",
+        "Bengal": "1977-78 to 1981-82"
+    },
+    "birth_date": "1945-5-18"
+}

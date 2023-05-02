@@ -1,0 +1,27 @@
+{
+    "country": "Australia",
+    "fullname": "Walter Ferguson Crawford",
+    "birth_place": "Malvern, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Churt, Surrey, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11415.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "4.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "210",
+        "wickets": "3",
+        "bowl avg": "45.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/43",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1919"
+    }
+}

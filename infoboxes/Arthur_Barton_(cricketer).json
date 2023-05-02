@@ -1,0 +1,36 @@
+{
+    "name": "Arthur Barton",
+    "country": "England",
+    "birth_place": "Ilkeston, Derbyshire, England",
+    "death_date": "1949",
+    "death_place": "Ealing, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "15 July",
+    "debutyear1": "1901",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "22 July",
+    "lastyear1": "1901",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Players/27/27730/27730.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "24",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "84",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1901"
+    },
+    "birth_date": "1874-9-30"
+}

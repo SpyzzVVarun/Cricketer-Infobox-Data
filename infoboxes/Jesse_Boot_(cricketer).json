@@ -1,0 +1,28 @@
+{
+    "name": "Jesse Boot",
+    "country": "England",
+    "fullname": "Jesse Boot",
+    "birth_place": "South Normanton, England",
+    "death_date": "1940",
+    "death_place": "Chesterfield, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "8 August",
+    "debutyear1": "1895",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/27/27998/27998.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1895"
+    },
+    "birth_date": "1860-3-18"
+}

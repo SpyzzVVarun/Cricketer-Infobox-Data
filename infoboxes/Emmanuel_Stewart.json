@@ -1,0 +1,48 @@
+{
+    "name": "Emmanuel Stewart",
+    "country": "Grenada",
+    "fullname": "Emmanuel Winston Junior Augustine Stewart",
+    "birth_place": "Meldrum Village, Carriacou, Grenada",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper/Batsman",
+    "type1": "First-class",
+    "debutdate1": "7 March",
+    "debutyear1": "2019",
+    "debutfor1": "Windward Islands",
+    "debutagainst1": "Leeward Islands",
+    "lastdate1": "12 March",
+    "lastyear1": "2020",
+    "lastfor1": "Windward Islands",
+    "lastagainst1": "Trinidad and Tobago",
+    "type2": "List A",
+    "debutdate2": "25 January",
+    "debutyear2": "2017",
+    "debutfor2": "West Indies U19",
+    "debutagainst2": "Windward Islands",
+    "lastdate2": "23 November",
+    "lastyear2": "2019",
+    "lastfor2": "Windward Islands",
+    "lastagainst2": "United States",
+    "source": "http://www.espncricinfo.com/ci/content/player/906789.html ESPNcricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "276",
+        "bat avg": "18.40",
+        "100s/50s": "0/3",
+        "top score": "56",
+        "catches/stumpings": "24/1"
+    },
+    "List A": {
+        "matches": "24",
+        "runs": "423",
+        "bat avg": "19.22",
+        "100s/50s": "0/2",
+        "top score": "56",
+        "catches/stumpings": "26/3"
+    },
+    "clubs": {
+        "West Indies U19": "2017",
+        "Windward Islands": "2019-"
+    },
+    "birth_date": "1999-08-23"
+}

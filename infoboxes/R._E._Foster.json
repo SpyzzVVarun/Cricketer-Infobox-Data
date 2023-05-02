@@ -1,0 +1,52 @@
+{
+    "name": "R. E. Foster",
+    "country": "England",
+    "fullname": "Reginald Erskine Foster",
+    "nickname": "Tip",
+    "birth_place": "Malvern, Worcestershire, England",
+    "death_date": "1914",
+    "death_place": "Brompton, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast",
+    "testdebutdate": "11 December",
+    "testdebutyear": "1903",
+    "testdebutagainst": "Australia",
+    "testcap": "138",
+    "lasttestdate": "19 August",
+    "lasttestyear": "1907",
+    "lasttestagainst": "South Africa",
+    "source": "http://uk.cricinfo.com/db/PLAYERS/ENG/F/FOSTER_RE_01000273/ Cricinfo ",
+    "Tests": {
+        "matches": "8",
+        "runs": "602",
+        "bat avg": "46.30",
+        "100s/50s": "1/1",
+        "top score": "287",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "13/\u2013"
+    },
+    "First-class": {
+        "matches": "139",
+        "runs": "9,076",
+        "bat avg": "41.82",
+        "100s/50s": "22/41",
+        "top score": "287",
+        "deliveries": "1,616",
+        "wickets": "25",
+        "bowl avg": "46.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/54",
+        "catches/stumpings": "178/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1899\u20131912",
+        "Oxford University": "1897\u20131900"
+    },
+    "birth_date": "1878-4-16"
+}

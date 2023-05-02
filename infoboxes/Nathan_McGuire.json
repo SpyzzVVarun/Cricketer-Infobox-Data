@@ -1,0 +1,50 @@
+{
+    "name": "Nathan McGuire",
+    "country": "Ireland",
+    "fullname": "Nathan McGuire",
+    "birth_place": "Rush, Dublin, Ireland",
+    "bowling": "Right arm off Right arm off spin",
+    "role": "Batsman",
+    "type1": "List A",
+    "debutdate1": "7 June",
+    "debutyear1": "2019",
+    "debutfor1": "Ireland A",
+    "debutagainst1": "Scotland A",
+    "type2": "Twenty20",
+    "debutdate2": "9 June",
+    "debutyear2": "2019",
+    "debutfor2": "Ireland A",
+    "debutagainst2": "Scotland A",
+    "source": "http://www.espncricinfo.com/ci/content/player/1187710.html Cricinfo ",
+    "LA": {
+        "matches": "9",
+        "runs": "169",
+        "bat avg": "24.14",
+        "100s/50s": "0/1",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "15",
+        "runs": "149",
+        "bat avg": "10.64",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "North West Warriors": "2020\u2013present"
+    },
+    "birth_date": "2003-2-25"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Virandeep Singh",
+    "country": "Malaysia",
+    "fullname": "Virandeep Singh Jagjit Singh",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Pavandeep Singh (brother)",
+    "T20Idebutdate": "24 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "11",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Hong Kong",
+    "source": "http://www.espncricinfo.com/ci/content/player/633660.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1999-3-23",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

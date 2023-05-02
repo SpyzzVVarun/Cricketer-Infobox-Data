@@ -1,0 +1,27 @@
+{
+    "name": "Robert Pack",
+    "country": "England",
+    "fullname": "Robert John Pack",
+    "birth_place": "Kettering, Northamptonshire",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/18562.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "2",
+        "bat avg": "\u2014",
+        "100s/50s": "0/0",
+        "deliveries": "202",
+        "wickets": "8",
+        "bowl avg": "11.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/1",
+        "catches/stumpings": "2/\u2014"
+    },
+    "clubs": {
+        "Bedfordshire": "2001\u20142002",
+        "Northamptonshire Cricket Board": "1999\u20142000"
+    },
+    "birth_date": "1970-8-27"
+}

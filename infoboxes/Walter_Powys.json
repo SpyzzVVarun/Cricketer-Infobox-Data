@@ -1,0 +1,32 @@
+{
+    "name": "Walter Powys",
+    "country": "England",
+    "fullname": "Walter Norman Powys",
+    "birth_place": "Titchmarsh, Northamptonshire, England",
+    "death_date": "1892",
+    "death_place": "Nottingham, Nottinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm roundarm Left-arm roundarm fast",
+    "family": "Arthur Powys (brother) Richard Powys (brother) Arthur Crichton (uncle)",
+    "source": "https://www.espncricinfo.com/player/walter-powys-18596 Cricinfo ",
+    "FC": {
+        "matches": "27",
+        "runs": "244",
+        "bat avg": "6.97",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "3,163",
+        "wickets": "98",
+        "bowl avg": "14.44",
+        "fivefor": "6",
+        "tenfor": "3",
+        "best bowling": "9/42",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1877&ndash;1879",
+        "Hampshire": "1877&ndash;1878",
+        "Cambridge University": "1871&ndash;1872 & 1874"
+    },
+    "birth_date": "1849-7-28"
+}

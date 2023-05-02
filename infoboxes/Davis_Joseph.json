@@ -1,0 +1,35 @@
+{
+    "name": "Davis Joseph",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/5/5586/5586.html Cricket Archive subscription required",
+    "ODI": {
+        "matches": "4",
+        "runs": "13",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "186",
+        "wickets": "5",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/42",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "31",
+        "runs": "98",
+        "bat avg": "6.53",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "1470",
+        "wickets": "37",
+        "bowl avg": "31.59",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/39",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

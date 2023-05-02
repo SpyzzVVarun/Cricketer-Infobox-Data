@@ -1,0 +1,47 @@
+{
+    "name": "Abdul Rehman",
+    "birth_place": "Ajman, Emirate of Ajman",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2004\u20132011",
+    "country": "UAE",
+    "oneodi": "true",
+    "odidebutdate": "16 July",
+    "odidebutyear": "2004",
+    "odidebutagainst": "India",
+    "source": "http://content.cricinfo.com/ci/content/player/25580.html CricInfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "7",
+        "runs": "221",
+        "bat avg": "17.00",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "catches/stumpings": "14/0"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "266",
+        "bat avg": "29.55",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "catches/stumpings": "19/8"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "85",
+        "bat avg": "10.62",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "3/4"
+    },
+    "clubs": {},
+    "birth_date": "1987-1-2"
+}

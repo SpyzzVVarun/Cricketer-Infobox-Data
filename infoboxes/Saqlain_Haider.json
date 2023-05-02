@@ -1,0 +1,56 @@
+{
+    "name": "Saqlain Haider",
+    "country": "United Arab Emirates",
+    "fullname": "Saqlain Haider",
+    "birth_place": "Rawalpindi, Punjab, Pakistan",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2014\u2013present",
+    "odidebutdate": "2 December",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Afghanistan",
+    "odicap": "56",
+    "lastodidate": "16 August",
+    "lastodiyear": "2016",
+    "lastodiagainst": "Scotland",
+    "T20Idebutdate": "4 February",
+    "T20Idebutyear": "2016",
+    "T20Idebutagainst": "Scotland",
+    "T20Icap": "28",
+    "lastT20Idate": "26 February",
+    "lastT20Iyear": "2016",
+    "lastT20Iagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/779973.html Cricinfo ",
+    "ODI": {
+        "matches": "5",
+        "runs": "58",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "catches/stumpings": "1/1"
+    },
+    "T20I": {
+        "matches": "6",
+        "runs": "14",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "4/0"
+    },
+    "FC": {
+        "matches": "3",
+        "runs": "154",
+        "bat avg": "51.33",
+        "100s/50s": "1/0",
+        "catches/stumpings": "5/1"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "108",
+        "bat avg": "15.42",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {},
+    "birth_date": "1987-8-10"
+}

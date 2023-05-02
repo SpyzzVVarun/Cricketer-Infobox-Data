@@ -1,0 +1,27 @@
+{
+    "country": "South Africa",
+    "fullname": "Henry Bernard Stricker",
+    "birth_place": "Beaconsfield, Cape Colony",
+    "death_date": "15 February 1917, (aged 29)",
+    "death_place": "Dodoma,, German East Africa",
+    "family": "Louis Stricker (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/47250.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "70",
+        "bat avg": "23.33",
+        "100s/50s": "\u2013/1",
+        "deliveries": "198",
+        "wickets": "2",
+        "bowl avg": "80.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/23",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1912/13&ndash;1913/14"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Fred Holland",
+    "country": "England",
+    "fullname": "Frederick Charles Holland",
+    "birth_place": "Battersea, London, England",
+    "death_date": "1957",
+    "death_place": "Crystal Palace, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "30 August",
+    "debutyear1": "1894",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Essex",
+    "lastdate1": "12 August",
+    "lastyear1": "1908",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Sussex",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/30/30321/30321.html CricketArchive ",
+    "First-class": {
+        "matches": "284",
+        "runs": "10,384",
+        "bat avg": "25.96",
+        "100s/50s": "12/51",
+        "top score": "171",
+        "deliveries": "917",
+        "wickets": "13",
+        "bowl avg": "43.84",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/20",
+        "catches/stumpings": "232/&ndash;"
+    },
+    "clubs": {
+        "Surrey": "1894\u20131908"
+    },
+    "birth_date": "1876-2-10"
+}

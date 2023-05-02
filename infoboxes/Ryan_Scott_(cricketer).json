@@ -1,0 +1,31 @@
+{
+    "country": "United States",
+    "fullname": "Ryan Mark Scott",
+    "birth_place": "Kingston, Jamaica",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "T20Idebutdate": "22 December",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "25",
+    "lastT20Idate": "23 December",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Ireland",
+    "source": "https://www.espncricinfo.com/player/ryan-scott-1294028 Cricinfo ",
+    "T20I": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;/&ndash;",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-9-25"
+}

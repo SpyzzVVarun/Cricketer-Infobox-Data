@@ -1,0 +1,28 @@
+{
+    "name": "Algernon Lushington",
+    "country": "England",
+    "fullname": "Algernon Hay Lushington",
+    "birth_place": "Lyndhurst, Hampshire, England",
+    "death_date": "1930",
+    "death_place": "Shanklin, Isle of Wight, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/16375.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "48",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "176",
+        "wickets": "3",
+        "bowl avg": "32.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/48",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1870&ndash;1877"
+    }
+}

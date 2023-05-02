@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "David Adams Riddell",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "death_date": "1957",
+    "death_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/david-riddell-25332 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "56",
+        "bat avg": "11.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1921&ndash;1922"
+    }
+}

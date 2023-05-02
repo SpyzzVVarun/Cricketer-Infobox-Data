@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey William Grasett",
+    "birth_place": "Hereford, Herefordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Cranham, Gloucestershire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13714.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "17.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/19",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1912"
+    }
+}

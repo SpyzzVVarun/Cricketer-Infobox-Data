@@ -1,0 +1,32 @@
+{
+    "country": "England",
+    "fullname": "Hugh James Wyld",
+    "birth_place": "Kensington, London, England",
+    "death_date": "1961",
+    "death_place": "Beverstone, Gloucestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Wilfred Hill-Wood (son-in-law)",
+    "source": "http://www.espncricinfo.com/ci/content/player/23254.html Cricinfo ",
+    "First-class": {
+        "matches": "36",
+        "runs": "1,124",
+        "bat avg": "18.73",
+        "100s/50s": "\u2013/5",
+        "top score": "85",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "21.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/10",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1900\u20131903",
+        "Middlesex": "1900\u20131901",
+        "Marylebone Cricket Club": "1900\u20131905",
+        "Buckinghamshire": "1899"
+    },
+    "birth_date": "1880-4-16"
+}

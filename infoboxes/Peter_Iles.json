@@ -1,0 +1,26 @@
+{
+    "name": "Peter Iles",
+    "fullname": "Peter Albert Iles",
+    "birth_place": "Palmerston North, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Legbreak",
+    "source": "https://cricketarchive.com/Archive/Players/22/22191/22191.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "58",
+        "bat avg": "19.33",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "360",
+        "wickets": "3",
+        "bowl avg": "40.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/46",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Auckland": "1946/47\u20131951/52"
+    },
+    "birth_date": "1926-12-23"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Bob Lambert",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26802/26802.html CricketArchive",
+    "First-class": {
+        "matches": "25",
+        "runs": "1,121",
+        "bat avg": "28.74",
+        "100s/50s": "1/6",
+        "deliveries": "3,895",
+        "wickets": "70",
+        "bowl avg": "24.08",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/11",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {}
+}

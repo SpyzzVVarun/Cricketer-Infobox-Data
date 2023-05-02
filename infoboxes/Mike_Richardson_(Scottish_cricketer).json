@@ -1,0 +1,40 @@
+{
+    "country": "Scotland",
+    "fullname": "Michael Sloan Richardson",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/michael-richardson-25461 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "288",
+        "wickets": "4",
+        "bowl avg": "39.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/41",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "46",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1992&ndash;1994"
+    },
+    "birth_date": "1969-8-20"
+}

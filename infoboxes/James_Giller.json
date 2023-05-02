@@ -1,0 +1,29 @@
+{
+    "name": "James Giller",
+    "fullname": "James Frederick Giller",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "1947",
+    "death_place": "Albert Park, Melbourne, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/australia/content/player/5490.html Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "1016",
+        "bat avg": "31.75",
+        "100s/50s": "2/4",
+        "top score": "125",
+        "deliveries": "2649",
+        "wickets": "41",
+        "bowl avg": "26.21",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/51",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Victoria": "1897-1905"
+    },
+    "birth_date": "1870-5-1"
+}

@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Henry Bolsover",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "death_date": "1876",
+    "death_place": "Llandudno, Caernarvonshire, Wales",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/10475.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

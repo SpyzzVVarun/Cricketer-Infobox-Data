@@ -1,0 +1,39 @@
+{
+    "name": "James Seymour",
+    "country": "England",
+    "fullname": "James Seymour",
+    "birth_place": "West Hoathly, Sussex",
+    "death_date": "1930",
+    "death_place": "Marden, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "14 June",
+    "debutyear1": "1900",
+    "debutfor1": "London County",
+    "debutagainst1": "Derbyshire",
+    "lastdate1": "10 September",
+    "lastyear1": "1926",
+    "lastfor1": "Kent",
+    "lastagainst1": "MCC",
+    "source": "http://www.espncricinfo.com/england/content/player/20673.html CricInfo ",
+    "First-class": {
+        "matches": "553",
+        "runs": "27,237",
+        "bat avg": "32.08",
+        "100s/50s": "53/131",
+        "deliveries": "1,260",
+        "wickets": "17",
+        "bowl avg": "47.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/62",
+        "catches/stumpings": "675/\u2013"
+    },
+    "clubs": {
+        "London County": "1900\u20131901",
+        "Kent": "1902\u20131926"
+    },
+    "birth_date": "1879-10-25"
+}

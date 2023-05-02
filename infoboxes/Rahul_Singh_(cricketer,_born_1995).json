@@ -1,0 +1,34 @@
+{
+    "name": "Gahlaut Rahul Singh",
+    "birth_place": "Maniktala, West Bengal, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/india/content/player/604612.html ESPNcricinfo ",
+    "FC": {
+        "matches": "35",
+        "runs": "2413",
+        "bat avg": "43.08",
+        "100s/50s": "7/12",
+        "top score": "182",
+        "catches/stumpings": "19/0"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "1145",
+        "bat avg": "38.16",
+        "100s/50s": "2/7",
+        "catches/stumpings": "7/0"
+    },
+    "T20": {
+        "matches": "31",
+        "runs": "568",
+        "bat avg": "22.72",
+        "100s/50s": "0/3",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Hyderabad": "2007\u201315",
+        "Services": "2016\u2013present"
+    },
+    "birth_date": "1995-9-18"
+}

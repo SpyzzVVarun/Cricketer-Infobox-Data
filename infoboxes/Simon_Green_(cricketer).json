@@ -1,0 +1,39 @@
+{
+    "country": "England",
+    "fullname": "Simon James Green",
+    "birth_place": "Bloxwich, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13739.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "168",
+        "bat avg": "24.00",
+        "100s/50s": "\u2013/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "44",
+        "bat avg": "6.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1988\u20131991"
+    },
+    "birth_date": "1970-3-19"
+}

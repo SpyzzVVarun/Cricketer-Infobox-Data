@@ -1,0 +1,41 @@
+{
+    "name": "Lee Savident",
+    "country": "Guernsey",
+    "fullname": "Lee Savident",
+    "birth_place": "Saint Martin, Guernsey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/england/content/player/20062.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "32",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "384",
+        "wickets": "4",
+        "bowl avg": "71.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/86",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "94",
+        "bat avg": "18.80",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "39",
+        "deliveries": "178",
+        "wickets": "7",
+        "bowl avg": "25.42",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/41",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Dorset": "2003",
+        "Hampshire": "1997&ndash;2000"
+    },
+    "birth_date": "1976-10-22"
+}

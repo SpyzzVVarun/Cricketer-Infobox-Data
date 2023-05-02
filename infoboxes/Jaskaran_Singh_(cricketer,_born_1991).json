@@ -1,0 +1,40 @@
+{
+    "name": "Jaskaran Singh",
+    "country": "India",
+    "fullname": "Jaskaran Singh",
+    "birth_place": "Jamshedpur, India",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm Fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/543922.html ESPNcricinfo ",
+    "T20": {
+        "matches": "15",
+        "runs": "18",
+        "100s/50s": "-",
+        "deliveries": "312",
+        "wickets": "12",
+        "bowl avg": "34.83",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "3/27",
+        "catches/stumpings": "5/\u2013"
+    },
+    "FC": {
+        "matches": "15",
+        "runs": "86",
+        "bat avg": "6.61",
+        "100s/50s": "-",
+        "top score": "30",
+        "deliveries": "1909",
+        "wickets": "30",
+        "bowl avg": "30.76",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "5/85",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Rising Pune Supergiant": "2016\u20132017"
+    },
+    "birth_date": "1991-12-21"
+}

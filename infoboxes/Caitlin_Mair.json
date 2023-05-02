@@ -1,0 +1,20 @@
+{
+    "name": "Caitlin Mair",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Caitlin E Mair",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2511/2511318/2511318.html CricketArchive",
+    "WLA": {
+        "matches": "14",
+        "runs": "91",
+        "bat avg": "22.75",
+        "100s/50s": "0/0",
+        "catches/stumpings": "23/7"
+    },
+    "clubs": {
+        "Queensland": "2021/22\u2013present"
+    },
+    "birth_date": "2003-5-5"
+}

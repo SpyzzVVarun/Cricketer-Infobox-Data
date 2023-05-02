@@ -1,0 +1,46 @@
+{
+    "name": "A. Nand Kishore",
+    "fullname": "Ammanabrole Nand Kishore",
+    "birth_place": "Warangal, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Umpire",
+    "umpire": "true",
+    "wodisumpired": "2",
+    "umpwodidebutyr": "2018",
+    "wt20isumpired": "1",
+    "umpwt20idebutyr": "2022",
+    "source": "http://www.espncricinfo.com/ci/content/player/31917.html ESPNcricinfo ",
+    "FC": {
+        "matches": "76",
+        "runs": "4,352",
+        "bat avg": "35.38",
+        "100s/50s": "9/18",
+        "top score": "214",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "95/0"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "896",
+        "bat avg": "28.90",
+        "100s/50s": "0/5",
+        "deliveries": "67",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "7/0"
+    },
+    "T20": {},
+    "clubs": {
+        "Hyderabad": "1994-2002"
+    },
+    "birth_date": "1970-7-10"
+}

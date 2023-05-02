@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Francis Livingstone Shand",
+    "birth_place": "Charlton, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Denham, Buckinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/20680.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "49",
+        "bat avg": "12.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "438",
+        "wickets": "17",
+        "bowl avg": "9.88",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

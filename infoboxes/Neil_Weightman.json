@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Neil Ivan Weightman",
+    "birth_place": "Normanton-on-Trent, Nottinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/22835.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "175",
+        "bat avg": "29.16",
+        "100s/50s": "1/&ndash;",
+        "top score": "105",
+        "deliveries": "6",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "44",
+        "bat avg": "5.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire": "1980&ndash;1982"
+    },
+    "birth_date": "1960-10-5"
+}

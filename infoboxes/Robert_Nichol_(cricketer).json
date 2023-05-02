@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert John Nichol",
+    "birth_place": "Galashiels, Selkirkshire, Scotland",
+    "death_date": "1996",
+    "death_place": "Melrose, Roxburghshire, Scotland",
+    "family": "David Nichol (brother), William Nichol (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/robert-nichol-25309 Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "67",
+        "bat avg": "8.37",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "1,128",
+        "wickets": "12",
+        "bowl avg": "42.08",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/87",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1951&ndash;1955"
+    }
+}

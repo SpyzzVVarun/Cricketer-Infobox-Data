@@ -1,0 +1,27 @@
+{
+    "name": "Norman Mitchell",
+    "fullname": "Norman Frederick Mitchell",
+    "birth_place": "Collingwood, Victoria",
+    "death_date": "df=yes",
+    "death_place": "East Melbourne, Victoria",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/16/16444/16444.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "312",
+        "bat avg": "52.00",
+        "100s/50s": "1/0",
+        "top score": "220",
+        "deliveries": "135",
+        "wickets": "3",
+        "bowl avg": "20.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1925/26\u20131926/27"
+    },
+    "birth_date": "1900-2-19"
+}

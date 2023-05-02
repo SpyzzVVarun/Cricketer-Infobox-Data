@@ -1,0 +1,28 @@
+{
+    "name": "Christopher Jones",
+    "country": "England",
+    "fullname": "Christopher Jones",
+    "birth_place": "Stamford, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/england/content/player/15582.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "49",
+        "bat avg": "16.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "26",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cambridgeshire": "1999&ndash;2006",
+        "Lincolnshire": "1998"
+    },
+    "birth_date": "1973-9-28"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Ned Sale",
+    "country": "New Zealand",
+    "fullname": "Edmund Vernon Sale",
+    "birth_place": "Taunton, England",
+    "death_date": "df=yes",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "family": "Scott Sale (son)",
+    "source": "https://cricketarchive.com/Archive/Players/22/22803/22803.html Cricket Archive ",
+    "First-class": {
+        "matches": "23",
+        "runs": "1012",
+        "bat avg": "25.94",
+        "100s/50s": "2/4",
+        "top score": "121",
+        "deliveries": "30",
+        "wickets": "2",
+        "bowl avg": "11.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/7",
+        "catches/stumpings": "17/1"
+    },
+    "clubs": {
+        "Auckland": "1894-95 to 1914-15"
+    },
+    "birth_date": "1883-7-6"
+}

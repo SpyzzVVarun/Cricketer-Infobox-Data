@@ -1,0 +1,52 @@
+{
+    "country": "Namibia",
+    "fullname": "Neil Rossouw",
+    "birth_place": "Keetmanshoop, South-West Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/68/68259/68259.html CricketArchive subscription required ",
+    "FC": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "45",
+        "wickets": "1",
+        "bowl avg": "24.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/21",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "39",
+        "bat avg": "19.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "6",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2004/05"
+    },
+    "birth_date": "1976-9-25"
+}

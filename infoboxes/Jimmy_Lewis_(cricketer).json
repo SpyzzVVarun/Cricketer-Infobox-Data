@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "James Christopher Mansel Lewis",
+    "birth_place": "Ditchingham, Norfolk, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16422.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "51.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/66",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Norfolk": "1987&ndash;1994"
+    },
+    "birth_date": "1967-10-3"
+}

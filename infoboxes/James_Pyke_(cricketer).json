@@ -1,0 +1,41 @@
+{
+    "name": "James Pyke",
+    "country": "Australia",
+    "fullname": "James Kendrick Pyke",
+    "birth_place": "Cottesloe, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/11/11119/11119.html CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "533",
+        "bat avg": "29.61",
+        "100s/50s": "0/4",
+        "top score": "77",
+        "deliveries": "2,163",
+        "wickets": "33",
+        "bowl avg": "34.90",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/47",
+        "catches/stumpings": "10/\u2013"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "465",
+        "bat avg": "58.12",
+        "100s/50s": "1/3",
+        "top score": "177",
+        "deliveries": "508",
+        "wickets": "12",
+        "bowl avg": "29.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/22",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1985/86\u20131987/88"
+    },
+    "birth_date": "1966-6-7"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Megan Compston",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler url=https://www.espn.com.au/cricket/story/_/id/22912030/fury-aim-break-breakers",
+    "source": "https://cricketarchive.com/Archive/Players/250/250208/250208.html CricketArchive",
+    "WLA": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2007/08"
+    },
+    "birth_date": "1980-11-21"
+}

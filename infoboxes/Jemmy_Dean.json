@@ -1,0 +1,29 @@
+{
+    "name": "Jemmy Dean",
+    "country": "England",
+    "fullname": "James Dean",
+    "birth_place": "Duncton, Sussex, England",
+    "death_date": "25 December 1881 (aged 65)",
+    "death_place": "Duncton, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/12125.html ESPNCricinfo",
+    "First-class": {
+        "matches": "305",
+        "runs": "5,115",
+        "bat avg": "10.54",
+        "100s/50s": "0/12",
+        "top score": "99",
+        "deliveries": "3,328",
+        "wickets": "1,144",
+        "bowl avg": "13.62",
+        "fivefor": "86",
+        "tenfor": "18",
+        "best bowling": "9/34",
+        "catches/stumpings": "206/0"
+    },
+    "clubs": {
+        "Sussex": "1835\u20131861"
+    }
+}

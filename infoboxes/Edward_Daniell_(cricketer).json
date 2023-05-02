@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Edward Thomas Daniell",
+    "birth_place": "Little Berkhamsted, Hertfordshire, England",
+    "death_date": "1875",
+    "death_place": "Little Berkhamsted, Hertfordshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/12342.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "32",
+        "bat avg": "6.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1835\u20131837"
+    }
+}

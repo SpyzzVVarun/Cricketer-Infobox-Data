@@ -1,0 +1,30 @@
+{
+    "name": "Leah Dobson",
+    "female": "true",
+    "fullname": "Leah Dobson",
+    "birth_place": "Scarborough, North Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1674/1674238/1674238.html CricketArchive",
+    "WLA": {
+        "matches": "15",
+        "runs": "212",
+        "bat avg": "17.66",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "20",
+        "runs": "155",
+        "bat avg": "11.92",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2018\u2013present",
+        "Northern Diamonds": "2020\u2013present"
+    },
+    "birth_date": "2001-10-6"
+}

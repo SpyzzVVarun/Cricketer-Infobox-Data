@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William James Mackeson",
+    "birth_place": "Kensington, Middlesex, England",
+    "death_date": "1925",
+    "death_place": "Atcham, Shropshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/17253.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1883"
+    }
+}

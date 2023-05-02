@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "John Charles Richardson",
+    "birth_place": "Carron, Morayshire, Scotland",
+    "death_date": "1990",
+    "death_place": "Aberdeen, Aberdeenshire, Scotland",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/player/john-richardson-19682 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "32",
+        "bat avg": "10.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1938&ndash;1939",
+        "Scotland": "1953"
+    }
+}

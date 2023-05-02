@@ -1,0 +1,27 @@
+{
+    "name": "Muhammad Wafiq",
+    "country": "Malaysia",
+    "fullname": "Muhammad Wafiq Irfan Zarbani",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "T20Idebutdate": "29 September",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Vanuatu",
+    "T20Icap": "17",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Hong Kong",
+    "source": "http://www.espncricinfo.com/ci/content/player/568452.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1996-4-25",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

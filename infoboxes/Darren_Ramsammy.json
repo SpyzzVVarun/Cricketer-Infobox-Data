@@ -1,0 +1,23 @@
+{
+    "name": "Darren Ramsammy",
+    "country": "Canada",
+    "fullname": "Darren Roy Ramsammy",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "oneodi": "true",
+    "odidebutdate": "11 July",
+    "odidebutyear": "2012",
+    "odidebutagainst": "Scotland",
+    "odicap": "80",
+    "source": "http://www.espncricinfo.com/canada/content/player/500236.html Cricinfo  ",
+    "ODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1992-06-23"
+}

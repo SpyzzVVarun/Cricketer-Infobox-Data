@@ -1,0 +1,47 @@
+{
+    "country": "England",
+    "fullname": "Michael David Mence",
+    "birth_place": "Newbury, Berkshire, England",
+    "death_date": "2014",
+    "death_place": "Newport, Isle of Wight, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Joe Mence (father)",
+    "source": "http://www.cricinfo.com/ci/content/player/17535.html Cricinfo ",
+    "FC": {
+        "matches": "54",
+        "runs": "949",
+        "bat avg": "15.06",
+        "100s/50s": "\u2013/4",
+        "top score": "78",
+        "deliveries": "6,130",
+        "wickets": "86",
+        "bowl avg": "35.46",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/26",
+        "catches/stumpings": "23/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "149",
+        "bat avg": "18.62",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "deliveries": "427",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1961",
+        "Minor Counties South": "1973\u20131975",
+        "Gloucestershire": "1966\u20131967",
+        "Marylebone Cricket Club": "1966",
+        "Warwickshire": "1962\u20131965"
+    },
+    "birth_date": "1944-4-13"
+}

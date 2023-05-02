@@ -1,0 +1,40 @@
+{
+    "country": "Scotland",
+    "fullname": "David Lang Snodgrass",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/david-snodgrass-25351 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "91",
+        "bat avg": "15.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "49",
+        "deliveries": "360",
+        "wickets": "5",
+        "bowl avg": "27.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/26",
+        "catches/stumpings": "6/\u2013"
+    },
+    "List A": {
+        "matches": "16",
+        "runs": "130",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "300",
+        "wickets": "7",
+        "bowl avg": "32.42",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/44",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1982&ndash;1989"
+    },
+    "birth_date": "1958-11-21"
+}

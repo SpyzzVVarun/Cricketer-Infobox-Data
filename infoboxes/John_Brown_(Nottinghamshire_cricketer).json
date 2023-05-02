@@ -1,0 +1,18 @@
+{
+    "country": "England",
+    "fullname": "John Brown",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "death_date": "1883",
+    "death_place": "Nottingham, Nottinghamshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10528.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

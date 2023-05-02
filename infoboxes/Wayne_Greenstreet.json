@@ -1,0 +1,40 @@
+{
+    "name": "Wayne Greenstreet",
+    "fullname": "Wayne Anthony Greenstreet",
+    "birth_place": "Lower Hutt, Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "http://www.espncricinfo.com/ci/content/player/37110.html Cricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "397",
+        "bat avg": "18.04",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "5072",
+        "wickets": "71",
+        "bowl avg": "24.53",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/34",
+        "catches/stumpings": "10/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "11",
+        "bat avg": "3.66",
+        "100s/50s": "0/0",
+        "deliveries": "416",
+        "wickets": "11",
+        "bowl avg": "19.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1969-70 to 1972-73",
+        "Central Districts": "1973-74"
+    },
+    "birth_date": "1949-1-21"
+}

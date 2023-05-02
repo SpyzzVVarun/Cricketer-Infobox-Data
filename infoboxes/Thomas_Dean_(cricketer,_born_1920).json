@@ -1,0 +1,31 @@
+{
+    "name": "Thomas Dean",
+    "country": "England",
+    "fullname": "Thomas Arthur Dean",
+    "birth_place": "Gosport, Hampshire, England",
+    "death_date": "2004",
+    "death_place": "Alexandria, Eastern Cape, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.cricinfo.com/ci/content/player/11859.html Cricinfo ",
+    "FC": {
+        "matches": "29",
+        "runs": "285",
+        "bat avg": "8.63",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "3,107",
+        "wickets": "54",
+        "bowl avg": "31.59",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/51",
+        "catches/stumpings": "31/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1956",
+        "Devon": "1954",
+        "Hampshire": "1939 & 1946\u20131949"
+    },
+    "birth_date": "1920-11-21"
+}

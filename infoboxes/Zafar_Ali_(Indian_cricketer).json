@@ -1,0 +1,36 @@
+{
+    "name": "Zafar Ali",
+    "country": "India",
+    "fullname": "Zafar Ali",
+    "birth_place": "Shahdol, Madhya Pradesh, India",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/india/content/player/279556.html Cricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "421",
+        "bat avg": "19.13",
+        "100s/50s": "0/3",
+        "top score": "98",
+        "catches/stumpings": "22/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "67",
+        "bat avg": "22.33",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "196",
+        "bat avg": "21.77",
+        "100s/50s": "0/1",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Madhya Pradesh": "2007-"
+    },
+    "birth_date": "1987-09-21"
+}

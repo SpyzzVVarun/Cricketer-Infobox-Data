@@ -1,0 +1,40 @@
+{
+    "name": "Barry Jones",
+    "country": "England",
+    "fullname": "Barry John Richardson Jones",
+    "birth_place": "Shrewsbury, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/30/30654/30654.html CricketArchive ",
+    "FC": {
+        "matches": "46",
+        "runs": "1,076",
+        "bat avg": "13.79",
+        "100s/50s": "0/2",
+        "top score": "65",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "19/0"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "177",
+        "bat avg": "17.70",
+        "100s/50s": "0/0",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "-",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Worcestershire": "1976&ndash;1980"
+    },
+    "birth_date": "1955-11-2"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Adam Rouse",
+    "country": "England",
+    "fullname": "Adam Paul Rouse",
+    "birth_place": "Harare, Zimbabwe",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break http://www.kentcricket.co.uk/news/ball-takes-five-for-haggett-and-rouse-take-wickets-in-south-africa Ball takes five-for, Haggett and Rouse take wickets in South Africa, Kent County Cricket Club, 2016-01-24. Retrieved Right-arm off break http://www.kentcricket.co.uk/news/ball-takes-five-for-haggett-and-rouse-take-wickets-in-south-africa Ball takes five-for, Haggett and Rouse take wickets in South Africa, Kent County Cricket Club, 2016-01-24. Retrieved 2016-01-24.",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "15 July",
+    "debutyear1": "2013",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "Kent",
+    "type2": "LA",
+    "debutdate2": "6 August",
+    "debutyear2": "2013",
+    "debutfor2": "Hampshire",
+    "debutagainst2": "Bangladesh A",
+    "source": "http://www.espncricinfo.com/ci/content/current/player/352893.html CricInfo ",
+    "FC": {
+        "matches": "36",
+        "runs": "1,103",
+        "bat avg": "23.46",
+        "100s/50s": "0/5",
+        "catches/stumpings": "112/4"
+    },
+    "LA": {
+        "matches": "40",
+        "runs": "682",
+        "bat avg": "27.28",
+        "100s/50s": "0/3",
+        "catches/stumpings": "37/3"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "61",
+        "bat avg": "12.20",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/4"
+    },
+    "clubs": {
+        "Hampshire( 20 )": "2013",
+        "Gloucestershire": "2014",
+        "Kent( 12 )": "2016\u20132019"
+    },
+    "birth_date": "1992-6-30"
+}

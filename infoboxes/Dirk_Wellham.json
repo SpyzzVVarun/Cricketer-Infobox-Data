@@ -1,0 +1,30 @@
+{
+    "name": "Dirk Wellham",
+    "fullname": "Dirk MacDonald Wellham",
+    "birth_place": "Marrickville, New South Wales, Australia",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/8198.html CricInfo ",
+    "Test": {
+        "matches": "6",
+        "runs": "257",
+        "bat avg": "23.36",
+        "100s/50s": "1/0",
+        "top score": "103",
+        "catches/stumpings": "5/\u2013"
+    },
+    "ODI": {
+        "matches": "17",
+        "runs": "379",
+        "bat avg": "25.26",
+        "100s/50s": "0/1",
+        "top score": "97",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1980/81\u20131987/88",
+        "Tasmania": "1988/89\u20131990/91",
+        "Queensland": "1991/92\u20131993/94"
+    },
+    "birth_date": "1959-03-13"
+}

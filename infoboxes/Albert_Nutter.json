@@ -1,0 +1,38 @@
+{
+    "name": "Albert Nutter",
+    "country": "England",
+    "fullname": "Albert Edward Nutter",
+    "birth_place": "Burnley, England",
+    "death_date": "1996",
+    "death_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "type1": "First-class",
+    "debutdate1": "31 August",
+    "debutyear1": "1935",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Sir Julien Cahn's XI",
+    "lastdate1": "29 August",
+    "lastyear1": "1953",
+    "lastfor1": "Northamptonshire",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3354/3354.html Cricket Archive ",
+    "FC": {
+        "matches": "224",
+        "runs": "4829",
+        "bat avg": "19.55",
+        "100s/50s": "1/19",
+        "deliveries": "38211",
+        "wickets": "600",
+        "bowl avg": "26.28",
+        "fivefor": "29",
+        "tenfor": "2",
+        "best bowling": "7/52",
+        "catches/stumpings": "163/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1935&ndash;1945",
+        "Northamptonshire": "1948&ndash;1953"
+    },
+    "birth_date": "1913-6-28"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Oswald Samson",
+    "country": "England",
+    "fullname": "Oswald Massey Samson",
+    "birth_place": "Taunton, Somerset, England",
+    "death_date": "1918",
+    "death_place": "near Peronne, Somme, France",
+    "batting": "Left-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "14 June",
+    "debutyear1": "1900",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "13 August",
+    "lastyear1": "1913",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3803/3803.html CricketArchive ",
+    "First-class": {
+        "matches": "49",
+        "runs": "1464",
+        "bat avg": "18.30",
+        "100s/50s": "1/7",
+        "top score": "105",
+        "deliveries": "102",
+        "wickets": "5",
+        "bowl avg": "17.60",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/4",
+        "catches/stumpings": "32/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1900&ndash;13",
+        "Oxford University": "1902&ndash;03"
+    },
+    "birth_date": "1881-8-8"
+}

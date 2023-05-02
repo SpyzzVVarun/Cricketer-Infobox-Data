@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Alec John O'Riordan",
+    "birth_place": "Clontarf, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24486.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "614",
+        "bat avg": "15.74",
+        "100s/50s": "1/2",
+        "top score": "117",
+        "deliveries": "4,498",
+        "wickets": "75",
+        "bowl avg": "21.38",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/35",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1958&ndash;1977"
+    },
+    "birth_date": "1940-7-26"
+}

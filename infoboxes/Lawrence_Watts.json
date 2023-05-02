@@ -1,0 +1,21 @@
+{
+    "name": "Lawrence Watts",
+    "fullname": "Lawrence Dursley Watts",
+    "birth_place": "Bristol, England",
+    "death_date": "1997",
+    "death_place": "Crickhowell, Powys, Wales",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/22795.html Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "361",
+        "bat avg": "18.05",
+        "100s/50s": "0/2",
+        "top score": "69"
+    },
+    "clubs": {
+        "Gloucestershire": "1957\u20131958"
+    },
+    "birth_date": "1935-5-2"
+}

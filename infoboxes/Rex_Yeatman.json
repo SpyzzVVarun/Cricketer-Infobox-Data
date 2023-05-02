@@ -1,0 +1,39 @@
+{
+    "name": "Rex Yeatman",
+    "country": "England",
+    "fullname": "Rex Herbert Yeatman",
+    "birth_place": "Richmond, Surrey, England",
+    "death_date": "1995",
+    "death_place": "Chichester, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "29 June",
+    "debutyear1": "1946",
+    "debutfor1": "Combined Services",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "14 June",
+    "lastyear1": "1947",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/34/34147/34147.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "53",
+        "bat avg": "6.62",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Combined Services": "1946",
+        "Surrey": "1946\u20131947"
+    },
+    "birth_date": "1919-10-4"
+}

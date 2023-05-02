@@ -1,0 +1,39 @@
+{
+    "name": "William Hickmott",
+    "fullname": "William Edward Hickmott",
+    "birth_place": "Boxley, Kent",
+    "death_date": "df=yes",
+    "death_place": "West Malling, Kent",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm slow-medium",
+    "role": "Bowler",
+    "family": "Edward Hickmott (uncle)",
+    "type1": "FC",
+    "debutdate1": "31 August",
+    "debutyear1": "1914",
+    "debutfor1": "Kent",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "12 July",
+    "lastyear1": "1924",
+    "lastfor1": "Lancashire",
+    "lastagainst1": "Surrey",
+    "source": "https://www.espncricinfo.com/england/content/player/14784.html CricInfo",
+    "First-class": {
+        "matches": "37",
+        "runs": "301",
+        "bat avg": "10.37",
+        "100s/50s": "0/0",
+        "deliveries": "4,892",
+        "wickets": "92",
+        "bowl avg": "25.65",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/20",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Kent": "1914\u20131921",
+        "Lancashire": "1923\u20131924"
+    },
+    "birth_date": "1893-04-10"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Amy Hunter",
+    "female": "true",
+    "country": "Ireland",
+    "fullname": "Amy Hunter",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "89",
+    "lastodidate": "9 November",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "24 May",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Scotland",
+    "T20Icap": "48",
+    "lastT20Idate": "20 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/1229014.html ESPNCricinfo ",
+    "WODI": {
+        "matches": "8",
+        "runs": "215",
+        "bat avg": "35.83",
+        "100s/50s": "1/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20I": {
+        "matches": "5",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Dragons": "2022\u2013present",
+        "Typhoons": "2019\u20132021"
+    },
+    "birth_date": "2005-10-11"
+}

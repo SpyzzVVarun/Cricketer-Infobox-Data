@@ -1,0 +1,35 @@
+{
+    "name": "Arthur Bezer",
+    "country": "England",
+    "fullname": "Arthur Herbert Bezer",
+    "birth_place": "Bath, England",
+    "death_date": "1944",
+    "death_place": "Bath, England",
+    "batting": "Unknown",
+    "bowling": "Left-arm (unknown Left-arm (unknown style)",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "11 June",
+    "debutyear1": "1914",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Hampshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3438/3438.html    CricketArchive Subscription required ",
+    "FC": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "-/-",
+        "top score": "1",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1914"
+    },
+    "birth_date": "1875-10-20"
+}

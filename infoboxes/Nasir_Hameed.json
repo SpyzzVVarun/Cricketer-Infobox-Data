@@ -1,0 +1,32 @@
+{
+    "name": "Nasir Hameed",
+    "country": "Hong Kong",
+    "fullname": "Nasir Hameed",
+    "birth_place": "Rawalpindi, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "oneodi": "true",
+    "odidebutdate": "18 July",
+    "odidebutyear": "2004",
+    "odidebutagainst": "Pakistan",
+    "odicap": "13",
+    "source": "http://www.espncricinfo.com/ci/content/player/24228.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "41",
+        "bat avg": "13.66",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {},
+    "birth_date": "1969-4-4"
+}

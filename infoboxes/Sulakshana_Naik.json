@@ -1,0 +1,67 @@
+{
+    "name": "Sulakshana Naik",
+    "female": "yes",
+    "country": "India",
+    "fullname": "Sulakshana Madhukar Naik",
+    "birth_place": "Mumbai, Maharashtra, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2002\u20132013",
+    "testdebutdate": "14 August",
+    "testdebutyear": "2002",
+    "testdebutagainst": "England",
+    "testcap": "60",
+    "lasttestdate": "29 August",
+    "lasttestyear": "2006",
+    "lasttestagainst": "England",
+    "odidebutdate": "10 July",
+    "odidebutyear": "2002",
+    "odidebutagainst": "England",
+    "odicap": "66",
+    "lastodidate": "21 March",
+    "lastodiyear": "2009",
+    "lastodiagainst": "Australia",
+    "T20Idebutdate": "5 August",
+    "T20Idebutyear": "2006",
+    "T20Idebutagainst": "England",
+    "T20Icap": "8",
+    "lastT20Idate": "31 October",
+    "lastT20Iyear": "2012",
+    "lastT20Iagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Archive/Players/10/10623/10623.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "62",
+        "bat avg": "20.66",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "1/2"
+    },
+    "WODI": {
+        "matches": "46",
+        "runs": "574",
+        "bat avg": "15.51",
+        "100s/50s": "0/2",
+        "catches/stumpings": "28/32"
+    },
+    "WT20I": {
+        "matches": "31",
+        "runs": "384",
+        "bat avg": "14.76",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "catches/stumpings": "10/21"
+    },
+    "WLA": {
+        "matches": "173",
+        "runs": "3,451",
+        "bat avg": "24.65",
+        "100s/50s": "4/16",
+        "catches/stumpings": "129/103"
+    },
+    "clubs": {
+        "Mumbai": "2013/14\u20132016/17",
+        "Railways": "2001/02\u20132012/13"
+    },
+    "birth_date": "1978-11-10"
+}

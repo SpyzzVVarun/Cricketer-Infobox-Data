@@ -1,0 +1,40 @@
+{
+    "name": "Victor Munden",
+    "country": "England",
+    "fullname": "Victor Stanislaus Munden",
+    "birth_place": "Leicester, Leicestershire",
+    "death_date": "2016",
+    "death_place": "Louth, Lincolnshire",
+    "batting": "Left-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "All-rounder",
+    "family": "Donald Munden (brother) Paul Munden (brother)",
+    "type1": "First-class",
+    "debutdate1": "3 August",
+    "debutyear1": "1946",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "26 July",
+    "lastyear1": "1957",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/31/31617/31617.html CricketArchive ",
+    "First-class": {
+        "matches": "232",
+        "runs": "5,786",
+        "bat avg": "17.37",
+        "100s/50s": "2/21",
+        "top score": "103",
+        "deliveries": "27,622",
+        "wickets": "371",
+        "bowl avg": "28.57",
+        "fivefor": "14",
+        "tenfor": "1",
+        "best bowling": "6/33",
+        "catches/stumpings": "82/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1946\u20131957"
+    },
+    "birth_date": "1928-1-2"
+}

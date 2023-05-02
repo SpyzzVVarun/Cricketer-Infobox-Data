@@ -1,0 +1,32 @@
+{
+    "country": "England",
+    "fullname": "Arthur Hardy Wood",
+    "birth_place": "Bentworth, Hampshire, England",
+    "death_date": "1933",
+    "death_place": "Hove, Sussex, England",
+    "family": "Arthur Wood junior (son)",
+    "heightft": "6",
+    "heightinch": "0 title=Frederick Lillywhite's Cricket scores and Biographies",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricinfo.com/ci/content/player/22493.html Cricinfo ",
+    "First-class": {
+        "matches": "30",
+        "runs": "876",
+        "bat avg": "17.87",
+        "100s/50s": "\u2013/6",
+        "top score": "82",
+        "deliveries": "28",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "25/5"
+    },
+    "clubs": {
+        "Hampshire": "1870\u20131885",
+        "Marylebone Cricket Club": "1880\u20131881"
+    }
+}

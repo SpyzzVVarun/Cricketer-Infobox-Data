@@ -1,0 +1,44 @@
+{
+    "name": "Leo Carter",
+    "country": "New Zealand",
+    "birth_place": "Wellington, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm off-break",
+    "role": "Batter",
+    "type1": "First-class",
+    "debutdate1": "9 March",
+    "debutyear1": "2015",
+    "debutfor1": "Canterbury",
+    "debutagainst1": "Northern Districts",
+    "type2": "List A",
+    "debutdate2": "30 December",
+    "debutyear2": "2015",
+    "debutfor2": "Canterbury",
+    "debutagainst2": "Auckland",
+    "source": "http://www.espncricinfo.com/ci/content/player/625956.html ESPNcricinfo ",
+    "FC": {
+        "matches": "43",
+        "runs": "2,198",
+        "bat avg": "33.30",
+        "100s/50s": "3/12",
+        "catches/stumpings": "41/0"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "634",
+        "bat avg": "27.56",
+        "100s/50s": "0/5",
+        "catches/stumpings": "9/0"
+    },
+    "T20": {
+        "matches": "52",
+        "runs": "663",
+        "bat avg": "18.41",
+        "100s/50s": "0/2",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "Canterbury": "2014\u2013present"
+    },
+    "birth_date": "1994-12-10"
+}

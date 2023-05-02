@@ -1,0 +1,30 @@
+{
+    "name": "Scarlett Hughes",
+    "female": "true",
+    "fullname": "Scarlett Talulla A Hughes",
+    "birth_place": "Cambridge, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1510/1510113/1510113.html CricketArchive",
+    "WLA": {
+        "matches": "10",
+        "runs": "33",
+        "bat avg": "4.71",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "9/4"
+    },
+    "WT20": {
+        "matches": "25",
+        "runs": "323",
+        "bat avg": "19.00",
+        "100s/50s": "0/2",
+        "top score": "70",
+        "catches/stumpings": "10/12"
+    },
+    "clubs": {
+        "Essex": "2017\u2013present",
+        "Sunrisers": "2022\u2013present"
+    },
+    "birth_date": "2002-6-18"
+}

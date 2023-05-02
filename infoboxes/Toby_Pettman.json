@@ -1,0 +1,44 @@
+{
+    "name": "Toby Pettman",
+    "country": "England",
+    "fullname": "Toby Henry Somerville Pettman",
+    "birth_place": "Kingston upon Thames, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "source": "http://www.espncricinfo.com/england/content/player/1103905.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "125",
+        "bat avg": "15.62",
+        "100s/50s": "0/1",
+        "deliveries": "1,931",
+        "wickets": "42",
+        "bowl avg": "22.50",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/19",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "138",
+        "wickets": "4",
+        "bowl avg": "35.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/44",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Withyham Cricket Club": "2012\u20132017",
+        "Oxford University": "2017\u20132020",
+        "Oxford MCCU": "2018\u20132019",
+        "Nottinghamshire": "2022",
+        "\u2192 Derbyshire (on loan)": "2022",
+        "\u2192 Kent (on loan)": "2022"
+    },
+    "birth_date": "1998-5-11"
+}

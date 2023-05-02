@@ -1,0 +1,35 @@
+{
+    "name": "John Challen",
+    "country": "England",
+    "fullname": "John Bonamy Challen",
+    "birth_place": "Ruthin, Denbighshire, Wales",
+    "death_date": "1937",
+    "death_place": "Eastbourne, Sussex, England",
+    "heightft": "5",
+    "heightinch": "6.5",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "First-class",
+    "source": "https://cricketarchive.com/Archive/Players/3/3480/3480.html CricketArchive",
+    "module": "Infobox football biography",
+    "embed": "yes",
+    "header-color": "#b0c4de   |name           = John Challen   |position       = Right wing   |nationalyears1 = 1887\u20131890   |nationalteam1  = Wales   |nationalcaps1  = 4   |nationalgoals1 = 0 ",
+    "First-class": {
+        "matches": "52",
+        "runs": "1656",
+        "bat avg": "19.71",
+        "100s/50s": "1/6",
+        "top score": "108",
+        "deliveries": "1029",
+        "wickets": "16",
+        "bowl avg": "35.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/43",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1880\u201399"
+    },
+    "birth_date": "1863-03-23"
+}

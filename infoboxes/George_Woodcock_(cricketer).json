@@ -1,0 +1,28 @@
+{
+    "name": "George Woodcock",
+    "fullname": "George Woodcock",
+    "birth_place": "Warrington, Lancashire, England",
+    "death_date": "1968",
+    "death_place": "Bruton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "https://cricketarchive.com/Archive/Players/3/3906/3906.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "68",
+        "bat avg": "34.00",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "228",
+        "wickets": "4",
+        "bowl avg": "29.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/119",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1921"
+    },
+    "birth_date": "1894-4-21"
+}

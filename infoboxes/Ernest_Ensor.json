@@ -1,0 +1,22 @@
+{
+    "name": "Ernest Ensor",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/29/29287/29287.html CricketArchive",
+    "First-class": {
+        "matches": "4",
+        "runs": "65",
+        "bat avg": "9.28",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "1,016",
+        "wickets": "23",
+        "bowl avg": "20.34",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/74",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

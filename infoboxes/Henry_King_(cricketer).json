@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Henry Clark King",
+    "birth_place": "Durham, County Durham, England",
+    "death_date": "1920",
+    "death_place": "Hove, Sussex, England",
+    "family": "Charles King (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16036.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1895"
+    }
+}

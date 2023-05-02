@@ -1,0 +1,37 @@
+{
+    "name": "Abigail Freeborn",
+    "female": "true",
+    "country": "England",
+    "fullname": "Abigail Johanna Freeborn",
+    "birth_place": "Eastbourne, East Sussex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/869/869470/869470.html CricketArchive ",
+    "WLA": {
+        "matches": "58",
+        "runs": "959",
+        "bat avg": "24.58",
+        "100s/50s": "0/2",
+        "top score": "72",
+        "catches/stumpings": "44/15"
+    },
+    "WT20": {
+        "matches": "76",
+        "runs": "806",
+        "bat avg": "19.65",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "catches/stumpings": "20/28"
+    },
+    "clubs": {
+        "Sussex": "2013\u20132020",
+        "\u2192 Yorkshire (on loan)": "2019",
+        "Loughborough Lightning": "2017\u20132019",
+        "Lightning": "2020\u20132021",
+        "Leicestershire": "2021",
+        "Trent Rockets": "2021\u2013present",
+        "Staffordshire": "2022\u2013present",
+        "Central Sparks": "2022\u2013present"
+    },
+    "birth_date": "1996-11-12"
+}

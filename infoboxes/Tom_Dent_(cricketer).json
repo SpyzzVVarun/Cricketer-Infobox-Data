@@ -1,0 +1,26 @@
+{
+    "name": "Tom Dent",
+    "fullname": "Thomas Henry Dent",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "11 September 1929",
+    "death_place": "Kyogle, New South Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/36886.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "122",
+        "bat avg": "17.42",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "wickets": "35",
+        "bowl avg": "15.48",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "9/47",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Hawke's Bay": "1900-01 to 1901-02"
+    }
+}

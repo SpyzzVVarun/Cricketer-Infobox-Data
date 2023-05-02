@@ -1,0 +1,33 @@
+{
+    "name": "Patrick Quinlan",
+    "country": "Australia",
+    "fullname": "Patrick Francis Quinlan",
+    "birth_place": "Perth, Western Australia",
+    "death_date": "1935",
+    "death_place": "Perth Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "family": "Timothy Quinlan (father) Bernard Quinlan (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/16/16586/16586.html CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "530",
+        "bat avg": "26.50",
+        "100s/50s": "0/4",
+        "top score": "80",
+        "deliveries": "884",
+        "wickets": "10",
+        "bowl avg": "53.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/38",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Woodbrook C&G": "1912",
+        "Ireland": "1912\u20131914",
+        "Western Australia": "1925/26\u20131928/29"
+    },
+    "birth_date": "1891-3-17"
+}

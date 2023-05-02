@@ -1,0 +1,50 @@
+{
+    "name": "Mabel Corby",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1935",
+    "fullname": "Mabel Cecilia Corby",
+    "birth_place": "Whanganui, New Zealand",
+    "death_date": "1993",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "onetest": "true",
+    "testdebutdate": "16 February",
+    "testdebutyear": "1935",
+    "testdebutagainst": "England",
+    "testcap": "4",
+    "source": "https://cricketarchive.com/Archive/Players/17/17251/17251.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "144",
+        "wickets": "1",
+        "bowl avg": "52.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/13",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1937/38"
+    },
+    "birth_date": "1913-10-25"
+}

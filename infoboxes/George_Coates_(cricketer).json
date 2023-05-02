@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Coates",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "death_date": "1885 (aged 67/68)",
+    "death_place": "Sheffield, Yorkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11648.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "610",
+        "bat avg": "16.48",
+        "100s/50s": "\u2013/3",
+        "top score": "61",
+        "deliveries": "28",
+        "wickets": "1",
+        "bowl avg": "21.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/9",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1844&ndash;1853"
+    }
+}

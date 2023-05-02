@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Walter Greive",
+    "birth_place": "Selkirk, Selkirkshire, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Arras, Pas-de-Calais, France",
+    "family": "John Greive (brother), William Greive (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/35380.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "6.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "90",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1912&ndash;1914"
+    }
+}

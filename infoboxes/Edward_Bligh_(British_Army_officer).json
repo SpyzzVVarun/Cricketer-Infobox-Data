@@ -1,0 +1,38 @@
+{
+    "name": "Edward Bligh",
+    "birth_place": "County Meath, Kingdom of Ireland",
+    "death_date": "df=yes",
+    "death_place": "Thames Ditton, Surrey, England",
+    "nickname": "Skirmish Bligh",
+    "role": "Batsman",
+    "family": "Thomas Bligh (great-grandfather)",
+    "type1": "FC",
+    "debutdate1": "6 August",
+    "debutyear1": "1789",
+    "debutfor1": "MCC",
+    "debutagainst1": "Hornchurch",
+    "lastdate1": "7 June",
+    "lastyear1": "1813",
+    "lastfor1": "E Bligh's XI",
+    "lastagainst1": "F Beauclerk's XI",
+    "source": "https://www.espncricinfo.com/player/edward-bligh-9810 CricInfo",
+    "First-class": {
+        "matches": "76",
+        "runs": "1,311",
+        "bat avg": "10.24",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "deliveries": "?name=balls",
+        "wickets": "2name=wickets",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/?",
+        "catches/stumpings": "36/6"
+    },
+    "clubs": {
+        "MCC": "1789\u20131809",
+        "Kent": "1790\u20131806"
+    },
+    "birth_date": "1767-09-19"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Sidney King",
+    "birth_place": "Rushden, Northamptonshire, England",
+    "death_date": "1972",
+    "death_place": "Rushden, Northamptonshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16044.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "47",
+        "bat avg": "9.40",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1907&ndash;1908"
+    }
+}

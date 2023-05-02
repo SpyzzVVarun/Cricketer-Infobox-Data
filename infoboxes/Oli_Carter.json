@@ -1,0 +1,46 @@
+{
+    "name": "Oli Carter",
+    "fullname": "Oliver James Carter",
+    "birth_place": "Eastbourne, East Sussex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "4 July",
+    "debutyear1": "2021",
+    "debutfor1": "Sussex",
+    "debutagainst1": "Glamorgan",
+    "type2": "List A",
+    "debutdate2": "23 July",
+    "debutyear2": "2021",
+    "debutfor2": "Sussex",
+    "debutagainst2": "Lancashire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1145103.html Cricinfo ",
+    "FC": {
+        "matches": "17",
+        "runs": "1,021",
+        "bat avg": "35.20",
+        "100s/50s": "1/7",
+        "top score": "185",
+        "catches/stumpings": "42/0"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "163",
+        "bat avg": "27.16",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "catches/stumpings": "11/2"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Sussex( 11 )": "2021\u2013present"
+    },
+    "birth_date": "2001-11-2"
+}

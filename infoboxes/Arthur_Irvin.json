@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Arthur John Edward Irvin",
+    "birth_place": "Hackness, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Old Basing, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/15434.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Oxford University": "1868&ndash;1871"
+    }
+}

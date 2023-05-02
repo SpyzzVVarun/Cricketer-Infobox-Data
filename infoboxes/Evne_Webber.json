@@ -1,0 +1,48 @@
+{
+    "name": "Evne Webber",
+    "female": "true",
+    "fullname": "Evne Webber",
+    "birth_place": "Port Elizabeth, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "internationalspan": "1999",
+    "country": "South Africa",
+    "oneodi": "true",
+    "odidebutdate": "17 February",
+    "odidebutyear": "1999",
+    "odidebutagainst": "New Zealand",
+    "odicap": "23",
+    "source": "https://cricketarchive.com/Archive/Players/8/8075/8075.html CricketArchive ",
+    "WODI": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "69",
+        "runs": "1,559",
+        "bat avg": "26.87",
+        "100s/50s": "1/8",
+        "deliveries": "1,700",
+        "wickets": "57",
+        "bowl avg": "14.96",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/4",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1998/99\u20132010/11"
+    },
+    "birth_date": "1977-6-1"
+}

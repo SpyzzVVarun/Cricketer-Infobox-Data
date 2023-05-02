@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Stephen Cantwell",
+    "birth_place": "Durham, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/1141890.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "73",
+        "bat avg": "73.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "deliveries": "330",
+        "wickets": "2",
+        "bowl avg": "92.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/67",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Leeds/Bradford MCCU": "2019"
+    },
+    "birth_date": "1996-8-11"
+}

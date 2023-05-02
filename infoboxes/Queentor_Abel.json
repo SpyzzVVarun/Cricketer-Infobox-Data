@@ -1,0 +1,32 @@
+{
+    "name": "Queentor Abel",
+    "female": "true",
+    "country": "Kenya",
+    "fullname": "Queentor Abel",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "T20Idebutdate": "6 April",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Zimbabwe",
+    "T20Icap": "1",
+    "lastT20Idate": "17 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Qatar",
+    "source": "https://www.espncricinfo.com/player/queentor-abel-1119431 Cricinfo ",
+    "WT20I": {
+        "matches": "26",
+        "runs": "512",
+        "bat avg": "22.26",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "548",
+        "wickets": "31",
+        "bowl avg": "14.03",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/18",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {},
+    "birth_date": "1997-10-6"
+}

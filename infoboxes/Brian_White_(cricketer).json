@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Brian Humphrey White",
+    "birth_place": "Salisbury, Wiltshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/23268.html Cricinfo ",
+    "List A": {
+        "matches": "15",
+        "runs": "133",
+        "bat avg": "8.86",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties South": "1972-1974",
+        "Wiltshire": "1964-1991"
+    },
+    "birth_date": "1944-10-3"
+}

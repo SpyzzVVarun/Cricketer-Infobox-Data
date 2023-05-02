@@ -1,0 +1,49 @@
+{
+    "name": "Jack Martin",
+    "fullname": "John William Martin",
+    "birth_place": "Catford, London",
+    "death_date": "1987",
+    "death_place": "Woolwich, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "England",
+    "internationalspan": "1947",
+    "onetest": "true",
+    "testdebutdate": "7 June",
+    "testdebutyear": "1947",
+    "testdebutagainst": "South Africa",
+    "testcap": "319",
+    "source": "http://www.espncricinfo.com/ci/content/player/16921.html CricInfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "270",
+        "wickets": "1",
+        "bowl avg": "111.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/111",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "44",
+        "runs": "623",
+        "bat avg": "11.53",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "9,608",
+        "wickets": "162",
+        "bowl avg": "24.00",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "7/53",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Kent": "1939\u20131953"
+    },
+    "birth_date": "1917-2-16"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Richard Gane Wright",
+    "birth_place": "Gisburn, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Cookham, Berkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/35992.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "18.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1896&ndash;1898",
+        "Europeans": "1922/23"
+    }
+}

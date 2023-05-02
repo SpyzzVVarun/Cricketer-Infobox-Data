@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "John Andrew Claughton",
+    "birth_place": "Southampton, Hampshire, England",
+    "family": "John Claughton senior (uncle), Tom Claughton (cousin)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/10743.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "503",
+        "bat avg": "25.15",
+        "100s/50s": "\u2013/3",
+        "top score": "85",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1998&ndash;2000",
+        "Oxford Universities": "2000"
+    },
+    "birth_date": "1978-10-28"
+}

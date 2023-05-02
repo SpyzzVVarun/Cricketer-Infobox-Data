@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Frederick Charles Bracher",
+    "birth_place": "Bedminster, Bristol, England",
+    "death_date": "1947",
+    "death_place": "Portishead, Somerset, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/9926.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "163",
+        "bat avg": "7.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1895\u20131897"
+    }
+}

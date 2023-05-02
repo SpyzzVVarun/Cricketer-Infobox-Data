@@ -1,0 +1,58 @@
+{
+    "name": "Kevin Arnott",
+    "country": "Zimbabwe",
+    "fullname": "Kevin John Arnott",
+    "birth_place": "Salisbury, Rhodesia",
+    "family": "Don Arnott (father)",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "internationalspan": "1987\u20131993",
+    "testdebutdate": "18 October",
+    "testdebutyear": "1992",
+    "testdebutagainst": "India",
+    "testcap": "1",
+    "lasttestdate": "13 March",
+    "lasttestyear": "1993",
+    "lasttestagainst": "India",
+    "odidebutdate": "17 October",
+    "odidebutyear": "1987",
+    "odidebutagainst": "India",
+    "odicap": "17",
+    "lastodidate": "22 March",
+    "lastodiyear": "1993",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/55235.html ESPNcricinfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "302",
+        "bat avg": "43.14",
+        "100s/50s": "1/1",
+        "catches/stumpings": "4/\u2013"
+    },
+    "ODI": {
+        "matches": "13",
+        "runs": "238",
+        "bat avg": "23.80",
+        "100s/50s": "0/3",
+        "top score": "60",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "35",
+        "runs": "1,719",
+        "bat avg": "30.69",
+        "100s/50s": "3/11",
+        "top score": "121",
+        "catches/stumpings": "23/\u2013"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "758",
+        "bat avg": "23.68",
+        "100s/50s": "0/6",
+        "top score": "85",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1961-3-8"
+}

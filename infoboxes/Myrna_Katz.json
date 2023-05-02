@@ -1,0 +1,28 @@
+{
+    "name": "Myrna Katz",
+    "female": "true",
+    "fullname": "Myrna Aileen Katz",
+    "birth_place": "Johannesburg, South Africa",
+    "role": "Batter",
+    "internationalspan": "1972",
+    "country": "South Africa",
+    "testdebutdate": "10 March",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "testcap": "24",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1972",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17375/17375.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "46",
+        "bat avg": "15.33",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Southern Transvaal": "1965/66\u20131971/72"
+    }
+}

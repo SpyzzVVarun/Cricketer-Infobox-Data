@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Walker Pulman",
+    "birth_place": "Wellington, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Wellington, Somerset, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/19087.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "271",
+        "bat avg": "18.06",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1874&ndash;1875"
+    }
+}

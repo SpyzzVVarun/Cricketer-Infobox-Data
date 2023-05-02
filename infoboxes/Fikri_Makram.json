@@ -1,0 +1,16 @@
+{
+    "name": "Fikri Makram",
+    "country": "Malaysia",
+    "source": "http://www.espncricinfo.com/ci/content/player/1037553.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1993-6-29",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

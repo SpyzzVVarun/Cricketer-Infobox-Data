@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "James Noel Brophy",
+    "birth_place": "Cork, Ireland",
+    "death_date": "1994",
+    "death_place": "Stamullen, County Meath, Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/24327.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1938"
+    }
+}

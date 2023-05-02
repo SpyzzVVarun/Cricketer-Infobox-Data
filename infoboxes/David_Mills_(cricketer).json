@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "David Cecil Mills",
+    "birth_place": "Camborne, Cornwall, England",
+    "death_date": "2013",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17585.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "48",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Free Foresters": "1960",
+        "Gloucestershire": "1958"
+    },
+    "birth_date": "1937-4-23"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Cecil Pouchet",
+    "fullname": "Cecil Lewis Pouchet",
+    "birth_place": "Trinidad",
+    "death_date": "1963",
+    "death_place": "Trinidad",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/52783.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "45",
+        "bat avg": "4.09",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "3030",
+        "wickets": "51",
+        "bowl avg": "26.27",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "8/120",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1938-39 to 1948-49"
+    }
+}

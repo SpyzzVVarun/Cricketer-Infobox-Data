@@ -1,0 +1,22 @@
+{
+    "name": "Arthur Bartholomew",
+    "country": "England",
+    "fullname": "Arthur Churchill Bartholomew",
+    "birth_place": "Lympstone, Devon, England",
+    "death_date": "1940",
+    "death_place": "Reading, Berkshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/9575.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "158",
+        "bat avg": "15.80",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1866\u20131868"
+    },
+    "birth_date": "1846-2-21"
+}

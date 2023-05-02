@@ -1,0 +1,23 @@
+{
+    "name": "Clement Tommy",
+    "country": "Vanuatu",
+    "T20Idebutdate": "24 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Philippines",
+    "T20Icap": "13",
+    "lastT20Idate": "16 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Fiji",
+    "source": "http://www.espncricinfo.com/ci/content/player/647711.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1997-6-27",
+    "medaltemplates": [
+        "Country: {{VAN}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Chris Benham",
+    "country": "England",
+    "fullname": "Christopher Charles Benham",
+    "nickname": "Benny, Benoit, Benloy",
+    "birth_place": "Frimley, Surrey, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "source": "http://www.cricinfo.com/countycricket2008/content/player/10309.html Cricinfo ",
+    "FC": {
+        "matches": "48",
+        "runs": "2,103",
+        "bat avg": "27.31",
+        "100s/50s": "2/10",
+        "top score": "111",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "51/\u2013"
+    },
+    "LA": {
+        "matches": "63",
+        "runs": "1,731",
+        "bat avg": "35.32",
+        "100s/50s": "4/9",
+        "top score": "158",
+        "deliveries": "1",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "26/\u2013"
+    },
+    "T20": {
+        "matches": "37",
+        "runs": "447",
+        "bat avg": "15.96",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "2001",
+        "Loughborough UCCE": "2004",
+        "Hampshire( 20 )": "2004\u20132010",
+        "Unicorns": "2011",
+        "Wiltshire": "2011"
+    },
+    "birth_date": "1983-3-24"
+}

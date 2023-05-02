@@ -1,0 +1,23 @@
+{
+    "name": "Andrew Mansale",
+    "country": "Vanuatu",
+    "T20Idebutdate": "22 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "PNG",
+    "T20Icap": "5",
+    "lastT20Idate": "15 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Cook Islands",
+    "source": "http://www.espncricinfo.com/ci/content/player/275654.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1988-8-5",
+    "medaltemplates": [
+        "Country: {{VAN}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

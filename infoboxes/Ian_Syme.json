@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Ian Alexander Hastie Syme",
+    "birth_place": "Stirling, Stirlingshire, Scotland",
+    "death_date": "2018",
+    "death_place": "Dundee, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/ian-syme-25371 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1950"
+    }
+}

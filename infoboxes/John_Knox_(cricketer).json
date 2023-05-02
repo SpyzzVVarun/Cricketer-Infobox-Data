@@ -1,0 +1,24 @@
+{
+    "country": "Argentina",
+    "fullname": "John Knox",
+    "birth_place": "Buenos Aires, Argentina",
+    "death_date": "df=yes",
+    "death_place": "Buenos Aires, Argentina",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23637.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "575",
+        "bat avg": "31.94",
+        "100s/50s": "1/2",
+        "deliveries": "138",
+        "wickets": "1",
+        "bowl avg": "87.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/46",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {}
+}

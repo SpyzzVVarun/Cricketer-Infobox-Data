@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Southern Hope",
+    "birth_place": "England",
+    "death_date": "1916",
+    "death_place": "Kensington, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15279.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "26",
+        "bat avg": "5.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "8",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1858\u20131859"
+    }
+}

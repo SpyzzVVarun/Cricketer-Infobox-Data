@@ -1,0 +1,29 @@
+{
+    "name": "Charles Yaldren",
+    "country": "England",
+    "fullname": "Charles Henry Yaldren",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1916",
+    "death_place": "Thiepval, Picardy, France",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/23520.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "60.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/52",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1912"
+    },
+    "birth_date": "1891-12-8"
+}

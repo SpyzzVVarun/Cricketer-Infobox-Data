@@ -1,0 +1,29 @@
+{
+    "name": "Rita Patel",
+    "country": "India",
+    "female": "true",
+    "fullname": "Rita Patel",
+    "birth_place": "Indore",
+    "batting": "Right-handed",
+    "odidebutdate": "15 August",
+    "odidebutyear": "1977",
+    "odidebutagainst": "New Zealand",
+    "odicap": "28",
+    "oneodi": "yes",
+    "source": "https://cricketarchive.com/Archive/Players/17/17149/17149.html CricketArchive ",
+    "WODI": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {}
+}

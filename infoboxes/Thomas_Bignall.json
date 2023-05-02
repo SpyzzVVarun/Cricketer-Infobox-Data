@@ -1,0 +1,30 @@
+{
+    "name": "Thomas Bignall",
+    "country": "England",
+    "fullname": "Thomas Bignall",
+    "birth_place": "Chilwell, Nottinghamshire, England",
+    "death_date": "1898",
+    "death_place": "Hyson Green, Nottingham, England",
+    "batting": "Right-hand bat",
+    "bowling": "Fast",
+    "role": "Batsman",
+    "source": "http://www.cricinfo.com/ci/content/player/9747.html CricInfo ",
+    "First-class": {
+        "matches": "90",
+        "runs": "2656",
+        "bat avg": "18.31",
+        "100s/50s": "1/19",
+        "wickets": "2",
+        "bowl avg": [
+            ""
+        ],
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "19/0"
+    },
+    "clubs": {
+        "Nottinghamshire": "1863\u20131878"
+    },
+    "birth_date": "1842-01-08"
+}

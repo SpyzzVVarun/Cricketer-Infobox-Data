@@ -1,0 +1,55 @@
+{
+    "country": "England",
+    "fullname": "Craig James Robert Jennings",
+    "birth_place": "Rugeley, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15824.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "64.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/64",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "63.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/29",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "2005",
+        "Northamptonshire Cricket Board": "2001"
+    },
+    "birth_date": "1984-11-13"
+}

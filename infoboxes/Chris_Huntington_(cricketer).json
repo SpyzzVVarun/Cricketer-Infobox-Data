@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Christopher James Huntington",
+    "birth_place": "Chelmsford, Essex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/244541.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "111",
+        "bat avg": "13.87",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge UCCE": "2006&ndash;2007"
+    },
+    "birth_date": "1987-3-29"
+}

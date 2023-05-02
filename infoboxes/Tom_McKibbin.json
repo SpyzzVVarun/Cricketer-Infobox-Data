@@ -1,0 +1,48 @@
+{
+    "name": "Tom McKibbin",
+    "fullname": "Thomas Robert McKibbin",
+    "birth_place": "Raglan, Bathurst, New South Wales",
+    "death_date": "df=yes",
+    "death_place": "Bathurst, New South Wales",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "1 March",
+    "testdebutyear": "1895",
+    "lasttestdate": "1 January",
+    "lasttestagainst": "England",
+    "lasttestyear": "1898",
+    "source": "http://www.espncricinfo.com/australia/content/player/6579.html Cricinfo",
+    "Test": {
+        "matches": "5",
+        "runs": "88",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "deliveries": "1,032",
+        "wickets": "17",
+        "bowl avg": "29.17",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/35",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "57",
+        "runs": "682",
+        "bat avg": "10.02",
+        "100s/50s": "0/1",
+        "top score": "75",
+        "deliveries": "12,726",
+        "wickets": "320",
+        "bowl avg": "19.67",
+        "fivefor": "28",
+        "tenfor": "11",
+        "best bowling": "9/68",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1894/95\u20131898/99"
+    },
+    "birth_date": "1870-12-10"
+}

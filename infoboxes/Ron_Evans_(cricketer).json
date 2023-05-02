@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Ronald Ernest Evans",
+    "birth_place": "East Ham, Essex, England",
+    "death_date": "1992",
+    "death_place": "Upminster, Essex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/12542.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "482",
+        "bat avg": "16.62",
+        "100s/50s": "\u2013/3",
+        "top score": "79",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Essex": "1950\u20131957"
+    },
+    "birth_date": "1922-7-22"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Khershed Meherhomji",
+    "full_name": "Khershed Rustomji Meherhomji",
+    "birth_place": "Bombay, British India",
+    "death_date": "10 February 1982 (aged 70)",
+    "death_place": "Bombay, Maharashtra, India",
+    "batting": "Right-handed",
+    "country": "India",
+    "testdebutagainst": "England",
+    "testcap": "24",
+    "testdebutdate": "25 July",
+    "testdebutyear": "1936",
+    "onetest": "true",
+    "source": "https://cricketarchive.com/Archive/Players/0/683/683.html CricketArchive",
+    "Test": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "30",
+        "runs": "656",
+        "bat avg": "15.61",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "catches/stumpings": "61/10"
+    },
+    "clubs": {}
+}

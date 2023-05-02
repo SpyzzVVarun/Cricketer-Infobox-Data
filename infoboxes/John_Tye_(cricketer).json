@@ -1,0 +1,38 @@
+{
+    "name": "John Tye",
+    "country": "England",
+    "birth_place": "Bulwell, Nottinghamshire, England",
+    "death_date": "1905",
+    "death_place": "Rastrick, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "5 June",
+    "debutyear1": "1874",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "4 August",
+    "lastyear1": "1881",
+    "lastfor1": "Nottinghamshire",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/33/33471/33471.html CricketArchive ",
+    "First-class": {
+        "matches": "24",
+        "runs": "226",
+        "bat avg": "7.53",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "2241",
+        "wickets": "45",
+        "bowl avg": "24.48",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/41",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1874\u20131875",
+        "Nottinghamshire": "1876\u20131881"
+    },
+    "birth_date": "1848-7-10"
+}

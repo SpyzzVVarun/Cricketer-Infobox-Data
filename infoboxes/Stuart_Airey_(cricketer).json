@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Stuart James Airey",
+    "birth_place": "Cleethorpes, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/8921.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "272",
+        "bat avg": "34.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "72",
+        "deliveries": "872",
+        "wickets": "6",
+        "bowl avg": "104.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/32",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "42",
+        "wickets": "2",
+        "bowl avg": "11.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/22",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford UCCE": "2003\u20132005",
+        "Lincolnshire": "2001\u2013present"
+    },
+    "birth_date": "1983-3-18"
+}

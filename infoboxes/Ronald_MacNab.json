@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Maurice Ronald MacNab",
+    "birth_place": "Hythe, Kent, England",
+    "death_date": "1962",
+    "death_place": "Marian-glas, Anglesey, Wales",
+    "batting": "Left-handed",
+    "bowling": "Left-arm (unknown Left-arm (unknown style)",
+    "source": "http://www.espncricinfo.com/ci/content/player/17267.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "16.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/16",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Denbighshire": "1934&ndash;1935",
+        "Wales": "1930"
+    },
+    "birth_date": "1902-5-6"
+}

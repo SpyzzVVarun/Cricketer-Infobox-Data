@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "James Bretherton",
+    "birth_place": "Whiston, Lancashire, England",
+    "death_date": "1926",
+    "death_place": "Raby, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9967.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "165",
+        "bat avg": "16.50",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "deliveries": "1,089",
+        "wickets": "24",
+        "bowl avg": "16.50",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/30",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1895"
+    }
+}

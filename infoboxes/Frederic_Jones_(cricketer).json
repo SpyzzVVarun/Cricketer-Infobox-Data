@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Frederic John Jones",
+    "birth_place": "West Derby, Lancashire, England",
+    "death_date": "1921",
+    "death_place": "Liverpool, Lancashire, England",
+    "family": "Charles Jones (brother)",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/15725.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "200",
+        "wickets": "4",
+        "bowl avg": "17.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/71",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {}
+}

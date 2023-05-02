@@ -1,0 +1,59 @@
+{
+    "name": "Ben Cooper",
+    "country": "Netherlands",
+    "fullname": "Benjamin Nicolas Cooper",
+    "birth_place": "Lismore, New South Wales, Australia",
+    "family": "Tom Cooper (brother)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "internationalspan": "2013-present",
+    "odidebutdate": "27 August",
+    "odidebutyear": "2013",
+    "odidebutagainst": "Canada",
+    "odicap": "59",
+    "lastodidate": "7 June",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Ireland",
+    "odishirt": "32",
+    "T20Idebutdate": "15 November",
+    "T20Idebutyear": "2013",
+    "T20Idebutagainst": "Afghanistan",
+    "T20Icap": "29",
+    "lastT20Idate": "22 October",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Sri Lanka",
+    "T20Ishirt": "32",
+    "source": "http://www.espncricinfo.com/ci/content/player/470699.html Cricinfo ",
+    "ODI": {
+        "matches": "13",
+        "runs": "187",
+        "bat avg": "18.70",
+        "100s/50s": "0/1",
+        "top score": "74",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20I": {
+        "matches": "58",
+        "runs": "1,239",
+        "bat avg": "28.15",
+        "100s/50s": "0/8",
+        "catches/stumpings": "35/\u2013"
+    },
+    "FC": {
+        "matches": "4",
+        "runs": "451",
+        "bat avg": "75.16",
+        "100s/50s": "1/3",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "55",
+        "runs": "994",
+        "bat avg": "22.08",
+        "100s/50s": "1/4",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1992-2-10"
+}

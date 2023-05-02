@@ -1,0 +1,38 @@
+{
+    "name": "Naveed Nawaz",
+    "country": "Sri Lanka",
+    "fullname": "Mohamed Naveed Nawaz",
+    "birth_place": "Colombo",
+    "internationalspan": "1998\u20132002",
+    "onetest": "true",
+    "testdebutdate": "28 July",
+    "testdebutyear": "2002",
+    "testdebutagainst": "Bangladesh",
+    "testcap": "132",
+    "odidebutdate": "26 January",
+    "odidebutyear": "1998",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "94",
+    "lastodidate": "30 June",
+    "lastodiyear": "2002",
+    "lastodiagainst": "India",
+    "batting": "Left-handed",
+    "bowling": "Legbreak",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/49767.html Cricinfo  ",
+    "Test": {
+        "matches": "1",
+        "runs": "99",
+        "bat avg": "99.00",
+        "100s/50s": "0/1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "3",
+        "runs": "31",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1973-9-20"
+}

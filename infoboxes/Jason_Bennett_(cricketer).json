@@ -1,0 +1,36 @@
+{
+    "name": "Jason Peterson Bennett",
+    "birth_place": "Mount Standfast, Saint James, Barbados",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/45/45901/45901.html ",
+    "FC": {
+        "matches": "27",
+        "runs": "270",
+        "bat avg": "7.29",
+        "100s/50s": "-/-",
+        "top score": "39",
+        "wickets": "106",
+        "bowl avg": "21.41",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "6/46",
+        "catches/stumpings": "5/0"
+    },
+    "LA": {
+        "matches": "8",
+        "runs": "16",
+        "bat avg": "4.00",
+        "100s/50s": "-/-",
+        "top score": "9",
+        "wickets": "12",
+        "bowl avg": "28.66",
+        "fivefor": "-",
+        "best bowling": "3/44"
+    },
+    "clubs": {
+        "Barbados, Combined Campuses and Colleges, West Indies B": "2002/03-2009/10"
+    },
+    "birth_date": "1982-10-8"
+}

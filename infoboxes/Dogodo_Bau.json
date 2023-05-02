@@ -1,0 +1,41 @@
+{
+    "name": "Dogodo Bau",
+    "country": "Papua New Guinea",
+    "fullname": "Dogodo Bau",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "odidebutdate": "4 November",
+    "odidebutyear": "2016",
+    "odidebutagainst": "Hong Kong",
+    "odicap": "13",
+    "lastodidate": "16 April",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Oman",
+    "source": "http://www.espncricinfo.com/ci/content/player/524249.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "14",
+        "runs": "204",
+        "bat avg": "18.54",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "8/3"
+    },
+    "T20I": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {},
+    "birth_date": "1994-12-5"
+}

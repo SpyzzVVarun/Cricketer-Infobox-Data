@@ -1,0 +1,47 @@
+{
+    "name": "Eve Caesar",
+    "female": "true",
+    "fullname": "Eve Caesar",
+    "death_date": "2002",
+    "death_place": "Tobago",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Batter",
+    "internationalspan": "1993",
+    "country": "West Indies",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "India",
+    "odicap": "16",
+    "lastodidate": "29 July",
+    "lastodiyear": "1993",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/17/17405/17405.html CricketArchive ",
+    "WODI": {
+        "matches": "6",
+        "runs": "106",
+        "bat avg": "21.20",
+        "100s/50s": "0/1",
+        "top score": "78",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "5",
+        "runs": "142",
+        "bat avg": "35.50",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WLA": {
+        "matches": "11",
+        "runs": "280",
+        "bat avg": "31.11",
+        "100s/50s": "0/3",
+        "top score": "78",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1989\u20131996"
+    }
+}

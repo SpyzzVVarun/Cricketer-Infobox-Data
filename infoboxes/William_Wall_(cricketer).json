@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Wall",
+    "birth_place": "Wigan, Lancashire, England",
+    "death_date": "1922",
+    "death_place": "Southport, Lancashire, England",
+    "family": "Henry Wall (brother), Thomas Wall (brother)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/22694.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/2"
+    },
+    "clubs": {
+        "Lancashire": "1877"
+    }
+}

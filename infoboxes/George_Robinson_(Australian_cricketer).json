@@ -1,0 +1,23 @@
+{
+    "name": "George Robinson",
+    "country": "Australia",
+    "fullname": "George David Robinson",
+    "birth_place": "Boulder, Western Australia",
+    "death_date": "1999",
+    "death_place": "Kew, Victoria",
+    "family": "Alexander Robinson (brother), Ray Robinson (cousin)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/7424.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "472",
+        "bat avg": "36.30",
+        "100s/50s": "1/2",
+        "top score": "134",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Western Australia": "1945-46 to 1947-48"
+    },
+    "birth_date": "1921-1-21"
+}

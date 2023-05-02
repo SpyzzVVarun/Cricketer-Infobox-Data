@@ -1,0 +1,43 @@
+{
+    "name": "George Alexander",
+    "birth_place": "Fitzroy, Victoria, Australia http://www.espncricinfo.com/australia/content/player/3944.html George Alexander. espncricinfo.com",
+    "death_date": "6 November 1930 (aged 79)",
+    "death_place": "Richmond, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast roundarm",
+    "country": "Australia",
+    "testdebutdate": "6 September",
+    "testdebutyear": "1880",
+    "lasttestdate": "12 December",
+    "lasttestyear": "1884",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/3944.html",
+    "Tests": {
+        "matches": "2",
+        "runs": "52",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "168",
+        "wickets": "2",
+        "bowl avg": "46.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/69",
+        "catches/stumpings": "2/0"
+    },
+    "First-class": {
+        "matches": "24",
+        "runs": "466",
+        "bat avg": "15.53",
+        "100s/50s": "0/2",
+        "top score": "75",
+        "deliveries": "1754",
+        "wickets": "34",
+        "bowl avg": "17.85",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/57",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {}
+}

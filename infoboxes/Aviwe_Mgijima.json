@@ -1,0 +1,59 @@
+{
+    "name": "Aviwe Mgijima",
+    "country": "South Africa",
+    "fullname": "Aviwe Mgijima",
+    "birth_place": "East London, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "source": "https://www.espncricinfo.com/cricketers/aviwe-mgijima-314991 ESPNcricinfo ",
+    "FC": {
+        "matches": "85",
+        "runs": "2,884",
+        "bat avg": "25.75",
+        "100s/50s": "2/15",
+        "top score": "112",
+        "deliveries": "3,923",
+        "wickets": "64",
+        "bowl avg": "33.04",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/24",
+        "catches/stumpings": "63/\u2013"
+    },
+    "LA": {
+        "matches": "79",
+        "runs": "1,246",
+        "bat avg": "20.76",
+        "100s/50s": "0/7",
+        "top score": "77",
+        "deliveries": "667",
+        "wickets": "25",
+        "bowl avg": "22.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "32/\u2013"
+    },
+    "T20": {
+        "matches": "82",
+        "runs": "576",
+        "bat avg": "14.40",
+        "100s/50s": "0/1",
+        "deliveries": "418",
+        "wickets": "21",
+        "bowl avg": "26.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Border": "2007/08",
+        "Western Province": "2009/10\u2013present",
+        "Cape Cobras": "2013/14\u20132020/21",
+        "South Western Districts": "2018/19\u20132019/20",
+        "Cape Town Blitz": "2019"
+    },
+    "birth_date": "1988-8-10"
+}

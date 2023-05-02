@@ -1,0 +1,42 @@
+{
+    "name": "Lester King",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "West Indies",
+    "testdebutagainst": "India",
+    "testdebutdate": "13 April",
+    "testdebutyear": "1962",
+    "lasttestdate": "28 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1968",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/52293.html CricInfo",
+    "Test": {
+        "matches": "2",
+        "runs": "41",
+        "bat avg": "10.25",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "476",
+        "wickets": "9",
+        "bowl avg": "17.11",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/46",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "62",
+        "runs": "1,404",
+        "bat avg": "20.64",
+        "100s/50s": "0/6",
+        "top score": "89",
+        "deliveries": "9,742",
+        "wickets": "142",
+        "bowl avg": "31.42",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/46",
+        "catches/stumpings": "38/\u2013"
+    },
+    "clubs": {}
+}

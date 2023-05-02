@@ -1,0 +1,39 @@
+{
+    "name": "Brian Hone",
+    "country": "Australia",
+    "fullname": "Sir Brian William Hone",
+    "birth_place": "Semaphore, South Australia",
+    "death_date": "1978",
+    "death_place": "Paris, France",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "30 November",
+    "debutyear1": "1928",
+    "debutfor1": "South Australia",
+    "debutagainst1": "Victoria",
+    "lastdate1": "10 July",
+    "lastyear1": "1933",
+    "lastfor1": "Oxford University",
+    "lastagainst1": "Cambridge University",
+    "source": "https://web.archive.org/web/20160303233150/http://cricketarchive.co.uk/SouthAustralia/Players/16/16191/16191.html CricketArchive ",
+    "First-class": {
+        "matches": "44",
+        "runs": "2768",
+        "bat avg": "40.11",
+        "100s/50s": "9/8",
+        "top score": "170",
+        "deliveries": "?",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "25/0"
+    },
+    "clubs": {
+        "South Australia": "1928/29\u20131929/30",
+        "Oxford University": "1931\u20131933"
+    },
+    "birth_date": "1907-7-1"
+}

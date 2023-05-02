@@ -1,0 +1,30 @@
+{
+    "name": "Cecil Boswell",
+    "fullname": "Cecil Stanley Reginald Boswell",
+    "birth_place": "Edmonton, Middlesex, England",
+    "death_date": "1985",
+    "death_place": "Brundall, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/9159.html Cricinfo ",
+    "First-class": {
+        "matches": "30",
+        "runs": "406",
+        "bat avg": "10.68",
+        "100s/50s": "0/1",
+        "top score": "69",
+        "deliveries": "2,597",
+        "wickets": "36",
+        "bowl avg": "37.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Essex": "1932\u20131936",
+        "Norfolk": "1939\u20131955"
+    },
+    "birth_date": "1910-1-19"
+}

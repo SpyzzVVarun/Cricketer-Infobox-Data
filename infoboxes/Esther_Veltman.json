@@ -1,0 +1,33 @@
+{
+    "name": "Esther Veltman",
+    "female": "true",
+    "birth_place": "Oegstgeest",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Bowler",
+    "country": "Netherlands",
+    "internationalspan": "1985\u20131993",
+    "odidebutdate": "30 November",
+    "odidebutyear": "1988",
+    "odidebutagainst": "Ireland",
+    "odicap": "18",
+    "lastodidate": "29 July",
+    "lastodiyear": "1993",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Players/17/17221/17221.html CricketArchive ",
+    "WODI": {
+        "matches": "19",
+        "runs": "91",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "1,094",
+        "wickets": "17",
+        "bowl avg": "32.17",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/26",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1966-12-27"
+}

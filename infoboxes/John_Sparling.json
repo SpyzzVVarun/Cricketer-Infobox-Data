@@ -1,0 +1,49 @@
+{
+    "name": "John Sparling",
+    "fullname": "John Trevor Sparling",
+    "birth_place": "Mount Eden, Auckland, New Zealand",
+    "internationalspan": "1958\u20131964",
+    "country": "New Zealand",
+    "testdebutagainst": "England",
+    "testdebutdate": "3 July",
+    "testdebutyear": "1958",
+    "testcap": "84",
+    "lasttestdate": "28 February",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1964",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38399.html Cricinfo ",
+    "Test": {
+        "matches": "11",
+        "runs": "229",
+        "bat avg": "12.72",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "708",
+        "wickets": "5",
+        "bowl avg": "65.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "127",
+        "runs": "4,606",
+        "bat avg": "24.37",
+        "100s/50s": "2/27",
+        "top score": "105",
+        "deliveries": "18,824",
+        "wickets": "318",
+        "bowl avg": "22.71",
+        "fivefor": "17",
+        "tenfor": "3",
+        "best bowling": "7/49",
+        "catches/stumpings": "86/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1956/57\u20131970/71"
+    },
+    "birth_date": "1938-7-24"
+}

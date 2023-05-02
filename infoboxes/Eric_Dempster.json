@@ -1,0 +1,52 @@
+{
+    "name": "Eric Dempster",
+    "honorific_suffix": "country=NZL",
+    "fullname": "Eric William Dempster",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "2011",
+    "death_place": "Dunedin, New Zealand",
+    "internationalspan": "1953\u20131954",
+    "country": "New Zealand",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "13 March",
+    "testdebutyear": "1953",
+    "testcap": "62",
+    "lasttestdate": "5 February",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1954",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36828.html Cricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "106",
+        "bat avg": "17.66",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "544",
+        "wickets": "2",
+        "bowl avg": "109.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "52",
+        "runs": "1,593",
+        "bat avg": "21.82",
+        "100s/50s": "1/7",
+        "top score": "105",
+        "deliveries": "8,125",
+        "wickets": "102",
+        "bowl avg": "30.80",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/46",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1947/48\u20131960/61"
+    },
+    "birth_date": "1925-1-25"
+}

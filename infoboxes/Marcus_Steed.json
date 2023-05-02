@@ -1,0 +1,28 @@
+{
+    "name": "Marcus Steed",
+    "country": "England",
+    "fullname": "Marcus Harvey Steed",
+    "birth_place": "Market Harborough, Leicestershire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/21402.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "55",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "108",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire Cricket Board": "2001\u20132002",
+        "Bedfordshire": "2003\u20132009"
+    },
+    "birth_date": "1975-5-8"
+}

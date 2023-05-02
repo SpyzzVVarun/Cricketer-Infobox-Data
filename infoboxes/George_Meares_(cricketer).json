@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Brooke Meares",
+    "birth_place": "Glandyfi, Cardiganshire, Wales",
+    "death_date": "1894",
+    "death_place": "Twickenham, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/17510.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "52",
+        "bat avg": "8.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "278",
+        "wickets": "7",
+        "bowl avg": "23.28",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/18",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1876"
+    }
+}

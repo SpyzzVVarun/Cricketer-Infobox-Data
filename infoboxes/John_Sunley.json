@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "John Sunley",
+    "birth_place": "Grimsby, Lincolnshire, England",
+    "death_date": "2009",
+    "death_place": "Humberston, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21214.html Cricinfo ",
+    "List A": {
+        "matches": "8",
+        "runs": "71",
+        "bat avg": "10.14",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "24",
+        "wickets": "2",
+        "bowl avg": "8.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/5",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties East": "1976&ndash;1977",
+        "Lincolnshire": "1966&ndash;1984"
+    },
+    "birth_date": "1946-10-10"
+}

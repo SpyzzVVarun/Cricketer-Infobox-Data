@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Basil Duck Reed",
+    "birth_place": "Malmesbury, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Wroughton, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/19627.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "83.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/56",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1921&ndash;1923"
+    }
+}

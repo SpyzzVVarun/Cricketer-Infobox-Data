@@ -1,0 +1,63 @@
+{
+    "name": "Lorna McKoy",
+    "female": "true",
+    "fullname": "Lorna McKoy",
+    "birth_place": "Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "1997",
+    "country": "West Indies",
+    "odidebutdate": "15 December",
+    "odidebutyear": "1997",
+    "odidebutagainst": "New Zealand",
+    "odicap": "35",
+    "lastodidate": "20 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Archive/Players/17/17431/17431.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "102",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "4",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "156",
+        "wickets": "11",
+        "bowl avg": "11.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/11",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "12",
+        "runs": "74",
+        "bat avg": "37.00",
+        "100s/50s": "0/0",
+        "deliveries": "102",
+        "wickets": "25",
+        "bowl avg": "9.12",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/14",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1990\u20132001"
+    }
+}

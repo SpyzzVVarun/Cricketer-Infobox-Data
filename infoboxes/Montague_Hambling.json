@@ -1,0 +1,39 @@
+{
+    "name": "Montague Hambling",
+    "country": "England",
+    "fullname": "Montague Leslie Hambling",
+    "birth_place": "Croydon, Surrey, England",
+    "death_date": "1960",
+    "death_place": "Stoke Bishop, Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "29 May",
+    "debutyear1": "1920",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "23 June",
+    "lastyear1": "1927",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3594/3594.html CricketArchive ",
+    "First-class": {
+        "matches": "18",
+        "runs": "350",
+        "bat avg": "13.46",
+        "100s/50s": "&ndash;/2",
+        "top score": "59",
+        "deliveries": "973",
+        "wickets": "24",
+        "bowl avg": "20.54",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/31",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1920&ndash;27"
+    },
+    "birth_date": "1893-12-6"
+}

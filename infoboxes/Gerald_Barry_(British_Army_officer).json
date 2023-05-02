@@ -1,0 +1,37 @@
+{
+    "name": "Gerald Barry",
+    "fullname": "Gerald Barry",
+    "birth_place": "Westminster, London",
+    "death_date": "1977",
+    "death_place": "Great Witchingham, Norfolk",
+    "bowling": "Fast-medium Fast-medium bowler",
+    "role": "Nobody",
+    "type1": "First-class",
+    "debutdate1": "10 May",
+    "debutyear1": "1922",
+    "debutfor1": "Combined Services",
+    "debutagainst1": "Essex",
+    "lastdate1": "10 May",
+    "lastyear1": "1922",
+    "lastfor1": "Combined Services",
+    "lastagainst1": "Essex",
+    "source": "https://cricketarchive.com/Archive/Players/27/27724/27724.html CricketArchive",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "132",
+        "wickets": "0",
+        "bowl avg": ">68",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0\u201311",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Combined Services": "1922"
+    },
+    "birth_date": "1896-12-18"
+}

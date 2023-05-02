@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "William Norman Walker",
+    "birth_place": "Greenock, Renfrewshire, Scotland",
+    "death_date": "1960",
+    "death_place": "Greenock, Renfrewshire, Scotland",
+    "family": "John Walker (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/william-walker-25385 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "200",
+        "bat avg": "18.18",
+        "100s/50s": "\u2013/1",
+        "top score": "58",
+        "deliveries": "938",
+        "wickets": "18",
+        "bowl avg": "27.88",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/55",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1922&ndash;1925"
+    }
+}

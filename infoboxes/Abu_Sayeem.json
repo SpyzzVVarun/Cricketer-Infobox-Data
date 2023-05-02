@@ -1,0 +1,27 @@
+{
+    "name": "Abu Sayem",
+    "country": "Bangladesh",
+    "fullname": "Abu Sayem Chowdhury",
+    "birth_place": "Bhola, Bangladesh",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/629067.html ESPN Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "3/1"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "146",
+        "bat avg": "16.22",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "11/9"
+    },
+    "clubs": {},
+    "birth_date": "1996-11-08"
+}

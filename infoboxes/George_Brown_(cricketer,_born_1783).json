@@ -1,0 +1,30 @@
+{
+    "name": "George Brown",
+    "country": "England",
+    "birth_place": "Cowley, Oxfordshire",
+    "death_date": "1857",
+    "death_place": "Winchester, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "John Brown (son), George Brown, Jr. (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/10054.html Cricinfo ",
+    "First-class": {
+        "matches": "51",
+        "runs": "1,053",
+        "bat avg": "11.44",
+        "100s/50s": "0/2",
+        "top score": "70",
+        "deliveries": "2,563",
+        "wickets": "89",
+        "bowl avg": "11.33",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/?",
+        "catches/stumpings": "51/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1819\u20131828",
+        "Sussex": "1825\u20131838"
+    },
+    "birth_date": "1887-10-06"
+}

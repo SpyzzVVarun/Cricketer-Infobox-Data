@@ -1,0 +1,40 @@
+{
+    "name": "Robert Bardsley",
+    "country": "England",
+    "fullname": "Robert Vickers Bardsley",
+    "birth_place": "Prestwich, England",
+    "death_date": "1952",
+    "death_place": "Pulborough, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "type1": "First-class",
+    "debutdate1": "30 May",
+    "debutyear1": "1910",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "10 June",
+    "lastyear1": "1922",
+    "lastfor1": "Free Foresters",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/27/27676/27676.html CricketArchive ",
+    "First-class": {
+        "matches": "31",
+        "runs": "964",
+        "bat avg": "18.53",
+        "100s/50s": "0/5",
+        "top score": "72",
+        "deliveries": "579",
+        "wickets": "12",
+        "bowl avg": "28.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3\u201315",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1910\u20131913",
+        "Lancashire": "1920",
+        "Free Foresters": "1920\u20131922"
+    },
+    "birth_date": "1890-6-28"
+}

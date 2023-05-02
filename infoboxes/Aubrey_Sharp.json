@@ -1,0 +1,39 @@
+{
+    "name": "Aubrey Sharp",
+    "country": "England",
+    "fullname": "Aubrey Temple Sharp",
+    "birth_place": "Whitwick, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "John Sharp (son)",
+    "type1": "FC",
+    "debutdate1": "10 August",
+    "debutyear1": "1908",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "MCC",
+    "lastdate1": "14 June",
+    "lastyear1": "1935",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Glamorgan",
+    "source": "https://cricketarchive.com/Archive/Players/32/32690/32690.html CricketArchive ",
+    "First-class": {
+        "matches": "131",
+        "runs": "5,263",
+        "bat avg": "25.67",
+        "100s/50s": "8/18",
+        "top score": "216",
+        "deliveries": "84",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "66/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1908\u20131935"
+    },
+    "birth_date": "1889-3-23"
+}

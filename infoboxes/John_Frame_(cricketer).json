@@ -1,0 +1,16 @@
+{
+    "name": "John Frame",
+    "country": "England",
+    "fullname": "John Frame",
+    "birth_place": "Warlingham, Surrey",
+    "death_date": "11 October 1796",
+    "death_place": "Dartford, Kent",
+    "bowling": "Underarm",
+    "role": "Fast bowler",
+    "clubs": {
+        "Surrey": "1749\u20131750",
+        "Dartford Cricket Club": "1751\u20131774",
+        "Kent": "1751\u20131774",
+        "England": "1751\u20131774"
+    }
+}

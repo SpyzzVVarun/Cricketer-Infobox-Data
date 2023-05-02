@@ -1,0 +1,40 @@
+{
+    "name": "Mahes Goonatilleke",
+    "fullname": "Hettiarachige Mahes Goonatilleke",
+    "birth_place": "Kegalle, Sri Lanka",
+    "country": "Sri Lanka",
+    "internationalspan": "1975\u20131982",
+    "testdebutdate": "17 February",
+    "testdebutyear": "1982",
+    "testdebutagainst": "England",
+    "testcap": "5",
+    "lasttestdate": "17 September",
+    "lasttestyear": "1982",
+    "lasttestagainst": "India",
+    "odidebutdate": "14 June",
+    "odidebutyear": "1975",
+    "odidebutagainst": "Pakistan",
+    "odicap": "23",
+    "lastodidate": "26 September",
+    "lastodiyear": "1982",
+    "lastodiagainst": "India",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/49097.html Cricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "177",
+        "bat avg": "22.12",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "catches/stumpings": "10/3"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "31",
+        "bat avg": "31.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/4"
+    },
+    "clubs": {},
+    "birth_date": "16 August 1952"
+}

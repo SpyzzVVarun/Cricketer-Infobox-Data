@@ -1,0 +1,29 @@
+{
+    "name": "Percy Davis",
+    "fullname": "Charles Percival Davis",
+    "birth_place": "Brackley, Northamptonshire, England",
+    "death_date": "2001",
+    "death_place": "Leicester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Eddie Davis (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/12077.html CricInfo ",
+    "First-class": {
+        "matches": "169",
+        "runs": "6,363",
+        "bat avg": "22.64",
+        "100s/50s": "10/19",
+        "top score": "237",
+        "deliveries": "852",
+        "wickets": "6",
+        "bowl avg": "81.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "72/10"
+    },
+    "clubs": {
+        "Northamptonshire": "1935\u20131952"
+    },
+    "birth_date": "1915-5-24"
+}

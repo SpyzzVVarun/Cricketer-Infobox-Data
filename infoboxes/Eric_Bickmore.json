@@ -1,0 +1,23 @@
+{
+    "name": "Eric Bickmore",
+    "country": "England",
+    "fullname": "Arthur Frederic Bickmore",
+    "birth_place": "Tonbridge, Kent",
+    "death_date": "df=yes",
+    "death_place": "Tonbridge, Kent",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/9741.html CricInfo ",
+    "First-class": {
+        "matches": "64",
+        "runs": "2,254",
+        "bat avg": "23.23",
+        "100s/50s": "2/12",
+        "top score": "120",
+        "catches/stumpings": "41/\u2013"
+    },
+    "clubs": {
+        "Kent": "1919\u20131929",
+        "Oxford University": "1920\u20131921"
+    },
+    "birth_date": "1899-5-19"
+}

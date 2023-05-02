@@ -1,0 +1,50 @@
+{
+    "name": "Buster Nupen",
+    "fullname": "Eiulf Peter Nupen",
+    "birth_place": "near \u00c5lesund, Norway",
+    "death_date": "df=yes",
+    "death_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "5 November",
+    "testdebutyear": "1921",
+    "lasttestdate": "15 February",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1936",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/46594.html CricInfo",
+    "Test": {
+        "matches": "17",
+        "runs": "348",
+        "bat avg": "14.50",
+        "100s/50s": "0/2",
+        "top score": "69",
+        "deliveries": "4,159",
+        "wickets": "50",
+        "bowl avg": "35.75",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/46",
+        "catches/stumpings": "9/\u2013"
+    },
+    "First-class": {
+        "matches": "74",
+        "runs": "1,635",
+        "bat avg": "17.96",
+        "100s/50s": "0/8",
+        "top score": "89",
+        "deliveries": "14,210",
+        "wickets": "334",
+        "bowl avg": "18.19",
+        "fivefor": "33",
+        "tenfor": "12",
+        "best bowling": "9/48",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1920/21\u20131936/37"
+    },
+    "birth_date": "1902-01-01"
+}

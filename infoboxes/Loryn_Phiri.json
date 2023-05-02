@@ -1,0 +1,51 @@
+{
+    "name": "Loryn Phiri",
+    "female": "true",
+    "country": "Zimbabwe",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "9",
+    "lastodidate": "15 November",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Bangladesh",
+    "T20Idebutdate": "5 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Namibia",
+    "T20Icap": "10",
+    "lastT20Idate": "13 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Thailand",
+    "source": "http://www.espncricinfo.com/ci/content/player/1135025.html Cricinfo ",
+    "WODI": {
+        "matches": "4",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "deliveries": "132",
+        "wickets": "2",
+        "bowl avg": "55.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WT20I": {
+        "matches": "25",
+        "runs": "3",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "333",
+        "wickets": "25",
+        "bowl avg": "10.56",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/6",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Mountaineers": "2020/21\u2013present"
+    },
+    "birth_date": "1998-11-4"
+}

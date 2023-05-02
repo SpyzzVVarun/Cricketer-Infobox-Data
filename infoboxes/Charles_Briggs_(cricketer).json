@@ -1,0 +1,23 @@
+{
+    "name": "Charles Briggs",
+    "country": "England",
+    "fullname": "Charles Edward Briggs",
+    "birth_place": "Ashbourne, Derbyshire, England",
+    "death_date": "1949",
+    "death_place": "Sherborne, Dorset, England",
+    "batting": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/9221.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "158",
+        "bat avg": "15.80",
+        "100s/50s": "\u2013/1",
+        "top score": "58",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1900",
+        "Buckinghamshire": "1909"
+    },
+    "birth_date": "1873-9-17"
+}

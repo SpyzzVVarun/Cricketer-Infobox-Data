@@ -1,0 +1,22 @@
+{
+    "name": "Richard de Souza",
+    "birth_place": "Trinidad",
+    "death_date": "2007",
+    "death_place": "Trinidad",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/51708.html ESPNcricinfo",
+    "FC": {
+        "matches": "34",
+        "runs": "1936",
+        "bat avg": "43.02",
+        "100s/50s": "3/15",
+        "top score": "106",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1964/65-1972/73"
+    },
+    "birth_date": "1948-3-1"
+}

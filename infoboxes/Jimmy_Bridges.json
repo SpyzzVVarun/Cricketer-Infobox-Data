@@ -1,0 +1,38 @@
+{
+    "name": "Jimmy Bridges",
+    "country": "England",
+    "fullname": "James John Bridges",
+    "birth_place": "Timsbury, Somerset, England",
+    "death_date": "1966",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "11 May",
+    "debutyear1": "1911",
+    "debutfor1": "Cr team Somerset",
+    "debutagainst1": "Cr team Hampshire",
+    "lastdate1": "27 July",
+    "lastyear1": "1929",
+    "lastfor1": "Cr team Somerset",
+    "lastagainst1": "Cr team Gloucestershire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3454/3454.html CricketArchive ",
+    "First-class": {
+        "matches": "216",
+        "runs": "2418",
+        "bat avg": "10.07",
+        "100s/50s": "0/2",
+        "deliveries": "38251",
+        "wickets": "686",
+        "bowl avg": "25.67",
+        "fivefor": "45",
+        "tenfor": "4",
+        "best bowling": "7/41",
+        "catches/stumpings": "128/\u2013"
+    },
+    "clubs": {
+        "Cr team Somerset": "1911\u20131929"
+    },
+    "birth_date": "1887-06-28"
+}

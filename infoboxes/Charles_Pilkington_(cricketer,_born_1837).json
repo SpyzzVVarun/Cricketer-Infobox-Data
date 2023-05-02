@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Henry Pilkington",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Upper Heyford, Oxfordshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19204.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1858"
+    }
+}

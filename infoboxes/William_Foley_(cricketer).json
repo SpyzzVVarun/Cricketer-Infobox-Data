@@ -1,0 +1,29 @@
+{
+    "name": "William Foley",
+    "country": "South Africa",
+    "fullname": "William Bernard Henry Foley",
+    "birth_place": "Cape Town, Cape Colony",
+    "death_date": "1963",
+    "death_place": "Bergvliet, Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/45059.html Cricinfo ",
+    "First-class": {
+        "matches": "35",
+        "runs": "1941",
+        "bat avg": "44.11",
+        "100s/50s": "1/14",
+        "top score": "153",
+        "deliveries": "138",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Transvaal": "1925-26 to 1936-37",
+        "Western Province": "1937-38 to 1947-48"
+    },
+    "birth_date": "1906-10-3"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Brian Murphy",
+    "birth_place": "Salisbury, Rhodesia",
+    "country": "Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Legbreak, Legbreak, googly",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/55610.html Cricinfo ",
+    "Test": {
+        "matches": "11",
+        "runs": "123",
+        "bat avg": "10.25",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "2,153",
+        "wickets": "18",
+        "bowl avg": "61.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/32",
+        "catches/stumpings": "11/\u2013"
+    },
+    "ODI": {
+        "matches": "31",
+        "runs": "72",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "deliveries": "1,422",
+        "wickets": "29",
+        "bowl avg": "38.96",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/43",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1 December 1976"
+}

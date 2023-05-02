@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "John Henry Ponsonby-Fane",
+    "birth_place": "Westminster, Middlesex, England",
+    "death_date": "1916",
+    "death_place": "Yeovil, Somerset, England",
+    "family": "Spencer Ponsonby-Fane (father), Richard Ponsonby-Fane (son), John Ponsonby (uncle), Frederick Ponsonby (uncle), Charles Ponsonby (cousin), Arnald de Grey (brother-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/22814.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "161",
+        "bat avg": "20.12",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "deliveries": "446",
+        "wickets": "13",
+        "bowl avg": "16.07",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/37",
+        "catches/stumpings": "9/2"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1869"
+    }
+}

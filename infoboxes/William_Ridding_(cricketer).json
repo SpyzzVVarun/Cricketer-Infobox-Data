@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "William Ridding",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "1900",
+    "death_place": "Upper Clapton, London, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "family": "Charles Ridding (brother), Arthur Ridding (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/19702.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "326",
+        "bat avg": "15.52",
+        "100s/50s": "&ndash;/2",
+        "top score": "53",
+        "catches/stumpings": "9/17"
+    },
+    "clubs": {
+        "Hampshire (pre-county club)": "1861",
+        "Marylebone Cricket Club": "1849&ndash;1851",
+        "Oxford University": "1849&ndash;1853"
+    },
+    "birth_date": "1830-11-23"
+}

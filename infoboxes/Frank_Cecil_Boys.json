@@ -1,0 +1,21 @@
+{
+    "name": "Frank Boys",
+    "country": "England",
+    "fullname": "Frank Cecil Boys",
+    "birth_place": "Kensington, Middlesex, England",
+    "death_date": "2003",
+    "death_place": "Dunsfold, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9922.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "273",
+        "bat avg": "21.00",
+        "100s/50s": "\u2013/2",
+        "top score": "84",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1918-6-21"
+}

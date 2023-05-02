@@ -1,0 +1,39 @@
+{
+    "name": "Jim Smith",
+    "country": "New Zealand",
+    "fullname": "James Douglas Smith",
+    "birth_place": "Epsom, Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38512.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "211",
+        "bat avg": "12.41",
+        "100s/50s": "0/0",
+        "deliveries": "2928",
+        "wickets": "33",
+        "bowl avg": "38.36",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/80",
+        "catches/stumpings": "6/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "64",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "1967-68 to 1971-72"
+    },
+    "birth_date": "1940-6-26"
+}

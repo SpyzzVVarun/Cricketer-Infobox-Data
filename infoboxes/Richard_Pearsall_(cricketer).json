@@ -1,0 +1,26 @@
+{
+    "name": "Richard Pearsall",
+    "country": "England",
+    "fullname": "Richard Devenish Pearsall",
+    "birth_place": "Kenilworth, Warwickshire, England",
+    "death_date": "2013 (aged 91 or 92)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/england/content/player/18848.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "230",
+        "bat avg": "15.33",
+        "100s/50s": "0/1",
+        "deliveries": "2142",
+        "wickets": "27",
+        "bowl avg": "36.37",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/51",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1947\u20131948"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Alexander David Edwards",
+    "birth_place": "Cuckfield, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/alex-edwards-12493 Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "183",
+        "bat avg": "8.31",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "1,700",
+        "wickets": "26",
+        "bowl avg": "42.65",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/34",
+        "catches/stumpings": "11/\u2013"
+    },
+    "LA": {
+        "matches": "37",
+        "runs": "186",
+        "bat avg": "9.30",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "deliveries": "1,496",
+        "wickets": "26",
+        "bowl avg": "48.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/34",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1994&ndash;1999",
+        "Derbyshire": "2001"
+    },
+    "birth_date": "1975-8-2"
+}

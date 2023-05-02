@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "John Somerville Russel",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Banchory, Aberdeenshire, Scotland",
+    "family": "Patrick Russel (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19875.html Cricinfo ",
+    "First-class": {
+        "matches": "79",
+        "runs": "1,641",
+        "bat avg": "12.92",
+        "100s/50s": "\u2013/7",
+        "top score": "83",
+        "deliveries": "8",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1875&ndash;1891"
+    }
+}

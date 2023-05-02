@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Charles Robert Charlwood",
+    "birth_place": "Horsham, Sussex, England",
+    "death_date": "1880",
+    "death_place": "Horsham, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Henry Charlwood (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/11097.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "40",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1866\u20131869"
+    },
+    "birth_date": "1842-11-22"
+}

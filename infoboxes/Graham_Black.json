@@ -1,0 +1,28 @@
+{
+    "name": "Graham Black",
+    "fullname": "Graham Ash Black",
+    "birth_place": "Adelaide, Australia",
+    "death_date": "2007",
+    "death_place": "Adelaide, Australia",
+    "batting": "Right-hand bat",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/4362.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "115",
+        "bat avg": "11.50",
+        "100s/50s": "-/-",
+        "top score": "33",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "South Australia": "1949/50-1950/51"
+    },
+    "birth_date": "1924-5-14"
+}

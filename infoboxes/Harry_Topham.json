@@ -1,0 +1,39 @@
+{
+    "name": "Harry Topham",
+    "country": "England",
+    "fullname": "Harry Gillespie Topham",
+    "birth_place": "Ladbroke, Warwickshire, England",
+    "death_date": "1925",
+    "death_place": "England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "FC",
+    "debutdate1": "1 August",
+    "debutyear1": "1881",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "30 June",
+    "lastyear1": "1884",
+    "lastfor1": "Cambridge University",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Archive/Players/33/33374/33374.html CricketArchive ",
+    "First-class": {
+        "matches": "16",
+        "runs": "95",
+        "bat avg": "5.93",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "2,669",
+        "wickets": "60",
+        "bowl avg": "18.66",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/62",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1881",
+        "Cambridge University": "1883\u20131884"
+    },
+    "birth_date": "1862-2-17"
+}

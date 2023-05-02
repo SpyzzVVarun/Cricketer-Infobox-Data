@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Mark Henry David Cox",
+    "birth_place": "Abington, Northamptonshire, England",
+    "death_date": "1979",
+    "death_place": "Pontypridd, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "family": "Mark Cox senior (father), Arthur Cox (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/11385.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "8",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "87",
+        "wickets": "2",
+        "bowl avg": "31.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "1932"
+    },
+    "birth_date": "1905-12-5"
+}

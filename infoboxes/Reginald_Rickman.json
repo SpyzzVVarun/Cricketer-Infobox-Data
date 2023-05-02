@@ -1,0 +1,38 @@
+{
+    "name": "Reginald Rickman",
+    "country": "England",
+    "fullname": "Reginald Binns Rickman",
+    "birth_place": "Doncaster, Yorkshire",
+    "death_date": "1940",
+    "death_place": "Chelsea, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "21 May",
+    "debutyear1": "1906",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "24 July",
+    "lastyear1": "1911",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/32/32366/32366.html CricketArchive ",
+    "First-class": {
+        "matches": "65",
+        "runs": "1,262",
+        "bat avg": "11.47",
+        "100s/50s": "0/2",
+        "top score": "68",
+        "deliveries": "3,521",
+        "wickets": "62",
+        "bowl avg": "31.72",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/80",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Derbyshire": "1906\u20131911"
+    },
+    "birth_date": "1881-5-6"
+}

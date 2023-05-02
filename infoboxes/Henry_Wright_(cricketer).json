@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Henry Wright",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ecclesall, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23220.html Cricinfo ",
+    "First-class": {
+        "matches": "43",
+        "runs": "741",
+        "bat avg": "10.15",
+        "100s/50s": "\u2013/1",
+        "top score": "68",
+        "deliveries": "2,371",
+        "wickets": "88",
+        "bowl avg": "10.36",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "7/38",
+        "catches/stumpings": "48/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1849&ndash;1855"
+    }
+}

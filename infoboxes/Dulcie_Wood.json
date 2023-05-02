@@ -1,0 +1,24 @@
+{
+    "name": "Dulcie Wood",
+    "female": "true",
+    "fullname": "Dulcie Wood",
+    "role": "Wicket-keeper",
+    "internationalspan": "1961",
+    "country": "South Africa",
+    "onetest": "true",
+    "testdebutdate": "13 January",
+    "testdebutyear": "1961",
+    "testdebutagainst": "England",
+    "testcap": "15",
+    "source": "https://cricketarchive.com/Archive/Players/17/17392/17392.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Southern Transvaal": "1953/54\u20131960/61"
+    }
+}

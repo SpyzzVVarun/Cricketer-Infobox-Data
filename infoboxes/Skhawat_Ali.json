@@ -1,0 +1,33 @@
+{
+    "name": "Skhawat Ali",
+    "country": "Hong Kong",
+    "fullname": "Skhawat Ali",
+    "birth_place": "Hong Kong",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Batsman",
+    "odidebutdate": "24 June",
+    "odidebutyear": "2008",
+    "odidebutagainst": "Pakistan",
+    "odicap": "19",
+    "lastodidate": "25 June",
+    "lastodiyear": "2008",
+    "lastodiagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/78/78988/78988.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1985-5-5"
+}

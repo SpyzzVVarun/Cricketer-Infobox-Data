@@ -1,0 +1,39 @@
+{
+    "name": "Frederick Foy",
+    "country": "England",
+    "fullname": "Frederick George Foy",
+    "birth_place": "Maidstone, Kent",
+    "death_date": "1995",
+    "death_place": "Tunbridge Wells, Kent",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Allrounder",
+    "type1": "FC",
+    "debutdate1": "29 May",
+    "debutyear1": "1937",
+    "debutfor1": "Kent",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "13 July",
+    "lastyear1": "1938",
+    "lastfor1": "Kent",
+    "lastagainst1": "Essex",
+    "source": "http://www.espncricinfo.com/ci/content/player/12893.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "153",
+        "bat avg": "9.56",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Kent": "1937\u20131938"
+    },
+    "birth_date": "1915-4-11"
+}

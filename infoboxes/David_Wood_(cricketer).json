@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "David John Wood",
+    "birth_place": "Cuckfield, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/23141.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "32",
+        "bat avg": "10.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1984"
+    },
+    "birth_date": "1965-1-10"
+}

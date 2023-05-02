@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Charles Sidney Bancroft Cooke",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=y",
+    "death_place": "Sunningdale, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11290.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "217",
+        "wickets": "6",
+        "bowl avg": "20.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/39",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

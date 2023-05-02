@@ -1,0 +1,35 @@
+{
+    "name": "Kumar Kushagra",
+    "birth_place": "Bokaro, Jharkhand, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsmen",
+    "source": "http://www.espncricinfo.com/ci/content/player/1207295.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "437",
+        "bat avg": "72.87",
+        "100s/50s": "1/2",
+        "top score": "266",
+        "catches/stumpings": "5/5"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Jharkhand": "2021-present"
+    },
+    "birth_date": "2004-10-23"
+}

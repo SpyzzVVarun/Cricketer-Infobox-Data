@@ -1,0 +1,68 @@
+{
+    "name": "Lal Kumar",
+    "country": "Pakistan",
+    "fullname": "Lal Kumar",
+    "birth_place": "Mithi, Sindh, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/pakistandomestic/content/player/233898.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "FC": {
+        "matches": "71",
+        "runs": "2492",
+        "bat avg": "30.02",
+        "100s/50s": "4/11",
+        "top score": "133",
+        "deliveries": "6622",
+        "wickets": "117",
+        "bowl avg": "32.22",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "7/100",
+        "catches/stumpings": "22/\u2013"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "462",
+        "bat avg": "20.08",
+        "100s/50s": "0/2",
+        "top score": "62",
+        "deliveries": "1124",
+        "wickets": "31",
+        "bowl avg": "33.74",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/22",
+        "catches/stumpings": "6/\u2013"
+    },
+    "T20": {
+        "matches": "20",
+        "runs": "164",
+        "bat avg": "12.61",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "324",
+        "wickets": "13",
+        "bowl avg": "38.92",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/43",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "2007\u2013",
+        "Sindh": "2010",
+        "Hyderabad Hawks": "2005-",
+        "Sindh Dolphins": "2009/10"
+    },
+    "birth_date": "1987-10-25",
+    "medaltemplates": [
+        "Country: {{PAK}}",
+        "Sport: Men's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2010 Guangzhou Team"
+    ]
+}

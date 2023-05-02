@@ -1,0 +1,50 @@
+{
+    "name": "Warren Bardsley",
+    "country": "Australia",
+    "fullname": "Warren Bardsley",
+    "birth_place": "Warren, New South Wales, Australia",
+    "death_date": "1954",
+    "death_place": "Sydney, New South Wales, Australia",
+    "batting": "Left-handed",
+    "family": "Mick Bardsley (brother)",
+    "testdebutdate": "27 May",
+    "testdebutyear": "1909",
+    "testdebutagainst": "England",
+    "testcap": "94",
+    "lasttestdate": "18 August",
+    "lasttestyear": "1926",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/310/310.html CricketArchive ",
+    "Tests": {
+        "matches": "41",
+        "runs": "2,469",
+        "bat avg": "40.47",
+        "100s/50s": "6/14",
+        "top score": "193 not out",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "12/\u2013"
+    },
+    "First-class": {
+        "matches": "250",
+        "runs": "17,031",
+        "bat avg": "49.94",
+        "100s/50s": "53/73",
+        "top score": "264",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "113/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1903\u20131926"
+    },
+    "birth_date": "1882-12-7"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Jaykishan Kolsawala",
+    "country": "India",
+    "fullname": "Jaykishan Kolsawala",
+    "birth_place": "Surat, Gujarat, India",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/jaykishan-kolsawala-469069 Cricinfo",
+    "FC": {
+        "matches": "10",
+        "runs": "435",
+        "bat avg": "27.18",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "115",
+        "bat avg": "28.75",
+        "100s/50s": "0/1",
+        "top score": "93",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1989-10-10"
+}

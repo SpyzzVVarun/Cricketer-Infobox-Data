@@ -1,0 +1,54 @@
+{
+    "name": "Vidwath Kaverappa",
+    "height": "1.78 m",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/cricketers/vidwath-kaverappa-1155262.html Cricinfo  ",
+    "FC": {
+        "matches": "10",
+        "runs": "75",
+        "bat avg": "10.71",
+        "100s/50s": "-/-",
+        "top score": "37",
+        "deliveries": "1,679",
+        "wickets": "34",
+        "bowl avg": "21.67",
+        "fivefor": "2",
+        "tenfor": "-",
+        "best bowling": "5/67",
+        "catches/stumpings": "-/\u2013"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "-/-",
+        "deliveries": "380",
+        "wickets": "17",
+        "bowl avg": "13.12",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "4/40",
+        "catches/stumpings": "-/\u2013"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-",
+        "top score": "-",
+        "deliveries": "182",
+        "wickets": "18",
+        "bowl avg": "10.72",
+        "fivefor": "1",
+        "tenfor": "-",
+        "best bowling": "5/11",
+        "catches/stumpings": "-/\u2013"
+    },
+    "clubs": {
+        "Karnataka": "2022\u2013present",
+        "Punjab Kings": "2023\u2013present"
+    },
+    "birth_date": "1999-02-25"
+}

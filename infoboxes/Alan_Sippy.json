@@ -1,0 +1,41 @@
+{
+    "name": "Alan Sippy",
+    "fullname": "Alan Nanik Sippy",
+    "birth_place": "Bombay, Maharashtra, India",
+    "batting": "Left-handed",
+    "bowling": "Slow Slow left-arm",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/player/alan-sippy-34785 Cricinfo ",
+    "FC": {
+        "matches": "27",
+        "runs": "1284",
+        "bat avg": "49.38",
+        "100s/50s": "5/5",
+        "top score": "138",
+        "deliveries": "555",
+        "wickets": "7",
+        "bowl avg": "46.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "16/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "279",
+        "bat avg": "55.80",
+        "100s/50s": "0/3",
+        "top score": "90",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Bombay": "1984/85\u20131990/91"
+    },
+    "birth_date": "1962-2-7"
+}

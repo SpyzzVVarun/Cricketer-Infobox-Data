@@ -1,0 +1,49 @@
+{
+    "name": "Datta Gaekwad",
+    "full_name": "Dattajirao Krishnarao Gaekwad",
+    "birth_place": "Vadodara, British India (now Baroda, Gujarat, India)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium, Right-arm medium, legbreak",
+    "family": "Anshuman Gaekwad (son)",
+    "country": "India",
+    "internationalspan": "1952\u20131961",
+    "testdebutdate": "5 June",
+    "testdebutyear": "1952",
+    "testdebutagainst": "England",
+    "testcap": "60",
+    "lasttestdate": "13 January",
+    "lasttestyear": "1961",
+    "lasttestagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/28755.html ESPNcricinfo ",
+    "Tests": {
+        "matches": "11",
+        "runs": "350",
+        "bat avg": "18.42",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "110",
+        "runs": "5,788",
+        "bat avg": "36.40",
+        "100s/50s": "17/23",
+        "deliveries": "1,964",
+        "wickets": "25",
+        "bowl avg": "40.64",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/117",
+        "catches/stumpings": "49/\u2013"
+    },
+    "clubs": {
+        "Baroda": "1948\u20131963"
+    },
+    "birth_date": "1928-10-27"
+}

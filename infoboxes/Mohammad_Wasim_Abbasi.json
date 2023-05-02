@@ -1,0 +1,41 @@
+{
+    "name": "Mohammad Wasim Abbasi",
+    "fullname": "Mohammad Wasim Abbasi",
+    "birth_place": "Rawalpindi, Punjab, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "testdebutdate": "21 November",
+    "testdebutyear": "1996",
+    "testdebutagainst": "New Zealand",
+    "testcap": "142",
+    "lasttestdate": "21 June",
+    "lasttestyear": "2000",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "8 December",
+    "odidebutyear": "1996",
+    "odidebutagainst": "New Zealand",
+    "odicap": "114",
+    "lastodidate": "5 June",
+    "lastodiyear": "2000",
+    "lastodiagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/ci/content/player/41297.html ESPNCricinfo ",
+    "Test": {
+        "matches": "18",
+        "runs": "783",
+        "bat avg": "30.11",
+        "100s/50s": "2/2",
+        "top score": "192",
+        "catches/stumpings": "22/2"
+    },
+    "ODI": {
+        "matches": "25",
+        "runs": "543",
+        "bat avg": "23.60",
+        "100s/50s": "0/3",
+        "top score": "76",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1978-08-08"
+}

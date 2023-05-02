@@ -1,0 +1,37 @@
+{
+    "name": "Fintan McAllister",
+    "country": "Ireland",
+    "fullname": "Fintan Patrick McAllister",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper batsman",
+    "internationalspan": "2008\u20132009",
+    "source": "http://www.espncricinfo.com/ci/content/player/232727.html ESPNcricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Leinster Lightning": "2013\u20132016"
+    },
+    "birth_date": "1987-2-9"
+}

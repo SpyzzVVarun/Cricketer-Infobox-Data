@@ -1,0 +1,22 @@
+{
+    "country": "Kenya",
+    "fullname": "Jagoo Chandrakant Shah",
+    "birth_place": "Kenya Colony",
+    "batting": "Unknown",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/ci/content/player/23987.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "61",
+        "bat avg": "30.50",
+        "100s/50s": "\u2013/1",
+        "deliveries": "14",
+        "wickets": "1",
+        "bowl avg": "12",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Usman Salahuddin",
+    "country": "Pakistan",
+    "fullname": "Usman Salahuddin",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "onetest": "true",
+    "testdebutdate": "1 June",
+    "testdebutyear": "2018",
+    "testdebutagainst": "England",
+    "testcap": "232",
+    "odidebutdate": "2 May",
+    "odidebutyear": "2011",
+    "odidebutagainst": "West Indies",
+    "odicap": "184",
+    "lastodidate": "5 May",
+    "lastodiyear": "2011",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/260519.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "37",
+        "bat avg": "27.29",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "60",
+        "runs": "3,868",
+        "bat avg": "47.04",
+        "100s/50s": "13/22",
+        "catches/stumpings": "40/\u2013"
+    },
+    "LA": {
+        "matches": "34",
+        "runs": "878",
+        "bat avg": "46.1",
+        "100s/50s": "0/5",
+        "top score": "76",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Lahore Shalimar": "2007/08\u20132012/13",
+        "State Bank of Pakistan": "2014/15",
+        "Lahore Whites": "2015/16\u20132018/19",
+        "National Bank of Pakistan": "2016/17",
+        "Central Punjab": "2019\u2013present"
+    },
+    "birth_date": "1990-12-02"
+}

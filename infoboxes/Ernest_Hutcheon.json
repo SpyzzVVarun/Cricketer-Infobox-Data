@@ -1,0 +1,23 @@
+{
+    "name": "Ernest Hutcheon",
+    "country": "Australia",
+    "fullname": "Ernest Henry Hutcheon",
+    "birth_place": "Toowoomba, Queensland, Australia",
+    "death_date": "1937",
+    "death_place": "Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/16/16225/16225.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "188",
+        "bat avg": "17.09",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Queensland": "1919/20\u20131925/26"
+    },
+    "birth_date": "1889-6-17"
+}

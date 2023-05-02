@@ -1,0 +1,39 @@
+{
+    "name": "Bernardo Irigoyen",
+    "country": "Argentina",
+    "fullname": "Bernardo Iritxity Irigoyen",
+    "birth_place": "Buenos Aires, Argentina",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/5/5386/5386.html CricketArchive ",
+    "List A": {
+        "matches": "6",
+        "runs": "61",
+        "bat avg": "10.16",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "ICC Trophy": {
+        "matches": "17",
+        "runs": "200",
+        "bat avg": "14.28",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "474",
+        "wickets": "16",
+        "bowl avg": "19.18",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/13",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1969-9-3"
+}

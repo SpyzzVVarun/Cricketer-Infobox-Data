@@ -1,0 +1,53 @@
+{
+    "name": "Campbell Kellaway",
+    "batting": "Left-handed",
+    "role": "Middle-order batter",
+    "source": "https://www.espncricinfo.com/player/campbell-kellaway-1295842 Cricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "429",
+        "bat avg": "30.64",
+        "100s/50s": "0/3",
+        "top score": "81",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "5/0"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "40",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "83",
+        "bat avg": "13.83",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Victoria": "2022/23\u2013",
+        "Melbourne Stars": "2022/23\u2013"
+    },
+    "birth_date": "2002-11-1"
+}

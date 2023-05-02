@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Bernard Abdy Collins",
+    "birth_place": "Saxmundham, Suffolk, England",
+    "death_date": "df=yes",
+    "death_place": "Bedford, Bedfordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/11241.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "83",
+        "bat avg": "83.00",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1901",
+        "Suffolk": "1904"
+    }
+}

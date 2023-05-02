@@ -1,0 +1,54 @@
+{
+    "country": "Namibia",
+    "fullname": "Glenn Foxcroft",
+    "birth_place": "Pretoria, Gauteng,, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/497538.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "378",
+        "bat avg": "31.50",
+        "100s/50s": "\u2013/3",
+        "top score": "87",
+        "deliveries": "78",
+        "wickets": "1",
+        "bowl avg": "50.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/50",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "28",
+        "bat avg": "28.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Namibia": "2010/11&ndash;2011/12"
+    },
+    "birth_date": "1992-1-22"
+}

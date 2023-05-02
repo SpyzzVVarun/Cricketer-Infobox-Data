@@ -1,0 +1,30 @@
+{
+    "name": "John Arenhold",
+    "fullname": "John Adolf Arenhold",
+    "birth_place": "Plumstead, Cape Town, South Africa",
+    "death_date": "2017",
+    "death_place": "Muizenberg, Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/12/12635/12635.html  Cricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "403",
+        "bat avg": "10.07",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "4619",
+        "wickets": "82",
+        "bowl avg": "27.14",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/97",
+        "catches/stumpings": "14/0"
+    },
+    "clubs": {
+        "Oxford University": "1953 to 1955",
+        "Ceylon": "1956-57",
+        "Orange Free State": "1959-60"
+    },
+    "birth_date": "1931-5-9"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "James Anderson",
+    "fullname": "James William Falconer Anderson",
+    "birth_place": "Queensland, Australia",
+    "death_date": "1951",
+    "death_place": "Bellevue Hill, New South Wales, Australia",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "source": "http://www.espncricinfo.com/ci/content/player/375927.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "36",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "274",
+        "wickets": "5",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/88",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1919\u20131920"
+    },
+    "birth_date": "1889-2-25"
+}

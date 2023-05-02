@@ -1,0 +1,52 @@
+{
+    "name": "Colin Smith",
+    "country": "Scotland",
+    "fullname": "Colin John Ogilvie Smith",
+    "birth_place": "Aberdeen, Aberdeenshire, Scotland",
+    "family": "John Mortimer (grandfather)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "height": "ft=6",
+    "odidebutdate": "27 June",
+    "odidebutyear": "2006",
+    "odidebutagainst": "Pakistan",
+    "odicap": "20",
+    "lastodidate": "19 April",
+    "lastodiyear": "2009",
+    "lastodiagainst": "Afghanistan",
+    "source": "https://cricketarchive.com/Archive/Players/8/8171/8171.html CricketArchive ",
+    "ODI": {
+        "matches": "27",
+        "runs": "432",
+        "bat avg": "19.63",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "catches/stumpings": "21/11"
+    },
+    "T20I": {
+        "matches": "8",
+        "runs": "58",
+        "bat avg": "11.60",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/4"
+    },
+    "FC": {
+        "matches": "10",
+        "runs": "380",
+        "bat avg": "25.33",
+        "100s/50s": "0/3",
+        "top score": "93",
+        "catches/stumpings": "27/4"
+    },
+    "LA": {
+        "matches": "116",
+        "runs": "2,060",
+        "bat avg": "21.02",
+        "100s/50s": "0/10",
+        "catches/stumpings": "103/31"
+    },
+    "clubs": {
+        "Scotland": "1999&ndash;2009"
+    },
+    "birth_date": "1972-9-27"
+}

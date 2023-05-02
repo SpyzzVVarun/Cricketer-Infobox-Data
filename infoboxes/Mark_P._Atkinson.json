@@ -1,0 +1,42 @@
+{
+    "name": "Mark Atkinson",
+    "country": "Australia",
+    "fullname": "Mark Peter Atkinson",
+    "birth_place": "Bentley, Western Australia",
+    "heightm": "1.80",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/australia/content/player/3997.html ESPNCricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "423",
+        "bat avg": "34.08",
+        "100s/50s": "6/14",
+        "deliveries": "3,502",
+        "wickets": "54",
+        "bowl avg": "35.61",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/92",
+        "catches/stumpings": "13/\u2013"
+    },
+    "List A": {
+        "matches": "30",
+        "runs": "136",
+        "bat avg": "9.06",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "1,535",
+        "wickets": "39",
+        "bowl avg": "29.53",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/38",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1992/3\u20132000/01"
+    },
+    "birth_date": "1970-11-27"
+}

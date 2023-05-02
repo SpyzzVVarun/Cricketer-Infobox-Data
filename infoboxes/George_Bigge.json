@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "George Orde Bigge",
+    "birth_place": "Ferozepore, Punjab, British India",
+    "death_date": "df=yes",
+    "death_place": "Stone in Oxney, Kent, England",
+    "family": "Henry Braybrooke (brother-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9746.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1898",
+        "Hertfordshire": "1898&ndash;1903"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Miles Coope",
+    "birth_place": "Gildersome, Yorkshire, England",
+    "death_date": "1974",
+    "death_place": "Gildersome, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "Bbatsman",
+    "type1": "FC",
+    "debutdate1": "24 May",
+    "debutyear1": "1947",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "2 August",
+    "lastyear1": "1949",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3497/3497.html CricketArchive ",
+    "First-class": {
+        "matches": "71",
+        "runs": "2,789",
+        "bat avg": "21.12",
+        "100s/50s": "2/14",
+        "top score": "113",
+        "deliveries": "492",
+        "wickets": "8",
+        "bowl avg": "59.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1947\u20131949"
+    },
+    "birth_date": "1916-11-28"
+}

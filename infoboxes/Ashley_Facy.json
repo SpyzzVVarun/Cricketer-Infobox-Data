@@ -1,0 +1,30 @@
+{
+    "name": "Ashley Facy",
+    "country": "Australia",
+    "fullname": "Ashley Cooper Facy",
+    "birth_place": "Bellerive, Tasmania, Australia",
+    "death_date": "1954",
+    "death_place": "Hobart, Tasmania",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/2/2504/2504.html Cricket Archive ",
+    "First-class": {
+        "matches": "12",
+        "runs": "364",
+        "bat avg": "21.41",
+        "100s/50s": "0/3",
+        "top score": "77",
+        "deliveries": "2324",
+        "wickets": "47",
+        "bowl avg": "27.17",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/71",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Tasmania": "1908-09 to 1909-10, 1922-23",
+        "Victoria": "1910-11 to 1912-13"
+    },
+    "birth_date": "1886-1-26"
+}

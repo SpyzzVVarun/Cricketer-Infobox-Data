@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "William Thomas Brindley",
+    "birth_place": "High Wycombe, Buckinghamshire, England",
+    "death_date": "1958",
+    "death_place": "Virginia Water, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/9406.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "221",
+        "bat avg": "17.00",
+        "100s/50s": "\u2013/1",
+        "deliveries": "835",
+        "wickets": "14",
+        "bowl avg": "27.78",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/40",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1930\u20131935",
+        "Europeans (Ceylon)": "1926/1927",
+        "Buckinghamshire": "1925\u20131935"
+    },
+    "birth_date": "1896-12-4"
+}

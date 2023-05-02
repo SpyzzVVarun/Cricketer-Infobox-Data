@@ -1,0 +1,49 @@
+{
+    "name": "Jack Haynes",
+    "country": "England",
+    "fullname": "Jack Alexander Haynes",
+    "birth_place": "Worcester, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "family": "Gavin Haynes (father)",
+    "type1": "First-class",
+    "debutdate1": "7 August",
+    "debutyear1": "2019",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Australians",
+    "type2": "List A",
+    "debutdate2": "19 June",
+    "debutyear2": "2018",
+    "debutfor2": "Worcestershire",
+    "debutagainst2": "West Indies A",
+    "source": "http://www.espncricinfo.com/ci/content/player/1110475.html Cricinfo ",
+    "FC": {
+        "matches": "35",
+        "runs": "2,011",
+        "bat avg": "41.04",
+        "100s/50s": "4/8",
+        "catches/stumpings": "25/\u2013"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "469",
+        "bat avg": "42.63",
+        "100s/50s": "1/2",
+        "top score": "153",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20": {
+        "matches": "19",
+        "runs": "408",
+        "bat avg": "22.66",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Worcestershire( 17 )": "2018\u2013present",
+        "Oval Invincibles": "2022"
+    },
+    "birth_date": "2001-1-30"
+}

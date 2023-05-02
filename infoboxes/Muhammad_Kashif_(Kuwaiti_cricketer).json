@@ -1,0 +1,30 @@
+{
+    "country": "Kuwait",
+    "fullname": "Muhammad Kashif Sharif",
+    "birth_place": "Multan, Punjab, Pakistan",
+    "role": "Bowler",
+    "T20Idebutdate": "20 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Maldives",
+    "T20Icap": "8",
+    "lastT20Idate": "16 August",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Bahrain",
+    "source": "http://www.espncricinfo.com/ci/content/player/1093661.html Cricinfo ",
+    "T20I": {
+        "matches": "21",
+        "runs": "311",
+        "bat avg": "22.21",
+        "100s/50s": "0/2",
+        "top score": "53",
+        "deliveries": "192",
+        "wickets": "12",
+        "bowl avg": "22.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3-30",
+        "catches/stumpings": "3/-"
+    },
+    "clubs": {},
+    "birth_date": "1987-10-22"
+}

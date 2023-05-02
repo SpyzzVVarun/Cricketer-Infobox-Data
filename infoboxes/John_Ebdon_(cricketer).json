@@ -1,0 +1,28 @@
+{
+    "name": "John Ebdon",
+    "fullname": "John Francis Ebdon",
+    "birth_place": "Milverton, Somerset, England",
+    "death_date": "1952",
+    "death_place": "Burley-in-Wharfedale, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "https://cricketarchive.com/Archive/Players/3/3530/3530.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "135",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "0/73",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1898"
+    },
+    "birth_date": "1876-2-16"
+}

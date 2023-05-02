@@ -1,0 +1,41 @@
+{
+    "name": "Frank Joy",
+    "country": "England",
+    "fullname": "Frank Douglas Howarth Joy",
+    "birth_place": "Hessle, East Yorkshire, England",
+    "death_date": "1966",
+    "death_place": "Winchester, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm fast Left-arm fast medium",
+    "role": "Bowler",
+    "family": "Daughter, Nancy Joy",
+    "type1": "First-class",
+    "debutdate1": "10 September",
+    "debutyear1": "1908",
+    "debutfor1": "Europeans",
+    "debutagainst1": "Parsees",
+    "lastdate1": "21 June",
+    "lastyear1": "1912",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Australians",
+    "source": "https://cricketarchive.com/Archive/Players/3/3659/3659.html CricketArchive ",
+    "First-class": {
+        "matches": "14",
+        "runs": "189",
+        "bat avg": "8.59",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "2239",
+        "wickets": "57",
+        "bowl avg": "23.73",
+        "fivefor": "4",
+        "tenfor": "2",
+        "best bowling": "7/24",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Europeans": "1908/09",
+        "Somerset": "1909&ndash;12"
+    },
+    "birth_date": "1880-9-26"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Abdul Shakoor",
+    "country": "United Arab Emirates",
+    "fullname": "Sher Muhammad Abdul Shakoor",
+    "birth_place": "Sharjah, United Arab Emirates",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper and opening batsman",
+    "odidebutdate": "16 November",
+    "odidebutyear": "2015",
+    "odidebutagainst": "Hong Kong",
+    "odicap": "57",
+    "lastodidate": "30 August",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Nepal",
+    "T20Idebutdate": "9 July",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "Scotland",
+    "T20Icap": "14",
+    "lastT20Idate": "16 March",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "USA",
+    "source": "http://www.espncricinfo.com/ci/content/player/585100.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "3",
+        "runs": "54",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "4/1"
+    },
+    "T20I": {
+        "matches": "6",
+        "runs": "35",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/1"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "132",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "5/3"
+    },
+    "clubs": {},
+    "birth_date": "1988-3-21"
+}

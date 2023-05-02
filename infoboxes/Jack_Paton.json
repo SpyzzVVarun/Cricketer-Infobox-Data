@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "John Paton",
+    "birth_place": "Dunfermline, Fife, Scotland",
+    "death_date": "1935",
+    "death_place": "Dunfermline, Fife, Scotland",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm slow",
+    "source": "https://www.espncricinfo.com/player/j-paton-25321 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "155",
+        "wickets": "5",
+        "bowl avg": "17.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/33",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1914"
+    }
+}

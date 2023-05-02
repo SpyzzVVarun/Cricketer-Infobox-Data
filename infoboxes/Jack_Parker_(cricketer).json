@@ -1,0 +1,21 @@
+{
+    "name": "Jack Parker",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/31/31875/31875.html CricketArchive",
+    "First-class": {
+        "matches": "340",
+        "runs": "14,272",
+        "bat avg": "31.57",
+        "100s/50s": "20/79",
+        "top score": "255",
+        "deliveries": "36,465",
+        "wickets": "543",
+        "bowl avg": "28.87",
+        "fivefor": "8",
+        "tenfor": "0",
+        "best bowling": "6/34",
+        "catches/stumpings": "331/\u2013"
+    },
+    "clubs": {}
+}

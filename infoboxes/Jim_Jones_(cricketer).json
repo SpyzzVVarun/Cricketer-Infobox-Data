@@ -1,0 +1,28 @@
+{
+    "name": "Jim Jones",
+    "fullname": "James Frederick Jones",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1998",
+    "death_place": "Napier, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37520.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "75",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "deliveries": "1677",
+        "wickets": "32",
+        "bowl avg": "21.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/39",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Wellington": "1950-51 to 1953-54",
+        "Central Districts": "1954-55 to 1956-57"
+    },
+    "birth_date": "1931-12-18"
+}

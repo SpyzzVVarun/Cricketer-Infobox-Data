@@ -1,0 +1,22 @@
+{
+    "name": "Paul Marks",
+    "country": "England",
+    "fullname": "Paul Andrew Marks",
+    "birth_place": "Southampton, Hampshire, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/17800.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "2001"
+    },
+    "birth_date": "1967-8-30"
+}

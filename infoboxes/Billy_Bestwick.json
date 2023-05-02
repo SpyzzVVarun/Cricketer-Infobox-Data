@@ -1,0 +1,39 @@
+{
+    "name": "Billy Bestwick",
+    "country": "England",
+    "fullname": "William Bestwick",
+    "birth_place": "Heanor, Derbyshire, England",
+    "death_date": "1938",
+    "death_place": "Nottingham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "16 May",
+    "debutyear1": "1898",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "1 August",
+    "lastyear1": "1925",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/27/27871/27871.html CricketArchive ",
+    "First-class": {
+        "matches": "323",
+        "runs": "1,607",
+        "bat avg": "4.71",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "70,843",
+        "wickets": "1,457",
+        "bowl avg": "21.28",
+        "fivefor": "104",
+        "tenfor": "27",
+        "best bowling": "10/40",
+        "catches/stumpings": "90/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1898\u20131925",
+        "Glamorgan": "1914"
+    },
+    "birth_date": "1875-2-24"
+}

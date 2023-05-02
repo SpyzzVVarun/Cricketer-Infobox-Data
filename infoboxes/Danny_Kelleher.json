@@ -1,0 +1,44 @@
+{
+    "name": "Danny Kelleher",
+    "country": "England",
+    "fullname": "Daniel John Michael Kelleher",
+    "birth_place": "Southwark, London",
+    "death_date": "1995",
+    "death_place": "Barnehurst, London Borough of Bexley",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "family": "Harry Kelleher (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/15845.html Cricinfo.com ",
+    "First-class": {
+        "matches": "34",
+        "runs": "565",
+        "bat avg": "15.27",
+        "100s/50s": "0/2",
+        "deliveries": "4,906",
+        "wickets": "77",
+        "bowl avg": "32.89",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/109",
+        "catches/stumpings": "8/\u2013"
+    },
+    "List A": {
+        "matches": "31",
+        "runs": "91",
+        "bat avg": "9.10",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "1,489",
+        "wickets": "22",
+        "bowl avg": "41.81",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/16",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Kent": "1987\u20131991"
+    },
+    "birth_date": "1966-5-5"
+}

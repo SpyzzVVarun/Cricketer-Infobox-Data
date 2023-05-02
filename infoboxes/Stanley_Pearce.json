@@ -1,0 +1,21 @@
+{
+    "name": "Stanley Pearce",
+    "country": "England",
+    "fullname": "Stanley Herbert Hicks Pearce",
+    "birth_place": "Totton, Hampshire, England",
+    "death_date": "1929",
+    "death_place": "Oswestry, Shropshire, England",
+    "batting": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/18477.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1885"
+    }
+}

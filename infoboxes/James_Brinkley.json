@@ -1,0 +1,25 @@
+{
+    "name": "James Brinkley",
+    "birth_place": "Argyll and Bute, Scotland",
+    "country": "Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://content-aus.cricinfo.com/scotland/content/player/25409.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "5",
+        "runs": "52",
+        "bat avg": "10.40",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "168",
+        "wickets": "2",
+        "bowl avg": "58.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1974-03-13"
+}

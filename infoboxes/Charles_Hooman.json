@@ -1,0 +1,41 @@
+{
+    "name": "Charles Hooman",
+    "fullname": "Charles Victor Lisle Hooman",
+    "birth_place": "Ditton, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Palm Springs, Florida, United States",
+    "nickname": "Chubby",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Thomas Hooman (father)",
+    "type1": "FC",
+    "debutdate1": "23 May",
+    "debutyear1": "1907",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "12 September",
+    "lastyear1": "1910",
+    "lastfor1": "Kent",
+    "lastagainst1": "The Rest",
+    "source": "http://www.espncricinfo.com/ci/content/player/14934.html CricInfo",
+    "First-class": {
+        "matches": "38",
+        "runs": "1,758",
+        "bat avg": "28.35",
+        "100s/50s": "3/9",
+        "top score": "117",
+        "deliveries": "90",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {
+        "Devon": "1906\u20131909",
+        "Oxford University": "1907\u20131910",
+        "Kent": "1910"
+    },
+    "birth_date": "1887-10-03"
+}

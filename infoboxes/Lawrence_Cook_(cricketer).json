@@ -1,0 +1,29 @@
+{
+    "name": "Lawrence Cook",
+    "fullname": "Lawrence Whalley Cook",
+    "birth_place": "Preston, England",
+    "death_date": "1933",
+    "death_place": "Wigan, England",
+    "nickname": "Lol",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/england/content/player/11284.html CricInfo",
+    "First-class": {
+        "matches": "206",
+        "runs": "2,126",
+        "bat avg": "12.50",
+        "100s/50s": "0/1",
+        "top score": "54 not out",
+        "deliveries": "44,399",
+        "wickets": "839",
+        "bowl avg": "21.20",
+        "fivefor": "46",
+        "tenfor": "8",
+        "best bowling": "8-39",
+        "catches/stumpings": "139/0"
+    },
+    "clubs": {
+        "Lancashire": "1907\u20131923"
+    },
+    "birth_date": "1884-03-28"
+}

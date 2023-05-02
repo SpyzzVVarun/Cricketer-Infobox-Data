@@ -1,0 +1,29 @@
+{
+    "name": "Masood-ul-Hasan",
+    "country": "Pakistan",
+    "birth_place": "Bharatpur, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/41622.html Cricinfo",
+    "First-class": {
+        "matches": "64",
+        "runs": "1840",
+        "bat avg": "27.87",
+        "100s/50s": "0/12",
+        "top score": "97",
+        "deliveries": "5452",
+        "wickets": "99",
+        "bowl avg": "25.78",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/40",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Karachi": "1961/62 to 1968/69",
+        "East Pakistan": "1966/67 to 1967/68",
+        "Public Works Department": "1967/68",
+        "Pakistan International Airlines": "1967/68 to 1977/78"
+    },
+    "birth_date": "1945-12-22"
+}

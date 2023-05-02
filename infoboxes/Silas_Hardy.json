@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Silas Hardy",
+    "birth_place": "Ilkeston, Derbyshire, England",
+    "death_date": "1905",
+    "death_place": "Kimberley, Nottinghamshire, England",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/14531.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "45",
+        "bat avg": "9.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "545",
+        "wickets": "4",
+        "bowl avg": "68.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/100",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire": "1893-1895"
+    },
+    "birth_date": "1867-4-30"
+}

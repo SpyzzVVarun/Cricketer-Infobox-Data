@@ -1,0 +1,43 @@
+{
+    "name": "Denis Tomlinson",
+    "birth_place": "Umtali, Rhodesia",
+    "death_date": "11 July 1993 (aged 82)",
+    "death_place": "Durban, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "15 June",
+    "testdebutyear": "1935",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/47548.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "48",
+        "runs": "912",
+        "bat avg": "16.88",
+        "100s/50s": "1/2",
+        "top score": "109",
+        "deliveries": "7,123",
+        "wickets": "156",
+        "bowl avg": "28.32",
+        "fivefor": "9",
+        "tenfor": "1",
+        "best bowling": "6/56",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {}
+}

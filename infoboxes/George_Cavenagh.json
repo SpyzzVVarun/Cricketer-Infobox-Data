@@ -1,0 +1,33 @@
+{
+    "name": "George Cavenagh",
+    "country": "Australia",
+    "fullname": "George Cavenagh",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "1922",
+    "death_place": "Albert Park, Melbourne, Victoria, Australia",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "3 March",
+    "debutyear1": "1854",
+    "debutfor1": "Victoria",
+    "debutagainst1": "Tasmania",
+    "source": "https://cricketarchive.com/Players/15/15850/15850.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "76",
+        "wickets": "6",
+        "bowl avg": "10.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/46",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Victoria": "1853-54"
+    },
+    "birth_date": "1836-6-16"
+}

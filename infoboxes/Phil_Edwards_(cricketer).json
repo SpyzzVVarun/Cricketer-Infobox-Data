@@ -1,0 +1,42 @@
+{
+    "name": "Philip Edwards",
+    "fullname": "Philip Duncan Edwards",
+    "birth_place": "Minster, Isle of Sheppey, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/countycricket2009/content/player/12797.html CricInfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "121",
+        "bat avg": "17.28",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "1,482",
+        "wickets": "15",
+        "bowl avg": "64.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/72",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "deliveries": "204",
+        "wickets": "7",
+        "bowl avg": "34.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/57",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Cambridge UCCE": "2004\u20132005",
+        "Suffolk": "2007\u20132011",
+        "Kent( 27 )": "2009\u20132010"
+    },
+    "birth_date": "1984-4-16"
+}

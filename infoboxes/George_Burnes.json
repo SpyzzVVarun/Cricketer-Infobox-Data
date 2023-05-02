@@ -1,0 +1,27 @@
+{
+    "name": "George Burnes",
+    "imagesize": "160 px",
+    "fullname": "George Gordon Burnes",
+    "birth_place": "St Kilda, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Christchurch, New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/36549.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "90",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Wellington": "1883-84 to 1886-87"
+    },
+    "birth_date": "1866-7-11"
+}

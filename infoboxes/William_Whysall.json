@@ -1,0 +1,53 @@
+{
+    "name": "William Whysall",
+    "country": "England",
+    "full_name": "William Wilfrid Whysall",
+    "birth_place": "Woodborough, Nottinghamshire",
+    "death_date": "1930",
+    "death_place": "Nottingham",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "testdebutdate": "16 January",
+    "testdebutyear": "1925",
+    "testdebutagainst": "Australia",
+    "testcap": "223",
+    "lasttestdate": "16 August",
+    "lasttestyear": "1930",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/448/448.html CricketArchive ",
+    "Test": {
+        "matches": "4",
+        "runs": "209",
+        "bat avg": "29.85",
+        "100s/50s": "0/2",
+        "top score": "76",
+        "deliveries": "16",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "0/9",
+        "catches/stumpings": "7/\u2013"
+    },
+    "First-class": {
+        "matches": "371",
+        "runs": "21,592",
+        "bat avg": "38.76",
+        "100s/50s": "51/103",
+        "top score": "248",
+        "deliveries": "201",
+        "wickets": "6",
+        "bowl avg": "33.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/49",
+        "catches/stumpings": "317/15"
+    },
+    "clubs": {
+        "Nottinghamshire": "1910\u20131930",
+        "Players": "1923\u20131929",
+        "North": "1926\u20131927"
+    },
+    "birth_date": "1887-10-31"
+}

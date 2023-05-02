@@ -1,0 +1,25 @@
+{
+    "name": "Simon White",
+    "fullname": "Simon Paul White",
+    "birth_place": "St Albans, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22560.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "59",
+        "bat avg": "14.75",
+        "100s/50s": "0/0",
+        "deliveries": "264",
+        "wickets": "6",
+        "bowl avg": "36.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1996\u20132015"
+    },
+    "birth_date": "1975-12-4"
+}

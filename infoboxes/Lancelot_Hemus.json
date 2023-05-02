@@ -1,0 +1,28 @@
+{
+    "name": "Lancelot Hemus",
+    "fullname": "Lancelot Gerald Hemus",
+    "nickname": "Chummy",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1933",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/37276.html Cricinfo ",
+    "First-class": {
+        "matches": "46",
+        "runs": "2916",
+        "bat avg": "36.00",
+        "100s/50s": "8/10",
+        "top score": "148",
+        "deliveries": "310",
+        "wickets": "3",
+        "bowl avg": "92.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "26/0"
+    },
+    "clubs": {
+        "Auckland": "1904-05 to 1921-22"
+    },
+    "birth_date": "1881-11-13"
+}

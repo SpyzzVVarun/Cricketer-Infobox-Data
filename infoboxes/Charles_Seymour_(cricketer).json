@@ -1,0 +1,22 @@
+{
+    "name": "Charles Seymour",
+    "country": "England",
+    "fullname": "Charles Read Seymour",
+    "birth_place": "Winchfield, Hampshire, England",
+    "death_date": "1934",
+    "death_place": "Winchester, Hampshire, England",
+    "batting": "Right-handed",
+    "family": "Bernhard Bentinck (brother-in-law)",
+    "source": "http://www.cricinfo.com/ci/content/player/20113.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "485",
+        "bat avg": "17.32",
+        "100s/50s": "\u2013/2",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1879",
+        "Hampshire": "1880\u20131888"
+    }
+}

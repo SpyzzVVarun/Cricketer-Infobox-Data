@@ -1,0 +1,32 @@
+{
+    "name": "Sammy Carter",
+    "birth_place": "Northowram, Yorkshire, England",
+    "death_date": "8 June 1948 (aged 70)",
+    "death_place": "Bellevue Hill, New South Wales, Australia",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "13 December",
+    "testdebutyear": "1907",
+    "lasttestdate": "26 November",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1921",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/4542.html Cricinfo",
+    "Test": {
+        "matches": "28",
+        "runs": "873",
+        "bat avg": "22.97",
+        "100s/50s": "0/4",
+        "top score": "72",
+        "catches/stumpings": "44/21"
+    },
+    "First-class": {
+        "matches": "128",
+        "runs": "2,897",
+        "bat avg": "20.11",
+        "100s/50s": "2/13",
+        "top score": "149",
+        "catches/stumpings": "181/89"
+    },
+    "clubs": {}
+}

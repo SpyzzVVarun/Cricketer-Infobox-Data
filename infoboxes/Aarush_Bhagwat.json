@@ -1,0 +1,34 @@
+{
+    "name": "Aarush Bhagwat",
+    "country": "Hong Kong",
+    "birth_place": "Kwun Tong, Hong Kong",
+    "heightm": "1.72",
+    "batting": "Right-handed",
+    "role": "Wicket keeper",
+    "T20Idebutdate": "5 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Oman",
+    "T20Icap": "25",
+    "lastT20Idate": "23 October",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Jersey",
+    "source": "http://www.espncricinfo.com/ci/content/player/1134974.html Cricinfo ",
+    "T20I": {
+        "matches": "4",
+        "runs": "5",
+        "bat avg": "1.25",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "2/0"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "30",
+        "bat avg": "7.5",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {},
+    "birth_date": "2003-9-12"
+}

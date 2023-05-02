@@ -1,0 +1,33 @@
+{
+    "name": "Blake Edwards",
+    "source": "http://www.espncricinfo.com/ci/content/player/1130754.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "519",
+        "wickets": "7",
+        "bowl avg": "47.28",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/95",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "65",
+        "wickets": "3",
+        "bowl avg": "24.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/30",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1999-10-26"
+}

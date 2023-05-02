@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Franklin Lee Altemus",
+    "birth_place": "Philadelphia, Pennsylvania, United States",
+    "death_date": "December 1934 (aged 67)",
+    "death_place": "Washington, D.C., United States",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm (unknown Right-arm roundarm (unknown style)",
+    "source": "https://www.espncricinfo.com/player/franklin-altemus-25674 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "0.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "306",
+        "wickets": "4",
+        "bowl avg": "39.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/132",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Gentlemen of Philadelphia": "1894&ndash;1895"
+    }
+}

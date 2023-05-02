@@ -1,0 +1,34 @@
+{
+    "name": "Johnny Lindsay",
+    "fullname": "John Dixon Lindsay",
+    "birth_place": "Barkly East, Cape Province",
+    "death_date": "1990",
+    "death_place": "Benoni, Transvaal",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "7 June",
+    "testdebutyear": "1947",
+    "lasttestdate": "5 July",
+    "lasttestagainst": "England",
+    "lasttestyear": "1947",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/45991.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "21",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/1"
+    },
+    "First-class": {
+        "matches": "29",
+        "runs": "346",
+        "bat avg": "11.16",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "39/16"
+    },
+    "clubs": {},
+    "birth_date": "1908-9-8"
+}

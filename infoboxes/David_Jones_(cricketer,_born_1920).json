@@ -1,0 +1,29 @@
+{
+    "name": "David Jones",
+    "country": "England",
+    "fullname": "David Alfred Jones",
+    "birth_place": "Aberkenfig, Glamorgan, Wales",
+    "death_date": "1990",
+    "death_place": "Pen-y-fai, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15539.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "84",
+        "wickets": "2",
+        "bowl avg": "21.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/22",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1938"
+    },
+    "birth_date": "1920-3-9"
+}

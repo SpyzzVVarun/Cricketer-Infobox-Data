@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Kevin John Nash",
+    "birth_place": "Derby, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/18043.html Cricinfo ",
+    "LA": {
+        "matches": "6",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "317",
+        "wickets": "8",
+        "bowl avg": "28.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/46",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wiltshire": "1999-2005",
+        "Dorset": "1995-1997"
+    },
+    "birth_date": "1975-10-19"
+}

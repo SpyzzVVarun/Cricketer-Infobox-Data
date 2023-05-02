@@ -1,0 +1,38 @@
+{
+    "name": "Cecil Leach",
+    "country": "England",
+    "fullname": "Cecil Leach",
+    "birth_place": "Littleborough, Lancashire, England",
+    "death_date": "1973",
+    "death_place": "Nailsea, Somerset, England",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "30 June",
+    "debutyear1": "1923",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Middlesex",
+    "lastdate1": "15 June",
+    "lastyear1": "1928",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Glamorgan",
+    "source": "https://cricketarchive.com/Archive/Players/3/3676/3676.html CricketArchive ",
+    "First-class": {
+        "matches": "20",
+        "runs": "250",
+        "bat avg": "8.92",
+        "100s/50s": "0/1",
+        "top score": "79",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "87.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/62",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1923\u20131924",
+        "Somerset": "1924\u20131928"
+    },
+    "birth_date": "1894-11-29"
+}

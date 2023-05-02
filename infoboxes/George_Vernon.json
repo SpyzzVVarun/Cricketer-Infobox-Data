@@ -1,0 +1,43 @@
+{
+    "name": "George Vernon",
+    "birth_place": "Marylebone, London, England",
+    "death_date": "1902",
+    "death_place": "Elmina, Gold Coast",
+    "batting": "Right-handed",
+    "bowling": "Slow",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1882",
+    "onetest": "true",
+    "source": "http://www.espncricinfo.com/england/content/player/22186.html ESPNCricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "240",
+        "runs": "7,070",
+        "bat avg": "19.10",
+        "100s/50s": "4/28",
+        "top score": "160",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "34.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/11",
+        "catches/stumpings": "171/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1856-6-20"
+}

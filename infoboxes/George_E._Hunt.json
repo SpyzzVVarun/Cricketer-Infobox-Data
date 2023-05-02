@@ -1,0 +1,30 @@
+{
+    "name": "George Hunt",
+    "country": "England",
+    "fullname": "George Edward Hunt",
+    "birth_place": "Pill, Somerset, England",
+    "death_date": "1959",
+    "death_place": "Bristol, Somerset, England",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowling all-rounder",
+    "source": "http://www.cricinfo.com/england/content/player/14314.html CricInfo ",
+    "FC": {
+        "matches": "233",
+        "runs": "4952",
+        "bat avg": "15.42",
+        "100s/50s": "1/18",
+        "top score": "101",
+        "deliveries": "30576",
+        "wickets": "386",
+        "bowl avg": "32.87",
+        "fivefor": "11",
+        "tenfor": "1",
+        "best bowling": "7/61",
+        "catches/stumpings": "197/0"
+    },
+    "clubs": {
+        "Somerset": "1921&ndash;1931"
+    },
+    "birth_date": "1896-9-30"
+}

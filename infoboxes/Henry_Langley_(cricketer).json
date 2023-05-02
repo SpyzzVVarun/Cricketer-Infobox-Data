@@ -1,0 +1,29 @@
+{
+    "name": "Henry Langley",
+    "country": "England",
+    "fullname": "Henry Fitzroy James Langley",
+    "birth_place": "Westminster, London",
+    "death_date": "df=yes",
+    "death_place": "Buenos Aires, Argentina",
+    "batting": "Unknown",
+    "type1": "First-class",
+    "debutdate1": "8 August",
+    "debutyear1": "1866",
+    "debutfor1": "I Zingari",
+    "debutagainst1": "Gentlemen of the South",
+    "lastdate1": "10 August",
+    "lastyear1": "1866",
+    "lastfor1": "Marylebone Cricket Club",
+    "lastagainst1": "Gentlemen of Kent",
+    "source": "http://www.espncricinfo.com/england/content/player/16457.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {},
+    "birth_date": "1846-12-08"
+}

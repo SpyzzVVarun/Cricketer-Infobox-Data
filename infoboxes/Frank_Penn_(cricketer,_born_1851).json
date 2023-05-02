@@ -1,0 +1,46 @@
+{
+    "name": "Frank Penn",
+    "birth_place": "Lee, London",
+    "death_date": "1916",
+    "death_place": "Bifrons, Patrixbourne, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm slow Right-arm slow (round-arm)",
+    "family": "John Penn (father) John Penn (brother) William Penn (brother) Dick Penn (brother) Frank Penn (cricketer, born 1884) (son)",
+    "onetest": "true",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "6 September",
+    "testdebutyear": "1880",
+    "source": "http://www.espncricinfo.com/england/content/player/18500.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "50",
+        "bat avg": "50.00",
+        "100s/50s": "0/0",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "98",
+        "runs": "4,291",
+        "bat avg": "27.15",
+        "100s/50s": "6/17",
+        "top score": "160",
+        "deliveries": "897",
+        "wickets": "10",
+        "bowl avg": "37.10",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/36",
+        "catches/stumpings": "49/\u2013"
+    },
+    "clubs": {
+        "Kent": "1875\u20131881"
+    },
+    "birth_date": "1851-3-7"
+}

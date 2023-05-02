@@ -1,0 +1,31 @@
+{
+    "name": "Guy Sparrow",
+    "country": "England",
+    "fullname": "Guy Ratcliff Sparrow",
+    "birth_place": "Aston, Warwickshire, England",
+    "death_date": "1958",
+    "death_place": "Burton-on-Trent, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "19 June",
+    "debutyear1": "1905",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "22 June",
+    "lastyear1": "1905",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Players/32/32946/32946.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "75",
+        "bat avg": "18.75",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1905"
+    },
+    "birth_date": "1877-7-2"
+}

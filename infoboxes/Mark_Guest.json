@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Mark Peter Guest",
+    "birth_place": "Gloucester, Gloucestershire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/13827.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "29",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Gloucestershire Cricket Board": "2002"
+    },
+    "birth_date": "1983-12-4"
+}

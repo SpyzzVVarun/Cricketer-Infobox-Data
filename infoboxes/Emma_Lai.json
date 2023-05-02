@@ -1,0 +1,35 @@
+{
+    "name": "Emma Lai",
+    "female": "true",
+    "country": "Hong Kong",
+    "fullname": "Wing Ki Lai",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "T20Idebutdate": "13 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Bhutan",
+    "T20Icap": "13",
+    "lastT20Idate": "30 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Japan",
+    "source": "http://www.espncricinfo.com/ci/content/player/587501.html Cricinfo ",
+    "WT20I": {
+        "matches": "16",
+        "runs": "43",
+        "bat avg": "3.90",
+        "100s/50s": "0/0",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Hong Kong Cricket Club": "",
+        "Perth Scorchers": "2016\u201317"
+    },
+    "birth_date": "1988-3-14"
+}

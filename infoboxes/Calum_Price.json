@@ -1,0 +1,29 @@
+{
+    "name": "Calum Price",
+    "country": "Zimbabwe",
+    "fullname": "Calum Walter Price",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "family": "Ryan Higgins (cousin), Dylan Higgins (cousin)",
+    "source": "http://www.espncricinfo.com/zimbabwe/content/player/427184.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "75",
+        "wickets": "2",
+        "bowl avg": "20.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/40",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "Mashonaland Eagles": "2011-present"
+    },
+    "birth_date": "1992-1-4"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Alfie Ogborne",
+    "fullname": "Alfie Richard James Ogborne",
+    "birth_place": "Yeovil, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Bowler",
+    "type1": "List A",
+    "debutdate1": "10 August",
+    "debutyear1": "2022",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Durham",
+    "source": "https://www.espncricinfo.com/player/alfie-ogborne-1262574 ESPNcricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "39",
+        "bat avg": "39.00",
+        "100s/50s": "0/0",
+        "deliveries": "228",
+        "wickets": "4",
+        "bowl avg": "61.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/49",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Somerset( 3 )": "2022"
+    },
+    "birth_date": "2003-7-15"
+}

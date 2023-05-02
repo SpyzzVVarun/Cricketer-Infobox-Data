@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Alfred Talbot Cliff",
+    "birth_place": "Brigg, Lincolnshire, England",
+    "death_date": "1966",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/alfred-cliff-11175 Cricinfo ",
+    "First-class": {
+        "matches": "39",
+        "runs": "986",
+        "bat avg": "13.69",
+        "100s/50s": "\u2013/4",
+        "deliveries": "649",
+        "wickets": "8",
+        "bowl avg": "53.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/4",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1912&ndash;1920"
+    }
+}

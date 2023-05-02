@@ -1,0 +1,45 @@
+{
+    "name": "Richard Lewis",
+    "country": "England",
+    "fullname": "Richard Victor Lewis",
+    "birth_place": "Winchester, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/16283.html Cricinfo ",
+    "FC": {
+        "matches": "105",
+        "runs": "3,741",
+        "bat avg": "19.72",
+        "100s/50s": "2/15",
+        "top score": "136",
+        "deliveries": "132",
+        "wickets": "1",
+        "bowl avg": "104.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/59",
+        "catches/stumpings": "65/&ndash;"
+    },
+    "LA": {
+        "matches": "97",
+        "runs": "1,365",
+        "bat avg": "17.27",
+        "100s/50s": "&ndash;/6",
+        "top score": "79",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "22/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1979&ndash;1983",
+        "Minor Counties South": "1979",
+        "Minor Counties West": "1978",
+        "Dorset": "1977&ndash;1986",
+        "Hampshire": "1967&ndash;1976"
+    },
+    "birth_date": "1947-8-6"
+}

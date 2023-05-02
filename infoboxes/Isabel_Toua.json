@@ -1,0 +1,27 @@
+{
+    "name": "Isabel Toua",
+    "female": "true",
+    "country": "Papua New Guinea",
+    "fullname": "Isabel Toua",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "7 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Bangladesh",
+    "T20Icap": "11",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Samoa",
+    "source": "http://www.espncricinfo.com/ci/content/player/1150581.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1995-7-17",
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Women's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

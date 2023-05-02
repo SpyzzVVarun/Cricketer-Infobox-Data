@@ -1,0 +1,27 @@
+{
+    "name": "Walter Mapplebeck",
+    "fullname": "Walter Oliver Mapplebeck",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1992",
+    "death_place": "Lower Hutt, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/37809.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "53",
+        "bat avg": "13.25",
+        "100s/50s": "0/0",
+        "deliveries": "752",
+        "wickets": "21",
+        "bowl avg": "21.76",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Canterbury": "1936-37 to 1940-41"
+    },
+    "birth_date": "1914-7-19"
+}

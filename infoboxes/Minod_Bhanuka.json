@@ -1,0 +1,68 @@
+{
+    "name": "Minod Bhanuka",
+    "country": "Sri Lanka",
+    "fullname": "Minod Bhanuka Ranasinghe",
+    "birth_place": "Wennapuwa, Sri Lanka",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper-batsman",
+    "internationalspan": "2019-2021",
+    "onetest": "true",
+    "testdebutdate": "3 January",
+    "testdebutyear": "2021",
+    "testdebutagainst": "South Africa",
+    "testcap": "152",
+    "odidebutdate": "2 October",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Pakistan",
+    "odicap": "192",
+    "lastodidate": "4 September",
+    "lastodiyear": "2021",
+    "lastodiagainst": "South Africa",
+    "T20Idebutdate": "5 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "82",
+    "lastT20Idate": "29 July",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/629075.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "0/0"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "140",
+        "bat avg": "23.33",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "5/1"
+    },
+    "T20I": {
+        "matches": "5",
+        "runs": "64",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "6/0"
+    },
+    "FC": {
+        "matches": "61",
+        "runs": "4,067",
+        "bat avg": "44.20",
+        "100s/50s": "12/14",
+        "top score": "342",
+        "catches/stumpings": "145/43"
+    },
+    "clubs": {
+        "Sinhalese Sports Club": "2017",
+        "Colombo Cricket Club": "2018-present",
+        "Jaffna Stallions": "2020",
+        "Kandy Warriors": "2021"
+    },
+    "birth_date": "1995-4-29"
+}

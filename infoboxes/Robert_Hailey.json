@@ -1,0 +1,26 @@
+{
+    "name": "Robert Hailey",
+    "fullname": "Robert John Hailey",
+    "birth_place": "Gosforth, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/14733.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "deliveries": "384",
+        "wickets": "6",
+        "bowl avg": "42.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1978\u20131988",
+        "Minor Counties": "1982"
+    },
+    "birth_date": "1951-7-25"
+}

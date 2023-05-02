@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Albert Bird",
+    "birth_place": "Moseley, Warwickshire,, England",
+    "death_date": "1927",
+    "death_place": "Worcester, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://www.espncricinfo.com/player/albert-bird-9757 Cricinfo ",
+    "First-class": {
+        "matches": "143",
+        "runs": "1,951",
+        "bat avg": "12.04",
+        "100s/50s": "\u2013/2",
+        "deliveries": "15,731",
+        "wickets": "292",
+        "bowl avg": "25.35",
+        "fivefor": "20",
+        "tenfor": "3",
+        "best bowling": "7/41",
+        "catches/stumpings": "56/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1895&ndash;1909"
+    }
+}

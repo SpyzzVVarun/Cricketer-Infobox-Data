@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Harry Ernest Browne",
+    "birth_place": "Dharwar, Mysore,, British India",
+    "death_date": "1944",
+    "death_place": "Taunton, Somerset, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/harry-browne-27075 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "126",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "349",
+        "wickets": "12",
+        "bowl avg": "16.91",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/20",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1895/96&ndash;1900/01"
+    }
+}

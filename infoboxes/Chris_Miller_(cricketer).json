@@ -1,0 +1,61 @@
+{
+    "name": "Chris Miller",
+    "female": "true",
+    "fullname": "Chris Miller",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1982",
+    "country": "International XI",
+    "odidebutdate": "12 January",
+    "odidebutyear": "1982",
+    "odidebutagainst": "New Zealand",
+    "odicap": "22",
+    "lastodidate": "31 January",
+    "lastodiyear": "1982",
+    "lastodiagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17165/17165.html CricketArchive ",
+    "WODI": {
+        "matches": "10",
+        "runs": "88",
+        "bat avg": "8.80",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "WFC": {
+        "matches": "28",
+        "runs": "1,021",
+        "bat avg": "26.86",
+        "100s/50s": "0/8",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "17/0"
+    },
+    "WLA": {
+        "matches": "21",
+        "runs": "335",
+        "bat avg": "16.75",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "North Shore": "1971/72\u20131981/82"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Alexa Stonehouse",
+    "female": "true",
+    "fullname": "Alexa Kate Stonehouse",
+    "birth_place": "Ashford, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/2103/2103561/2103561.html CricketArchive",
+    "WLA": {
+        "matches": "7",
+        "runs": "82",
+        "bat avg": "11.71",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "228",
+        "wickets": "6",
+        "bowl avg": "26.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "22",
+        "runs": "28",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "228",
+        "wickets": "7",
+        "bowl avg": "35.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Kent": "2021\u2013present",
+        "South East Stars": "2021\u2013present",
+        "Trent Rockets": "2022\u2013present"
+    },
+    "birth_date": "2004-12-05"
+}

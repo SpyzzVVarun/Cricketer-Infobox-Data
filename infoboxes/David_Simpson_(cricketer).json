@@ -1,0 +1,24 @@
+{
+    "country": "Ireland",
+    "fullname": "David Dean Simpson",
+    "birth_place": "Derry, Northern Ireland",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/245187.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1983-7-20"
+}

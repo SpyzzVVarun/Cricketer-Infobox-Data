@@ -1,0 +1,48 @@
+{
+    "name": "Fareeha Mehmood",
+    "female": "true",
+    "country": "Pakistan",
+    "fullname": "Fareeha Mehmood",
+    "birth_place": "Lahore, Pakistan",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "T20Idebutdate": "28 March",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "41",
+    "lastT20Idate": "31 March",
+    "lastT20Iyear": "2018",
+    "lastT20Iagainst": "Sri Lanka",
+    "source": "https://cricketarchive.com/Archive/Players/940/940532/940532.html CricketArchive ",
+    "WT20I": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "1/0"
+    },
+    "WLA": {
+        "matches": "47",
+        "runs": "686",
+        "bat avg": "20.78",
+        "100s/50s": "0/1",
+        "catches/stumpings": "34/16"
+    },
+    "WT20": {
+        "matches": "34",
+        "runs": "236",
+        "bat avg": "14.75",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "14/13"
+    },
+    "clubs": {
+        "Federal Capital": "2011/12\u20132012/13",
+        "Higher Education Commission": "2017",
+        "Lahore": "2014",
+        "Omar Associates": "2015",
+        "State Bank of Pakistan": "2018/19"
+    },
+    "birth_date": "1994-2-19"
+}

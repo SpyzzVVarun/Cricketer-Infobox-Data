@@ -1,0 +1,41 @@
+{
+    "name": "Gerry Gomez",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm Right-arm medium Right-arm off-break",
+    "country": "West Indies",
+    "testdebutagainst": "England",
+    "testdebutdate": "22 July",
+    "testdebutyear": "1939",
+    "lasttestdate": "30 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1954",
+    "source": "http://www.espncricinfo.com/westindies/content/player/51893.html ESPNcricinfo",
+    "Test": {
+        "matches": "29",
+        "runs": "1,243",
+        "bat avg": "30.31",
+        "100s/50s": "1/8",
+        "top score": "101",
+        "deliveries": "5,236",
+        "wickets": "58",
+        "bowl avg": "27.41",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "7/55",
+        "catches/stumpings": "18/0"
+    },
+    "First-class": {
+        "matches": "126",
+        "runs": "6,764",
+        "bat avg": "43.63",
+        "100s/50s": "14/29",
+        "deliveries": "15,178",
+        "wickets": "200",
+        "bowl avg": "26.33",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "9/24",
+        "catches/stumpings": "92/0"
+    },
+    "clubs": {}
+}

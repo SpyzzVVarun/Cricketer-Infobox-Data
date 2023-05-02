@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Stuart Seaton",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "df=yes",
+    "death_place": "West Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/20648.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "196",
+        "bat avg": "15.07",
+        "100s/50s": "\u2013/1",
+        "top score": "51",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1946&ndash;1947",
+        "Oxford University": "1957"
+    },
+    "birth_date": "1926-3-6"
+}

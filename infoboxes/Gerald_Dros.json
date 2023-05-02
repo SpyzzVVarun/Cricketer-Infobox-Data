@@ -1,0 +1,55 @@
+{
+    "country": "South Africa",
+    "fullname": "Gerald Dros",
+    "birth_place": "Pretoria, Transvaal,, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/44724.html Cricinfo ",
+    "FC": {
+        "matches": "81",
+        "runs": "4,022",
+        "bat avg": "32.96",
+        "100s/50s": "4/22",
+        "top score": "136",
+        "deliveries": "2,325",
+        "wickets": "39",
+        "bowl avg": "30.84",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/17",
+        "catches/stumpings": "97/\u2013"
+    },
+    "LA": {
+        "matches": "137",
+        "runs": "3,634",
+        "bat avg": "36.70",
+        "100s/50s": "5/21",
+        "top score": "124",
+        "deliveries": "1,132",
+        "wickets": "34",
+        "bowl avg": "29.58",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/21",
+        "catches/stumpings": "59/\u2013"
+    },
+    "T20": {
+        "matches": "26",
+        "runs": "325",
+        "bat avg": "21.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Northern Transvaal/, Northerns": "1993/94&ndash;1996/97",
+        "Ireland": "1999\u20132004",
+        "Titans": "2003/04&ndash;2006/07"
+    },
+    "birth_date": "1973-4-2"
+}

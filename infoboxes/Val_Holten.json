@@ -1,0 +1,27 @@
+{
+    "name": "Val Holten",
+    "country": "Australia",
+    "fullname": "Charles Valentine Holten",
+    "birth_place": "Brighton, Victoria, Australia",
+    "death_date": "2015",
+    "death_place": "Melbourne, Victoria, Australia",
+    "type1": "FC",
+    "source": "https://www.espncricinfo.com/player/val-holten-5859 CricInfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "170",
+        "bat avg": "21.25",
+        "100s/50s": "0/1",
+        "deliveries": "176",
+        "wickets": "2",
+        "bowl avg": "45.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/11",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1950/51\u20131952/53"
+    },
+    "birth_date": "1927-9-15"
+}

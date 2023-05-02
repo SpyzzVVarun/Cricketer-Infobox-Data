@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Edward May Dewing",
+    "birth_place": "Carbrooke, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Nowton, Suffolk, England",
+    "family": "Robert Dewing (son)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12158.html Cricinfo ",
+    "First-class": {
+        "matches": "38",
+        "runs": "467",
+        "bat avg": "7.41",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "44",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1842&ndash;1845",
+        "Marylebone Cricket Club": "1843&ndash;1848"
+    }
+}

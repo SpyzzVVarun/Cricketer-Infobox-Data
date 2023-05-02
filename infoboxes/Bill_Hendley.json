@@ -1,0 +1,30 @@
+{
+    "name": "Bill Hendley",
+    "fullname": "William Hendley",
+    "birth_place": "Pirton, Hertfordshire, England",
+    "death_date": "1895",
+    "death_place": "Dunedin, New Zealand",
+    "heightft": "5",
+    "heightinch": "10+1/2",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/37377.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "22",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "860",
+        "wickets": "37",
+        "bowl avg": "8.48",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "8/28",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Otago": "1864/65\u20131872/73"
+    },
+    "birth_date": "1834-11-16"
+}

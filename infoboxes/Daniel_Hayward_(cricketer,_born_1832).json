@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Daniel Hayward",
+    "birth_place": "Chatteris, Cambridgeshire, England",
+    "death_date": "1910",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "family": "Daniel Hayward senior (father), Tom Hayward (son), Thomas Hayward (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/14660.html Cricinfo ",
+    "First-class": {
+        "matches": "43",
+        "runs": "690",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/2",
+        "top score": "59",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1854",
+        "Cambridgeshire": "1861&ndash;1869"
+    }
+}

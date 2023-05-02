@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edwin Smith",
+    "birth_place": "Peatling Magna,, Leicestershire, England",
+    "death_date": "1939",
+    "death_place": "Ashby Magna,, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20850.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "118",
+        "bat avg": "8.42",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "32",
+        "deliveries": "1,293",
+        "wickets": "25",
+        "bowl avg": "19.48",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "7/59",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Cheshire": "1895"
+    }
+}

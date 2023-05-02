@@ -1,0 +1,39 @@
+{
+    "name": "James Wharton",
+    "fullname": "James Henry Wharton",
+    "birth_place": "Huddersfield, West Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "14 April",
+    "debutyear1": "2022",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Gloucestershire",
+    "type2": "Twenty20",
+    "debutdate2": "14 September",
+    "debutyear2": "2020",
+    "debutfor2": "Yorkshire",
+    "debutagainst2": "Lancashire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1147613.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "121",
+        "bat avg": "15.12",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Yorkshire( 23 )": "2020\u2013present"
+    },
+    "birth_date": "2001-2-1"
+}

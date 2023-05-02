@@ -1,0 +1,52 @@
+{
+    "name": "Ashley Wright",
+    "country": "Guernsey",
+    "fullname": "Ashley Spencer Wright",
+    "birth_place": "Grantham, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "family": "Luke Wright (brother)",
+    "T20Idebutdate": "31 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Jersey",
+    "T20Icap": "11",
+    "lastT20Idate": "19 June",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Norway",
+    "source": "http://www.cricinfo.com/ci/content/player/22533.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "124",
+        "bat avg": "13.77",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "259",
+        "bat avg": "32.37",
+        "100s/50s": "1/1",
+        "top score": "112",
+        "deliveries": "36",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "2005",
+        "Lincolnshire": "2004",
+        "Leicestershire": "2001\u20132002",
+        "Leicestershire Cricket Board": "1999-2001"
+    },
+    "birth_date": "1980-10-21"
+}

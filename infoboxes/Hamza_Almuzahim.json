@@ -1,0 +1,51 @@
+{
+    "country": "Uganda",
+    "fullname": "Hamza Saleh Almuzahim",
+    "birth_place": "Jinja, Uganda",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/26140.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "230",
+        "bat avg": "12.77",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "94",
+        "bat avg": "11.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1986-4-20"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Charlotte Smith",
+    "female": "true",
+    "country": "Denmark",
+    "birth_place": "Denmark",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Ireland",
+    "odicap": "11",
+    "lastodidate": "20 July",
+    "lastodiyear": "1991",
+    "lastodiagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/54975.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "10",
+        "runs": "115",
+        "bat avg": "12.77",
+        "100s/50s": "0/0",
+        "deliveries": "182",
+        "wickets": "7",
+        "bowl avg": "23.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/5",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1966"
+}

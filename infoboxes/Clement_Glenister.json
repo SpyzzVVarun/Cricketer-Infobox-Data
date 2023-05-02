@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Clement Edward Glenister",
+    "birth_place": "Watford, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bovingdon, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/13638.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "104",
+        "bat avg": "11.55",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "49",
+        "deliveries": "441",
+        "wickets": "9",
+        "bowl avg": "27.22",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/39",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

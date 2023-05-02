@@ -1,0 +1,31 @@
+{
+    "name": "Sushan Bhari",
+    "country": "Nepal",
+    "birth_place": "Palpa, Nepal",
+    "odidebutdate": "5 February",
+    "odidebutyear": "2020",
+    "odidebutagainst": "Oman",
+    "odicap": "20",
+    "lastodidate": "11 June",
+    "lastodiyear": "2022",
+    "lastodiagainst": "USA",
+    "T20Idebutdate": "28 September",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Singapore",
+    "T20Icap": "29",
+    "lastT20Idate": "22 April",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Malaysia",
+    "source": "http://www.espncricinfo.com/ci/content/player/633525.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1995-3-6",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

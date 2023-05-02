@@ -1,0 +1,46 @@
+{
+    "name": "Mary Richards",
+    "female": "true",
+    "country": "England",
+    "fullname": "Marjorie E Richards",
+    "role": "Batter",
+    "internationalspan": "1935",
+    "testdebutdate": "4 January",
+    "testdebutyear": "1935",
+    "testdebutagainst": "Australia",
+    "testcap": "12",
+    "lasttestdate": "18 February",
+    "lasttestyear": "1935",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17076/17076.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "100",
+        "bat avg": "33.33",
+        "100s/50s": "0/0",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "7",
+        "runs": "156",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "West": "1934",
+        "Kent": "1937"
+    }
+}

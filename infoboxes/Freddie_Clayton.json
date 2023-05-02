@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Frederick George Hugh Clayton",
+    "birth_place": "Newcastle upon Tyne, Northumberland, England",
+    "death_date": "df=y",
+    "death_place": "Warkworth, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11166.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "332",
+        "bat avg": "20.75",
+        "100s/50s": "\u2013/3",
+        "top score": "68",
+        "deliveries": "896",
+        "wickets": "18",
+        "bowl avg": "29.16",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "7/70",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1893\u20131896",
+        "Northumberland": "1896\u20131906"
+    }
+}

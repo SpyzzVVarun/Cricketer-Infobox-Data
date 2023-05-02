@@ -1,0 +1,36 @@
+{
+    "name": "Beverly Botha",
+    "female": "true",
+    "fullname": "Beverly Anne Botha",
+    "birth_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "1972",
+    "country": "South Africa",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "testcap": "16",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1972",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17365/17365.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "139",
+        "bat avg": "34.75",
+        "100s/50s": "0/1",
+        "top score": "72",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Southern Transvaal": "1971/72\u20131975/76"
+    },
+    "birth_date": "1953-10-23"
+}

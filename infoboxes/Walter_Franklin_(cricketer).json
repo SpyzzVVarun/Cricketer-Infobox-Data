@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Walter Bell Franklin",
+    "birth_place": "Upper Norwood, Surrey, England",
+    "death_date": "1968",
+    "death_place": "Knodishall, Suffolk, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/13191.html Cricinfo ",
+    "First-class": {
+        "matches": "60",
+        "runs": "1,362",
+        "bat avg": "18.91",
+        "100s/50s": "\u2013/4",
+        "top score": "77",
+        "catches/stumpings": "63/53"
+    },
+    "clubs": {
+        "Minor Counties": "1924\u20131937",
+        "Marylebone Cricket Club": "1914\u20131933",
+        "Cambridge University": "1911\u20131913",
+        "Buckinghamshire": "1911\u20131946"
+    },
+    "birth_date": "1891-8-16"
+}

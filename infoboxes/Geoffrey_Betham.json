@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Lawrence Betham",
+    "birth_place": "Belgaum, Bombay Presidency, British India",
+    "death_date": "df=yes",
+    "death_place": "Chelsea, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9226.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "129",
+        "bat avg": "12.90",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "deliveries": "198",
+        "wickets": "4",
+        "bowl avg": "34.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/27",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1917/18&ndash;1926/27",
+        "Rajputana": "1937/38"
+    }
+}

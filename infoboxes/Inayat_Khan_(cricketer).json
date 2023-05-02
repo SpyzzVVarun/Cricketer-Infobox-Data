@@ -1,0 +1,31 @@
+{
+    "name": "Inayat Khan",
+    "country": "Pakistan",
+    "fullname": "Malik Inayat Khan",
+    "birth_place": "Lahore, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://www.espncricinfo.com/player/inayat-khan-40756 Cricinfo",
+    "First-class": {
+        "matches": "18",
+        "runs": "734",
+        "bat avg": "29.36",
+        "100s/50s": "1/5",
+        "top score": "100",
+        "deliveries": "2382",
+        "wickets": "19",
+        "bowl avg": "34.89",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/59",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Muslims": "1943-44 to 1945-46",
+        "Northern India": "1943-44",
+        "Sind": "1944-45 to 1948-49",
+        "Punjab": "1947-48"
+    },
+    "birth_date": "1922-10-19"
+}

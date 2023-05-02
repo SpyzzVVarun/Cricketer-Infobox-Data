@@ -1,0 +1,30 @@
+{
+    "name": "Richard Maddocks",
+    "country": "Australia",
+    "fullname": "Richard Ivor Maddocks",
+    "birth_place": "Carnegie, Melbourne",
+    "death_date": "1968",
+    "death_place": "Blackburn, Victoria",
+    "batting": "Right-handed",
+    "bowling": "left left handed",
+    "role": "Middle-order batsman",
+    "source": "https://cricketarchive.com/Archive/Players/16/16373/16373.html CricketArchive ",
+    "First-class": {
+        "matches": "21",
+        "runs": "1227",
+        "bat avg": "40.90",
+        "100s/50s": "2/4",
+        "top score": "271",
+        "deliveries": "16",
+        "wickets": "1",
+        "bowl avg": "9.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1\u20130",
+        "catches/stumpings": "17/1"
+    },
+    "clubs": {
+        "Victoria": "1948\u20131956"
+    },
+    "birth_date": "1928-7-30"
+}

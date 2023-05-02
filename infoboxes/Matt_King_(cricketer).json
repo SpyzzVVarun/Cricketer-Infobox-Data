@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Matthew John King",
+    "birth_place": "Basingstoke, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/511848.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "2013&ndash;present"
+    },
+    "birth_date": "1994-2-25"
+}

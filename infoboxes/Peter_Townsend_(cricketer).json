@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Peter Norton Townsend",
+    "birth_place": "Norton, County Durham, England",
+    "death_date": "df=yes",
+    "death_place": "Bromley, Kent, England",
+    "family": "Charlie Townsend (father), David Townsend (brother), Frank Townsend (grandfather), Jonathan Townsend (nephew), Frank Townsend (uncle), Miles Townsend (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/21910.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "192",
+        "wickets": "3",
+        "bowl avg": "50.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1929"
+    }
+}

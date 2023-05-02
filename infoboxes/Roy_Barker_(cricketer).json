@@ -1,0 +1,42 @@
+{
+    "name": "Roy Barker",
+    "country": "England",
+    "fullname": "Antony Royston Paul Barker",
+    "birth_place": "May Bank, Newcastle-under-Lyme, Staffordshire, England",
+    "death_date": "2020",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "http://cricketarchive.co.uk/Archive/Players/27/27680/27680.html ",
+    "FC": {
+        "matches": "27",
+        "runs": "544",
+        "bat avg": "13.60",
+        "100s/50s": "0/2",
+        "top score": "67",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "12/0"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "47",
+        "bat avg": "15.66",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Worcestershire": "1967\u20131969"
+    },
+    "birth_date": "1947-5-30"
+}

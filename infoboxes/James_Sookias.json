@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "James Hovannes Sookias",
+    "birth_place": "Solihull, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm very Right-arm very slow",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/1033659.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.5",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "2018",
+        "Durham MCCU": "2018-present"
+    },
+    "birth_date": "1999-5-7"
+}

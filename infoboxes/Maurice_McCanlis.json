@@ -1,0 +1,32 @@
+{
+    "name": "Maurice McCanlis",
+    "country": "England",
+    "fullname": "Maurice Alfred McCanlis",
+    "birth_place": "Quetta, Baluchistan, India",
+    "death_date": "1991",
+    "death_place": "Pershore, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/14/14058/14058.html CricketArchive ",
+    "First-class": {
+        "matches": "30",
+        "runs": "493",
+        "bat avg": "15.40",
+        "100s/50s": "0/0",
+        "deliveries": "5,367",
+        "wickets": "82",
+        "bowl avg": "32.21",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "5/42",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1925\u20131928",
+        "Surrey": "1926\u20131927",
+        "Gloucestershire": "1929",
+        "Rajputana": "1938/39\u20131939/40"
+    },
+    "birth_date": "1906-6-17"
+}

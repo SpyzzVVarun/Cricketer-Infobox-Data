@@ -1,0 +1,27 @@
+{
+    "country": "Australia",
+    "fullname": "Ernest Robert de Little",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "death_date": "1926",
+    "death_place": "Caramut, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/12113.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "104",
+        "bat avg": "11.55",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "1,093",
+        "wickets": "27",
+        "bowl avg": "20.29",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/27",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1888&ndash;1889"
+    }
+}

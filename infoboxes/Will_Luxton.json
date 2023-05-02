@@ -1,0 +1,38 @@
+{
+    "name": "Will Luxton",
+    "fullname": "William Luxton",
+    "birth_place": "Keighley, West Yorkshire, England",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "11 July",
+    "debutyear1": "2022",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Surrey",
+    "type2": "List A",
+    "debutdate2": "28 July",
+    "debutyear2": "2021",
+    "debutfor2": "Yorkshire",
+    "debutagainst2": "Northamptonshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1263698.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "12",
+        "runs": "295",
+        "bat avg": "29.50",
+        "100s/50s": "0/2",
+        "top score": "84",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Yorkshire( 68 )": "2021\u2013present"
+    },
+    "birth_date": "2003-5-6"
+}

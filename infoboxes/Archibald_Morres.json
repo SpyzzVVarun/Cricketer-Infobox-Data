@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Archibald Redmond Morres",
+    "birth_place": "Castel, Guernsey",
+    "death_date": "1970",
+    "death_place": "New Forest, Hampshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "Hugh Morres (father), Thomas Morres (great-uncle), Elliot Morres (great-uncle)",
+    "source": "https://www.espncricinfo.com/player/archibald-morres-31170 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "72",
+        "bat avg": "72.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "20.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/20",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1925/26"
+    }
+}

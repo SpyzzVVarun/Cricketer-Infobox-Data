@@ -1,0 +1,43 @@
+{
+    "name": "Malcolm Nash",
+    "country": "England",
+    "fullname": "Malcolm Andrew Nash",
+    "birth_place": "Abergavenny, Monmouthshire, Wales",
+    "death_date": "2019",
+    "death_place": "London, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium Slow left-arm Left-arm medium Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/17995.html CricInfo ",
+    "First-class": {
+        "matches": "336",
+        "runs": "7,129",
+        "bat avg": "17.73",
+        "100s/50s": "2/25",
+        "top score": "130",
+        "deliveries": "55,380",
+        "wickets": "993",
+        "bowl avg": "25.87",
+        "fivefor": "45",
+        "tenfor": "5",
+        "best bowling": "9/56",
+        "catches/stumpings": "148/\u2013"
+    },
+    "List A": {
+        "matches": "271",
+        "runs": "2,303",
+        "bat avg": "12.58",
+        "100s/50s": "1/4",
+        "deliveries": "12,497",
+        "wickets": "324",
+        "bowl avg": "21.27",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/29",
+        "catches/stumpings": "48/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1966\u20131983",
+        "Shropshire": "1984\u20131985"
+    },
+    "birth_date": "1945-5-9"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Percy Evans",
+    "country": "England",
+    "fullname": "Percy Stanbrook Evans",
+    "birth_place": "India",
+    "death_date": "1959",
+    "death_place": "Bromley-by-Bow, London, England",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "source": "http://cricketarchive.co.uk/Archive/Players/29/29306/29306.html ",
+    "FC": {
+        "matches": "5",
+        "runs": "15",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "360",
+        "wickets": "3",
+        "bowl avg": "66.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3-84",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Worcestershire": "1928"
+    },
+    "birth_date": "1894-7-20"
+}

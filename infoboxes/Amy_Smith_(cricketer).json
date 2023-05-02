@@ -1,0 +1,41 @@
+{
+    "name": "Amy Smith",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/2266/2266853/2266853.html CricketArchive",
+    "WLA": {
+        "matches": "10",
+        "runs": "94",
+        "bat avg": "18.80",
+        "100s/50s": "0/0",
+        "deliveries": "324",
+        "wickets": "8",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WT20": {
+        "matches": "13",
+        "runs": "31",
+        "bat avg": "6.20",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "186",
+        "wickets": "8",
+        "bowl avg": "28.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "2020/21\u2013present",
+        "Hobart Hurricanes": "2020/21\u2013present"
+    },
+    "birth_date": "2004-11-16"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Frederick Burton",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1887",
+    "lasttestdate": "10 February",
+    "lasttestagainst": "England",
+    "lasttestyear": "1888",
+    "source": "http://www.espncricinfo.com/ci/content/player/4250.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/1"
+    },
+    "First-class": {
+        "matches": "22",
+        "runs": "376",
+        "bat avg": "13.42",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "25/7"
+    },
+    "clubs": {}
+}

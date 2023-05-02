@@ -1,0 +1,28 @@
+{
+    "country": "West Indies",
+    "fullname": "Delroy Bertram Taylor",
+    "nickname": "Michael Masters",
+    "birth_place": "St Catherine, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/53146.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "206",
+        "bat avg": "34.33",
+        "100s/50s": "&ndash;/2",
+        "top score": "82",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "50.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/35",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Durham UCCE": "2003",
+        "Jamaica": "1995/96"
+    },
+    "birth_date": "1975-6-30"
+}

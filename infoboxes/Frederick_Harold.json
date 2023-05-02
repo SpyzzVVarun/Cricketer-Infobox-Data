@@ -1,0 +1,27 @@
+{
+    "name": "Frederick Harold",
+    "country": "England",
+    "fullname": "Frederick Vere Harold",
+    "birth_place": "Eling, Hampshire, England",
+    "death_date": "1964",
+    "death_place": "Southall, Middlesex, England",
+    "source": "http://www.cricinfo.com/ci/content/player/14055.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1909 and 1912"
+    },
+    "birth_date": "1888-9-5"
+}

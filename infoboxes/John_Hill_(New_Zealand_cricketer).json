@@ -1,0 +1,28 @@
+{
+    "name": "John Hill",
+    "birth_place": "Gore, New Zealand",
+    "death_date": "2002",
+    "death_place": "Invercargill, New Zealand",
+    "family": "Robbie Hill (son)",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-pace",
+    "source": "https://www.espncricinfo.com/player/john-hill-37398 ESPNcricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "31",
+        "bat avg": "5.16",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "1266",
+        "wickets": "19",
+        "bowl avg": "25.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/61",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Otago": "1961\u201362 to 1962\u201363"
+    },
+    "birth_date": "1930-9-22"
+}

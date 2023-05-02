@@ -1,0 +1,34 @@
+{
+    "name": "Nigel Cowley",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://content-aus.cricinfo.com/england/content/player/10849.html Cricinfo",
+    "First-class": {
+        "matches": "271",
+        "runs": "7,309",
+        "bat avg": "23.35",
+        "100s/50s": "2/36",
+        "deliveries": "32,662",
+        "wickets": "437",
+        "bowl avg": "34.04",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/48",
+        "catches/stumpings": "105/\u2013"
+    },
+    "List A": {
+        "matches": "305",
+        "runs": "3,022",
+        "bat avg": "16.69",
+        "100s/50s": "0/5",
+        "top score": "74",
+        "deliveries": "11,704",
+        "wickets": "248",
+        "bowl avg": "32.41",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/24",
+        "catches/stumpings": "69/\u2013"
+    },
+    "clubs": {}
+}

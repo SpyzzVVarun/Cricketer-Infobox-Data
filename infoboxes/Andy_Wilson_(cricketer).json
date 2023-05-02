@@ -1,0 +1,30 @@
+{
+    "name": "Andy Wilson",
+    "fullname": "Arthur Edward Wilson",
+    "birth_place": "Paddington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Redmarley D'Abitot, Gloucestershire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/23050.html ESPNcricinfo",
+    "First-class": {
+        "matches": "328",
+        "runs": "10,744",
+        "bat avg": "25.28",
+        "100s/50s": "7/59",
+        "top score": "188",
+        "deliveries": "2",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "425/176"
+    },
+    "clubs": {
+        "Middlesex": "1932\u20131935",
+        "Gloucestershire": "1936\u20131955"
+    },
+    "birth_date": "1910-5-18"
+}

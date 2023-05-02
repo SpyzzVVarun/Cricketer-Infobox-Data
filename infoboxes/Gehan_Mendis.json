@@ -1,0 +1,39 @@
+{
+    "name": "Gehan Mendis",
+    "fullname": "Gehan Dixon Mendis",
+    "birth_place": "Colombo, Ceylon",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "source": "https://cricketarchive.com/Players/11/11275/11275.html CricketArchive ",
+    "First-class": {
+        "matches": "336",
+        "runs": "21,436",
+        "bat avg": "36.83",
+        "100s/50s": "41/108",
+        "deliveries": "177",
+        "wickets": "1",
+        "bowl avg": "158",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/65",
+        "catches/stumpings": "144/1"
+    },
+    "List A": {
+        "matches": "313",
+        "runs": "8,327",
+        "bat avg": "29.42",
+        "100s/50s": "8/41",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "83/0"
+    },
+    "clubs": {
+        "Sussex": "1974\u20131985",
+        "Lancashire": "1986\u20131993"
+    },
+    "birth_date": "1955-4-24"
+}

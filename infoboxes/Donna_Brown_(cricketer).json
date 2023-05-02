@@ -1,0 +1,40 @@
+{
+    "name": "Donna Brown",
+    "female": "true",
+    "full_name": "Donna Kimberley Brown",
+    "birth_place": "Bacchus Marsh, Victoria, Australia",
+    "batting": "Left-handed",
+    "role": "Opening batter",
+    "source": "https://cricketarchive.com/Archive/Players/239/239348/239348.html CricketArchive",
+    "WLA": {
+        "matches": "19",
+        "runs": "145",
+        "bat avg": "12.08",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "6",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2007/08\u20132009/10"
+    },
+    "birth_date": "1982-07-02"
+}

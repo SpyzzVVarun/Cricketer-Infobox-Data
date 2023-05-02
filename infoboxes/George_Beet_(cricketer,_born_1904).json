@@ -1,0 +1,36 @@
+{
+    "name": "George Beet",
+    "country": "England",
+    "fullname": "George Hector Cook Beet",
+    "birth_place": "Somercotes. Derbyshire, England",
+    "death_date": "1949",
+    "death_place": "Somercotes, Derbyshire, England",
+    "batting": "Right-handed",
+    "role": "Occasional wicket-keeper",
+    "family": "George Beet senior Gordon Beet",
+    "type1": "FC",
+    "debutdate1": "21 July",
+    "debutyear1": "1928",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Kent",
+    "lastdate1": "18 June",
+    "lastyear1": "1938",
+    "lastfor1": "MCC",
+    "lastagainst1": "Oxford University",
+    "umpire": "true",
+    "fcumpired": "1",
+    "umpfcdebutyr": "1947",
+    "source": "https://cricketarchive.com/Players/27/27797/27797.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "277",
+        "bat avg": "16.29",
+        "100s/50s": "0/0",
+        "top score": "61",
+        "catches/stumpings": "14/2"
+    },
+    "clubs": {
+        "Derbyshire": "1928\u20131932"
+    },
+    "birth_date": "1904-5-30"
+}

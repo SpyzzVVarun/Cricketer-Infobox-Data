@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Alfred Richard du Cane",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1882",
+    "death_place": "St John's Wood, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/alfred-du-cane-12408 Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "45",
+        "bat avg": "3.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "922",
+        "wickets": "42",
+        "bowl avg": "11.66",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "7/?",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1854&ndash;1855",
+        "Marylebone Cricket Club": "1855"
+    }
+}

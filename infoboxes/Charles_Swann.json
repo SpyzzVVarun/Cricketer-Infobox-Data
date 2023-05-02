@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Frederick Swann",
+    "birth_place": "Leyton, Essex, England",
+    "death_date": "1960",
+    "death_place": "Leytonstone, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20429.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Essex": "1912"
+    },
+    "birth_date": "1883-8-6"
+}

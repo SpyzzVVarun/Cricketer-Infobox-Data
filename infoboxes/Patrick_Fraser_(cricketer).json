@@ -1,0 +1,29 @@
+{
+    "country": "Scotland",
+    "fullname": "Patrick Shaw Fraser",
+    "birth_place": "Raipur, Central Provinces and Berar, British India",
+    "death_date": "1962",
+    "death_place": "Everton, Lancashire, England",
+    "family": "Charles Fraser (brother)",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/25214.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "289",
+        "bat avg": "17.00",
+        "100s/50s": "\u2013/2",
+        "top score": "79",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "56.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/14",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1911&ndash;1913",
+        "Marylebone Cricket Club": "1925&ndash;1927"
+    }
+}

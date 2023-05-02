@@ -1,0 +1,50 @@
+{
+    "country": "England",
+    "fullname": "Christopher Heseltine",
+    "birth_place": "South Kensington, Middlesex, England",
+    "death_date": "1944",
+    "death_place": "Walhampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "internationalspan": "1896",
+    "testdebutdate": "2 March",
+    "testdebutyear": "1896",
+    "testdebutagainst": "South Africa",
+    "testcap": "102",
+    "lasttestdate": "21 March",
+    "lasttestyear": "1896",
+    "lasttestagainst": "South Africa",
+    "source": "https://www.espncricinfo.com/player/christopher-heseltine-14171 Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "157",
+        "wickets": "5",
+        "bowl avg": "16.80",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/38",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "79",
+        "runs": "1,390",
+        "bat avg": "12.30",
+        "100s/50s": "\u2013/3",
+        "top score": "77",
+        "deliveries": "8,216",
+        "wickets": "170",
+        "bowl avg": "24.50",
+        "fivefor": "7",
+        "tenfor": "\u2013",
+        "best bowling": "7/106",
+        "catches/stumpings": "54/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1892\u20131914",
+        "Hampshire": "1895\u20131904"
+    }
+}

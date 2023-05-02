@@ -1,0 +1,35 @@
+{
+    "name": "Alana Dalzell",
+    "female": "true",
+    "fullname": "Alana Dalzell",
+    "birth_place": "Derry, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "country": "Ireland",
+    "oneodi": "true",
+    "odidebutdate": "14 June",
+    "odidebutyear": "2022",
+    "odidebutagainst": "South Africa",
+    "odicap": "94",
+    "source": "https://cricketarchive.com/Archive/Players/2170/2170884/2170884.html CricketArchive ",
+    "WODI": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Scorchers": "2020\u20132021",
+        "Dragons": "2022\u2013present"
+    },
+    "birth_date": "2001-3-26"
+}

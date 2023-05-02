@@ -1,0 +1,37 @@
+{
+    "name": "Brenda Williams",
+    "female": "true",
+    "fullname": "Brenda Glynis Williams",
+    "birth_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "internationalspan": "1972",
+    "country": "South Africa",
+    "testdebutdate": "10 March",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "testcap": "25",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1972",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17390/17390.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "162",
+        "bat avg": "40.50",
+        "100s/50s": "1/0",
+        "top score": "100",
+        "deliveries": "120",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Southern Transvaal": "1971/72\u20131980/81"
+    },
+    "birth_date": "1949-12-06"
+}

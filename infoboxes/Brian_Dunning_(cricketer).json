@@ -1,0 +1,43 @@
+{
+    "name": "Brian Dunning",
+    "country": "New Zealand",
+    "nickname": "Dunno",
+    "birth_place": "Warkworth, New Zealand",
+    "death_date": "2008",
+    "death_place": "Whangarei, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36849.html Cricinfo ",
+    "First-class": {
+        "matches": "83",
+        "runs": "3929",
+        "bat avg": "28.06",
+        "100s/50s": "3/22",
+        "top score": "142",
+        "deliveries": "4195",
+        "wickets": "51",
+        "bowl avg": "35.37",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/37",
+        "catches/stumpings": "58/\u2013"
+    },
+    "List A": {
+        "matches": "15",
+        "runs": "319",
+        "bat avg": "29.00",
+        "100s/50s": "0/3",
+        "top score": "80",
+        "deliveries": "485",
+        "wickets": "8",
+        "bowl avg": "37.75",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/26",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "1961\u201362 to 1980\u201381"
+    },
+    "birth_date": "1940-3-20"
+}

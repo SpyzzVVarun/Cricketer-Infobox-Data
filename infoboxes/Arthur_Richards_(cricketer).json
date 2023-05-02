@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Richards",
+    "country": "England",
+    "fullname": "Arthur Carew Richards",
+    "birth_place": "Grays, Essex, England",
+    "death_date": "1930",
+    "death_place": "Nottingham, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "family": "William Richards (father)",
+    "source": "http://www.cricinfo.com/ci/content/player/19390.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "104",
+        "bat avg": "17.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "47",
+        "deliveries": "304",
+        "wickets": "3",
+        "bowl avg": "37.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/45",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1884&ndash;1904"
+    },
+    "birth_date": "1865-2-20"
+}

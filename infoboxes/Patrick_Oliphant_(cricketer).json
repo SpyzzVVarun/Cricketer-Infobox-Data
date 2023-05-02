@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Patrick James Oliphant",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1979",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/charles-groves-25225 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1937"
+    }
+}

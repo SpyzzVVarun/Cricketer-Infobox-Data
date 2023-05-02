@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Horatio Samuel Hildyard",
+    "birth_place": "Winestead, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Loftus, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15236.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "2.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1832"
+    }
+}

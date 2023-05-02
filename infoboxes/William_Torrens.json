@@ -1,0 +1,24 @@
+{
+    "name": "William Torrens",
+    "country": "England",
+    "fullname": "William Matt Torrens",
+    "birth_place": "Sundridge Park, Kent",
+    "death_date": "1931",
+    "death_place": "Westminster, London",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Alfred Torrens (father) Attwood Torrens (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/21903.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "86",
+        "bat avg": "14.33",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Kent": "1890"
+    },
+    "birth_date": "1869-10-19"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "John Waddington",
+    "country": "South Africa",
+    "fullname": "John Edward Waddington",
+    "birth_place": "Kimberley, Cape Province, South Africa",
+    "death_date": "1985",
+    "death_place": "Kimberley, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "debutdate1": "-, 1934",
+    "lastdate1": "-, 1959",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/48032.html Cricinfo |date = 4 April 2018 ",
+    "First-class": {
+        "matches": "83",
+        "runs": "1625",
+        "bat avg": "16.25",
+        "100s/50s": "0/1",
+        "top score": "72",
+        "deliveries": "24364",
+        "wickets": "375",
+        "bowl avg": "24.49",
+        "fivefor": "35",
+        "tenfor": "8",
+        "best bowling": "9-105",
+        "catches/stumpings": "59/-"
+    },
+    "clubs": {
+        "Griqualand West": "1934\u201335 to 1958\u201359"
+    },
+    "birth_date": "1918-12-30"
+}

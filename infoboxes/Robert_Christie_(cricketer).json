@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Robert Douglas Christie",
+    "birth_place": "New Delhi, British India",
+    "death_date": "df=yes",
+    "death_place": "Costa Rica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11129.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "47",
+        "bat avg": "11.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "576",
+        "wickets": "8",
+        "bowl avg": "39.37",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/44",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1964"
+    }
+}

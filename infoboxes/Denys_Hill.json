@@ -1,0 +1,40 @@
+{
+    "name": "Denys Hill",
+    "country": "England",
+    "fullname": "Denys Vivian Hill",
+    "nickname": "Hooky",
+    "birth_place": "Edmonton, Middlesex, England",
+    "death_date": "1971",
+    "death_place": "Barton-on-Sea, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "31 May",
+    "debutyear1": "1922",
+    "debutfor1": "Army",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "23 August",
+    "lastyear1": "1929",
+    "lastfor1": "MCC",
+    "lastagainst1": "Wales",
+    "source": "http://cricketarchive.co.uk/Archive/Players/30/30233/30233.html CricketArchive ",
+    "First-class": {
+        "matches": "42",
+        "runs": "469",
+        "bat avg": "9.01",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "6,367",
+        "wickets": "130",
+        "bowl avg": "26.82",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "6/59",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1927&ndash;1929",
+        "MCC": "1929"
+    },
+    "birth_date": "1896-4-13"
+}

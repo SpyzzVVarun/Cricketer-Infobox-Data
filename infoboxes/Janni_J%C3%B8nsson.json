@@ -1,0 +1,51 @@
+{
+    "name": "Janni J\u00f8nsson",
+    "fullname": "Janni J\u00f8nsson",
+    "female": "true",
+    "birth_place": "Denmark",
+    "family": "Pernille J\u00f8nsson (sister)",
+    "batting": "Right-handed",
+    "bowling": "Right-hand Right-hand medium",
+    "role": "All-rounder",
+    "country": "Denmark",
+    "internationalspan": "1989\u20131999",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Ireland",
+    "odicap": "4",
+    "lastodidate": "21 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Players/16/16958/16958.html CricketArchive ",
+    "WODI": {
+        "matches": "32",
+        "runs": "388",
+        "bat avg": "12.93",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "1,870",
+        "wickets": "35",
+        "bowl avg": "24.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/38",
+        "catches/stumpings": "8/\u2013"
+    },
+    "WLA": {
+        "matches": "36",
+        "runs": "532",
+        "bat avg": "16.12",
+        "100s/50s": "0/2",
+        "deliveries": "1,870",
+        "wickets": "35",
+        "bowl avg": "24.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/38",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1987"
+    },
+    "birth_date": "1968"
+}

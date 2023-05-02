@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Theodore Thring",
+    "birth_place": "Castle Cary, Somerset, England",
+    "death_date": "1891",
+    "death_place": "Castle Cary, Somerset, England",
+    "family": "Charles Thring (nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/21561.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1840"
+    }
+}

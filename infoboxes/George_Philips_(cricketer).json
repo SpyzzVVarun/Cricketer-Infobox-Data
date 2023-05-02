@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "George Henry Philips",
+    "birth_place": "Ardwick, Lancashire, England",
+    "death_date": "1886",
+    "death_place": "Abbeycwmhir, Radnorshire, Wales",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/19189.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Oxford University": "1853",
+        "Marylebone Cricket Club": "1858"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Mary Harris",
+    "female": "true",
+    "fullname": "Mary Winifred Harris",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter; occasional wicket-keeper",
+    "internationalspan": "1982",
+    "country": "International XI",
+    "odidebutdate": "12 January",
+    "odidebutyear": "1982",
+    "odidebutagainst": "New Zealand",
+    "odicap": "17",
+    "lastodidate": "6 February",
+    "lastodiyear": "1982",
+    "lastodiagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/17/17162/17162.html CricketArchive ",
+    "WODI": {
+        "matches": "12",
+        "runs": "85",
+        "bat avg": "9.44",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "WFC": {
+        "matches": "25",
+        "runs": "916",
+        "bat avg": "25.44",
+        "100s/50s": "0/7",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "WLA": {
+        "matches": "22",
+        "runs": "426",
+        "bat avg": "25.05",
+        "100s/50s": "0/3",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Wellington": "1977/78\u20131985/86"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "John Tomlinson",
+    "country": "England",
+    "fullname": "John Derek Williams Tomlinson",
+    "birth_place": "South Normanton, England",
+    "death_date": "2010",
+    "death_place": "St. John's, Newfoundland and Labrador, Canada",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "28 August",
+    "debutyear1": "1946",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Somerset",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/33/33363/33363.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1946"
+    },
+    "birth_date": "1926-3-26"
+}

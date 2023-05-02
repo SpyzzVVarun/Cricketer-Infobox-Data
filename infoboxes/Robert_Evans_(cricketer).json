@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Robert Gordon Evans",
+    "birth_place": "Great Barton, Suffolk, England",
+    "death_date": "df=yes",
+    "death_place": "Sidlesham, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12695.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "248",
+        "bat avg": "22.54",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,244",
+        "wickets": "50",
+        "bowl avg": "23.82",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/45",
+        "catches/stumpings": "4/-"
+    },
+    "clubs": {
+        "Cambridge University": "1920&ndash;1921",
+        "Berkshire": "1935&ndash;1936"
+    }
+}

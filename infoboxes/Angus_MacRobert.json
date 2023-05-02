@@ -1,0 +1,40 @@
+{
+    "country": "South Africa",
+    "fullname": "Angus David MacRobert",
+    "birth_place": "Pretoria, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/20785.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "80",
+        "bat avg": "11.42",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "deliveries": "1,584",
+        "wickets": "18",
+        "bowl avg": "46.83",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/41",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "180",
+        "wickets": "5",
+        "bowl avg": "34.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/51",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1995"
+    },
+    "birth_date": "1968-10-13"
+}

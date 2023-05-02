@@ -1,0 +1,44 @@
+{
+    "name": "Simandeep Singh",
+    "country": "Hong Kong",
+    "fullname": "Simandeep Pansotra Singh",
+    "batting": "Right-handed",
+    "oneodi": "true",
+    "odidebutdate": "17 March",
+    "odidebutyear": "2018",
+    "odidebutagainst": "Papua New Guinea",
+    "odicap": "41",
+    "T20Idebutdate": "18 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "32",
+    "lastT20Idate": "30 October",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Oman",
+    "source": "http://www.espncricinfo.com/ci/content/player/633410.html Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20I": {
+        "matches": "7",
+        "runs": "33",
+        "bat avg": "6.60",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "1.66",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-6-20"
+}

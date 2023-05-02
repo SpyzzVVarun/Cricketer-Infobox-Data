@@ -1,0 +1,31 @@
+{
+    "name": "James Kelly",
+    "birth_place": "Port Melbourne, Victoria, Australia",
+    "death_date": "14 August 1938 (aged 71)",
+    "death_place": "Sydney, Australia",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "22 June",
+    "testdebutyear": "1896",
+    "lasttestdate": "14 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1905",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6136.html CricInfo",
+    "Test": {
+        "matches": "36",
+        "runs": "664",
+        "bat avg": "17.02",
+        "100s/50s": "0/0",
+        "catches/stumpings": "43/20"
+    },
+    "First-class": {
+        "matches": "185",
+        "runs": "4108",
+        "bat avg": "19.94",
+        "100s/50s": "3/16",
+        "top score": "108",
+        "catches/stumpings": "245/112"
+    },
+    "clubs": {}
+}

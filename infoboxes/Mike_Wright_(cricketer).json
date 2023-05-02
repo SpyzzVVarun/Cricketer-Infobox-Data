@@ -1,0 +1,41 @@
+{
+    "name": "Mike Wright",
+    "country": "New Zealand",
+    "fullname": "Michael John Edward Wright",
+    "birth_place": "Whangarei, New Zealand",
+    "batting": "Left-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38904.html Cricinfo ",
+    "FC": {
+        "matches": "65",
+        "runs": "2632",
+        "bat avg": "25.30",
+        "100s/50s": "1/10",
+        "top score": "115",
+        "deliveries": "167",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "110/17"
+    },
+    "List A": {
+        "matches": "26",
+        "runs": "398",
+        "bat avg": "17.30",
+        "100s/50s": "0/2",
+        "top score": "54",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "33/6"
+    },
+    "clubs": {
+        "Northern Districts": "1972\u201373 to 1983\u201384"
+    },
+    "birth_date": "1950-1-17"
+}

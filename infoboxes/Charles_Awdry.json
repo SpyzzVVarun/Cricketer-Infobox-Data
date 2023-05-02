@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Charles Edwin Awdry",
+    "birth_place": "Paddington, London, England",
+    "death_date": "1965",
+    "death_place": "Bowden Hill, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Eustace Mordaunt (father-in-law), Robert Awdry (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/8837.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "210",
+        "wickets": "3",
+        "bowl avg": "26.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/56",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1937",
+        "Wiltshire": "1924\u20131939"
+    },
+    "birth_date": "1906-4-29"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Justin Baard",
+    "country": "Namibia",
+    "fullname": "Justin Baard",
+    "batting": "Right-hand bat",
+    "bowling": "Right arm off Right arm off break",
+    "source": "ESPNcricinfo url=http://www.espncricinfo.com/ci/content/player/475202.html   ",
+    "First class": {
+        "matches": "7",
+        "runs": "164",
+        "bat avg": "11.71",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "3/0"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "2/0"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "28",
+        "bat avg": "7",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1993-11-18"
+}

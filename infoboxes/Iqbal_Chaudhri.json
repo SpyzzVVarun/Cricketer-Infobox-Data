@@ -1,0 +1,25 @@
+{
+    "name": "Iqbal Chaudhri",
+    "country": "Pakistan",
+    "fullname": "Mohammad Iqbal Chaudhri",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/42/42779/42779.html CricketArchive",
+    "First-class": {
+        "matches": "40",
+        "runs": "1294",
+        "bat avg": "21.56",
+        "100s/50s": "0/8",
+        "top score": "72",
+        "deliveries": "324",
+        "wickets": "4",
+        "bowl avg": "37.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/81",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Bahawalpur": "1954\u201355 to 1959\u201360",
+        "Sargodha": "1961\u201362 to 1969\u201370"
+    }
+}

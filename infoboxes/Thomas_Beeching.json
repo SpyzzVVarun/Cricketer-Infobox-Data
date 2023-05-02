@@ -1,0 +1,21 @@
+{
+    "name": "Thomas Beeching",
+    "fullname": "Thomas Hugh Pitt Beeching",
+    "birth_place": "Maidstone, Kent",
+    "death_date": "1971",
+    "death_place": "Aldershot, Hampshire",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/9646.html CricInfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "217",
+        "bat avg": "16.69",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1920\u20131921"
+    },
+    "birth_date": "1900-3-10"
+}

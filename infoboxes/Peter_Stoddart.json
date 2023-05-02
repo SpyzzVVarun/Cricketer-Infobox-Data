@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Peter Laurence Bowring Stoddart",
+    "birth_place": "Regent's Park, London, England",
+    "death_date": "2019",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/21049.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "22",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1958",
+        "Buckinghamshire": "1955&ndash;1967"
+    },
+    "birth_date": "1934-6-24"
+}

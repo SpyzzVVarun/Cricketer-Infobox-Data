@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Andrew Archibald Steele Scott",
+    "birth_place": "Liberton, Midlothian, Scotland",
+    "death_date": "2019",
+    "death_place": "Inverness, Scotland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/scotand/content/player/25340.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1947"
+    },
+    "birth_date": "1918-1-26"
+}

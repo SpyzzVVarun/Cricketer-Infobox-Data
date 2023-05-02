@@ -1,0 +1,36 @@
+{
+    "name": "Arthur Gibson",
+    "country": "England",
+    "fullname": "Arthur Kenneth Gibson",
+    "birth_place": "Kensington, London, England",
+    "death_date": "1950",
+    "death_place": "Edinburgh, Scotland",
+    "type1": "First-class",
+    "debutdate1": "25 June",
+    "debutyear1": "1914",
+    "debutfor1": "Royal Navy",
+    "debutagainst1": "Army",
+    "lastdate1": "24 July",
+    "lastyear1": "1924",
+    "lastfor1": "Royal Navy",
+    "lastagainst1": "Army",
+    "source": "https://cricketarchive.com/Archive/Players/3/3569/3569.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "139",
+        "bat avg": "15.44",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/11",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1919"
+    },
+    "birth_date": "1889-05-19"
+}

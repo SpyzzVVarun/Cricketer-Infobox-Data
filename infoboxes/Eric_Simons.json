@@ -1,0 +1,24 @@
+{
+    "name": "Eric Simons",
+    "country": "South Africa",
+    "birth_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/47190.html Cricinfo  ",
+    "ODI": {
+        "matches": "23",
+        "runs": "217",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "1212",
+        "wickets": "33",
+        "bowl avg": "24.54",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1962-03-09"
+}

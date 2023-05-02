@@ -1,0 +1,28 @@
+{
+    "name": "Jonathan Perry",
+    "country": "England",
+    "fullname": "Jonathan Nicholas Perry",
+    "birth_place": "Frimley, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "source": "https://cricketarchive.com/Archive/Players/32/32029/32029.html CricketArchive ",
+    "FC": {
+        "matches": "11",
+        "runs": "104",
+        "bat avg": "9.45",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "1,745",
+        "wickets": "18",
+        "bowl avg": "46.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/56",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Cambridge University": "1987&ndash;1988"
+    },
+    "birth_date": "1965-12-29"
+}

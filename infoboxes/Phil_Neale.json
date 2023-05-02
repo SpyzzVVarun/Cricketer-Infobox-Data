@@ -1,0 +1,40 @@
+{
+    "name": "Phil Neale",
+    "fullname": "Phillip Anthony Neale",
+    "birth_place": "Scunthorpe, Lincolnshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/england/content/player/17997.html CricInfo",
+    "First-class": {
+        "matches": "354",
+        "runs": "17,445",
+        "bat avg": "36.49",
+        "100s/50s": "28/89",
+        "top score": "167",
+        "deliveries": "472",
+        "wickets": "2",
+        "bowl avg": "184.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/15",
+        "catches/stumpings": "134/\u2013"
+    },
+    "List A": {
+        "matches": "339",
+        "runs": "7,253",
+        "bat avg": "30.22",
+        "100s/50s": "2/32",
+        "top score": "128",
+        "deliveries": "50",
+        "wickets": "2",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/46",
+        "catches/stumpings": "92/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1975\u20131992"
+    },
+    "birth_date": "1954-06-05"
+}

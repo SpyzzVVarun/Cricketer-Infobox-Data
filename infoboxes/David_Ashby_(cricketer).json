@@ -1,0 +1,29 @@
+{
+    "name": "David Ashby",
+    "fullname": "David Alexander Ashby",
+    "birth_place": "Beddington, Surrey, England",
+    "death_date": "1934",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/22/21356/21356.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "468",
+        "bat avg": "17.33",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "deliveries": "1894",
+        "wickets": "53",
+        "bowl avg": "11.05",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/27",
+        "catches/stumpings": "12/0"
+    },
+    "clubs": {
+        "Surrey": "1874",
+        "Canterbury": "1875-76 to 1889-90"
+    },
+    "birth_date": "1852-6-11"
+}

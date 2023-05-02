@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "George Davenport",
+    "birth_place": "Nantwich, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Nantwich, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/12054.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "625",
+        "bat avg": "16.44",
+        "100s/50s": "1/1",
+        "catches/stumpings": "22/12"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1885&ndash;1896",
+        "Cheshire": "1895"
+    }
+}

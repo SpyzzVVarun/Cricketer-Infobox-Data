@@ -1,0 +1,32 @@
+{
+    "name": "William Ghosh",
+    "country": "India",
+    "birth_place": "Jullundur, British India",
+    "death_date": "1993",
+    "death_place": "Delhi, India",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm orthodox, left-arm medium Slow left-arm orthodox, left-arm medium pace",
+    "source": "http://www.espncricinfo.com/india/content/player/29130.html Cricinfo",
+    "First-class": {
+        "matches": "71",
+        "runs": "1160",
+        "bat avg": "18.12",
+        "100s/50s": "0/1",
+        "top score": "52 not out",
+        "deliveries": "12,845",
+        "wickets": "239",
+        "bowl avg": "19.77",
+        "fivefor": "17",
+        "tenfor": "1",
+        "best bowling": "6/35",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Southern Punjab": "1949-50",
+        "Eastern Punjab": "1950-51 to 1957-58",
+        "North Zone": "1952-53 to 1962-63",
+        "Railways": "1958-59 to 1968-69",
+        "Indian Starlets": "1959-60 to 1965-66"
+    },
+    "birth_date": "1928-11-9"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Jahangir Alam Talukdar",
+    "country": "Bangladesh",
+    "birth_place": "Dacca, East Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "odidebutagainst": "Australia",
+    "odidebutdate": "30 April",
+    "odidebutyear": "1990",
+    "lastodiagainst": "India",
+    "lastodidate": "25 December",
+    "lastodiyear": "1990",
+    "odicap": "22",
+    "source": "http://www.espncricinfo.com/ci/content/player/55937.html Cricinfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1968-12-4"
+}

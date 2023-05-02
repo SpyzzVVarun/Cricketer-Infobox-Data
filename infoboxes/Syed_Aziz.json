@@ -1,0 +1,23 @@
+{
+    "name": "Syed Aziz",
+    "country": "Malaysia",
+    "T20Idebutdate": "24 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "10",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Hong Kong",
+    "source": "http://www.espncricinfo.com/ci/content/player/868003.html ESPNCricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1998-10-7",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

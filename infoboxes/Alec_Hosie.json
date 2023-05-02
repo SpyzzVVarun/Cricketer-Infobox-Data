@@ -1,0 +1,33 @@
+{
+    "name": "Alec Hosie",
+    "country": "England",
+    "fullname": "Alexander Lindsay Hosie",
+    "birth_place": "Wenchow, Zhejiang, China",
+    "death_date": "df=y",
+    "death_place": "Ashurst, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/14274.html Cricinfo ",
+    "First-class": {
+        "matches": "133",
+        "runs": "6,195",
+        "bat avg": "27.65",
+        "100s/50s": "8/33",
+        "top score": "200",
+        "deliveries": "636",
+        "wickets": "11",
+        "bowl avg": "45.45",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/35",
+        "catches/stumpings": "85/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1913",
+        "Hampshire": "1913\u20131935",
+        "Europeans (India)": "1925\u20131929",
+        "Marylebone Cricket Club": "1925\u20131938",
+        "Bengal": "1935\u20131937"
+    },
+    "birth_date": "1890-8-6"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Dale Anderson",
+    "country": "Australia",
+    "fullname": "Dale Thomas Anderson",
+    "birth_place": "Latrobe, Tasmania",
+    "death_date": "df=yes",
+    "death_place": "Burnie, Tasmania",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/2/2371/2371.html CricketArchive",
+    "module": "Infobox AFL biography",
+    "embed": "yes",
+    "years1": "1953\u20131954",
+    "games_goals1": "7 (15)",
+    "years2": "1954-56",
+    "games_goals2": "28 (50)",
+    "years3": "1956",
+    "games_goals3": "10 (unknown)  ",
+    "First-class": {
+        "matches": "6",
+        "runs": "123",
+        "bat avg": "15.37",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "940",
+        "wickets": "14",
+        "bowl avg": "40.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/49",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "AFL Mel": "1952/53\u20131963/64",
+        "Sorrento": ""
+    },
+    "birth_date": "1931-6-10"
+}

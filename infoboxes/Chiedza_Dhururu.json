@@ -1,0 +1,41 @@
+{
+    "name": "Chiedza Dhururu",
+    "female": "true",
+    "country": "Zimbabwe",
+    "role": "Wicket-keeper",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "1",
+    "lastodidate": "10 November",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Bangladesh",
+    "T20Idebutdate": "5 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Mozambique",
+    "T20Icap": "16",
+    "lastT20Idate": "24 April",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Namibia",
+    "source": "http://www.espncricinfo.com/ci/content/player/1094714.html Cricinfo ",
+    "WODI": {
+        "matches": "5",
+        "runs": "45",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/0"
+    },
+    "WT20I": {
+        "matches": "15",
+        "runs": "142",
+        "bat avg": "17.75",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "7/1"
+    },
+    "clubs": {
+        "Tuskers": "2020/21\u2013present"
+    },
+    "birth_date": "1996-1-4"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Joy Partridge",
+    "female": "true",
+    "country": "England",
+    "fullname": "Joy Evelyn Partridge",
+    "birth_place": "Lindridge, Worcestershire, England",
+    "death_date": "df=yes",
+    "death_place": "High Wycombe, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm slow",
+    "role": "Bowler",
+    "internationalspan": "1934\u20131935",
+    "testdebutdate": "28 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "Australia",
+    "testcap": "6",
+    "lasttestdate": "18 February",
+    "lasttestyear": "1935",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17064/17064.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "33",
+        "bat avg": "8.25",
+        "100s/50s": "0/0",
+        "deliveries": "637",
+        "wickets": "12",
+        "bowl avg": "22.91",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/96",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WFC": {
+        "matches": "11",
+        "runs": "169",
+        "bat avg": "15.36",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "829",
+        "wickets": "15",
+        "bowl avg": "24.13",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/96",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1936"
+    },
+    "birth_date": "1899-3-28"
+}

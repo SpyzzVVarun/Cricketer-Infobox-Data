@@ -1,0 +1,24 @@
+{
+    "name": "Tariq Cheema",
+    "country": "Pakistan",
+    "fullname": "Tariq Munir Cheema",
+    "birth_place": "Lahore, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/43431.html Cricinfo",
+    "First-class": {
+        "matches": "30",
+        "runs": "268",
+        "bat avg": "10.72",
+        "100s/50s": "0/1",
+        "deliveries": "4653",
+        "wickets": "93",
+        "bowl avg": "23.36",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/58",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1947-3-25"
+}

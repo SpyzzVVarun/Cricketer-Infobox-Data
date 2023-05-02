@@ -1,0 +1,43 @@
+{
+    "name": "Emma Jones",
+    "female": "true",
+    "fullname": "Emma Wing Sum Jones",
+    "birth_place": "Hatfield, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/2391/2391053/2391053.html CricketArchive",
+    "WLA": {
+        "matches": "4",
+        "runs": "50",
+        "bat avg": "16.66",
+        "100s/50s": "0/0",
+        "deliveries": "78",
+        "wickets": "1",
+        "bowl avg": "61.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "22",
+        "runs": "154",
+        "bat avg": "25.66",
+        "100s/50s": "0/0",
+        "deliveries": "222",
+        "wickets": "8",
+        "bowl avg": "38.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/15",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "2017",
+        "Essex": "2019\u2013present",
+        "South East Stars": "2021\u2013present",
+        "Oval Invincibles": "2021"
+    },
+    "birth_date": "2002-8-8"
+}

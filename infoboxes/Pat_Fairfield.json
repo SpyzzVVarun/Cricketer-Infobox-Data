@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Patrick Greenway Fairfield",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1937",
+    "death_place": "Le Mans, Maine, France",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/22824.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "387",
+        "wickets": "6",
+        "bowl avg": "38.83",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/86",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1929"
+    }
+}

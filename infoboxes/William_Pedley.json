@@ -1,0 +1,38 @@
+{
+    "name": "William Everard Pedley",
+    "country": "England",
+    "fullname": "William Everard Pedley",
+    "birth_place": "Wingerworth, Derbyshire, England",
+    "death_date": "1920",
+    "death_place": "Riverside, California, USA",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "31 July",
+    "debutyear1": "1879",
+    "debutfor1": "Sussex",
+    "debutagainst1": "Kent",
+    "lastdate1": "4 August",
+    "lastyear1": "1879",
+    "lastfor1": "Sussex",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/31/31989/31989.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "45",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "deliveries": "300",
+        "wickets": "10",
+        "bowl avg": "13.80",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1879",
+        "Derbyshire": "1888"
+    },
+    "birth_date": "1858-6-16"
+}

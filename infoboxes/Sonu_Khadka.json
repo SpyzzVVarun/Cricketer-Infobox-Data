@@ -1,0 +1,29 @@
+{
+    "name": "Sonu khadka",
+    "country": "Nepal",
+    "fullname": "Sonu khadka",
+    "female": "true",
+    "birth_place": "Nepal",
+    "batting": "Right handed",
+    "bowling": "Left arm fast Left arm fast medium",
+    "role": "Bowler",
+    "T20Idebutdate": "14 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "UAE",
+    "T20Icap": "13",
+    "lastT20Idate": "7 December",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Maldives",
+    "source": "http://www.espncricinfo.com/ci/content/player/498779.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1994-09-14",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

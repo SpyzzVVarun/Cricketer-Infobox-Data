@@ -1,0 +1,27 @@
+{
+    "name": "Reggie Ford",
+    "fullname": "Reggie Gilbert Ford",
+    "birth_place": "Bristol, England",
+    "death_date": "1981",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/13129.html Cricinfo ",
+    "FC": {
+        "matches": "51",
+        "runs": "496",
+        "bat avg": "10.55",
+        "100s/50s": "0/0",
+        "deliveries": "1,074",
+        "wickets": "10",
+        "bowl avg": "49.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "23/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1929\u20131936"
+    },
+    "birth_date": "1907-3-5"
+}

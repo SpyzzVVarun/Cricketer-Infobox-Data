@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Michael Gerald Linnell",
+    "birth_place": "Reigate, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Salisbury, Southern Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/55559.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "36",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Rhodesia": "1904/05"
+    }
+}

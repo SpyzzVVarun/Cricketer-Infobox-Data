@@ -1,0 +1,53 @@
+{
+    "name": "Jack Iddon",
+    "country": "England",
+    "full_name": "John Iddon",
+    "birth_place": "Mawdesley, Lancashire",
+    "death_date": "1946",
+    "death_place": "Madeley, Staffordshire",
+    "batting": "Right-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "role": "All-rounder",
+    "testdebutdate": "8 January",
+    "testdebutyear": "1935",
+    "testdebutagainst": "West Indies",
+    "testcap": "279",
+    "lasttestdate": "18 June",
+    "lasttestyear": "1935",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/0/648/648.html CricketArchive ",
+    "Test": {
+        "matches": "5",
+        "runs": "170",
+        "bat avg": "28.33",
+        "100s/50s": "0/2",
+        "top score": "73",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "504",
+        "runs": "22,681",
+        "bat avg": "36.76",
+        "100s/50s": "46/112",
+        "top score": "222",
+        "deliveries": "38,555",
+        "wickets": "551",
+        "bowl avg": "26.90",
+        "fivefor": "14",
+        "tenfor": "2",
+        "best bowling": "9/42",
+        "catches/stumpings": "218/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1924\u20131945",
+        "North": "1927",
+        "Players": "1931"
+    },
+    "birth_date": "1902-01-08"
+}

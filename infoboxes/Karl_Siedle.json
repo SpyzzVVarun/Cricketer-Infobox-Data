@@ -1,0 +1,35 @@
+{
+    "country": "South Africa",
+    "fullname": "Karl Otto Siedle",
+    "birth_place": "Durban, Colony of Natal",
+    "death_date": "df=yes",
+    "death_place": "Doullens, Somme, France",
+    "family": "Jack Siedle (brother), John Siedle (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/47309.html Cricinfo",
+    "module": "Infobox rugby biography",
+    "embed": "yes",
+    "ru_position": "Forward",
+    "amatteam1": "Old Collegians",
+    "amatyears1": "1909\u20131914",
+    "province1": "Natal",
+    "ru_provinceyears1": "1909\u20131914",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Natal": "1913/14"
+    }
+}

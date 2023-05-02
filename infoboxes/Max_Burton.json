@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Max Burton",
+    "birth_place": "Belfast, Northern Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ireland/content/player/1190053.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "2/\u2013"
+    },
+    "Twenty20": {
+        "matches": "3",
+        "runs": "41",
+        "bat avg": "13.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Northern Knights": "2022&ndash;present"
+    },
+    "birth_date": "2001-4-13"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Richard Harrison",
+    "birth_place": "Clitheroe, Lancashire, England",
+    "death_date": "1990",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14582.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1912",
+        "Durham": "1910&ndash;1913"
+    }
+}

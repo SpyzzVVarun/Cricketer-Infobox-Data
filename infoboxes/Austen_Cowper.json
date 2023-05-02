@@ -1,0 +1,30 @@
+{
+    "name": "Austen Cowper",
+    "fullname": "Sydney Austen Cowper",
+    "birth_place": "Cape Town, Cape Colony",
+    "death_date": "17 June 1960 (aged 74)",
+    "death_place": "Salisbury, Southern Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "country": "Argentina",
+    "internationalspan": "1912",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/5/5064/5064.html CricketArchive ",
+    "FC": {
+        "matches": "6",
+        "runs": "77",
+        "bat avg": "9.62",
+        "100s/50s": "0/0",
+        "deliveries": "504",
+        "wickets": "8",
+        "bowl avg": "31.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/65",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1908",
+        "Rhodesia": "1923\u20131924"
+    }
+}

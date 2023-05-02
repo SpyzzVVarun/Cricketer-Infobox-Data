@@ -1,0 +1,34 @@
+{
+    "name": "Ronnie Grieveson",
+    "fullname": "Ronald Eustace Grieveson",
+    "birth_place": "Johannesburg, South Africa",
+    "death_date": "1998",
+    "death_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "18 February",
+    "testdebutyear": "1939",
+    "lasttestdate": "3 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1939",
+    "source": "http://www.espncricinfo.com/ci/content/player/45246.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "114",
+        "bat avg": "57.00",
+        "100s/50s": "0/1",
+        "top score": "75",
+        "catches/stumpings": "7/3"
+    },
+    "First-class": {
+        "matches": "30",
+        "runs": "1130",
+        "bat avg": "33.23",
+        "100s/50s": "1/7",
+        "catches/stumpings": "25/11"
+    },
+    "clubs": {},
+    "birth_date": "1909-8-24"
+}

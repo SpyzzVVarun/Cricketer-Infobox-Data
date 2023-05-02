@@ -1,0 +1,20 @@
+{
+    "name": "AbhIraj Singh",
+    "country": "Singapore",
+    "fullname": "Abhiraj Rajdeep Singh",
+    "birth_place": "Mumbai, India",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/402096.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1995-5-27",
+    "medaltemplates": [
+        "Country: {{SGP}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20",
+        "Silver Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Stafford Cranston",
+    "birth_place": "Oldhamstocks, East Lothian, Scotland",
+    "death_date": "1959",
+    "death_place": "Paisley, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/robert-cranston-25178 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "35",
+        "bat avg": "17.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "catches/stumpings": "4/2"
+    },
+    "clubs": {
+        "Scotland": "1922&ndash;1923"
+    }
+}

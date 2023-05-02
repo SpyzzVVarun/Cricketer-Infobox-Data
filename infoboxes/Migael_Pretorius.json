@@ -1,0 +1,50 @@
+{
+    "name": "Migael Pretorius",
+    "country": "South Africa",
+    "birth_place": "Vereeniging",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/605683.html ESPNcricinfo ",
+    "FC": {
+        "matches": "42",
+        "runs": "944",
+        "bat avg": "22.47",
+        "100s/50s": "0/5",
+        "deliveries": "6,320",
+        "wickets": "137",
+        "bowl avg": "23.61",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/38",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "22",
+        "runs": "137",
+        "bat avg": "12.45",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "916",
+        "wickets": "29",
+        "bowl avg": "21.03",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/21",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "38",
+        "runs": "219",
+        "bat avg": "10.42",
+        "100s/50s": "0/0",
+        "deliveries": "811",
+        "wickets": "54",
+        "bowl avg": "21.48",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/32",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-3-24"
+}

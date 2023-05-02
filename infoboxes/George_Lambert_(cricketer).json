@@ -1,0 +1,40 @@
+{
+    "name": "George Lambert",
+    "country": "England",
+    "fullname": "George Ernest Edward Lambert",
+    "birth_place": "Paddington, London, England",
+    "death_date": "1991",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "family": "Son-in-law, David Constant",
+    "type1": "First-class",
+    "debutdate1": "20 August",
+    "debutyear1": "1938",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "3 June",
+    "lastyear1": "1960",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3670/3670.html CricketArchive ",
+    "First-class": {
+        "matches": "340",
+        "runs": "6375",
+        "bat avg": "14.89",
+        "100s/50s": "1/21",
+        "deliveries": "53006",
+        "wickets": "917",
+        "bowl avg": "28.55",
+        "fivefor": "37",
+        "tenfor": "5",
+        "best bowling": "8/35",
+        "catches/stumpings": "193/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1938&ndash;57",
+        "Somerset": "1960"
+    },
+    "birth_date": "1919-5-11"
+}

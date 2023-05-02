@@ -1,0 +1,42 @@
+{
+    "name": "Mike Barnard",
+    "country": "England",
+    "fullname": "Henry Michael Barnard",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "death_date": "2018",
+    "death_place": "Southampton, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/england/content/player/8993.html Cricinfo ",
+    "First-class": {
+        "matches": "276",
+        "runs": "9,314",
+        "bat avg": "22.07",
+        "100s/50s": "6/46",
+        "deliveries": "1,113",
+        "wickets": "16",
+        "bowl avg": "35.18",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/35",
+        "catches/stumpings": "313/\u2013"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "315",
+        "bat avg": "39.37",
+        "100s/50s": "0/2",
+        "top score": "98",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1952\u20131966"
+    },
+    "birth_date": "1933-7-18"
+}

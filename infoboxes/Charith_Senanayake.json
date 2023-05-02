@@ -1,0 +1,60 @@
+{
+    "name": "Charith Senanayake",
+    "fullname": "Charith Panduka Senanayake",
+    "birth_place": "Colombo, Sri Lanka",
+    "country": "Sri Lanka",
+    "testdebutdate": "31 January",
+    "testdebutyear": "1991",
+    "testdebutagainst": "New Zealand",
+    "testcap": "47",
+    "lasttestdate": "1 March",
+    "lasttestyear": "1991",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "21 December",
+    "odidebutyear": "1990",
+    "odidebutagainst": "Pakistan",
+    "odicap": "63",
+    "lastodidate": "6 February",
+    "lastodiyear": "1991",
+    "lastodiagainst": "New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50426.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "97",
+        "bat avg": "19.39",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "catches/stumpings": "2/\u2013"
+    },
+    "ODI": {
+        "matches": "7",
+        "runs": "126",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "19",
+        "runs": "747",
+        "bat avg": "25.75",
+        "100s/50s": "0/4",
+        "top score": "92",
+        "catches/stumpings": "8/0"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "222",
+        "bat avg": "20.18",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Colombo Cricket Club": "1982/83\u20131993/94",
+        "Mombasa Sports Club": "1998"
+    },
+    "birth_date": "December 19, 1962"
+}

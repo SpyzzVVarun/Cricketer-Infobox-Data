@@ -1,0 +1,27 @@
+{
+    "name": "Mark George",
+    "country": "Australia",
+    "fullname": "Mark Thomas George",
+    "birth_place": "Ryde, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/5531.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "51",
+        "wickets": "1",
+        "bowl avg": "61.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/61",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Kent Cricket Board": "2003"
+    },
+    "birth_date": "1977-12-22"
+}

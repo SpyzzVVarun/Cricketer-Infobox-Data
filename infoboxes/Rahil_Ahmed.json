@@ -1,0 +1,52 @@
+{
+    "name": "Rahil Ahmed",
+    "country": "Netherlands",
+    "fullname": "Rahil Izhar Ahmed",
+    "birth_place": "Amsterdam, Netherlands",
+    "heightm": "1.71",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2015\u2013present",
+    "T20Idebutdate": "2 July",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "Nepal",
+    "T20Icap": "34",
+    "lastT20Idate": "3 July",
+    "lastT20Iyear": "2015",
+    "lastT20Iagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/416106.html ESPNcricinfo ",
+    "T20I": {
+        "matches": "2",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "48",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1994-1-3"
+}

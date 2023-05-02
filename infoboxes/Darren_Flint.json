@@ -1,0 +1,26 @@
+{
+    "name": "Darren Flint",
+    "country": "England",
+    "nickname": "Darren Peter John Flint",
+    "birth_place": "Basingstoke, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/england/content/player/12858.html Cricinfo ",
+    "FC": {
+        "matches": "15",
+        "runs": "72",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,924",
+        "wickets": "34",
+        "bowl avg": "38.76",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/32",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1993\u20131995"
+    },
+    "birth_date": "1970-6-14"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Edward Sprot",
+    "country": "Scotland",
+    "fullname": "Edward Mark Sprot",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1945",
+    "death_place": "Lower Bourne, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/20322.html Cricinfo ",
+    "First-class": {
+        "matches": "270",
+        "runs": "12,328",
+        "bat avg": "28.66",
+        "100s/50s": "13/70",
+        "top score": "147",
+        "deliveries": "3,060",
+        "wickets": "55",
+        "bowl avg": "33.90",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/28",
+        "catches/stumpings": "228/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1898\u20131914"
+    }
+}

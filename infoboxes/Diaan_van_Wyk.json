@@ -1,0 +1,27 @@
+{
+    "name": "Diaan van Wyk",
+    "country": "South Africa",
+    "fullname": "Diaan Marinus van Wyk",
+    "birth_place": "Roodepoort, South Africa",
+    "batting": "Right-handed",
+    "role": "Batsman, Wicket-keeper",
+    "source": "http://content-aus.cricinfo.com/southafrica/content/player/224125.html Cricinfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "1016",
+        "bat avg": "40.64",
+        "100s/50s": "1/8",
+        "catches/stumpings": "84/14"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "874",
+        "bat avg": "41.61",
+        "100s/50s": "0/8",
+        "catches/stumpings": "40/9"
+    },
+    "clubs": {
+        "Gauteng": "2005\u2013"
+    },
+    "birth_date": "1981-1-19"
+}

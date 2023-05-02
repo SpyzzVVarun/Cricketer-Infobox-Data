@@ -1,0 +1,38 @@
+{
+    "name": "Gangashetty Arvind Kumar",
+    "birth_place": "Hyderabad, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/26205.html Cricinfo ",
+    "FC": {
+        "matches": "43",
+        "runs": "2,141",
+        "bat avg": "31.02",
+        "100s/50s": "3/12",
+        "top score": "141",
+        "deliveries": "216",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "21/0"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "555",
+        "bat avg": "31.02",
+        "100s/50s": "0/3",
+        "top score": "66",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "13/0"
+    },
+    "T20": {},
+    "clubs": {
+        "Hyderabad": "1994-2002"
+    },
+    "birth_date": "1973-10-4"
+}

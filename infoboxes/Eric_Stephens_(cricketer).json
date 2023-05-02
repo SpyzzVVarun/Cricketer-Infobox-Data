@@ -1,0 +1,19 @@
+{
+    "name": "Eric Stephens",
+    "fullname": "Eric James Stephens",
+    "birth_place": "Gloucester, England",
+    "death_date": "1983",
+    "death_place": "Gloucester, England",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/21012.html Cricinfo ",
+    "FC": {
+        "matches": "216",
+        "runs": "4593",
+        "wickets": "29"
+    },
+    "clubs": {
+        "Gloucestershire": "1927\u20131937"
+    },
+    "birth_date": "1909-3-23"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Ben Shoare",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "type1": "First-class",
+    "debutdate1": "28 March",
+    "debutyear1": "2017",
+    "debutfor1": "Leeds/Bradford MCCU",
+    "debutagainst1": "Kent",
+    "source": "http://www.espncricinfo.com/ci/content/player/637157.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "58",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Leeds/Bradford MCCU": "2017"
+    },
+    "birth_date": "1995-9-21"
+}

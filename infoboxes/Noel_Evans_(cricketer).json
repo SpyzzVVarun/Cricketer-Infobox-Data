@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Edward Noel Evans",
+    "birth_place": "Edmonton, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Kensington, London, England",
+    "batting": "Left-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/12688.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "617",
+        "bat avg": "18.14",
+        "100s/50s": "\u2013/2",
+        "top score": "91",
+        "deliveries": "299",
+        "wickets": "5",
+        "bowl avg": "44.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/56",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1931&ndash;1933",
+        "Marylebone Cricket Club": "1934"
+    }
+}

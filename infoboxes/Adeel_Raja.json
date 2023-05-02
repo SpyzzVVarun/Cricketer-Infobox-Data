@@ -1,0 +1,63 @@
+{
+    "name": "Adeel Raja",
+    "country": "Netherlands",
+    "fullname": "Mohammad Adeel Khalid Raja",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off spin",
+    "role": "Bowler",
+    "internationalspan": "2002-2011",
+    "odidebutdate": "16 September",
+    "odidebutyear": "2002",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "14",
+    "lastodidate": "18 March",
+    "lastodiyear": "2011",
+    "lastodiagainst": "Ireland",
+    "source": "http://www.espncricinfo.com/netherlands/content/player/24978.html Cricinfo ",
+    "ODI": {
+        "matches": "21",
+        "runs": "28",
+        "bat avg": "2.80",
+        "100s/50s": "0/0",
+        "deliveries": "846",
+        "wickets": "17",
+        "bowl avg": "40.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "3/0"
+    },
+    "FC": {
+        "matches": "7",
+        "runs": "62",
+        "bat avg": "6.88",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "752",
+        "wickets": "7",
+        "bowl avg": "59.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/82",
+        "catches/stumpings": "0/0"
+    },
+    "List A": {
+        "matches": "33",
+        "runs": "90",
+        "bat avg": "6.92",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "1,344",
+        "wickets": "24",
+        "bowl avg": "44.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "VRA Cricket": ""
+    },
+    "birth_date": "1980-8-15"
+}

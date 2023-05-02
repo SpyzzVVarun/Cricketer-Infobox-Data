@@ -1,0 +1,26 @@
+{
+    "name": "Andy Lloyd",
+    "country": "England",
+    "fullname": "Timothy Andrew Lloyd",
+    "birth_place": "Oswestry, Shropshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/16322.html CricInfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "3",
+        "runs": "101",
+        "bat avg": "33.66",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1956-11-5"
+}

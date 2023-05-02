@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Nelson Grover",
+    "birth_place": "Hexham, Northumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Waytown, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/13808.html Cricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "1,188",
+        "bat avg": "11.20",
+        "100s/50s": "3/4",
+        "top score": "121",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1935&ndash;1950",
+        "Oxford University": "1936&ndash;1938"
+    }
+}

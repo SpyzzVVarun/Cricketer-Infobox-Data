@@ -1,0 +1,22 @@
+{
+    "name": "George Bloomfield",
+    "fullname": "George Thomas Bloomfield",
+    "birth_place": "Adelaide, South Australia",
+    "death_date": "1958",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/4366.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "132",
+        "bat avg": "26.40",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1908/09"
+    },
+    "birth_date": "1882-2-5"
+}

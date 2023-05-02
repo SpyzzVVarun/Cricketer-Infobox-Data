@@ -1,0 +1,36 @@
+{
+    "name": "Pearson Best",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium-slow",
+    "country": "Cayman Islands",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/20/20898/20898.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "121",
+        "bat avg": "30.25",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "81",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "66",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

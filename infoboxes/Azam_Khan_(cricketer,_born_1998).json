@@ -1,0 +1,61 @@
+{
+    "name": "Azam Khan",
+    "country": "Pakistan",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "height": "5 ft 8 in",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Moin Khan (father) Nadeem Khan (uncle)   Mariam Ansari (sister-in-law)",
+    "internationalspan": "2021\u2013present",
+    "T20Idebutdate": "16 July",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "England",
+    "T20Icap": "93",
+    "lastT20Idate": "26 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Afghanistan",
+    "T20Ishirt": "77",
+    "source": "http://www.espncricinfo.com/ci/content/player/1137262.html Cricinfo ",
+    "T20I": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "FC": {
+        "matches": "16",
+        "runs": "739",
+        "bat avg": "28.42",
+        "100s/50s": "1/4",
+        "top score": "103",
+        "catches/stumpings": "34/2"
+    },
+    "LA": {
+        "matches": "22",
+        "runs": "469",
+        "bat avg": "31.26",
+        "100s/50s": "0/2",
+        "top score": "83",
+        "catches/stumpings": "22/4"
+    },
+    "T20": {
+        "matches": "93",
+        "runs": "1, 863",
+        "bat avg": "23.58",
+        "100s/50s": "1/10",
+        "catches/stumpings": "29/5"
+    },
+    "clubs": {
+        "Quetta Gladiators( 45 )": "2018-2021",
+        "Pakistan Television": "2018",
+        "Sindh": "2020",
+        "Galle Gladiators( 23 )": "2020",
+        "Barbados Royals( 23 )": "2021",
+        "Southern Punjab": "2021/22\u2013present",
+        "Islamabad United": "2022-present",
+        "Khulna Tigers": "2023"
+    },
+    "birth_date": "1998-8-10"
+}

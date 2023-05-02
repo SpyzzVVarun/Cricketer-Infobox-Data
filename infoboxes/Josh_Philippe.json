@@ -1,0 +1,63 @@
+{
+    "name": "Josh Philippe",
+    "country": "Australia",
+    "fullname": "Joshua Ryan Philippe",
+    "birth_place": "Subiaco, Western Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsman",
+    "internationalspan": "2021",
+    "odidebutdate": "20 July",
+    "odidebutyear": "2021",
+    "odidebutagainst": "West Indies",
+    "odicap": "233",
+    "lastodidate": "26 July",
+    "lastodiyear": "2021",
+    "lastodiagainst": "West Indies",
+    "T20Idebutdate": "22 February",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "New Zealand",
+    "T20Icap": "96",
+    "lastT20Idate": "4 August",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/1124282.html Cricinfo ",
+    "ODI": {
+        "matches": "3",
+        "runs": "65",
+        "bat avg": "21.66",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20I": {
+        "matches": "10",
+        "runs": "138",
+        "bat avg": "13.80",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "0/-"
+    },
+    "FC": {
+        "matches": "37",
+        "runs": "1,794",
+        "bat avg": "28.03",
+        "100s/50s": "2/12",
+        "top score": "129",
+        "catches/stumpings": "83/5"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "1,271",
+        "bat avg": "37.38",
+        "100s/50s": "2/9",
+        "top score": "137",
+        "catches/stumpings": "34/3"
+    },
+    "clubs": {
+        "Western Australia( 27 )": "2017/18\u2013present",
+        "Perth Scorchers( 27 )": "2017/18",
+        "Sydney Sixers( 22 )": "2018/19\u2013present",
+        "Royal Challengers Bangalore( 1 )": "2020"
+    },
+    "birth_date": "1997-6-1"
+}

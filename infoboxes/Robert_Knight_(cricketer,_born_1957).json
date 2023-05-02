@@ -1,0 +1,39 @@
+{
+    "name": "Robert Knight",
+    "country": "Australia",
+    "fullname": "Robert Leonard Knight",
+    "birth_place": "Launceston, Tasmania, Australia",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/6163.html Cricinfo ",
+    "FC": {
+        "matches": "15",
+        "runs": "742",
+        "bat avg": "26.50",
+        "100s/50s": "1/2",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1977/78&ndash;1981/82"
+    },
+    "birth_date": "1957-11-20"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Zaman Khan",
+    "country": "Pakistan",
+    "birth_place": "Chakswari, Mirpur District, Azad Kashmir, Pakistan",
+    "height": "5 ft 11 in last=Husain ",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "role": "Bowler",
+    "internationalspan": "2023-present",
+    "T20Idebutdate": "24 March",
+    "T20Idebutyear": "2023",
+    "T20Idebutagainst": "Afghanistan",
+    "lastT20Idate": "14 April",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "New Zealand",
+    "T20Icap": "103",
+    "T20Ishirt": "12",
+    "source": "http://www.espncricinfo.com/ci/content/player/1272475.html Cricinfo ",
+    "T20": {
+        "matches": "19",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "deliveries": "406",
+        "wickets": "41",
+        "bowl avg": "20.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/16",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "deliveries": "333",
+        "wickets": "6",
+        "bowl avg": "55.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/47",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Rawalakot Hawks( 21 )": "2021-present",
+        "Northern( 155 )": "2021/22-present",
+        "Lahore Qalandars( 12; formerly 155 )": "2022-present"
+    },
+    "birth_date": "2001-9-10"
+}

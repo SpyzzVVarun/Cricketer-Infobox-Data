@@ -1,0 +1,27 @@
+{
+    "name": "Norman Grace",
+    "country": "England",
+    "fullname": "Norman Vere Grace",
+    "birth_place": "Thornbury, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Amberley, Gloucestershire, England",
+    "family": "Grace family",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/13700.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "25",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "157",
+        "wickets": "7",
+        "bowl avg": "16.28",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/69",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,27 @@
+{
+    "name": "John Beagley",
+    "fullname": "John William Beagley",
+    "birth_place": "Adelaide, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/4334.html Cricinfo ",
+    "FC": {
+        "matches": "18",
+        "runs": "129",
+        "bat avg": "5.86",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "-",
+        "wickets": "51",
+        "bowl avg": "37.03",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/121",
+        "catches/stumpings": "5/-"
+    },
+    "clubs": {
+        "South Australia": "1956/57-1959/60"
+    },
+    "birth_date": "1933-3-23"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Noel McMahon",
+    "country": "New Zealand",
+    "fullname": "Noel Albert McMahon",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Auckland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/37894.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "3.25",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "156",
+        "wickets": "3",
+        "bowl avg": "32.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/42",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Auckland": "1936-37 to 1937-38"
+    },
+    "birth_date": "1916-5-24"
+}

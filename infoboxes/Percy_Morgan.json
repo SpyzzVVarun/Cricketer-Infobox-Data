@@ -1,0 +1,29 @@
+{
+    "name": "Percy Morgan",
+    "country": "England",
+    "fullname": "William Percival Morgan",
+    "birth_place": "Abercrave, Brecknockshire, Wales",
+    "death_date": "1983",
+    "death_place": "Neath, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/17090.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "6",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1925"
+    },
+    "birth_date": "1905-1-1"
+}

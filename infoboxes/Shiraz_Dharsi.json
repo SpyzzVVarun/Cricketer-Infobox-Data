@@ -1,0 +1,45 @@
+{
+    "country": "Pakistan",
+    "fullname": "Shiraz Kassam Dharsi",
+    "birth_place": "Bombay, Bombay Presidency, British India",
+    "death_date": "2020",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ireland/content/player/25417.html Cricinfo ",
+    "First-class": {
+        "matches": "49",
+        "runs": "2,288",
+        "bat avg": "32.22",
+        "100s/50s": "4/12",
+        "top score": "149",
+        "deliveries": "38",
+        "wickets": "1",
+        "bowl avg": "18.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/4",
+        "catches/stumpings": "67/26"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Railways": "1965/66&ndash;1970/71",
+        "Public Works Department": "1972/73",
+        "Sind": "1972/73&ndash;1973/74",
+        "Karachi Blues": "1973/74",
+        "Scotland": "1980"
+    }
+}

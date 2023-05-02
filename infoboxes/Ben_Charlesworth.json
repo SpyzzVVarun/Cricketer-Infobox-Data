@@ -1,0 +1,50 @@
+{
+    "name": "Ben Charlesworth",
+    "country": "England",
+    "fullname": "Ben Geoffrey Charlesworth",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "19 August",
+    "debutyear1": "2018",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Warwickshire",
+    "type2": "List A",
+    "debutdate2": "30 June",
+    "debutyear2": "2019",
+    "debutfor2": "Gloucestershire",
+    "debutagainst2": "Australia A",
+    "source": "http://www.espncricinfo.com/ci/content/player/998369.html Cricinfo |family=Luke Alexander Charlesworth (brother)",
+    "FC": {
+        "matches": "23",
+        "runs": "737",
+        "bat avg": "21.05",
+        "100s/50s": "0/6",
+        "deliveries": "555",
+        "wickets": "10",
+        "bowl avg": "34.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "10/\u2013"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "451",
+        "bat avg": "50.11",
+        "100s/50s": "0/3",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire( 64 )": "2018\u2013present"
+    },
+    "birth_date": "2000-11-19"
+}

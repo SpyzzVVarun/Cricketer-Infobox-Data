@@ -1,0 +1,43 @@
+{
+    "name": "Nathan Waller",
+    "country": "Zimbabwe",
+    "fullname": "Nathan Waller",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "family": "Andy Waller (uncle), Malcolm Waller (cousin)",
+    "source": "https://cricketarchive.com/Archive/Players/436/436775/436775.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "126",
+        "wickets": "2",
+        "bowl avg": "22.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "31",
+        "bat avg": "10.33",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "12.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Centrals": "2008"
+    },
+    "birth_date": "1991-11-19"
+}

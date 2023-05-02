@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Talfryn Evans",
+    "birth_place": "Llanelli, Carmarthenshire,  Wales",
+    "death_date": "1944",
+    "death_place": "Llanelli, Carmarthenshire,  Wales",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/12544.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "32",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1934"
+    },
+    "birth_date": "1914-6-10"
+}

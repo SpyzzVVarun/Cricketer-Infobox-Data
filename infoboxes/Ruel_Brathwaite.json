@@ -1,0 +1,60 @@
+{
+    "name": "Ruel Brathwaite",
+    "country": "West Indies",
+    "fullname": "Ruel Marlon Ricardo Brathwaite",
+    "birth_place": "Bridgetown, Saint Michael, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/244499.html Cricinfo ",
+    "FC": {
+        "matches": "26",
+        "runs": "226",
+        "bat avg": "12.55",
+        "100s/50s": "0/1",
+        "deliveries": "3,778",
+        "wickets": "71",
+        "bowl avg": "32.52",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/54",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "68.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/19",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013",
+        "top score": "0",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "33.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Loughborough UCCE": "2006\u20132008",
+        "British Universities": "2006",
+        "Marylebone Cricket Club": "2007",
+        "Cambridge University": "2009",
+        "Durham( 8 )": "2010\u20132012",
+        "Combined Campuses and Colleges": "2010",
+        "Hampshire": "2013"
+    },
+    "birth_date": "1985-9-6"
+}

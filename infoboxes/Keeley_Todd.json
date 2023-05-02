@@ -1,0 +1,56 @@
+{
+    "name": "Keeley Todd",
+    "country": "New Zealand",
+    "fullname": "Keeley William Martin Todd",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm Medium-fast",
+    "role": "Batsman",
+    "source": "http://content-usa.cricinfo.com/newzealand/content/player/38693.html (cricinfo) ",
+    "FC": {
+        "matches": "5",
+        "runs": "129",
+        "bat avg": "16.12",
+        "100s/50s": "0/1",
+        "top score": "84",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "2/0"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "18",
+        "bat avg": "6",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "66",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Auckland": ""
+    },
+    "birth_date": "1982-7-31"
+}

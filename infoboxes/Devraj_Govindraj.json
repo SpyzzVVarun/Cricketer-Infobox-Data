@@ -1,0 +1,42 @@
+{
+    "name": "Devraj Govindraj",
+    "country": "India",
+    "fullname": "Devraj Devendraraj Govindraj",
+    "birth_place": "Hyderabad, Hyderabad State, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/29046.html Cricinfo",
+    "First-class": {
+        "matches": "93",
+        "runs": "1202",
+        "bat avg": "13.50",
+        "100s/50s": "0/5",
+        "top score": "72",
+        "deliveries": "10,087",
+        "wickets": "190",
+        "bowl avg": "27.66",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "6/38",
+        "catches/stumpings": "36/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "150",
+        "wickets": "3",
+        "bowl avg": "21.33",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/14",
+        "catches/stumpings": "0"
+    },
+    "clubs": {
+        "Hyderabad": "1964\u201365 to 1974\u201375",
+        "State Bank of India": "1966\u201367 to 1971\u201372",
+        "South Zone": "1966\u201367 to 1970\u201371"
+    },
+    "birth_date": "1947-1-2"
+}

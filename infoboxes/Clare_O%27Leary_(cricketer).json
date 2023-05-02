@@ -1,0 +1,48 @@
+{
+    "name": "Clare O'Leary",
+    "female": "true",
+    "country": "Ireland",
+    "fullname": "Clare Mary O'Leary",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "internationalspan": "1996\u20132003",
+    "onetest": "yes",
+    "testdebutdate": "30 July",
+    "testdebutyear": "2000",
+    "testdebutagainst": "Pakistan",
+    "testcap": "7",
+    "odidebutdate": "18 July",
+    "odidebutyear": "1996",
+    "odidebutagainst": "New Zealand",
+    "odicap": "31",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Scotland",
+    "source": "https://cricketarchive.com/Archive/Players/15/15004/15004.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "37",
+        "runs": "570",
+        "bat avg": "18.38",
+        "100s/50s": "0/1",
+        "catches/stumpings": "7/\u2013"
+    },
+    "WLA": {
+        "matches": "38",
+        "runs": "570",
+        "bat avg": "18.38",
+        "100s/50s": "0/1",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1967-6-2"
+}

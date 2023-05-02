@@ -1,0 +1,51 @@
+{
+    "name": "Bruce Dooland",
+    "country": "Australia",
+    "fullname": "Bruce Dooland",
+    "birth_place": "Cowandilla, South Australia",
+    "death_date": "1980",
+    "death_place": "Bedford Park, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "role": "Bowling all-rounder",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1947",
+    "testdebutagainst": "England",
+    "testcap": "174",
+    "lasttestdate": "1 January",
+    "lasttestyear": "1948",
+    "lasttestagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/0/763/763.html CricketArchive",
+    "Test": {
+        "matches": "3",
+        "runs": "76",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "880",
+        "wickets": "9",
+        "bowl avg": "46.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/69",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "214",
+        "runs": "7,141",
+        "bat avg": "24.37",
+        "100s/50s": "4/41",
+        "deliveries": "52,734",
+        "wickets": "1,016",
+        "bowl avg": "21.98",
+        "fivefor": "84",
+        "tenfor": "23",
+        "best bowling": "8/20",
+        "catches/stumpings": "186/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1945/46\u20131957/58",
+        "Nottinghamshire": "1953\u20131957"
+    },
+    "birth_date": "1923-11-01"
+}

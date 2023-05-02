@@ -1,0 +1,57 @@
+{
+    "name": "Mahbubul Karim",
+    "birth_place": "Chittagong, Bangladesh",
+    "nickname": "Mithu",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/56021.html CricInfo",
+    "FC": {
+        "matches": "43",
+        "runs": "1,747",
+        "bat avg": "22.39",
+        "100s/50s": "2/8",
+        "top score": "162",
+        "deliveries": "201",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "LA": {
+        "matches": "51",
+        "runs": "1,357",
+        "bat avg": "26.60",
+        "100s/50s": "2/5",
+        "top score": "145",
+        "deliveries": "71",
+        "wickets": "2",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/17",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "45",
+        "bat avg": "45.00",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Chittagong Division": "2003/04\u20132016/17",
+        "Dhaka Warriors": "2008",
+        "Kala Bagan Krira Chakra": "2013/14",
+        "Victoria Sporting Club": "2014/15",
+        "Sheikh Jamal Dhanmondi Club": "2016\u20132017"
+    },
+    "birth_date": "1986-05-07"
+}

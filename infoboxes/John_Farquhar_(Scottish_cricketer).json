@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "John Stewart Farquhar",
+    "birth_place": "Cargill, Perthshire, Scotland",
+    "death_date": "1984",
+    "death_place": "Dundee, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/john-farquhar-25202 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,243",
+        "wickets": "22",
+        "bowl avg": "19.18",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/13",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1930&ndash;1939"
+    }
+}

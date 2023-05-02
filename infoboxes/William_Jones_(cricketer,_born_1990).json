@@ -1,0 +1,41 @@
+{
+    "name": "William Jones",
+    "country": "England",
+    "fullname": "William Stephen Jones",
+    "birth_place": "Perth, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/408248.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "227",
+        "bat avg": "16.21",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "216",
+        "wickets": "5",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/71",
+        "catches/stumpings": "5/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "59",
+        "bat avg": "14.75",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Leicestershire( 25 )": "2011\u20132012"
+    },
+    "birth_date": "1990-3-26"
+}

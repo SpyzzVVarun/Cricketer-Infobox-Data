@@ -1,0 +1,43 @@
+{
+    "name": "V. S. Vijay Kumar",
+    "country": "India",
+    "fullname": "Vijalapur Seshadri Vijay Kumar",
+    "death_date": "2019",
+    "birth_place": "Bangalore, Karnataka, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening batsman",
+    "source": "https://cricketarchive.com/Archive/Players/41/41314/41314.html CricketArchive ",
+    "First-class": {
+        "matches": "57",
+        "runs": "2,891",
+        "bat avg": "31.42",
+        "100s/50s": "2/16",
+        "top score": "158",
+        "deliveries": "3,596",
+        "wickets": "46",
+        "bowl avg": "36.73",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/9",
+        "catches/stumpings": "21/\u2014"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "52",
+        "bat avg": "17.33",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/28",
+        "catches/stumpings": "0/\u2014"
+    },
+    "clubs": {
+        "Karnataka": "1967/68\u20141975/75"
+    },
+    "birth_date": "1946-02-28"
+}

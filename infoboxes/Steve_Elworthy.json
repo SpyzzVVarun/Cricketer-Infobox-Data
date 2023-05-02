@@ -1,0 +1,54 @@
+{
+    "honorific_suffix": "MBE",
+    "name": "Steve Elworthy",
+    "birth_place": "Bulawayo, Rhodesia",
+    "country": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://cricinfo.com/ci/content/player/44960.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "Test": {
+        "matches": "4",
+        "runs": "72",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "867",
+        "wickets": "13",
+        "bowl avg": "34.15",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/66",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "39",
+        "runs": "100",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "1,702",
+        "wickets": "44",
+        "bowl avg": "28.06",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Northern Transvaal": "1988\u20131997",
+        "Lancashire": "1996",
+        "Northerns": "1997\u20132003",
+        "Nottinghamshire": "2003"
+    },
+    "birth_date": "1965-02-23",
+    "medaltemplates": [
+        "Country: {{RSA}}",
+        "Sport: Men's Cricket",
+        "Competition: Commonwealth Games",
+        "Gold Medal: 1998 Kuala Lumpur List-A cricket"
+    ]
+}

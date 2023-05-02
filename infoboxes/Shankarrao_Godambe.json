@@ -1,0 +1,31 @@
+{
+    "name": "Shankarrao Godambe",
+    "country": "India",
+    "fullname": "Shankarrao Ramachandra Godambe",
+    "birth_place": "Bombay, British India",
+    "death_date": "1969",
+    "death_place": "Bombay, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/11/11462/11462.html Cricinfo ",
+    "First-class": {
+        "matches": "50",
+        "runs": "848",
+        "bat avg": "16.30",
+        "100s/50s": "0/4",
+        "top score": "62",
+        "deliveries": "6,203",
+        "wickets": "103",
+        "bowl avg": "22.86",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/32",
+        "catches/stumpings": "49/\u2013"
+    },
+    "clubs": {
+        "Hindus": "1920/21\u20131941/42",
+        "Gujarat": "1934/35\u20131937/38",
+        "Bombay": "1939/40"
+    },
+    "birth_date": "1899-3-1"
+}

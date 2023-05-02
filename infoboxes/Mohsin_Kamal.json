@@ -1,0 +1,38 @@
+{
+    "name": "Mohsin Kamal",
+    "birth_place": "Faisalabad, Punjab, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast",
+    "odicap": "54",
+    "internationalspan": "1984\u20131994",
+    "source": "http://www.espncricinfo.com/ci/content/player/41301.html ESPNcricinfo ",
+    "Tests": {
+        "matches": "9",
+        "runs": "37",
+        "bat avg": "9.25",
+        "100s/50s": "-/-",
+        "deliveries": "1348",
+        "wickets": "24",
+        "bowl avg": "34.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/116",
+        "catches/stumpings": "4/-"
+    },
+    "ODIs": {
+        "matches": "19",
+        "runs": "27",
+        "bat avg": "9.00",
+        "100s/50s": "-/-",
+        "deliveries": "881",
+        "wickets": "21",
+        "bowl avg": "36.19",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "4/47",
+        "catches/stumpings": "4/-"
+    },
+    "clubs": {},
+    "birth_date": "June 16, 1963"
+}

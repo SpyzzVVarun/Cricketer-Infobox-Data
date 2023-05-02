@@ -1,0 +1,35 @@
+{
+    "name": "Dave Crowe",
+    "country": "New Zealand",
+    "fullname": "David William Crowe",
+    "birth_place": "Blenheim, New Zealand",
+    "death_date": "2000",
+    "death_place": "Auckland, New Zealand",
+    "family": "Jeff Crowe (son)",
+    "batting": "Left-handed",
+    "bowling": "Legbreak",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "25 December",
+    "debutyear1": "1953",
+    "debutfor1": "Wellington",
+    "debutagainst1": "Central Districts",
+    "lastdate1": "3 January",
+    "lastyear1": "1958",
+    "lastfor1": "Canterbury",
+    "lastagainst1": "Central Districts",
+    "source": "http://content.cricinfo.com/newzealand/content/player/36631.html CricInfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "55",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Wellington": "1953/54",
+        "Canterbury": "1957/58"
+    },
+    "birth_date": "1933-10-18"
+}

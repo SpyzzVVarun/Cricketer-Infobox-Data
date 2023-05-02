@@ -1,0 +1,42 @@
+{
+    "name": "Mackenzie Harvey",
+    "fullname": "Mackenzie Walter Harvey",
+    "birth_place": "East St Kilda, Victoria, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Top-order batsman",
+    "family": "Ian Harvey (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/1076382.html Cricinfo ",
+    "LA": {
+        "matches": "11",
+        "runs": "226",
+        "bat avg": "20.54",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2014",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "35",
+        "runs": "591",
+        "bat avg": "21.10",
+        "100s/50s": "0/2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2014",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2018\u2013",
+        "Melbourne Renegades": "2018\u2013"
+    },
+    "birth_date": "2000-9-18"
+}

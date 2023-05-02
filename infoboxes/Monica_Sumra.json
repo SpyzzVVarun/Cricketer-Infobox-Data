@@ -1,0 +1,68 @@
+{
+    "name": "Monica Sumra",
+    "country": "India",
+    "female": "true",
+    "fullname": "Monica Harish Sumra",
+    "birth_place": "Nagpur, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batter; occasional wicket-keeper",
+    "internationalspan": "2004\u20132006",
+    "testdebutdate": "21 November",
+    "testdebutyear": "2005",
+    "testdebutagainst": "England",
+    "testcap": "68",
+    "lasttestdate": "8 August",
+    "lasttestyear": "2006",
+    "lasttestagainst": "England",
+    "odidebutdate": "24 December",
+    "odidebutyear": "2004",
+    "odidebutagainst": "Australia",
+    "odicap": "77",
+    "lastodidate": "25 August",
+    "lastodiyear": "2006",
+    "lastodiagainst": "England",
+    "oneT20I": "true",
+    "T20Idebutdate": "5 August",
+    "T20Idebutyear": "2006",
+    "T20Idebutfor": "India",
+    "T20Idebutagainst": "England",
+    "T20Icap": "11",
+    "source": "https://cricketarchive.com/Archive/Players/72/72811/72811.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "61",
+        "bat avg": "10.16",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "14",
+        "runs": "304",
+        "bat avg": "27.63",
+        "100s/50s": "0/3",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "41",
+        "runs": "1,133",
+        "bat avg": "35.40",
+        "100s/50s": "2/6",
+        "catches/stumpings": "6/3"
+    },
+    "clubs": {
+        "Jharkhand": "2000/01",
+        "Railways": "2004/05\u20132006/07",
+        "Mumbai": "2007/08\u20132008/09"
+    },
+    "birth_date": "1980-10-14"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Len Harris",
+    "country": "West Indies",
+    "fullname": "Leonard Alphonso Harris",
+    "birth_place": "St. Kitts",
+    "death_date": "2006",
+    "death_place": "Newtown, St. Kitts",
+    "nickname": "Mikes",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "5 July",
+    "debutyear1": "1958",
+    "debutfor1": "Leeward Islands",
+    "debutagainst1": "Jamaica",
+    "lastdate1": "27 March",
+    "lastyear1": "1971",
+    "lastfor1": "Leeward Islands",
+    "lastagainst1": "Jamaica",
+    "source": "https://cricketarchive.com/Archive/Players/23/23680/23680.html Cricket Archive ",
+    "First-class": {
+        "matches": "27",
+        "runs": "1394",
+        "bat avg": "29.04",
+        "100s/50s": "1/9",
+        "top score": "105",
+        "deliveries": "623",
+        "wickets": "15",
+        "bowl avg": "19.46",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/3",
+        "catches/stumpings": "14/0"
+    },
+    "clubs": {
+        "Leeward Islands": "1958-1971",
+        "Combined Islands": "1965-1966"
+    },
+    "birth_date": "1934-09-03"
+}

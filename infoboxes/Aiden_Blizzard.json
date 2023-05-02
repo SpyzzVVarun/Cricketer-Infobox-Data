@@ -1,0 +1,62 @@
+{
+    "name": "Aiden Blizzard",
+    "country": "Australia",
+    "fullname": "Aiden Craig Blizzard",
+    "nickname": "The Hazzard",
+    "birth_place": "Shepherds Uxton, Victoria, Australia",
+    "heightft": "5",
+    "heightinch": "11",
+    "heightm": "1.80",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/player/aiden-blizzard-4498 ESPNcricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "966",
+        "bat avg": "30.18",
+        "100s/50s": "2/4",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "LA": {
+        "matches": "40",
+        "runs": "733",
+        "bat avg": "19.28",
+        "100s/50s": "0/2",
+        "top score": "72",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "24/\u2013"
+    },
+    "T20": {
+        "matches": "98",
+        "runs": "2,043",
+        "bat avg": "24.61",
+        "100s/50s": "0/10",
+        "top score": "89",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Rajshahi Division": "2009/10",
+        "South Australia": "2010/11",
+        "Mumbai Indians": "2011/12,2015",
+        "Victoria": "2005/06\u20132009/10"
+    },
+    "birth_date": "1984-06-27"
+}

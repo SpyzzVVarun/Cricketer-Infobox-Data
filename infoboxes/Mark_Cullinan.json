@@ -1,0 +1,40 @@
+{
+    "country": "South Africa",
+    "fullname": "Mark Ronald Cullinan",
+    "birth_place": "Johannesburg, Transvaal,, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/44642.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "215",
+        "bat avg": "11.31",
+        "100s/50s": "\u2013/2",
+        "top score": "59",
+        "deliveries": "12",
+        "wickets": "1",
+        "bowl avg": "4.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/4",
+        "catches/stumpings": "18/1"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1983&ndash;1984"
+    },
+    "birth_date": "1957-4-3"
+}

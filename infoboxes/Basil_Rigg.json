@@ -1,0 +1,29 @@
+{
+    "name": "Basil Rigg",
+    "country": "Australia",
+    "fullname": "Basil Augustus Rigg",
+    "birth_place": "Highgate, Western Australia",
+    "family": "Bert Rigg (brother)",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/16/16617/16617.html CricketArchive ",
+    "First-class": {
+        "matches": "18",
+        "runs": "511",
+        "bat avg": "17.03",
+        "100s/50s": "0/2",
+        "top score": "65",
+        "deliveries": "952",
+        "wickets": "8",
+        "bowl avg": "86.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/46",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1947/48\u20131956/57"
+    },
+    "birth_date": "1926-8-12"
+}

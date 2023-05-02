@@ -1,0 +1,21 @@
+{
+    "name": "William Dean",
+    "country": "England",
+    "source": "http://www.cricinfo.com/ci/content/player/11861.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "126",
+        "wickets": "2",
+        "bowl avg": "26.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/52",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1907"
+    }
+}

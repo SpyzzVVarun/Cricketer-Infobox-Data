@@ -1,0 +1,63 @@
+{
+    "name": "Alexander French",
+    "country": "Hong Kong",
+    "fullname": "Alexander Niall French",
+    "birth_place": "Hong Kong",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "odidebutdate": "16 July",
+    "odidebutyear": "2004",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "3",
+    "lastodidate": "18 July",
+    "lastodiyear": "2004",
+    "lastodiagainst": "Pakistan",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/66/66451/66451.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "24",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "67.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/51",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "40",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "150",
+        "wickets": "4",
+        "bowl avg": "31.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/35",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "ICC": {
+        "matches": "9",
+        "runs": "27",
+        "bat avg": "3.37",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "126",
+        "wickets": "3",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/43",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Hong Kong cricket team": "2004",
+        "Wales Minor Counties": "2001&ndash;2002"
+    },
+    "birth_date": "1980-12-1"
+}

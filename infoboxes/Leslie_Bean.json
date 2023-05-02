@@ -1,0 +1,38 @@
+{
+    "name": "Leslie Bean",
+    "country": "England",
+    "fullname": "Leslie Hugh Bean",
+    "birth_place": "Burnham-on-Sea, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Accra, Ghana",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "type1": "First-class",
+    "debutdate1": "22 June",
+    "debutyear1": "1929",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Essex",
+    "lastdate1": "29 June",
+    "lastyear1": "1929",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Sussex",
+    "source": "http://www.espncricinfo.com/ci/content/player/9053.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "35",
+        "bat avg": "5.83",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "24.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Somerset": "1929"
+    },
+    "birth_date": "1906-02-2"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Sandy Morgan",
+    "fullname": "Oliver John Morgan",
+    "nickname": "Sandy",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://www.espncricinfo.com/player/sandy-morgan-6692 Cricinfo ",
+    "FC": {
+        "matches": "37",
+        "runs": "1410",
+        "bat avg": "25.17",
+        "100s/50s": "0/6",
+        "top score": "81",
+        "deliveries": "6515",
+        "wickets": "113",
+        "bowl avg": "28.90",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "28/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "64",
+        "wickets": "1",
+        "bowl avg": "47.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/47",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1965-66 to 1969-70"
+    },
+    "birth_date": "1945-6-7"
+}

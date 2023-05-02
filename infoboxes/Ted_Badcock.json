@@ -1,0 +1,52 @@
+{
+    "name": "Ted Badcock",
+    "fullname": "Frederick Theodore Badcock",
+    "birth_place": "Abbottabad, British India",
+    "death_date": "1982",
+    "death_place": "South Perth, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Allrounder",
+    "country": "New Zealand",
+    "testdebutdate": "10 January",
+    "testdebutyear": "1930",
+    "testdebutagainst": "England",
+    "testcap": "1",
+    "lasttestdate": "31 March",
+    "lasttestyear": "1933",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36283.html Cricinfo",
+    "Test": {
+        "matches": "7",
+        "runs": "137",
+        "bat avg": "19.57",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "deliveries": "1,608",
+        "wickets": "16",
+        "bowl avg": "38.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/80",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "53",
+        "runs": "2383",
+        "bat avg": "25.62",
+        "100s/50s": "4/13",
+        "top score": "155",
+        "deliveries": "15995",
+        "wickets": "221",
+        "bowl avg": "23.57",
+        "fivefor": "14",
+        "tenfor": "5",
+        "best bowling": "7/50",
+        "catches/stumpings": "38/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1924/25\u20131929/30",
+        "Otago": "1930/31\u20131936/37"
+    },
+    "birth_date": "1897-08-09"
+}

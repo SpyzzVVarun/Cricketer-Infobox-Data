@@ -1,0 +1,38 @@
+{
+    "name": "Archibald Ackroyd",
+    "country": "England",
+    "fullname": "Archibald Ackroyd",
+    "birth_place": "Heanor, Derbyshire, England",
+    "death_date": "1968",
+    "death_place": "Dudley, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "FC",
+    "debutdate1": "25 June",
+    "debutyear1": "1924",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "11 August",
+    "lastyear1": "1937",
+    "lastfor1": "Scotland",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/27/27403/27403.html CricketArchive ",
+    "First-class": {
+        "matches": "12",
+        "runs": "79",
+        "bat avg": "4.15",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "1,582",
+        "wickets": "20",
+        "bowl avg": "35.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/63",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1924\u20131925"
+    },
+    "birth_date": "1897-5-18"
+}

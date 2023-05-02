@@ -1,0 +1,23 @@
+{
+    "name": "Christopher Hawkins",
+    "country": "England",
+    "fullname": "Christopher George Hawkins",
+    "birth_place": "Slough, Buckinghamshire, England",
+    "death_date": "2022",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/14632.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/2"
+    },
+    "clubs": {
+        "Warwickshire": "1957",
+        "Buckinghamshire": "1955&ndash;1965"
+    },
+    "birth_date": "1938-8-31"
+}

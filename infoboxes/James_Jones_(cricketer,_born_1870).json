@@ -1,0 +1,28 @@
+{
+    "name": "James Jones",
+    "country": "England",
+    "fullname": "James Lovelady Jones",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1960 (aged 89/90)",
+    "death_place": "Uxbridge, Middlesex, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/30/30663/30663.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1910",
+        "Cheshire": "1909&ndash;1912"
+    }
+}

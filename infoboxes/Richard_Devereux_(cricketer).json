@@ -1,0 +1,40 @@
+{
+    "name": "Richard Devereux",
+    "country": "England",
+    "fullname": "Richard Jaynes Devereux",
+    "birth_place": "Castle Bromwich, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/29/29050/29050.html CricketArchive ",
+    "FC": {
+        "matches": "11",
+        "runs": "216",
+        "bat avg": "16.61",
+        "100s/50s": "0/1",
+        "deliveries": "1,188",
+        "wickets": "13",
+        "bowl avg": "44.69",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "3/44",
+        "catches/stumpings": "13/0"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Worcestershire": "1963"
+    },
+    "birth_date": "1938-12-26"
+}

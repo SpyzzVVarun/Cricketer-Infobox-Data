@@ -1,0 +1,30 @@
+{
+    "name": "George Bailey",
+    "country": "Australia",
+    "fullname": "George Herbert Bailey",
+    "birth_place": "Colombo, Ceylon",
+    "death_date": "df=yes",
+    "death_place": "Hobart, Tasmania",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast-medium Right-arm fast-medium roundarm",
+    "source": "https://cricketarchive.com/Archive/Players/2/2383/2383.html CricketArchive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "367",
+        "bat avg": "16.68",
+        "100s/50s": "0/1",
+        "deliveries": "320",
+        "wickets": "4",
+        "bowl avg": "25.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/5",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1872\u201373 \u2013 1892\u201393"
+    },
+    "birth_date": "1853-10-29"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Kamal Bhandarkar",
+    "country": "India",
+    "fullname": "Kamal Vinayakrao Bhandarkar",
+    "birth_place": "Lonavala, Bombay Presidency, British India",
+    "death_date": "1986",
+    "death_place": "Pune, Maharashtra, India",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "https://www.espncricinfo.com/india/content/player/27422.html Cricinfo",
+    "First-class": {
+        "matches": "30",
+        "runs": "1357",
+        "bat avg": "30.84",
+        "100s/50s": "3/5",
+        "top score": "205",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "30/20"
+    },
+    "clubs": {
+        "Central India": "1935\u201336 to 1937\u201338",
+        "Maharashtra": "1939\u201340 to 1949\u201350",
+        "Holkar": "1941\u201342 to 1947\u201348"
+    },
+    "birth_date": "1911-2-21"
+}

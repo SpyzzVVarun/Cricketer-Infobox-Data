@@ -1,0 +1,46 @@
+{
+    "name": "Raj Bawa",
+    "fullname": "Raj Angad Bawa",
+    "birth_place": "Nahan, Himachal Pradesh, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Trilochan Singh (grandfather)",
+    "type1": "FC",
+    "debutdate1": "17 February",
+    "debutyear1": "2022",
+    "debutfor1": "Chandigarh",
+    "debutagainst1": "Hyderabad",
+    "source": "https://www.espncricinfo.com/player/raj-bawa-1292502 Cricinfo",
+    "FC": {
+        "matches": "2",
+        "runs": "152",
+        "bat avg": "50.66",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "264",
+        "wickets": "3",
+        "bowl avg": "49.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/44",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "89",
+        "bat avg": "29.66",
+        "100s/50s": "0/0",
+        "deliveries": "60",
+        "wickets": "3",
+        "bowl avg": "28.66",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Chandigarh": "2021/22",
+        "Punjab Kings": "2022"
+    },
+    "birth_date": "2002-11-12"
+}

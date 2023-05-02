@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Kevin Anthony Hayes",
+    "birth_place": "Thurnscoe, West Riding of Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14647.html Cricinfo ",
+    "First-class": {
+        "matches": "44",
+        "runs": "1,595",
+        "bat avg": "23.80",
+        "100s/50s": "2/7",
+        "top score": "152",
+        "deliveries": "961",
+        "wickets": "17",
+        "bowl avg": "31.58",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/58",
+        "catches/stumpings": "15/&ndash;"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "267",
+        "bat avg": "15.70",
+        "100s/50s": "&ndash;/2",
+        "top score": "67",
+        "deliveries": "240",
+        "wickets": "4",
+        "bowl avg": "31.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/40",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Cumberland": "1988&ndash;1991",
+        "Oxford University": "1981&ndash;1984",
+        "Lancashire": "1980&ndash;1986"
+    },
+    "birth_date": "1962-9-26"
+}

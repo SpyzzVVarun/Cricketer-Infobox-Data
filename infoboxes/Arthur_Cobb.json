@@ -1,0 +1,22 @@
+{
+    "name": "Arthur Cobb",
+    "fullname": "Arthur Rhodes Cobb",
+    "birth_place": "Bodicote, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bodicote, Oxfordshire, England",
+    "family": "Charles Cobb (brother)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/11191.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "323",
+        "bat avg": "11.53",
+        "100s/50s": "0/2",
+        "top score": "51",
+        "catches/stumpings": "15/4"
+    },
+    "clubs": {
+        "Oxford University": "1884\u20131886"
+    }
+}

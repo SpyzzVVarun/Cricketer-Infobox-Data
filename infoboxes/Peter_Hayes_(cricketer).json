@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Peter James Hayes",
+    "birth_place": "Crowborough, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Married to Catherine Hayes, 2 children Caroline Hayes(1994) and Jack Hayes(1996)",
+    "source": "http://www.espncricinfo.com/ci/content/player/14648.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "343",
+        "bat avg": "10.39",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "4,241",
+        "wickets": "51",
+        "bowl avg": "35.92",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/48",
+        "catches/stumpings": "19/&ndash;"
+    },
+    "List A": {
+        "matches": "12",
+        "runs": "48",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "606",
+        "wickets": "7",
+        "bowl avg": "36.71",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/14",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Suffolk": "1981&ndash;1990",
+        "Cambridge University": "1974&ndash;1977"
+    },
+    "birth_date": "1954-5-20"
+}

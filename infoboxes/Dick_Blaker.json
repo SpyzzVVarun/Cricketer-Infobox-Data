@@ -1,0 +1,32 @@
+{
+    "name": "Dick Blaker",
+    "country": "England",
+    "fullname": "Richard Norman Rowsell Blaker",
+    "birth_place": "Bayswater, London",
+    "death_date": "df=yes",
+    "death_place": "Eltham, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Richard Blaker (grandfather) Barbara Blaker (daughter) Joan Blaker (daughter)",
+    "source": "http://www.espncricinfo.com/ci/content/player/9800.html CricInfo ",
+    "First-class": {
+        "matches": "162",
+        "runs": "5,359",
+        "bat avg": "22.61",
+        "100s/50s": "2/25",
+        "top score": "122",
+        "deliveries": "388",
+        "wickets": "9",
+        "bowl avg": "25.11",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/1",
+        "catches/stumpings": "142/\u2013"
+    },
+    "clubs": {
+        "Kent": "1898\u20131908",
+        "Cambridge University": "1899\u20131902",
+        "RA Bennett's XI": "1901\u20131902"
+    },
+    "birth_date": "1879-10-24"
+}

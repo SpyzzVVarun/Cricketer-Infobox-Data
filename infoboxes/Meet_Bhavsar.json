@@ -1,0 +1,31 @@
+{
+    "name": "Meet Bhavsar",
+    "country": "Kuwait",
+    "birth_place": "Kuwait",
+    "batting": "Left-handed",
+    "role": "Wicketkeeper",
+    "T20Idebutdate": "20 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Maldives",
+    "T20Icap": "1",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Bahrain",
+    "source": "http://www.espncricinfo.com/ci/content/player/1167770.html Cricinfo ",
+    "T20I": {
+        "matches": "21",
+        "runs": "404",
+        "bat avg": "23.76",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/11",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {},
+    "birth_date": "2004-6-23"
+}

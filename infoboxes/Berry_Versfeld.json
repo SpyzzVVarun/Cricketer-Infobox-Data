@@ -1,0 +1,40 @@
+{
+    "name": "Berry Versfeld",
+    "fullname": "Berry John Versfeld",
+    "birth_place": "Ladybrand, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right arm leg Right arm leg break",
+    "source": "https://cricketarchive.com/Archive/Players/14/14801/14801.html CricketArchive ",
+    "First-class": {
+        "matches": "46",
+        "runs": "2,272",
+        "bat avg": "31.44",
+        "100s/50s": "4/10",
+        "deliveries": "222",
+        "wickets": "3",
+        "bowl avg": "41.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/35",
+        "catches/stumpings": "38/&ndash;"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "31",
+        "bat avg": "15.5",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "36",
+        "wickets": "3",
+        "bowl avg": "8.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Natal": "1961&ndash;1970",
+        "South African Universities": "1961&ndash;1965"
+    },
+    "birth_date": "1943-9-26"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Rajinder Hans",
+    "country": "India",
+    "fullname": "Rajinder Singh Hans",
+    "birth_place": "Bombay, Maharashtra, India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/india/content/player/29402.html Cricinfo",
+    "FC": {
+        "matches": "78",
+        "runs": "608",
+        "bat avg": "11.92",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "19,620",
+        "wickets": "340",
+        "bowl avg": "22.13",
+        "fivefor": "27",
+        "tenfor": "5",
+        "best bowling": "9/152",
+        "catches/stumpings": "36/\u2013"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "58",
+        "bat avg": "9.66",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "1266",
+        "wickets": "26",
+        "bowl avg": "29.92",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/15",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Uttar Pradesh": "1976-77 to 1986-87",
+        "Central Zone": "1976-77 to 1984-85"
+    },
+    "birth_date": "1953-3-10"
+}

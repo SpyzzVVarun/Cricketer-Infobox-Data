@@ -1,0 +1,39 @@
+{
+    "name": "Laurence Thursting",
+    "country": "England",
+    "fullname": "Laurence Denis Thursting",
+    "birth_place": "Lambeth, London, England",
+    "death_date": "2001",
+    "death_place": "Leicester, Leicestershire",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "14 May",
+    "debutyear1": "1938",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "8 August",
+    "lastyear1": "1947",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/33/33317/33317.html CricketArchive ",
+    "First-class": {
+        "matches": "29",
+        "runs": "882",
+        "bat avg": "25.20",
+        "100s/50s": "\u2013/4",
+        "top score": "94",
+        "deliveries": "960",
+        "wickets": "13",
+        "bowl avg": "50.76",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/34",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1938\u201347"
+    },
+    "birth_date": "1915-9-9"
+}

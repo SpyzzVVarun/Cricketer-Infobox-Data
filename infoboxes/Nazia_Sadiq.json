@@ -1,0 +1,66 @@
+{
+    "name": "Nazia Sadiq",
+    "female": "true",
+    "fullname": "Nazia Sadiq",
+    "batting": "Right-handed",
+    "role": "Batter; occasional wicket-keeper",
+    "internationalspan": "1997\u20132009",
+    "country": "Pakistan",
+    "onetest": "true",
+    "testdebutdate": "17 April",
+    "testdebutyear": "1998",
+    "testdebutagainst": "Sri Lanka",
+    "testcap": "10",
+    "odidebutdate": "10 December",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Denmark",
+    "odicap": "15",
+    "lastodidate": "26 May",
+    "lastodiyear": "2009",
+    "lastodiagainst": "Ireland",
+    "T20Idebutdate": "25 May",
+    "T20Idebutyear": "2009",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "7",
+    "lastT20Idate": "29 May",
+    "lastT20Iyear": "2009",
+    "lastT20Iagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/17/17351/17351.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WODI": {
+        "matches": "9",
+        "runs": "78",
+        "bat avg": "9.75",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20I": {
+        "matches": "3",
+        "runs": "34",
+        "bat avg": "11.33",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "31",
+        "runs": "218",
+        "bat avg": "8.38",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "13/6"
+    },
+    "clubs": {
+        "Lahore": "2010/11",
+        "Zarai Taraqiati Bank Limited": "2009/10"
+    },
+    "birth_date": "1976-8-7"
+}

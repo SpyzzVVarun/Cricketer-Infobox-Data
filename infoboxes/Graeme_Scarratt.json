@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Graeme Scarratt",
+    "birth_place": "Hartlepool, County Durham, England",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/21179.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Durham": "1968&ndash;1972"
+    },
+    "birth_date": "1945-9-14"
+}

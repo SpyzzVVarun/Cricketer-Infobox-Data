@@ -1,0 +1,50 @@
+{
+    "name": "Wally Hammond",
+    "country": "England",
+    "fullname": "Walter Reginald Hammond",
+    "birth_place": "Dover, Kent, England",
+    "death_date": "1965",
+    "death_place": "Kloof, Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Middle-order batsman",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1927",
+    "testdebutagainst": "South Africa",
+    "testcap": "227",
+    "lasttestdate": "25 March",
+    "lasttestyear": "1947",
+    "lasttestagainst": "New Zealand",
+    "|             columns": "2",
+    "source": "https://cricketarchive.com/Archive/Players/0/458/458.html CricketArchive ",
+    "Test": {
+        "matches": "85",
+        "runs": "7,249",
+        "bat avg": "58.45",
+        "100s/50s": "22/24",
+        "deliveries": "7,969",
+        "wickets": "83",
+        "bowl avg": "37.80",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/36",
+        "catches/stumpings": "110/\u2013"
+    },
+    "First-class": {
+        "matches": "634",
+        "runs": "50,551",
+        "bat avg": "56.10",
+        "100s/50s": "167/185",
+        "deliveries": "51,573",
+        "wickets": "732",
+        "bowl avg": "30.58",
+        "fivefor": "22",
+        "tenfor": "3",
+        "best bowling": "9/23",
+        "catches/stumpings": "820/3"
+    },
+    "clubs": {
+        "Gloucestershire": "1920\u20131946 1951"
+    },
+    "birth_date": "1903-6-19"
+}

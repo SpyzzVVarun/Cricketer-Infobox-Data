@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Gary Raymond Black",
+    "birth_place": "Hammersmith, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9422.html Cricinfo ",
+    "List A": {
+        "matches": "8",
+        "runs": "36",
+        "bat avg": "5.14",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "423",
+        "wickets": "10",
+        "bowl avg": "32.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/83",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1984\u20131993"
+    },
+    "birth_date": "1954-5-11"
+}

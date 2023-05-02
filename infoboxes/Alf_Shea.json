@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Alfred James Shea",
+    "birth_place": "Briton Ferry, Glamorgan, Wales",
+    "death_date": "df=y",
+    "death_place": "Neath, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Dennis Shea (nephew)",
+    "source": "http://www.espncricinfo.com/ci/content/player/20144.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "7.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "246",
+        "wickets": "1",
+        "bowl avg": "171.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/130",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1928"
+    },
+    "birth_date": "1898-11-7"
+}

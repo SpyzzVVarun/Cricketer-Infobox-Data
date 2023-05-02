@@ -1,0 +1,63 @@
+{
+    "name": "Kim Price",
+    "female": "true",
+    "fullname": "Kim Price",
+    "birth_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "internationalspan": "1997\u20132000",
+    "country": "South Africa",
+    "odidebutdate": "5 August",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Ireland",
+    "lastodidate": "18 December",
+    "lastodiyear": "2000",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/5/5615/5615.html CricketArchive ",
+    "WODI": {
+        "matches": "26",
+        "runs": "109",
+        "bat avg": "9.08",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "952",
+        "wickets": "20",
+        "bowl avg": "24.10",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WFC": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "19.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "29",
+        "runs": "137",
+        "bat avg": "9.78",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "1,090",
+        "wickets": "25",
+        "bowl avg": "22.08",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1982/83\u20131997/98"
+    },
+    "birth_date": "1962-12-9"
+}

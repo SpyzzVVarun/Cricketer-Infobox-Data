@@ -1,0 +1,40 @@
+{
+    "name": "William Foord-Kelcey",
+    "country": "England",
+    "fullname": "William Foord-Kelcey",
+    "birth_place": "Smeeth, Kent",
+    "death_date": "1922",
+    "death_place": "Woolwich, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "John Foord-Kelcey (brother) Osbert Mordaunt (nephew)",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1874",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Marylebone Cricket Club (MCC)",
+    "lastdate1": "16  August",
+    "lastyear1": "1883",
+    "lastfor1": "Kent",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/13117.html CricInfo ",
+    "First-class": {
+        "matches": "78",
+        "runs": "1,798",
+        "bat avg": "14.26",
+        "100s/50s": "1/5",
+        "top score": "105",
+        "deliveries": "11,684",
+        "wickets": "272",
+        "bowl avg": "17.75",
+        "fivefor": "18",
+        "tenfor": "6",
+        "best bowling": "8/49",
+        "catches/stumpings": "66/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1874\u20131875",
+        "Kent": "1874\u20131883"
+    },
+    "birth_date": "1854-4-21"
+}

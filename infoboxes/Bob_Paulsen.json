@@ -1,0 +1,42 @@
+{
+    "name": "Bob Paulsen",
+    "country": "Australia",
+    "fullname": "Robert George Paulsen",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg-breaks and Right-arm leg-breaks and googlies",
+    "source": "https://cricketarchive.com/Archive/Players/11/11199/11199.html Cricket Archive",
+    "FC": {
+        "matches": "75",
+        "runs": "1053",
+        "bat avg": "13.16",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "12,991",
+        "wickets": "197",
+        "bowl avg": "36.01",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "8/71",
+        "catches/stumpings": "46/0"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "112",
+        "wickets": "2",
+        "bowl avg": "40.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/39",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Queensland": "1966\u201367 to 1971\u201372",
+        "Western Australia": "1973\u201374 to 1978\u201379"
+    },
+    "birth_date": "1947-10-18"
+}

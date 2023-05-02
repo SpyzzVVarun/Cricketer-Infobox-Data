@@ -1,0 +1,56 @@
+{
+    "name": "Writtick Chatterjee",
+    "fullname": "Writtick Bijoy Chatterjee",
+    "birth_place": "Jamtara, West Bengal, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/699493.html Cricinfo ",
+    "FC": {
+        "matches": "16",
+        "runs": "698",
+        "bat avg": "26.84",
+        "100s/50s": "2/1",
+        "top score": "216",
+        "deliveries": "646",
+        "wickets": "10",
+        "bowl avg": "29.10",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/33",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "293",
+        "bat avg": "18.31",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "630",
+        "wickets": "14",
+        "bowl avg": "37.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/46",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "27",
+        "runs": "262",
+        "bat avg": "21.83",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "402",
+        "wickets": "21",
+        "bowl avg": "19.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Bengal": "2013\u2013present",
+        "Punjab Kings": "2022\u2013present"
+    },
+    "birth_date": "1992-9-28"
+}

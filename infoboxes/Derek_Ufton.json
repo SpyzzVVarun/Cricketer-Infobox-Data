@@ -1,0 +1,29 @@
+{
+    "name": "Derek Ufton",
+    "fullname": "Derek Gilbert Ufton",
+    "birth_place": "Crayford, Kent, England",
+    "death_date": "df=yes",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "23 July",
+    "debutyear1": "1949",
+    "debutfor1": "Kent",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "2 June",
+    "lastyear1": "1962",
+    "lastfor1": "Kent",
+    "lastagainst1": "Warwickshire",
+    "source": "http://www.cricinfo.com/england/content/player/22158.html CricInfo",
+    "First-class": {
+        "matches": "149",
+        "runs": "3,919",
+        "bat avg": "19.99",
+        "100s/50s": "1/10",
+        "catches/stumpings": "270/44"
+    },
+    "clubs": {
+        "Kent": "1949\u20131962"
+    },
+    "birth_date": "1928-05-31"
+}

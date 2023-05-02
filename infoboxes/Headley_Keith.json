@@ -1,0 +1,50 @@
+{
+    "name": "Headley Keith",
+    "fullname": "Headley James Keith",
+    "birth_place": "Dundee, Natal Province",
+    "death_date": "df=y",
+    "death_place": "Pennington, KwaZulu-Natal",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "internationalspan": "1953\u20131957",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "6 February",
+    "testdebutyear": "1953",
+    "lasttestdate": "25 January",
+    "lasttestagainst": "England",
+    "lasttestyear": "1957",
+    "source": "http://www.espncricinfo.com/ci/content/player/45793.html CricInfo",
+    "Tests": {
+        "matches": "8",
+        "runs": "318",
+        "bat avg": "21.19",
+        "100s/50s": "0/2",
+        "top score": "73",
+        "deliveries": "108",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "First-class": {
+        "matches": "74",
+        "runs": "3,203",
+        "bat avg": "30.50",
+        "100s/50s": "8/14",
+        "top score": "193",
+        "deliveries": "7,915",
+        "wickets": "79",
+        "bowl avg": "27.51",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/27",
+        "catches/stumpings": "61/\u2013"
+    },
+    "clubs": {
+        "Natal": "1950/51\u20131957/58"
+    },
+    "birth_date": "1927-10-25"
+}

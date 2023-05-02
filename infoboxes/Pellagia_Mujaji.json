@@ -1,0 +1,53 @@
+{
+    "name": "Pellagia Mujaji",
+    "female": "true",
+    "country": "Zimbabwe",
+    "birth_place": "Mutare, Zimbabwe",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "4",
+    "lastodidate": "7 October",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Ireland",
+    "T20Idebutdate": "17 September",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Uganda",
+    "T20Icap": "21",
+    "lastT20Idate": "23 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Ireland",
+    "source": "http://www.espncricinfo.com/ci/content/player/272026.html Cricinfo ",
+    "WODI": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "8",
+        "runs": "51",
+        "bat avg": "10.20",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Mountaineers": "2020/21\u2013present"
+    },
+    "birth_date": "1991-10-9"
+}

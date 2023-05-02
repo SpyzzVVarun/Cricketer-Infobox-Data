@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Howard Eyre",
+    "birth_place": "Toxteth, Liverpool Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Loos-en-Gohelle, Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12711.html Cricinfo ",
+    "First-class": {
+        "matches": "30",
+        "runs": "1,092",
+        "bat avg": "21.42",
+        "100s/50s": "1/4",
+        "top score": "153",
+        "deliveries": "66",
+        "wickets": "2",
+        "bowl avg": "25.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/9",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1903&ndash;1906",
+        "Marylebone Cricket Club": "1905"
+    }
+}

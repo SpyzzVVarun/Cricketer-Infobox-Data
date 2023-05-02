@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Rowland Brotherhood",
+    "birth_place": "Brinkworth, Wiltshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm underarm Left-arm underarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/10036.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "0.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "33.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/49",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1875"
+    },
+    "birth_date": "1841-11-18"
+}

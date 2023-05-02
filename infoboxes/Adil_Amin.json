@@ -1,0 +1,63 @@
+{
+    "name": "Adil Amin",
+    "birth_place": "Peshawar, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Bowling all-rounder",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/384530.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "FC": {
+        "matches": "54",
+        "runs": "2,602",
+        "bat avg": "35.16",
+        "100s/50s": "2/15",
+        "deliveries": "1,988",
+        "wickets": "19",
+        "bowl avg": "49.42",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/81",
+        "catches/stumpings": "32/-"
+    },
+    "LA": {
+        "matches": "74",
+        "runs": "2,285",
+        "bat avg": "45.70",
+        "100s/50s": "5/13",
+        "top score": "140",
+        "deliveries": "1,404",
+        "wickets": "17",
+        "bowl avg": "73.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "27/-"
+    },
+    "T20": {
+        "matches": "46",
+        "runs": "865",
+        "bat avg": "27.03",
+        "100s/50s": "0/1",
+        "top score": "53*",
+        "deliveries": "534",
+        "wickets": "21",
+        "bowl avg": "30.61",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Khyber Pakhtunkhwa": "2019\u2013present",
+        "Peshawar Zalmi( 77 )": "2020"
+    },
+    "birth_date": "1990-12-13",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{PAK}}",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2010 Dhaka Team"
+    ]
+}

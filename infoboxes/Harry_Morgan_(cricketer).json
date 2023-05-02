@@ -1,0 +1,41 @@
+{
+    "name": "Harry Morgan",
+    "fullname": "Henry Alan Morgan",
+    "birth_place": "Wellington, New Zealand",
+    "family": "Richard Morgan (son)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/ci/content/player/37952.html Cricinfo",
+    "FC": {
+        "matches": "33",
+        "runs": "789",
+        "bat avg": "19.24",
+        "100s/50s": "0/4",
+        "top score": "67",
+        "deliveries": "5684",
+        "wickets": "73",
+        "bowl avg": "26.21",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/42",
+        "catches/stumpings": "20/0"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "252",
+        "bat avg": "25.20",
+        "100s/50s": "0/2",
+        "top score": "66",
+        "deliveries": "522",
+        "wickets": "15",
+        "bowl avg": "25.20",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/48",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Wellington": "1963-64 to 1977-78"
+    },
+    "birth_date": "1938-6-5"
+}

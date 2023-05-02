@@ -1,0 +1,27 @@
+{
+    "name": "Bert Tremlin",
+    "birth_place": "Westerleigh, Gloucestershire, England",
+    "death_date": "1936",
+    "death_place": "Essex, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/21582.html Cricinfo ",
+    "FC": {
+        "matches": "136",
+        "runs": "1843",
+        "bat avg": "13.55",
+        "100s/50s": "0/6",
+        "top score": "61",
+        "deliveries": "22467",
+        "wickets": "467",
+        "bowl avg": "25.82",
+        "fivefor": "23",
+        "tenfor": "4",
+        "best bowling": "9/126",
+        "catches/stumpings": "64/0"
+    },
+    "clubs": {
+        "Essex": "1900\u20131919"
+    },
+    "birth_date": "1876-9-18"
+}

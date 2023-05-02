@@ -1,0 +1,53 @@
+{
+    "name": "Ina Lamason",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1948\u20131954",
+    "fullname": "Ina Mabel Lamason",
+    "honorific_suffix": "country=NZL",
+    "birth_place": "Palmerston North, New Zealand",
+    "death_date": "1994",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "family": "Jack Lamason (husband) ,  Joy Lamason (sister-in-law)",
+    "testdebutdate": "20 March",
+    "testdebutyear": "1948",
+    "testdebutagainst": "Australia",
+    "testcap": "18",
+    "lasttestdate": "24 July",
+    "lasttestyear": "1954",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17282/17282.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "86",
+        "bat avg": "21.50",
+        "100s/50s": "0/0",
+        "deliveries": "222",
+        "wickets": "2",
+        "bowl avg": "68.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/23",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "70",
+        "runs": "2,299",
+        "bat avg": "29.47",
+        "100s/50s": "1/13",
+        "deliveries": "5,427",
+        "wickets": "146",
+        "bowl avg": "15.15",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/9",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1935/36\u20131961/62"
+    },
+    "birth_date": "1911-5-2"
+}

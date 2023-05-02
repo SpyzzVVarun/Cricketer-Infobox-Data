@@ -1,0 +1,40 @@
+{
+    "name": "Antonius Staal",
+    "country": "Netherlands",
+    "fullname": "Antonius J Staal",
+    "birth_place": "The Hague, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Leg-break Leg-break googly",
+    "T20Idebutdate": "3 August",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "UAE",
+    "T20Icap": "45",
+    "lastT20Idate": "24 April",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/470909.html Cricinfo ",
+    "T20I": {
+        "matches": "14",
+        "runs": "127",
+        "bat avg": "15.87",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "15",
+        "runs": "127",
+        "bat avg": "14.11",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1996-3-30"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Abdullah Shafique",
+    "country": "Pakistan",
+    "birth_place": "Sialkot, Punjab, Pakistan",
+    "family": "Arshad Ali (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Top-order batter",
+    "height": "5 ft 10 in",
+    "internationalspan": "2020\u2013present",
+    "testdebutdate": "26 November",
+    "testdebutyear": "2021",
+    "testdebutagainst": "Bangladesh",
+    "testcap": "246",
+    "lasttestdate": "2 January",
+    "lasttestyear": "2023",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "21 August",
+    "odidebutyear": "2022",
+    "odidebutagainst": "Netherlands",
+    "odicap": "238",
+    "lastodidate": "29 April",
+    "lastodiyear": "2023",
+    "lastodiagainst": "New Zealand",
+    "T20Idebutdate": "10 November",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "Zimbabwe",
+    "T20Icap": "89",
+    "lastT20Idate": "27 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Afghanistan",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/922941.html Cricinfo ",
+    "Test": {
+        "matches": "12",
+        "runs": "992",
+        "bat avg": "47.23",
+        "100s/50s": "3/4",
+        "catches/stumpings": "9/\u2013"
+    },
+    "T20I": {
+        "matches": "6",
+        "runs": "64",
+        "bat avg": "12.80",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Central Punjab( 57 )": "2019/20\u20132020/21",
+        "Balochistan( 57 )": "2021/22-present",
+        "Lahore Qalandars( 57 )": "2022-present foremly 99"
+    },
+    "birth_date": "1999-11-20"
+}

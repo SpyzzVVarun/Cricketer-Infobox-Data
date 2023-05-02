@@ -1,0 +1,40 @@
+{
+    "country": "Ireland",
+    "fullname": "Hugh Milling",
+    "birth_place": "Carrickfergus, Northern Ireland",
+    "death_date": "df=yes",
+    "death_place": "Austria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24460.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "174",
+        "wickets": "6",
+        "bowl avg": "16.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/81",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "174",
+        "wickets": "7",
+        "bowl avg": "19.57",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/63",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1986&ndash;1988"
+    }
+}

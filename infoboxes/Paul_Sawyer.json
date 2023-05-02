@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Paul Richard Sawyer",
+    "birth_place": "High Wycombe, Buckinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/20066.html Cricinfo ",
+    "List A": {
+        "matches": "10",
+        "runs": "196",
+        "bat avg": "24.50",
+        "100s/50s": "&ndash;/1",
+        "top score": "50",
+        "deliveries": "42",
+        "wickets": "3",
+        "bowl avg": "19.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/55",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1997&ndash;present"
+    },
+    "birth_date": "1979-9-26"
+}

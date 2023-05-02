@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Barry Stewart",
+    "birth_place": "North Shields, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "http://www.espncricinfo.com/ci/content/player/20484.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "58.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/58",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Northumberland": "1999&ndash;2003"
+    },
+    "birth_date": "1980-12-3"
+}

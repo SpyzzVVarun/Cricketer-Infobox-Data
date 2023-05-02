@@ -1,0 +1,60 @@
+{
+    "name": "Tirumalasetti Suman",
+    "country": "India",
+    "fullname": "Tirumalasetti Suman",
+    "birth_place": "Hyderabad, Telangana State, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/34281.html Cricinfo ",
+    "FC": {
+        "matches": "38",
+        "runs": "1,668",
+        "bat avg": "28.27",
+        "100s/50s": "3/7",
+        "top score": "160",
+        "deliveries": "937",
+        "wickets": "9",
+        "bowl avg": "54.22",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/63",
+        "catches/stumpings": "18/0"
+    },
+    "LA": {
+        "matches": "47",
+        "runs": "1,159",
+        "bat avg": "25.19",
+        "100s/50s": "3/4",
+        "top score": "136",
+        "deliveries": "607",
+        "wickets": "14",
+        "bowl avg": "40.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/31",
+        "catches/stumpings": "13/0"
+    },
+    "T20": {
+        "matches": "75",
+        "runs": "1,546",
+        "bat avg": "24.53",
+        "100s/50s": "1/5",
+        "top score": "100",
+        "deliveries": "426",
+        "wickets": "17",
+        "bowl avg": "33.11",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "21/0"
+    },
+    "clubs": {
+        "Hyderabad": "2002\u2013present",
+        "Deccan Chargers": "2009\u20132010",
+        "Mumbai Indians": "2011\u20132012",
+        "Pune Warriors": "2013",
+        "Sunrisers Hyderabad": "2016"
+    },
+    "birth_date": "1983-12-15"
+}

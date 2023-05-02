@@ -1,0 +1,29 @@
+{
+    "name": "Rex Bennett",
+    "fullname": "Rex Leland Bennett",
+    "birth_place": "Snowtown, South Australia, Australia",
+    "death_date": "1963",
+    "death_place": "Sydney, Australia",
+    "batting": "Right-hand bat",
+    "role": "Wicket keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/4129.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "163",
+        "bat avg": "12.53",
+        "100s/50s": "-/-",
+        "top score": "38",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "9/7"
+    },
+    "clubs": {
+        "South Australia": "1922/23",
+        "Tasmania": "1924/25-1925/26"
+    },
+    "birth_date": "1896-6-25"
+}

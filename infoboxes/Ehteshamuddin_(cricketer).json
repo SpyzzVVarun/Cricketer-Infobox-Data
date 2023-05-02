@@ -1,0 +1,42 @@
+{
+    "name": "Ehteshamuddin",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Pakistan",
+    "testdebutagainst": "India",
+    "testdebutdate": "21 November",
+    "testdebutyear": "1979",
+    "lasttestdate": "26 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1982",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/40067.html CricInfo",
+    "Test": {
+        "matches": "5",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "940",
+        "wickets": "16",
+        "bowl avg": "23.43",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/47",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "134",
+        "runs": "1,078",
+        "bat avg": "11.46",
+        "100s/50s": "0/2",
+        "top score": "83",
+        "deliveries": "10,470",
+        "wickets": "507",
+        "bowl avg": "20.65",
+        "fivefor": "37",
+        "tenfor": "8",
+        "best bowling": "9/124",
+        "catches/stumpings": "39/\u2013"
+    },
+    "clubs": {}
+}

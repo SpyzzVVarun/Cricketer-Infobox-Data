@@ -1,0 +1,48 @@
+{
+    "name": "George Pope",
+    "country": "England",
+    "fullname": "George Henry Pope",
+    "height": "6ft 4in",
+    "birth_place": "Tibshelf, Derbyshire, England",
+    "death_date": "1993",
+    "death_place": "Chesterfield, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "family": "Alf Pope (brother)",
+    "onetest": "true",
+    "testdebutdate": "21 June",
+    "testdebutyear": "1947",
+    "testdebutagainst": "South Africa",
+    "source": "https://www.espncricinfo.com/england/content/player/18572.html CricInfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "218",
+        "wickets": "1",
+        "bowl avg": "85.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/49",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "205",
+        "runs": "7,518",
+        "bat avg": "28.05",
+        "100s/50s": "8/43",
+        "deliveries": "30,781",
+        "wickets": "677",
+        "bowl avg": "19.92",
+        "fivefor": "40",
+        "tenfor": "7",
+        "best bowling": "8/38",
+        "catches/stumpings": "157/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1933\u20131948"
+    },
+    "birth_date": "1911-1-27"
+}

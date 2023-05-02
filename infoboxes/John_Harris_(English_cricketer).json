@@ -1,0 +1,39 @@
+{
+    "name": "John Harris",
+    "country": "England",
+    "fullname": "John Henry Harris",
+    "birth_place": "Taunton, Somerset, England",
+    "death_date": "2019",
+    "death_place": "Devon, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "24 May",
+    "debutyear1": "1952",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "17 July",
+    "lastyear1": "1959",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3604/3604.html CricketArchive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "154",
+        "bat avg": "11.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "41",
+        "deliveries": "1304",
+        "wickets": "19",
+        "bowl avg": "32.05",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/29",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1952&ndash;59"
+    },
+    "birth_date": "1936-2-13"
+}

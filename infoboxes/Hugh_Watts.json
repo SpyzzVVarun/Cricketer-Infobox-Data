@@ -1,0 +1,41 @@
+{
+    "name": "Hugh Watts",
+    "country": "England",
+    "fullname": "Hugh Edmund Watts",
+    "nickname": "The Abbot",
+    "birth_place": "Stratton-on-the-Fosse, Somerset, England",
+    "death_date": "1993",
+    "death_place": "Trebetherick, Cornwall, England",
+    "batting": "Left-handed",
+    "bowling": "Leg-break",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "19 August",
+    "debutyear1": "1939",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "29 August",
+    "lastyear1": "1952",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Leicestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3878/3878.html CricketArchive ",
+    "First-class": {
+        "matches": "72",
+        "runs": "2,958",
+        "bat avg": "25.50",
+        "100s/50s": "1/19",
+        "top score": "110",
+        "deliveries": "126",
+        "wickets": "1",
+        "bowl avg": "117.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/15",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1939\u20131952",
+        "Cambridge University": "1947"
+    },
+    "birth_date": "1922-3-4"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Leo O'Connor",
+    "country": "Australia",
+    "fullname": "Leo Patrick Devereaux O'Connor",
+    "death_date": "df=yes",
+    "batting": "Right-handed",
+    "family": "Brian O'Connor (son)",
+    "type1": "FC",
+    "debutdate1": "31 January",
+    "debutyear1": "1913",
+    "debutfor1": "Queensland",
+    "debutagainst1": "New South Wales",
+    "lastdate1": "17 January",
+    "lastyear1": "1930",
+    "lastfor1": "Queensland",
+    "lastagainst1": "South Australia",
+    "source": "https://cricketarchive.com/Archive/Players/8/8304/8304.html CricketArchive ",
+    "First-class": {
+        "matches": "46",
+        "runs": "3,311",
+        "bat avg": "39.89",
+        "100s/50s": "9/13",
+        "top score": "196",
+        "catches/stumpings": "82/21"
+    },
+    "clubs": {
+        "Queensland Bulls": "1912/13\u20131929/30"
+    },
+    "birth_date": "1890-4-11"
+}

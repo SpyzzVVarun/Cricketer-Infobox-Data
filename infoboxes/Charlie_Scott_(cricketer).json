@@ -1,0 +1,23 @@
+{
+    "name": "Charlie Scott",
+    "country": "England",
+    "fullname": "Charles Fergus Buchan Scott",
+    "birth_place": "Hemel Hempstead, Hertfordshire, England",
+    "family": "George Scott (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/881909.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "40",
+        "bat avg": "13.33",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Durham MCCU": "2019",
+        "Hertfordshire": "2019"
+    },
+    "birth_date": "1999-10-13"
+}

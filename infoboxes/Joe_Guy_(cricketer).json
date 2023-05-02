@@ -1,0 +1,21 @@
+{
+    "name": "Joe Guy",
+    "country": "England",
+    "fullname": "Joseph Guy",
+    "birth_place": "Nottingham, England",
+    "death_date": "15 April 1873 (aged 59)",
+    "death_place": "Nottingham, England",
+    "heightft": "5",
+    "heightinch": "9",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/13823.html Cricinfo ",
+    "First-class": {
+        "matches": "148",
+        "runs": "3,395",
+        "bat avg": "13.41",
+        "100s/50s": "0/0",
+        "top score": "98",
+        "catches/stumpings": "102/14"
+    },
+    "clubs": {}
+}

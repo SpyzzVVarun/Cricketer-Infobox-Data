@@ -1,0 +1,26 @@
+{
+    "name": "Felix Kelly",
+    "fullname": "Felix Vincent Kelly",
+    "birth_place": "Alma Plains, South Australia, Australia",
+    "death_date": "1945",
+    "death_place": "Wellington, New Zealand",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37547.html Cricinfo",
+    "First-class": {
+        "matches": "8",
+        "runs": "31",
+        "bat avg": "4.42",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "992",
+        "wickets": "32",
+        "bowl avg": "10.59",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/30",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Auckland": "1889-90 to 1897-98"
+    },
+    "birth_date": "1866-9-26"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "George Anthony",
+    "country": "England",
+    "fullname": "George Anthony",
+    "birth_place": "Arnold, Nottinghamshire, England",
+    "death_date": "1907",
+    "death_place": "Arnold, Nottinghamshire, England",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Henry Anthony (brother) Alfred Anthony (uncle)",
+    "type1": "First-class",
+    "debutdate1": "2 August",
+    "debutyear1": "1900",
+    "debutfor1": "Nottinghamshire",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "12 June",
+    "lastyear1": "1905",
+    "lastfor1": "Nottinghamshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/27/27496/27496.html CricketArchive  ",
+    "FC": {
+        "matches": "85",
+        "runs": "1722",
+        "bat avg": "15.23",
+        "100s/50s": "0/7",
+        "top score": "89",
+        "deliveries": "5594",
+        "wickets": "82",
+        "bowl avg": "31.93",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/72",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1900\u20131905"
+    },
+    "birth_date": "1875-6-25"
+}

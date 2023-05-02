@@ -1,0 +1,23 @@
+{
+    "name": "Harold Webster",
+    "country": "Australia",
+    "fullname": "Harold Wynne Webster",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "1949",
+    "death_place": "Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/8328.html Cricinfo ",
+    "FC": {
+        "matches": "19",
+        "runs": "346",
+        "bat avg": "14.41",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "21/4"
+    },
+    "clubs": {
+        "South Australia": "1910-11 to 1911-12"
+    },
+    "birth_date": "1889-2-17"
+}

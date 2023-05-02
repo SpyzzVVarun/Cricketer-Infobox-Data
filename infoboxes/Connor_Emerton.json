@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Connor John Emerton",
+    "birth_place": "Hillingdon, Middlesex, England",
+    "nickname": "Collin Frissell",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/988593.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "206",
+        "wickets": "2",
+        "bowl avg": "91.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/100",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge MCCU": "2016",
+        "Cambridge University": "2016",
+        "Hertfordshire": "2016"
+    },
+    "birth_date": "1994-6-5"
+}

@@ -1,0 +1,40 @@
+{
+    "country": "Netherlands",
+    "fullname": "Adrianus Petrus van Troost",
+    "birth_place": "Schiedam, South Holland, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/3/3868/3868.html CricketArchive ",
+    "FC": {
+        "matches": "71",
+        "runs": "461",
+        "bat avg": "7.94",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "35",
+        "deliveries": "8,451",
+        "wickets": "146",
+        "bowl avg": "38.45",
+        "fivefor": "4",
+        "tenfor": "&ndash;",
+        "best bowling": "6/48",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "LA": {
+        "matches": "31",
+        "runs": "75",
+        "bat avg": "8.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1,321",
+        "wickets": "36",
+        "bowl avg": "30.77",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/22",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Griqualand West": "1994/95",
+        "Somerset": "1991&ndash;1998"
+    },
+    "birth_date": "1972-10-2"
+}

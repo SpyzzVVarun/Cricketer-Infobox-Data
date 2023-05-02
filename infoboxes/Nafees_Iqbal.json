@@ -1,0 +1,47 @@
+{
+    "name": "Nafees Iqbal",
+    "country": "Bangladesh",
+    "fullname": "Mohammad Nafees Iqbal Khan",
+    "birth_place": "Chittagong, Bangladesh",
+    "family": "Tamim Iqbal (brother)",
+    "role": "Batsman",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "internationalspan": "2003\u20132006",
+    "testdebutdate": "19 October",
+    "testdebutyear": "2004",
+    "testdebutagainst": "New Zealand",
+    "testcap": "38",
+    "lasttestdate": "8 March",
+    "lasttestyear": "2006",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "7 November",
+    "odidebutyear": "2003",
+    "odidebutagainst": "England",
+    "odicap": "70",
+    "lastodidate": "18 June",
+    "lastodiyear": "2005",
+    "lastodiagainst": "Australia",
+    "odishirt": "95",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/56064.html CricInfo ",
+    "Test": {
+        "matches": "11",
+        "runs": "518",
+        "bat avg": "23.54",
+        "100s/50s": "1/2",
+        "top score": "121",
+        "catches/stumpings": "2/\u2013"
+    },
+    "ODI": {
+        "matches": "16",
+        "runs": "309",
+        "bat avg": "19.31",
+        "100s/50s": "0/2",
+        "top score": "58",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Khelaghar Samaj Kallyan Samity": ""
+    },
+    "birth_date": "1985-01-31"
+}

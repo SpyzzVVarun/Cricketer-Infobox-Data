@@ -1,0 +1,42 @@
+{
+    "name": "Phoebe Turner",
+    "female": "true",
+    "fullname": "Phoebe Elisabeth Turner",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1860/1860482/1860482.html CricketArchive",
+    "WLA": {
+        "matches": "4",
+        "runs": "20",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "9",
+        "runs": "95",
+        "bat avg": "15.83",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2020\u2013present",
+        "Northern Diamonds": "2022\u2013present"
+    },
+    "birth_date": "2003-8-8"
+}

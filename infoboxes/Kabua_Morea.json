@@ -1,0 +1,31 @@
+{
+    "name": "Kabua Morea",
+    "country": "Papua New Guinea",
+    "fullname": "Kabua Vagi Morea",
+    "odidebutdate": "10 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Nepal",
+    "odicap": "26",
+    "lastodidate": "28 February",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "T20Idebutdate": "8 October",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Scotland",
+    "T20Icap": "25",
+    "lastT20Idate": "17 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "USA",
+    "source": "http://www.espncricinfo.com/ci/content/player/524255.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1993-9-30",
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2015 Port Moresby 20 over cricket"
+    ]
+}

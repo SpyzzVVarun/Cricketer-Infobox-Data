@@ -1,0 +1,28 @@
+{
+    "name": "Ian Shield",
+    "country": "England",
+    "fullname": "Ian Noel Ridley Shield",
+    "birth_place": "Ayot St Lawrence, Hertfordshire, England",
+    "death_date": "2005",
+    "death_place": "Petersfield, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/20169.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "16",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "528",
+        "wickets": "4",
+        "bowl avg": "68.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/91",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1939"
+    }
+}

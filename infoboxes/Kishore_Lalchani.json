@@ -1,0 +1,23 @@
+{
+    "country": "Kenya",
+    "fullname": "Kishore Lalchani",
+    "birth_place": "Uganda Protectorate",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/23989.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "116",
+        "wickets": "3",
+        "bowl avg": "15.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/45",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

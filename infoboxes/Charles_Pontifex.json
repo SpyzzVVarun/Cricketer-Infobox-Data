@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Pontifex",
+    "birth_place": "London, England",
+    "death_date": "1912",
+    "death_place": "South Kensington, London, England",
+    "family": "John Pontifex (father), Sydney Pontifex (uncle)",
+    "batting": "Unknown",
+    "bowling": "Left-arm roundarm Left-arm roundarm slow-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19218.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "245",
+        "bat avg": "9.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "308",
+        "wickets": "48",
+        "bowl avg": "20.50",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/?",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1851&ndash;1853"
+    }
+}

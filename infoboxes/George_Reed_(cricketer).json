@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "George Henry Reed",
+    "birth_place": "St Fagans, Cardiff, Wales",
+    "death_date": "1988",
+    "death_place": "Cardiff, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19898.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "65",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "4,234",
+        "wickets": "62",
+        "bowl avg": "31.30",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/30",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1934&ndash;1938"
+    },
+    "birth_date": "1906-8-8"
+}

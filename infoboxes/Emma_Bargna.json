@@ -1,0 +1,37 @@
+{
+    "name": "Emma Bargna",
+    "birth_place": "Munich",
+    "female": "true",
+    "fullname": "Emma Catherine Bargna",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm spin",
+    "role": "Bowler",
+    "country": "Germany",
+    "internationalspan": "2019\u2013present",
+    "T20Idebutdate": "26 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Scotland",
+    "T20Icap": "1",
+    "lastT20Idate": "26 August",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Ireland",
+    "source": "https://www.espncricinfo.com/ci/content/player/1190978.html Cricinfo  ",
+    "WT20I": {
+        "matches": "16",
+        "runs": "1",
+        "bat avg": "1.0",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "292",
+        "wickets": "15",
+        "bowl avg": "16.73",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "5/9",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Munich": ""
+    },
+    "birth_date": "2004-11-24"
+}

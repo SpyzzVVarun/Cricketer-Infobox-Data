@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Oliver Gordon Battcock",
+    "birth_place": "Slough, Buckinghamshire, England",
+    "death_date": "1970",
+    "death_place": "Southwark, London, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9608.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "deliveries": "232",
+        "wickets": "2",
+        "bowl avg": "51.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/10",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1938\u20131939",
+        "Buckinghamshire": "1925\u20131951"
+    },
+    "birth_date": "1903-9-16"
+}

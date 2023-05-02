@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Norman Doncaster Noble",
+    "birth_place": "Lucknow, North-Western Provinces, British India",
+    "death_date": "1955",
+    "death_place": "Hartlip, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/norman-noble-25314 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "53",
+        "bat avg": "26.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1922"
+    }
+}

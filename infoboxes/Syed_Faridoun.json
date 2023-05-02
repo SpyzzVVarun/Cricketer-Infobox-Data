@@ -1,0 +1,25 @@
+{
+    "name": "Syed Faridoun",
+    "birth_place": "Lahore, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm chinaman",
+    "source": "http://www.espncricinfo.com/ci/content/player/1291729.html Cricinfo ",
+    "T20": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Melbourne Stars": "2021/22",
+        "Lahore Qalanders": "2022"
+    },
+    "birth_date": "2001-5-15"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Randika Galhenage",
+    "female": "yes",
+    "country": "Sri Lanka",
+    "fullname": "Galhenage Randika Chandimali Samanthi",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "23 January",
+    "odidebutyear": "2002",
+    "odidebutagainst": "Pakistan",
+    "odicap": "25",
+    "lastodidate": "18 December",
+    "lastodiyear": "2006",
+    "lastodiagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/35/35893/35893.html CricketArchive ",
+    "WODI": {
+        "matches": "15",
+        "runs": "117",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LO": {
+        "matches": "20",
+        "runs": "150",
+        "bat avg": "9.37",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {
+        "Colts Cricket Club": "2000&ndash;2003, 2012"
+    },
+    "birth_date": "1978-08-14"
+}

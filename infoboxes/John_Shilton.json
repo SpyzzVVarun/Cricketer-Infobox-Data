@@ -1,0 +1,39 @@
+{
+    "name": "John Shilton",
+    "country": "England",
+    "fullname": "John Edward Shilton",
+    "birth_place": "Horbury, Yorkshire, England",
+    "death_date": "1899",
+    "death_place": "Sedbergh, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox spin Left-arm Left-arm orthodox spin Left-arm medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "2 June",
+    "debutyear1": "1884",
+    "debutfor1": "North",
+    "debutagainst1": "South",
+    "lastdate1": "29 June",
+    "lastyear1": "1895",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32733/32733.html CricketArchive ",
+    "First-class": {
+        "matches": "24",
+        "runs": "203",
+        "bat avg": "9.22",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "3,863",
+        "wickets": "71",
+        "bowl avg": "22.97",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/75",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1894\u20131895"
+    },
+    "birth_date": "1861-10-2"
+}

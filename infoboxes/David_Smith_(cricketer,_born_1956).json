@@ -1,0 +1,26 @@
+{
+    "name": "David Smith",
+    "country": "England",
+    "fullname": "David Mark Smith",
+    "birth_place": "Balham, London, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/20235.html  CricInfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "80",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1956-1-9"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Jason Patraj",
+    "country": "Canada",
+    "fullname": "Jason Patraj",
+    "birth_place": "Toronto, Ontario, Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Bowler",
+    "odidebutdate": "18 October",
+    "odidebutyear": "2007",
+    "odidebutagainst": "Kenya",
+    "odicap": "52",
+    "lastodidate": "20 October",
+    "lastodiyear": "2007",
+    "lastodiagainst": "Kenya",
+    "source": "https://cricketarchive.com/Archive/Players/68/68284/68284.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "90",
+        "wickets": "2",
+        "bowl avg": "38.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/27",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1981-7-26"
+}

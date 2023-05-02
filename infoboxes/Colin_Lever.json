@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Colin Lever",
+    "birth_place": "Todmorden, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Peter Lever (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16559.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "78",
+        "wickets": "2",
+        "bowl avg": "11.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/5",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "69",
+        "bat avg": "11.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "20",
+        "deliveries": "468",
+        "wickets": "7",
+        "bowl avg": "43.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/19",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1965",
+        "Buckinghamshire": "1962&ndash;1978"
+    },
+    "birth_date": "1939-8-4"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Gurman Randhawa",
+    "country": "England",
+    "fullname": "Gurman Singh Randhawa",
+    "birth_place": "Huddersfield, West Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "27 April",
+    "debutyear1": "2011",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Durham MCCU",
+    "lastdate1": "26 June",
+    "lastyear1": "2016",
+    "lastfor1": "Durham",
+    "lastagainst1": "Sri Lanka A",
+    "source": "http://www.espncricinfo.com/ci/content/player/416497.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "294",
+        "wickets": "3",
+        "bowl avg": "49.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/54",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Yorkshire( 25 )": "2008\u20132013",
+        "Shropshire": "2014\u20132015",
+        "Durham": "2016",
+        "Northumberland": "2016"
+    },
+    "birth_date": "1992-1-25"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Tim Roberts",
+    "country": "England",
+    "fullname": "Timothy William Roberts",
+    "birth_place": "Kettering, Northamptonshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "family": "Andrew Roberts (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/10/10741/10741.html CricketArchive ",
+    "FC": {
+        "matches": "32",
+        "runs": "1,235",
+        "bat avg": "25.20",
+        "100s/50s": "0/9",
+        "top score": "89",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "20.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "21/\u2013"
+    },
+    "LA": {
+        "matches": "46",
+        "runs": "1,129",
+        "bat avg": "26.25",
+        "100s/50s": "2/5",
+        "top score": "131",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "167",
+        "bat avg": "18.55",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2001\u20132002",
+        "Northamptonshire": "2003\u20132005"
+    },
+    "birth_date": "1978-3-4"
+}

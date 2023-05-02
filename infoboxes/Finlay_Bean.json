@@ -1,0 +1,38 @@
+{
+    "name": "Finlay Bean",
+    "fullname": "Finlay Joseph Bean",
+    "birth_place": "Harrogate, North Yorkshire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "5 September",
+    "debutyear1": "2022",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Lancashire",
+    "type2": "LA",
+    "debutdate2": "19 August",
+    "debutyear2": "2022",
+    "debutfor2": "Yorkshire",
+    "debutagainst2": "Kent",
+    "source": "https://www.espncricinfo.com/player/finlay-bean-1182629 ESPNcricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "138",
+        "bat avg": "23.00",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "74",
+        "bat avg": "24.66",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Yorkshire( 33 )": "2022\u2013present"
+    },
+    "birth_date": "2002-4-16"
+}

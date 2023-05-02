@@ -1,0 +1,31 @@
+{
+    "country": "India",
+    "fullname": "Raj Singh Dungarpur",
+    "birth_place": "Dungarpur, Rajasthan, India",
+    "death_date": "2009",
+    "death_place": "Mumbai, Maharashtra, India",
+    "height": "5",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/india/content/player/33488.html Cricinfo ",
+    "First-class": {
+        "matches": "86",
+        "runs": "1292",
+        "bat avg": "15.20",
+        "100s/50s": "0/0",
+        "top score": "44 not out",
+        "deliveries": "10489",
+        "wickets": "206",
+        "bowl avg": "28.84",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/88",
+        "catches/stumpings": "59/0"
+    },
+    "clubs": {
+        "Madhya Bharat": "1955\u201356",
+        "Rajasthan": "1956\u201357 to 1970\u201371",
+        "Central Zone": "1960\u201361 to 1967\u201368"
+    },
+    "birth_date": "1935-12-19"
+}

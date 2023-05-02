@@ -1,0 +1,54 @@
+{
+    "name": "Robin Martin-Jenkins",
+    "country": "England",
+    "fullname": "Robin Simon Christopher Martin-Jenkins",
+    "birth_place": "Guildford, Surrey, England",
+    "heightft": "6",
+    "heightinch": "5",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "http://content-usa.cricinfo.com/england/content/player/17946.html ",
+    "FC": {
+        "matches": "162",
+        "runs": "6520",
+        "bat avg": "31.04",
+        "100s/50s": "3/35",
+        "deliveries": "21886",
+        "wickets": "384",
+        "bowl avg": "32.83",
+        "fivefor": "6",
+        "tenfor": "\u2013",
+        "best bowling": "7/51",
+        "catches/stumpings": "46/\u2013"
+    },
+    "LA": {
+        "matches": "208",
+        "runs": "1865",
+        "bat avg": "15.04",
+        "100s/50s": "\u2013/3",
+        "deliveries": "9104",
+        "wickets": "219",
+        "bowl avg": "29.49",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/22",
+        "catches/stumpings": "43/\u2013"
+    },
+    "T20": {
+        "matches": "31",
+        "runs": "205",
+        "bat avg": "14.64",
+        "100s/50s": "\u2013/1",
+        "deliveries": "625",
+        "wickets": "24",
+        "bowl avg": "32.54",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/20",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1994\u20132010"
+    },
+    "birth_date": "1975-10-28"
+}

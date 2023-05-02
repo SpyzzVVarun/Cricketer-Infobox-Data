@@ -1,0 +1,37 @@
+{
+    "name": "Angus Dunlop",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/4/4332/4332.html CricketArchive",
+    "First-class": {
+        "matches": "8",
+        "runs": "603",
+        "bat avg": "43.07",
+        "100s/50s": "2/4",
+        "top score": "150",
+        "deliveries": "240",
+        "wickets": "2",
+        "bowl avg": "71.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "25",
+        "runs": "418",
+        "bat avg": "22.00",
+        "100s/50s": "0/3",
+        "deliveries": "72",
+        "wickets": "3",
+        "bowl avg": "24.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/45",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "17 March 1967"
+}

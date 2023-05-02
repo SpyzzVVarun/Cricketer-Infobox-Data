@@ -1,0 +1,29 @@
+{
+    "name": "Bob Crane",
+    "country": "Australia",
+    "fullname": "Frederick Robert Crane",
+    "birth_place": "Mullumbimby, New South Wales, Australia",
+    "death_date": "2013",
+    "death_place": "Brisbane, Queensland, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/australia/content/player/4795.html Cricinfo",
+    "First-class": {
+        "matches": "23",
+        "runs": "995",
+        "bat avg": "24.26",
+        "100s/50s": "0/7",
+        "top score": "98",
+        "deliveries": "2856",
+        "wickets": "32",
+        "bowl avg": "40.12",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/42",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1965-66 to 1967-68"
+    },
+    "birth_date": "1942-7-10"
+}

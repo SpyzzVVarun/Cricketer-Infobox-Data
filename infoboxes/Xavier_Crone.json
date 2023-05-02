@@ -1,0 +1,54 @@
+{
+    "name": "Xavier Crone",
+    "fullname": "Xavier Alexander Crone",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/1062338.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "top score": "\u2013",
+        "deliveries": "126",
+        "wickets": "4",
+        "bowl avg": "25.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "0/0",
+        "deliveries": "282",
+        "wickets": "8",
+        "bowl avg": "43.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/60",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria( 26 )": "2017\u2013present",
+        "Melbourne Stars": "2022\u2013present"
+    },
+    "birth_date": "1997-12-19"
+}

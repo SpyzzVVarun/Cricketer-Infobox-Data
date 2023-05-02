@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Archibald Richard Charles Southby",
+    "birth_place": "Devonport, Devon, England",
+    "death_date": "df=y",
+    "death_place": "Ashford, Kent, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/20515.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "158",
+        "bat avg": "13.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Madras": "1935/36&ndash;1936/37",
+        "Europeans": "1935/36&ndash;1936/37"
+    }
+}

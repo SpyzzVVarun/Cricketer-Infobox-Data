@@ -1,0 +1,38 @@
+{
+    "name": "Michael Guptill-Bunce",
+    "birth_place": "Auckland, New Zealand",
+    "role": "Wicket-keeper, opening batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/330220.html Cricinfo ",
+    "LA": {
+        "matches": "11",
+        "runs": "253",
+        "bat avg": "23.00",
+        "100s/50s": "0/2",
+        "top score": "73",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "FC": {
+        "matches": "38",
+        "runs": "290",
+        "bat avg": "32.71",
+        "100s/50s": "3/15",
+        "top score": "189",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Auckland": "2016-present"
+    },
+    "birth_date": "1989-4-7"
+}

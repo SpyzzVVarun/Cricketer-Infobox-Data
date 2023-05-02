@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Arthur Stanley Teape",
+    "birth_place": "Blackheath, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Hampstead, Middlesex, England",
+    "family": "Charles Teape (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/21752.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "111",
+        "bat avg": "10.09",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "1,511",
+        "wickets": "54",
+        "bowl avg": "11.26",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/19",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1863&ndash;1866"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Wales",
+    "fullname": "Howel Gwyn Moore-Gwyn",
+    "birth_place": "Dyffryn Clydach, Glamorgan,, Wales",
+    "death_date": "df=y",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17208.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "91",
+        "bat avg": "30.33",
+        "100s/50s": "\u2013/1",
+        "top score": "58",
+        "deliveries": "144",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1903&ndash;1912"
+    }
+}

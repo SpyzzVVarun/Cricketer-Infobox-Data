@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Richard William Gordon Lewis Mitchell",
+    "birth_place": "British Grenada",
+    "death_date": "df=yes",
+    "death_place": "Port of Spain, Trinidad and Tobago",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "source": "http://www.espncricinfo.com/england/content/player/52575.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "58",
+        "bat avg": "29.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1935"
+    }
+}

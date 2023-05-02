@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Thomas Masters Usborne",
+    "birth_place": "Surbiton, Surrey, England",
+    "death_date": "1952",
+    "death_place": "Chilham, Kent, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/thomas-usborne-35594 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "109",
+        "bat avg": "13.62",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "4/3"
+    },
+    "clubs": {
+        "Europeans": "1892/93\u20131899/1900",
+        "Bombay": "1892/93"
+    }
+}

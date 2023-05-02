@@ -1,0 +1,31 @@
+{
+    "name": "Herbert Studd",
+    "country": "England",
+    "fullname": "Herbert William Studd",
+    "birth_place": "Tedworth House, Tidworth, Wiltshire, England",
+    "death_date": "1947",
+    "death_place": "Bayswater, London, England",
+    "batting": "Right-handed",
+    "family": "Arthur Studd (brother), Charles Studd (brother), George Studd (brother), Reginald Studd (brother), Kynaston Studd (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/20400.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "352",
+        "bat avg": "27.07",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "deliveries": "95",
+        "wickets": "1",
+        "bowl avg": "71.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1898",
+        "MCC": "1890&ndash;1892",
+        "Middlesex": "1890"
+    },
+    "birth_date": "1870-12-26"
+}

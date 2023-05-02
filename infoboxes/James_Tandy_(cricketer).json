@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "James Martin Tandy",
+    "birth_place": "Wolverhampton, Staffordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/21648.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Worcestershire Cricket Board": "2000-2001"
+    },
+    "birth_date": "1981-1-16"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Mark Higgs",
+    "country": "Australia",
+    "fullname": "Mark Anthony Higgs",
+    "birth_place": "Queanbeyan, New South Wales",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm wrist-spin Slow left-arm Slow left-arm wrist-spin Slow left-arm orthodox",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/6/6405/6405.html CricketArchive ",
+    "FC": {
+        "matches": "38",
+        "runs": "1,915",
+        "bat avg": "32.45",
+        "100s/50s": "3/9",
+        "deliveries": "3,147",
+        "wickets": "31",
+        "bowl avg": "56.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/25",
+        "catches/stumpings": "21/\u2013"
+    },
+    "LA": {
+        "matches": "65",
+        "runs": "1328",
+        "bat avg": "24.14",
+        "100s/50s": "0/5",
+        "top score": "77",
+        "deliveries": "1,232",
+        "wickets": "32",
+        "bowl avg": "35.34",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/15",
+        "catches/stumpings": "25/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Australian Capital Territory": "1997-1998",
+        "New South Wales": "1999-2002",
+        "South Australia": "2002-2005",
+        "Lincolnshire": "2003",
+        "Hobart Hurricanes": "2013"
+    },
+    "birth_date": "1976-6-30"
+}

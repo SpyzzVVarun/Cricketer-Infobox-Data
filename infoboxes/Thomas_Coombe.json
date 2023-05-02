@@ -1,0 +1,23 @@
+{
+    "name": "Sir Thomas Coombe",
+    "country": "Australia",
+    "fullname": "Thomas Melrose Coombe",
+    "birth_place": "Melrose, South Australia, Australia",
+    "death_date": "1959",
+    "death_place": "Epsom, Surrey, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/15/15885/15885.html CricketArchive ",
+    "F/C": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1906"
+    },
+    "birth_date": "1873-12-3"
+}

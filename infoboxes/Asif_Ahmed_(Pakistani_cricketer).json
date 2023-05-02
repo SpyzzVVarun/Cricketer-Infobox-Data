@@ -1,0 +1,29 @@
+{
+    "name": "Asif Ahmed",
+    "country": "Pakistan",
+    "birth_place": "Karachi, British India",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/34/34206/34206.html Cricket Archive",
+    "First-class": {
+        "matches": "61",
+        "runs": "2186",
+        "bat avg": "26.65",
+        "100s/50s": "4/8",
+        "top score": "148",
+        "deliveries": "114",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "30/&ndash;"
+    },
+    "clubs": {
+        "Pakistan Universities": "1959-60",
+        "Karachi University": "1959-60 to 1960-61",
+        "Karachi": "1961-62 to 1970-71",
+        "Oxford University": "1963 to 1964",
+        "Public Works Department": "1971-72"
+    },
+    "birth_date": "1942-4-1"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Mark Thorburn",
+    "birth_place": "Bath, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.cricinfo.com/ci/content/player/22116.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "35",
+        "bat avg": "8.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "708",
+        "wickets": "12",
+        "bowl avg": "43.58",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/53",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Durham UCCE": "2001&ndash;2002",
+        "Hampshire": "2003"
+    },
+    "birth_date": "1978-8-11"
+}

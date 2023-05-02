@@ -1,0 +1,40 @@
+{
+    "name": "Robert Ramsay",
+    "country": "England",
+    "fullname": "Robert Christian Ramsay",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "death_date": "1957",
+    "death_place": "Bekesbourne, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "family": "Francis Ramsay  (brother)",
+    "type1": "First-class",
+    "debutdate1": "19 May",
+    "debutyear1": "1881",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "21 August",
+    "lastyear1": "1882",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Australians",
+    "source": "https://cricketarchive.com/Archive/Players/3/3776/3776.html CricketArchive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "303",
+        "bat avg": "13.77",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "deliveries": "2,964",
+        "wickets": "69",
+        "bowl avg": "17.82",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "7/22",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1881\u20132",
+        "Somerset": "1881\u20132"
+    },
+    "birth_date": "1861-12-20"
+}

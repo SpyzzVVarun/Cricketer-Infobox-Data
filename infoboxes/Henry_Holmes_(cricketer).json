@@ -1,0 +1,30 @@
+{
+    "name": "Henry Holmes",
+    "country": "England",
+    "birth_place": "Romsey, Hampshire, England",
+    "death_date": "1913",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/14251.html Cricinfo ",
+    "FC": {
+        "matches": "32",
+        "runs": "798",
+        "bat avg": "14.77",
+        "100s/50s": "&ndash;/4",
+        "top score": "77",
+        "deliveries": "1,878",
+        "wickets": "28",
+        "bowl avg": "27.21",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "5/57",
+        "catches/stumpings": "14/1"
+    },
+    "clubs": {
+        "Hampshire": "1863&ndash;1878",
+        "Hampshire (pre-county club)": "1861&ndash;1862"
+    },
+    "birth_date": "1833-11-11"
+}

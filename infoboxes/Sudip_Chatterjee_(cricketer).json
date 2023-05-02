@@ -1,0 +1,58 @@
+{
+    "name": "Sudip Chatterjee",
+    "country": "India",
+    "fullname": "Sudip Dipen Chatterjee",
+    "birth_place": "Basirhat, West Bengal, India",
+    "batting": "Left-handed",
+    "bowling": "Leg break Leg break googly",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/447142.html ESPNcricinfo ",
+    "FC": {
+        "matches": "63",
+        "runs": "3,988",
+        "bat avg": "37.98",
+        "100s/50s": "10/19",
+        "top score": "192",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "32.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/0",
+        "catches/stumpings": "38/\u2013"
+    },
+    "LA": {
+        "matches": "63",
+        "runs": "1,409",
+        "bat avg": "25.61",
+        "100s/50s": "0/12",
+        "top score": "97",
+        "deliveries": "26",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "23/\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "644",
+        "bat avg": "24.76",
+        "100s/50s": "0/5",
+        "top score": "89",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Bengal": "2010\u20132022",
+        "Prime Bank Cricket Club": "2018-19",
+        "Tripura": "2022-present"
+    },
+    "birth_date": "1991-11-11"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Edward van der Merwe",
+    "birth_place": "Rustenburg, Transvaal",
+    "death_date": "df=y",
+    "death_place": "Auckland Park, Transvaal",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "13 July",
+    "testdebutyear": "1929",
+    "lasttestdate": "28 February",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1936",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/47689.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "27",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "3/0"
+    },
+    "First-class": {
+        "matches": "27",
+        "runs": "287",
+        "bat avg": "10.62",
+        "100s/50s": "0/0",
+        "catches/stumpings": "35/29"
+    },
+    "clubs": {},
+    "birth_date": "1903-11-9"
+}

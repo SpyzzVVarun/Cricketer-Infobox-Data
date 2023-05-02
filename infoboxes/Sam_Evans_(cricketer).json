@@ -1,0 +1,52 @@
+{
+    "name": "Sam Evans",
+    "country": "England",
+    "fullname": "Sam Thomas Evans",
+    "birth_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "28 March",
+    "debutyear1": "2017",
+    "debutfor1": "Loughborough MCCU",
+    "debutagainst1": "Leics",
+    "type2": "List A",
+    "debutdate2": "19 June",
+    "debutyear2": "2018",
+    "debutfor2": "Leics",
+    "debutagainst2": "India A",
+    "source": "http://www.espncricinfo.com/ci/content/player/1089047.html Cricinfo ",
+    "FC": {
+        "matches": "32",
+        "runs": "1,445",
+        "bat avg": "28.33",
+        "100s/50s": "4/6",
+        "top score": "138",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Loughborough MCCU": "2017\u20132018",
+        "Leicestershire( 21 )": "2017\u2013present"
+    },
+    "birth_date": "1997-12-20"
+}

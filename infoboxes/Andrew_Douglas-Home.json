@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Andrew Douglas-Home",
+    "birth_place": "Galashiels, Selkirkshire, Scotland",
+    "family": "Lord Dunglass (uncle)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12233.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "33",
+        "bat avg": "6.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "570",
+        "wickets": "9",
+        "bowl avg": "30.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/71",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1970"
+    },
+    "birth_date": "1950-5-14"
+}

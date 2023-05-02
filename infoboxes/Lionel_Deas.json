@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Lionel Maury Ross Deas",
+    "birth_place": "Macclesfield, Derbyshire, England",
+    "death_date": "1913",
+    "death_place": "Budleigh Salterton, Devon, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/28195.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "86",
+        "bat avg": "6.61",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "1,978",
+        "wickets": "46",
+        "bowl avg": "14.45",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "8/91",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1895/96&ndash;1906/07"
+    }
+}

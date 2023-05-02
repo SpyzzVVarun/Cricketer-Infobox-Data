@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Andrew Crossland",
+    "birth_place": "Dalton, Yorkshire, England",
+    "death_date": "1902",
+    "death_place": "Hull, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "role": "Occasional wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/andrew-crossland-11453 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "138",
+        "bat avg": "9.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "534",
+        "wickets": "12",
+        "bowl avg": "14.08",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/11",
+        "catches/stumpings": "3/2"
+    },
+    "clubs": {
+        "Yorkshire": "1844&ndash;1855"
+    }
+}

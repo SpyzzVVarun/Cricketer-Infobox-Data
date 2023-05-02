@@ -1,0 +1,23 @@
+{
+    "name": "Harry Bennett",
+    "country": "Australia",
+    "fullname": "Harry Francis Bennett",
+    "birth_place": "South Yarra, Melbourne, Australia",
+    "death_date": "1898",
+    "death_place": "Guildford, Western Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/4345.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "3.25",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Western Australia": "1892/93"
+    },
+    "birth_date": "1859-6-22"
+}

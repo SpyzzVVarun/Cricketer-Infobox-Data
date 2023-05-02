@@ -1,0 +1,42 @@
+{
+    "name": "Ben Birkhead",
+    "country": "England",
+    "fullname": "Benjamin David Birkhead",
+    "birth_place": "Halifax, West Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Wicket-keeper",
+    "type1": "LA",
+    "onetype1": "true",
+    "debutdate1": "6 May",
+    "debutyear1": "2019",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Durham",
+    "type2": "T20",
+    "onetype2": "true",
+    "debutdate2": "20 September",
+    "debutyear2": "2020",
+    "debutfor2": "Yorkshire",
+    "debutagainst2": "Derbyshire",
+    "source": "http://cricketarchive.com/Yorkshire/Players/1418/1418920/1418920.html CricketArchive ",
+    "List A": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "Twenty20": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Yorkshire( 30 )": "2019\u20132022"
+    },
+    "birth_date": "1998-10-28"
+}

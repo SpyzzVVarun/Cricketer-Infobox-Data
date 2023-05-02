@@ -1,0 +1,32 @@
+{
+    "name": "Alexander Pitcairn",
+    "country": "England",
+    "death_date": "17 November 1814",
+    "death_place": "Eynsford, Kent",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "23 May",
+    "debutyear1": "1791",
+    "debutfor1": "MCC",
+    "debutagainst1": "Middlesex",
+    "lastdate1": "2 August",
+    "lastyear1": "1792",
+    "lastfor1": "MCC",
+    "lastagainst1": "Berkshire",
+    "source": "http://www.pcboard.com.pk/Archive/Players/79/79536/79536.html CricketArchive ",
+    "First-class": {
+        "matches": "9",
+        "runs": "143",
+        "bat avg": "8.93",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "MCC": "1791\u20131792",
+        "Gentlemen of England": "1791",
+        "Gentlemen of Kent": "1791",
+        "TA Smith's XI": "1792",
+        "Hampshire": "1792"
+    }
+}

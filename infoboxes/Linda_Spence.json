@@ -1,0 +1,37 @@
+{
+    "name": "Linda Spence",
+    "female": "true",
+    "country": "Scotland",
+    "fullname": "Linda Isobel Spence",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "All-rounder",
+    "internationalspan": "2001\u20132003",
+    "odidebutdate": "10 August",
+    "odidebutyear": "2001",
+    "odidebutagainst": "England",
+    "odicap": "8",
+    "lastodidate": "23 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/scotland/content/player/55204.html Cricinfo ",
+    "ODI": {
+        "matches": "6",
+        "runs": "78",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "61",
+        "wickets": "3",
+        "bowl avg": "21.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/29",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Northumberland Women": "1998"
+    },
+    "birth_date": "1966-7-21"
+}

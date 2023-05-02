@@ -1,0 +1,28 @@
+{
+    "name": "Joe Price",
+    "country": "Wales",
+    "fullname": "Howard Joseph Price",
+    "birth_place": "Tredegar, Monmouthshire, Wales",
+    "death_date": "df=yes",
+    "death_place": "Moulton, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/19118.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "120",
+        "wickets": "3",
+        "bowl avg": "32.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/47",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "1960&ndash;1975"
+    }
+}

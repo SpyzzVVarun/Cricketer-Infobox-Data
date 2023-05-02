@@ -1,0 +1,27 @@
+{
+    "name": "Ramon Thomas",
+    "country": "Australia",
+    "fullname": "Ramon Cedric Thomas",
+    "birth_place": "Mile End, Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/8039.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "64",
+        "bat avg": "9.14",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "1392",
+        "wickets": "9",
+        "bowl avg": "60.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/71",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "South Australia": "1952-53"
+    },
+    "birth_date": "1932-11-18"
+}

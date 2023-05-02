@@ -1,0 +1,43 @@
+{
+    "country": "South Africa",
+    "fullname": "Craig Mitchell Park",
+    "birth_place": "Empangeni, Natal, South Africa",
+    "family": "Garry Park (brother) Sean Park (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/364549.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "360",
+        "bat avg": "36.00",
+        "100s/50s": "\u2013/4",
+        "top score": "81",
+        "deliveries": "384",
+        "wickets": "2",
+        "bowl avg": "147.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/34",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "72",
+        "bat avg": "14.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge MCCU": "2010&ndash;2012",
+        "Cambridgeshire": "2011&ndash;2016",
+        "Unicorns": "2011"
+    },
+    "birth_date": "1986-3-1"
+}

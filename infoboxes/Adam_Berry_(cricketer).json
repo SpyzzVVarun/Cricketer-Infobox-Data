@@ -1,0 +1,28 @@
+{
+    "name": "Adam Berry",
+    "country": "Ireland",
+    "fullname": "Adam Richard M Berry",
+    "birth_place": "Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "Twenty20",
+    "onetype1": "true",
+    "debutdate1": "11 August",
+    "debutyear1": "2017",
+    "debutfor1": "Northern",
+    "debutagainst1": "North West",
+    "source": "http://www.espncricinfo.com/ci/content/player/468565.html Cricinfo ",
+    "Twenty20": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northern Knights": "2017\u2013present"
+    },
+    "birth_date": "1992-9-22"
+}

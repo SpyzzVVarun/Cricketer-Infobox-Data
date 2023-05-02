@@ -1,0 +1,26 @@
+{
+    "fullname": "Henry Robert Tayler Alexander",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "1920",
+    "death_place": "Westminster, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/8876.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "20",
+        "wickets": "1",
+        "bowl avg": "14.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/14",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1863"
+    }
+}

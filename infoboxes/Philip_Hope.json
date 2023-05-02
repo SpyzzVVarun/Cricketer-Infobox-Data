@@ -1,0 +1,39 @@
+{
+    "name": "Philip Hope",
+    "country": "England",
+    "fullname": "Philip Palmer Hope",
+    "birth_place": "Hartlepool, County Durham, England",
+    "death_date": "1962",
+    "death_place": "Clifton, Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "9 May",
+    "debutyear1": "1914",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Surrey",
+    "lastdate1": "9 June",
+    "lastyear1": "1925",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Essex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3635/3635.html CricketArchive ",
+    "First-class": {
+        "matches": "41",
+        "runs": "1048",
+        "bat avg": "15.18",
+        "100s/50s": "&ndash;/7",
+        "top score": "77",
+        "deliveries": "177",
+        "wickets": "1",
+        "bowl avg": "145.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/17",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1914&ndash;25"
+    },
+    "birth_date": "1889-2-10"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Bob Gale",
+    "country": "England",
+    "fullname": "Robert Alec Gale",
+    "birth_place": "Old Warden, Bedfordshire, England",
+    "death_date": "df=y",
+    "batting": "Left-handed",
+    "bowling": "Right-arm medium Right-arm Right-arm medium Right-arm leg-break",
+    "source": "https://cricketarchive.com/Archive/Players/29/29575/29575.html Cricket Archive ",
+    "First-class": {
+        "matches": "242",
+        "runs": "1,2505",
+        "bat avg": "29.35",
+        "100s/50s": "15/63",
+        "top score": "200",
+        "deliveries": "3,066",
+        "wickets": "47",
+        "bowl avg": "37.19",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/57",
+        "catches/stumpings": "126/\u2013"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "204",
+        "bat avg": "22.66",
+        "100s/50s": "0/2",
+        "top score": "86",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1956\u20131965"
+    },
+    "birth_date": "1933-12-10"
+}

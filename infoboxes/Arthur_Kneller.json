@@ -1,0 +1,22 @@
+{
+    "name": "Arthur Kneller",
+    "country": "England",
+    "fullname": "Arthur Harry Kneller",
+    "birth_place": "Kingsclere, Hampshire, England",
+    "death_date": "1969",
+    "death_place": "Chichester, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://content-www.cricinfo.com/england/content/player/15906.html Cricinfo  ",
+    "First-class": {
+        "matches": "8",
+        "runs": "76",
+        "bat avg": "8.44",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1924\u20131926"
+    },
+    "birth_date": "1894-4-28"
+}

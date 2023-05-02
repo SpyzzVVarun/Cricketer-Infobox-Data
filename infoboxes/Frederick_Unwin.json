@@ -1,0 +1,23 @@
+{
+    "name": "Frederick Unwin",
+    "fullname": "Frederick St George Unwin",
+    "birth_place": "Halstead, Essex, England",
+    "death_date": "1990",
+    "death_place": "Braintree, Essex, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/22155.html Cricinfo ",
+    "FC": {
+        "matches": "53",
+        "runs": "1138",
+        "bat avg": "14.58",
+        "100s/50s": "0/3",
+        "top score": "60",
+        "deliveries": "72",
+        "catches/stumpings": "33/0"
+    },
+    "clubs": {
+        "Essex": "1932\u20131951"
+    },
+    "birth_date": "1911-4-23"
+}

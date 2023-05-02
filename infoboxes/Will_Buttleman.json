@@ -1,0 +1,49 @@
+{
+    "name": "Will Buttleman",
+    "country": "England",
+    "fullname": "William Edward Lewis Buttleman",
+    "birth_place": "Chelmsford, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicket-keeper",
+    "family": "Joe Buttleman (brother)",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "3 June",
+    "debutyear1": "2019",
+    "debutfor1": "Essex",
+    "debutagainst1": "Yorkshire",
+    "type2": "List A",
+    "debutdate2": "22 July",
+    "debutyear2": "2021",
+    "debutfor2": "Essex",
+    "debutagainst2": "Hampshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1095899.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "3/0"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "68",
+        "bat avg": "9.71",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "3/0"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "222",
+        "bat avg": "17.07",
+        "100s/50s": "0/1",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {
+        "Essex( 9 )": "2019\u2013present"
+    },
+    "birth_date": "2000-4-20"
+}

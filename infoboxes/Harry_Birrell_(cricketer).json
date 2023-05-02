@@ -1,0 +1,32 @@
+{
+    "name": "Harry Birrell",
+    "country": "South Africa",
+    "fullname": "Henry Benson Birrell",
+    "birth_place": "Pietermaritzburg, Natal Province, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Boesmansriviermond, Eastern Cape, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Adrian Birrell (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/55255.html Cricinfo",
+    "First-class": {
+        "matches": "54",
+        "runs": "2,446",
+        "bat avg": "26.58",
+        "100s/50s": "3/13",
+        "top score": "134",
+        "deliveries": "4,385",
+        "wickets": "55",
+        "bowl avg": "35.25",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/20",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1947/48\u20131956/57",
+        "Oxford University": "1953\u20131954",
+        "Rhodesia": "1957/58\u20131959/60"
+    },
+    "birth_date": "1927-12-1"
+}

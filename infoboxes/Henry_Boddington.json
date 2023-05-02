@@ -1,0 +1,32 @@
+{
+    "name": "Henry Boddington",
+    "fullname": "Henry Albert Boddington",
+    "birth_place": "Kaiapoi, New Zealand",
+    "death_date": "1938",
+    "death_place": "Christchurch, New Zealand",
+    "family": "Edward Boddington (brother)",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutyear1": "1880/81",
+    "lastyear1": "1895/96",
+    "source": "http://www.espncricinfo.com/ci/content/player/36475.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "257",
+        "bat avg": "12.23",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "68",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Nelson": "1880/81\u20131887/88",
+        "Otago": "1883/84\u20131895/96"
+    },
+    "birth_date": "1863-6-15"
+}

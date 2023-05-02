@@ -1,0 +1,55 @@
+{
+    "name": "Brad Cachopa",
+    "country": "New Zealand",
+    "fullname": "Bradley Cachopa",
+    "birth_place": "Bloemfontein, Orange Free State, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper/batsman",
+    "family": "Carl Cachopa (brother)",
+    "source": "https://cricketarchive.com/Players/159/159054/159054.html CricketArchive ",
+    "FC": {
+        "matches": "58",
+        "runs": "2,830",
+        "bat avg": "32.52",
+        "100s/50s": "3/13",
+        "deliveries": "4",
+        "wickets": "2",
+        "bowl avg": "1.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/2",
+        "catches/stumpings": "137/7"
+    },
+    "LA": {
+        "matches": "39",
+        "runs": "1,242",
+        "bat avg": "33.56",
+        "100s/50s": "3/4",
+        "top score": "126",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "39/1"
+    },
+    "T20": {
+        "matches": "47",
+        "runs": "628",
+        "bat avg": "21.65",
+        "100s/50s": "0/2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "18/5"
+    },
+    "clubs": {
+        "Auckland": "2014/15\u20132016/17",
+        "Canterbury": "2012/13\u20132013/14"
+    },
+    "birth_date": "1988-08-08"
+}

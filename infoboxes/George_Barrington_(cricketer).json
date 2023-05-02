@@ -1,0 +1,38 @@
+{
+    "name": "George Barrington",
+    "country": "England",
+    "fullname": "George Bainbridge Barrington",
+    "birth_place": "Pimlico, London, England",
+    "death_date": "1942",
+    "death_place": "Kirk Langley, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "type1": "FC",
+    "debutdate1": "17 May",
+    "debutyear1": "1880",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Australians",
+    "lastdate1": "27 June",
+    "lastyear1": "1887",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/27/27718/27718.html CricketArchive ",
+    "First-class": {
+        "matches": "25",
+        "runs": "455",
+        "bat avg": "9.68",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "27.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/27",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1880\u20131887"
+    },
+    "birth_date": "1857-4-20"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Jamie Peter John Sylvester",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/20441.html Cricinfo ",
+    "LA": {
+        "matches": "18",
+        "runs": "309",
+        "bat avg": "18.17",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "deliveries": "264",
+        "wickets": "7",
+        "bowl avg": "35.85",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/37",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Wales Minor Counties": "1992\u20131996",
+        "Herefordshire": "1998 & 2000",
+        "Berkshire": "1997",
+        "Minor Counties": "1996\u20131997"
+    },
+    "birth_date": "1971-7-31"
+}

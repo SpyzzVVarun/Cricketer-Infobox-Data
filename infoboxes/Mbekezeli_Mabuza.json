@@ -1,0 +1,57 @@
+{
+    "name": "Mbekezeli Mabuza",
+    "country": "Zimbabwe",
+    "fullname": "Mbekezeli Mark Mabuza",
+    "birth_place": "Bulawayo, Zimbabwe",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/zimbabwe/content/player/55647.html ESPNCricinfo ",
+    "FC": {
+        "matches": "33",
+        "runs": "895",
+        "bat avg": "15.70",
+        "100s/50s": "1/2",
+        "top score": "106",
+        "deliveries": "1133",
+        "wickets": "17",
+        "bowl avg": "39.05",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/36",
+        "catches/stumpings": "29/\u2013"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "516",
+        "bat avg": "24.57",
+        "100s/50s": "0/2",
+        "top score": "87",
+        "deliveries": "645",
+        "wickets": "18",
+        "bowl avg": "32.27",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/22",
+        "catches/stumpings": "12/\u2013"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "138",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "84",
+        "wickets": "7",
+        "bowl avg": "15.57",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/14",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Matabeleland": "2003/04\u20132004/05",
+        "Westerns": "2006/07\u20132008/09",
+        "Matabeleland Tuskers": "2009/10\u20132016/17"
+    },
+    "birth_date": "1985-1-6"
+}

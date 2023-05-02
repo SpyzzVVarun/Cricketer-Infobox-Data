@@ -1,0 +1,28 @@
+{
+    "name": "Glyn Samuel",
+    "country": "England",
+    "fullname": "Glyndwr Ninian Thomas Watkin Samuel",
+    "birth_place": "Swansea, Glamorgan, Wales",
+    "death_date": "1985",
+    "death_place": "Hastings, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/20053.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "41",
+        "bat avg": "10.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "22",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1936"
+    },
+    "birth_date": "1917-10-26"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Sara McGlashan",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Sara Jade McGlashan",
+    "birth_place": "Napier, Hawke's Bay, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Peter McGlashan (brother)   Robin Schofield (grandfather)",
+    "internationalspan": "2002\u20132016",
+    "testdebutdate": "27 November",
+    "testdebutyear": "2003",
+    "testdebutagainst": "India",
+    "testcap": "115",
+    "lasttestdate": "21 August",
+    "lasttestyear": "2004",
+    "lasttestagainst": "England",
+    "odidebutdate": "26 June",
+    "odidebutyear": "2002",
+    "odidebutagainst": "Netherlands",
+    "odicap": "91",
+    "lastodidate": "24 February",
+    "lastodiyear": "2016",
+    "lastodiagainst": "Australia",
+    "T20Idebutdate": "5 August",
+    "T20Idebutyear": "2004",
+    "T20Idebutagainst": "England",
+    "T20Icap": "6",
+    "lastT20Idate": "31 March",
+    "lastT20Iyear": "2016",
+    "lastT20Iagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/44/44475/44475.html Cricket Archive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "134",
+        "runs": "2,438",
+        "bat avg": "22.36",
+        "100s/50s": "0/11",
+        "catches/stumpings": "37/0"
+    },
+    "WT20I": {
+        "matches": "76",
+        "runs": "1,164",
+        "bat avg": "18.18",
+        "100s/50s": "0/2",
+        "top score": "84",
+        "catches/stumpings": "29/\u2013"
+    },
+    "WLA": {
+        "matches": "301",
+        "runs": "7,664",
+        "bat avg": "31.80",
+        "100s/50s": "6/47",
+        "top score": "125",
+        "catches/stumpings": "81/6"
+    },
+    "clubs": {
+        "Central Districts": "1998/99-2012/13",
+        "Auckland": "2013/14\u20132018/19",
+        "Australian Capital Territory": "2014/15\u20132016/17",
+        "Sydney Sixers": "2015/16\u20132018/19",
+        "Sussex": "2016",
+        "Southern Vipers": "2016\u20132018"
+    },
+    "birth_date": "1982-03-28"
+}

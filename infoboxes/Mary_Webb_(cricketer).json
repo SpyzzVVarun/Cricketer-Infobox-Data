@@ -1,0 +1,51 @@
+{
+    "name": "Mary Webb",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1957\u20131961",
+    "fullname": "Mary Averil Webb",
+    "birth_place": "Dunedin, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "testdebutdate": "18 January",
+    "testdebutyear": "1957",
+    "testdebutagainst": "Australia",
+    "testcap": "38",
+    "lasttestdate": "17 March",
+    "lasttestyear": "1961",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17333/17333.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "110",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "186",
+        "wickets": "6",
+        "bowl avg": "11.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "31",
+        "runs": "1,290",
+        "bat avg": "25.80",
+        "100s/50s": "0/9",
+        "top score": "94",
+        "deliveries": "1,398",
+        "wickets": "31",
+        "bowl avg": "22.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/30",
+        "catches/stumpings": "19/3"
+    },
+    "clubs": {
+        "Otago": "1951/52\u20131960/61"
+    },
+    "birth_date": "1936-4-9"
+}

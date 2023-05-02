@@ -1,0 +1,33 @@
+{
+    "name": "Eustace Hill",
+    "country": "England",
+    "fullname": "Eustace Tickell Hill",
+    "birth_place": "Llandaff, Cardiff, Wales",
+    "death_date": "1933",
+    "death_place": "Ruthin, Denbighshire, Wales",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "VT Hill  (brother)",
+    "type1": "First-class",
+    "debutdate1": "26 May",
+    "debutyear1": "1898",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "6 June",
+    "lastyear1": "1901",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3619/3619.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "70",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1890&ndash;1901"
+    },
+    "birth_date": "1869-04-13"
+}

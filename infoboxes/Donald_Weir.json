@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Donald St Clair Weir",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1959",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/donald-weir-25391 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "64",
+        "bat avg": "9.14",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "438",
+        "wickets": "5",
+        "bowl avg": "61.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/63",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1923&ndash;1926"
+    }
+}

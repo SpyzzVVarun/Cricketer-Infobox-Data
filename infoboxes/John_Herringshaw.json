@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Percy Herringshaw",
+    "birth_place": "Derby, Derbyshire, England",
+    "death_date": "1974",
+    "death_place": "Yapton, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/14169.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "94",
+        "bat avg": "10.44",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "902",
+        "wickets": "9",
+        "bowl avg": "55.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/48",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Essex": "1921&ndash;1922"
+    },
+    "birth_date": "1892-5-22"
+}

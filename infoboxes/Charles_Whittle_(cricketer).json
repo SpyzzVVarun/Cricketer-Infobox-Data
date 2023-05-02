@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Charles James Richardson Whittle",
+    "birth_place": "Oxton, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/22956.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "23",
+        "bat avg": "5.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1947",
+        "Oxfordshire": "1947"
+    }
+}

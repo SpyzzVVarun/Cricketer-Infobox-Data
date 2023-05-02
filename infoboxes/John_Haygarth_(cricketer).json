@@ -1,0 +1,23 @@
+{
+    "name": "John Haygarth",
+    "country": "England",
+    "fullname": "John William Haygarth",
+    "birth_place": "Rodmarton, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Boonah, Queensland, Australia",
+    "family": "Edward Haygarth (brother)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/14649.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "81",
+        "bat avg": "6.75",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "12/12"
+    },
+    "clubs": {
+        "Oxford University": "1862\u20131864"
+    }
+}

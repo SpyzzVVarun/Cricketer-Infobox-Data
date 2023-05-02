@@ -1,0 +1,33 @@
+{
+    "name": "Edward Buckland",
+    "country": "England",
+    "fullname": "Edward Hastings Buckland",
+    "birth_place": "Laleham-on-Thames, Middlesex, England",
+    "death_date": "1906",
+    "death_place": "Winchester, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break, right-arm underarm Right-arm off break, right-arm underarm fast",
+    "family": "Francis Buckland (Brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/9281.html Cricinfo ",
+    "FC": {
+        "matches": "48",
+        "runs": "1,414",
+        "bat avg": "18.12",
+        "100s/50s": "1/6",
+        "top score": "148",
+        "deliveries": "5,886",
+        "wickets": "110",
+        "bowl avg": "19.62",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "7/17",
+        "catches/stumpings": "54/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1895",
+        "Middlesex": "1885 & 1887\u20131888",
+        "Marylebone Cricket Club": "1885",
+        "Oxford University": "1884\u20131887"
+    },
+    "birth_date": "1864-6-20"
+}

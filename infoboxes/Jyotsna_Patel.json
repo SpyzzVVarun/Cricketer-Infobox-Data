@@ -1,0 +1,48 @@
+{
+    "name": "Jyotsna Patel",
+    "country": "India",
+    "fullname": "Jyotsna Patel",
+    "birth_place": "Indore, India",
+    "female": "true",
+    "batting": "Right-handed",
+    "testdebutdate": "7 November",
+    "testdebutyear": "1976",
+    "testdebutagainst": "West Indies",
+    "testcap": "13",
+    "lasttestdate": "12 November",
+    "lasttestyear": "1976",
+    "lasttestagainst": "West Indies",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/17/17148/17148.html CricketArchive ",
+    "Test": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "ODI": {},
+    "T20": {
+        "matches": "&ndash;",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;"
+    },
+    "clubs": {
+        "Central Zone": "1976"
+    }
+}

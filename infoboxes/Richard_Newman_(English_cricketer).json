@@ -1,0 +1,29 @@
+{
+    "name": "Richard Newman",
+    "full_name": "Richard Newman Harding Newman",
+    "death_date": "1808 (aged 51)",
+    "death_place": "Tempsford, Bedfordshire",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "21 June",
+    "debutyear1": "1773",
+    "debutfor1": "Kent",
+    "debutagainst1": "Surrey",
+    "lastdate1": "19 August",
+    "lastyear1": "1793",
+    "lastfor1": "RN Newman's XI",
+    "lastagainst1": "R Leigh's XI",
+    "source": "https://cricketarchive.com/Archive/Players/79/79317/79317.html CricketArchive",
+    "First-class": {
+        "matches": "19",
+        "runs": "189",
+        "bat avg": "5.55",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Hornchurch": "1787\u20131793",
+        "MCC": "1793"
+    }
+}

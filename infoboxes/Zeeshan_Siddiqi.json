@@ -1,0 +1,36 @@
+{
+    "name": "Zeeshan Siddiqi",
+    "country": "Canada",
+    "fullname": "Zeeshan Hussain Siddiqi",
+    "birth_place": "Karachi",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Top-order batsman",
+    "odidebutdate": "11 July",
+    "odidebutyear": "2012",
+    "odidebutagainst": "Scotland",
+    "odicap": "81",
+    "source": "https://cricketarchive.com/Archive/Players/19/19959/19959.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "50",
+        "bat avg": "25.00",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "14",
+        "runs": "738",
+        "bat avg": "32.08",
+        "100s/50s": "0/7",
+        "top score": "87",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Pakistan National Shipping Corporation": "1995\u20131997",
+        "Karachi Blues": "1998\u20131999",
+        "Karachi Whites": "1999\u20132000"
+    },
+    "birth_date": "1976-10-26"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "McLaren Smith",
+    "country": "Bermuda",
+    "fullname": "McLaren Smith",
+    "birth_place": "Bermuda",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "odidebutdate": "1 July",
+    "odidebutyear": "2008",
+    "odidebutagainst": "Canada",
+    "odicap": "34",
+    "oneodi": "true",
+    "source": "https://cricketarchive.com/Archive/Players/260/260198/260198.html CricketArchive ",
+    "ODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "&ndash;",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1991-8-31"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Henry Wall",
+    "birth_place": "Wigan, Lancashire, England",
+    "death_date": "1914",
+    "death_place": "Southport, Lancashire, England",
+    "family": "William Wall (brother), Thomas Wall (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/22691.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "24",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1877"
+    }
+}

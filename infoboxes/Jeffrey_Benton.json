@@ -1,0 +1,40 @@
+{
+    "name": "Jeffrey Benton",
+    "fullname": "Jeffrey John Benton",
+    "birth_place": "Mildura, Victoria, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4279.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "118",
+        "bat avg": "14.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "42",
+        "deliveries": "322",
+        "wickets": "2",
+        "bowl avg": "115.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/144",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "40",
+        "bat avg": "20.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "27",
+        "deliveries": "184",
+        "wickets": "1",
+        "bowl avg": "161.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/36",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1977/78\u20131984/85"
+    },
+    "birth_date": "1953-10-9"
+}

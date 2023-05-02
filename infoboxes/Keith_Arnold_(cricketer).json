@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Keith Andrew Arnold",
+    "birth_place": "Solihull, Warwickshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/8614.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "612",
+        "wickets": "10",
+        "bowl avg": "31.40",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/57",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "30",
+        "runs": "60",
+        "bat avg": "4.61",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "deliveries": "1,760",
+        "wickets": "26",
+        "bowl avg": "48.15",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/25",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1985\u20131995",
+        "Oxfordshire": "1980\u20132010"
+    },
+    "birth_date": "1960-5-27"
+}

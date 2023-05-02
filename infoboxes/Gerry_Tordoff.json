@@ -1,0 +1,40 @@
+{
+    "name": "Gerry Tordoff",
+    "country": "England",
+    "fullname": "George Gerald Tordoff",
+    "birth_place": "Whitwood, Yorkshire, England",
+    "death_date": "2008",
+    "death_place": "Poulton-le-Fylde, Lancashire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "19 July",
+    "debutyear1": "1950",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "26 June",
+    "lastyear1": "1962",
+    "lastfor1": "Combined Services",
+    "lastagainst1": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/3/3855/3855.html CricketArchive ",
+    "First-class": {
+        "matches": "85",
+        "runs": "3,975",
+        "bat avg": "27.99",
+        "100s/50s": "5/20",
+        "deliveries": "3,752",
+        "wickets": "40",
+        "bowl avg": "48.97",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/43",
+        "catches/stumpings": "47/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1950\u20131955",
+        "Cambridge University": "1952",
+        "Combined Services": "1962"
+    },
+    "birth_date": "1929-12-6"
+}

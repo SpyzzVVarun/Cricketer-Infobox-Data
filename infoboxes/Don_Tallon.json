@@ -1,0 +1,53 @@
+{
+    "name": "Don Tallon",
+    "country": "Australia",
+    "fullname": "Donald Tallon",
+    "nickname": "\"Deafy\"",
+    "birth_place": "Bundaberg, Queensland, Australia",
+    "death_date": "1984",
+    "death_place": "Bundaberg, Australia",
+    "heightm": "1.8",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "Wicket-keeper",
+    "testdebutdate": "29 March",
+    "testdebutyear": "1946",
+    "testdebutagainst": "New Zealand",
+    "testcap": "169",
+    "lasttestdate": "16 June",
+    "lasttestyear": "1953",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/744/744.html CricketArchive ",
+    "Test": {
+        "matches": "21",
+        "runs": "394",
+        "bat avg": "17.13",
+        "100s/50s": "0/2",
+        "top score": "92",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "50/8"
+    },
+    "First-class": {
+        "matches": "150",
+        "runs": "6,034",
+        "bat avg": "29.14",
+        "100s/50s": "9/27",
+        "top score": "193",
+        "deliveries": "301",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "301/132"
+    },
+    "clubs": {
+        "Queensland": "1933/34\u20131953/54"
+    },
+    "birth_date": "1916-2-17"
+}

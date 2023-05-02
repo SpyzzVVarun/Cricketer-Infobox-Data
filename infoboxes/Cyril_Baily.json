@@ -1,0 +1,28 @@
+{
+    "name": "Cyril Baily",
+    "country": "England",
+    "fullname": "Cyril Baily",
+    "birth_place": "Glastonbury, England",
+    "death_date": "1924",
+    "death_place": "Burnham-on-Sea, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "24 July",
+    "debutyear1": "1902",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Surrey",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3413/3413.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1902"
+    },
+    "birth_date": "1880-7-17"
+}

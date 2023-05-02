@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Craig Evans",
+    "birth_place": "Neath, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/12574.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wales Minor Counties": "1994&ndash;1995"
+    },
+    "birth_date": "1971-11-15"
+}

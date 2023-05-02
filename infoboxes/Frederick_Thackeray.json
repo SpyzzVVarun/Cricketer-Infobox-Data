@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Frederick Thackeray",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1892",
+    "death_place": "Chappel, Essex, England",
+    "family": "Charles Thackeray (half-brother)",
+    "batting": "Unknown",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/21765.html Cricinfo ",
+    "First-class": {
+        "matches": "38",
+        "runs": "567",
+        "bat avg": "10.12",
+        "100s/50s": "\u2013/2",
+        "top score": "73",
+        "deliveries": "338",
+        "wickets": "27",
+        "bowl avg": "16.20",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/57",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1837&ndash;1843",
+        "Marylebone Cricket Club": "1839&ndash;1842",
+        "Cambridge Town Club": "1841&ndash;1854"
+    }
+}

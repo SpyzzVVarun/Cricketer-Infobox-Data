@@ -1,0 +1,37 @@
+{
+    "name": "Don Tallon",
+    "country": "Australia",
+    "fullname": "Donald Tallon",
+    "nickname": "Deafy",
+    "birth_place": "Bundaberg, Queensland, Australia",
+    "death_date": "df=yes",
+    "death_place": "Bundaberg, Australia",
+    "heightm": "1.8",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "Wicket-keeper",
+    "testdebutdate": "10 June",
+    "testdebutyear": "1948",
+    "testdebutagainst": "England",
+    "lasttestdate": "14 August",
+    "lasttestyear": "1948",
+    "lasttestagainst": "England",
+    "Tests": {
+        "matches": "4",
+        "runs": "112",
+        "bat avg": "28.00",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "12/0"
+    },
+    "First-class": {
+        "matches": "14",
+        "runs": "283",
+        "bat avg": "25.72",
+        "100s/50s": "0/2",
+        "top score": "53",
+        "catches/stumpings": "29/14"
+    },
+    "clubs": {},
+    "birth_date": "1916-02-17"
+}

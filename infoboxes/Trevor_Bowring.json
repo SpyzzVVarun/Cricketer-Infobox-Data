@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Trevor Bowring",
+    "birth_place": "Long Ditton, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Ditton Hill, Surrey, England",
+    "family": "Wilfred Stoddart (cousin)",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/9912.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "722",
+        "bat avg": "24.06",
+        "100s/50s": "1/2",
+        "top score": "228",
+        "deliveries": "1,062",
+        "wickets": "20",
+        "bowl avg": "26.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/10",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1907&ndash;1908"
+    }
+}

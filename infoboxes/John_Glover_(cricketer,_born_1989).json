@@ -1,0 +1,46 @@
+{
+    "name": "John Glover",
+    "country": "Wales",
+    "fullname": "John Charles Glover",
+    "nickname": "Box",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "heightft": "6",
+    "heightinch": "5",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/346204.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "328",
+        "bat avg": "13.12",
+        "100s/50s": "\u2013/1",
+        "top score": "55",
+        "deliveries": "3,441",
+        "wickets": "53",
+        "bowl avg": "36.69",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/38",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "216",
+        "wickets": "7",
+        "bowl avg": "32.85",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/34",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Glamorgan( 36 )": "2011\u2013present",
+        "Durham UCCE/MCCU": "2008\u20132010",
+        "Wales Minor Counties": "2008\u2013present"
+    },
+    "birth_date": "1989-8-29"
+}

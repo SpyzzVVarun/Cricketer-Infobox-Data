@@ -1,0 +1,50 @@
+{
+    "name": "George Lohmann",
+    "country": "England",
+    "fullname": "George Alfred Lohmann",
+    "birth_place": "Kensington, Middlesex, England",
+    "death_date": "1901",
+    "death_place": "Worcester, British Cape Colony",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium-fast",
+    "testdebutdate": "5 July",
+    "testdebutyear": "1886",
+    "testdebutagainst": "Australia",
+    "testcap": "51",
+    "lasttestdate": "24 June",
+    "lasttestyear": "1896",
+    "lasttestagainst": "Australia",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/16337.html Cricinfo ",
+    "Test": {
+        "matches": "18",
+        "runs": "213",
+        "bat avg": "8.87",
+        "100s/50s": "0/1",
+        "deliveries": "3,830",
+        "wickets": "112",
+        "bowl avg": "10.75",
+        "fivefor": "9",
+        "tenfor": "5",
+        "best bowling": "9/28",
+        "catches/stumpings": "28/\u2013"
+    },
+    "First-class": {
+        "matches": "293",
+        "runs": "7,247",
+        "bat avg": "18.67",
+        "100s/50s": "3/29",
+        "top score": "115",
+        "deliveries": "71,724",
+        "wickets": "1,841",
+        "bowl avg": "13.73",
+        "fivefor": "176",
+        "tenfor": "57",
+        "best bowling": "9/28",
+        "catches/stumpings": "337/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1884\u20131896",
+        "Western Province": "1894\u20131897"
+    },
+    "birth_date": "1865-6-2"
+}

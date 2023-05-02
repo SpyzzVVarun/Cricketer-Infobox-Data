@@ -1,0 +1,63 @@
+{
+    "name": "Sue Morris",
+    "country": "New Zealand",
+    "fullname": "Susan Rachel Margaret Morris",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "1988",
+    "odidebutdate": "29 November",
+    "odidebutyear": "1988",
+    "odidebutagainst": "Ireland",
+    "odicap": "50",
+    "lastodidate": "14 December",
+    "lastodiyear": "1988",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17299/17299.html CricketArchive ",
+    "WODI": {
+        "matches": "8",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "414",
+        "wickets": "7",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "23",
+        "runs": "224",
+        "bat avg": "13.17",
+        "100s/50s": "0/0",
+        "deliveries": "3,005",
+        "wickets": "75",
+        "bowl avg": "18.85",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/58",
+        "catches/stumpings": "11/\u2013"
+    },
+    "WLA": {
+        "matches": "41",
+        "runs": "203",
+        "bat avg": "10.15",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "1,951",
+        "wickets": "48",
+        "bowl avg": "19.68",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1975/76\u20131992/93"
+    },
+    "birth_date": "1958-5-30"
+}

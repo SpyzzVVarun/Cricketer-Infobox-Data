@@ -1,0 +1,43 @@
+{
+    "country": "Sri Lanka",
+    "fullname": "Gajanand Pathmanathan",
+    "birth_place": "Colombo, Western Province, Ceylon",
+    "death_date": "df=yes",
+    "death_place": "Bethesda, Maryland, United States",
+    "family": "Chellappa Coomaraswamy (Grand Father),  Rajendra Coomaraswamy (Uncle),  Satyendra Coomaraswamy (Uncle), Devind Pathmanathan (nephew)",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/50076.html Cricinfo ",
+    "First-class": {
+        "matches": "44",
+        "runs": "1,553",
+        "bat avg": "20.98",
+        "100s/50s": "\u2013/10",
+        "top score": "82",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "35/\u2013"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "99",
+        "bat avg": "7.07",
+        "100s/50s": "\u2013/1",
+        "top score": "58",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1975&ndash;1978",
+        "Cambridge University": "1983"
+    }
+}

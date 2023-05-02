@@ -1,0 +1,41 @@
+{
+    "name": "Ian Swallow",
+    "fullname": "Ian Geoffrey Swallow",
+    "birth_place": "Barnsley, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/3/3839/3839.html CricketArchive ",
+    "FC": {
+        "matches": "88",
+        "runs": "1550",
+        "bat avg": "20.39",
+        "100s/50s": "1/2",
+        "top score": "114",
+        "deliveries": "11215",
+        "wickets": "106",
+        "bowl avg": "54.69",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/95",
+        "catches/stumpings": "43/&ndash;"
+    },
+    "LA": {
+        "matches": "34",
+        "runs": "149",
+        "bat avg": "14.90",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "1193",
+        "wickets": "14",
+        "bowl avg": "69.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/32",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Yorkshire": "1983&ndash;1989",
+        "Somerset": "1990&ndash;1991"
+    },
+    "birth_date": "1962-12-18"
+}

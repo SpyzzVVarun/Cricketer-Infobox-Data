@@ -1,0 +1,43 @@
+{
+    "name": "Joe Solomon",
+    "fullname": "Joseph Stanislaus Solomon",
+    "birth_place": "Port Mourant, Berbice, British Guiana",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "country": "West Indies",
+    "testdebutagainst": "India",
+    "testdebutdate": "12 December",
+    "testdebutyear": "1958",
+    "lasttestdate": "5 May",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1965",
+    "source": "http://www.espncricinfo.com/ci/content/player/52944.html ESPNcricinfo",
+    "Test": {
+        "matches": "27",
+        "runs": "1,326",
+        "bat avg": "34.00",
+        "100s/50s": "1/9",
+        "deliveries": "702",
+        "wickets": "4",
+        "bowl avg": "67.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "13/\u2013"
+    },
+    "First-class": {
+        "matches": "104",
+        "runs": "5,318",
+        "bat avg": "41.54",
+        "100s/50s": "12/27",
+        "deliveries": "3,659",
+        "wickets": "51",
+        "bowl avg": "38.23",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/28",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1930-8-26"
+}

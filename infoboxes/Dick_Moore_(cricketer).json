@@ -1,0 +1,27 @@
+{
+    "name": "Dick Moore",
+    "fullname": "Richard Henry Moore",
+    "birth_place": "Charminster, Dorset, England",
+    "death_date": "2002",
+    "death_place": "Llanrhos, Denbighshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/dick-moore-17077 Cricinfo",
+    "First-class": {
+        "matches": "137",
+        "runs": "6,026",
+        "bat avg": "26.08",
+        "100s/50s": "10/19",
+        "top score": "316",
+        "deliveries": "1,705",
+        "wickets": "25",
+        "bowl avg": "39.12",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/46",
+        "catches/stumpings": "117/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1931\u20131939"
+    }
+}

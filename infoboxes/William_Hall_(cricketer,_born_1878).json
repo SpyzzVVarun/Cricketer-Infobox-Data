@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Hall",
+    "birth_place": "Bedworth, Warwickshire, England",
+    "death_date": "Unknown",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/14470.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "3.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "96",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1905"
+    }
+}

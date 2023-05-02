@@ -1,0 +1,22 @@
+{
+    "name": "Duvindu Tillakaratne",
+    "country": "Sri Lanka",
+    "fullname": "Duvindu Sachin Tillakaratne",
+    "birth_place": "Colombo, Sri Lanka",
+    "family": "Hashan Tillakaratne (father)",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm spin",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/681969.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1996-9-9",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

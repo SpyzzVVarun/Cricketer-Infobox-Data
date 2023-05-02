@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Charles Smith Scobie",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1965",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "https://www.espncricinfo.com/player/william-turnbull-25382 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "95",
+        "bat avg": "7.91",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "1,050",
+        "wickets": "20",
+        "bowl avg": "29.15",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/112",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1923&ndash;1928"
+    }
+}

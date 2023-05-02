@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "David Alexander Hyndman Milling",
+    "birth_place": "Comber, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Rathmines, Leinster, Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24459.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "catches/stumpings": "1/2"
+    },
+    "clubs": {
+        "Ireland": "1912&ndash;1914"
+    }
+}

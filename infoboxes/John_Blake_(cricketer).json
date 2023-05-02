@@ -1,0 +1,23 @@
+{
+    "name": "John Blake",
+    "country": "England",
+    "fullname": "John Philip Blake",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "death_date": "1944",
+    "death_place": "Nere\u017ei\u0161\u0107a, Bra\u010d, German-occupied Yugoslavia",
+    "batting": "Right-handed",
+    "family": "David Blake (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/9123.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "1,095",
+        "bat avg": "22.81",
+        "100s/50s": "\u2013/7",
+        "top score": "88",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1937\u20131939",
+        "Cambridge University": "1938\u20131939"
+    }
+}

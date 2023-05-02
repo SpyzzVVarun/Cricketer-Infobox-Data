@@ -1,0 +1,43 @@
+{
+    "name": "Ian Brayshaw",
+    "country": "Australia",
+    "fullname": "Ian James Brayshaw",
+    "birth_place": "South Perth, Western Australia",
+    "nickname": "Sticks",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "family": "James Brayshaw (son) Mark Brayshaw (son) Angus Brayshaw (grandson) Andrew Brayshaw (grandson)",
+    "source": "https://cricketarchive.com/Players/9/9454/9454.html CricketArchive ",
+    "First-class": {
+        "matches": "101",
+        "runs": "4,325",
+        "bat avg": "31.80",
+        "100s/50s": "3/26",
+        "top score": "160",
+        "deliveries": "11,625",
+        "wickets": "178",
+        "bowl avg": "25.08",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "10/44",
+        "catches/stumpings": "108/\u2013"
+    },
+    "List A": {
+        "matches": "19",
+        "runs": "245",
+        "bat avg": "22.27",
+        "100s/50s": "0/2",
+        "deliveries": "704",
+        "wickets": "17",
+        "bowl avg": "24.47",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/28",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1960/61\u20131977/78"
+    },
+    "birth_date": "1942-1-14"
+}

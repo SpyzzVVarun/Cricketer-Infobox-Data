@@ -1,0 +1,38 @@
+{
+    "name": "Henry Blackwell",
+    "country": "England",
+    "fullname": "Henry Blackwell",
+    "birth_place": "Wirksworth, Derbyshire, England",
+    "death_date": "1900",
+    "death_place": "Wirksworth, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "20 May",
+    "debutyear1": "1895",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "MCC",
+    "lastdate1": "28 July",
+    "lastyear1": "1898",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Players/27/27938/27938.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "41",
+        "bat avg": "10.25",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "175",
+        "wickets": "4",
+        "bowl avg": "26.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1895\u20131898"
+    },
+    "birth_date": "1876-12-16"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Walter Smythe",
+    "birth_place": "Acton Burnell, Shropshire, England",
+    "death_date": "1919",
+    "death_place": "Acton Burnell, Shropshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/20911.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "122",
+        "bat avg": "13.55",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "76",
+        "wickets": "2",
+        "bowl avg": "12.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/24",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1878&ndash;1885"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Corinne Hall",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Corinne Louise Hall",
+    "birth_place": "Gosford, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/261/261489/261489.html CricketArchive",
+    "WLA": {
+        "matches": "78",
+        "runs": "1,721",
+        "bat avg": "26.89",
+        "100s/50s": "0/12",
+        "top score": "95",
+        "deliveries": "75",
+        "wickets": "1",
+        "bowl avg": "66.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/2",
+        "catches/stumpings": "28/\u2013"
+    },
+    "WT20": {
+        "matches": "147",
+        "runs": "1,748",
+        "bat avg": "16.49",
+        "100s/50s": "0/2",
+        "deliveries": "71",
+        "wickets": "4",
+        "bowl avg": "19.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "56/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "2008/09",
+        "Tasmania": "2010/11\u20132021/22",
+        "Berkshire": "2014\u20132015",
+        "Devon": "2015",
+        "Hobart Hurricanes( 27 )": "2015/16\u20132020/21",
+        "Canterbury": "2015/16",
+        "Sydney Thunder": "2021/22\u2013present"
+    },
+    "birth_date": "1987-10-12"
+}

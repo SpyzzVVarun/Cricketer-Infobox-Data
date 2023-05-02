@@ -1,0 +1,52 @@
+{
+    "name": "Sultan Ahmed",
+    "country": "Oman",
+    "fullname": "Sultan Ahmed",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2004\u2013present",
+    "T20Idebutdate": "25 July",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "Afghanistan",
+    "T20Icap": "9",
+    "lastT20Idate": "9 March",
+    "lastT20Iyear": "2016",
+    "lastT20Iagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/19/19792/19792.html CricketArchive ",
+    "T20I": {
+        "matches": "8",
+        "runs": "85",
+        "bat avg": "14.16",
+        "100s/50s": "0/0",
+        "catches/stumpings": "10/3"
+    },
+    "FC": {
+        "matches": "9",
+        "runs": "146",
+        "bat avg": "16.22",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "26/4"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "451",
+        "bat avg": "26.52",
+        "100s/50s": "0/3",
+        "top score": "63",
+        "catches/stumpings": "10/6"
+    },
+    "T20": {
+        "matches": "25",
+        "runs": "215",
+        "bat avg": "16.53",
+        "100s/50s": "0/0",
+        "catches/stumpings": "22/15"
+    },
+    "clubs": {
+        "Karachi Whites": "1999\u20132000",
+        "Karachi Blues": "2000"
+    },
+    "birth_date": "1977-6-18"
+}

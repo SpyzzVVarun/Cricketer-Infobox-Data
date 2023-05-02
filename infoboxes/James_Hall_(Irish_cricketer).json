@@ -1,0 +1,61 @@
+{
+    "country": "Ireland",
+    "fullname": "James Douglas Hall",
+    "birth_place": "Preston, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "odidebutdate": "1 July",
+    "odidebutyear": "2010",
+    "odidebutagainst": "Kenya",
+    "odicap": "32",
+    "lastodidate": "9 July",
+    "lastodiyear": "2010",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Archive/Players/87/87016/87016.html CricketArchive subscription required ",
+    "ODI": {
+        "matches": "3",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "91",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "27",
+        "deliveries": "32",
+        "wickets": "1",
+        "bowl avg": "22.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/22",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Ireland": "2008&ndash;2009"
+    },
+    "birth_date": "1988-10-19"
+}

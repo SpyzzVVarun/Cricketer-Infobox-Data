@@ -1,0 +1,30 @@
+{
+    "name": "Stanley Ian Philips",
+    "country": "England",
+    "birth_place": "Tunbridge Wells",
+    "death_date": "2015",
+    "death_place": "Northampton",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/14/14311/14311.html ",
+    "FC": {
+        "matches": "7",
+        "runs": "156",
+        "bat avg": "14.18",
+        "100s/50s": "0",
+        "top score": "42",
+        "deliveries": "14",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0",
+        "catches/stumpings": "14"
+    },
+    "clubs": {
+        "Northamptonshire": "1938-1939",
+        "Europeans": "1941/2"
+    },
+    "birth_date": "1920-2-4"
+}

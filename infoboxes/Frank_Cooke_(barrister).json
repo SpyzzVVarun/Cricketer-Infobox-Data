@@ -1,0 +1,29 @@
+{
+    "name": "Frank Cooke",
+    "country": "New Zealand",
+    "fullname": "Frank Herbert Cooke",
+    "birth_place": "Northcote, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Palmerston North, New Zealand",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Philip Cooke (son), Robin Cooke (grandson)",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36743.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "106",
+        "bat avg": "6.23",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "wickets": "84",
+        "bowl avg": "9.32",
+        "fivefor": "7",
+        "tenfor": "3",
+        "best bowling": "9/73",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Otago": "1879\u201380 to 1884\u201385",
+        "Nelson": "1885\u201386 to 1888\u201389"
+    },
+    "birth_date": "1862-9-22"
+}

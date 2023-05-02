@@ -1,0 +1,41 @@
+{
+    "module": "Infobox cricketer",
+    "embed": "yes",
+    "name": "Frank Simpson",
+    "country": "England",
+    "fullname": "Frank William Simpson",
+    "birth_place": "Theberton, Suffolk, England",
+    "death_date": "1992",
+    "death_place": "Winchester, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm medium Right arm medium pace",
+    "type1": "First-class",
+    "debutdate1": "15 August",
+    "debutyear1": "1931",
+    "debutfor1": "Army",
+    "debutagainst1": "Marylebone Cricket Club (MCC)",
+    "lastdate1": "30 June",
+    "lastyear1": "1948",
+    "lastfor1": "Combined Services",
+    "lastagainst1": "Glamorgan",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/32/32779/32779.html CricketArchive  ",
+    "First-class": {
+        "matches": "2",
+        "runs": "92",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Combined Services": "1948",
+        "Army": "1931"
+    },
+    "birth_date": "1909-3-27"
+}

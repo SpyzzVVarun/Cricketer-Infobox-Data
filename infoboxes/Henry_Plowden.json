@@ -1,0 +1,30 @@
+{
+    "name": "Sir Henry Plowden",
+    "country": "England",
+    "fullname": "Henry Meredyth Plowden",
+    "birth_place": "Sylhet, Bengal Presidency, British India",
+    "death_date": "1920",
+    "death_place": "Sunninghill, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm off Right-arm roundarm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/18552.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "248",
+        "bat avg": "13.05",
+        "100s/50s": "0/1",
+        "deliveries": "1,173",
+        "wickets": "56",
+        "bowl avg": "12.83",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "7/25",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1860\u20131863",
+        "Marylebone Cricket Club": "1863\u20131866",
+        "Hampshire": "1865"
+    },
+    "birth_date": "1840-9-26"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Charles Titchmarsh",
+    "country": "England",
+    "fullname": "Charles Harold Titchmarsh",
+    "birth_place": "Royston, Hertfordshire, England",
+    "death_date": "1930",
+    "death_place": "Royston, Hertfordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/21867.html Cricinfo ",
+    "First-class": {
+        "matches": "42",
+        "runs": "2,589",
+        "bat avg": "39.22",
+        "100s/50s": "4/16",
+        "top score": "171",
+        "deliveries": "1",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1924",
+        "Marylebone Cricket Club": "1920&ndash;1928",
+        "Hertfordshire": "1900&ndash;1929"
+    }
+}

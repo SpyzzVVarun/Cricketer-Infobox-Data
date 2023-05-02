@@ -1,0 +1,37 @@
+{
+    "name": "Thomas Sturgess",
+    "country": "India",
+    "fullname": "Thomas Moore Sturgess",
+    "birth_place": "Assam, India",
+    "death_date": "1974",
+    "death_place": "Cape Town, Cape Province, South Africa",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "20 December",
+    "debutyear1": "1940",
+    "debutfor1": "Europeans",
+    "debutagainst1": "The Rest",
+    "lastdate1": "26 November",
+    "lastyear1": "1943",
+    "lastfor1": "Europeans",
+    "lastagainst1": "Hindus",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/14/14662/14662.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {
+        "Europeans (India)": "1940-1943"
+    },
+    "birth_date": "1898-9-24"
+}

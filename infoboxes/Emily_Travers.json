@@ -1,0 +1,39 @@
+{
+    "name": "Emily Travers",
+    "female": "true",
+    "fullname": "Emily Anne Travers",
+    "birth_place": "Hunterville, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "New Zealand",
+    "internationalspan": "2000",
+    "odidebutdate": "22 November",
+    "odidebutyear": "2000",
+    "odidebutagainst": "England",
+    "odicap": "84",
+    "lastodidate": "6 December",
+    "lastodiyear": "2000",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Archive/Players/7/7581/7581.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "WLA": {
+        "matches": "56",
+        "runs": "184",
+        "bat avg": "8.36",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "38/26"
+    },
+    "clubs": {
+        "Central Districts": "1997/98\u20132000/01",
+        "Canterbury": "2001/02"
+    },
+    "birth_date": "1978-07-29"
+}

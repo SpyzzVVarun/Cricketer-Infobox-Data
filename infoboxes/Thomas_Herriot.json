@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Thomas Pearson Herriot",
+    "birth_place": "Berwick-upon-Tweed, Northumberland, England",
+    "death_date": "1949",
+    "death_place": "Berwick-upon-Tweed, Northumberland, England",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/player/thomas-herriot-25234 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "80",
+        "bat avg": "80.00",
+        "100s/50s": "\u2013/1",
+        "top score": "80",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1911",
+        "Scotland": "1911"
+    }
+}

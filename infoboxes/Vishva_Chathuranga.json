@@ -1,0 +1,17 @@
+{
+    "name": "Vishva Chathuranga",
+    "fullname": "Bamina Hannadige Vishva Chathuranga Peiris",
+    "birth_place": "Moratuwa, Sri Lanka",
+    "source": "http://www.espncricinfo.com/ci/content/player/1028653.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1998-10-9",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

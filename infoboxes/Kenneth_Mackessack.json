@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Kenneth Mackessack",
+    "birth_place": "Alves, Morayshire, Scotland",
+    "death_date": "df=y",
+    "death_place": "Elgin, Morayshire, Scotland",
+    "family": "Douglas Mackessack (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17198.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "34",
+        "bat avg": "11.33",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "321",
+        "wickets": "8",
+        "bowl avg": "25.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/42",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Northern Punjab": "1926/27",
+        "Europeans": "1927/28"
+    }
+}

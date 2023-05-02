@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Coker",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Tingewick, Buckinghamshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11654.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "136",
+        "bat avg": "6.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1840&ndash;1844"
+    }
+}

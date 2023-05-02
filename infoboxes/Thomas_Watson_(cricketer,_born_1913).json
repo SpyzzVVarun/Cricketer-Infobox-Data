@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Thomas Mead Watson",
+    "birth_place": "Lewisham, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Bath, Somerset, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/22787.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "92",
+        "bat avg": "18.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1933&ndash;1935"
+    }
+}

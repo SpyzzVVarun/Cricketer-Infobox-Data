@@ -1,0 +1,29 @@
+{
+    "name": "Gordon Campbell",
+    "country": "Australia",
+    "fullname": "Gordon Cathcart Campbell",
+    "birth_place": "Myrtle Bank, South Australia, South Australia",
+    "death_date": "1961",
+    "death_place": "Woodville South, South Australia, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/4713.html ",
+    "First-class": {
+        "matches": "23",
+        "runs": "497",
+        "bat avg": "15.06",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "28/20"
+    },
+    "clubs": {
+        "South Australia": "1909/10-1914/15"
+    },
+    "birth_date": "1885-6-4"
+}

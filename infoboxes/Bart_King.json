@@ -1,0 +1,39 @@
+{
+    "name": "Bart King",
+    "country": "United States",
+    "fullname": "John Barton King",
+    "birth_place": "Philadelphia, Pennsylvania, U.S.",
+    "death_date": "1965",
+    "death_place": "Philadelphia, Pennsylvania, U.S.",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "September 29,",
+    "debutyear1": "1893",
+    "debutfor1": "Gentlemen of Philadelphia",
+    "debutagainst1": "Australians",
+    "lastdate1": "October 4,",
+    "lastyear1": "1912",
+    "lastfor1": "Gentlemen of Philadelphia",
+    "lastagainst1": "Australians",
+    "source": "https://cricketarchive.com/Archive/Players/6/6356/6356.html CricketArchive ",
+    "First-class": {
+        "matches": "65",
+        "runs": "2,134",
+        "bat avg": "20.51",
+        "100s/50s": "1/8",
+        "deliveries": "13729",
+        "wickets": "415",
+        "bowl avg": "15.65",
+        "fivefor": "38",
+        "tenfor": "11",
+        "best bowling": "10/53",
+        "catches/stumpings": "67/\u2013"
+    },
+    "clubs": {
+        "Gentlemen of Philadelphia": "1893\u20131912",
+        "G.S. Patterson XI": "1894"
+    },
+    "birth_date": "1873-10-19"
+}

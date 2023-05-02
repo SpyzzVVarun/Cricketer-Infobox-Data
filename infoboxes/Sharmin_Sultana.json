@@ -1,0 +1,31 @@
+{
+    "name": "Sharmin Sultana",
+    "female": "true",
+    "country": "Bangladesh",
+    "fullname": "Sharmin Sultana",
+    "birth_place": "Bogra, Bangladesh",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "2017\u20132019",
+    "odidebutdate": "16 January",
+    "odidebutyear": "2017",
+    "odidebutagainst": "South Africa",
+    "odicap": "25",
+    "lastodidate": "4 November",
+    "lastodiyear": "2019",
+    "lastodiagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/924179.html Cricinfo ",
+    "WODI": {
+        "matches": "13",
+        "runs": "115",
+        "bat avg": "8.84",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Sylhet Division": "2009/10\u20132012/13",
+        "Rajshahi Division": "2017\u20132017/18"
+    },
+    "birth_date": "1993-12-1"
+}

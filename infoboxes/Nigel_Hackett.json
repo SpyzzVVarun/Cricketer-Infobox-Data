@@ -1,0 +1,26 @@
+{
+    "name": "Nigel Hackett",
+    "fullname": "Nigel Paul Hackett",
+    "birth_place": "Stowbridge, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/14401.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "deliveries": "354",
+        "wickets": "8",
+        "bowl avg": "31.37",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/45",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1992",
+        "Staffordshire": "1991\u20131994"
+    },
+    "birth_date": "1962-8-22"
+}

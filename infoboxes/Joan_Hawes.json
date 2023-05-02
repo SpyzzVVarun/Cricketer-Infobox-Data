@@ -1,0 +1,53 @@
+{
+    "name": "Joan Hawes",
+    "female": "true",
+    "country": "England",
+    "fullname": "Joan Lillian Hawes",
+    "birth_place": "Lambeth, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Warminster, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "1957\u20131958",
+    "testdebutdate": "27 December",
+    "testdebutyear": "1957",
+    "testdebutagainst": "New Zealand",
+    "testcap": "48",
+    "lasttestdate": "21 March",
+    "lasttestyear": "1958",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17022/17022.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "1.66",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "564",
+        "wickets": "10",
+        "bowl avg": "17.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "20",
+        "runs": "50",
+        "bat avg": "6.25",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "2,770",
+        "wickets": "43",
+        "bowl avg": "17.69",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1955\u20131964"
+    },
+    "birth_date": "1933-11-18"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "John Shields",
+    "country": "England",
+    "birth_place": "Loudoun, Ayrshire, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Isley Walton, Kegworth, Leicestershire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "type1": "FC",
+    "debutdate1": "12 July",
+    "debutyear1": "1906",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "26 June",
+    "lastyear1": "1923",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32732/32732.html CricketArchive ",
+    "First-class": {
+        "matches": "133",
+        "runs": "1401",
+        "bat avg": "8.19",
+        "100s/50s": "0/2",
+        "top score": "63",
+        "catches/stumpings": "177/59"
+    },
+    "clubs": {
+        "Leicestershire": "1906\u20131923"
+    },
+    "birth_date": "1882-2-1"
+}

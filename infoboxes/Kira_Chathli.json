@@ -1,0 +1,31 @@
+{
+    "name": "Kira Chathli",
+    "female": "true",
+    "fullname": "Kira Meghan Chathli",
+    "birth_place": "Southwark, Greater London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1127/1127807/1127807.html CricketArchive",
+    "WLA": {
+        "matches": "24",
+        "runs": "290",
+        "bat avg": "13.80",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "catches/stumpings": "10/1"
+    },
+    "WT20": {
+        "matches": "51",
+        "runs": "394",
+        "bat avg": "17.13",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "13/7"
+    },
+    "clubs": {
+        "Surrey": "2013\u2013present",
+        "South East Stars": "2021\u2013present",
+        "Oval Invincibles": "2022\u2013present"
+    },
+    "birth_date": "1999-7-29"
+}

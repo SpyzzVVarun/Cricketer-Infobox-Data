@@ -1,0 +1,38 @@
+{
+    "name": "Ashraf Ali",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "-",
+    "odicap": "32",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/39008.html  ",
+    "Tests": {
+        "matches": "8",
+        "runs": "229",
+        "bat avg": "45.79",
+        "100s/50s": "-/2",
+        "top score": "65",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "17/5"
+    },
+    "ODIs": {
+        "matches": "16",
+        "runs": "69",
+        "bat avg": "17.25",
+        "100s/50s": "-/-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "17/3"
+    },
+    "clubs": {},
+    "birth_date": "22 April 1958"
+}

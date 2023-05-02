@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Peter Marriott Raleigh Scott",
+    "birth_place": "Paddington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Villers-Bocage, Normandy, France",
+    "family": "Robert Scott (brother), Charles Marriott (grandfather), George Marriott (great-uncle)",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/20632.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "114",
+        "bat avg": "16.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "678",
+        "wickets": "5",
+        "bowl avg": "64.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1932&ndash;1933"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "John Purdy",
+    "country": "England",
+    "fullname": "John Henry Purdy",
+    "birth_place": "Brimington, Derbyshire, England",
+    "death_date": "1938",
+    "death_place": "Mansfield, England",
+    "batting": "Right-handed",
+    "family": "Henry Purdy (nephew)",
+    "type1": "FC",
+    "debutdate1": "25 June",
+    "debutyear1": "1896",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "12 July",
+    "lastyear1": "1906",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Players/32/32210/32210.html CricketArchive ",
+    "First-class": {
+        "matches": "9",
+        "runs": "39",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "deliveries": "750",
+        "wickets": "9",
+        "bowl avg": "34.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/53",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1896\u20131906"
+    },
+    "birth_date": "1871-9-23"
+}

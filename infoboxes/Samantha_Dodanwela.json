@@ -1,0 +1,41 @@
+{
+    "name": "Samantha Dodanwela",
+    "fullname": "Samantha Bandara Dodanwela",
+    "birth_place": "Kandy, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/48588.html Cricinfo ",
+    "FC": {
+        "matches": "28",
+        "runs": "133",
+        "bat avg": "10.23",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "3367",
+        "wickets": "103",
+        "bowl avg": "16.83",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/44",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/28",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Sinhalese Sports Club": "1993-94 to 1996-97"
+    },
+    "birth_date": "1970-9-15"
+}

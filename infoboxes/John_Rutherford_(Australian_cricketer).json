@@ -1,0 +1,47 @@
+{
+    "name": "John Rutherford",
+    "fullname": "John Walter Rutherford",
+    "birth_place": "Bruce Rock, Western Australia",
+    "death_date": "2022",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "nickname": "Pythagoras",
+    "country": "Australia",
+    "onetest": "true",
+    "testdebutagainst": "India",
+    "testdebutdate": "26 October",
+    "testdebutyear": "1956",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7411.html ESPNcricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/11",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "67",
+        "runs": "3,367",
+        "bat avg": "31.76",
+        "100s/50s": "6/15",
+        "top score": "167",
+        "deliveries": "3,353",
+        "wickets": "29",
+        "bowl avg": "45.27",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "53/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1952/53\u20131960/61"
+    },
+    "birth_date": "1929-9-25"
+}

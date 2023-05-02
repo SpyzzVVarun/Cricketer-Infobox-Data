@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Budden",
+    "birth_place": "Fareham, Hampshire, England",
+    "death_date": "1969",
+    "death_place": "Winchester, Hampshire, England",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/9285.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "17.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "168",
+        "wickets": "2",
+        "bowl avg": "51.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/30",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1900"
+    },
+    "birth_date": "1879-7-18"
+}

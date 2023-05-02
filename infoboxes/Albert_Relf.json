@@ -1,0 +1,42 @@
+{
+    "name": "Albert Relf",
+    "birth_place": "Burwash, East Sussex, England",
+    "death_date": "26 March 1937 (aged 52)",
+    "death_place": "Wellington College, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "England",
+    "testdebutdate": "11 December",
+    "testdebutyear": "1903",
+    "lasttestdate": "27 February",
+    "lasttestyear": "1914",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/19365.html Cricinfo",
+    "Tests": {
+        "matches": "13",
+        "runs": "416",
+        "bat avg": "23.11",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "1764",
+        "wickets": "25",
+        "bowl avg": "24.96",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/85",
+        "catches/stumpings": "14/\u2013"
+    },
+    "First-class": {
+        "matches": "565",
+        "runs": "22238",
+        "bat avg": "26.79",
+        "100s/50s": "26/112",
+        "deliveries": "108193",
+        "wickets": "1897",
+        "bowl avg": "20.94",
+        "fivefor": "114",
+        "tenfor": "23",
+        "best bowling": "9/95",
+        "catches/stumpings": "535/\u2013"
+    },
+    "clubs": {}
+}

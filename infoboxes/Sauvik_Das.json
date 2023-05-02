@@ -1,0 +1,40 @@
+{
+    "name": "Sauvik Das",
+    "country": "India",
+    "fullname": "Sauvik Das",
+    "birth_place": "Karimganj, Assam",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/india/content/player/28012.html Cricinfo ",
+    "First class": {
+        "matches": "7",
+        "runs": "73",
+        "bat avg": "7.30",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "9/0"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "0/"
+    },
+    "Twenty20": {},
+    "clubs": {},
+    "birth_date": "1983-12-23"
+}

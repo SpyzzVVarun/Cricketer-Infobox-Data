@@ -1,0 +1,50 @@
+{
+    "name": "William Solomon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "birth_place": "Fort Beaufort, Cape Colony",
+    "death_date": "df=y",
+    "death_place": "Cradock, Cape Province, South Africa",
+    "onetest": "true",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testcap": "43",
+    "testdebutdate": "14 February",
+    "testdebutyear": "1899",
+    "lasttestdate": "14 February",
+    "lasttestyear": "1899",
+    "source": "https://cricketarchive.com/Archive/Players/0/230/230.html CricketArchive ",
+    "Tests": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/-"
+    },
+    "First-class": {
+        "matches": "5",
+        "runs": "73",
+        "bat avg": "9.12",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "6.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "5/-"
+    },
+    "clubs": {
+        "Transvaal": "1892\u201393 to 1898\u201399",
+        "Eastern Province": "1905\u201306"
+    },
+    "birth_date": "1872-4-23"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Carlton Baugh",
+    "country": "West Indies",
+    "fullname": "Carlton Seymour Baugh, Jr.",
+    "birth_place": "Kingston, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right arm leg Right arm leg break",
+    "role": "Wicket-keeper",
+    "family": "Carlton Baugh (father)",
+    "testdebutdate": "19 April",
+    "testdebutyear": "2003",
+    "testdebutagainst": "Australia",
+    "lasttestdate": "27 April",
+    "lasttestyear": "2012",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "17 May",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Australia",
+    "lastodidate": "25 March",
+    "lastodiyear": "2012",
+    "lastodiagainst": "Australia",
+    "source": "http://www.espncricinfo.com/west-indies-v-india-2011/content/player/51446.html ESPNCricinfo ",
+    "Tests": {
+        "matches": "21",
+        "runs": "610",
+        "bat avg": "17.94",
+        "100s/50s": "0/3",
+        "top score": "68",
+        "catches/stumpings": "43/5"
+    },
+    "ODIs": {
+        "matches": "47",
+        "runs": "482",
+        "bat avg": "20.08",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "39/12"
+    },
+    "FC": {
+        "matches": "96",
+        "runs": "4,601",
+        "bat avg": "35.40",
+        "100s/50s": "12/19",
+        "catches/stumpings": "191/23"
+    },
+    "LA": {
+        "matches": "93",
+        "runs": "1,083",
+        "bat avg": "21.23",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "catches/stumpings": "92/25"
+    },
+    "clubs": {},
+    "birth_date": "1982-6-23"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Geoffrey Foster",
+    "birth_place": "Malvern, Worcestershire, England",
+    "death_date": "1971",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12963.html CricInfo",
+    "First-class": {
+        "matches": "141",
+        "runs": "6,600",
+        "bat avg": "28.32",
+        "100s/50s": "11/26",
+        "top score": "175",
+        "deliveries": "388",
+        "wickets": "8",
+        "bowl avg": "35.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/21",
+        "catches/stumpings": "160/1"
+    },
+    "clubs": {
+        "Worcestershire": "1903\u20131914",
+        "Oxford University": "1905\u20131908",
+        "Kent": "1921\u20131922"
+    },
+    "birth_date": "1884-10-16"
+}

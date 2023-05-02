@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Algernon Haskett-Smith",
+    "birth_place": "Marylebone, London, England",
+    "death_date": "df=yes",
+    "death_place": "Paddington, London, England",
+    "heightft": "5",
+    "heightinch": "7",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/14615.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "114",
+        "bat avg": "16.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1879"
+    }
+}

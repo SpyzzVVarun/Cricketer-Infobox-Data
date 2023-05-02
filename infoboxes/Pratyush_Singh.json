@@ -1,0 +1,59 @@
+{
+    "name": "Pratyush Singh",
+    "country": "India",
+    "birth_place": "Hazaribagh, Jharkhand, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "All rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/717205.html Cricinfo ",
+    "FC": {
+        "matches": "19",
+        "runs": "973",
+        "bat avg": "27.80",
+        "100s/50s": "1/4",
+        "top score": "110",
+        "deliveries": "33",
+        "wickets": "4",
+        "bowl avg": "85.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "19/-"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "219",
+        "bat avg": "15.64",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "306",
+        "wickets": "8",
+        "bowl avg": "35.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/21",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "141",
+        "bat avg": "7.83",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "139",
+        "wickets": "5",
+        "bowl avg": "35.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/1",
+        "catches/stumpings": "9/-"
+    },
+    "clubs": {
+        "Delhi": "2013\u20132015",
+        "Chennai Super Kings": "2015",
+        "Jharkhand": "2016\u20132018",
+        "Tripura": "2018\u20132021",
+        "Bihar": "2021\u2013present"
+    },
+    "birth_date": "1994-9-4"
+}

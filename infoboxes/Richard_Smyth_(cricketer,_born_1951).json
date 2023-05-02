@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Richard Ian Smyth",
+    "birth_place": "Bishopwearmouth,, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/20908.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "711",
+        "bat avg": "18.23",
+        "100s/50s": "&ndash;/3",
+        "top score": "61",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "39",
+        "bat avg": "9.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Durham": "1974",
+        "Cambridge University": "1973&ndash;1975"
+    },
+    "birth_date": "1951-11-19"
+}

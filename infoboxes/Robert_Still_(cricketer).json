@@ -1,0 +1,28 @@
+{
+    "name": "Robert Still",
+    "country": "Australia",
+    "fullname": "Robert Stuart Still",
+    "birth_place": "Bathurst, New South Wales, Australia",
+    "death_date": "1907",
+    "death_place": "Launceston, Tasmania, Australia",
+    "bowling": "Roundarm right-arm Roundarm right-arm fast",
+    "family": "William Still (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/7683.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "49",
+        "bat avg": "16.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "132",
+        "wickets": "10",
+        "bowl avg": "6.80",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/23",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1853/54&ndash;1857/58"
+    },
+    "birth_date": "1822-3-15"
+}

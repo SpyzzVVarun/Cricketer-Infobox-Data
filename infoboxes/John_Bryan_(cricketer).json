@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "John Bryan",
+    "birth_place": "Lower Slaughter,, Gloucestershire",
+    "death_date": "1909",
+    "death_place": "Minchinhampton,, Gloucestershire England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/10106.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1873"
+    },
+    "birth_date": "1841-10-17"
+}

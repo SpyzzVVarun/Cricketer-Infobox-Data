@@ -1,0 +1,38 @@
+{
+    "name": "Belinda Vakarewa",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Belinda Waimakare Vakarewa",
+    "birth_place": "Griffith, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "role": "Bowler",
+    "internationalspan": "2017",
+    "oneodi": "true",
+    "odidebutdate": "29 June",
+    "odidebutyear": "2017",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "135",
+    "source": "http://www.espncricinfo.com/australia/content/player/944417.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "-/-",
+        "top score": "\u2013",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Sydney Thunder": "2022/23\u2013present",
+        "New South Wales": "2016/17\u20132018/19",
+        "Hobart Hurricanes": "2019/20\u20132021/22",
+        "Tasmania": "2019/20\u20132021/22"
+    },
+    "birth_date": "1998-1-22"
+}

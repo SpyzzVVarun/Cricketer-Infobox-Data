@@ -1,0 +1,40 @@
+{
+    "name": "Mike Lucas",
+    "country": "Australia",
+    "fullname": "Michael John Lucas",
+    "birth_place": "Ashgrove, Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/australia/content/player/6331.html Cricinfo",
+    "FC": {
+        "matches": "19",
+        "runs": "737",
+        "bat avg": "19.91",
+        "100s/50s": "1/3",
+        "top score": "107",
+        "deliveries": "16",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1968-69 to 1974-75"
+    },
+    "birth_date": "1944-4-14"
+}

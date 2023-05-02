@@ -1,0 +1,18 @@
+{
+    "name": "John Robinson",
+    "fullname": "John Foster Robinson",
+    "birth_place": "Bristol, England",
+    "death_date": "1988",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/19775.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "0"
+    },
+    "clubs": {
+        "Gloucestershire": "1929"
+    },
+    "birth_date": "1909-2-2"
+}

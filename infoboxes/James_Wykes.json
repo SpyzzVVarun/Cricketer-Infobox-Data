@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "James Cochrane Wykes",
+    "birth_place": "Leigh-on-Sea, Essex, England",
+    "death_date": "1992",
+    "death_place": "Harrogate, Yorkshire, England",
+    "family": "Norman Wykes (brother)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/james-wykes-25402 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1946"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Cloudesley Dewar Bullock Marsham",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "death_date": "1915",
+    "death_place": "Harrietsham, Kent, England",
+    "family": "C. H. B. Marsham (son), Francis Marsham (son), Charles Marsham (brother), Robert Marsham (brother), Algernon Marsham (grandson)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium-fast",
+    "source": "https://www.espncricinfo.com/player/cloudesley-marsham-17378 Cricinfo ",
+    "First-class": {
+        "matches": "34",
+        "runs": "602",
+        "bat avg": "11.57",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "6,440",
+        "wickets": "180",
+        "bowl avg": "12.25",
+        "fivefor": "14",
+        "tenfor": "4",
+        "best bowling": "9/64",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1854&ndash;1858",
+        "Marylebone Cricket Club": "1857&ndash;1859"
+    }
+}

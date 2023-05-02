@@ -1,0 +1,42 @@
+{
+    "name": "Brian Evans",
+    "fullname": "John Brian Evans",
+    "nickname": "Ginger",
+    "birth_place": "Clydach, Wales",
+    "death_date": "2011",
+    "death_place": "Grimsby, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12534.html Cricinfo",
+    "First-class": {
+        "matches": "88",
+        "runs": "1535",
+        "bat avg": "13.70",
+        "100s/50s": "0/7",
+        "deliveries": "14,263",
+        "wickets": "251",
+        "bowl avg": "27.04",
+        "fivefor": "10",
+        "tenfor": "0",
+        "best bowling": "8/42",
+        "catches/stumpings": "46/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "deliveries": "338",
+        "wickets": "3",
+        "bowl avg": "70.66",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/26",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Glamorgan": "1958 to 1963",
+        "Lincolnshire": "1965 to 1971"
+    },
+    "birth_date": "1936-11-9"
+}

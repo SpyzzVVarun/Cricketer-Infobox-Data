@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Gwynfor Leonard Benson",
+    "birth_place": "Birmingham, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/9700.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "102",
+        "bat avg": "34.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "16.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1959\u20131961"
+    },
+    "birth_date": "1941-1-7"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Tony Gordon Bland",
+    "birth_place": "Ranworth, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10280.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "29.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/29",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1965\u20131968"
+    },
+    "birth_date": "1941-7-19"
+}

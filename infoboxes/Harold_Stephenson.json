@@ -1,0 +1,53 @@
+{
+    "name": "Harold Stephenson",
+    "country": "England",
+    "fullname": "Harold William Stephenson",
+    "birth_place": "Haverton Hill, County Durham, England",
+    "death_date": "2008",
+    "death_place": "England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "type1": "First-class",
+    "debutdate1": "5 May",
+    "debutyear1": "1948",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "23 May",
+    "lastyear1": "1964",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Warwickshire",
+    "source": "http://www.cricinfo.com/ci/content/player/20357.html Cricinfo ",
+    "First-class": {
+        "matches": "463",
+        "runs": "13195",
+        "bat avg": "20.08",
+        "100s/50s": "7/45",
+        "deliveries": "140",
+        "wickets": "1",
+        "bowl avg": "135.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "746/334"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013/\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Durham": "1944\u20131947",
+        "Somerset": "1948\u20131964",
+        "Dorset": "1965\u20131968"
+    },
+    "birth_date": "1920-07-18"
+}

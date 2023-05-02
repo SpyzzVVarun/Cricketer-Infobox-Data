@@ -1,0 +1,70 @@
+{
+    "name": "Lorcan Tucker",
+    "country": "Ireland",
+    "fullname": "Lorcan John Tucker",
+    "birth_place": "Dublin, Leinster, Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper\u2013batsmen",
+    "internationalspan": "2016\u2013present",
+    "testdebutdate": "4 April",
+    "testdebutyear": "2023",
+    "testdebutagainst": "Bangladesh",
+    "testcap": "23",
+    "lasttestdate": "24 April",
+    "lasttestyear": "2023",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "3 May",
+    "odidebutyear": "2019",
+    "odidebutagainst": "England",
+    "odicap": "57",
+    "lastodidate": "23 March",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Bangladesh",
+    "odishirt": "3",
+    "T20Idebutdate": "5 September",
+    "T20Idebutyear": "2016",
+    "T20Idebutagainst": "Hong Kong",
+    "T20Icap": "40",
+    "lastT20Idate": "31 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Bangladesh",
+    "T20Ishirt": "3",
+    "source": "http://www.espncricinfo.com/ci/content/player/928057.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "276",
+        "bat avg": "55.20",
+        "100s/50s": "1/1",
+        "top score": "108",
+        "catches/stumpings": "2/1"
+    },
+    "ODI": {
+        "matches": "35",
+        "runs": "517",
+        "bat avg": "19.88",
+        "100s/50s": "0/2",
+        "top score": "83",
+        "catches/stumpings": "42/1"
+    },
+    "T20I": {
+        "matches": "49",
+        "runs": "875",
+        "bat avg": "21.87",
+        "100s/50s": "0/5",
+        "top score": "84",
+        "catches/stumpings": "39/4"
+    },
+    "FC": {
+        "matches": "15",
+        "runs": "518",
+        "bat avg": "28.77",
+        "100s/50s": "1/2",
+        "top score": "108",
+        "catches/stumpings": "33/5"
+    },
+    "clubs": {
+        "Leinster Lightning": "2015\u2013present",
+        "MI Emirates": "2023"
+    },
+    "birth_date": "1996-9-10"
+}

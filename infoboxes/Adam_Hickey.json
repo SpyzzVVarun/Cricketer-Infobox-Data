@@ -1,0 +1,53 @@
+{
+    "name": "Adam James Hickey",
+    "country": "England",
+    "fullname": "Adam James Hickey",
+    "birth_place": "Darlington, County Durham, England",
+    "heightft": "6",
+    "heightinch": "3",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "26 June",
+    "debutyear1": "2016",
+    "debutfor1": "Durham",
+    "debutagainst1": "Sri Lanka A",
+    "type2": "Twenty20",
+    "debutdate2": "8 July",
+    "debutyear2": "2017",
+    "debutfor2": "Durham",
+    "debutagainst2": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/997/997052/997052.html CricketArchive ",
+    "FC": {
+        "matches": "4",
+        "runs": "92",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "deliveries": "377",
+        "wickets": "6",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/19",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "11.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Durham( 21 )": "2016\u20132017"
+    },
+    "birth_date": "1997-3-1"
+}

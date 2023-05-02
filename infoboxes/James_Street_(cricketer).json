@@ -1,0 +1,43 @@
+{
+    "name": "James Street",
+    "country": "England",
+    "fullname": "James Street",
+    "birth_place": "Cranleigh, Surrey, England",
+    "death_date": "1906",
+    "death_place": "Godalming, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "20 August",
+    "debutyear1": "1863",
+    "debutfor1": "Surrey",
+    "debutagainst1": "North",
+    "lastdate1": "31 August",
+    "lastyear1": "1878",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Gloucestershire",
+    "umpire": "true",
+    "testsumpired": "1",
+    "umptestdebutyr": "1890",
+    "umptestlastyr": "1890",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/33/33085/33085.html CricketArchive ",
+    "First-class": {
+        "matches": "143",
+        "runs": "1,308",
+        "bat avg": "7.51",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "28,072",
+        "wickets": "540",
+        "bowl avg": "21.44",
+        "fivefor": "36",
+        "tenfor": "6",
+        "best bowling": "7/141",
+        "catches/stumpings": "74/&ndash;"
+    },
+    "clubs": {
+        "Surrey": "1863\u20131878"
+    },
+    "birth_date": "1839-3-10"
+}

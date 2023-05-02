@@ -1,0 +1,42 @@
+{
+    "name": "Anthony Windows",
+    "fullname": "Anthony Robin Windows",
+    "birth_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/england/content/player/23099.html Cricinfo ",
+    "FC": {
+        "matches": "149",
+        "runs": "3537",
+        "bat avg": "17.00",
+        "100s/50s": "0/8",
+        "top score": "82",
+        "deliveries": "19,137",
+        "wickets": "286",
+        "bowl avg": "29.04",
+        "fivefor": "9",
+        "tenfor": "0",
+        "best bowling": "8/78",
+        "catches/stumpings": "42/0"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "68",
+        "bat avg": "9.71",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "318",
+        "wickets": "7",
+        "bowl avg": "30.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/28",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1960\u20131974",
+        "Cambridge University": "1962\u20131964"
+    },
+    "birth_date": "1942-9-25"
+}

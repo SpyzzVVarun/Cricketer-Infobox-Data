@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Alfred Pink",
+    "birth_place": "Fratton, Hampshire, England",
+    "death_date": "1931",
+    "death_place": "Portsmouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/cricketers/alfred-pink-18540 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "54",
+        "bat avg": "27.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "15.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1885"
+    }
+}

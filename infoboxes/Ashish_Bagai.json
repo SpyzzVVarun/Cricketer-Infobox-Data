@@ -1,0 +1,49 @@
+{
+    "name": "Ashish Bagai",
+    "country": "Canada",
+    "birth_place": "Delhi, India",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper, batsman",
+    "internationalspan": "2003\u20132013",
+    "odidebutdate": "11 February",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "14",
+    "lastodidate": "13 March",
+    "lastodiyear": "2011",
+    "lastodiagainst": "Australia",
+    "odishirt": "|T20Idebutdate=2 August |T20Idebutagainst=Netherlands |lastT20Iagainst=Kenya |T20Icap=1 |lastT20Idate=26 November |lastT20Iyear=2013 |T20Idebutyear=2008",
+    "source": "http://www.espncricinfo.com/ci/content/player/23797.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "59",
+        "runs": "1,922",
+        "bat avg": "38.44",
+        "100s/50s": "2/16",
+        "catches/stumpings": "50/9"
+    },
+    "T20I": {
+        "matches": "14",
+        "runs": "314",
+        "bat avg": "26.16",
+        "100s/50s": "0/2",
+        "top score": "53",
+        "catches/stumpings": "4/4"
+    },
+    "FC": {
+        "matches": "13",
+        "runs": "749",
+        "bat avg": "28.16",
+        "100s/50s": "0/6",
+        "top score": "93",
+        "catches/stumpings": "29/3"
+    },
+    "LA": {
+        "matches": "86",
+        "runs": "2,374",
+        "bat avg": "32.52",
+        "100s/50s": "2/18",
+        "catches/stumpings": "84/19"
+    },
+    "clubs": {},
+    "birth_date": "1982-1-26"
+}

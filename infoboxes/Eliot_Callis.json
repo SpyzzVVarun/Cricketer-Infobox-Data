@@ -1,0 +1,41 @@
+{
+    "name": "Eliot Callis",
+    "country": "England",
+    "fullname": "Eliot Callis",
+    "birth_place": "Sheffield, South Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "26 June",
+    "debutyear1": "2016",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Pakistan A",
+    "type2": "List A",
+    "onetype2": "true",
+    "debutdate2": "31 July",
+    "debutyear2": "2014",
+    "debutfor2": "Yorkshire",
+    "debutagainst2": "Sri Lanka A",
+    "source": "http://www.espncricinfo.com/ci/content/player/1026389.html ESPNcricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "131",
+        "bat avg": "65.50",
+        "100s/50s": "0/1",
+        "top score": "84",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2014\u2013present"
+    },
+    "birth_date": "1994-11-8"
+}

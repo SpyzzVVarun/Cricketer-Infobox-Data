@@ -1,0 +1,30 @@
+{
+    "name": "Reginald Hands",
+    "birth_place": "Claremont, Cape Town, Cape Colony",
+    "death_place": "Boulogne, Pas-de-Calais, France",
+    "death_date": "20 April 1918 (aged 29)",
+    "family": "Philip Hands (brother)",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "27 February",
+    "testdebutyear": "1914",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/45405.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "7",
+        "runs": "289",
+        "bat avg": "28.90",
+        "100s/50s": "0/2",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {}
+}

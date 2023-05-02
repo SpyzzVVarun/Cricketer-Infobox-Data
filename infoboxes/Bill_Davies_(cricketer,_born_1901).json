@@ -1,0 +1,24 @@
+{
+    "name": "Bill Davies",
+    "country": "Wales",
+    "fullname": "William Henry Davies",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/11834.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "4.12",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "351",
+        "wickets": "3",
+        "bowl avg": "43.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/35",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1922&ndash;1927"
+    }
+}

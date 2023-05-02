@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "George Marius Kennedy",
+    "death_date": "1869",
+    "death_place": "Secunderabad, Hyderabad State,, British India",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16126.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "53",
+        "bat avg": "13.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "193",
+        "wickets": "7",
+        "bowl avg": "18.71",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/70",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

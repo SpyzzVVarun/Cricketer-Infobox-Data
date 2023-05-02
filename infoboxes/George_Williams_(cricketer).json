@@ -1,0 +1,25 @@
+{
+    "name": "George Williams",
+    "country": "England",
+    "fullname": "George Edward Williams",
+    "birth_place": "Aldershot, Hampshire",
+    "source": "http://www.cricinfo.com/ci/content/player/22447.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Berkshire": "1908&ndash;1909",
+        "Hampshire": "1904"
+    }
+}

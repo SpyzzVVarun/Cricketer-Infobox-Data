@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Wyatt Gibbs",
+    "birth_place": "West Itchenor, Sussex, England",
+    "death_date": "1891",
+    "death_place": "Bagshot, Surrey, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/13597.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "42",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "448",
+        "wickets": "7",
+        "bowl avg": "25.71",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/49",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1864\u20131865"
+    },
+    "birth_date": "1830-5-5"
+}

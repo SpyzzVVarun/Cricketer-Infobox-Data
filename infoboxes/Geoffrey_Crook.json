@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey David Crook",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11571.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "21.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/43",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "2000\u20132002"
+    },
+    "birth_date": "1978-10-30"
+}

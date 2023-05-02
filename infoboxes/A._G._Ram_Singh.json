@@ -1,0 +1,27 @@
+{
+    "name": "A. G. Ram Singh",
+    "country": "India",
+    "fullname": "Amritsar Govindsingh Ram Singh",
+    "death_date": "11 August 1999",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "A. G. Kripal Singh (son)",
+    "source": "http://www.espncricinfo.com/india/content/player/33200.html Cricinfo",
+    "First-class": {
+        "matches": "56",
+        "runs": "3,314",
+        "bat avg": "35.25",
+        "100s/50s": "6/22",
+        "top score": "126",
+        "deliveries": "10,826",
+        "wickets": "265",
+        "bowl avg": "18.56",
+        "fivefor": "24",
+        "tenfor": "8",
+        "best bowling": "8/14",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Madras": "1932/33\u20131946/47"
+    }
+}

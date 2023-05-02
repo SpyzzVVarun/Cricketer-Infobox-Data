@@ -1,0 +1,52 @@
+{
+    "name": "Steven Trenchard",
+    "fullname": "Steven Montague Trenchard",
+    "birth_place": "Johannesburg, Transvaal, South Africa",
+    "source": "http://espncricinfo.com/zimbabwe/content/player/479293.html Cricinfo",
+    "FC": {
+        "matches": "28",
+        "runs": "1,138",
+        "bat avg": "32.51",
+        "100s/50s": "2/6",
+        "top score": "124",
+        "deliveries": "336",
+        "wickets": "5",
+        "bowl avg": "43.80",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "2/29",
+        "catches/stumpings": "29/\u2013"
+    },
+    "List A": {
+        "matches": "31",
+        "runs": "290",
+        "bat avg": "13.18",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "71",
+        "wickets": "1",
+        "bowl avg": "75.00",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "1/11",
+        "catches/stumpings": "12/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "144",
+        "bat avg": "24.00",
+        "100s/50s": "0/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Matabeleland Tuskers": "2010/11\u20132011/12",
+        "Mid West Rhinos": "2012/13\u20132014/15"
+    },
+    "birth_date": "1983-08-12"
+}

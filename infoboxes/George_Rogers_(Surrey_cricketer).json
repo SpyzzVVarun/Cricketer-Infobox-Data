@@ -1,0 +1,28 @@
+{
+    "name": "George Rogers",
+    "country": "England",
+    "fullname": "George Russell Rogers",
+    "birth_place": "Brixton, Surrey, England",
+    "death_date": "1905",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/19799.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "34",
+        "bat avg": "3.77",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Surrey": "1870"
+    },
+    "birth_date": "1847-4-20"
+}

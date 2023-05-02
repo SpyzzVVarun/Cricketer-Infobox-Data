@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Vincent D'Alessio Rowley",
+    "birth_place": "Graaff-Reinet, Cape Province, South Africa",
+    "death_date": "1996",
+    "death_place": "Newbury, Berkshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/19855.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Devon": "1949\u20131951",
+        "Oxford University": "1927"
+    },
+    "birth_date": "1907-9-12"
+}

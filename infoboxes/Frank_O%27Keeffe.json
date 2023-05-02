@@ -1,0 +1,29 @@
+{
+    "name": "Frank O'Keeffe",
+    "fullname": "Francis Joseph Aloysius O'Keeffe",
+    "birth_place": "Waverley, Sydney, Australia",
+    "death_date": "1924",
+    "death_place": "Hampstead, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/australia/content/player/7042.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "926",
+        "bat avg": "71.23",
+        "100s/50s": "3/4",
+        "top score": "180",
+        "deliveries": "354",
+        "wickets": "12",
+        "bowl avg": "19.16",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/45",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "New South Wales": "1919-20 to 1920-21",
+        "Victoria": "1921-22"
+    },
+    "birth_date": "1896-5-11"
+}

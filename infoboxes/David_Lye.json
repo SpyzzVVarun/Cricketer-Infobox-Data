@@ -1,0 +1,27 @@
+{
+    "name": "David Lye",
+    "country": "England",
+    "fullname": "David Frank Lye",
+    "birth_place": "Exeter, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16377.html Cricinfo ",
+    "List A": {
+        "matches": "10",
+        "runs": "265",
+        "bat avg": "29.44",
+        "100s/50s": "1/1",
+        "top score": "121",
+        "deliveries": "16",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Devon": "1998&ndash;present"
+    },
+    "birth_date": "1979-4-11"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "James Robert Wade",
+    "birth_place": "Bedford, Bedfordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/22563.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "50",
+        "bat avg": "25.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "38",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Bedfordshire": "1999-2000",
+        "Northamptonshire Cricket Board": "2001"
+    },
+    "birth_date": "1981-5-7"
+}

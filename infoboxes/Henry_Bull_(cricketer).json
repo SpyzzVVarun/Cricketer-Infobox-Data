@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Henry Edward Bull",
+    "birth_place": "Newport Pagnell, Buckinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Maids Moreton, Buckinghamshire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10132.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "494",
+        "bat avg": "14.11",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1863",
+        "Marylebone Cricket Club": "1864&ndash;1876"
+    }
+}

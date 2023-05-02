@@ -1,0 +1,38 @@
+{
+    "name": "Herbert Hearne",
+    "fullname": "Herbert Hearne",
+    "birth_place": "Chalfont St Giles, Buckinghamshire",
+    "death_date": "df=yes",
+    "death_place": "Chalfont St Giles, Buckinghamshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "J.T. Hearne (brother) Walter Hearne (brother) Other family",
+    "type1": "FC",
+    "debutdate1": "26 May",
+    "debutyear1": "1884",
+    "debutfor1": "Kent",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "12 August",
+    "lastyear1": "1886",
+    "lastfor1": "Kent",
+    "lastagainst1": "Middlesex",
+    "source": "http://www.espncricinfo.com/ci/content/player/14692.html CricInfo",
+    "First-class": {
+        "matches": "25",
+        "runs": "252",
+        "bat avg": "9.33",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "3,129",
+        "wickets": "57",
+        "bowl avg": "24.82",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/27",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Kent": "1884\u20131886"
+    },
+    "birth_date": "1862-03-15"
+}

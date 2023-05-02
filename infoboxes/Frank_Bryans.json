@@ -1,0 +1,25 @@
+{
+    "country": "Argentina",
+    "fullname": "Francisco Alfred Bryans",
+    "birth_place": "Argentina",
+    "death_date": "df=yes",
+    "death_place": "Buenos Aires, Argentina",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23599.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "240",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/1",
+        "top score": "65",
+        "deliveries": "831",
+        "wickets": "18",
+        "bowl avg": "23.33",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/67",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Norman Williams",
+    "country": "Australia",
+    "fullname": "Norman Leonard Williams",
+    "birth_place": "Semaphore, South Australia",
+    "death_date": "df=yes",
+    "death_place": "Semaphore, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/16/16867/16867.html CricketArchive ",
+    "First-class": {
+        "matches": "34",
+        "runs": "850",
+        "bat avg": "15.45",
+        "100s/50s": "0/5",
+        "top score": "56",
+        "deliveries": "4,778",
+        "wickets": "122",
+        "bowl avg": "39.16",
+        "fivefor": "9",
+        "tenfor": "3",
+        "best bowling": "6/40",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1919/20\u20131928/29"
+    },
+    "birth_date": "1899-09-23"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Frank Gough",
+    "country": "Australia",
+    "fullname": "Francis Joseph Gough",
+    "birth_place": "Sandgate, Brisbane, Queensland, Australia",
+    "death_date": "1980",
+    "death_place": "Sandgate, Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/australia/content/player/5469.html Cricinfo",
+    "First-class": {
+        "matches": "40",
+        "runs": "1779",
+        "bat avg": "24.70",
+        "100s/50s": "2/11",
+        "top score": "137",
+        "deliveries": "1413",
+        "wickets": "10",
+        "bowl avg": "92.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/100",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1924-25 to 1932-33"
+    },
+    "birth_date": "1898-7-26"
+}

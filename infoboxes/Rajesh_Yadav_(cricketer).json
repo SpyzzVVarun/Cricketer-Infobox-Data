@@ -1,0 +1,42 @@
+{
+    "name": "Rajesh Yadav",
+    "country": "India",
+    "fullname": "Nandlal Rajesh Yadav",
+    "family": "Shivlal Yadav (brother), Arjun Yadav (nephew)",
+    "birth_place": "Hyderabad, Andhra Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/36102.html ESPNcricinfo ",
+    "FC": {
+        "matches": "60",
+        "runs": "997",
+        "bat avg": "18.12",
+        "100s/50s": "0/7",
+        "deliveries": "7,634",
+        "wickets": "159",
+        "bowl avg": "30.20",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "7/58",
+        "catches/stumpings": "15/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "45",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "204",
+        "wickets": "4",
+        "bowl avg": "41.25",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/36",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "1984/85\u20131993/94"
+    },
+    "birth_date": "1965-2-20"
+}

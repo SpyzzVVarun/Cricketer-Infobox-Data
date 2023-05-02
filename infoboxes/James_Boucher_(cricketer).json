@@ -1,0 +1,23 @@
+{
+    "name": "James Boucher",
+    "fullname": "James Chrysostom Boucher",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/2/2287/2287.html CricketArchive",
+    "First-class": {
+        "matches": "28",
+        "runs": "625",
+        "bat avg": "13.58",
+        "100s/50s": "0/2",
+        "top score": "85",
+        "deliveries": "5,544",
+        "wickets": "168",
+        "bowl avg": "14.04",
+        "fivefor": "18",
+        "tenfor": "5",
+        "best bowling": "7/13",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {}
+}

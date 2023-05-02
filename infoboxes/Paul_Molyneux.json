@@ -1,0 +1,39 @@
+{
+    "name": "Paul Molyneux",
+    "country": "England",
+    "fullname": "Paul Seymour Morthier Molyneux",
+    "birth_place": "Wells, Somerset, England",
+    "death_date": "1980",
+    "death_place": "Hove, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-breaks",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "22 May",
+    "debutyear1": "1937",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "11 June",
+    "lastyear1": "1937",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/3/3721/3721.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "94",
+        "bat avg": "9.40",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1937"
+    },
+    "birth_date": "1906-1-12"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Thomas Douglas Watt",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1949",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/thomas-watt-25389 Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "149",
+        "bat avg": "10.64",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "1,871",
+        "wickets": "21",
+        "bowl avg": "39.09",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/47",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1912&ndash;1924"
+    }
+}

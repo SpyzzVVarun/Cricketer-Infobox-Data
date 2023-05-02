@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Arthur Robert Ward",
+    "birth_place": "Bloomsbury, London, England",
+    "death_date": "1884",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Unknown",
+    "family": "William Ward (father), Henry Ward (brother), Matthew Ward (brother)",
+    "source": "https://www.espncricinfo.com/cricketers/arthur-ward-23332 Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "226",
+        "bat avg": "11.30",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1852\u20131854",
+        "Marylebone Cricket Club": "1853\u20131854"
+    }
+}

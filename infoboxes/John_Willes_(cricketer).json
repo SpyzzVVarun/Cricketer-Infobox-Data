@@ -1,0 +1,37 @@
+{
+    "name": "John Willes",
+    "country": "England",
+    "fullname": "John Willes",
+    "birth_place": "Headcorn, Kent",
+    "death_date": "df=yes",
+    "death_place": "The Moat, Staunton, WorcestershireAlthough Staunton is in Gloucestershire, The Moat, the house where Willes died, is in Worcestershire. ",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "7 July",
+    "debutyear1": "1806",
+    "debutfor1": "Gentlemen",
+    "debutagainst1": "Players",
+    "lastdate1": "15 July",
+    "lastyear1": "1822",
+    "lastfor1": "Kent",
+    "lastagainst1": "MCC",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/33/33887/33887.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "9",
+        "bat avg": "1.28",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "\u2013name=bowl",
+        "wickets": "6At the time Willes played only wickets where the batsman was bowled were credited to the bowler.",
+        "bowl avg": "\u2013name=bowl",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/?name=bowl",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Kent": "1806\u20131822"
+    }
+}

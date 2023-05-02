@@ -1,0 +1,30 @@
+{
+    "name": "George Claridge",
+    "birth_place": "Sevenoaks, Kent",
+    "death_date": "df=yes",
+    "death_place": "Sevenoaks, Kent",
+    "family": "John Thomas Claridge (brother)",
+    "type1": "FC",
+    "debutdate1": "17 August",
+    "debutyear1": "1818",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "MCC",
+    "lastdate1": "29 June",
+    "lastyear1": "1829",
+    "lastfor1": "Kent",
+    "lastagainst1": "Sussex",
+    "source": "https://www.espncricinfo.com/player/george-claridge-11630 CricInfo",
+    "First-class": {
+        "matches": "10",
+        "runs": "68",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "6/2"
+    },
+    "clubs": {
+        "Hampshire XI": "1818\u20131828",
+        "Kent XI": "1827\u20131829"
+    },
+    "birth_date": "1794-05-21"
+}

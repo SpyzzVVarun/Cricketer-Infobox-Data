@@ -1,0 +1,31 @@
+{
+    "name": "Stuart Surridge",
+    "country": "England",
+    "fullname": "Walter Stuart Surridge",
+    "birth_place": "Herne Hill, London, England",
+    "death_date": "1992",
+    "death_place": "Glossop, Derbyshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler, captain",
+    "source": "http://www.espncricinfo.com/ci/content/player/20411.html Cricinfo ",
+    "First-class": {
+        "matches": "267",
+        "runs": "3,882",
+        "bat avg": "12.94",
+        "100s/50s": "0/10",
+        "top score": "87",
+        "deliveries": "32,319",
+        "wickets": "506",
+        "bowl avg": "28.89",
+        "fivefor": "22",
+        "tenfor": "1",
+        "best bowling": "7/49",
+        "catches/stumpings": "376/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1939",
+        "Surrey": "1947\u20131959"
+    },
+    "birth_date": "1917-9-3"
+}

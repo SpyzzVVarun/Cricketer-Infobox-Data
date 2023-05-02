@@ -1,0 +1,33 @@
+{
+    "name": "Rajeshwari Goyal",
+    "country": "India",
+    "fullname": "Rajeshwari Rameshwar Goyal",
+    "nickname": "Raju",
+    "birth_place": "Orai, Uttar Pradesh, India",
+    "female": "true",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm off-break",
+    "odidebutdate": "15 December",
+    "odidebutyear": "2006",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "84",
+    "lastodidate": "28 February",
+    "lastodiyear": "2007",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/10/10439/10439.html CricketArchive ",
+    "WODI": {
+        "matches": "5",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "deliveries": "199",
+        "wickets": "3",
+        "bowl avg": "24.00",
+        "fivefor": "0",
+        "tenfor": "-",
+        "best bowling": "2/12",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {},
+    "birth_date": "1981-12-15"
+}

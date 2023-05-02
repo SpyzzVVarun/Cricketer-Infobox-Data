@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Edward Neville Seymour",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Leinster, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24515.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "9",
+        "bat avg": "1.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "deliveries": "270",
+        "wickets": "4",
+        "bowl avg": "36.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/26",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1927&ndash;1928"
+    }
+}

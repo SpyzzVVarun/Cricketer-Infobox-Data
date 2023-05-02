@@ -1,0 +1,62 @@
+{
+    "name": "Carol-Ann James",
+    "female": "true",
+    "country": "West Indies",
+    "internationalspan": "1993\u20131997",
+    "fullname": "Carol-Ann James",
+    "birth_place": "Trinidad",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "India",
+    "odicap": "19",
+    "lastodidate": "20 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Archive/Players/17/17424/17424.html CricketArchive ",
+    "WODI": {
+        "matches": "11",
+        "runs": "250",
+        "bat avg": "31.25",
+        "100s/50s": "0/2",
+        "deliveries": "557",
+        "wickets": "16",
+        "bowl avg": "13.31",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WFC": {
+        "matches": "4",
+        "runs": "57",
+        "bat avg": "28.50",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "?",
+        "wickets": "5",
+        "bowl avg": "4.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WLA": {
+        "matches": "18",
+        "runs": "375",
+        "bat avg": "34.09",
+        "100s/50s": "0/3",
+        "deliveries": "557",
+        "wickets": "18",
+        "bowl avg": "12.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1982\u20131996"
+    }
+}

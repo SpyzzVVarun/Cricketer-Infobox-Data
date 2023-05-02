@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "John Leonard Parkes",
+    "birth_place": "Leamington Spa, Warwickshire, England",
+    "death_date": "2022",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/18756.html ESPNricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "78",
+        "wickets": "1",
+        "bowl avg": "61.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/61",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1938-6-23"
+}

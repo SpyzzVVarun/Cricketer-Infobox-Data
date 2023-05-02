@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Paul Jonathan Humphries",
+    "birth_place": "Bromsgrove, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14307.html Cricinfo ",
+    "LA": {
+        "matches": "5",
+        "runs": "6",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "270",
+        "wickets": "6",
+        "bowl avg": "30.83",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/25",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Herefordshire": "1993-1994",
+        "Staffordshire": "1995"
+    },
+    "birth_date": "1965-10-10"
+}

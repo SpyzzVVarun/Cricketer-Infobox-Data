@@ -1,0 +1,29 @@
+{
+    "name": "Vinoo Tewarie",
+    "country": "Netherlands",
+    "fullname": "Vinoo Arsh Baldewpersad Tewarie",
+    "birth_place": "Purmerend, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "oneodi": "true",
+    "odidebutdate": "29, June",
+    "odidebutyear": "2011",
+    "odidebutagainst": "Scotland",
+    "odicap": "53",
+    "ODI": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1991-09-15"
+}

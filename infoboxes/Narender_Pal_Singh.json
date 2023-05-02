@@ -1,0 +1,40 @@
+{
+    "name": "Narender Pal Singh",
+    "country": "India",
+    "birth_place": "Laksar, Uttarakhand, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/34052.html ESPNcricinfo ",
+    "FC": {
+        "matches": "101",
+        "runs": "1,535",
+        "bat avg": "14.48",
+        "100s/50s": "0/3",
+        "top score": "74",
+        "deliveries": "18,237",
+        "wickets": "319",
+        "bowl avg": "26.95",
+        "fivefor": "16",
+        "tenfor": "2",
+        "best bowling": "7/24",
+        "catches/stumpings": "39/\u2013"
+    },
+    "List A": {
+        "matches": "48",
+        "runs": "188",
+        "bat avg": "14.46",
+        "100s/50s": "0/0",
+        "deliveries": "2,393",
+        "wickets": "70",
+        "bowl avg": "24.68",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/31",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "1993/94\u20132006/07"
+    },
+    "birth_date": "1973-9-10"
+}

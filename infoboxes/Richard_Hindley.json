@@ -1,0 +1,41 @@
+{
+    "name": "Richard Hindley",
+    "country": "England",
+    "fullname": "Richard James Edward Hindley",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm Off-break",
+    "source": "http://www.cricinfo.com/ci/content/player/15158.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "76",
+        "bat avg": "76.00",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "54",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "50",
+        "bat avg": "25.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "38",
+        "deliveries": "124",
+        "wickets": "3",
+        "bowl avg": "30.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/27",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "2003",
+        "Hampshire Cricket Board": "2001&ndash;2002"
+    },
+    "birth_date": "1975-4-25"
+}

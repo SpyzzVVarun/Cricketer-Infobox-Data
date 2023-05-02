@@ -1,0 +1,24 @@
+{
+    "name": "Colin Metson",
+    "fullname": "Colin Peter Metson",
+    "birth_place": "Goff's Oak, Hertfordshire, England",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/colin-metson-17009 CricInfo",
+    "First-class": {
+        "matches": "232",
+        "runs": "4,062",
+        "bat avg": "17.43",
+        "100s/50s": "0/7",
+        "top score": "96",
+        "catches/stumpings": "561/51"
+    },
+    "List A": {
+        "matches": "234",
+        "runs": "943",
+        "bat avg": "11.78",
+        "100s/50s": "0/0",
+        "catches/stumpings": "227/63"
+    },
+    "clubs": {},
+    "birth_date": "2 July 1963"
+}

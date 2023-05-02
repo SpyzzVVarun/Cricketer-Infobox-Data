@@ -1,0 +1,39 @@
+{
+    "name": "Christopher Hurst",
+    "country": "England",
+    "fullname": "Christopher Salkeld Hurst",
+    "birth_place": "Beckenham, Kent",
+    "death_date": "1963",
+    "death_place": "Dorking, Surrey",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "14 May",
+    "debutyear1": "1906",
+    "debutfor1": "Oxford Univ",
+    "debutagainst1": "H. D. G. Leveson Gower's XI",
+    "lastdate1": "10 June",
+    "lastyear1": "1927",
+    "lastfor1": "Kent",
+    "lastagainst1": "Northamptonshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/15071.html CricInfo ",
+    "First-class": {
+        "matches": "47",
+        "runs": "1,787",
+        "bat avg": "23.51",
+        "100s/50s": "3/4",
+        "top score": "124",
+        "deliveries": "144",
+        "wickets": "3",
+        "bowl avg": "32.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/26",
+        "catches/stumpings": "41/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1906\u20131909",
+        "Kent": "1908\u20131927"
+    },
+    "birth_date": "1886-7-20"
+}

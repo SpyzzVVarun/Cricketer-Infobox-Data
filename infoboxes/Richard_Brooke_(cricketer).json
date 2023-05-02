@@ -1,0 +1,32 @@
+{
+    "country": "England",
+    "fullname": "Richard Hubert John Brooke",
+    "birth_place": "Eton, Buckinghamshire, England",
+    "death_date": "1973",
+    "death_place": "Great Canfield, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10020.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "1,043",
+        "bat avg": "40.11",
+        "100s/50s": "5/1",
+        "top score": "140",
+        "deliveries": "598",
+        "wickets": "14",
+        "bowl avg": "23.64",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/7",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1933\u20131935",
+        "Oxford University": "1931\u20131932",
+        "Free Foresters": "1931",
+        "Gloucestershire": "1931",
+        "Buckinghamshire": "1929\u20131939"
+    },
+    "birth_date": "1909-6-16"
+}

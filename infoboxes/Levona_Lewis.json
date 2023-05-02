@@ -1,0 +1,48 @@
+{
+    "name": "Levona Lewis",
+    "female": "true",
+    "fullname": "Levona P Lewis",
+    "birth_place": "South Africa",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Bowler",
+    "internationalspan": "1999\u20132000",
+    "country": "South Africa",
+    "odidebutdate": "5 February",
+    "odidebutyear": "1999",
+    "odidebutagainst": "Australia",
+    "odicap": "20",
+    "lastodidate": "16 December",
+    "lastodiyear": "2000",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/8/8073/8073.html CricketArchive ",
+    "WODI": {
+        "matches": "9",
+        "runs": "17",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "335",
+        "wickets": "10",
+        "bowl avg": "23.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WLA": {
+        "matches": "11",
+        "runs": "32",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "425",
+        "wickets": "12",
+        "bowl avg": "24.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/20",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1997/98"
+    },
+    "birth_date": "1972-11-15"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Reg Ellis",
+    "fullname": "Reginald Sidney Ellis",
+    "birth_place": "Light Pass, South Australia",
+    "death_date": "2015",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/5176.html Cricinfo",
+    "module": "embed        = yes     ",
+    "First-class": {
+        "matches": "21",
+        "runs": "47",
+        "bat avg": "2.93",
+        "100s/50s": "0/0",
+        "top score": "10 not out",
+        "deliveries": "4776",
+        "wickets": "78",
+        "bowl avg": "26.53",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "6/144",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1917-11-26"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "William Shakespeare",
+    "country": "England",
+    "fullname": "William Harold Nelson Shakespeare",
+    "birth_place": "Worcester, England",
+    "death_date": "1976",
+    "death_place": "Whittington, Worcestershire, England",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/32/32682/32682.html CricketArchive ",
+    "FC": {
+        "matches": "26",
+        "runs": "789",
+        "bat avg": "19.72",
+        "100s/50s": "0/4",
+        "deliveries": "5",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {},
+    "birth_date": "1893-8-24"
+}

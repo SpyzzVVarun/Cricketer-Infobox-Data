@@ -1,0 +1,28 @@
+{
+    "name": "John Pretlove",
+    "fullname": "John Frederick Pretlove",
+    "birth_place": "Camberwell, London",
+    "death_date": "2018",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/19048.html Cricinfo ",
+    "First-class": {
+        "matches": "124",
+        "runs": "5,115",
+        "bat avg": "26.78",
+        "100s/50s": "10/26",
+        "top score": "137",
+        "deliveries": "3,023",
+        "wickets": "43",
+        "bowl avg": "30.67",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/55",
+        "catches/stumpings": "70/2"
+    },
+    "clubs": {
+        "Cambridge University": "1954\u20131956",
+        "Kent": "1955\u20131959"
+    },
+    "birth_date": "1932-11-23"
+}

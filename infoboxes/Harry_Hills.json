@@ -1,0 +1,17 @@
+{
+    "name": "Harry Hills",
+    "fullname": "Harry Mountford Hills",
+    "birth_place": "Mayland, Essex, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/14193.html Cricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "139",
+        "wickets": "15"
+    },
+    "clubs": {
+        "Essex": "1912\u20131919"
+    },
+    "birth_date": "1886-9-28"
+}

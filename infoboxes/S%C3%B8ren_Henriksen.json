@@ -1,0 +1,39 @@
+{
+    "country": "Denmark",
+    "fullname": "S\u00f8ren Henriksen",
+    "birth_place": "R\u00f8dovre, Denmark",
+    "family": "Mads Henriksen and Jonas Henriksen (sons)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23907.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "174",
+        "wickets": "2",
+        "bowl avg": "52.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/26",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "426",
+        "wickets": "6",
+        "bowl avg": "54.83",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/51",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1985&ndash;1986"
+    },
+    "birth_date": "1964-12-1"
+}

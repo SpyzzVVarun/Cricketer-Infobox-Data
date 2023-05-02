@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "David Jones",
+    "birth_place": "Hodthorpe, Bolsover, Derbyshire, , England",
+    "death_date": "1998",
+    "death_place": "Scarborough, Yorkshire, , England",
+    "batting": "Right-handed",
+    "bowling": "Fast Fast medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15724.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "594",
+        "bat avg": "18.00",
+        "100s/50s": "&ndash;/3",
+        "top score": "60",
+        "deliveries": "240",
+        "wickets": "26",
+        "bowl avg": "5.20",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/26",
+        "catches/stumpings": "15/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire": "1935&ndash;1939"
+    },
+    "birth_date": "1914-4-9"
+}

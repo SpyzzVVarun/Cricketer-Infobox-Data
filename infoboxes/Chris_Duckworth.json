@@ -1,0 +1,47 @@
+{
+    "name": "Chris Duckworth",
+    "fullname": "Christopher Anthony Russell Duckworth",
+    "birth_place": "Que Que, Southern Rhodesia",
+    "death_date": "df=y",
+    "death_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutdate": "15 February",
+    "testdebutyear": "1957",
+    "lasttestdate": "1 March",
+    "lasttestyear": "1957",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/44727.html Cricinfo",
+    "Tests": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "3/-"
+    },
+    "First-class": {
+        "matches": "77",
+        "runs": "2572",
+        "bat avg": "22.96",
+        "100s/50s": "3/10",
+        "top score": "158",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "91/13"
+    },
+    "clubs": {
+        "Natal": "1952-53\u20131953-54",
+        "Rhodesia": "1954-55\u20131962-63"
+    },
+    "birth_date": "1933-3-22"
+}

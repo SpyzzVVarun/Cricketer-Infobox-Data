@@ -1,0 +1,33 @@
+{
+    "name": "John Valentine",
+    "country": "Canada",
+    "fullname": "John Nugent Valentine",
+    "birth_place": "Montreal, Quebec, Canada",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "family": "Barry Valentine (father)",
+    "internationalspan": "1979",
+    "odidebutdate": "9 Jun",
+    "odidebutyear": "1979",
+    "odidebutagainst": "Pakistan",
+    "odicap": "10",
+    "lastodidate": "6 Jun",
+    "lastodiyear": "1979",
+    "lastodiagainst": "Australia",
+    "source": "http://content-uk.cricinfo.com/canada/content/player/23794.html ESPNCricinfo ",
+    "ODIs": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "114",
+        "wickets": "3",
+        "bowl avg": "22.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1954-9-20"
+}

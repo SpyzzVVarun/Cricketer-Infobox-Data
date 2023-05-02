@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Frank Cyril Quaife",
+    "birth_place": "Hastings, Sussex, England",
+    "death_date": "1968",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/19304.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "95",
+        "wickets": "1",
+        "bowl avg": "47.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/19",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1928"
+    },
+    "birth_date": "1905-4-5"
+}

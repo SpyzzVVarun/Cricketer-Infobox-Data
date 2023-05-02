@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Paris",
+    "birth_place": "Torphichen, West Lothian, Scotland",
+    "death_date": "1990",
+    "death_place": "Bathgate, West Lothian,, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/alexander-paris-25317 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "40",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "458",
+        "wickets": "12",
+        "bowl avg": "17.50",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/35",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1937&ndash;1938"
+    }
+}

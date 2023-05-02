@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Hector Gordon Jelf",
+    "birth_place": "Putney, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "St Leonards-on-Sea, Sussex,, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/15674.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "48",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {
+        "Oxford University": "1938"
+    }
+}

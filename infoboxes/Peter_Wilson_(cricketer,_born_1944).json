@@ -1,0 +1,27 @@
+{
+    "name": "Peter Wilson",
+    "country": "South Africa",
+    "fullname": "Peter Robert Bain Wilson",
+    "birth_place": "Bulawayo, Southern Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/23080.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "664",
+        "bat avg": "17.47",
+        "100s/50s": "\u2013/1",
+        "top score": "94",
+        "deliveries": "261",
+        "wickets": "7",
+        "bowl avg": "33.28",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/60",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1968&ndash;1970"
+    },
+    "birth_date": "1944-10-31"
+}

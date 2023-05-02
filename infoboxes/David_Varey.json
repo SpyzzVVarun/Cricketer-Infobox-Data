@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "David William Varey",
+    "birth_place": "Darlington, County Durham, England",
+    "batting": "Right-handed",
+    "role": "Occasional wicket-keeper",
+    "family": "Jonathan Varey (twin brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/22195.html Cricinfo ",
+    "First-class": {
+        "matches": "66",
+        "runs": "2,723",
+        "bat avg": "27.23",
+        "100s/50s": "2/12",
+        "deliveries": "10",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "50/1"
+    },
+    "List A": {
+        "matches": "15",
+        "runs": "183",
+        "bat avg": "12.20",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "38",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1988",
+        "Cheshire": "1982&ndash;1983",
+        "Lancashire": "1984&ndash;1987",
+        "Cambridge University": "1981&ndash;1983"
+    },
+    "birth_date": "1961-10-15"
+}

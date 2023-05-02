@@ -1,0 +1,30 @@
+{
+    "name": "William Light",
+    "country": "England",
+    "fullname": "William Frederick Light",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "1930",
+    "death_place": "Exeter, Devon, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm fast, Slow left-arm Right-arm fast, Slow left-arm orthodox",
+    "family": "Elisha Light (brother)",
+    "source": "http://www.cricinfo.com/england/content/player/16291.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "101",
+        "bat avg": "5.94",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "deliveries": "695",
+        "wickets": "10",
+        "bowl avg": "34.30",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/32",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1897\u20131898",
+        "Devon": "1902\u20131928"
+    }
+}

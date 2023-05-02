@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Ernest Arthur Cowdrey",
+    "birth_place": "Calcutta, Bengal Presidency,, British India",
+    "death_date": "1954",
+    "death_place": "Sutton, Surrey, England",
+    "family": "Colin Cowdrey (son), Chris Cowdrey (grandson), Graham Cowdrey (grandson), Fabian Cowdrey (great-grandson)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/27742.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "36",
+        "bat avg": "36.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1926/27"
+    }
+}

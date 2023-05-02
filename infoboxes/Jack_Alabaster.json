@@ -1,0 +1,50 @@
+{
+    "name": "Jack Alabaster",
+    "fullname": "John Chaloner Alabaster",
+    "birth_place": "Invercargill, Southland",
+    "internationalspan": "1955\u20131972",
+    "country": "New Zealand",
+    "testdebutagainst": "Pakistan",
+    "testdebutdate": "13 October",
+    "testdebutyear": "1955",
+    "testcap": "71",
+    "lasttestdate": "9 March",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1972",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "family": "Gren Alabaster (brother)",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36175.html Cricinfo ",
+    "Test": {
+        "matches": "21",
+        "runs": "272",
+        "bat avg": "9.71",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "3,992",
+        "wickets": "49",
+        "bowl avg": "38.02",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/46",
+        "catches/stumpings": "7/\u2013"
+    },
+    "First-class": {
+        "matches": "143",
+        "runs": "2,427",
+        "bat avg": "13.33",
+        "100s/50s": "0/5",
+        "top score": "82",
+        "deliveries": "30,144",
+        "wickets": "500",
+        "bowl avg": "25.37",
+        "fivefor": "25",
+        "tenfor": "4",
+        "best bowling": "7/41",
+        "catches/stumpings": "94/\u2013"
+    },
+    "clubs": {
+        "Otago": "1955/56\u20131971/72"
+    },
+    "birth_date": "1930-7-11"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "JP Triegaardt",
+    "country": "South Africa",
+    "fullname": "Jean-Pierre Horatio Triegaardt",
+    "birth_place": "Kimberley, Cape Province,, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/91/91747/91747.html CricketArchive ",
+    "FC": {
+        "matches": "33",
+        "runs": "519",
+        "bat avg": "15.26",
+        "100s/50s": "0/0",
+        "catches/stumpings": "109/7"
+    },
+    "LA": {
+        "matches": "25",
+        "runs": "74",
+        "bat avg": "5.28",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "23/5"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {
+        "Griqualand West": "2005\u20132013",
+        "Knights": "2012\u20132013"
+    },
+    "birth_date": "1984-3-10"
+}

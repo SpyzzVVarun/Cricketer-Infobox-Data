@@ -1,0 +1,40 @@
+{
+    "name": "Satyajit Parab",
+    "fullname": "Satyajit Sudhir Parab",
+    "birth_place": "Vadodara, Gujarat, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/india/content/player/32186.html Cricinfo ",
+    "First-class": {
+        "matches": "84",
+        "runs": "4,782",
+        "bat avg": "34.90",
+        "100s/50s": "16/16",
+        "top score": "154",
+        "deliveries": "281",
+        "wickets": "2",
+        "bowl avg": "94.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "62/\u2013"
+    },
+    "List A": {
+        "matches": "35",
+        "runs": "1,134",
+        "bat avg": "34.36",
+        "100s/50s": "1/7",
+        "top score": "142",
+        "deliveries": "76",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Baroda": "1997\u20132009"
+    },
+    "birth_date": "1975-9-1"
+}

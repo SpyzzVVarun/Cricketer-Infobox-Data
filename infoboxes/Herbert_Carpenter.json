@@ -1,0 +1,35 @@
+{
+    "name": "Herbert Carpenter",
+    "country": "England",
+    "fullname": "Herbert Arthur Carpenter",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1933",
+    "death_place": "Whipps Cross, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Robert Carpenter (father)",
+    "source": "https://cricketarchive.com/Archive/Players/4/4802/4802.html CricketArchive ",
+    "First-class": {
+        "matches": "310",
+        "runs": "14,939",
+        "bat avg": "28.45",
+        "100s/50s": "25/68",
+        "top score": "199",
+        "deliveries": "3,871",
+        "wickets": "50",
+        "bowl avg": "44.92",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/57",
+        "catches/stumpings": "257/0"
+    },
+    "clubs": {
+        "MCC": "1893\u20131906",
+        "Essex": "1894\u20131920",
+        "Players": "1896\u20131902",
+        "Earl de la Warr's XI": "1896",
+        "South": "1896\u20131897",
+        "Cambridgeshire": "1913"
+    },
+    "birth_date": "1869-7-12"
+}

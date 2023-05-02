@@ -1,0 +1,46 @@
+{
+    "name": "Glenicia James",
+    "female": "true",
+    "fullname": "Glenicia James",
+    "birth_place": "Saint Lucia",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "2003",
+    "country": "West Indies",
+    "odidebutdate": "13 March",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "39",
+    "lastodidate": "22 March",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Sri Lanka",
+    "source": "https://cricketarchive.com/Archive/Players/46/46087/46087.html CricketArchive ",
+    "WODI": {
+        "matches": "5",
+        "runs": "116",
+        "bat avg": "23.20",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "1",
+        "runs": "40",
+        "bat avg": "40.00",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "15",
+        "runs": "297",
+        "bat avg": "22.84",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Saint Lucia": "1994\u20132003"
+    },
+    "birth_date": "1974-06-16"
+}

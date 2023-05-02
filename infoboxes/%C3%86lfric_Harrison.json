@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "\u00c6lfric Milton Harrison",
+    "birth_place": "Blandford, Dorset, England",
+    "death_date": "1958",
+    "death_place": "Clifton, Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm (unknown Right-arm (unknown style)",
+    "source": "http://www.espncricinfo.com/ci/content/player/14568.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "32",
+        "bat avg": "6.40",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "14",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "33.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/33",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1913",
+        "Dorset": "1908&ndash;1946"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Dillwyn Thomas",
+    "birth_place": "Neath Abbey, Glamorgan, Wales",
+    "death_date": "1996",
+    "death_place": "Neath, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.cricinfo.com/ci/content/player/21508.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "216",
+        "wickets": "5",
+        "bowl avg": "19.80",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/64",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1939"
+    },
+    "birth_date": "1905-2-13"
+}

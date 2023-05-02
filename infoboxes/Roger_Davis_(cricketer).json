@@ -1,0 +1,42 @@
+{
+    "name": "Roger Davis",
+    "fullname": "Roger Clive Davis",
+    "birth_place": "Whitchurch, Cardiff, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "family": "John Davis (brother)",
+    "role": "All-rounder",
+    "source": "http://content-usa.cricinfo.com/england/content/player/11839.html CricInfo ",
+    "First-class": {
+        "matches": "214",
+        "runs": "7,367",
+        "bat avg": "21.60",
+        "100s/50s": "5/32",
+        "top score": "134",
+        "deliveries": "17,208",
+        "wickets": "241",
+        "bowl avg": "32.33",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "6/82",
+        "catches/stumpings": "208/\u2013"
+    },
+    "List A": {
+        "matches": "122",
+        "runs": "1,730",
+        "bat avg": "17.30",
+        "100s/50s": "1/6",
+        "top score": "101",
+        "deliveries": "2,869",
+        "wickets": "71",
+        "bowl avg": "27.49",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/48",
+        "catches/stumpings": "44/0"
+    },
+    "clubs": {
+        "Glamorgan": "1964\u20131976"
+    },
+    "birth_date": "1946-01-15"
+}

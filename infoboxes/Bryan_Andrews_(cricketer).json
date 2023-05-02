@@ -1,0 +1,63 @@
+{
+    "name": "Bryan Andrews",
+    "birth_place": "Christchurch, New Zealand",
+    "family": "Stan Andrews (father)",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "29 December",
+    "testdebutyear": "1973",
+    "testcap": "127",
+    "lasttestdate": "5 January",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1974",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36183.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "256",
+        "wickets": "2",
+        "bowl avg": "77.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "57",
+        "runs": "474",
+        "bat avg": "9.11",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "12,045",
+        "wickets": "198",
+        "bowl avg": "23.23",
+        "fivefor": "11",
+        "tenfor": "0",
+        "best bowling": "7/37",
+        "catches/stumpings": "26/\u2013"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "23",
+        "bat avg": "7.66",
+        "100s/50s": "0/0",
+        "deliveries": "528",
+        "wickets": "10",
+        "bowl avg": "31.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18 |catches/stumpings3 = 1/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1963/64\u20131966/67",
+        "Central Districts": "1966/67\u20131969/70",
+        "Otago": "1970/71\u20131973/74"
+    },
+    "birth_date": "1945-04-4"
+}

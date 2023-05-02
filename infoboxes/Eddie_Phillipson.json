@@ -1,0 +1,22 @@
+{
+    "name": "Eddie Phillipson",
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-aus.cricinfo.com/england/content/player/18935.html CricInfo ",
+    "First-class": {
+        "matches": "162",
+        "runs": "4,096",
+        "bat avg": "25.76",
+        "100s/50s": "2/26",
+        "top score": "113",
+        "deliveries": "29,501",
+        "wickets": "555",
+        "bowl avg": "24.72",
+        "fivefor": "29",
+        "tenfor": "6",
+        "best bowling": "8/100",
+        "catches/stumpings": "82/\u2013"
+    },
+    "clubs": {}
+}

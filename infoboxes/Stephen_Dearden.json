@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Stephen Edward Dearden",
+    "birth_place": "Walshaw, Bury, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11862.html Cricinfo ",
+    "LA": {
+        "matches": "7",
+        "runs": "211",
+        "bat avg": "35.16",
+        "100s/50s": "\u2013/1",
+        "deliveries": "312",
+        "wickets": "10",
+        "bowl avg": "22.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/31",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Lancashire Cricket Board": "1999-2002"
+    },
+    "birth_date": "1968-2-1"
+}

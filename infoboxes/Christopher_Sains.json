@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Christopher Frederick Sains",
+    "birth_place": "Romford, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/20485.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Essex Cricket Board": "2000"
+    },
+    "birth_date": "1978-8-3"
+}

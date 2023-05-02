@@ -1,0 +1,42 @@
+{
+    "name": "Tinashe Ruswa",
+    "country": "Zimbabwe",
+    "fullname": "Tinashe Paradzayi Ruswa",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/45/45522/45522.html CricketArchive ",
+    "First-class": {
+        "matches": "8",
+        "runs": "108",
+        "bat avg": "15.42",
+        "100s/50s": "0/0",
+        "deliveries": "721",
+        "wickets": "12",
+        "bowl avg": "39.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/56",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "162",
+        "wickets": "3",
+        "bowl avg": "39.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/42",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Manicaland": "2002/03",
+        "Mashonaland": "2003/04"
+    },
+    "birth_date": "1985-2-17"
+}

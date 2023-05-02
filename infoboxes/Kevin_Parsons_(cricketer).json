@@ -1,0 +1,31 @@
+{
+    "name": "Kevin Parsons",
+    "country": "England",
+    "fullname": "Kevin John Parsons",
+    "birth_place": "Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Occasional wicket-keeper",
+    "family": "Keith Parsons (twin brother)",
+    "type1": "LA",
+    "debutdate1": "13 July",
+    "debutyear1": "1992",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Transvaal",
+    "lastdate1": "29 August",
+    "lastyear1": "2002",
+    "lastfor1": "Somerset Cricket Board",
+    "lastagainst1": "Cornwall",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/9/9603/9603.html CricketArchive ",
+    "LA": {
+        "matches": "8",
+        "runs": "161",
+        "bat avg": "26.83",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Somerset": "1992\u20132002"
+    },
+    "birth_date": "1973-5-2"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Joseph Manton",
+    "birth_place": "West Bromwich, Staffordshire, England",
+    "death_date": "1958",
+    "death_place": "Henham, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/17316.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "110",
+        "wickets": "1",
+        "bowl avg": "51.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/51",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1904",
+        "Warwickshire": "1898",
+        "Bedfordshire": "1895"
+    }
+}

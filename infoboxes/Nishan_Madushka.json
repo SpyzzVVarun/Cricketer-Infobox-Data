@@ -1,0 +1,32 @@
+{
+    "name": "Nishan Madushka",
+    "country": "Sri Lanka",
+    "fullname": "Kottasinghakkarage Nishan Madushka Fernando",
+    "birth_place": "Moratuwa, Sri Lanka",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "17 March",
+    "testdebutyear": "2023",
+    "testdebutagainst": "New Zealand",
+    "testcap": "163",
+    "lasttestdate": "24 April",
+    "lasttestyear": "2023",
+    "lasttestagainst": "Ireland",
+    "source": "http://www.espncricinfo.com/ci/content/player/1126045.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Colts Cricket Club": "2018/19",
+        "Police Sports Club": "2018/19",
+        "Ragama Cricket Club": "2020\u2013present",
+        "Colombo Stars": "2022"
+    },
+    "birth_date": "1999-9-10",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

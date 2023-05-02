@@ -1,0 +1,39 @@
+{
+    "name": "Henry Martyn",
+    "country": "England",
+    "fullname": "Henry Martyn",
+    "birth_place": "Lifton, Devon, England",
+    "death_date": "1928",
+    "death_place": "Dawlish, Devon, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "15 May",
+    "debutyear1": "1899",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "AJ Webbe's XI",
+    "lastdate1": "27 August",
+    "lastyear1": "1908",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/3/3708/3708.html CricketArchive ",
+    "First-class": {
+        "matches": "97",
+        "runs": "3740",
+        "bat avg": "24.60",
+        "100s/50s": "1/25",
+        "deliveries": "153",
+        "wickets": "2",
+        "bowl avg": "71.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "116/49"
+    },
+    "clubs": {
+        "Somerset": "1901&ndash;1908",
+        "Oxford University": "1899&ndash;1900",
+        "Cornwall": "1898"
+    },
+    "birth_date": "1877-07-16"
+}

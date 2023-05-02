@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William MacFarlane Mitchell",
+    "birth_place": "Lewisham, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/17622.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "480",
+        "bat avg": "15.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "deliveries": "3,285",
+        "wickets": "36",
+        "bowl avg": "55.50",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/107",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1951&ndash;1953"
+    }
+}

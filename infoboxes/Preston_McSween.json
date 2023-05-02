@@ -1,0 +1,53 @@
+{
+    "name": "Preston McSween",
+    "country": "West Indies",
+    "fullname": "Preston Anthony Shaine McSween",
+    "birth_place": "St Andrew's, Grenada",
+    "source": "http://www.espncricinfo.com/ci/content/player/670041.html Cricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "242",
+        "bat avg": "13.44",
+        "100s/50s": "0/1",
+        "top score": "86",
+        "deliveries": "2,243",
+        "wickets": "45",
+        "bowl avg": "26.68",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/64",
+        "catches/stumpings": "4/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-",
+        "top score": "-",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "39.00",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/39",
+        "catches/stumpings": "-"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "31",
+        "bat avg": "10.33",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "258",
+        "wickets": "5",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/47",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Barbados": "2016-present"
+    },
+    "birth_date": "1995-8-15"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Vishmi Gunaratne",
+    "female": "true",
+    "fullname": "Rajapaksha Mudiyanselage Vishmi Dewmini Gunarathne",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "country": "Sri Lanka",
+    "odidebutdate": "4 July",
+    "odidebutyear": "2022",
+    "odidebutagainst": "India",
+    "odicap": "75",
+    "lastodidate": "7 July",
+    "lastodiyear": "2022",
+    "lastodiagainst": "India",
+    "T20Idebutdate": "18 January",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Scotland",
+    "T20Icap": "49",
+    "lastT20Idate": "19 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/2491/2491728/2491728.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "9",
+        "runs": "104",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Chilaw Marians Cricket Club": "2021/22\u2013present"
+    },
+    "birth_date": "2005-8-22"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Esseie Shevill",
+    "fullname": "Essie Mabel Shevill",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Rene Shevill (sister)",
+    "testdebutdate": "28 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "England",
+    "lasttestdate": "18 January",
+    "lasttestyear": "1935",
+    "lasttestagainst": "England",
+    "testcap": "5",
+    "source": "http://www.espncricinfo.com/australia/content/player/53566.html Cricinfo ",
+    "WTest": {
+        "matches": "3",
+        "runs": "110",
+        "bat avg": "22.00",
+        "100s/50s": "0/1",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "49.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "New South Wales women's cricket team": "1934/35"
+    }
+}

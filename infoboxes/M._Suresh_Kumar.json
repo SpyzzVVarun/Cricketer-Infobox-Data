@@ -1,0 +1,45 @@
+{
+    "name": "M. Suresh Kumar",
+    "country": "India",
+    "fullname": "Mani Suresh Kumar",
+    "nickname": "Umri",
+    "birth_place": "Alleppey, Kerala, India",
+    "death_date": "2020",
+    "death_place": "Alappuzha, India",
+    "batting": "Left-handed",
+    "bowling": "Slow Left-arm Slow Left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/34168.html Cricinfo ",
+    "FC": {
+        "matches": "72",
+        "runs": "1657",
+        "bat avg": "19.49",
+        "100s/50s": "1/7",
+        "deliveries": "13211",
+        "wickets": "196",
+        "bowl avg": "27.77",
+        "fivefor": "12",
+        "tenfor": "0",
+        "best bowling": "6/34",
+        "catches/stumpings": "27/\u2013"
+    },
+    "List A": {
+        "matches": "51",
+        "runs": "433",
+        "bat avg": "13.53",
+        "100s/50s": "0/1",
+        "top score": "75",
+        "deliveries": "2227",
+        "wickets": "52",
+        "bowl avg": "29.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/65",
+        "catches/stumpings": "22/\u2013"
+    },
+    "clubs": {
+        "Kerala": "2001\u20132005",
+        "Railways": "1995\u20132000"
+    },
+    "birth_date": "1973-4-19"
+}

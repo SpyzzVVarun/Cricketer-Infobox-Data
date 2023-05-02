@@ -1,0 +1,53 @@
+{
+    "name": "Aaron Laraman",
+    "fullname": "Aaron William Laraman",
+    "birth_place": "Enfield, Greater London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/7/7001/7001.html CricketArchive subscription required ",
+    "FC": {
+        "matches": "47",
+        "runs": "1,378",
+        "bat avg": "30.62",
+        "100s/50s": "1/7",
+        "deliveries": "5,555",
+        "wickets": "92",
+        "bowl avg": "34.93",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/58",
+        "catches/stumpings": "17/\u2013"
+    },
+    "LA": {
+        "matches": "45",
+        "runs": "412",
+        "bat avg": "14.71",
+        "100s/50s": "0/2",
+        "top score": "51",
+        "deliveries": "1,729",
+        "wickets": "48",
+        "bowl avg": "30.20",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "7",
+        "runs": "35",
+        "bat avg": "8.75",
+        "100s/50s": "0/0",
+        "deliveries": "123",
+        "wickets": "9",
+        "bowl avg": "16.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/15",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1998\u20132002",
+        "Somerset": "2003\u20132005"
+    },
+    "birth_date": "1979-1-10"
+}

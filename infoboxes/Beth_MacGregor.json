@@ -1,0 +1,63 @@
+{
+    "name": "Beth MacGregor",
+    "female": "true",
+    "country": "England",
+    "fullname": "Elizabeth MacGregor",
+    "birth_place": "Leytonstone, Greater London, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "All-rounder",
+    "internationalspan": "2010",
+    "T20Idebutdate": "19 November",
+    "T20Idebutyear": "2010",
+    "T20Idebutagainst": "Sri Lanka",
+    "lastT20Idate": "22 November",
+    "lastT20Iyear": "2010",
+    "lastT20Iagainst": "Sri Lanka",
+    "T20Icap": "26",
+    "source": "https://cricketarchive.com/Archive/Players/300/300137/300137.html CricketArchive ",
+    "WT20I": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "1/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WLA": {
+        "matches": "44",
+        "runs": "850",
+        "bat avg": "25.00",
+        "100s/50s": "1/2",
+        "deliveries": "1,815",
+        "wickets": "28",
+        "bowl avg": "40.39",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "4/1",
+        "catches/stumpings": "9/\u2013"
+    },
+    "WT20": {
+        "matches": "19",
+        "runs": "186",
+        "bat avg": "13.28",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "281",
+        "wickets": "10",
+        "bowl avg": "22.80",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/6",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Essex": "2008\u20132013"
+    },
+    "birth_date": "1993-11-5"
+}

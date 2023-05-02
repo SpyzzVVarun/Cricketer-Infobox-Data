@@ -1,0 +1,40 @@
+{
+    "name": "Paul Bird",
+    "fullname": "Paul James Bird",
+    "birth_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/3/3440/3440.html CricketArchive ",
+    "FC": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "269",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "0/3",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "168",
+        "wickets": "3",
+        "bowl avg": "43.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/18",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1994"
+    },
+    "birth_date": "1971-5-7"
+}

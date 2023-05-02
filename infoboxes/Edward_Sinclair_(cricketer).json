@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Edward Wortley Sinclair",
+    "birth_place": "Paddington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Orpington, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/20781.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "4.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "498",
+        "wickets": "9",
+        "bowl avg": "34.44",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/162",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1889-1-4"
+}

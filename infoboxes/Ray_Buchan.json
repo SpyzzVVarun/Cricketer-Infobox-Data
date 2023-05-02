@@ -1,0 +1,27 @@
+{
+    "name": "Ray Buchan",
+    "country": "New Zealand",
+    "fullname": "William Rae Buchan",
+    "birth_place": "Thames, Waikato, New Zealand",
+    "death_date": "September 1986 (aged 77)",
+    "death_place": "Wellington, New Zealand",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36541.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "136",
+        "bat avg": "15.11",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "1533",
+        "wickets": "22",
+        "bowl avg": "24.22",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/66",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Wellington": "1943\u201344 to 1945\u201346"
+    }
+}

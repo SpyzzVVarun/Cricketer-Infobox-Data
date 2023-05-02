@@ -1,0 +1,23 @@
+{
+    "name": "Samantha Agazuma",
+    "female": "true",
+    "country": "Nigeria",
+    "batting": "Right handed",
+    "T20Idebutdate": "26 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Rwanda",
+    "T20Icap": "2",
+    "lastT20Idate": "11 June",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Namibia",
+    "source": "http://www.espncricinfo.com/ci/content/player/1172329.html Cricinfo ",
+    "WT20I": {
+        "matches": "19",
+        "runs": "159",
+        "bat avg": "13.25",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1994-7-14"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Robert Somervell",
+    "fullname": "Robert Cooke Somervell",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1967",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/38426.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "270",
+        "bat avg": "19.28",
+        "100s/50s": "0/2",
+        "deliveries": "254",
+        "wickets": "3",
+        "bowl avg": "59.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/21",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Auckland": "1911-12 to 1921-22"
+    },
+    "birth_date": "1892-5-18"
+}

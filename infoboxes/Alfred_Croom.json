@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Alfred John William Croom",
+    "birth_place": "West Reading, Berkshire, England",
+    "death_date": "1947",
+    "death_place": "Oldbury, Worcestershire, England",
+    "family": "Leslie Croom (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/player/alfred-croom-11439 Cricinfo ",
+    "First-class": {
+        "matches": "398",
+        "runs": "17,692",
+        "bat avg": "31.42",
+        "100s/50s": "24/100",
+        "top score": "211",
+        "deliveries": "9,570",
+        "wickets": "138",
+        "bowl avg": "44.00",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/65",
+        "catches/stumpings": "299/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1914&ndash;1922",
+        "Warwickshire": "1922&ndash;1939"
+    }
+}

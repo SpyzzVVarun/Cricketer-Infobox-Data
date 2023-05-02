@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Kenneth Edward Cooper",
+    "birth_place": "Bromley, Kent, England",
+    "death_date": "1969",
+    "death_place": "Malaga, Andalusia, Spain",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/kenneth-cooper-27741 Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "327",
+        "bat avg": "13.08",
+        "100s/50s": "\u2013/2",
+        "deliveries": "545",
+        "wickets": "11",
+        "bowl avg": "21.90",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/24",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1908/09\u20131922/23"
+    }
+}

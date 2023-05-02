@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Alfred McMurray",
+    "birth_place": "Belfast, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Belfast, Northern Ireland",
+    "nickname": "Fred",
+    "family": "Thomas McMurray (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/24449.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1939"
+    }
+}

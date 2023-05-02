@@ -1,0 +1,51 @@
+{
+    "name": "Andrew Stoddart",
+    "country": "England",
+    "fullname": "Andrew Ernest Stoddart",
+    "nickname": "Stoddy, Drewy, Stod url=http://www.espncricinfo.com/england/content/player/20381.html",
+    "birth_place": "Westoe, South Shields, Co. Durham, England",
+    "death_date": "1915",
+    "death_place": "St John's Wood, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "testdebutdate": "10 February",
+    "testdebutyear": "1888",
+    "testdebutagainst": "Australia",
+    "testcap": "56",
+    "lasttestdate": "2 February",
+    "lasttestyear": "1898",
+    "lasttestagainst": "Australia",
+    "source": "http://uk.cricinfo.com/db/PLAYERS/ENG/S/STODDART_AE_01000106/ Cricinfo ",
+    "Tests": {
+        "matches": "16",
+        "runs": "996",
+        "bat avg": "35.57",
+        "100s/50s": "2/3",
+        "top score": "173",
+        "deliveries": "162",
+        "wickets": "2",
+        "bowl avg": "47.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/10",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "First-class": {
+        "matches": "309",
+        "runs": "16,738",
+        "bat avg": "32.12",
+        "100s/50s": "26/85",
+        "top score": "221",
+        "deliveries": "14,717",
+        "wickets": "278",
+        "bowl avg": "23.63",
+        "fivefor": "10",
+        "tenfor": "2",
+        "best bowling": "7/67",
+        "catches/stumpings": "257/&ndash;"
+    },
+    "clubs": {
+        "Middlesex": "1885\u20131900"
+    },
+    "birth_date": "1863-3-11"
+}

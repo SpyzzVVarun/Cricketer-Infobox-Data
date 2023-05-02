@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Richard Peter Hammond-Chambers-Borgnis",
+    "birth_place": "Newbury, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Payron, France",
+    "family": "H. D. G. Leveson Gower (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9864.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "124",
+        "bat avg": "62.00",
+        "100s/50s": "1/\u2013",
+        "top score": "101",
+        "deliveries": "120",
+        "wickets": "3",
+        "bowl avg": "19.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/38",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1931"
+    }
+}

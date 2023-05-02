@@ -1,0 +1,23 @@
+{
+    "name": "Mary Nalule",
+    "female": "true",
+    "country": "Uganda",
+    "fullname": "Mary Nalule",
+    "batting": "Right-handed",
+    "oneT20I": "true",
+    "T20Idebutdate": "8 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "12",
+    "source": "http://www.espncricinfo.com/ci/content/player/1119468.html Cricinfo ",
+    "WT20I": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1997-7-16"
+}

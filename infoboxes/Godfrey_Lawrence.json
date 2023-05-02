@@ -1,0 +1,41 @@
+{
+    "name": "Godfrey Lawrence",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "South Africa",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "8 December",
+    "testdebutyear": "1961",
+    "lasttestdate": "16 February",
+    "lasttestagainst": "New Zealand",
+    "lasttestyear": "1962",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/45967.html Cricinfo",
+    "Test": {
+        "matches": "5",
+        "runs": "141",
+        "bat avg": "17.62",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "1,334",
+        "wickets": "28",
+        "bowl avg": "18.28",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "8/53",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "77",
+        "runs": "1,079",
+        "bat avg": "12.69",
+        "100s/50s": "0/1",
+        "deliveries": "18,244",
+        "wickets": "342",
+        "bowl avg": "17.97",
+        "fivefor": "15",
+        "tenfor": "1",
+        "best bowling": "8/42",
+        "catches/stumpings": "54/\u2013"
+    },
+    "clubs": {}
+}

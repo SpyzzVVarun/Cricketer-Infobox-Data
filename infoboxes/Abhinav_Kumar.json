@@ -1,0 +1,31 @@
+{
+    "name": "Abhinav Kumar",
+    "birth_place": "Hyderabad, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/26167.html Cricinfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "748",
+        "bat avg": "24.12",
+        "100s/50s": "1/4",
+        "catches/stumpings": "34/3"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "681",
+        "bat avg": "37.83",
+        "100s/50s": "2/4",
+        "top score": "110",
+        "catches/stumpings": "15/5"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "56",
+        "bat avg": "56.00",
+        "100s/50s": "0/1",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Hyderabad": "2005-2012"
+    },
+    "birth_date": "1984-11-7"
+}

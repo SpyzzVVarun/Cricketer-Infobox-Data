@@ -1,0 +1,36 @@
+{
+    "name": "Ted Fillary",
+    "fullname": "Edward William Joseph Fillary",
+    "birth_place": "Heathfield, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "type1": "FC",
+    "debutdate1": "1 May",
+    "debutyear1": "1963",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "25 June",
+    "lastyear1": "1966",
+    "lastfor1": "Kent",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.espncricinfo.com/ci/content/player/13047.html CricInfo",
+    "First-class": {
+        "matches": "45",
+        "runs": "1,371",
+        "bat avg": "19.04",
+        "100s/50s": "0/3",
+        "top score": "75",
+        "deliveries": "3,897",
+        "wickets": "82",
+        "bowl avg": "26.37",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/77",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1963\u20131965",
+        "Kent": "1963\u20131966"
+    },
+    "birth_date": "1944-04-14"
+}

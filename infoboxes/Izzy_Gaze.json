@@ -1,0 +1,67 @@
+{
+    "name": "Izzy Gaze",
+    "female": "true",
+    "fullname": "Isabella Charli Gaze",
+    "birth_place": "Haarlem, Netherlands",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "New Zealand",
+    "oneodi": "true",
+    "odidebutdate": "19 September",
+    "odidebutyear": "2022",
+    "odidebutagainst": "West Indies",
+    "odicap": "144",
+    "T20Idebutdate": "30 July",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "59",
+    "lastT20Idate": "7 August",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/2332/2332880/2332880.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "5/0"
+    },
+    "WT20I": {
+        "matches": "10",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "7/1"
+    },
+    "WLA": {
+        "matches": "17",
+        "runs": "107",
+        "bat avg": "8.91",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "9/1"
+    },
+    "WT20": {
+        "matches": "28",
+        "runs": "165",
+        "bat avg": "11.78",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "11/4"
+    },
+    "clubs": {
+        "Auckland": "2019/20\u2013present"
+    },
+    "birth_date": "2004-5-8",
+    "medaltemplates": [
+        "Country: {{NZL}}",
+        "Sport: Women's Cricket",
+        "Competition: Commonwealth Games",
+        "Bronze Medal: 2022 Birmingham Team"
+    ]
+}

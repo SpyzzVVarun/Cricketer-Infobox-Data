@@ -1,0 +1,31 @@
+{
+    "name": "Marie Bimenyimana",
+    "female": "true",
+    "country": "Rwanda",
+    "fullname": "Marie Diane Bimenyimana",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "26 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nigeria",
+    "T20Icap": "1",
+    "lastT20Idate": "18 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/1172637.html Cricinfo ",
+    "WT20I": {
+        "matches": "39",
+        "runs": "515",
+        "bat avg": "16.09",
+        "100s/50s": "1/0",
+        "deliveries": "404",
+        "wickets": "19",
+        "bowl avg": "14.31",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/8",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1996-11-30"
+}

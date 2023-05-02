@@ -1,0 +1,29 @@
+{
+    "name": "Alfred Ridley",
+    "country": "England",
+    "fullname": "Alfred Bayley Ridley",
+    "birth_place": "East Woodhay, Hampshire, England",
+    "death_date": "1898",
+    "death_place": "Lambeth, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "family": "Arthur Ridley (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/19408.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "43",
+        "bat avg": "10.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "deliveries": "76",
+        "wickets": "2",
+        "bowl avg": "17.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/30",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1884&ndash;1885"
+    }
+}

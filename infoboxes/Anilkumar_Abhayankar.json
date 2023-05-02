@@ -1,0 +1,29 @@
+{
+    "name": "Anilkumar Abhayankar",
+    "country": "India",
+    "fullname": "Anilkumar Nilkanth Abhayankar",
+    "birth_place": "Nagpur, British India",
+    "death_date": "2016",
+    "death_place": "Nagpur, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/26607.html ",
+    "First-class": {
+        "matches": "5",
+        "runs": "134",
+        "bat avg": "19.14",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "108",
+        "wickets": "3",
+        "bowl avg": "23",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/9",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Vidarbha": "1958-59 to 1960-61"
+    },
+    "birth_date": "1939-4-1"
+}

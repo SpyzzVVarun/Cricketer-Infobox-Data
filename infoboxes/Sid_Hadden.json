@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Sidney Hadden",
+    "birth_place": "Hastings, Sussex, England",
+    "death_date": "1934",
+    "death_place": "Whipps Cross, Essex, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/13988.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {
+        "Essex": "1912 & 1920"
+    },
+    "birth_date": "1877-8-26"
+}

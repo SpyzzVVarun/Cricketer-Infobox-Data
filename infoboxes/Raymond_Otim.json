@@ -1,0 +1,38 @@
+{
+    "country": "Uganda",
+    "fullname": "Raymond Otim",
+    "birth_place": "Kampala, Uganda",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "https://cricketarchive.com/Archive/Players/62/62453/62453.html CricketArchive ",
+    "LA": {
+        "matches": "3",
+        "runs": "11",
+        "bat avg": "3.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1986-10-21"
+}

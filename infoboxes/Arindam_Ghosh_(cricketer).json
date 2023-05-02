@@ -1,0 +1,39 @@
+{
+    "name": "Arindam Ghosh",
+    "country": "India",
+    "fullname": "Arindam Nanigopal Ghosh",
+    "birth_place": "Barasat, West Bengal, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/220435.html ESPNcricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "1,380",
+        "bat avg": "44.51",
+        "100s/50s": "3/6",
+        "catches/stumpings": "12/\u2013"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "218",
+        "bat avg": "19.81",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "9/\u2013"
+    },
+    "T20": {
+        "matches": "13",
+        "runs": "170",
+        "bat avg": "18.88",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Bengal": "2006/07-2011/12",
+        "Kolkata Knight Riders": "2009",
+        "Railways": "2013/14\u2013present"
+    },
+    "birth_date": "1986-10-19"
+}

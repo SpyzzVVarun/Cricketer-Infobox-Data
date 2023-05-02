@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Thackeray",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1902",
+    "death_place": "Chappel, Essex, England",
+    "family": "Frederick Thackeray (half-brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/22059.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "43",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge Town Club": "1854"
+    }
+}

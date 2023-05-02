@@ -1,0 +1,48 @@
+{
+    "name": "Rebecca Stokell",
+    "female": "true",
+    "country": "Ireland",
+    "fullname": "Rebecca Stokell",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "internationalspan": "2017\u2013present",
+    "odidebutdate": "11 May",
+    "odidebutyear": "2017",
+    "odidebutagainst": "South Africa",
+    "odicap": "85",
+    "lastodidate": "5 October",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Zimbabwe",
+    "T20Idebutdate": "26 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "West Indies",
+    "T20Icap": "42",
+    "lastT20Idate": "16 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/1094717.html Cricinfo ",
+    "WODI": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "22",
+        "runs": "342",
+        "bat avg": "17.10",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Dragons": "2015",
+        "Scorchers": "2017\u20132019",
+        "Typhoons": "2020\u2013present"
+    },
+    "birth_date": "2000-3-13"
+}

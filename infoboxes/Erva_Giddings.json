@@ -1,0 +1,37 @@
+{
+    "name": "Erva Giddings",
+    "female": "true",
+    "country": "West Indies",
+    "fullname": "Erva Minerva Giddings",
+    "birth_place": "Guyana",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Bowler",
+    "internationalspan": "2016",
+    "odidebutdate": "8 October",
+    "odidebutyear": "2016",
+    "odidebutagainst": "England",
+    "odicap": "82",
+    "lastodidate": "10 October",
+    "lastodiyear": "2016",
+    "lastodiagainst": "England",
+    "source": "https://www.espncricinfo.com/player/erva-giddings-370134 ESPNCricinfo",
+    "WODI": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "22.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Guyana": "2009\u2013present"
+    },
+    "birth_date": "1986-01-17"
+}

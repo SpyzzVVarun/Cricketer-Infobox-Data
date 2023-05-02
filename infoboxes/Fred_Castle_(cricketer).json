@@ -1,0 +1,37 @@
+{
+    "name": "Fred Castle",
+    "fullname": "Frederick Castle",
+    "birth_place": "Elham, Kent, England",
+    "death_date": "1997",
+    "death_place": "Portscatho, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "Middle-order batsman",
+    "type1": "First-class",
+    "debutdate1": "8 June",
+    "debutyear1": "1946",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "27 June",
+    "lastyear1": "1949",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Middlesex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3479/3479.html CricketArchive ",
+    "First-class": {
+        "matches": "23",
+        "runs": "686",
+        "bat avg": "20.78",
+        "100s/50s": "0/4",
+        "deliveries": "79",
+        "wickets": "1",
+        "bowl avg": "43.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1946\u201349"
+    },
+    "birth_date": "1909-4-8"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "Edward Turnour",
+    "birth_place": "Plaistow, Sussex, England",
+    "death_date": "1907",
+    "death_place": "Plaistow, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/21989.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "49",
+        "bat avg": "4.08",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "6/1"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1862&ndash;1863",
+        "Sussex": "1862&ndash;1867"
+    }
+}

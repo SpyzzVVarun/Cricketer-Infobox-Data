@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Rowland Alwyn Wilson",
+    "birth_place": "Bolsterstone, Yorkshire, England",
+    "death_date": "1959",
+    "death_place": "Hartlebury, Worcestershire, England",
+    "family": "Clem Wilson (brother), Rockley Wilson (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23081.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "181",
+        "wickets": "1",
+        "bowl avg": "48.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/13",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1888&ndash;1889",
+        "Worcestershire": "1896"
+    }
+}

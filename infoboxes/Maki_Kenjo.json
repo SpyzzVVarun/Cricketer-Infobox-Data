@@ -1,0 +1,33 @@
+{
+    "name": "Maki Kenjo",
+    "female": "true",
+    "country": "Japan",
+    "fullname": "Maki Kenjo",
+    "birth_place": "Japan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "odidebutdate": "21 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "5",
+    "lastodidate": "25 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Scotland",
+    "source": "http://www.espncricinfo.com/ci/content/player/55221.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "102",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1970-11-28"
+}

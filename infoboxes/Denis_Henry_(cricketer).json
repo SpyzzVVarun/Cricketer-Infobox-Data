@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Denis Philip Henry",
+    "birth_place": "Stamford Hill, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Chichester, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/14737.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

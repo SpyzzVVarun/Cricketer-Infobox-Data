@@ -1,0 +1,39 @@
+{
+    "name": "Nacanieli Uluiviti",
+    "country": "Fiji",
+    "fullname": "Nacanieli Mataika Uluiviti",
+    "nickname": "Nat Uluiviti",
+    "birth_place": "Suva, Fiji",
+    "death_date": "2004",
+    "death_place": "Suva, Fiji",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "type1": "First-class",
+    "debutdate1": "12 February",
+    "debutyear1": "1954",
+    "debutfor1": "Fiji",
+    "debutagainst1": "Otago",
+    "lastdate1": "21 January",
+    "lastyear1": "1955",
+    "lastfor1": "Auckland",
+    "lastagainst1": "Central Districts",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/23/23018/23018.html Cricket Archive ",
+    "First-class": {
+        "matches": "8",
+        "runs": "210",
+        "bat avg": "16.15",
+        "100s/50s": "0/0",
+        "deliveries": "372",
+        "wickets": "3",
+        "bowl avg": "61.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/18",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Fiji": "1954",
+        "Auckland": "1954\u201355"
+    },
+    "birth_date": "1932-5-19"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Joseph Bower",
+    "country": "England",
+    "bowling": "Fast-medium",
+    "source": "http://www.cricinfo.com/england/content/player/9179.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "14",
+        "bat avg": "4.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "430",
+        "wickets": "8",
+        "bowl avg": "20.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/43",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1897\u20131898"
+    }
+}

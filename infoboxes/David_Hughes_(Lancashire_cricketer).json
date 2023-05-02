@@ -1,0 +1,42 @@
+{
+    "name": "David Hughes",
+    "country": "England",
+    "fullname": "David Paul Hughes",
+    "birth_place": "Newton-le-Willows, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/14290.html CricInfo ",
+    "First-class": {
+        "matches": "447",
+        "runs": "10,419",
+        "bat avg": "21.79",
+        "100s/50s": "8/45",
+        "top score": "153",
+        "deliveries": "43,458",
+        "wickets": "655",
+        "bowl avg": "30.31",
+        "fivefor": "20",
+        "tenfor": "2",
+        "best bowling": "7/24",
+        "catches/stumpings": "325/&ndash;"
+    },
+    "List A": {
+        "matches": "458",
+        "runs": "4,993",
+        "bat avg": "20.63",
+        "100s/50s": "0/11",
+        "deliveries": "8,482",
+        "wickets": "248",
+        "bowl avg": "23.55",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "6/29",
+        "catches/stumpings": "146/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1967&ndash;1991",
+        "Tasmania": "1975/76&ndash;1976/77",
+        "MCC": "1971&ndash;1972"
+    },
+    "birth_date": "1947-05-13"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Oliver Davies",
+    "fullname": "Oliver Henry Davies",
+    "birth_place": "Curl Curl, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Top-order batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/1076377.html Cricinfo",
+    "LA": {
+        "matches": "6",
+        "runs": "176",
+        "bat avg": "44.00",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "19",
+        "runs": "245",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Sydney Thunder( 9 )": "2020/21-present",
+        "New South Wales( 14 )": "2020/21-present"
+    },
+    "birth_date": "2000-10-14"
+}

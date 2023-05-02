@@ -1,0 +1,25 @@
+{
+    "country": "United States",
+    "fullname": "William Henry Sayen",
+    "birth_place": "St. Davids, Pennsylvania,, United States",
+    "death_date": "df=yes",
+    "death_place": "Princeton, New Jersey,, United States",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/25813.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "136",
+        "bat avg": "12.36",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "603",
+        "wickets": "12",
+        "bowl avg": "33.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/33",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "George Frank Knew",
+    "birth_place": "Wigston, Leicestershire, England",
+    "death_date": "1995",
+    "death_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "family": "George Knew junior (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16080.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "78",
+        "bat avg": "9.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "42",
+        "deliveries": "200",
+        "wickets": "1",
+        "bowl avg": "100.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/58",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Leicestershire": "1939"
+    },
+    "birth_date": "1920-10-13"
+}

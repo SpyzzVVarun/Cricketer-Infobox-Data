@@ -1,0 +1,28 @@
+{
+    "name": "Edward Baker",
+    "country": "England",
+    "fullname": "Edward Stanley Baker",
+    "birth_place": "Moseley, Birmingham, England",
+    "death_date": "1992",
+    "death_place": "Great Dunmow, Essex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://cricketarchive.co.uk/Archive/Players/27/27627/27627.html ",
+    "FC": {
+        "matches": "32",
+        "runs": "160",
+        "bat avg": "6.40",
+        "100s/50s": "0/0",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "36/5"
+    },
+    "clubs": {
+        "Worcestershire": "1933\u20131934"
+    },
+    "birth_date": "1910-11-9"
+}

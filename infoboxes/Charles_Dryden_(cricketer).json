@@ -1,0 +1,29 @@
+{
+    "name": "Charles Dryden",
+    "country": "New Zealand",
+    "fullname": "Charles Henry Dryden",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1943",
+    "death_place": "Kawakawa, Bay of Islands, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36921.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "177",
+        "bat avg": "5.70",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "2034",
+        "wickets": "76",
+        "bowl avg": "11.42",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "7/24",
+        "catches/stumpings": "12/0"
+    },
+    "clubs": {
+        "Wellington": "1884-85 to 1894-95"
+    },
+    "birth_date": "1860-1-13"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Ryan Wiggins",
+    "country": "Barbados",
+    "fullname": "Ryan Alexander Wiggins",
+    "birth_place": "Barbados",
+    "source": "http://www.espncricinfo.com/ci/content/player/275936.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-/-",
+        "catches/stumpings": "0/0"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "177",
+        "bat avg": "25.28",
+        "100s/50s": "0/2",
+        "deliveries": "144",
+        "wickets": "2",
+        "bowl avg": "62.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "16",
+        "runs": "169",
+        "bat avg": "15.36",
+        "100s/50s": "0/0",
+        "deliveries": "84",
+        "wickets": "3",
+        "bowl avg": "41.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/21",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Barbados": "2007, 2016-present",
+        "Combined Campuses and Colleges": "2010-2016"
+    },
+    "birth_date": "1984-1-30"
+}

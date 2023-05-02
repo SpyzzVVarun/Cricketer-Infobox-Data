@@ -1,0 +1,30 @@
+{
+    "name": "Geoffrey Collins",
+    "fullname": "Geoffrey Albert Kirwan Collins",
+    "birth_place": "Hove, Sussex",
+    "death_date": "df=yes",
+    "death_place": "Hove, Sussex",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "21 July",
+    "debutyear1": "1928",
+    "debutfor1": "Sussex",
+    "debutagainst1": "Northants",
+    "lastdate1": "20 June",
+    "lastyear1": "1934",
+    "lastfor1": "Sussex",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.espncricinfo.com/england/content/player/11247.html",
+    "First-class": {
+        "matches": "50",
+        "runs": "1,140",
+        "bat avg": "19.00",
+        "100s/50s": "0/6",
+        "top score": "90",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1928\u20131934"
+    },
+    "birth_date": "1909-05-16"
+}

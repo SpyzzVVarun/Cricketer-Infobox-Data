@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "William Owen Thomas",
+    "birth_place": "Linthorpe, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Sheringham, Norfolk, England",
+    "family": "Quorn Handley (son-in-law)",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/21788.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "44.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "396",
+        "wickets": "3",
+        "bowl avg": "48.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/10",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1948",
+        "Norfolk": "1952&ndash;1959",
+        "Marylebone Cricket Club": "1954"
+    }
+}

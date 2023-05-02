@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edward Lyon Fellowes",
+    "birth_place": "Beighton, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Papworth Everard,, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/13020.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "376",
+        "bat avg": "18.80",
+        "100s/50s": "\u2013/2",
+        "top score": "56",
+        "deliveries": "2,955",
+        "wickets": "85",
+        "bowl avg": "14.21",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/46",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1865&ndash;1868"
+    }
+}

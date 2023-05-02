@@ -1,0 +1,39 @@
+{
+    "name": "Jean Cummins",
+    "female": "true",
+    "fullname": "Jean Mary Cummins",
+    "birth_place": "Croydon, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Croydon, Surrey, England",
+    "role": "Batter",
+    "internationalspan": "1954",
+    "country": "England",
+    "testdebutdate": "12 June",
+    "testdebutyear": "1954",
+    "testdebutagainst": "New Zealand",
+    "testcap": "37",
+    "lasttestdate": "24 July",
+    "lasttestyear": "1954",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/16/16997/16997.html CricketArchive",
+    "WTest": {
+        "matches": "3",
+        "runs": "90",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "20",
+        "runs": "661",
+        "bat avg": "22.79",
+        "100s/50s": "1/2",
+        "top score": "100",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1949\u20131963"
+    },
+    "birth_date": "1920-7-3"
+}

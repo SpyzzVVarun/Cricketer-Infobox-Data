@@ -1,0 +1,27 @@
+{
+    "name": "Crowther Charlesworth",
+    "country": "England",
+    "birth_place": "Swinton, Lancashire, England",
+    "death_date": "15 June 1953 (aged 78)",
+    "death_place": "Halifax, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11095.html CricInfo ",
+    "First-class": {
+        "matches": "372",
+        "runs": "14,289",
+        "bat avg": "23.61",
+        "100s/50s": "15/69",
+        "top score": "216",
+        "deliveries": "17,082",
+        "wickets": "295",
+        "bowl avg": "30.09",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "6/45",
+        "catches/stumpings": "194/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1898\u20131821"
+    }
+}

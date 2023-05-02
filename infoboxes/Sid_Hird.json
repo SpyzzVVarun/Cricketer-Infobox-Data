@@ -1,0 +1,30 @@
+{
+    "name": "Sid Hird",
+    "fullname": "Sydney Francis Hird",
+    "birth_place": "Balmain, Sydney, New South Wales, Australia",
+    "death_date": "1980",
+    "death_place": "Bloemfontein, Orange Free State, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/australia/content/player/5667.html Cricinfo ",
+    "First-class": {
+        "matches": "32",
+        "runs": "1,453",
+        "bat avg": "33.02",
+        "100s/50s": "5/4",
+        "top score": "130",
+        "wickets": "59",
+        "bowl avg": "28.54",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/56",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1931/32\u20131932/33",
+        "Lancashire": "1939",
+        "Eastern Province": "1945/46\u20131948/49",
+        "Border": "1950/51"
+    },
+    "birth_date": "1910-1-10"
+}

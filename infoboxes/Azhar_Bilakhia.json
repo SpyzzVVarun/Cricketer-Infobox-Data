@@ -1,0 +1,55 @@
+{
+    "name": "Azhar Bilakhia",
+    "country": "India",
+    "birth_place": "Mohwa, Bhavnagar, India",
+    "nickname": "AB",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/india/content/player/26946.html Cricinfo ",
+    "FC": {
+        "matches": "25",
+        "runs": "1,433",
+        "bat avg": "32.56",
+        "100s/50s": "2/5",
+        "top score": "157",
+        "deliveries": "111",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "495",
+        "bat avg": "30.93",
+        "100s/50s": "0/5",
+        "top score": "96",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "19",
+        "runs": "377",
+        "bat avg": "23.56",
+        "100s/50s": "0/3",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Baroda": "2005\u20132010",
+        "Deccan Chargers": "2009\u20132010"
+    },
+    "birth_date": "1986-05-31"
+}

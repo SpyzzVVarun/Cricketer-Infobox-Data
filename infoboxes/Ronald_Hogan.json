@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Charles Ronald Hogan",
+    "birth_place": "Paisley, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/charles-hogan-25238 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "25",
+        "bat avg": "4.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "1,070",
+        "wickets": "24",
+        "bowl avg": "17.29",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/36",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1962&ndash;1964"
+    },
+    "birth_date": "1939-1-10"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "James Jeremy McInerny",
+    "birth_place": "Paddington, London, England",
+    "death_date": "2012",
+    "death_place": "England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/17484.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1955&ndash;1956"
+    }
+}

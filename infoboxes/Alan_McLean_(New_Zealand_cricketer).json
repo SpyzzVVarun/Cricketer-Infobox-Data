@@ -1,0 +1,28 @@
+{
+    "name": "Alan McLean",
+    "country": "New Zealand",
+    "birth_place": "Lyttelton, Canterbury, New Zealand",
+    "death_date": "2003",
+    "death_place": "Hastings, Hawke\u2019s Bay, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37888.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "274",
+        "bat avg": "54.80",
+        "100s/50s": "0/2",
+        "top score": "86",
+        "deliveries": "861",
+        "wickets": "14",
+        "bowl avg": "21.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/25",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Wellington": "1947\u201348"
+    },
+    "birth_date": "1911-9-26"
+}

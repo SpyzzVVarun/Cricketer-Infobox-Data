@@ -1,0 +1,25 @@
+{
+    "name": "Ken Saxon",
+    "honorific_suffix": "country=NZL",
+    "country": "New Zealand",
+    "fullname": "Kendall Reginald James von Tunzelmann Saxon",
+    "birth_place": "Nelson, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Pinner, Middlesex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/38454.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "43",
+        "bat avg": "21.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Nelson": "1923/24&ndash;1924/25",
+        "Canterbury": "1923/24",
+        "Cambridgeshire": "1927&ndash;1934"
+    }
+}

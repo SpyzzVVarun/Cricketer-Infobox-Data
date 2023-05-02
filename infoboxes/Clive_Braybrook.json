@@ -1,0 +1,28 @@
+{
+    "name": "Clive Braybrook",
+    "fullname": "Clive Braybrook",
+    "birth_place": "Adelaide, Australia",
+    "death_date": "1985",
+    "death_place": "Swan Hill, Victoria, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Leg Leg Break",
+    "source": "http://www.espncricinfo.com/ci/content/player/4385.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "27",
+        "bat avg": "27.00",
+        "100s/50s": "\u2013/-",
+        "top score": "26",
+        "deliveries": "-",
+        "wickets": "3",
+        "bowl avg": "34.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/52",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {
+        "South Australia": "1921/22"
+    },
+    "birth_date": "1901-9-27"
+}

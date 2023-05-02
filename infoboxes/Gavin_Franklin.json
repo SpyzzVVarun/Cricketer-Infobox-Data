@@ -1,0 +1,44 @@
+{
+    "name": "Gavin Franklin",
+    "country": "England",
+    "fullname": "Gavin David Franklin",
+    "birth_place": "Wolverhampton, West Midlands, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/12902.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "102",
+        "bat avg": "51.00",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "1997\u20132003",
+        "Warwickshire Cricket Board": "1998\u20131999",
+        "British Universities": "2000"
+    },
+    "birth_date": "1978-1-9"
+}

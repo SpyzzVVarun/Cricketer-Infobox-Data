@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Henry Linton",
+    "birth_place": "St Neots, Huntingdonshire,, England",
+    "death_date": "df=yes",
+    "death_place": "Madras, Madras Presidency,, British India",
+    "family": "Sydney Linton (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16805.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "14.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "208",
+        "wickets": "4",
+        "bowl avg": "19.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/38",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1858&ndash;1859"
+    }
+}

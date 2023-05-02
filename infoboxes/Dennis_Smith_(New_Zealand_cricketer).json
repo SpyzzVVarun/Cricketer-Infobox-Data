@@ -1,0 +1,50 @@
+{
+    "name": "Dennis Smith",
+    "fullname": "Horace Dennis Smith",
+    "birth_place": "Toowoomba, Queensland, Australia",
+    "death_date": "1986",
+    "death_place": "Christchurch, New Zealand",
+    "internationalspan": "1933",
+    "country": "New Zealand",
+    "onetest": "true",
+    "testdebutagainst": "England",
+    "testdebutdate": "24 March",
+    "testdebutyear": "1933",
+    "testcap": "24",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38395.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "113.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/113",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "11",
+        "runs": "404",
+        "bat avg": "22.44",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "1,065",
+        "wickets": "17",
+        "bowl avg": "33.52",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/41",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Otago": "1931/32\u20131932/33",
+        "Canterbury": "1933/34"
+    },
+    "birth_date": "1913-01-8"
+}

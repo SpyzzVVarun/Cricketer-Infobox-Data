@@ -1,0 +1,32 @@
+{
+    "name": "George Osborne",
+    "country": "England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "6 September",
+    "debutyear1": "1877",
+    "debutfor1": "Players of the North",
+    "debutagainst1": "Gentlemen of the North",
+    "lastdate1": "17 May",
+    "lastyear1": "1883",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/31/31816/31816.html CricketArchive ",
+    "First-class": {
+        "matches": "8",
+        "runs": "60",
+        "bat avg": "4,38",
+        "100s/50s": "0/0",
+        "top score": "60",
+        "deliveries": "68",
+        "wickets": "1",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1879\u20131883"
+    }
+}

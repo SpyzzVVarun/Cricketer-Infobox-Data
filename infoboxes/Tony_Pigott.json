@@ -1,0 +1,41 @@
+{
+    "name": "Tony Pigott",
+    "fullname": "Anthony Charles Shackleton Pigott",
+    "birth_place": "Fulham, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "England",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "3 February",
+    "testdebutyear": "1984",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/18533.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "37.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/75",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "260",
+        "runs": "4,841",
+        "bat avg": "19.28",
+        "100s/50s": "1/20",
+        "deliveries": "38,053",
+        "wickets": "672",
+        "bowl avg": "30.99",
+        "fivefor": "26",
+        "tenfor": "2",
+        "best bowling": "7/74",
+        "catches/stumpings": "121/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1958-6-4"
+}

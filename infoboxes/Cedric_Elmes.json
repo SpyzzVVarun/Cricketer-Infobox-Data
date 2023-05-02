@@ -1,0 +1,29 @@
+{
+    "name": "Ced Elmes",
+    "country": "New Zealand",
+    "fullname": "Cedric James Elmes",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1995",
+    "death_place": "Dunedin, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/21/21854/21854.html CricketArchive ",
+    "First-class": {
+        "matches": "45",
+        "runs": "1707",
+        "bat avg": "22.46",
+        "100s/50s": "0/6",
+        "top score": "99",
+        "deliveries": "5799",
+        "wickets": "72",
+        "bowl avg": "38.84",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/40",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Otago": "1927/28\u20131940/41"
+    },
+    "birth_date": "1909-5-23"
+}

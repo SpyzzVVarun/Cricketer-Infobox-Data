@@ -1,0 +1,29 @@
+{
+    "name": "Edward Dowson",
+    "country": "England",
+    "fullname": "Edward Maurice Dowson",
+    "birth_place": "Weybridge, England",
+    "death_date": "22 July 1933 (aged 53)",
+    "death_place": "Hele House, Ashburton, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/12246.html CricInfo ",
+    "First-class": {
+        "matches": "113",
+        "runs": "5,047",
+        "bat avg": "29.17",
+        "100s/50s": "8/29",
+        "top score": "135",
+        "deliveries": "8,549",
+        "wickets": "357",
+        "bowl avg": "23.94",
+        "fivefor": "23",
+        "tenfor": "3",
+        "best bowling": "8/21",
+        "catches/stumpings": "61/\u2013"
+    },
+    "clubs": {
+        "Cambridge University cricket team": "1900\u20131903",
+        "Surrey County Cricket Club": "1900\u20131903"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Arua Uda",
+    "country": "Papua New Guinea",
+    "birth_place": "Papua New Guinea",
+    "batting": "Right-handed",
+    "bowling": "Not Not known",
+    "role": "Wicket-keeper",
+    "type1": "List A",
+    "debutdate1": "1 July",
+    "debutyear1": "2005",
+    "debutfor1": "Papua New Guinea",
+    "debutagainst1": "Netherlands",
+    "lastdate1": "11 July",
+    "lastyear1": "2005",
+    "lastfor1": "Papua New Guinea",
+    "lastagainst1": "Uganda",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/36/36114/36114.html CricketArchive ",
+    "List A": {
+        "matches": "7",
+        "runs": "67",
+        "bat avg": "9.57",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "0/18",
+        "catches/stumpings": "1/0"
+    },
+    "ICC Trophy": {
+        "matches": "12",
+        "runs": "187",
+        "bat avg": "15.58",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "0/18",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "PNG": "2005"
+    },
+    "birth_date": "1974-4-16"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "John Cope",
+    "country": "England",
+    "fullname": "John James Cope",
+    "birth_place": "Ellesmere Port, Cheshire, England",
+    "death_date": "1995",
+    "death_place": "Brynmawr, Wales",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/10810.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1935"
+    },
+    "birth_date": "1908-8-1"
+}

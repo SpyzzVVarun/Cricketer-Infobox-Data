@@ -1,0 +1,25 @@
+{
+    "country": "Scotland",
+    "fullname": "William Cunningham Bruce",
+    "birth_place": "Bombay, Bombay Presidency,, British India",
+    "death_date": "df=yes",
+    "death_place": "Windsor, Berkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10533.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "23",
+        "bat avg": "5.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "4",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

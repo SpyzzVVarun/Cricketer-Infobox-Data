@@ -1,0 +1,43 @@
+{
+    "name": "Yulia Anggraeni",
+    "birth_place": "Indonesia",
+    "female": "true",
+    "fullname": "Yulia Anggraeni",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "All-rounder",
+    "country": "Indonesia",
+    "T20Idebutdate": "12 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Hong Kong",
+    "T20Icap": "2",
+    "lastT20Idate": "9 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Singapore",
+    "source": "https://www.espncricinfo.com/ci/content/player/1116781.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {
+        "matches": "20",
+        "runs": "436",
+        "bat avg": "27.25",
+        "100s/50s": "1/1",
+        "top score": "112",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1994-7-10",
+    "medaltemplates": [
+        "Country: {{INA}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

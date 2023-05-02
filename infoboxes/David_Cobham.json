@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Michael David Cobham",
+    "birth_place": "Boynton, East Riding of Yorkshire, England",
+    "death_date": "df=y",
+    "death_place": "Dereham, Norfolk, England",
+    "heightft": "6",
+    "heightinch": "7",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11201.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "27.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/21",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1948"
+    }
+}

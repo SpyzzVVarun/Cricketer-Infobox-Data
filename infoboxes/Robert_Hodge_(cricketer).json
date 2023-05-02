@@ -1,0 +1,29 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Stevenson Hodge",
+    "birth_place": "Greenock, Renfrewshire, Scotland",
+    "death_date": "1994",
+    "death_place": "Guildford, Surrey, England",
+    "heightft": "6",
+    "heightinch": "3 England discovers Scottish cricket star. ''Dundee Evening Telegraph''. 3 September 1945. p. 6",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/robert-hodge-25237 Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "178",
+        "bat avg": "11.12",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "2,177",
+        "wickets": "30",
+        "bowl avg": "27.23",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/82",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1938&ndash;1951"
+    }
+}

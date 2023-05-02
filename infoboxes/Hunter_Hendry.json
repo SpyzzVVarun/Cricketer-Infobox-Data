@@ -1,0 +1,53 @@
+{
+    "name": "Hunter Hendry",
+    "country": "Australia",
+    "fullname": "Hunter Scott Thomas Laurie Hendry",
+    "nickname": "Stork",
+    "birth_place": "Woollahra, New South Wales, Australia",
+    "death_date": "1988",
+    "death_place": "Rose Bay, New South Wales, Australia",
+    "heightm": "1.88",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "All-rounder",
+    "testdebutdate": "28 May",
+    "testdebutyear": "1921",
+    "testdebutagainst": "England",
+    "testcap": "116",
+    "lasttestdate": "1 February",
+    "lasttestyear": "1929",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/392/392.html CricketArchive ",
+    "Test": {
+        "matches": "11",
+        "runs": "335",
+        "bat avg": "20.93",
+        "100s/50s": "1/0",
+        "top score": "112",
+        "deliveries": "1,706",
+        "wickets": "16",
+        "bowl avg": "40.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/36",
+        "catches/stumpings": "10/\u2013"
+    },
+    "First-class": {
+        "matches": "140",
+        "runs": "6,799",
+        "bat avg": "37.56",
+        "100s/50s": "14/34",
+        "deliveries": "16,601",
+        "wickets": "229",
+        "bowl avg": "29.02",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "8/33",
+        "catches/stumpings": "152/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1918/19\u20131923/24",
+        "Victoria": "1924/25\u20131932/33"
+    },
+    "birth_date": "1895-5-24"
+}

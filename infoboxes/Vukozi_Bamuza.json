@@ -1,0 +1,34 @@
+{
+    "name": "Vukozi Bamuza",
+    "fullname": "Vukosi Nhluvuko Bamuza",
+    "birth_place": "Tzaneen, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/429895.html ESPNcricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "22",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1991-6-23"
+}

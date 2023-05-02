@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "John Cornelius Moberly",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "1928",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Robert Awdry (nephew)",
+    "source": "http://www.cricinfo.com/ci/content/player/17052.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "31",
+        "bat avg": "15.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1877"
+    }
+}

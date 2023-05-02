@@ -1,0 +1,41 @@
+{
+    "name": "William Odell",
+    "country": "England",
+    "fullname": "William Ward Odell",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "1917",
+    "death_place": "Broodseinde, Passchendaele salient, Belgium",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Bowler",
+    "family": "Edwin Odell, brother",
+    "type1": "First-class",
+    "debutdate1": "22 July",
+    "debutyear1": "1901",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "London County",
+    "lastdate1": "1 September",
+    "lastyear1": "1914",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Archive/Players/31/31788/31788.html CricketArchive ",
+    "First-class": {
+        "matches": "193",
+        "runs": "3368",
+        "bat avg": "13.69",
+        "100s/50s": "\u2013/9",
+        "top score": "75",
+        "deliveries": "38007",
+        "wickets": "738",
+        "bowl avg": "23.59",
+        "fivefor": "45",
+        "tenfor": "6",
+        "best bowling": "8/20",
+        "catches/stumpings": "88/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1901\u201314",
+        "London County": "1902\u201304"
+    },
+    "birth_date": "1881-11-5"
+}

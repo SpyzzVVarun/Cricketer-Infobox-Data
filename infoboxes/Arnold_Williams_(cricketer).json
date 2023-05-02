@@ -1,0 +1,30 @@
+{
+    "name": "Arnold Williams",
+    "country": "New Zealand",
+    "fullname": "Arnold Butler Williams",
+    "birth_place": "Swansea, Wales",
+    "death_date": "df=yes",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "https://cricketarchive.com/Archive/Players/23/23111/23111.html Cricket Archive ",
+    "First-class": {
+        "matches": "26",
+        "runs": "785",
+        "bat avg": "17.44",
+        "100s/50s": "2/2",
+        "top score": "163",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "23/15"
+    },
+    "clubs": {
+        "Otago": "1886\u201387 to 1894\u201395",
+        "Wellington": "1896\u201397 to 1909\u201310"
+    },
+    "birth_date": "1870-1-6"
+}

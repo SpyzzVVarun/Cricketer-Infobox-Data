@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Arthur Franklin Willmer",
+    "birth_place": "Claughton, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Rouen, Normandy, France",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/23039.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1912",
+        "Cheshire": "1914"
+    }
+}

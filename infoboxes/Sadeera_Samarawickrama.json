@@ -1,0 +1,72 @@
+{
+    "name": "Sadeera Samarawickrama",
+    "country": "Sri Lanka",
+    "fullname": "Wedagedara Sadeera Rashen Samarawickrama",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper-batsman",
+    "internationalspan": "2017\u2013present",
+    "testdebutdate": "6 October",
+    "testdebutyear": "2017",
+    "testdebutagainst": "Pakistan",
+    "testcap": "143",
+    "lasttestdate": "16 April",
+    "lasttestyear": "2023",
+    "lasttestagainst": "Ireland",
+    "odidebutdate": "20 October",
+    "odidebutyear": "2017",
+    "odidebutagainst": "Pakistan",
+    "odicap": "185",
+    "lastodidate": "30 September",
+    "lastodiyear": "2019",
+    "lastodiagainst": "Pakistan",
+    "odishirt": "23",
+    "T20Idebutdate": "26 October",
+    "T20Idebutyear": "2017",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "72",
+    "lastT20Idate": "29 July",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/629076.html Cricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "229",
+        "bat avg": "28.62",
+        "100s/50s": "1/0",
+        "top score": "104",
+        "catches/stumpings": "4/0"
+    },
+    "ODI": {
+        "matches": "7",
+        "runs": "138",
+        "bat avg": "19.71",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "1/0"
+    },
+    "T20I": {
+        "matches": "9",
+        "runs": "111",
+        "bat avg": "12.33",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "4/2"
+    },
+    "FC": {
+        "matches": "75",
+        "runs": "4,684",
+        "bat avg": "38.08",
+        "100s/50s": "12/20",
+        "top score": "188",
+        "catches/stumpings": "117/16"
+    },
+    "clubs": {
+        "Colts": "2014\u20132020",
+        "Colombo Commandos": "2015",
+        "Galle Gladiators": "2021",
+        "Jaffna Kings": "2022\u2013present",
+        "Tamil Union Cricket and Athletic Club": "2020\u2013present"
+    },
+    "birth_date": "1995-8-30"
+}

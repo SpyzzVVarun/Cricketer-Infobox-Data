@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Duncan Weir Drummond",
+    "birth_place": "Greenock, Renfrewshire, Scotland",
+    "death_date": "1985",
+    "death_place": "Greenock, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/duncan-drummond-25192 Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "263",
+        "bat avg": "12.52",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "1,908",
+        "wickets": "20",
+        "bowl avg": "38.55",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/73",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1951&ndash;1961"
+    }
+}

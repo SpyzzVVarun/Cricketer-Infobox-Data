@@ -1,0 +1,43 @@
+{
+    "name": "Morn\u00e9 Karg",
+    "country": "Namibia",
+    "fullname": "Morn\u00e9 Karg",
+    "birth_place": "Windhoek, South West Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1994\u20132005",
+    "odidebutdate": "10 February",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "3",
+    "lastodidate": "3 March",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/24794.html ESPNcricinfo",
+    "ODI": {
+        "matches": "3",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "1/0"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "186",
+        "bat avg": "16.90",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "catches/stumpings": "11/1"
+    },
+    "clubs": {},
+    "birth_date": "1977-7-12"
+}

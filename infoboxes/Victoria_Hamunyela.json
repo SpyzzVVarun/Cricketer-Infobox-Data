@@ -1,0 +1,33 @@
+{
+    "name": "Victoria Hamunyela",
+    "female": "true",
+    "country": "Namibia",
+    "fullname": "Victoria Hashomwamona Hamunyela",
+    "birth_place": "Okelemba, Ohangwena, Namibia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "T20Idebutdate": "20 August",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Malawi",
+    "T20Icap": "4",
+    "lastT20Idate": "3 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Germany",
+    "source": "http://www.espncricinfo.com/ci/content/player/1158417.html Cricinfo ",
+    "WT20I": {
+        "matches": "29",
+        "runs": "14",
+        "bat avg": "2.80",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "436",
+        "wickets": "22",
+        "bowl avg": "14.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2003-1-22"
+}

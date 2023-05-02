@@ -1,0 +1,51 @@
+{
+    "name": "Les Ames",
+    "country": "England",
+    "fullname": "Leslie Ethelbert George Ames",
+    "birth_place": "Elham, Kent",
+    "death_date": "1990",
+    "death_place": "Canterbury, Kent",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "role": "Wicket-keeper",
+    "testdebutdate": "17 August",
+    "testdebutyear": "1929",
+    "testdebutagainst": "South Africa",
+    "testcap": "244",
+    "lasttestdate": "3 March",
+    "lasttestyear": "1939",
+    "lasttestagainst": "South Africa",
+    "source": "http://content-uk.cricinfo.com/england/content/player/8532.html CricInfo ",
+    "Test": {
+        "matches": "47",
+        "runs": "2,434",
+        "bat avg": "40.56",
+        "100s/50s": "8/7",
+        "top score": "149",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "74/23"
+    },
+    "First-class": {
+        "matches": "593",
+        "runs": "37,248",
+        "bat avg": "43.51",
+        "100s/50s": "102/176",
+        "top score": "295",
+        "deliveries": "1,383",
+        "wickets": "24",
+        "bowl avg": "33.37",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/23",
+        "catches/stumpings": "703/418"
+    },
+    "clubs": {
+        "Kent": "1926\u20131951"
+    },
+    "birth_date": "1905-12-3"
+}

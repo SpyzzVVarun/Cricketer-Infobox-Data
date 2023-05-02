@@ -1,0 +1,44 @@
+{
+    "country": "United States",
+    "fullname": "Nezam Ahmed Hafiz",
+    "birth_place": "Rose Hall, East Berbice-Corentyne, Guyana",
+    "death_date": "2001",
+    "death_place": "Lower Manhattan, Manhattan, New York City, New York, U.S.",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/25633.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "40",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "deliveries": "18",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "United States": "1998/99",
+        "Guyana": "1988/89\u20131990/91",
+        "Demerara": "1988/89"
+    },
+    "birth_date": "1969-4-21"
+}

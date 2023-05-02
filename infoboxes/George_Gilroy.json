@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "George Bruce Gilroy",
+    "birth_place": "Blebocraigs, Fife, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Longueval, Somme, France",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/13632.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1909"
+    }
+}

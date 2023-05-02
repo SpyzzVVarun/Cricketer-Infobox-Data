@@ -1,0 +1,40 @@
+{
+    "name": "Tony Cordle",
+    "fullname": "Elton Anthony Cordle",
+    "birth_place": "Bridgetown, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/4/4295/4295.html Cricket Archive",
+    "First-class": {
+        "matches": "312",
+        "runs": "5239",
+        "bat avg": "14.67",
+        "100s/50s": "0/9",
+        "top score": "81",
+        "deliveries": "42083",
+        "wickets": "701",
+        "bowl avg": "27.50",
+        "fivefor": "19",
+        "tenfor": "2",
+        "best bowling": "9/49",
+        "catches/stumpings": "141/0"
+    },
+    "List A": {
+        "matches": "211",
+        "runs": "1627",
+        "bat avg": "13.44",
+        "100s/50s": "0/2",
+        "top score": "87",
+        "deliveries": "9462",
+        "wickets": "221",
+        "bowl avg": "26.56",
+        "fivefor": "1",
+        "tenfor": "N/A",
+        "best bowling": "5/24",
+        "catches/stumpings": "62/-"
+    },
+    "clubs": {
+        "Glamorgan": "1963 to 1980"
+    },
+    "birth_date": "1940-9-21"
+}

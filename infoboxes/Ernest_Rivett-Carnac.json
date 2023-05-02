@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Ernest Henry Rivett-Carnac",
+    "birth_place": "Steyning, Sussex, England",
+    "death_date": "1940",
+    "death_place": "Beaulieu, Hampshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19727.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1900"
+    }
+}

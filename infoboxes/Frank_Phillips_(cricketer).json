@@ -1,0 +1,42 @@
+{
+    "name": "Frank Phillips",
+    "country": "England",
+    "fullname": "Francis Ashley Phillips",
+    "birth_place": "Monmouthshire, Wales",
+    "death_date": "1955",
+    "death_place": "Kingsland, Herefordshire, England",
+    "family": "Gerald Phillips (brother), Noel Phillips (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "19 May",
+    "debutyear1": "1892",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Gentlemen of England",
+    "lastdate1": "15 August",
+    "lastyear1": "1919",
+    "lastfor1": "HK Foster's XI",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3759/3759.html CricketArchive ",
+    "First-class": {
+        "matches": "108",
+        "runs": "4,310",
+        "bat avg": "23.17",
+        "100s/50s": "4/25",
+        "top score": "163",
+        "deliveries": "481",
+        "wickets": "7",
+        "bowl avg": "55.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/8",
+        "catches/stumpings": "65/2"
+    },
+    "clubs": {
+        "Oxford University": "1892&ndash;1895",
+        "MCC": "1896",
+        "Somerset": "1897&ndash;1911",
+        "Monmouthshire": "1890&ndash;1899"
+    },
+    "birth_date": "1873-04-11"
+}

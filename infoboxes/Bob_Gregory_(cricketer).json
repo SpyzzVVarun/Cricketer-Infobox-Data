@@ -1,0 +1,21 @@
+{
+    "name": "Bob Gregory",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "source": "https://cricketarchive.com/Archive/Players/29/29792/29792.html CricketArchive",
+    "First-class": {
+        "matches": "430",
+        "runs": "19,495",
+        "bat avg": "34.32",
+        "100s/50s": "39/98",
+        "top score": "243",
+        "deliveries": "36,434",
+        "wickets": "437",
+        "bowl avg": "32.31",
+        "fivefor": "11",
+        "tenfor": "1",
+        "best bowling": "6/21",
+        "catches/stumpings": "300/\u2013"
+    },
+    "clubs": {}
+}

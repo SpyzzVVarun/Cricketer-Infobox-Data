@@ -1,0 +1,40 @@
+{
+    "country": "Australia",
+    "fullname": "Andrew Claude Ridley",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/19527.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "857",
+        "bat avg": "31.74",
+        "100s/50s": "2/3",
+        "top score": "155",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "152",
+        "bat avg": "38.00",
+        "100s/50s": "\u2013/1",
+        "top score": "58",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1994&ndash;1996"
+    },
+    "birth_date": "1968-8-2"
+}

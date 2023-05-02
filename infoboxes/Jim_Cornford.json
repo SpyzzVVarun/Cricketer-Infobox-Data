@@ -1,0 +1,28 @@
+{
+    "name": "Jim Cornford",
+    "country": "England",
+    "fullname": "James Henry Cornford",
+    "birth_place": "Crowborough, Sussex, England",
+    "death_date": "17 June 1985 (aged 73)",
+    "death_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11335.html CricInfo ",
+    "First-class": {
+        "matches": "332",
+        "runs": "1,357",
+        "bat avg": "5.34",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "63,380",
+        "wickets": "1,019",
+        "bowl avg": "26.49",
+        "fivefor": "39",
+        "tenfor": "6",
+        "best bowling": "9/53",
+        "catches/stumpings": "134/\u2013"
+    },
+    "clubs": {
+        "Sussex County Cricket Club": "1931\u20131952"
+    }
+}

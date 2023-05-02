@@ -1,0 +1,52 @@
+{
+    "country": "Namibia",
+    "fullname": "Willem Johannes Groenewald",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/897/897937/897937.html CricketArchive ",
+    "FC": {
+        "matches": "11",
+        "runs": "189",
+        "bat avg": "9.45",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "33",
+        "deliveries": "446",
+        "wickets": "6",
+        "bowl avg": "55.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/26",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "102",
+        "bat avg": "14.57",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "44",
+        "deliveries": "358",
+        "wickets": "5",
+        "bowl avg": "60.40",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/18",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "T20": {
+        "matches": "7",
+        "runs": "2",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "42",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2009/10&ndash;"
+    },
+    "birth_date": "1990-6-27"
+}

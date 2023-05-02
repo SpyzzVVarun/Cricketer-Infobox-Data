@@ -1,0 +1,53 @@
+{
+    "name": "Arish Alam",
+    "birth_place": "Jalaun, Uttar Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/15/15458/15458.html CricketArchive ",
+    "FC": {
+        "matches": "24",
+        "runs": "1119",
+        "bat avg": "34.96",
+        "100s/50s": "3/5",
+        "deliveries": "804",
+        "wickets": "24",
+        "bowl avg": "43.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18",
+        "catches/stumpings": "22/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "133",
+        "bat avg": "22.16",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "198",
+        "wickets": "5",
+        "bowl avg": "26.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "99",
+        "bat avg": "33.00",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "60.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Uttar Pradesh": "2005/06\u20132014/15"
+    },
+    "birth_date": "1986-11-19"
+}

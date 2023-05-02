@@ -1,0 +1,52 @@
+{
+    "name": "Molly Hide",
+    "female": "true",
+    "country": "England",
+    "fullname": "Mary Edith Hide",
+    "birth_place": "Shanghai, China",
+    "death_date": "1995",
+    "death_place": "Guildford, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "All-rounder",
+    "internationalspan": "1934\u20131954",
+    "testdebutdate": "28 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "Australia",
+    "testcap": "3",
+    "lasttestdate": "27 July",
+    "lasttestyear": "1954",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/10/10966/10966.html CricketArchive ",
+    "WTests": {
+        "matches": "15",
+        "runs": "872",
+        "bat avg": "36.33",
+        "100s/50s": "2/5",
+        "deliveries": "2,064",
+        "wickets": "36",
+        "bowl avg": "15.25",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/20",
+        "catches/stumpings": "10/\u2013"
+    },
+    "WFC": {
+        "matches": "48",
+        "runs": "2,967",
+        "bat avg": "43.63",
+        "100s/50s": "10/14",
+        "top score": "145",
+        "deliveries": "5,033",
+        "wickets": "115",
+        "bowl avg": "13.37",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/22",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1937\u20131958"
+    },
+    "birth_date": "1913-10-24"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Benjamin Thomas",
+    "birth_place": "Hyderabad, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/425797.html ESPNcricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "61",
+        "bat avg": "12.20",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "7/0"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "120",
+        "bat avg": "17.14",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "4/0"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Hyderabad": "2010-2016"
+    },
+    "birth_date": "1989-6-20"
+}

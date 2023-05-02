@@ -1,0 +1,23 @@
+{
+    "name": "Soni Yadav",
+    "female": "yes",
+    "country": "India",
+    "fullname": "Soni Kamlesh Yadav",
+    "birth_place": "Ghaziabad, Uttar Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "oneodi": "true",
+    "odidebutdate": "7 February,",
+    "odidebutyear": "2017",
+    "odidebutfor": "India",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "119",
+    "source": "http://www.espncricinfo.com/icc-womens-world-cup-qualifier-2017/content/player/799389.html Cricinfo ",
+    "clubs": {
+        "Delhi women's": "2012/13-2015/16",
+        "North Zone women's": "2012/13-",
+        "Railways women's": "2016/17"
+    },
+    "birth_date": "1994-03-24"
+}

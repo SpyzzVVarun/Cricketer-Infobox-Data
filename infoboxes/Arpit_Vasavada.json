@@ -1,0 +1,54 @@
+{
+    "name": "Arpit Vasavada",
+    "country": "India",
+    "fullname": "Arpit Vyomahesh Vasavada",
+    "birth_place": "Rajkot, Gujarat, India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/379230.html Cricinfo ",
+    "FC": {
+        "matches": "18",
+        "runs": "1,193",
+        "bat avg": "49.70",
+        "100s/50s": "3/7",
+        "top score": "205",
+        "deliveries": "234",
+        "wickets": "1",
+        "bowl avg": "177.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/102",
+        "catches/stumpings": "21/\u2013"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "368",
+        "bat avg": "33.45",
+        "100s/50s": "0/4",
+        "deliveries": "124",
+        "wickets": "7",
+        "bowl avg": "14.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/19",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "117",
+        "bat avg": "23.40",
+        "100s/50s": "0/0",
+        "deliveries": "96",
+        "wickets": "9",
+        "bowl avg": "11.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/18",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Saurashtra": "2008/09\u2013present"
+    },
+    "birth_date": "1988-10-28"
+}

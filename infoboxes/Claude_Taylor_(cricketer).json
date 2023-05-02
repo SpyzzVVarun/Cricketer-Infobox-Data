@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Claude Hilary Taylor",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "1966",
+    "death_place": "Sherfield on Loddon, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/ci/content/player/21714.html Cricinfo ",
+    "First-class": {
+        "matches": "88",
+        "runs": "3,378",
+        "bat avg": "24.83",
+        "100s/50s": "9/8",
+        "top score": "105",
+        "deliveries": "1,484",
+        "wickets": "21",
+        "bowl avg": "43.80",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/6",
+        "catches/stumpings": "66/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1946&ndash;1947",
+        "Oxford University": "1923&ndash;1926",
+        "Leicestershire": "1922&ndash;1927"
+    },
+    "birth_date": "1904-2-6"
+}

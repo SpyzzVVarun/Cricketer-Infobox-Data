@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Roland Edward William George Horridge",
+    "nickname": "rodger",
+    "birth_place": "Radcliffe, Lancashire, England",
+    "heightft": "5",
+    "heightinch": "4",
+    "batting": "Right-handed",
+    "bowling": "left left legmedium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14269.html Cricinfo ",
+    "LA": {
+        "matches": "5",
+        "runs": "69",
+        "bat avg": "23.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Chorley": "1987-present",
+        "Lancashire 2nd X1": "1984-1985",
+        "MCC": "1992",
+        "Lancashire Cricket Board": "1999-2001"
+    },
+    "birth_date": "1949-1-27"
+}

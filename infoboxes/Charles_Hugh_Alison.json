@@ -1,0 +1,28 @@
+{
+    "name": "Charlie Alison",
+    "country": "England",
+    "fullname": "Charles Hugh Alison",
+    "birth_place": "Preston, Lancashire, England",
+    "death_date": "1952",
+    "death_place": "Woodstock, Cape Town, South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/3/3400/3400.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "36",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/23",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1902\u201305",
+        "Buckinghamshire": "1911\u201312"
+    },
+    "birth_date": "1883-3-5"
+}

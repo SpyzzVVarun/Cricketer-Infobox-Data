@@ -1,0 +1,56 @@
+{
+    "country": "England",
+    "fullname": "Lawrence Roland Prittipaul",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Shivnarine Chanderpaul (cousin)",
+    "source": "http://www.cricinfo.com/ci/content/player/18631.html Cricinfo ",
+    "FC": {
+        "matches": "23",
+        "runs": "975",
+        "bat avg": "28.67",
+        "100s/50s": "1/4",
+        "top score": "152",
+        "deliveries": "759",
+        "wickets": "9",
+        "bowl avg": "49.22",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/17",
+        "catches/stumpings": "18/&ndash;"
+    },
+    "LA": {
+        "matches": "62",
+        "runs": "564",
+        "bat avg": "13.11",
+        "100s/50s": "&ndash;/1",
+        "top score": "67",
+        "deliveries": "1,000",
+        "wickets": "23",
+        "bowl avg": "38.69",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/11",
+        "catches/stumpings": "18/&ndash;"
+    },
+    "T20": {
+        "matches": "13",
+        "runs": "84",
+        "bat avg": "10.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "35",
+        "deliveries": "83",
+        "wickets": "2",
+        "bowl avg": "54.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/17",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "1998&ndash;1999",
+        "Hampshire": "1999&ndash;2005"
+    },
+    "birth_date": "1979-10-19"
+}

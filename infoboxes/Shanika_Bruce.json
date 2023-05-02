@@ -1,0 +1,39 @@
+{
+    "name": "Shanika Bruce",
+    "female": "true",
+    "country": "Barbados",
+    "country2": "West Indies",
+    "fullname": "Shanika Jamila Bruce",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "T20Idebutdate": "29 July",
+    "T20Idebutyear": "2022",
+    "T20Idebutfor": "Barbados",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "2",
+    "T20Icap2": "47",
+    "lastT20Idate": "25 January",
+    "lastT20Iyear": "2023",
+    "lastT20Ifor": "West Indies",
+    "lastT20Iagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/663639.html Cricinfo ",
+    "WT20I": {
+        "matches": "4",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "54",
+        "wickets": "3",
+        "bowl avg": "19.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Barbados": "2013\u2013present",
+        "Barbados Royals": "2022\u2013present"
+    },
+    "birth_date": "1995-2-20"
+}

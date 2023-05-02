@@ -1,0 +1,61 @@
+{
+    "name": "Abid Ali",
+    "country": "Pakistan",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Opening batter",
+    "internationalspan": "2019\u20132021",
+    "testdebutdate": "11 December",
+    "testdebutyear": "2019",
+    "testdebutagainst": "Sri Lanka",
+    "testcap": "239",
+    "lasttestdate": "4 December",
+    "lasttestyear": "2021",
+    "lasttestagainst": "Bangladesh",
+    "odidebutdate": "29 March",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Australia",
+    "odicap": "223",
+    "lastodidate": "1 November",
+    "lastodiyear": "2020",
+    "lastodiagainst": "Zimbabwe",
+    "source": "http://www.espncricinfo.com/ci/content/player/39950.html Cricinfo ",
+    "Test": {
+        "matches": "15",
+        "runs": "1,141",
+        "bat avg": "49.60",
+        "100s/50s": "4/3",
+        "catches/stumpings": "6/\u2013"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "234",
+        "bat avg": "39.00",
+        "100s/50s": "1/1",
+        "top score": "112",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "127",
+        "runs": "8,800",
+        "bat avg": "41.31",
+        "100s/50s": "25/35",
+        "catches/stumpings": "97/\u2013"
+    },
+    "LA": {
+        "matches": "102",
+        "runs": "3,706",
+        "bat avg": "39.42",
+        "100s/50s": "6/26",
+        "catches/stumpings": "50/7"
+    },
+    "clubs": {
+        "Lahore Ravi": "2007/08, 2012/13",
+        "Lahore Shalimar": "2008/09\u20132009/10",
+        "Islamabad": "2015/16\u20132017/18",
+        "Sindh": "2019/20",
+        "Central Punjab": "2020/21\u2013present"
+    },
+    "birth_date": "1987-10-16"
+}

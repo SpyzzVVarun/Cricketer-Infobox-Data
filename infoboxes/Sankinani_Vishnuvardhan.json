@@ -1,0 +1,37 @@
+{
+    "name": "Sankinani Vishnuvardhan",
+    "birth_place": "Warangal, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/35709.html ESPNcricinfo ",
+    "FC": {
+        "matches": "32",
+        "runs": "658",
+        "bat avg": "15.30",
+        "100s/50s": "0/3",
+        "deliveries": "5,541",
+        "wickets": "99",
+        "bowl avg": "26.25",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/55",
+        "catches/stumpings": "10/0"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "295",
+        "bat avg": "17.35",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "1,389",
+        "wickets": "32",
+        "bowl avg": "32.53",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/49",
+        "catches/stumpings": "5/0"
+    },
+    "T20": {},
+    "clubs": {
+        "Hyderabad": "1995-2005"
+    },
+    "birth_date": "1976-10-30"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Raju Mukherjee",
+    "country": "India",
+    "fullname": "Satyabrata Mukherjee",
+    "family": "Debabrata Mukherjee (brother)",
+    "birth_place": "Calcutta, West Bengal, India",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/31727.html ESPNcricinfo ",
+    "FC": {
+        "matches": "50",
+        "runs": "2,060",
+        "bat avg": "37.45",
+        "100s/50s": "2/14",
+        "top score": "162",
+        "deliveries": "38",
+        "wickets": "2",
+        "bowl avg": "12.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "24/\u2013"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "82",
+        "bat avg": "11.71",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "258",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Bengal": "1972/73\u20131981/82"
+    },
+    "birth_date": "1950-10-23"
+}

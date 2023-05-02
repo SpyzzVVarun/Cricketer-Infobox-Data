@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Harold Pickthall",
+    "birth_place": "Burnley, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Fulwood, Lancashire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/18948.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "109",
+        "bat avg": "10.90",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,855",
+        "wickets": "25",
+        "bowl avg": "30.88",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/30",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1928&ndash;1935",
+        "Monmouthshire": "1926&ndash;1929"
+    }
+}

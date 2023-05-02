@@ -1,0 +1,53 @@
+{
+    "name": "Deepak Shodhan",
+    "country": "India",
+    "fullname": "Roshan Harshadlal Shodhan",
+    "birth_place": "Ahmedabad, British India (now in Gujarat, India)",
+    "death_date": "df=yes",
+    "death_place": "Ahmedabad, Gujarat",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Batsman",
+    "internationalspan": "1952-1953",
+    "testcap": "68",
+    "testdebutdate": "December 12,",
+    "testdebutyear": "1952",
+    "testdebutagainst": "Pakistan",
+    "lasttestdate": "March 28,",
+    "lasttestyear": "1953",
+    "lasttestagainst": "West Indies",
+    "source": "http://content.cricinfo.com/ci/content/player/34007.html ESPNCricinfo",
+    "Tests": {
+        "matches": "3",
+        "runs": "181",
+        "bat avg": "60.33",
+        "100s/50s": "1/0",
+        "top score": "110",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1"
+    },
+    "First-class": {
+        "matches": "43",
+        "runs": "1802",
+        "bat avg": "31.61",
+        "100s/50s": "4/7",
+        "top score": "261",
+        "deliveries": "5,358",
+        "wickets": "73",
+        "bowl avg": "34.05",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/49",
+        "catches/stumpings": "27"
+    },
+    "clubs": {
+        "Gujarat": "1946/47&ndash;1961/62",
+        "Baroda": "1957/58&ndash;1959/60)"
+    },
+    "birth_date": "1928-10-18"
+}

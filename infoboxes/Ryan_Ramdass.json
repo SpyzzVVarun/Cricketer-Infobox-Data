@@ -1,0 +1,24 @@
+{
+    "name": "Ryan Ramdass",
+    "country": "West Indies",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/52913.html ESPNcricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "2/\u2013"
+    },
+    "ODI": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

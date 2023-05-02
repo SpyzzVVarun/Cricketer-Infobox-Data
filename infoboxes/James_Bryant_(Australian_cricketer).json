@@ -1,0 +1,38 @@
+{
+    "name": "James Bryant",
+    "fullname": "James Mark Bryant",
+    "birth_place": "England",
+    "death_date": "10 December 1881",
+    "death_place": "Sale, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "debutdate1": "23 August",
+    "debutyear1": "1852",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Sussex",
+    "lastdate1": "1 March",
+    "lastyear1": "1862",
+    "lastfor1": "Surrey XI",
+    "lastagainst1": "The World",
+    "source": "http://www.espncricinfo.com/australia/content/player/4403.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "182",
+        "bat avg": "10.70",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "904",
+        "wickets": "22",
+        "bowl avg": "10.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/11",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1852",
+        "Victoria": "1856/57\u20131861/62",
+        "Surrey XI": "1861/62"
+    }
+}

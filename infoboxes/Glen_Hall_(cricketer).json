@@ -1,0 +1,41 @@
+{
+    "name": "Glen Hall",
+    "fullname": "Glen Gordon Hall",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1965",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/45397.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "186",
+        "wickets": "1",
+        "bowl avg": "94.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/94",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "32",
+        "runs": "306",
+        "bat avg": "7.84",
+        "100s/50s": "0/2",
+        "top score": "63",
+        "deliveries": "6,105",
+        "wickets": "110",
+        "bowl avg": "29.66",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "9/122",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {}
+}

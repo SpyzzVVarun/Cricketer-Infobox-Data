@@ -1,0 +1,39 @@
+{
+    "country": "Australia",
+    "fullname": "Gregory Vincent Marie",
+    "birth_place": "Subiaco, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17323.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "104",
+        "bat avg": "9.45",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "1,536",
+        "wickets": "21",
+        "bowl avg": "32.00",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/46",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "deliveries": "288",
+        "wickets": "4",
+        "bowl avg": "41.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1978\u20131979"
+    },
+    "birth_date": "1945-2-17"
+}

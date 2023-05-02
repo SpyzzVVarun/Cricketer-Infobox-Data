@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "George Edward Given Lyness",
+    "birth_place": "Dunmurry, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/24431.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "229",
+        "wickets": "8",
+        "bowl avg": "11.25",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/39",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1961"
+    },
+    "birth_date": "1937-12-16"
+}

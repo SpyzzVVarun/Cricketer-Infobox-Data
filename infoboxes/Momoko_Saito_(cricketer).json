@@ -1,0 +1,27 @@
+{
+    "name": "Momoko Saito",
+    "female": "true",
+    "country": "Japan",
+    "fullname": "Momoko Saito",
+    "birth_place": "Japan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "odidebutdate": "21 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "9",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/55220.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "5",
+        "runs": "18",
+        "bat avg": "3.60",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1981-9-8"
+}

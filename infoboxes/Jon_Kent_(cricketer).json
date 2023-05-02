@@ -1,0 +1,62 @@
+{
+    "name": "Jon Kent",
+    "country": "South Africa",
+    "fullname": "Jon Carter Kent",
+    "birth_place": "Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "odidebutdate": "3 April",
+    "odidebutyear": "2002",
+    "odidebutagainst": "Australia",
+    "odicap": "69",
+    "lastodidate": "6 April",
+    "lastodiyear": "2002",
+    "lastodiagainst": "Australia",
+    "source": "http://www.cricinfo.com/ci/content/player/45800.html Cricinfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "48",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "FC": {
+        "matches": "94",
+        "runs": "4620",
+        "bat avg": "35.26",
+        "100s/50s": "9/22",
+        "deliveries": "9737",
+        "wickets": "149",
+        "bowl avg": "31.63",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/77",
+        "catches/stumpings": "68/&ndash;"
+    },
+    "LA": {
+        "matches": "140",
+        "runs": "2835",
+        "bat avg": "28.63",
+        "100s/50s": "1/20",
+        "deliveries": "5016",
+        "wickets": "111",
+        "bowl avg": "36.63",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/29",
+        "catches/stumpings": "48/&ndash;"
+    },
+    "clubs": {
+        "Dolphins": "",
+        "KwaZulu-Natal": "",
+        "Scotland": ""
+    },
+    "birth_date": "1979-05-07"
+}

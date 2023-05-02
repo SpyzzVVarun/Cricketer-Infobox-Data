@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Dunlop Crawford John Manners",
+    "birth_place": "Kuala Lumpur, Federated Malay States",
+    "death_date": "1994",
+    "death_place": "Durban, KwaZulu-Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/17309.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "33",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "160",
+        "wickets": "1",
+        "bowl avg": "83.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/83",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

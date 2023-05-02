@@ -1,0 +1,51 @@
+{
+    "name": "Peter Pollock",
+    "fullname": "Peter Maclean Pollock",
+    "nickname": "Pooch",
+    "birth_place": "Pietermaritzburg, Natal, South Africa",
+    "family": "Andrew Maclean Pollock (father), Graeme Pollock (brother), Shaun Pollock (son)",
+    "height": "191 cm",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "All rounder",
+    "country": "South Africa",
+    "testdebutdate": "8 December",
+    "testdebutyear": "1961",
+    "testdebutagainst": "New Zealand",
+    "lasttestdate": "5 March",
+    "lasttestyear": "1970",
+    "lasttestagainst": "Australia",
+    "testcap": "210",
+    "source": "http://cricinfo.com/ci/content/player/46770.html Cricinfo",
+    "Test": {
+        "matches": "28",
+        "runs": "607",
+        "bat avg": "21.67",
+        "100s/50s": "0/2",
+        "deliveries": "6,522",
+        "wickets": "116",
+        "bowl avg": "24.18",
+        "fivefor": "9",
+        "tenfor": "1",
+        "best bowling": "6/38",
+        "catches/stumpings": "9/\u2013"
+    },
+    "First-class": {
+        "matches": "127",
+        "runs": "3,028",
+        "bat avg": "22.59",
+        "100s/50s": "0/12",
+        "top score": "79",
+        "deliveries": "19,064",
+        "wickets": "485",
+        "bowl avg": "21.89",
+        "fivefor": "27",
+        "tenfor": "2",
+        "best bowling": "7/19",
+        "catches/stumpings": "54/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1958/59\u20131971/72"
+    },
+    "birth_date": "1941-06-30"
+}

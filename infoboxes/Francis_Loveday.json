@@ -1,0 +1,22 @@
+{
+    "name": "Francis Loveday",
+    "fullname": "Francis Alfred Loveday",
+    "birth_place": "Hackney, London, England",
+    "death_date": "1954",
+    "death_place": "North Walsham, Norfolk, England",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/16348.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "321",
+        "bat avg": "22.92",
+        "100s/50s": "0/3",
+        "top score": "81",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Essex": "1921\u20131923"
+    },
+    "birth_date": "1892-9-14"
+}

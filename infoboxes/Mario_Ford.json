@@ -1,0 +1,25 @@
+{
+    "name": "Mario Ford",
+    "country": "Bahamas",
+    "fullname": "Mario Locksley Ford",
+    "birth_place": "Bahamas",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/252859.html Cricinfo ",
+    "T20": {
+        "matches": "2",
+        "runs": "33",
+        "bat avg": "16.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1958-6-26"
+}

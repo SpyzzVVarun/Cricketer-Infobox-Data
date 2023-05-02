@@ -1,0 +1,23 @@
+{
+    "name": "John Percival",
+    "country": "England",
+    "fullname": "John Douglas Percival",
+    "birth_place": "Kensington, London",
+    "death_date": "df=yes",
+    "death_place": "Roehampton, London",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/18894.html CricInfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "38",
+        "bat avg": "6.33",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1922\u20131923",
+        "Oxford University": "1922\u20131923"
+    },
+    "birth_date": "1902-08-05"
+}

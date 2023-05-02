@@ -1,0 +1,33 @@
+{
+    "name": "William Bowra",
+    "birth_place": "Sevenoaks, Kent",
+    "death_date": "7 May 1820",
+    "death_place": "Sevenoaks, Kent",
+    "type1": "FC",
+    "debutdate1": "29 June",
+    "debutyear1": "1775",
+    "debutfor1": "Kent",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "5 September",
+    "lastyear1": "1792",
+    "lastfor1": "Brighton",
+    "lastagainst1": "Middlsex",
+    "source": "https://www.espncricinfo.com/player/william-bowra-535046 CricInfo",
+    "First-class": {
+        "matches": "50",
+        "runs": "1,138",
+        "bat avg": "12.78",
+        "100s/50s": "0/2",
+        "deliveries": "?",
+        "wickets": "4name=wickets",
+        "bowl avg": "?",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/?",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Kent XI": "1775\u20131788",
+        "Brighton": "1791\u20131792"
+    }
+}

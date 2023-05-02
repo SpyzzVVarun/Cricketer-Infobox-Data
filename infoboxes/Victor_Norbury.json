@@ -1,0 +1,32 @@
+{
+    "name": "Victor Norbury",
+    "country": "England",
+    "fullname": "Duncan Victor Norbury",
+    "birth_place": "Bartley, Hampshire, England",
+    "death_date": "1972",
+    "death_place": "Sutton, Surrey, England",
+    "heightft": "5",
+    "heightinch": "9",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/6/6778/6778.html CricketArchive ",
+    "First-class": {
+        "matches": "26",
+        "runs": "806",
+        "bat avg": "19.19",
+        "100s/50s": "1/4",
+        "top score": "100",
+        "deliveries": "1,737",
+        "wickets": "30",
+        "bowl avg": "33.2",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/28",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1905\u20131906",
+        "Lancashire": "1919\u20131922"
+    },
+    "birth_date": "1887-8-3"
+}

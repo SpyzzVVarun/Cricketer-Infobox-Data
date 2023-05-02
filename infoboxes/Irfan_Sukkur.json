@@ -1,0 +1,30 @@
+{
+    "name": "Irfan Sukkur",
+    "country": "Bangladesh",
+    "fullname": "Irfan Sukkur",
+    "birth_place": "Chittagong, Bangladesh",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/400587.html ESPN Cricinfo ",
+    "FC": {
+        "matches": "60",
+        "runs": "2,453",
+        "bat avg": "27.25",
+        "100s/50s": "2/15",
+        "top score": "104",
+        "catches/stumpings": "53/11"
+    },
+    "LA": {
+        "matches": "66",
+        "runs": "1770",
+        "bat avg": "28.54",
+        "100s/50s": "0/11",
+        "top score": "95",
+        "catches/stumpings": "43/19"
+    },
+    "clubs": {
+        "Rajshahi Royals": "2019\u20132020",
+        "Chattogram Challengers": "2023"
+    },
+    "birth_date": "1993-05-22"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edmund George McCorquodale",
+    "birth_place": "Weybridge, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Advie, Morayshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17473.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "228",
+        "wickets": "1",
+        "bowl avg": "82.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1899",
+        "Cambridge University": "1901"
+    }
+}

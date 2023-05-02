@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Byng",
+    "country": "England",
+    "fullname": "Arthur Maitland Byng",
+    "birth_place": "Southsea, Hampshire, England",
+    "death_date": "1914",
+    "death_place": "Vailly, Aube, France",
+    "family": "Frederick Stephens (uncle)",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/9337.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "252",
+        "bat avg": "16.80",
+        "100s/50s": "\u2013/1",
+        "top score": "70",
+        "deliveries": "286",
+        "wickets": "7",
+        "bowl avg": "24.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/53",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1905",
+        "Jamaica": "1896/1897"
+    },
+    "birth_date": "1872-10-26"
+}

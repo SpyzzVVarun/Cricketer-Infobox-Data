@@ -1,0 +1,29 @@
+{
+    "name": "Eric Dusingizimana",
+    "country": "Rwanda",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "T20Idebutdate": "18 August",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Ghana",
+    "T20Icap": "3",
+    "lastT20Idate": "23 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/346602.html Cricinfo |hidedeliveries=true",
+    "T20I": {
+        "matches": "28",
+        "runs": "554",
+        "bat avg": "21.30",
+        "100s/50s": "0/2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {},
+    "birth_date": "1987-3-21"
+}

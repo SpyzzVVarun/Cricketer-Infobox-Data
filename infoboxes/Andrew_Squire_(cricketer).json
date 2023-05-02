@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Andrew John Squire",
+    "birth_place": "Mildenhall, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20328.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "46",
+        "bat avg": "11.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Suffolk": "1985&ndash;2001"
+    },
+    "birth_date": "1964-3-9"
+}

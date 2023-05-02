@@ -1,0 +1,40 @@
+{
+    "name": "John Dale",
+    "country": "England",
+    "fullname": "John William Dale",
+    "birth_place": "Lincoln, England",
+    "death_date": "1895",
+    "death_place": "Westminster, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "14 May",
+    "debutyear1": "1868",
+    "debutfor1": "Cambridge Univ.",
+    "debutagainst1": "MCC",
+    "lastdate1": "31 August",
+    "lastyear1": "1882",
+    "lastfor1": "MCC",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/28/28929/28929.html CricketArchive  ",
+    "First-class": {
+        "matches": "56",
+        "runs": "1,625",
+        "bat avg": "16.92",
+        "100s/50s": "1/5",
+        "top score": "132",
+        "deliveries": "312",
+        "wickets": "6",
+        "bowl avg": "29.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/16",
+        "catches/stumpings": "39/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1868\u20131870",
+        "MCC": "1869\u20131882",
+        "Middlesex": "1874\u20131878"
+    },
+    "birth_date": "1848-6-21"
+}

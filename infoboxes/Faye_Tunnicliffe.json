@@ -1,0 +1,45 @@
+{
+    "name": "Faye Tunnicliffe",
+    "female": "true",
+    "country": "South Africa",
+    "fullname": "Faye Tunnicliffe",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2018\u2013present",
+    "odidebutdate": "11 February",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "84",
+    "lastodidate": "17 February",
+    "lastodiyear": "2019",
+    "lastodiagainst": "Sri Lanka",
+    "T20Idebutdate": "24 September",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "West Indies",
+    "T20Icap": "52",
+    "lastT20Idate": "23 March",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/939263.html Cricinfo ",
+    "WODI": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "catches/stumpings": "8/0"
+    },
+    "WT20I": {
+        "matches": "10",
+        "runs": "56",
+        "bat avg": "9.33",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "1/2"
+    },
+    "clubs": {
+        "Boland": "2014/15\u20132018/19",
+        "Western Province": "2019/20\u2013present"
+    },
+    "birth_date": "1998-12-9"
+}

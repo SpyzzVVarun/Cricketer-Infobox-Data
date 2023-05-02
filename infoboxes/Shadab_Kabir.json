@@ -1,0 +1,41 @@
+{
+    "name": "Shadab Kabir",
+    "country": "Pakistan",
+    "fullname": "Mohammad Shadab Kabir Siddiqi",
+    "birth_place": "Karachi, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "testdebutdate": "25 July",
+    "testdebutyear": "1996",
+    "testdebutagainst": "England",
+    "testcap": "137",
+    "lasttestdate": "16 January",
+    "lasttestyear": "2002",
+    "lasttestagainst": "Bangladesh",
+    "odidebutdate": "1 September",
+    "odidebutyear": "1996",
+    "odidebutagainst": "England",
+    "odicap": "105",
+    "lastodidate": "23 September",
+    "lastodiyear": "1996",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/42634.html ESPNCricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "148",
+        "bat avg": "21.14",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "catches/stumpings": "11/\u2013"
+    },
+    "ODI": {
+        "matches": "3",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1977-11-12"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "John Robson McDougall",
+    "birth_place": "Galashiels, Selkirkshire,, Scotland",
+    "death_date": "1947",
+    "death_place": "Ayr, Ayrshire, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/john-mcdougall-25287 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1912"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Frederick William Harris",
+    "birth_place": "Chesham, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15120.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "30",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "456",
+        "wickets": "11",
+        "bowl avg": "19.45",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/21",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1957&ndash;1976"
+    },
+    "birth_date": "1934-12-12"
+}

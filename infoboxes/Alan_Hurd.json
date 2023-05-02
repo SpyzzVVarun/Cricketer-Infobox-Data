@@ -1,0 +1,27 @@
+{
+    "name": "Alan Hurd",
+    "birth_place": "Ilford, Essex, England",
+    "death_date": "2016",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/14320.html Cricinfo ",
+    "FC": {
+        "matches": "90",
+        "runs": "376",
+        "bat avg": "5.37",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "17073",
+        "wickets": "249",
+        "bowl avg": "30.80",
+        "fivefor": "13",
+        "tenfor": "1",
+        "best bowling": "6/15",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Essex": "1958\u20131960"
+    },
+    "birth_date": "1937-9-7"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "David John Simpson",
+    "birth_place": "Irvine, Ayrshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/david-simpson-25347 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "14",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1984&ndash;1985"
+    },
+    "birth_date": "1961-2-23"
+}

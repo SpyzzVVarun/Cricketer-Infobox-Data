@@ -1,0 +1,25 @@
+{
+    "country": "Denmark",
+    "fullname": "Henrik Saxe Hansen",
+    "birth_place": "Ringsted, Ringsted Municipality, Denmark",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23926.html Cricinfo ",
+    "List A": {
+        "matches": "20",
+        "runs": "148",
+        "bat avg": "12.33",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "877",
+        "wickets": "14",
+        "bowl avg": "47.42",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/28",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Denmark": "2001\u20132002"
+    },
+    "birth_date": "1977-6-23"
+}

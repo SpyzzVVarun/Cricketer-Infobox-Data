@@ -1,0 +1,18 @@
+{
+    "name": "Samantha Bates",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Samantha Lee Bates",
+    "birth_place": "Newcastle, New South Wales",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/australia/content/player/537440.html Cricinfo ",
+    "clubs": {
+        "ACT Meteors": "2009/10\u20132018/19",
+        "Sydney Thunder": "2015/16\u2013present",
+        "Tasmanian Tigers": "2019/20\u20132020/21",
+        "Victoria": "2021/22\u2013present"
+    },
+    "birth_date": "1992-08-17"
+}

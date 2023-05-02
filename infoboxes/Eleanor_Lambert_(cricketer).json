@@ -1,0 +1,28 @@
+{
+    "name": "Eleanor Lambert",
+    "country": "South Africa",
+    "female": "true",
+    "death_date": "1994",
+    "death_place": "South Africa",
+    "role": "Wicket-keeper",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "England",
+    "testcap": "7",
+    "lasttestdate": "17 December",
+    "lasttestyear": "1960",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17376/17376.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "65",
+        "bat avg": "16.25",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Natal": "1954/55\u20131960/61"
+    }
+}

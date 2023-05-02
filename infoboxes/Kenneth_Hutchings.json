@@ -1,0 +1,61 @@
+{
+    "name": "Kenneth Hutchings",
+    "country": "England",
+    "fullname": "Kenneth Lotherington Hutchings",
+    "birth_place": "Southborough, Kent, England",
+    "death_date": "1916",
+    "death_place": "Ginchy, Somme, France",
+    "family": "Frederick Hutchings (brother) William Hutchings (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "testdebutdate": "13 December",
+    "testdebutyear": "1907",
+    "testdebutagainst": "Australia",
+    "testcap": "155",
+    "lasttestdate": "11 August",
+    "lasttestyear": "1909",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/14327.html CricInfo",
+    "module": "embed=y",
+    "allegiance": "United Kingdom",
+    "branch": "United Kingdom",
+    "serviceyears": "1914\u20131916",
+    "unit": "12th Battalion, King's Liverpool Regiment",
+    "battles": [
+        "Battle of the Somme",
+        "",
+        "Battle of Guillemont KIA"
+    ],
+    "Test": {
+        "matches": "7",
+        "runs": "341",
+        "bat avg": "28.41",
+        "100s/50s": "1/1",
+        "top score": "126",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "81.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "9/\u2013"
+    },
+    "First-class": {
+        "matches": "207",
+        "runs": "10,054",
+        "bat avg": "33.62",
+        "100s/50s": "22/56",
+        "top score": "176",
+        "deliveries": "1,439",
+        "wickets": "24",
+        "bowl avg": "39.08",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/15",
+        "catches/stumpings": "179/\u2013"
+    },
+    "clubs": {
+        "Kent": "1902\u20131912"
+    },
+    "birth_date": "1882-12-7"
+}

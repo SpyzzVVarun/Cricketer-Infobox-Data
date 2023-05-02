@@ -1,0 +1,31 @@
+{
+    "name": "Peter Baker",
+    "country": "England",
+    "fullname": "Peter Anthony Baker",
+    "birth_place": "Crowthorne, Berkshire, England",
+    "death_date": "2000",
+    "death_place": "Stourton, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/10260.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1979 & 1985",
+        "Berkshire": "1962-1978"
+    },
+    "birth_date": "1945-9-18"
+}

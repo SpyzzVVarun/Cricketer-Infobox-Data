@@ -1,0 +1,39 @@
+{
+    "name": "Rex Blundell",
+    "fullname": "Rex Pole Blundell",
+    "birth_place": "Adelaide, Australia",
+    "batting": "Right-hand bat",
+    "role": "Wicket keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/4270.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "552",
+        "bat avg": "15.33",
+        "100s/50s": "&ndash;/1",
+        "top score": "66",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "64/13"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "42",
+        "bat avg": "-",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "-",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1964/65-1970/71"
+    },
+    "birth_date": "1942-5-8"
+}

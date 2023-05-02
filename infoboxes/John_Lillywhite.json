@@ -1,0 +1,31 @@
+{
+    "name": "John Lillywhite",
+    "country": "England",
+    "birth_place": "Hove, Sussex, England",
+    "death_date": "1874",
+    "death_place": "St Pancras, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "William Lillywhite (father)",
+    "source": "https://cricketarchive.com/Archive/Players/31/31000/31000.html  CricketArchive ",
+    "First-class": {
+        "matches": "185",
+        "runs": "5,127",
+        "bat avg": "17.43",
+        "100s/50s": "2/13",
+        "top score": "138",
+        "deliveries": "7,010",
+        "wickets": "223",
+        "bowl avg": "11.56",
+        "fivefor": "12",
+        "tenfor": "2",
+        "best bowling": "8/54",
+        "catches/stumpings": "94/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1850\u20131869",
+        "Middlesex": "1851\u20131864",
+        "MCC": "1856\u20131860"
+    },
+    "birth_date": "1826-11-10"
+}

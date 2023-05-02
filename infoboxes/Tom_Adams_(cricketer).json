@@ -1,0 +1,33 @@
+{
+    "name": "Tom Adams",
+    "fullname": "Thomas Miles Adams",
+    "birth_place": "Gravesend, Kent",
+    "death_date": "1894",
+    "death_place": "Gravesend, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/8673.html CricInfo ",
+    "First-class": {
+        "matches": "157",
+        "runs": "3,435",
+        "bat avg": "12.31",
+        "100s/50s": "0/9",
+        "top score": "78",
+        "deliveries": [
+            "Due to incomplete scorecards from the mid-19th century, the number of balls bowled and bowling average are approximate"
+        ],
+        "wickets": "152",
+        "bowl avg": [
+            ""
+        ],
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/?Due to incomplete scorecards the number of runs conceded is unknown",
+        "catches/stumpings": "144/\u2013"
+    },
+    "clubs": {
+        "Kent": "1836\u20131858",
+        "MCC": "1838\u20131856"
+    },
+    "birth_date": "1810-5-2"
+}

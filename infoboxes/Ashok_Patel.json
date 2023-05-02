@@ -1,0 +1,27 @@
+{
+    "name": "Ashok Patel",
+    "birth_place": "Bhavnagar, India",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://content-ind.cricinfo.com/ci/content/player/32226.html  ",
+    "Tests": {
+        "matches": "0"
+    },
+    "ODIs": {
+        "matches": "8",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "-/-",
+        "top score": "6",
+        "deliveries": "- 60",
+        "wickets": "- 7",
+        "bowl avg": "37.57",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "3/43",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {},
+    "birth_date": "6 March 1957"
+}

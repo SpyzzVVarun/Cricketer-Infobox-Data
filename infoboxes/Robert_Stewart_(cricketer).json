@@ -1,0 +1,24 @@
+{
+    "name": "Robert Stewart",
+    "fullname": "Robert Burnard Stewart",
+    "birth_place": "Azamgarh, United Provinces, India",
+    "death_date": "df=y",
+    "death_place": "Cala, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "12 March",
+    "testdebutyear": "1889",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/47240.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1856-9-3"
+}

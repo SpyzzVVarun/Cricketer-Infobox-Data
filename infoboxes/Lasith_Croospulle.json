@@ -1,0 +1,20 @@
+{
+    "name": "Lasith Croospulle",
+    "fullname": "Dian Lasith Shenan Croospulle",
+    "birth_place": "Negombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/1027867.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1998-10-10",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

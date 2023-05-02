@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "William Samuel Deacon",
+    "birth_place": "Battersea, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Cobham, Surrey, England",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12372.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "328",
+        "bat avg": "14.90",
+        "100s/50s": "\u2013/1",
+        "top score": "54",
+        "deliveries": "?",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1848&ndash;1850"
+    }
+}

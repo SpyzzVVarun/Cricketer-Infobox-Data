@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "John Congreve Murray",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Poelcappelle, West Flanders, Belgium",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/25306.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "78",
+        "bat avg": "15.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1909&ndash;1913"
+    }
+}

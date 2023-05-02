@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "George Luther Robinson",
+    "birth_place": "Ruddington, Nottinghamshire, England",
+    "death_date": "1930",
+    "death_place": "Conisbrough, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "family": "Ellis Robinson (nephew)",
+    "source": "http://www.cricinfo.com/ci/content/player/19768.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "58",
+        "bat avg": "8.28",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "45",
+        "wickets": "1",
+        "bowl avg": "24.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/14",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire": "1896"
+    },
+    "birth_date": "1873-2-22"
+}

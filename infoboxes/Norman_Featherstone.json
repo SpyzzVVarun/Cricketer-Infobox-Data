@@ -1,0 +1,42 @@
+{
+    "name": "Norman Featherstone",
+    "fullname": "Norman George Featherstone",
+    "birth_place": "Que Que, Southern Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/player/norman-featherstone-45040 Cricinfo",
+    "First-class": {
+        "matches": "329",
+        "runs": "13,922",
+        "bat avg": "29.37",
+        "100s/50s": "12/88",
+        "top score": "147",
+        "deliveries": "10,396",
+        "wickets": "181",
+        "bowl avg": "27.54",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "277/0"
+    },
+    "List A": {
+        "matches": "248",
+        "runs": "4269",
+        "bat avg": "20.42",
+        "100s/50s": "0/20",
+        "deliveries": "2247",
+        "wickets": "65",
+        "bowl avg": "27.52",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/10",
+        "catches/stumpings": "65/0"
+    },
+    "clubs": {
+        "Transvaal": "1967-68 to 1977-78",
+        "Middlesex": "1968 to 1979",
+        "Glamorgan": "1980 to 1981",
+        "Northern Transvaal": "1981-82"
+    },
+    "birth_date": "1949-8-20"
+}

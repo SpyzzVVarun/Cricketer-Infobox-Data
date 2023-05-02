@@ -1,0 +1,31 @@
+{
+    "name": "Bill Watson",
+    "death_date": "2018",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1955",
+    "lasttestdate": "14 May",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1955",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/8181.html Cricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "106",
+        "bat avg": "17.66",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "41",
+        "runs": "1,958",
+        "bat avg": "32.09",
+        "100s/50s": "6/5",
+        "top score": "206",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1931-01-31"
+}

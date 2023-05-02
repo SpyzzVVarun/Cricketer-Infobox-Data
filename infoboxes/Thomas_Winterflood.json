@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Thomas Winterflood",
+    "birth_place": "Lambeth, London, England",
+    "death_date": "df=yes",
+    "death_place": "Brixton Hill, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ireland/content/player/23123.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {}
+}

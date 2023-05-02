@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "John Hughes",
+    "birth_place": "Hertford, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Hertford, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/15025.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "189",
+        "wickets": "9",
+        "bowl avg": "10.44",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "7/46",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

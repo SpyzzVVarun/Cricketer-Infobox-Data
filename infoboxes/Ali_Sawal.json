@@ -1,0 +1,41 @@
+{
+    "country": "Pakistan",
+    "fullname": "Mohammad Ali Sawal",
+    "birth_place": "Multan, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/39039.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "23",
+        "bat avg": "4.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "365",
+        "wickets": "2",
+        "bowl avg": "116.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/96",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "137",
+        "bat avg": "27.40",
+        "100s/50s": "\u2013/1",
+        "top score": "56",
+        "deliveries": "130",
+        "wickets": "3",
+        "bowl avg": "35.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford Universities": "2000",
+        "Sargodha": "2001/02"
+    },
+    "birth_date": "1979-10-24"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Biplab Samantray",
+    "country": "India",
+    "fullname": "Biplab Bipin Samantray",
+    "birth_place": "Cuttack, Odisha, India",
+    "batting": "Right-handed",
+    "bowling": "Right-hand Right-hand medium",
+    "source": "http://www.espncricinfo.com/india/content/player/430125.html CricInfo ",
+    "FC": {
+        "matches": "46",
+        "runs": "2,056",
+        "bat avg": "27.78",
+        "100s/50s": "4/6",
+        "top score": "171",
+        "deliveries": "4,440",
+        "wickets": "60",
+        "bowl avg": "33.76",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/22",
+        "catches/stumpings": "38/\u2013"
+    },
+    "LA": {
+        "matches": "32",
+        "runs": "852",
+        "bat avg": "30.42",
+        "100s/50s": "1/7",
+        "top score": "100",
+        "deliveries": "1,323",
+        "wickets": "33",
+        "bowl avg": "31.48",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/24",
+        "catches/stumpings": "18/\u2013"
+    },
+    "T20": {
+        "matches": "41",
+        "runs": "558",
+        "bat avg": "17.43",
+        "100s/50s": "0/2",
+        "deliveries": "455",
+        "wickets": "18",
+        "bowl avg": "26.11",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/09",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Sunrisers Hyderabad": "2012\u20132015",
+        "Odisha": "2010\u2013present"
+    },
+    "birth_date": "1988-12-14"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Robert Forrest",
+    "country": "Ireland",
+    "fullname": "Robert James Forrest",
+    "batting": "Right-handed",
+    "role": "Batsman, wicket-keeper",
+    "type1": "Twenty20",
+    "debutdate1": "26 May",
+    "debutyear1": "2017",
+    "debutfor1": "Munster",
+    "debutagainst1": "Northern",
+    "source": "http://www.espncricinfo.com/ci/content/player/531954.html Cricinfo ",
+    "Twenty20": {
+        "matches": "7",
+        "runs": "158",
+        "bat avg": "22.57",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Munster Reds": "2017\u2013present"
+    },
+    "birth_date": "1993-5-25"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "Ireland",
+    "fullname": "Henry George Hill Mulholland",
+    "birth_place": "Bellaghy, Ireland",
+    "death_date": "1971",
+    "death_place": "Bellaghy, Northern Ireland",
+    "family": "Godfrey Mulholland (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/24469.html Cricinfo ",
+    "First-class": {
+        "matches": "32",
+        "runs": "1,642",
+        "bat avg": "30.40",
+        "100s/50s": "4/9",
+        "top score": "153",
+        "deliveries": "2,007",
+        "wickets": "51",
+        "bowl avg": "23.86",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/9",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1911&ndash;1914",
+        "Ireland": "1911"
+    }
+}

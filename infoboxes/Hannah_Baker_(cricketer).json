@@ -1,0 +1,43 @@
+{
+    "name": "Hannah Baker",
+    "female": "true",
+    "fullname": "Hannah Louise Baker",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1888/1888804/1888804.html CricketArchive",
+    "WLA": {
+        "matches": "14",
+        "runs": "10",
+        "bat avg": "3.33",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "532",
+        "wickets": "10",
+        "bowl avg": "43.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/26",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "32",
+        "runs": "20",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "deliveries": "444",
+        "wickets": "26",
+        "bowl avg": "21.34",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/14",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "2018\u20132019",
+        "Warwickshire": "2020\u2013present",
+        "Central Sparks": "2020\u2013present",
+        "Welsh Fire": "2021\u20132022"
+    },
+    "birth_date": "2004-2-3"
+}

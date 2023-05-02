@@ -1,0 +1,28 @@
+{
+    "name": "Imran Ali",
+    "country": "Pakistan",
+    "fullname": "Imran Ali Khan",
+    "birth_place": "Sahiwal, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/70/70390/70390.html CricketArchive ",
+    "FC": {
+        "matches": "5",
+        "runs": "36",
+        "bat avg": "7.20",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/8",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "Pakistan International Airlines": "2006\u20132009"
+    },
+    "birth_date": "27 August 1987"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Jessica Olorenshaw",
+    "female": "true",
+    "fullname": "Jessica Grace Olorenshaw",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2161/2161484/2161484.html CricketArchive",
+    "WLA": {
+        "matches": "5",
+        "runs": "70",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "7",
+        "runs": "119",
+        "bat avg": "19.83",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/1"
+    },
+    "clubs": {
+        "Essex": "2021\u2013present",
+        "Cambridgeshire": "2022\u2013present",
+        "Sunrisers": "2022\u2013present"
+    },
+    "birth_date": "2005-1-27"
+}

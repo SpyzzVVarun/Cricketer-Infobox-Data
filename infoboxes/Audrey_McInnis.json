@@ -1,0 +1,32 @@
+{
+    "name": "Audrey McInnis",
+    "female": "true",
+    "batting": "Left-handed",
+    "country": "Jamaica",
+    "internationalspan": "1973 &ndash; 1973",
+    "odidebutdate": "4 July",
+    "odidebutyear": "1973",
+    "odidebutfor": "Jamaica",
+    "odidebutagainst": "Trinidad and Tobago",
+    "odicap": "12",
+    "lastodidate": "14 July",
+    "lastodiyear": "1973",
+    "lastodifor": "Jamaica",
+    "lastodiagainst": "International XI",
+    "source": "http://m.espncricinfo.com/westindies/content/player/55139.html Cricinfo",
+    "WODI": {
+        "matches": "3",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,18 @@
+{
+    "country": "England",
+    "fullname": "Robert Sutton",
+    "birth_place": "Kelham, Nottinghamshire, England",
+    "death_date": "1885",
+    "death_place": "Scawby, Lincolnshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/548283.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Percy MacKenzie",
+    "country": "England",
+    "fullname": "Percy Alec MacKenzie",
+    "birth_place": "Canterbury, Kent, England",
+    "death_date": "1989",
+    "death_place": "Rye, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.cricinfo.com/ci/content/player/16864.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "652",
+        "bat avg": "19.75",
+        "100s/50s": "0/4",
+        "top score": "76",
+        "deliveries": "874",
+        "wickets": "17",
+        "bowl avg": "35.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/34",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1938\u20131939",
+        "Berkshire": "1947\u20131948"
+    },
+    "birth_date": "1918-10-5"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Afsar Zazai",
+    "country": "Afghanistan",
+    "fullname": "Afsar Khan Zazai",
+    "birth_place": "Kabul, Afghanistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2012\u2013present",
+    "testdebutdate": "14 June",
+    "testdebutyear": "2018",
+    "testdebutagainst": "India",
+    "testcap": "1",
+    "lasttestdate": "10 March",
+    "lasttestyear": "2021",
+    "lasttestagainst": "Zimbabwe",
+    "odidebutdate": "28 November",
+    "odidebutyear": "2014",
+    "odidebutagainst": "UAE",
+    "odicap": "34",
+    "lastodidate": "14 June",
+    "lastodiyear": "2017",
+    "lastodiagainst": "West Indies",
+    "odishirt": "78",
+    "T20Idebutdate": "11 October",
+    "T20Idebutyear": "2013",
+    "T20Idebutagainst": "Kenya",
+    "T20Icap": "24",
+    "lastT20Idate": "19 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "United Arab Emirates",
+    "source": "http://www.espncricinfo.com/afghanistan/content/player/420402.html Cricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "172",
+        "bat avg": "24.57",
+        "100s/50s": "0/0",
+        "catches/stumpings": "9/1"
+    },
+    "ODI": {
+        "matches": "17",
+        "runs": "264",
+        "bat avg": "17.60",
+        "100s/50s": "0/2",
+        "top score": "60",
+        "catches/stumpings": "20/2"
+    },
+    "T20I": {
+        "matches": "2",
+        "runs": "33",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "0/2"
+    },
+    "FC": {
+        "matches": "34",
+        "runs": "1,438",
+        "bat avg": "33.44",
+        "100s/50s": "2/9",
+        "top score": "124",
+        "catches/stumpings": "78/10"
+    },
+    "clubs": {
+        "Band-e-Amir Region": "2017",
+        "Amo Sharks": "2017"
+    },
+    "birth_date": "1993-08-10"
+}

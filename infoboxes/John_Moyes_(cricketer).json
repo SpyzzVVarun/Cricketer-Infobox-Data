@@ -1,0 +1,23 @@
+{
+    "name": "John Moyes",
+    "fullname": "John Robert Moyes",
+    "birth_place": "Ipswich, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Occasional wicket-keeper",
+    "family": "James Moyes (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/17801.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "53",
+        "bat avg": "8.83",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cumberland": "1973\u20131993",
+        "Suffolk": "1966\u20131968"
+    },
+    "birth_date": "1946-12-2"
+}

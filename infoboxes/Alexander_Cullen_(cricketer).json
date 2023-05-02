@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Coney Cullen",
+    "birth_place": "Uddingston, Lanarkshire, Scotland",
+    "death_date": "1922",
+    "death_place": "Glasgow, Lanarkshire, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "https://www.espncricinfo.com/player/alexander-cullen-25182 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "34",
+        "bat avg": "6.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1912&ndash;1921"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Bertram Richardson",
+    "country": "England",
+    "fullname": "Bertram Harold Richardson",
+    "birth_place": "Ashton-under-Lyne, Lancashire, England",
+    "death_date": "2020",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "FC",
+    "debutdate1": "21 June",
+    "debutyear1": "1950",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "10 June",
+    "lastyear1": "1953",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Oxford University",
+    "source": "https://www.espncricinfo.com/player/bertram-richardson-19676 Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "279",
+        "bat avg": "11.16",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "2,200",
+        "wickets": "33",
+        "bowl avg": "30.39",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/39",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1950\u20131953"
+    },
+    "birth_date": "1932-3-12"
+}

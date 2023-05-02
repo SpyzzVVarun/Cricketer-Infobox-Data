@@ -1,0 +1,25 @@
+{
+    "name": "Ernest Read",
+    "country": "England",
+    "fullname": "Ernest George Read",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "death_date": "1921",
+    "death_place": "Wandsworth, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Russell Bencraft (uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/19347.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "113",
+        "bat avg": "10.27",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1903",
+        "Sussex": "1904&ndash;1906"
+    },
+    "birth_date": "1873-10-8"
+}

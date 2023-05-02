@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "John George Fox",
+    "birth_place": "Norton, County Durham, England",
+    "death_date": "2016",
+    "death_place": "Devon, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/13176.html Cricinfo ",
+    "First-class": {
+        "matches": "43",
+        "runs": "515",
+        "bat avg": "10.72",
+        "100s/50s": "\u2013/1",
+        "top score": "52",
+        "deliveries": "3",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "91/14"
+    },
+    "clubs": {
+        "Devon": "1968\u20131969",
+        "Durham": "1950\u20131958",
+        "Warwickshire": "1959\u20131961"
+    },
+    "birth_date": "1929-7-22"
+}

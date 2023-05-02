@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Christopher Richard John Budd",
+    "birth_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/9287.html Cricinfo ",
+    "LA": {
+        "matches": "8",
+        "runs": "199",
+        "bat avg": "28.42",
+        "100s/50s": "\u2013/2",
+        "top score": "65",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "2002-2005",
+        "Gloucestershire Cricket Board": "1999-2001"
+    },
+    "birth_date": "1978-12-26"
+}

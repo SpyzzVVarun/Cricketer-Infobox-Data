@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Antony Edward Lea",
+    "birth_place": "Wolverhampton, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/16409.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "772",
+        "bat avg": "19.79",
+        "100s/50s": "1/1",
+        "top score": "119",
+        "deliveries": "450",
+        "wickets": "8",
+        "bowl avg": "36.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/61",
+        "catches/stumpings": "11/&ndash;"
+    },
+    "clubs": {
+        "Herefordshire": "1993",
+        "Staffordshire": "1988&ndash;1990",
+        "Cambridge University": "1984&ndash;1986"
+    },
+    "birth_date": "1962-9-29"
+}

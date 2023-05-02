@@ -1,0 +1,32 @@
+{
+    "country": "England",
+    "fullname": "Edward Southwell Garnier",
+    "birth_place": "Paddington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Shropham, Norfolk, England",
+    "family": [
+        "Thomas Garnier senior (father)",
+        "Thomas Garnier junior (brother)",
+        "John Garnier (uncle)",
+        "George Tottenham (nephew)"
+    ],
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/13567.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "187",
+        "bat avg": "11.68",
+        "100s/50s": "\u2013/1",
+        "deliveries": "136",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1871&ndash;1873"
+    }
+}

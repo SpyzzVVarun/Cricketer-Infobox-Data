@@ -1,0 +1,55 @@
+{
+    "name": "Rajagopal Sathish",
+    "country": "India",
+    "fullname": "Rajagopal Sathish",
+    "birth_place": "Srirangam, Tamil Nadu, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "http://content-aus.cricinfo.com/india/content/player/33870.html Cricinfo ",
+    "FC": {
+        "matches": "33",
+        "runs": "1633",
+        "bat avg": "37.11",
+        "100s/50s": "5/5",
+        "deliveries": "1588",
+        "wickets": "16",
+        "bowl avg": "37.43",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/18",
+        "catches/stumpings": "29/-"
+    },
+    "LA": {
+        "matches": "41",
+        "runs": "807",
+        "bat avg": "33.62",
+        "100s/50s": "0/2",
+        "deliveries": "963",
+        "wickets": "28",
+        "bowl avg": "26.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/16",
+        "catches/stumpings": "25/-"
+    },
+    "T20": {
+        "matches": "35",
+        "runs": "323",
+        "bat avg": "19.00",
+        "100s/50s": "0/1",
+        "deliveries": "157",
+        "wickets": "3",
+        "bowl avg": "72.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/11",
+        "catches/stumpings": "18/-"
+    },
+    "clubs": {
+        "Mumbai Indians": "2010\u20132011",
+        "Kings XI Punjab": "2012\u20132013",
+        "Kolkata Knight Riders": "2016\u20132017"
+    },
+    "birth_date": "1981-1-14"
+}

@@ -1,0 +1,30 @@
+{
+    "country": "Scotland",
+    "fullname": "Charles William Stuart Legget",
+    "nickname": "Legs, Chuck",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "role": "Bowling all-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/299825.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "21.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/43",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Durham UCCE, Scotland A, Scotland U19, Carlton CC": "2005-"
+    },
+    "birth_date": "1988-1-21"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Rameez Raja",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "country": "Pakistan",
+    "T20Icap": "43",
+    "T20Idebutagainst": "Zimbabwe",
+    "T20Idebutdate": "16 September",
+    "T20Idebutyear": "2011",
+    "lastT20Iagainst": "Zimbabwe",
+    "lastT20Idate": "18 September",
+    "lastT20Iyear": "2011",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/232489.html Cricinfo",
+    "T20I": {
+        "matches": "2",
+        "runs": "24",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "85",
+        "runs": "4,160",
+        "bat avg": "27.18",
+        "100s/50s": "5/21",
+        "top score": "150",
+        "catches/stumpings": "57/\u2013"
+    },
+    "LA": {
+        "matches": "77",
+        "runs": "2,448",
+        "bat avg": "33.53",
+        "100s/50s": "4/15",
+        "top score": "144",
+        "catches/stumpings": "26/\u2013"
+    },
+    "T20": {
+        "matches": "51",
+        "runs": "1,243",
+        "bat avg": "21.43",
+        "100s/50s": "0/5",
+        "top score": "97",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Karachi": "2007/08\u20132014/15",
+        "Pakistan Customs": "2008/09\u20132009/10",
+        "Sind": "2010/11",
+        "State Bank": "2011/12\u20132013/14",
+        "Barisal Burners": "2012",
+        "National Bank": "2016/17\u20132018/19",
+        "Quetta Gladiators": "2017/18"
+    },
+    "birth_date": "1987-7-31"
+}

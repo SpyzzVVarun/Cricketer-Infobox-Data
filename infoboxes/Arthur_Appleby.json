@@ -1,0 +1,38 @@
+{
+    "name": "Arthur Appleby",
+    "country": "England",
+    "fullname": "Arthur Appleby",
+    "birth_place": "Clayton-le-Moors, Lancashire, England",
+    "death_date": "1902",
+    "death_place": "Clayton-le-Moors, Lancashire, England",
+    "batting": "Left-handed",
+    "bowling": "Round arm left-arm Round arm left-arm fast-medium",
+    "type1": "First-class",
+    "debutdate1": "23 August",
+    "debutyear1": "1866",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Surrey",
+    "lastdate1": "11 July",
+    "lastyear1": "1887",
+    "lastfor1": "Gentlemen",
+    "lastagainst1": "Players",
+    "source": "https://cricketarchive.com/Archive/Players/27/27503/27503.html   CricketArchive ",
+    "FC": {
+        "matches": "81",
+        "runs": "1249",
+        "bat avg": "11.45",
+        "100s/50s": "-/2",
+        "top score": "99",
+        "deliveries": "15085",
+        "wickets": "336",
+        "bowl avg": "15.67",
+        "fivefor": "24",
+        "tenfor": "3",
+        "best bowling": "9/25",
+        "catches/stumpings": "56/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1866\u201387"
+    },
+    "birth_date": "1843-7-22"
+}

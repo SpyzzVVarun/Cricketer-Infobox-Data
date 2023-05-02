@@ -1,0 +1,55 @@
+{
+    "name": "Warren McSkimming",
+    "country": "New Zealand",
+    "fullname": "Warren Charles McSkimming",
+    "birth_place": "Ranfurly, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Fast Fast medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37755.html CricInfo ",
+    "First-class": {
+        "matches": "69",
+        "runs": "1705",
+        "bat avg": "20.05",
+        "100s/50s": "1/8",
+        "top score": "111",
+        "deliveries": "13172",
+        "wickets": "240",
+        "bowl avg": "24.35",
+        "fivefor": "11",
+        "tenfor": "2",
+        "best bowling": "6/39",
+        "catches/stumpings": "28/0"
+    },
+    "List A": {
+        "matches": "96",
+        "runs": "670",
+        "bat avg": "13.67",
+        "100s/50s": "0/2",
+        "deliveries": "4701",
+        "wickets": "117",
+        "bowl avg": "32.01",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/9",
+        "catches/stumpings": "26/0"
+    },
+    "Twenty20": {
+        "matches": "25",
+        "runs": "106",
+        "bat avg": "53.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "470 19",
+        "wickets": "19",
+        "bowl avg": "34.52",
+        "fivefor": "-",
+        "tenfor": "\u2013",
+        "best bowling": "3/28",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Otago": "1999/00\u20132011/12"
+    },
+    "birth_date": "1979-6-21"
+}

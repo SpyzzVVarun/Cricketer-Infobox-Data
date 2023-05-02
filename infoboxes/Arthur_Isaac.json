@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Arthur Whitmore Isaac",
+    "birth_place": "Powick, Worcestershire, England",
+    "death_date": "1916",
+    "death_place": "Contalmaison, Somme, France",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/arthur-isaac-15437 Cricinfo ",
+    "First-class": {
+        "matches": "52",
+        "runs": "1,136",
+        "bat avg": "13.85",
+        "100s/50s": "\u2013/3",
+        "top score": "60",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1895&ndash;1911"
+    }
+}

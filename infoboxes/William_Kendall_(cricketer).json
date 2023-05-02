@@ -1,0 +1,34 @@
+{
+    "name": "William Kendall",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/15851.html Cricinfo",
+    "First-class": {
+        "matches": "140",
+        "runs": "6,822",
+        "bat avg": "33.27",
+        "100s/50s": "10/33",
+        "top score": "201",
+        "deliveries": "1,296",
+        "wickets": "15",
+        "bowl avg": "49.06",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/37",
+        "catches/stumpings": "118/\u2013"
+    },
+    "List A": {
+        "matches": "130",
+        "runs": "2,113",
+        "bat avg": "21.78",
+        "100s/50s": "1/7",
+        "deliveries": "257",
+        "wickets": "5",
+        "bowl avg": "47.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/48",
+        "catches/stumpings": "59/\u2013"
+    },
+    "clubs": {}
+}

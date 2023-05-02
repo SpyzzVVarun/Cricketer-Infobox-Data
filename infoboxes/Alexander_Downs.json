@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Downs",
+    "birth_place": "Uddingston, Lanarkshire, Scotland",
+    "death_date": "1924",
+    "death_place": "Uddingston, Larnarkshire, Scotland",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/david-smith-25349 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1907"
+    }
+}

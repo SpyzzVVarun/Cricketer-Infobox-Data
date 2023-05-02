@@ -1,0 +1,33 @@
+{
+    "name": "John Frederick",
+    "country": "England",
+    "fullname": "John St John Frederick",
+    "birth_place": "London, England",
+    "death_date": "1907",
+    "death_place": "Camberley, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "family": "Edward Frederick, (Nephew)",
+    "source": "http://www.cricinfo.com/ci/content/player/13233.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "635",
+        "bat avg": "14.76",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "deliveries": "212",
+        "wickets": "4",
+        "bowl avg": "26.50",
+        "fivefor": "4/45",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1866\u20131869",
+        "Middlesex": "1864",
+        "Hampshire": "1864&ndash;1869",
+        "Oxford University": "1864\u20131867"
+    },
+    "birth_date": "1846-1-6"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Peter Parfitt",
+    "fullname": "Peter Howard Parfitt",
+    "birth_place": "Billingford, Norfolk, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "country": "England",
+    "testdebutagainst": "India",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1961",
+    "lasttestdate": "10 August",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1972",
+    "source": "http://www.espncricinfo.com/ci/content/player/18411.html ESPNcricinfo",
+    "Test": {
+        "matches": "37",
+        "runs": "1,882",
+        "bat avg": "40.91",
+        "100s/50s": "7/6",
+        "deliveries": "1,326",
+        "wickets": "12",
+        "bowl avg": "47.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/5",
+        "catches/stumpings": "42/\u2013"
+    },
+    "First-class": {
+        "matches": "498",
+        "runs": "26,924",
+        "bat avg": "36.33",
+        "100s/50s": "58/144",
+        "deliveries": "18,385",
+        "wickets": "277",
+        "bowl avg": "30.32",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/45",
+        "catches/stumpings": "565/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1936-12-8"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "John Drennan",
+    "country": "Australia",
+    "fullname": "John Drennan",
+    "birth_place": "West Croydon, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/15/15959/15959.html CricketArchive ",
+    "First-class": {
+        "matches": "46",
+        "runs": "569",
+        "bat avg": "11.85",
+        "100s/50s": "0/1",
+        "deliveries": "8,721",
+        "wickets": "136",
+        "bowl avg": "25.66",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "6/69",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1953/54\u20131958/59"
+    },
+    "birth_date": "1932-11-13"
+}

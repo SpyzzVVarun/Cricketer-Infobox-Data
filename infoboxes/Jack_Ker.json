@@ -1,0 +1,41 @@
+{
+    "country": "Scotland",
+    "fullname": "John Edward Ker",
+    "birth_place": "Kelso, Roxburghshire, Scotland",
+    "family": "Andrew Ker (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/player/25255.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "189",
+        "bat avg": "21.00",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "deliveries": "1,231",
+        "wickets": "19",
+        "bowl avg": "25.36",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/54",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "24",
+        "runs": "144",
+        "bat avg": "9.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "1,062",
+        "wickets": "22",
+        "bowl avg": "31.36",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/29",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1977&ndash;1988"
+    },
+    "birth_date": "1952-10-17"
+}

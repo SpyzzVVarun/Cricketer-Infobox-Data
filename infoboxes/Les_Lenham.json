@@ -1,0 +1,40 @@
+{
+    "name": "Les Lenham",
+    "fullname": "Leslie John Lenham",
+    "birth_place": "Worthing, Sussex, England",
+    "family": "Neil Lenham (son) Archie Lenham (grandson)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/player/leslie-lenham-16550 Cricinfo",
+    "First-class": {
+        "matches": "300",
+        "runs": "12,796",
+        "bat avg": "26.16",
+        "100s/50s": "7/66",
+        "deliveries": "562",
+        "wickets": "6",
+        "bowl avg": "51.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "110/\u2013"
+    },
+    "List A": {
+        "matches": "23",
+        "runs": "396",
+        "bat avg": "19.80",
+        "100s/50s": "0/1",
+        "top score": "70",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1956\u20131970"
+    },
+    "birth_date": "1936-5-24"
+}

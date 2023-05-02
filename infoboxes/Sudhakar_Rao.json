@@ -1,0 +1,25 @@
+{
+    "name": "Sudhakar Rao",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-ind.cricinfo.com/ci/content/player/34136.html  ",
+    "Tests": {
+        "matches": "0"
+    },
+    "ODIs": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "-/-",
+        "top score": "4",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {}
+}

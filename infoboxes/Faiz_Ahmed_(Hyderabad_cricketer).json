@@ -1,0 +1,37 @@
+{
+    "name": "Faiz Ahmed",
+    "birth_place": "Hyderabad, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/28703.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "339",
+        "bat avg": "21.18",
+        "100s/50s": "0/2",
+        "deliveries": "1,651",
+        "wickets": "24",
+        "bowl avg": "36.95",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/29",
+        "catches/stumpings": "3/0"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "101",
+        "bat avg": "14.42",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "462",
+        "wickets": "11",
+        "bowl avg": "31.09",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {},
+    "clubs": {
+        "Hyderabad": "1999-2004"
+    },
+    "birth_date": "1978-6-21"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "George Wilson",
+    "fullname": "George Charles Lee Wilson",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1917",
+    "death_place": "Ypres salient, Belgium",
+    "bowling": "Right-arm leg-spin and Right-arm leg-spin and googly",
+    "country": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/23/23132/23132.html Cricket Archive",
+    "First-class": {
+        "matches": "6",
+        "runs": "186",
+        "bat avg": "31.00",
+        "100s/50s": "0/1",
+        "top score": "64 not out",
+        "deliveries": "1379",
+        "wickets": "31",
+        "bowl avg": "23.12",
+        "fivefor": "4",
+        "tenfor": "2",
+        "best bowling": "7/80",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Canterbury": "1913-14"
+    },
+    "birth_date": "1887-5-1"
+}

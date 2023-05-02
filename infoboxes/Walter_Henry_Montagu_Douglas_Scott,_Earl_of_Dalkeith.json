@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Walter Henry Montagu Douglas Scott",
+    "birth_place": "Westminster, London, England",
+    "death_date": "1886",
+    "death_place": "Loch Arkaig, Inverness-shire, Scotland",
+    "family": "See Duke of Buccleuch",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/12030.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "9",
+        "bat avg": "2.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1881&ndash;1885"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Edward Kemble Twiss",
+    "birth_place": "Kingston, Surrey, England",
+    "death_date": "df=y",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/35388.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "1.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "deliveries": "228",
+        "wickets": "7",
+        "bowl avg": "14.14",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/30",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1901",
+        "Europeans": "1913/14"
+    }
+}

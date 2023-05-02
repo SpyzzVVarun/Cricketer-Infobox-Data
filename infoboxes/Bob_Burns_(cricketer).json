@@ -1,0 +1,30 @@
+{
+    "name": "Bob Burns",
+    "country": "New Zealand",
+    "fullname": "Robert Crosbie Burns",
+    "nickname": "Kuku,   Cooker",
+    "birth_place": "Templeton, Canterbury, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36553.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "176",
+        "bat avg": "9.77",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/17"
+    },
+    "clubs": {
+        "Canterbury": "1928-29 to 1933-34"
+    },
+    "birth_date": "1900-6-24"
+}

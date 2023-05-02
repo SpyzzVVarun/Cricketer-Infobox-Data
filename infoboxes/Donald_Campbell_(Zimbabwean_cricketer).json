@@ -1,0 +1,22 @@
+{
+    "name": "Donald Campbell",
+    "batting": "Right-handed",
+    "source": "http://content-aus.cricinfo.com/zimbabwe/content/player/55303.html Cricinfo",
+    "First-class": {
+        "matches": "53",
+        "runs": "1,512",
+        "bat avg": "19.89",
+        "100s/50s": "0/6",
+        "top score": "79",
+        "catches/stumpings": "118/13"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "159",
+        "bat avg": "13.25",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {}
+}

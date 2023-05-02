@@ -1,0 +1,47 @@
+{
+    "name": "Mikayla Hinkley",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Mikayla Carolyn Hinkley",
+    "birth_place": "Penrith, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://www.cricketarchive.com/Archive/Players/1381/1381006/1381006.html CricketArchive ",
+    "WLA": {
+        "matches": "21",
+        "runs": "316",
+        "bat avg": "22.57",
+        "100s/50s": "0/2",
+        "top score": "53",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "12/\u2013"
+    },
+    "WT20": {
+        "matches": "36",
+        "runs": "135",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Sydney Thunder": "2015/16\u20132016/17",
+        "New South Wales": "2016/17\u20132018/19",
+        "Perth Scorchers": "2017/18",
+        "Hobart Hurricanes": "2018/19",
+        "Queensland": "2019/20\u2013present",
+        "Brisbane Heat": "2019/20\u2013present"
+    },
+    "birth_date": "1998-5-1"
+}

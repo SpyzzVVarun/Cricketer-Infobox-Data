@@ -1,0 +1,31 @@
+{
+    "name": "Wally Luckes",
+    "country": "England",
+    "fullname": "Walter Thomas Luckes",
+    "birth_place": "Lambeth, London, England",
+    "death_date": "1982",
+    "death_place": "Bridgwater, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "31 May",
+    "debutyear1": "1924",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Sussex",
+    "lastdate1": "22 June",
+    "lastyear1": "1949",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3694/3694.html CricketArchive",
+    "First-class": {
+        "matches": "365",
+        "runs": "5,710",
+        "bat avg": "16.22",
+        "100s/50s": "1/12",
+        "catches/stumpings": "588/240"
+    },
+    "clubs": {
+        "Somerset": "1924\u20131949"
+    },
+    "birth_date": "1901-01-01"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Reginald Dare",
+    "country": "England",
+    "fullname": "Reginald Arthur Dare",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/11799.html Cricinfo ",
+    "FC": {
+        "matches": "109",
+        "runs": "1,679",
+        "bat avg": "12.25",
+        "100s/50s": "1/3",
+        "deliveries": "15,229",
+        "wickets": "185",
+        "bowl avg": "35.02",
+        "fivefor": "5",
+        "tenfor": "\u2013",
+        "best bowling": "6/28",
+        "catches/stumpings": "70/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1949\u20131954"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Albert Victor Grayland",
+    "birth_place": "Birmingham, Warwickshire, England",
+    "death_date": "1963",
+    "death_place": "Birmingham, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13723.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "15",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "335",
+        "wickets": "2",
+        "bowl avg": "102.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/23",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1922\u20131930"
+    },
+    "birth_date": "1900-3-24"
+}

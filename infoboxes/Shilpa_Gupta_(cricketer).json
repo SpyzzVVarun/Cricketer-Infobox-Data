@@ -1,0 +1,34 @@
+{
+    "name": "Shilpa Gupta",
+    "female": "true",
+    "country": "India",
+    "fullname": "Shilpa Dayanand Gupta",
+    "birth_place": "Delhi, India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm legbreak",
+    "role": "All-rounder",
+    "odidebutdate": "5 July",
+    "odidebutyear": "2011",
+    "odidebutagainst": "New Zealand",
+    "odicap": "98",
+    "oneodi": "yes",
+    "source": "http://www.espncricinfo.com/india/content/player/490619.html Cricinfo ",
+    "WODI": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {
+        "Delhi Women": "2006\u2013present"
+    },
+    "birth_date": "1989-2-24"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Roma Thapa",
+    "country": "Nepal",
+    "fullname": "Roma Thapa",
+    "female": "true",
+    "birth_place": "Nepal",
+    "batting": "Right handed",
+    "role": "Batswoman",
+    "T20Idebutdate": "12 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "China",
+    "T20Icap": "10",
+    "lastT20Idate": "19 May",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/1126410.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1997-08-17",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

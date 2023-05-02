@@ -1,0 +1,27 @@
+{
+    "name": "Niall McDonnell",
+    "country": "Ireland",
+    "fullname": "Niall James McDonnell",
+    "birth_place": "Strabane, Northern Ireland",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "30 May",
+    "debutyear1": "2017",
+    "debutfor1": "North West",
+    "debutagainst1": "Northern",
+    "source": "http://www.espncricinfo.com/ci/content/player/466663.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "North West Warriors": "2013\u2013present"
+    },
+    "birth_date": "1979-10-12"
+}

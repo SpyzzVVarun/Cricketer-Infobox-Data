@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Ralph Forster",
+    "birth_place": "Spring Hill, County Durham, England",
+    "death_date": "1879",
+    "death_place": "Rome, Lazio, Italy",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/13140.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "117",
+        "bat avg": "5.57",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1859",
+        "Marylebone Cricket Club": "1861&ndash;1870"
+    }
+}

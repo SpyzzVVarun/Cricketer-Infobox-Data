@@ -1,0 +1,49 @@
+{
+    "name": "Mark McPhee",
+    "country": "Australia",
+    "fullname": "Mark William McPhee",
+    "birth_place": "Katanning, Western Australia",
+    "death_date": "1999",
+    "death_place": "Gingin, Western Australia",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "type1": "FC",
+    "debutdate1": "9 November",
+    "debutyear1": "1984",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "Victoria",
+    "lastdate1": "29 October",
+    "lastyear1": "1993",
+    "lastfor1": "Western Australia",
+    "lastagainst1": "Queensland",
+    "type2": "LA",
+    "debutdate2": "13 October",
+    "debutyear2": "1985",
+    "debutfor2": "Western Australia",
+    "debutagainst2": "South Australia",
+    "lastdate2": "6 February",
+    "lastyear2": "1994",
+    "lastfor2": "Western Australia",
+    "lastagainst2": "New South Wales",
+    "source": "https://cricketarchive.com/Archive/Players/8/8167/8167.html CricketArchive ",
+    "First-class": {
+        "matches": "40",
+        "runs": "1,699",
+        "bat avg": "27.85",
+        "100s/50s": "2/9",
+        "top score": "135",
+        "catches/stumpings": "16/\u2013"
+    },
+    "List A": {
+        "matches": "17",
+        "runs": "594",
+        "bat avg": "37.12",
+        "100s/50s": "0/5",
+        "top score": "97",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1984/85\u20131993/94"
+    },
+    "birth_date": "1964-1-25"
+}

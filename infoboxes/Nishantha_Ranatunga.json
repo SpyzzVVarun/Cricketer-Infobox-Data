@@ -1,0 +1,49 @@
+{
+    "name": "Nishantha Ranatunga",
+    "country": "Sri Lanka",
+    "birth_place": "Gampaha, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Arjuna Ranatunga (brother) Sanjeeva Ranatunga (brother) Dammika Ranatunga (brother) Prasanna Ranatunga (brother)",
+    "odidebutdate": "3 February",
+    "odidebutyear": "1993",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "69",
+    "lastodidate": "4 February",
+    "lastodiyear": "1993",
+    "lastodiagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50246.html Cricinfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "102",
+        "wickets": "1",
+        "bowl avg": "82.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "92",
+        "runs": "3,078",
+        "bat avg": "29.03",
+        "100s/50s": "3/18",
+        "deliveries": "9,773",
+        "wickets": "217",
+        "bowl avg": "22.12",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "7/22",
+        "catches/stumpings": "49/\u2013"
+    },
+    "clubs": {
+        "Sinhalese Sports Club": "1988/89\u20131989",
+        "Moratuwa Sports Club": "1989/90",
+        "Colts Cricket Club": "1989/90\u20131993/94"
+    },
+    "birth_date": "1966-02-22"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Stanley Amor",
+    "country": "England",
+    "fullname": "Stanley Long Amor",
+    "birth_place": "Bath, Somerset, England",
+    "death_date": "1965",
+    "death_place": "Bath, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "type1": "FC",
+    "debutdate1": "11 May",
+    "debutyear1": "1908",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "11 July",
+    "lastyear1": "1930",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3404/3404.html CricketArchive ",
+    "First-class": {
+        "matches": "29",
+        "runs": "220",
+        "bat avg": "7.09",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "27/24"
+    },
+    "clubs": {
+        "Somerset": "1908\u20131930"
+    },
+    "birth_date": "1887-7-22"
+}

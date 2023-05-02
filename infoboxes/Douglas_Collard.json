@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Douglas Christopher Collard",
+    "birth_place": "Barnet, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/11533.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "288",
+        "wickets": "5",
+        "bowl avg": "33.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/38",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1971\u20131992"
+    },
+    "birth_date": "1952-9-26"
+}

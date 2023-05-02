@@ -1,0 +1,43 @@
+{
+    "name": "Roy Barratt",
+    "full_name": "Roy James Barratt",
+    "birth_place": "Aylestone, Leicester",
+    "death_date": "df=yes",
+    "death_place": "Coalville, Leicestershire",
+    "nickname": "Basher",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/player/roy-barratt-9564 ESPNcricinfo",
+    "First-class": {
+        "matches": "70",
+        "runs": "604",
+        "bat avg": "8.38",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "9,225",
+        "wickets": "141",
+        "bowl avg": "28.41",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "7/35",
+        "catches/stumpings": "50/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "deliveries": "132",
+        "wickets": "3",
+        "bowl avg": "29.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/26",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1961\u20131970"
+    },
+    "birth_date": "1942-05-03"
+}

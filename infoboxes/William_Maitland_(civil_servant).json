@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "William James Maitland",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/17282.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "71",
+        "bat avg": "23.66",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1868&ndash;1869"
+    }
+}

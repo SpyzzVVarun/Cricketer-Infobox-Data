@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Matthew J Fanning",
+    "birth_place": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/1103907.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "305",
+        "wickets": "3",
+        "bowl avg": "42.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/47",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "2018&ndash;2019"
+    }
+}

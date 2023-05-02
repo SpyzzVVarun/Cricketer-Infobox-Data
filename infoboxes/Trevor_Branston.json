@@ -1,0 +1,29 @@
+{
+    "name": "Trevor Branston",
+    "country": "England",
+    "fullname": "George Trevor Branston",
+    "birth_place": "Newark-on-Trent, Nottinghamshire, England",
+    "death_date": "1969",
+    "death_place": "Regent's Park, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/england/content/player/9954.html Cricinfo ",
+    "First-class": {
+        "matches": "89",
+        "runs": "3301",
+        "bat avg": "25.78",
+        "100s/50s": "3/15",
+        "top score": "194 not out",
+        "wickets": "153",
+        "bowl avg": "28.12",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "6/66",
+        "catches/stumpings": "96/0"
+    },
+    "clubs": {
+        "Nottinghamshire": "1903 to 1913",
+        "Oxford University": "1904 to 1906"
+    },
+    "birth_date": "1884-9-3"
+}

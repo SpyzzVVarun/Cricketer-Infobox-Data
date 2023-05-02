@@ -1,0 +1,40 @@
+{
+    "name": "Chaturi Thalagalage",
+    "female": "true",
+    "fullname": "Chaturi Thalagalage",
+    "role": "Batter",
+    "internationalspan": "1998\u20131999",
+    "country": "Sri Lanka",
+    "onetest": "true",
+    "testdebutdate": "17 April",
+    "testdebutyear": "1998",
+    "testdebutagainst": "Pakistan",
+    "testcap": "11",
+    "odidebutdate": "11 April",
+    "odidebutyear": "1998",
+    "odidebutagainst": "Pakistan",
+    "odicap": "16",
+    "lastodidate": "30 March",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Archive/Players/17/17397/17397.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "6",
+        "runs": "126",
+        "bat avg": "31.50",
+        "100s/50s": "0/1",
+        "top score": "68",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Colts Cricket Club": "2002\u20132003"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "William Rees",
+    "country": "New Zealand",
+    "fullname": "William Lee Rees",
+    "family": "William Gilbert Rees (cousin)",
+    "birth_place": "Bristol, England",
+    "death_date": "1912",
+    "death_place": "Gisborne, New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/16/16602/16602.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "65",
+        "bat avg": "9.28",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "46",
+        "wickets": "1",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Victoria": "1856/57\u20131865/66",
+        "Auckland": "1877/78"
+    },
+    "birth_date": "1836-12-16"
+}

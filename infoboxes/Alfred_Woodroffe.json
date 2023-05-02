@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Alfred Woodroffe",
+    "birth_place": "West Bromwich, Staffordshire, England",
+    "death_date": "1964",
+    "death_place": "Sutton Coldfield, Warwickshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/23169.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "77",
+        "bat avg": "11.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "41",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1947&ndash;1948"
+    }
+}

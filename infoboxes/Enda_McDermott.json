@@ -1,0 +1,40 @@
+{
+    "name": "Enda McDermott",
+    "country": "Ireland",
+    "fullname": "Enda Anthony McDermott",
+    "birth_place": "Dublin, County Dublin, Ireland",
+    "batting": "Left-handed",
+    "source": "https://cricketarchive.com/Archive/Players/26/26824/26824.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Ireland": "1982"
+    },
+    "birth_date": "1945-12-1"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Rahul Dalal",
+    "country": "India",
+    "fullname": "Rahul Ranbirsingh Dalal",
+    "birth_place": "Faridabad, Haryana, India",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/590196.html Cricinfo ",
+    "FC": {
+        "matches": "26",
+        "runs": "1,655",
+        "bat avg": "40.36",
+        "100s/50s": "4/7",
+        "catches/stumpings": "22/4"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "603",
+        "bat avg": "54.81",
+        "100s/50s": "0/7",
+        "top score": "95",
+        "catches/stumpings": "8/-"
+    },
+    "T20": {
+        "matches": "21",
+        "runs": "386",
+        "bat avg": "24.12",
+        "100s/50s": "0/2",
+        "top score": "75",
+        "catches/stumpings": "6/3"
+    },
+    "clubs": {},
+    "birth_date": "1992-2-2"
+}

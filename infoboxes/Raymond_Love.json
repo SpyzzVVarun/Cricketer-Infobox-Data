@@ -1,0 +1,28 @@
+{
+    "name": "Raymond Love",
+    "country": "England",
+    "fullname": "Raymond Henry Arnold Davison Love",
+    "birth_place": "Chatham, Kent, England",
+    "death_date": "1962",
+    "death_place": "Pyrford, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/16353.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1923"
+    },
+    "birth_date": "1888-5-11"
+}

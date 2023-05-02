@@ -1,0 +1,29 @@
+{
+    "name": "Thomas Soar",
+    "country": "England",
+    "birth_place": "Whitemoor, Nottinghamshire, England",
+    "death_date": "1939",
+    "death_place": "Llandovery, Carmarthenshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/20284.html Cricinfo ",
+    "FC": {
+        "matches": "101",
+        "runs": "1,927",
+        "bat avg": "13.38",
+        "100s/50s": "&ndash;/5",
+        "top score": "95",
+        "deliveries": "16,620",
+        "wickets": "323",
+        "bowl avg": "23.82",
+        "fivefor": "23",
+        "tenfor": "7",
+        "best bowling": "8/38",
+        "catches/stumpings": "49/&ndash;"
+    },
+    "clubs": {
+        "Carmarthenshire": "1908 & 1911",
+        "Hampshire": "1888&ndash;1904"
+    },
+    "birth_date": "1865-9-3"
+}

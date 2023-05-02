@@ -1,0 +1,33 @@
+{
+    "name": "Leniko Boucher",
+    "fullname": "Leniko Boucher",
+    "type1": "List A",
+    "debutdate1": "4 October",
+    "debutyear1": "2018",
+    "debutfor1": "Barbados",
+    "debutagainst1": "Leeward Islands",
+    "lastdate1": "28 November",
+    "lastyear1": "2019",
+    "lastfor1": "Barbados",
+    "lastagainst1": "West Indies Emerging Team",
+    "source": "http://www.espncricinfo.com/ci/content/player/906745.html Cricinfo ",
+    "List A": {
+        "matches": "15",
+        "runs": "326",
+        "bat avg": "23.28",
+        "100s/50s": "0/1",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Barbados": "2018-present",
+        "Barbados Tridents": "2019",
+        "St Lucia Zouks": "2020-"
+    },
+    "birth_date": "1997-9-13"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Colin McKenzie",
+    "birth_place": "Trawool, Victoria, Australia",
+    "death_date": "1930",
+    "death_place": "Avenel, Victoria, Australia",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/australia/content/player/6677.html Cricinfo ",
+    "First-class": {
+        "matches": "30",
+        "runs": "1385",
+        "bat avg": "31.47",
+        "100s/50s": "2/7",
+        "top score": "211",
+        "wickets": "27",
+        "bowl avg": "30.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/41",
+        "catches/stumpings": "18/0"
+    },
+    "clubs": {
+        "Victoria": "1907-1913"
+    },
+    "birth_date": "1880-12-12"
+}

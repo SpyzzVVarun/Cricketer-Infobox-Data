@@ -1,0 +1,28 @@
+{
+    "country": "South Africa",
+    "fullname": "John Reunert",
+    "birth_place": "Johannesburg, South African Republic",
+    "death_date": "1946",
+    "death_place": "Johannesburg, Transvaal,, South Africa",
+    "family": "Clive Reunert (brother)",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/19645.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "65",
+        "bat avg": "8.12",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "667",
+        "wickets": "9",
+        "bowl avg": "43.66",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/100",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1908"
+    }
+}

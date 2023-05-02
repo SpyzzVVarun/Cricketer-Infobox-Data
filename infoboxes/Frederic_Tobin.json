@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Frederic Tobin",
+    "birth_place": "Liscard, Cheshire, England",
+    "death_date": "1914",
+    "death_place": "Folkestone, Kent, England",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/cricketers/frederic-tobin-21870 Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "369",
+        "bat avg": "16.77",
+        "100s/50s": "\u2013/2",
+        "top score": "77",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1870\u20131872"
+    }
+}

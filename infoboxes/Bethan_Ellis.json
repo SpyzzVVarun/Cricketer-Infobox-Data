@@ -1,0 +1,45 @@
+{
+    "name": "Bethan Ellis",
+    "female": "true",
+    "country": "England",
+    "fullname": "Bethan Louisa Ellis",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1475/1475258/1475258.html CricketArchive ",
+    "WLA": {
+        "matches": "32",
+        "runs": "456",
+        "bat avg": "20.72",
+        "100s/50s": "0/4",
+        "top score": "74",
+        "deliveries": "823",
+        "wickets": "22",
+        "bowl avg": "22.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/20",
+        "catches/stumpings": "10/\u2013"
+    },
+    "WT20": {
+        "matches": "46",
+        "runs": "427",
+        "bat avg": "17.79",
+        "100s/50s": "0/2",
+        "deliveries": "531",
+        "wickets": "33",
+        "bowl avg": "15.69",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/21",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "2022\u2013present",
+        "\u2192 Shropshire (on loan)": "2016",
+        "\u2192 Worcestershire (on loan)": "2017\u20132018",
+        "Lightning": "2020\u20132022",
+        "Derbyshire": "2021"
+    },
+    "birth_date": "1999-7-7"
+}

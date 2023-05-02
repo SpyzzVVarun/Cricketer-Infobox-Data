@@ -1,0 +1,30 @@
+{
+    "name": "Louis Cameron",
+    "fullname": "Louis Donald Buckley Cameron",
+    "birth_place": "Belconnen, Canberra",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "2 August",
+    "debutyear1": "2012",
+    "debutfor1": "Victoria",
+    "debutagainst1": "NSW",
+    "source": "https://www.espncricinfo.com/player/louis-cameron-333791 ",
+    "FC": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "1.66",
+        "100s/50s": "0/0",
+        "deliveries": "228",
+        "wickets": "3",
+        "bowl avg": "55.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/61",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2012\u201313"
+    },
+    "birth_date": "1992-5-21"
+}

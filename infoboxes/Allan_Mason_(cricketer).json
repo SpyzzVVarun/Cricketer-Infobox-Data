@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Allan Mason",
+    "birth_place": "Addingham, Yorkshire, England",
+    "death_date": "2006",
+    "death_place": "Keighley, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/allan-mason-17408 Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "105",
+        "bat avg": "6.56",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "4,129",
+        "wickets": "51",
+        "bowl avg": "28.88",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/56",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1947&ndash;1950"
+    }
+}

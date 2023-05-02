@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry Blomfield Burnell",
+    "birth_place": "Upper Clapton, Middlesex, England",
+    "death_date": "1910",
+    "death_place": "St John's Wood, London, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/10167.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1879"
+    }
+}

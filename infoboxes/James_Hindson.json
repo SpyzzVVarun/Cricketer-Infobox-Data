@@ -1,0 +1,39 @@
+{
+    "country": "England",
+    "fullname": "James Edward Hindson",
+    "birth_place": "Huddersfield, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/14214.html Cricinfo ",
+    "FC": {
+        "matches": "28",
+        "runs": "384",
+        "bat avg": "13.24",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "5,827",
+        "wickets": "93",
+        "bowl avg": "32.74",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "5/42",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "174",
+        "bat avg": "21.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1,116",
+        "wickets": "21",
+        "bowl avg": "46.09",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/19",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire Cricket Board": "2000-2002",
+        "Nottinghamshire": "1992-1998"
+    },
+    "birth_date": "1973-9-13"
+}

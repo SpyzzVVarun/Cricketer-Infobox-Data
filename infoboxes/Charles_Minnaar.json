@@ -1,0 +1,26 @@
+{
+    "country": "South Africa",
+    "fullname": "Charles William Rorich Minnaar",
+    "birth_place": "Wepener, Orange Free State",
+    "death_date": "16 November 1916 (aged 34)",
+    "death_place": "near Beaumont-Hamel, Somme, France",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/46356.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "360",
+        "wickets": "5",
+        "bowl avg": "33.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/95",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1913/14"
+    }
+}

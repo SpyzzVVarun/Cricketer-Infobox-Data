@@ -1,0 +1,40 @@
+{
+    "name": "David Fursdon",
+    "country": "England",
+    "fullname": "Edward David Fursdon",
+    "birth_place": "Bitchet Green, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/13228c.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "484",
+        "bat avg": "21.04",
+        "100s/50s": "1/1",
+        "deliveries": "2,967",
+        "wickets": "43",
+        "bowl avg": "33.20",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/60",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "deliveries": "224",
+        "wickets": "3",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1973\u20131975",
+        "Devon": "1981"
+    },
+    "birth_date": "1952-12-20"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Chamara Dunusinghe",
+    "fullname": "Chamara Iroshan Dunusinghe",
+    "birth_place": "Colombo, Sri Lanka",
+    "country": "Sri Lanka",
+    "internationalspan": "1995",
+    "testdebutdate": "11 March",
+    "testdebutyear": "1995",
+    "testdebutagainst": "New Zealand",
+    "testcap": "64",
+    "lasttestdate": "22 September",
+    "lasttestyear": "1995",
+    "lasttestagainst": "Pakistan",
+    "oneodi": "true",
+    "odidebutdate": "6 April",
+    "odidebutyear": "1995",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "86",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/48473.html Cricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "160",
+        "bat avg": "16.00",
+        "100s/50s": "0/1",
+        "top score": "91",
+        "catches/stumpings": "13/2"
+    },
+    "ODI": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {},
+    "birth_date": "October 19, 1970"
+}

@@ -1,0 +1,18 @@
+{
+    "country": "England",
+    "fullname": "Harry Moody",
+    "birth_place": "Chartham, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Bovey Tracey, Devon, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17906.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

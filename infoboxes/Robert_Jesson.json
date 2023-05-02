@@ -1,0 +1,30 @@
+{
+    "name": "Robert Jesson",
+    "country": "England",
+    "fullname": "Robert Wilfred Fairey Jesson",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1917",
+    "death_place": "near Kut, Ottoman Empire",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/15506.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "198",
+        "bat avg": "8.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "882",
+        "wickets": "21",
+        "bowl avg": "25.14",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/42",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1907&ndash;1908",
+        "Oxford University": "1908"
+    },
+    "birth_date": "1886-6-17"
+}

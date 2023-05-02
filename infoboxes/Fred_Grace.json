@@ -1,0 +1,50 @@
+{
+    "name": "Fred Grace",
+    "country": "England",
+    "fullname": "George Frederick Grace",
+    "birth_place": "Downend, near Bristol",
+    "death_date": "1880",
+    "death_place": "Basingstoke, Hampshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "All-rounder",
+    "family": "Henry Grace (brother)",
+    "onetest": "true",
+    "testdebutdate": "6 September",
+    "testdebutyear": "1880",
+    "testdebutagainst": "Australia",
+    "testcap": "23",
+    "source": "https://cricketarchive.com/Archive/Players/0/42/42.html CricketArchive ",
+    "Test": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "195",
+        "runs": "6,906",
+        "bat avg": "25.02",
+        "100s/50s": "8/32",
+        "deliveries": "17,649",
+        "wickets": "329",
+        "bowl avg": "20.06",
+        "fivefor": "17",
+        "tenfor": "5",
+        "best bowling": "8/43",
+        "catches/stumpings": "170/3"
+    },
+    "clubs": {
+        "Gloucestershire": "1870\u20131880",
+        "United South of England Eleven": "1870\u20131876"
+    },
+    "birth_date": "1850-12-13"
+}

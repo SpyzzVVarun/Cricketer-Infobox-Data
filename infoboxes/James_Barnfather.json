@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "James David Barnfather",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "1957",
+    "death_place": "Thurrock, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9004.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "50",
+        "bat avg": "25.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "665",
+        "wickets": "13",
+        "bowl avg": "27.30",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/32",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Essex": "1924"
+    },
+    "birth_date": "1896-7-22"
+}

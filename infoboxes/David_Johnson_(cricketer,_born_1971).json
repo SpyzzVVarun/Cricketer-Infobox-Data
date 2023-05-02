@@ -1,0 +1,50 @@
+{
+    "name": "David Johnson",
+    "birth_place": "Arsikere, Karnataka, India",
+    "heightcm": "178",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "testcap": "208",
+    "country": "India",
+    "testdebutfor": "India",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "10 October",
+    "testdebutyear": "1996",
+    "lasttestdate": "26 December",
+    "lasttestfor": "India",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1996",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/29712.html CricInfo",
+    "Test": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "240",
+        "wickets": "3",
+        "bowl avg": "47.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/52",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "39",
+        "runs": "437",
+        "bat avg": "11.20",
+        "100s/50s": "1/0",
+        "deliveries": "5,936",
+        "wickets": "125",
+        "bowl avg": "28.63",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "8/55",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Karnataka cricket team": ""
+    },
+    "birth_date": "1971-10-16"
+}

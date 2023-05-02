@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Frank Noel Tuff",
+    "birth_place": "Rochester, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Imtarfa, Malta",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/21954.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "188",
+        "bat avg": "14.46",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "1,359",
+        "wickets": "25",
+        "bowl avg": "26.80",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "7/47",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1910\u20131911"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Norman Gordon",
+    "country": "South Africa",
+    "fullname": "Norman Gordon",
+    "birth_place": "Boksburg, Transvaal, South Africa",
+    "death_date": "2014",
+    "death_place": "Hillbrow, Johannesburg, Gauteng, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1938",
+    "testdebutagainst": "England",
+    "testcap": "151",
+    "lasttestdate": "14 March",
+    "lasttestyear": "1939",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/715/715.html CricketArchive ",
+    "Test": {
+        "matches": "5",
+        "runs": "8",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "deliveries": "1,966",
+        "wickets": "20",
+        "bowl avg": "40.35",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/103",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "29",
+        "runs": "109",
+        "bat avg": "5.19",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "7,173",
+        "wickets": "126",
+        "bowl avg": "22.24",
+        "fivefor": "8",
+        "tenfor": "0",
+        "best bowling": "6/61",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1933\u20131948"
+    },
+    "birth_date": "1911-8-6"
+}

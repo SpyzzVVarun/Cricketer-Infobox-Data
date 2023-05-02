@@ -1,0 +1,37 @@
+{
+    "name": "Seb Gotch",
+    "country": "Australia",
+    "fullname": "Sebastian Edward Gotch",
+    "birth_place": "Hughesdale, Victoria, Victoria, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/500267.html Cricinfo ",
+    "FC": {
+        "matches": "29",
+        "runs": "1,187",
+        "bat avg": "33.91",
+        "100s/50s": "2/6",
+        "catches/stumpings": "100/8"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "347",
+        "bat avg": "24.78",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "catches/stumpings": "13/1"
+    },
+    "T20": {
+        "matches": "37",
+        "runs": "417",
+        "bat avg": "17.37",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "19/8"
+    },
+    "clubs": {
+        "Melbourne Stars": "2016/17\u20132020/21",
+        "Victoria": "2016/17\u20132020/21"
+    },
+    "birth_date": "1993-7-12"
+}

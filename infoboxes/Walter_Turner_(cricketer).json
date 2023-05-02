@@ -1,0 +1,25 @@
+{
+    "name": "Walter Turner",
+    "fullname": "Walter Martin FitzHerbert Turner",
+    "birth_place": "Meerut, Uttar Pradesh, India",
+    "death_date": "1948",
+    "death_place": "Harrow, Middlesex, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/21628.html Cricinfo ",
+    "FC": {
+        "matches": "51",
+        "runs": "2090",
+        "bat avg": "26.45",
+        "100s/50s": "2/13",
+        "top score": "172",
+        "wickets": "5",
+        "bowl avg": "41.00",
+        "best bowling": "2/12",
+        "catches/stumpings": "62/0"
+    },
+    "clubs": {
+        "Essex": "1899\u20131911"
+    },
+    "birth_date": "1881-4-4"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Luc Etienne Durandt",
+    "birth_place": "Johannesburg, Transvaal Province, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/362197.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "280",
+        "bat avg": "40.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "131",
+        "deliveries": "179",
+        "wickets": "3",
+        "bowl avg": "42.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/65",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Durham MCCU": "2010\u20132011",
+        "Berkshire": "2009"
+    },
+    "birth_date": "1989-9-1"
+}

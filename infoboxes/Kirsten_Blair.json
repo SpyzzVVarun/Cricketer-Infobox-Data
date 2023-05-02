@@ -1,0 +1,51 @@
+{
+    "name": "Kirsten Blair",
+    "female": "true",
+    "fullname": "Kirsten Blair",
+    "birth_place": "Boksburg, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "internationalspan": "2007",
+    "country": "South Africa",
+    "odidebutdate": "24 January",
+    "odidebutyear": "2007",
+    "odidebutagainst": "Pakistan",
+    "odicap": "50",
+    "lastodidate": "28 January",
+    "lastodiyear": "2007",
+    "lastodiagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Archive/Players/159/159504/159504.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "32.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "34",
+        "runs": "702",
+        "bat avg": "31.90",
+        "100s/50s": "1/2",
+        "deliveries": "1,322",
+        "wickets": "58",
+        "bowl avg": "11.50",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/31",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Easterns": "2003/04",
+        "Gauteng": "2004/05\u20132010/11"
+    },
+    "birth_date": "1984-7-29"
+}

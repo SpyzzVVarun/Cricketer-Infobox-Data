@@ -1,0 +1,48 @@
+{
+    "name": "Sushil Nadkarni",
+    "country": "United States",
+    "fullname": "Sushilkumar Suhas Nadkarni",
+    "birth_place": "Gangtok, Sikkim, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "13 December",
+    "debutyear1": "1995",
+    "debutfor1": "Maharashtra",
+    "debutagainst1": "Baroda",
+    "lastdate1": "17 January",
+    "lastyear1": "1996",
+    "lastfor1": "Maharashtra",
+    "lastagainst1": "Gujarat",
+    "type2": "List A",
+    "debutdate2": "9 January",
+    "debutyear2": "1996",
+    "debutfor2": "Maharashtra",
+    "debutagainst2": "Bombay",
+    "lastdate2": "24 January",
+    "lastyear2": "1996",
+    "lastfor2": "Maharashtra",
+    "lastagainst2": "Saurashtra",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/18/18245/18245.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "47",
+        "bat avg": "15.66",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "1/0"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "91",
+        "bat avg": "30.33",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Maharashtra": "1995/96"
+    },
+    "birth_date": "1976-5-31"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Ranji Hordern",
+    "batting": "Right-handed",
+    "bowling": "Legbreak, Legbreak, googly",
+    "country": "Australia",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "17 February",
+    "testdebutyear": "1911",
+    "lasttestdate": "23 February",
+    "lasttestyear": "1912",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/333/333.html CricketArchive",
+    "Test": {
+        "matches": "7",
+        "runs": "254",
+        "bat avg": "23.09",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "2,148",
+        "wickets": "46",
+        "bowl avg": "23.36",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "7/90",
+        "catches/stumpings": "6/0"
+    },
+    "First-class": {
+        "matches": "35",
+        "runs": "781",
+        "bat avg": "16.97",
+        "100s/50s": "0/3",
+        "top score": "64",
+        "deliveries": "7,215",
+        "wickets": "228",
+        "bowl avg": "16.36",
+        "fivefor": "25",
+        "tenfor": "9",
+        "best bowling": "8/31",
+        "catches/stumpings": "39/0"
+    },
+    "clubs": {}
+}

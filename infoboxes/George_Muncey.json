@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Muncey",
+    "birth_place": "Mildenhall, Suffolk, England",
+    "death_date": "1883",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/17731.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "197",
+        "bat avg": "10.36",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "256",
+        "wickets": "10",
+        "bowl avg": "19.22",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1861&ndash;1866"
+    }
+}

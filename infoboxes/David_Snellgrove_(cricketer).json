@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "David Roy Snellgrove",
+    "birth_place": "Liverpool, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Ken Snellgrove (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/20280.html Cricinfo ",
+    "LA": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "6.60",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "130",
+        "wickets": "5",
+        "bowl avg": "18.60",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/23",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Lancashire Cricket Board": "2000-2002"
+    },
+    "birth_date": "1967-8-23"
+}

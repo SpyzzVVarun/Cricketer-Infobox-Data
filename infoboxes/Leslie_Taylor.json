@@ -1,0 +1,28 @@
+{
+    "name": "Leslie Taylor",
+    "country": "New Zealand",
+    "fullname": "Leslie George Taylor",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1977",
+    "death_place": "Auckland",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/16/16764/16764.html Cricket Archive ",
+    "First-class": {
+        "matches": "14",
+        "runs": "419",
+        "bat avg": "16.76",
+        "100s/50s": "0/2",
+        "top score": "92",
+        "deliveries": "438",
+        "wickets": "11",
+        "bowl avg": "29.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/35",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Auckland": "1910-11 to 1917-18"
+    },
+    "birth_date": "1894-6-26"
+}

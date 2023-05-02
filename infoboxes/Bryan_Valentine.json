@@ -1,0 +1,52 @@
+{
+    "name": "Bryan Valentine",
+    "country": "England",
+    "fullname": "Bryan Herbert Valentine",
+    "birth_place": "Blackheath, Kent, England",
+    "death_date": "1983",
+    "death_place": "Otford, Kent, England",
+    "family": "Carol Valentine (sister)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "testdebutdate": "15 December",
+    "testdebutyear": "1933",
+    "testdebutagainst": "India",
+    "testcap": "272",
+    "lasttestdate": "14 March",
+    "lasttestyear": "1939",
+    "lasttestagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/22173.html CricInfo ",
+    "Test": {
+        "matches": "7",
+        "runs": "454",
+        "bat avg": "64.85",
+        "100s/50s": "2/1",
+        "top score": "136",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "399",
+        "runs": "18,306",
+        "bat avg": "30.15",
+        "100s/50s": "35/90",
+        "top score": "242",
+        "deliveries": "1,933",
+        "wickets": "27",
+        "bowl avg": "41.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/58",
+        "catches/stumpings": "289/\u2013"
+    },
+    "clubs": {
+        "Kent": "1927\u20131948",
+        "Cambridge University": "1928\u20131929"
+    },
+    "birth_date": "1908-1-17"
+}

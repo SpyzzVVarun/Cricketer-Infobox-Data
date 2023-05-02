@@ -1,0 +1,43 @@
+{
+    "name": "Tariq Ahmed",
+    "country": "Bangladesh",
+    "nickname": "Ruben",
+    "birth_place": "Rangpur, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/373700.html Cricinfo ",
+    "FC": {
+        "matches": "47",
+        "runs": "2218",
+        "bat avg": "29.57",
+        "100s/50s": "2/13",
+        "top score": "102",
+        "deliveries": "137",
+        "wickets": "1",
+        "bowl avg": "87.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/29",
+        "catches/stumpings": "30/\u2013"
+    },
+    "List A": {
+        "matches": "24",
+        "runs": "443",
+        "bat avg": "21.09",
+        "100s/50s": "0/1",
+        "top score": "79",
+        "deliveries": "222",
+        "wickets": "5",
+        "bowl avg": "32.20",
+        "fivefor": "&ndash;",
+        "tenfor": "n/a",
+        "best bowling": "3/41",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Chittagong Division": "2008-09",
+        "Barisal Division": "2010-11",
+        "Rangpur Division": "2011-12 \u2013 2015-16"
+    },
+    "birth_date": "1981-1-1"
+}

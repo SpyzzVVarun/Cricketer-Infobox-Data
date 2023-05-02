@@ -1,0 +1,43 @@
+{
+    "name": "Francis Fenner",
+    "country": "England",
+    "fullname": "Francis Phillips Fenner",
+    "birth_place": "Cambridge, England",
+    "death_date": "1896",
+    "death_place": "Bath, Somerset, England",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1829",
+    "debutfor1": "Cambridge Union Club",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "5 May",
+    "lastyear1": "1856",
+    "lastfor1": "Cambridge Town and County Club",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/29/29371/29371.html CricketArchive ",
+    "First-class": {
+        "matches": "54",
+        "runs": "1,126",
+        "bat avg": "12.79",
+        "100s/50s": "0/3",
+        "top score": "80",
+        "deliveries": "1,306",
+        "wickets": "176",
+        "bowl avg": "19.00",
+        "fivefor": "15",
+        "tenfor": "4",
+        "best bowling": "9/?",
+        "catches/stumpings": "27/1"
+    },
+    "clubs": {
+        "Cambridge Town Club": "1832\u20131855",
+        "Cambridge University": "1839",
+        "Hampshire": "1843\u20131855"
+    },
+    "birth_date": "1811-3-1"
+}

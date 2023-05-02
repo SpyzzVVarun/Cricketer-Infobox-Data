@@ -1,0 +1,20 @@
+{
+    "name": "Harry Pickering",
+    "country": "England",
+    "fullname": "Harry Gordon Pickering",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/18526.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "297",
+        "bat avg": "18.56",
+        "100s/50s": "0/3",
+        "top score": "79",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1947",
+        "Essex": "1938"
+    }
+}

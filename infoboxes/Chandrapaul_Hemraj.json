@@ -1,0 +1,63 @@
+{
+    "name": "Chandrapaul Hemraj",
+    "country": "West Indies",
+    "birth_place": "Guyana",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Opening batsman",
+    "odidebutdate": "21 October",
+    "odidebutyear": "2018",
+    "odidebutagainst": "India",
+    "odicap": "185",
+    "lastodidate": "14 December",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/530811.html Cricinfo ",
+    "ODI": {
+        "matches": "6",
+        "runs": "82",
+        "bat avg": "13.66",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "7",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/0"
+    },
+    "FC": {
+        "matches": "35",
+        "runs": "1,836",
+        "bat avg": "29.61",
+        "100s/50s": "1/13",
+        "top score": "144",
+        "deliveries": "214",
+        "wickets": "2",
+        "bowl avg": "45.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "16/0"
+    },
+    "List A": {
+        "matches": "40",
+        "runs": "1,068",
+        "bat avg": "27.38",
+        "100s/50s": "2/3",
+        "deliveries": "672",
+        "wickets": "14",
+        "bowl avg": "36.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/18",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Guyana": "2012\u2013present",
+        "St Lucia Stars": "2018",
+        "Guyana Amazon Warriors( 11 )": "2019\u2013present"
+    },
+    "birth_date": "1993-9-3"
+}

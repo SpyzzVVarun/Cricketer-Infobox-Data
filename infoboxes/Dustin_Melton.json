@@ -1,0 +1,50 @@
+{
+    "name": "Dustin Melton",
+    "fullname": "Dustin Renton Melton",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "First-class",
+    "debutdate1": "29 August",
+    "debutyear1": "2019",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Australians",
+    "type2": "Twenty20",
+    "debutdate2": "13 September",
+    "debutyear2": "2020",
+    "debutfor2": "Derbyshire",
+    "debutagainst2": "Nottinghamshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/699691.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "51",
+        "bat avg": "5.66",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "1,169",
+        "wickets": "19",
+        "bowl avg": "40.63",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "3/\u2013"
+    },
+    "Twenty20": {
+        "matches": "4",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "78",
+        "wickets": "4",
+        "bowl avg": "31.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Derbyshire( 13 )": "2019\u20132022"
+    },
+    "birth_date": "1995-4-11"
+}

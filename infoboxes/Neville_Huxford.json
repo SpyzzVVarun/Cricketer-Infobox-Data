@@ -1,0 +1,30 @@
+{
+    "name": "Neville Huxford",
+    "fullname": "Neville Alfred Huxford",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "2006",
+    "death_place": "Auckland, New Zealand",
+    "country": "New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37465.html Cricinfo ",
+    "First-class": {
+        "matches": "31",
+        "runs": "109",
+        "bat avg": "8.38",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "7072",
+        "wickets": "101",
+        "bowl avg": "23.95",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "7/95",
+        "catches/stumpings": "13/0"
+    },
+    "clubs": {
+        "Wellington": "1964-65 to 1966-67",
+        "Canterbury": "1967-68 to 1969-70"
+    },
+    "birth_date": "1937-10-27"
+}

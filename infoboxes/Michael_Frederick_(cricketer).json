@@ -1,0 +1,37 @@
+{
+    "name": "Michael Frederick",
+    "country": "West Indies",
+    "fullname": "Michael Campbell Frederick",
+    "birth_place": "St Peter, Barbados",
+    "death_date": "2014",
+    "death_place": "May Pen, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "onetest": "true",
+    "testdebutagainst": "England",
+    "testdebutdate": "15 January",
+    "testdebutyear": "1954",
+    "source": "https://cricketarchive.com/Archive/Players/0/980/980.html CricketArchive",
+    "Test": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "6",
+        "runs": "294",
+        "bat avg": "29.40",
+        "100s/50s": "0/3",
+        "top score": "84",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1944/45",
+        "Derbyshire": "1949",
+        "Jamaica": "1953/54"
+    },
+    "birth_date": "1927-3-6"
+}

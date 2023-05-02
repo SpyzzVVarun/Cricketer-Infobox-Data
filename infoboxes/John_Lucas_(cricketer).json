@@ -1,0 +1,29 @@
+{
+    "country": "Canada",
+    "fullname": "John Herman Lucas",
+    "birth_place": "Weymouth, Saint Michael, Barbados",
+    "death_date": "2008",
+    "death_place": "Vancouver, British Columbia, Canada",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Noel Lucas (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/23/23848/23848.html CricketArchive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "1,074",
+        "bat avg": "53.70",
+        "100s/50s": "2/6",
+        "deliveries": "851",
+        "wickets": "15",
+        "bowl avg": "32.26",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/88",
+        "catches/stumpings": "11/&ndash;"
+    },
+    "clubs": {
+        "Canada": "1951",
+        "Barbados": "1945/46&ndash;1949/50"
+    },
+    "birth_date": "1922-6-12"
+}

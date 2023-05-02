@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Eliot Albert Cross Druce",
+    "birth_place": "Weybridge, Surrey",
+    "death_date": "1934",
+    "death_place": "Brompton, London",
+    "family": "Frank Druce (cousin), Walter Druce (cousin), George Druce (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12257.html CricInfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "185",
+        "bat avg": "15.41",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "371",
+        "wickets": "13",
+        "bowl avg": "16.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/28",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1897\u20131898",
+        "Kent": "1898\u20131900"
+    }
+}

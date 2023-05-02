@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Adrian David Griffiths",
+    "birth_place": "Carmarthen, Carmarthenshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13542.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "102",
+        "wickets": "4",
+        "bowl avg": "21.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/57",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Wales Minor Counties": "1991&ndash;1996"
+    },
+    "birth_date": "1959-11-27"
+}

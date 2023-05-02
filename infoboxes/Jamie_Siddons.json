@@ -1,0 +1,60 @@
+{
+    "name": "Jamie Siddons",
+    "country": "Australia",
+    "fullname": "James Darren Siddons",
+    "birth_place": "Robinvale, Victoria",
+    "batting": "Right-handed",
+    "bowling": "Legbreak, Legbreak, googly",
+    "coachclub1": "Bangladesh",
+    "coachyear1": "2007\u20132011",
+    "coachclub2": "Wellington Firebirds",
+    "coachyear2": "2011\u20132015",
+    "source": "http://content-www.cricinfo.com/australia/content/player/7612.html Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "32",
+        "bat avg": "32.00",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "160",
+        "runs": "11,587",
+        "bat avg": "44.91",
+        "100s/50s": "35/53",
+        "top score": "245",
+        "deliveries": "522",
+        "wickets": "2",
+        "bowl avg": "173.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "206/\u2013"
+    },
+    "LA": {
+        "matches": "70",
+        "runs": "1,755",
+        "bat avg": "30.25",
+        "100s/50s": "1/11",
+        "top score": "102",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1984/85\u20131990/91",
+        "South Australia": "1991/92\u20131999/00"
+    },
+    "birth_date": "1964-4-25"
+}

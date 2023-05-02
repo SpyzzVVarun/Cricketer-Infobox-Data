@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "James Douglas Henderson",
+    "birth_place": "Kelso, Roxburghshire, Scotland",
+    "death_date": "2004",
+    "death_place": "Forfar, Angus, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "https://www.espncricinfo.com/player/james-henderson-25232 Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "429",
+        "bat avg": "22.57",
+        "100s/50s": "1/1",
+        "top score": "121",
+        "deliveries": "2,210",
+        "wickets": "29",
+        "bowl avg": "22.41",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/27",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1946&ndash;1956"
+    }
+}

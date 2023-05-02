@@ -1,0 +1,38 @@
+{
+    "name": "Donald Forrester",
+    "country": "Argentina",
+    "birth_place": "Buenos Aires, Argentina",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/5/5385/5385.html CricketArchive subscription required ",
+    "List A": {
+        "matches": "6",
+        "runs": "105",
+        "bat avg": "17.50",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "deliveries": "168",
+        "wickets": "2",
+        "bowl avg": "91.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/42",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "ICC Trophy": {
+        "matches": "20",
+        "runs": "457",
+        "bat avg": "22.85",
+        "100s/50s": "0/2",
+        "top score": "79",
+        "deliveries": "693",
+        "wickets": "13",
+        "bowl avg": "47.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/66",
+        "catches/stumpings": "13/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1969-8-11"
+}

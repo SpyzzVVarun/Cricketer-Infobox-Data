@@ -1,0 +1,38 @@
+{
+    "name": "Roger Rayson",
+    "country": "Australia",
+    "fullname": "Roger Rayson",
+    "birth_place": "Windsor, Victoria, Australia",
+    "family": "Maxwell Rayson (father)",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm wrist-spin",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "6 November",
+    "debutyear1": "1964",
+    "debutfor1": "Victoria",
+    "debutagainst1": "Western Australia",
+    "lastdate1": "18 November",
+    "lastyear1": "1966",
+    "lastfor1": "Victoria",
+    "lastagainst1": "Western Australia",
+    "source": "https://cricketarchive.com/Archive/Players/16/16595/16595.html CricketArchive",
+    "First-class": {
+        "matches": "18",
+        "runs": "78",
+        "bat avg": "7.09",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "3,178",
+        "wickets": "45",
+        "bowl avg": "39.24",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/97",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1964/65\u20131966/67"
+    },
+    "birth_date": "1942-2-17"
+}

@@ -1,0 +1,44 @@
+{
+    "country": "West Indies",
+    "heightm": "1.78",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/220839.html Cricinfo",
+    "module": "Infobox football biography",
+    "embed": "true",
+    "position": "Striker",
+    "years1": "2003\u2013?",
+    "clubs1": "Helenites",
+    "nationalyears1": "2011",
+    "nationalteam1": "United States Virgin Islands",
+    "nationalcaps1": "3",
+    "nationalgoals1": "1",
+    "ntupdate": "26 November 2014  ",
+    "FC": {
+        "matches": "4",
+        "runs": "38",
+        "bat avg": "7.60",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "11",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "26",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "3/2"
+    },
+    "clubs": {
+        "United States Virgin Islands": "2006\u20132007/08",
+        "Leeward Islands": "2005/06"
+    },
+    "birth_date": "1978-7-7"
+}

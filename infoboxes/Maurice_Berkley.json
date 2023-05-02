@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Maurice Berkley",
+    "birth_place": "Navestock, Essex, England",
+    "death_date": "1947",
+    "death_place": "Bangor, Caernarvonshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/9076.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "138",
+        "wickets": "7",
+        "bowl avg": "14.71",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Essex": "1894"
+    },
+    "birth_date": "1872-9-6"
+}

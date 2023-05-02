@@ -1,0 +1,35 @@
+{
+    "name": "Granny Alston",
+    "country": "England",
+    "fullname": "Hallam Newton Egerton Alston",
+    "birth_place": "Cheltenham, England",
+    "death_date": "1985",
+    "death_place": "Gloucester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "26 July",
+    "debutyear1": "1933",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Surrey",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3402/3402.html CricketArchive  ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "6.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1933"
+    },
+    "birth_date": "1908-6-10"
+}

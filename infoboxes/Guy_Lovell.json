@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "William Guy Lovell",
+    "birth_place": "Whitehaven, Cumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/16351.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Essex": "1991",
+        "Cumberland": "1993",
+        "Lancashire Cricket Board": "1998"
+    },
+    "birth_date": "1969-2-16"
+}

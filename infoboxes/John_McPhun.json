@@ -1,0 +1,29 @@
+{
+    "name": "John McPhun",
+    "country": "Rhodesia",
+    "fullname": "John David McPhun",
+    "birth_place": "Salisbury, Rhodesia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/5/5168/5168.html CricketArchive ",
+    "First-class": {
+        "matches": "33",
+        "runs": "1,514",
+        "bat avg": "29.11",
+        "100s/50s": "3/6",
+        "top score": "154",
+        "catches/stumpings": "31/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Rhodesia cricket team": "1960\u20131972"
+    },
+    "birth_date": "1940-9-8"
+}

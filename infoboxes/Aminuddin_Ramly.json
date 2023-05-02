@@ -1,0 +1,25 @@
+{
+    "name": "Aminuddin Ramly",
+    "country": "Malaysia",
+    "birth_place": "Kuala Pilah, Malaysia",
+    "batting": "Right-handed",
+    "T20Idebutdate": "24 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "8",
+    "lastT20Idate": "22 April",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/307640.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1990-5-16",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

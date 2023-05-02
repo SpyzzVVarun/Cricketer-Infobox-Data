@@ -1,0 +1,35 @@
+{
+    "name": "Wea Skog",
+    "female": "true",
+    "fullname": "Wilhelmina H Skog",
+    "birth_place": "Cape Town, South Africa",
+    "role": "Bowler",
+    "internationalspan": "1972",
+    "country": "South Africa",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "testcap": "20",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1972",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17383/17383.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "deliveries": "420",
+        "wickets": "3",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1968/69",
+        "Southern Transvaal": "1971/72\u20131983/84"
+    },
+    "birth_date": "1938"
+}

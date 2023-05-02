@@ -1,0 +1,38 @@
+{
+    "name": "George Elliott",
+    "full_name": "George Frederick Elliott",
+    "birth_place": "Farnham, Surrey",
+    "death_date": "df=yes",
+    "death_place": "Farnham, Surrey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "17 July",
+    "debutyear1": "1874",
+    "debutfor1": "Kent",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "6 September",
+    "lastyear1": "1880",
+    "lastfor1": "United South of England Eleven",
+    "lastagainst1": "North",
+    "source": "https://www.espncricinfo.com/player/george-elliott-12643 CricInfo",
+    "First-class": {
+        "matches": "51",
+        "runs": "1,163",
+        "bat avg": "13.69",
+        "100s/50s": "0/4",
+        "top score": "53",
+        "deliveries": "904",
+        "wickets": "8",
+        "bowl avg": "60.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/2",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Kent": "1874",
+        "Surrey": "1875\u20131880"
+    },
+    "birth_date": "1850-05-01"
+}

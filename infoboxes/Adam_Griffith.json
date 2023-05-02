@@ -1,0 +1,57 @@
+{
+    "name": "Adam Griffith",
+    "country": "Australia",
+    "fullname": "Adam Richard Griffith",
+    "birth_place": "Launceston, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "heightcm": "198",
+    "source": "http://www.espncricinfo.com/australia/content/player/5473.html Cricinfo ",
+    "FC": {
+        "matches": "50",
+        "runs": "691",
+        "bat avg": "12.33",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "10,630",
+        "wickets": "169",
+        "bowl avg": "34.31",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "7/54",
+        "catches/stumpings": "6/0"
+    },
+    "LA": {
+        "matches": "54",
+        "runs": "88",
+        "bat avg": "6.76",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "2,798",
+        "wickets": "63",
+        "bowl avg": "35.01",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "9/0"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "261",
+        "wickets": "19",
+        "bowl avg": "15.21",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Tasmania": "2002/03\u20132010/11",
+        "Leicestershire": "2006"
+    },
+    "birth_date": "1978-02-11"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Emma Manix-Geeves",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1381/1381037/1381037.html CricketArchive",
+    "WLA": {
+        "matches": "18",
+        "runs": "348",
+        "bat avg": "26.76",
+        "100s/50s": "1/1",
+        "catches/stumpings": "12/5"
+    },
+    "WT20": {
+        "matches": "5",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Tasmania": "2018/19\u2013present",
+        "Hobart Hurricanes": "2022/23\u2013present"
+    },
+    "birth_date": "2000-8-12"
+}

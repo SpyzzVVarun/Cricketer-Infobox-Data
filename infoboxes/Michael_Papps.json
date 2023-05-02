@@ -1,0 +1,59 @@
+{
+    "name": "Michael Papps",
+    "fullname": "Michael Hugh William Papps",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "role": "Opening Batsman, Wicketkeeper",
+    "family": "Tim Papps (brother)",
+    "internationalspan": "2004\u20132007",
+    "country": "New Zealand",
+    "testcap": "225",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "10 March",
+    "testdebutyear": "2004",
+    "lasttestagainst": "South Africa",
+    "lasttestdate": "16 November",
+    "lasttestyear": "2007",
+    "odicap": "137",
+    "odidebutagainst": "South Africa",
+    "odidebutdate": "13 February",
+    "odidebutyear": "2004",
+    "lastodiagainst": "Australia",
+    "lastodidate": "26 February",
+    "lastodiyear": "2005",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38111.html Cricinfo ",
+    "Test": {
+        "matches": "8",
+        "runs": "246",
+        "bat avg": "16.40",
+        "100s/50s": "0/2",
+        "top score": "86",
+        "catches/stumpings": "11/0"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "207",
+        "bat avg": "51.75",
+        "100s/50s": "0/2",
+        "catches/stumpings": "1/0"
+    },
+    "FC": {
+        "matches": "188",
+        "runs": "12,294",
+        "bat avg": "38.66",
+        "100s/50s": "33/52",
+        "catches/stumpings": "233/6"
+    },
+    "LA": {
+        "matches": "166",
+        "runs": "5,810",
+        "bat avg": "37.97",
+        "100s/50s": "12/32",
+        "catches/stumpings": "86/4"
+    },
+    "clubs": {
+        "Canterbury": "1998/99\u20132010/11",
+        "Wellington": "2011/12\u20132017/18"
+    },
+    "birth_date": "1979-7-2"
+}

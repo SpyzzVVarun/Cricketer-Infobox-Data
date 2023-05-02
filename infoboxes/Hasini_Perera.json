@@ -1,0 +1,42 @@
+{
+    "name": "Hasini Perera",
+    "female": "true",
+    "country": "Sri Lanka",
+    "fullname": "Gamachchi Withanage Hasini Madushika Perera",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm medium-fast",
+    "odidebutdate": "15 October",
+    "odidebutyear": "2014",
+    "odidebutagainst": "South Africa",
+    "odicap": "60",
+    "odishirt": "48",
+    "lastodidate": "7 July",
+    "lastodiyear": "2022",
+    "lastodiagainst": "India",
+    "T20Idebutdate": "1 April",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Bangladesh",
+    "T20Icap": "35",
+    "lastT20Idate": "1 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/371185.html Cricinfo ",
+    "WODI": {
+        "matches": "38",
+        "runs": "538",
+        "bat avg": "14.54",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "8/\u2013"
+    },
+    "WT20I": {
+        "matches": "45",
+        "runs": "440",
+        "bat avg": "11.89",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-6-27"
+}

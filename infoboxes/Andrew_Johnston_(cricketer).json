@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Andrew Johnston",
+    "birth_place": "Linlithgow, West Lothian, Scotland",
+    "death_date": "1993",
+    "death_place": "Kilmarnock, Ayr, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/player/andrew-johnston-25244 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "82",
+        "bat avg": "27.33",
+        "100s/50s": "\u2013/1",
+        "deliveries": "108",
+        "wickets": "3",
+        "bowl avg": "25.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/30",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1947&ndash;1951"
+    }
+}

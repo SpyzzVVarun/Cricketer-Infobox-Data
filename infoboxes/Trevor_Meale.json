@@ -1,0 +1,36 @@
+{
+    "name": "Trevor Meale",
+    "birth_place": "Papatoetoe, Auckland, New Zealand",
+    "death_date": "2010",
+    "death_place": "Orewa, Auckland, New Zealand",
+    "internationalspan": "1958",
+    "country": "New Zealand",
+    "testdebutagainst": "England",
+    "testdebutdate": "5 June",
+    "testdebutyear": "1958",
+    "testcap": "82",
+    "lasttestdate": "21 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1958",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37715.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "5.25",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "32",
+        "runs": "1,352",
+        "bat avg": "27.59",
+        "100s/50s": "2/5",
+        "top score": "130",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1928-11-11"
+}

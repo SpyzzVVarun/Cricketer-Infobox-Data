@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Isted",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15455.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "1.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "172",
+        "wickets": "5",
+        "bowl avg": [
+            ""
+        ],
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/50",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1853"
+    }
+}

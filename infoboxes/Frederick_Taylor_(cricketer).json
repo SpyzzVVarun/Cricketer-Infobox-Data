@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Frederick Taylor",
+    "birth_place": "Leek, Staffordshire, England",
+    "death_date": "1999",
+    "death_place": "Stoke-on-Trent, Staffordshire, England",
+    "family": "Charles Taylor (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21726.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "2.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "394",
+        "wickets": "8",
+        "bowl avg": "17.75",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/71",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1953",
+        "Warwickshire": "1939",
+        "Staffordshire": "1937&ndash;1951"
+    }
+}

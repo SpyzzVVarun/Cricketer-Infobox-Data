@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Stephen Michael Alvin Banister",
+    "birth_place": "Llandygai, Caernarfonshire, Wales",
+    "death_date": "df=y",
+    "death_place": "Effingham, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/9506.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "8",
+        "bat avg": "2.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "470",
+        "wickets": "5",
+        "bowl avg": "70.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/73",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1938&ndash;1939"
+    }
+}

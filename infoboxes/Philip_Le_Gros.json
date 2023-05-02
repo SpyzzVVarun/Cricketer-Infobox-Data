@@ -1,0 +1,32 @@
+{
+    "name": "Philip Le Gros",
+    "country": "England",
+    "fullname": "Philip Walter Le Gros",
+    "birth_place": "Reigate, Surrey, England",
+    "death_date": "1980",
+    "death_place": "Richmond, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "William Trask (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16495.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "94",
+        "bat avg": "15.66",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1911&ndash;1930",
+        "Marylebone Cricket Club": "1921&ndash;1922",
+        "Minor Counties": "1924"
+    },
+    "birth_date": "1892-10-3"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Ernest Falck",
+    "country": "England",
+    "fullname": "Ernest Dyson Falck",
+    "birth_place": "Huddersfield, West Yorkshire, England",
+    "death_date": "1982",
+    "death_place": "Bridport, Dorset, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "17 July",
+    "debutyear1": "1935",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "2 June",
+    "lastyear1": "1936",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3542/3542.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "74",
+        "bat avg": "10.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1935\u201336"
+    },
+    "birth_date": "1907-10-21"
+}

@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Henry Bromley",
+    "birth_place": "East Stoke, Nottinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "East Stoke, Nottinghamshire, England",
+    "heightft": "6",
+    "heightinch": "8",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10523.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1844"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "John Edward Tew",
+    "birth_place": "Wigginton, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ewshot, Hampshire, England",
+    "family": "Anthony Tew (brother), Lord Hawke (uncle)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/21632.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "348",
+        "bat avg": "16.57",
+        "100s/50s": "\u2013/2",
+        "top score": "76",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1927",
+        "Europeans": "1928/29&ndash;1947/48"
+    }
+}

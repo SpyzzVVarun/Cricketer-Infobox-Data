@@ -1,0 +1,50 @@
+{
+    "name": "Jack Tector",
+    "country": "Ireland",
+    "fullname": "Jack Bill Tector",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "family": "Harry Tector (brother), Tim Tector (brother)",
+    "type1": "First-class",
+    "debutdate1": "5 June",
+    "debutyear1": "2017",
+    "debutfor1": "Leinster",
+    "debutagainst1": "Northern",
+    "type2": "List A",
+    "debutdate2": "4 June",
+    "debutyear2": "2017",
+    "debutfor2": "Leinster",
+    "debutagainst2": "Northern",
+    "source": "http://www.espncricinfo.com/ci/content/player/750481.html ESPNcricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "554",
+        "bat avg": "36.93",
+        "100s/50s": "0/5",
+        "top score": "87",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "29",
+        "runs": "585",
+        "bat avg": "20.89",
+        "100s/50s": "1/4",
+        "top score": "110",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "15",
+        "runs": "277",
+        "bat avg": "18.46",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Leinster Lightning": "2015\u20132021",
+        "Munster Reds": "2017\u20132020"
+    },
+    "birth_date": "1996-9-2"
+}

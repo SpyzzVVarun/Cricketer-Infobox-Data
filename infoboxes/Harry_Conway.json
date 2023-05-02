@@ -1,0 +1,55 @@
+{
+    "name": "Harry Conway",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/555855.html Cricinfo ",
+    "FC": {
+        "matches": "40",
+        "runs": "230",
+        "bat avg": "8.51",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "6,468",
+        "wickets": "99",
+        "bowl avg": "29.36",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "6/39",
+        "catches/stumpings": "14/\u2013"
+    },
+    "LA": {
+        "matches": "15",
+        "runs": "32",
+        "bat avg": "32.00",
+        "100s/50s": "0/0",
+        "deliveries": "757",
+        "wickets": "18",
+        "bowl avg": "40.94",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/30",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "487",
+        "wickets": "20",
+        "bowl avg": "35.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/32",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "2015/16\u20132021/22",
+        "Prime Minister's XI": "2016/17",
+        "Cricket Australia XI": "2017/18"
+    },
+    "birth_date": "1992-9-17"
+}

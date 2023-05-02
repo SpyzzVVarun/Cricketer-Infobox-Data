@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Arthur Palmer",
+    "birth_place": "Withybrook, Warwickshire,, England",
+    "death_date": "1962",
+    "death_place": "Higham on the Hill,, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18738.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "87",
+        "bat avg": "8.70",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "20",
+        "deliveries": "1,074",
+        "wickets": "8",
+        "bowl avg": "56.25",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/21",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1928"
+    }
+}

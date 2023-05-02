@@ -1,0 +1,31 @@
+{
+    "name": "Arthur Cresswell",
+    "country": "New Zealand",
+    "fullname": "Arthur Edward Cresswell",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "2002",
+    "death_place": "Blenheim, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Fen Cresswell (brother)",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36779.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "96",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "2178",
+        "wickets": "38",
+        "bowl avg": "22.55",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1948\u201349 to 1949\u201350",
+        "Central Districts": "1950\u201351 to 1951\u201352"
+    },
+    "birth_date": "1917-8-7"
+}

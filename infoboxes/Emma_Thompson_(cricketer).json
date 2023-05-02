@@ -1,0 +1,43 @@
+{
+    "name": "Emma Thompson",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Emma Elizabeth Thompson",
+    "birth_place": "Baulkham Hills, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/900/900587/900587.html CricketArchive",
+    "WLA": {
+        "matches": "62",
+        "runs": "912",
+        "bat avg": "15.45",
+        "100s/50s": "0/4",
+        "top score": "70",
+        "deliveries": "676",
+        "wickets": "12",
+        "bowl avg": "60.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/43",
+        "catches/stumpings": "23/\u2013"
+    },
+    "WT20": {
+        "matches": "99",
+        "runs": "988",
+        "bat avg": "14.31",
+        "100s/50s": "0/1",
+        "deliveries": "366",
+        "wickets": "17",
+        "bowl avg": "26.05",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "2009/10\u2013present",
+        "Hobart Hurricanes( 74 )": "2020/21"
+    },
+    "birth_date": "1990-12-2"
+}

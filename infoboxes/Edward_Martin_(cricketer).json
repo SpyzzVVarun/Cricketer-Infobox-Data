@@ -1,0 +1,29 @@
+{
+    "name": "Edward Martin",
+    "country": "England",
+    "fullname": "Edward Martin",
+    "birth_place": "Brenchley, Kent, England",
+    "death_date": "1869",
+    "death_place": "Barcombe, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/17391.html Cricinfo ",
+    "First-class": {
+        "matches": "41",
+        "runs": "682",
+        "bat avg": "9.34",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "296",
+        "wickets": "21",
+        "bowl avg": "17.66",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/\u2013",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1843\u20131845",
+        "Kent": "1845\u20131851"
+    },
+    "birth_date": "1814-11-24"
+}

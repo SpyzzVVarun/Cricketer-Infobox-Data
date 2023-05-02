@@ -1,0 +1,39 @@
+{
+    "name": "Michael Bennett",
+    "country": "England",
+    "fullname": "Geoffrey Michael Bennett",
+    "birth_place": "Bruton, Somerset, England",
+    "death_date": "1982",
+    "death_place": "Toronto, Ontario, Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "18 August",
+    "debutyear1": "1928",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Essex",
+    "lastdate1": "3 August",
+    "lastyear1": "1939",
+    "lastfor1": "Somerset",
+    "lastagainst1": "West Indians",
+    "source": "http://www.espncricinfo.com/england/content/player/9071.html ESPNCricinfo ",
+    "First-class": {
+        "matches": "109",
+        "runs": "2,330",
+        "bat avg": "15.32",
+        "100s/50s": "0/12",
+        "top score": "73",
+        "deliveries": "753",
+        "wickets": "14",
+        "bowl avg": "32.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/39",
+        "catches/stumpings": "53/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1928\u20131939"
+    },
+    "birth_date": "1909-12-17"
+}

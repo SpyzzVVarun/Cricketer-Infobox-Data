@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Barclay Pearson",
+    "birth_place": "Laurencekirk, Kincardineshire, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London, England",
+    "family": "Alexander Pearson (brother), Henry Foley (son-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/18859.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "48",
+        "bat avg": "24.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "deliveries": "105",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1894"
+    }
+}

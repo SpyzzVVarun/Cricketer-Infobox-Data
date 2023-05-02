@@ -1,0 +1,32 @@
+{
+    "name": "William Penn",
+    "fullname": "William Penn",
+    "birth_place": "Lee, London",
+    "death_date": "1921",
+    "death_place": "Belgravia, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast (round-arm)",
+    "family": "John Penn (father) John Penn (brother) Frank Penn (brother) Dick Penn (brother) Eric Penn (son)",
+    "type1": "FC",
+    "debutdate1": "18 August",
+    "debutyear1": "1870",
+    "debutfor1": "Kent",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "22 July",
+    "lastyear1": "1878",
+    "lastfor1": "Kent",
+    "lastagainst1": "Derbyshire",
+    "source": "http://www.espncricinfo.com/england/content/player/18882.html CricInfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "402",
+        "bat avg": "18.3",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Kent": "1870-1878"
+    },
+    "birth_date": "1849-8-25"
+}

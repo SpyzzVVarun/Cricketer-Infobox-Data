@@ -1,0 +1,32 @@
+{
+    "name": "Paul Nobes",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/6/6260/6260.html CricketArchive",
+    "First-class": {
+        "matches": "86",
+        "runs": "6,180",
+        "bat avg": "41.75",
+        "100s/50s": "15/39",
+        "deliveries": "53",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "53/\u2013"
+    },
+    "List A": {
+        "matches": "35",
+        "runs": "1,021",
+        "bat avg": "32.93",
+        "100s/50s": "1/6",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {}
+}

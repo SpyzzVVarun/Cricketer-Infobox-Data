@@ -1,0 +1,35 @@
+{
+    "name": "Oli Soames",
+    "fullname": "Oliver Courtenay Soames",
+    "birth_place": "Kingston upon Thames, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "1 April",
+    "debutyear1": "2018",
+    "debutfor1": "Loughborough MCCU",
+    "debutagainst1": "Sussex",
+    "source": "http://www.espncricinfo.com/ci/content/player/884075.html Cricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "238",
+        "bat avg": "11.90",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {},
+    "T20": {},
+    "clubs": {
+        "Loughborough MCCU": "2018",
+        "Hampshire( 27 )": "2018\u20132020"
+    },
+    "birth_date": "1995-10-27"
+}

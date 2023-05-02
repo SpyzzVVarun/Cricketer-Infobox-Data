@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "James Webster Sorrie",
+    "birth_place": "Brechin, Angus, Scotland",
+    "death_date": "1955",
+    "death_place": "Blackpool, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/douglas-lawrence-25265 Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "346",
+        "bat avg": "19.22",
+        "100s/50s": "\u2013/2",
+        "top score": "61",
+        "deliveries": "48",
+        "wickets": "2",
+        "bowl avg": "11.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/2",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1912&ndash;1924"
+    }
+}

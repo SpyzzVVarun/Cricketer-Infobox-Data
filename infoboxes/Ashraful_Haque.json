@@ -1,0 +1,40 @@
+{
+    "country": "Bangladesh",
+    "fullname": "Syed Ashraful Haque",
+    "nickname": "Hira",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/41/41802/41802.html CricketArchive ",
+    "FC": {
+        "matches": "5",
+        "runs": "196",
+        "bat avg": "49.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "91",
+        "deliveries": "360",
+        "wickets": "8",
+        "bowl avg": "17.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/23",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "ICC Trophy": {
+        "matches": "4",
+        "runs": "76",
+        "bat avg": "19.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "31",
+        "deliveries": "218",
+        "wickets": "10",
+        "bowl avg": "10.70",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "7/23",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Dacca University": "1970/71",
+        "East Pakistan": "1969/70",
+        "East Pakistan Whites": "1967/68"
+    }
+}

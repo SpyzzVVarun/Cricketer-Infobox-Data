@@ -1,0 +1,25 @@
+{
+    "country": "Australia",
+    "fullname": "Albert George Gillespie",
+    "birth_place": "Rose Park, South Australia, Australia",
+    "death_date": "df=yes",
+    "death_place": "Great Barton, Suffolk, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/australia/content/player/13623.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "48.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/33",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "George Alfred Wilson",
+    "birth_place": "Amersham, Buckinghamshire, England",
+    "death_date": "1962",
+    "death_place": "Abbots Langley, Hertfordshire, England",
+    "family": "Cliff Wilson (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/23064.html Cricinfo ",
+    "First-class": {
+        "matches": "160",
+        "runs": "2,238",
+        "bat avg": "11.36",
+        "100s/50s": "\u2013/5",
+        "top score": "78",
+        "deliveries": "33,212",
+        "wickets": "732",
+        "bowl avg": "24.06",
+        "fivefor": "58",
+        "tenfor": "18",
+        "best bowling": "9/75",
+        "catches/stumpings": "57/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1898&ndash;1906",
+        "Buckinghamshire": "1907&ndash;1908",
+        "Staffordshire": "1912&ndash;1914"
+    }
+}

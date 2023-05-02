@@ -1,0 +1,43 @@
+{
+    "name": "Sarfaraz Ali",
+    "country": "Bahrain",
+    "fullname": "Sarfaraz Ali",
+    "batting": "Right-handed",
+    "role": "Top-order batsman",
+    "T20Idebutdate": "19 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Saudi Arabia",
+    "T20Icap": "9",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Kuwait",
+    "source": "https://www.espncricinfo.com/player/sarfaraz-ali-1172124 ESPNCricinfo ",
+    "T20I": {
+        "matches": "17",
+        "runs": "569",
+        "bat avg": "35.56",
+        "100s/50s": "0/4",
+        "deliveries": "267",
+        "wickets": "8",
+        "bowl avg": "38.62",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/20",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "569",
+        "bat avg": "35.56",
+        "100s/50s": "0/4",
+        "deliveries": "267",
+        "wickets": "8",
+        "bowl avg": "38.62",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/20",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1981-10-21"
+}

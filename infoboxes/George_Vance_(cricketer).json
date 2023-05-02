@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "George Vance",
+    "birth_place": "Paignton, Devon, England",
+    "death_date": "5 March 1839 (aged 25)",
+    "death_place": "Hampstead, Middlesex, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/22238.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "78",
+        "bat avg": "7.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "catches/stumpings": "\u2013/2"
+    },
+    "clubs": {
+        "Oxford University": "1835&ndash;1838"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Pernille J\u00f8nsson",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Pernille J\u00f8nsson",
+    "role": "Batsman",
+    "family": "Janni J\u00f8nsson (sister)",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "England",
+    "odicap": "20",
+    "lastodidate": "29 July",
+    "lastodiyear": "1993",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/54963.html Cricinfo ",
+    "WODI": {
+        "matches": "4",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

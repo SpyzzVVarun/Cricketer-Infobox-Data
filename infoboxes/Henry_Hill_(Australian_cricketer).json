@@ -1,0 +1,36 @@
+{
+    "name": "Henry Hill",
+    "country": "Australia",
+    "birth_place": "Adelaide, South Australia",
+    "death_date": "1906",
+    "death_place": "Kensington Park, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "role": "Bowler",
+    "family": "Clem Hill (brother)",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "12 March",
+    "debutyear1": "1904",
+    "debutfor1": "South Australia",
+    "debutagainst1": "MCC",
+    "source": "https://cricketarchive.com/Archive/Players/16/16174/16174.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "154",
+        "wickets": "3",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1903/04"
+    },
+    "birth_date": "1878-7-7"
+}

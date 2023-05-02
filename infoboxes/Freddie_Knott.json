@@ -1,0 +1,31 @@
+{
+    "name": "Freddie Knott",
+    "country": "England",
+    "fullname": "Frederick Hammett Knott",
+    "birth_place": "Tunbridge Wells, Kent",
+    "death_date": "df=yes",
+    "death_place": "Horsell Birch, Woking, Surrey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "family": "John Knott (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16093.html CricInfo ",
+    "First-class": {
+        "matches": "44",
+        "runs": "1,800",
+        "bat avg": "25.71",
+        "100s/50s": "3/8",
+        "top score": "116",
+        "deliveries": "120",
+        "wickets": "4",
+        "bowl avg": "25.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/65",
+        "catches/stumpings": "32/1"
+    },
+    "clubs": {
+        "Kent": "1910\u20131914",
+        "Oxford University": "1911\u20131914"
+    },
+    "birth_date": "1891-10-30"
+}

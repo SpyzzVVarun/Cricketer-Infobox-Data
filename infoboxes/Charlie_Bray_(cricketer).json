@@ -1,0 +1,28 @@
+{
+    "name": "Charlie Bray",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "1993",
+    "death_place": "Bedford, England",
+    "family": "Leslie Bray (brother)",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/9204.html Cricinfo ",
+    "FC": {
+        "matches": "95",
+        "runs": "3474",
+        "bat avg": "24.81",
+        "100s/50s": "5/13",
+        "top score": "129",
+        "deliveries": "197",
+        "wickets": "2",
+        "bowl avg": "52.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "54"
+    },
+    "clubs": {
+        "Essex": "1927\u20131937"
+    },
+    "birth_date": "1898-4-6"
+}

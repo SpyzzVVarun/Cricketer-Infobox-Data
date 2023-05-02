@@ -1,0 +1,53 @@
+{
+    "name": "Lonell de Beer",
+    "female": "true",
+    "country": "South Africa",
+    "fullname": "Lonell de Beer",
+    "birth_place": "Pretoria, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "internationalspan": "2005\u20132007",
+    "odidebutdate": "13 March",
+    "odidebutyear": "2005",
+    "odidebutagainst": "England",
+    "odicap": "41",
+    "lastodidate": "5 August",
+    "lastodiyear": "2007",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Archive/Players/62/62582/62582.html CricketArchive",
+    "WODI": {
+        "matches": "11",
+        "runs": "11",
+        "bat avg": "3.66",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "400",
+        "wickets": "9",
+        "bowl avg": "25.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/10",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WLA": {
+        "matches": "56",
+        "runs": "333",
+        "bat avg": "10.74",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "2,422",
+        "wickets": "62",
+        "bowl avg": "19.22",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/7",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2003",
+        "Northerns": "2003/04\u20132007/08",
+        "Staffordshire": "2004"
+    },
+    "birth_date": "1980-6-12"
+}

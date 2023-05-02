@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Murray Mordaunt",
+    "birth_place": "Stratford-upon-Avon, Warwickshire, England",
+    "death_date": "1923",
+    "death_place": "Westminster, Middlesex, England",
+    "family": "Eustace Mordaunt (son), Gerald Mordaunt (son), Henry Mordaunt (son), Osbert Mordaunt (brother), David Mordaunt (great-grandson), Francis Portman (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/17909.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1863"
+    }
+}

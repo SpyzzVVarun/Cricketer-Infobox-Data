@@ -1,0 +1,27 @@
+{
+    "name": "Charles Garrard",
+    "country": "New Zealand",
+    "fullname": "Charles Wilson Garrard",
+    "birth_place": "Nelson, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Auckland, New Zealand",
+    "family": "William George Garrard (brother), Raoul Garrard (son), Wilson Garrard (son)",
+    "source": "https://cricketarchive.com/Archive/Players/21/21928/21928.html Cricket Archive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "326",
+        "bat avg": "17.15",
+        "100s/50s": "0/1",
+        "deliveries": "404",
+        "wickets": "2",
+        "bowl avg": "81.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Canterbury": "1886-87 to 1904-05"
+    },
+    "birth_date": "1868-10-9"
+}

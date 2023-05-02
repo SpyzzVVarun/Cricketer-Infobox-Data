@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Gordon Thomas Collins",
+    "birth_place": "Sunbury-on-Thames, Middlesex, England",
+    "death_date": "1986",
+    "death_place": "Manchester, England",
+    "batting": "Right-handed",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/11249.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "44",
+        "bat avg": "8.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1947\u20131949",
+        "Northamptonshire": "1938"
+    },
+    "birth_date": "1914-12-26"
+}

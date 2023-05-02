@@ -1,0 +1,48 @@
+{
+    "name": "Roy Scott",
+    "fullname": "Roy Hamilton Scott",
+    "birth_place": "Clyde, Otago, New Zealand",
+    "death_date": "2005",
+    "death_place": "Christchurch, Canterbury, New Zealand",
+    "internationalspan": "1947",
+    "country": "New Zealand",
+    "onetest": "true",
+    "testcap": "41",
+    "testdebutagainst": "England",
+    "testdebutdate": "21 March",
+    "testdebutyear": "1947",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38383.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "138",
+        "wickets": "1",
+        "bowl avg": "74.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/74",
+        "catches/stumpings": "0/-"
+    },
+    "First-class": {
+        "matches": "25",
+        "runs": "874",
+        "bat avg": "24.97",
+        "100s/50s": "0/6",
+        "deliveries": "5767",
+        "wickets": "94",
+        "bowl avg": "25.97",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/98",
+        "catches/stumpings": "13/-"
+    },
+    "clubs": {
+        "Canterbury": "1940-41 to 1954\u201355"
+    },
+    "birth_date": "1917-5-6"
+}

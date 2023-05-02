@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Ernest Augustus Fawcus",
+    "birth_place": "Newcastle-upon-Tyne, Northumberland, England",
+    "death_date": "1966",
+    "death_place": "Halton, Buckinghamshire, , England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm (unknown Right-arm (unknown style)",
+    "source": "http://www.espncricinfo.com/ci/content/player/13012.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "291",
+        "bat avg": "41.57",
+        "100s/50s": "1/1",
+        "top score": "115",
+        "deliveries": "453",
+        "wickets": "8",
+        "bowl avg": "25.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/51",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Royal Air Force": "1927\u20131929",
+        "Buckinghamshire": "1925\u20131928"
+    },
+    "birth_date": "1895-11-10"
+}

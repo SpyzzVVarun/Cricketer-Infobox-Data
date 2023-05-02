@@ -1,0 +1,30 @@
+{
+    "name": "Tom Wade",
+    "country": "England",
+    "fullname": "Thomas Henry Wade",
+    "birth_place": "Maldon, Essex, England",
+    "death_date": "df=yes",
+    "death_place": "Colchester, Essex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "role": "Wicketkeeper",
+    "source": "https://www.espncricinfo.com/player/tom-wade-22254 Cricinfo ",
+    "First-class": {
+        "matches": "321",
+        "runs": "5024",
+        "bat avg": "14.73",
+        "100s/50s": "0/15",
+        "top score": "96",
+        "deliveries": "2669",
+        "wickets": "48",
+        "bowl avg": "29.54",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/64",
+        "catches/stumpings": "414/177"
+    },
+    "clubs": {
+        "Essex": "1929 to 1950"
+    },
+    "birth_date": "1910-11-24"
+}

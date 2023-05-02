@@ -1,0 +1,38 @@
+{
+    "name": "Edward Hartopp",
+    "country": "England",
+    "fullname": "Edward Samuel Evans Hartopp",
+    "birth_place": "Thurnby, Leicestershire, England",
+    "death_date": "1894",
+    "death_place": "South Pickenham, Norfolk, England",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "13 May",
+    "debutyear1": "1841",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Cambridge Town Club",
+    "lastdate1": "22 August",
+    "lastyear1": "1857",
+    "lastfor1": "Gentlemen of England",
+    "lastagainst1": "Gentlemen of Kent and Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/30/30034/30034.html CricketArchive ",
+    "First-class": {
+        "matches": "69",
+        "runs": "442",
+        "bat avg": "4.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "unknown",
+        "wickets": "1",
+        "bowl avg": "unknown",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1841\u20131842",
+        "Marylebone Cricket Club (MCC)": "1842\u20131852"
+    },
+    "birth_date": "1820-9-7"
+}

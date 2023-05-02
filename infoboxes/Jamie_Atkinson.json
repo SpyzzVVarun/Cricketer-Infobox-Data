@@ -1,0 +1,59 @@
+{
+    "name": "Jamie Atkinson",
+    "country": "Hong Kong",
+    "fullname": "James John Atkinson",
+    "birth_place": "Hong Kong",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "24 June",
+    "odidebutyear": "2008",
+    "odidebutagainst": "Pakistan",
+    "odicap": "14",
+    "lastodidate": "6 November",
+    "lastodiyear": "2016",
+    "lastodiagainst": "Papua New Guinea",
+    "T20Idebutdate": "16 March",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Nepal",
+    "T20Icap": "2",
+    "lastT20Idate": "6 March",
+    "lastT20Iyear": "2020",
+    "lastT20Iagainst": "Malaysia",
+    "source": "https://cricketarchive.com/Archive/Players/95/95004/95004.html CricketArchive ",
+    "ODI": {
+        "matches": "9",
+        "runs": "250",
+        "bat avg": "27.77",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "catches/stumpings": "10/6"
+    },
+    "T20I": {
+        "matches": "17",
+        "runs": "309",
+        "bat avg": "22.07",
+        "100s/50s": "0/2",
+        "top score": "53",
+        "catches/stumpings": "17/0"
+    },
+    "FC": {
+        "matches": "9",
+        "runs": "159",
+        "bat avg": "11.35",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "14/1"
+    },
+    "LA": {
+        "matches": "29",
+        "runs": "700",
+        "bat avg": "26.92",
+        "100s/50s": "0/4",
+        "top score": "85",
+        "catches/stumpings": "30/10"
+    },
+    "clubs": {
+        "Durham UCCE/MCCU": "2009\u20132011",
+        "Warwickshire": "2013"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "David Green",
+    "country": "England",
+    "fullname": "David John Green",
+    "birth_place": "Burton upon Trent, England",
+    "death_date": "2020",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "8 July",
+    "debutyear1": "1953",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Kent",
+    "lastdate1": "20 May",
+    "lastyear1": "1961",
+    "lastfor1": "Free Foresters",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Players/29/29758/29758.html CricketArchive ",
+    "First-class": {
+        "matches": "87",
+        "runs": "2,020",
+        "bat avg": "20.20",
+        "100s/50s": "1/14",
+        "top score": "134",
+        "deliveries": "206",
+        "wickets": "1",
+        "bowl avg": "99.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "62/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1953\u20131960",
+        "Cambridge University": "1957\u20131959"
+    },
+    "birth_date": "1935-12-18"
+}

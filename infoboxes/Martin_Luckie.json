@@ -1,0 +1,43 @@
+{
+    "name": "Martin Luckie",
+    "honorific_suffix": "country=NZL",
+    "office1": "3rd Deputy Mayor of Wellington",
+    "term_start1": "14 May 1929",
+    "term_end1": "20 May 1931",
+    "1blankname1": "Mayor",
+    "1namedata1": "George Troup",
+    "predecessor1": "George Frost",
+    "successor1": "William Bennett",
+    "term_start2": "8 October 1936",
+    "term_end2": "19 November 1947",
+    "1blankname2": "Mayor",
+    "1namedata2": "Thomas Hislop, Will Appleton",
+    "predecessor2": "William Bennett",
+    "successor2": "Robert Macalister",
+    "birth_name": "Martin Maxwell Fleming Luckie",
+    "birth_place": "Nelson, New Zealand",
+    "death_date": "1951",
+    "death_place": "Wellington, New Zealand",
+    "module": "Infobox cricketer",
+    "embed": "yes",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "New Zealand",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37679.html Cricinfo",
+    "First-class": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "2",
+        "bowl avg": "21.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/12",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1891-92 to 1919-20"
+    },
+    "birth_date": "1868-1-30"
+}

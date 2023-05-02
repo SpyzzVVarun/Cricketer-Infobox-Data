@@ -1,0 +1,45 @@
+{
+    "name": "Olivia Rae",
+    "female": "true",
+    "country": "Scotland",
+    "fullname": "Olivia Sophie Margaret Rae",
+    "birth_place": "Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/228/228321/228321.html CricketArchive ",
+    "WLA": {
+        "matches": "49",
+        "runs": "711",
+        "bat avg": "19.75",
+        "100s/50s": "0/2",
+        "top score": "76",
+        "deliveries": "743",
+        "wickets": "22",
+        "bowl avg": "21.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "9/\u2013"
+    },
+    "WT20": {
+        "matches": "37",
+        "runs": "303",
+        "bat avg": "12.62",
+        "100s/50s": "0/0",
+        "deliveries": "32",
+        "wickets": "1",
+        "bowl avg": "30.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Durham": "2006\u20132009",
+        "Canterbury": "2014/15",
+        "Berkshire": "2021",
+        "Middlesex": "2019\u20132020"
+    },
+    "birth_date": "1988-4-14"
+}

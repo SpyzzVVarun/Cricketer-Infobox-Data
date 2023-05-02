@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Mark Thomas Ellis",
+    "birth_place": "Castle Acre, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12725.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "86",
+        "wickets": "2",
+        "bowl avg": "22.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/33",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1987\u20131991"
+    },
+    "birth_date": "1962-5-16"
+}

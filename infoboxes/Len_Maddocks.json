@@ -1,0 +1,30 @@
+{
+    "name": "Len Maddocks",
+    "death_date": "2016",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1954",
+    "lasttestdate": "26 October",
+    "lasttestyear": "1956",
+    "lasttestagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/6457.html ESPNcricinfo",
+    "Test": {
+        "matches": "7",
+        "runs": "177",
+        "bat avg": "17.70",
+        "100s/50s": "0/1",
+        "top score": "69",
+        "catches/stumpings": "18/1"
+    },
+    "First-class": {
+        "matches": "112",
+        "runs": "4,106",
+        "bat avg": "32.84",
+        "100s/50s": "6/20",
+        "catches/stumpings": "210/67"
+    },
+    "clubs": {},
+    "birth_date": "1926-5-24"
+}

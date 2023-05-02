@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "James Rupert Gill",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "2000",
+    "death_place": "Blackrock, Dublin, Ireland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/37158.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "106",
+        "bat avg": "106.00",
+        "100s/50s": "1/\u2013",
+        "top score": "106",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1948"
+    }
+}

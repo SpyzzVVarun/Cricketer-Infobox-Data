@@ -1,0 +1,29 @@
+{
+    "name": "Allan Browne",
+    "country": "West Indies",
+    "fullname": "Chester Allan Browne",
+    "birth_place": "Robert's Tenantry, St Michael, Barbados",
+    "death_date": "1941",
+    "death_place": "Collymore Rock, St Michael, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Snuffy Browne (brother)",
+    "source": "http://www.espncricinfo.com/westindies/content/player/51404.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "950",
+        "bat avg": "33.92",
+        "100s/50s": "1/7",
+        "deliveries": "340",
+        "wickets": "9",
+        "bowl avg": "20.88",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/33",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1907-08 to 1929-30"
+    },
+    "birth_date": "1888-07-20"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Gary Michael Kirk",
+    "birth_place": "Colchester, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15898.html Cricinfo ",
+    "List A": {
+        "matches": "9",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "528",
+        "wickets": "14",
+        "bowl avg": "21.42",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/16",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Suffolk": "1998&ndash;2002"
+    },
+    "birth_date": "1961-4-10"
+}

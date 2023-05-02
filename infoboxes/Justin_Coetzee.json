@@ -1,0 +1,55 @@
+{
+    "name": "Justin Coetzee",
+    "country": "Australia",
+    "fullname": "Justin Petrus Coetzee",
+    "birth_place": "Durban, Natal, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Players/45/45731/45731.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "27.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "49",
+        "bat avg": "16.33",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "150",
+        "wickets": "1",
+        "bowl avg": "135.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "23",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2008/09\u20132009/10"
+    },
+    "birth_date": "1984-6-12"
+}

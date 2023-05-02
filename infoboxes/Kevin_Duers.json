@@ -1,0 +1,36 @@
+{
+    "name": "Kevin Duers",
+    "country": "Zimbabwe",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/55382.html Cricinfo  ",
+    "Tests": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "6",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "50",
+        "wickets": "3",
+        "bowl avg": "85.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/17",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {}
+}

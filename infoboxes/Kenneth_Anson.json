@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Kenneth George Anson",
+    "birth_place": "Sevenoaks, Kent, England",
+    "death_date": "1993",
+    "death_place": "Worthing, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "James Anson (brother)",
+    "source": "https://www.espncricinfo.com/player/kenneth-anson-26411 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "44.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/44",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1940/41"
+    }
+}

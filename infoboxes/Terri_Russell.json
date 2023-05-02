@@ -1,0 +1,31 @@
+{
+    "name": "Terri Russell",
+    "fullname": "Terri Lynn Russell",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-hand bat",
+    "role": "wicket-keeper",
+    "odidebutdate": "10 January",
+    "odidebutyear": "1982",
+    "odidebutagainst": "India",
+    "odicap": "30",
+    "lastodidate": "7 February",
+    "lastodiyear": "1982",
+    "lastodiagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53604.html CricInfo  ",
+    "WODIs": {
+        "matches": "13",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "8/11"
+    },
+    "clubs": {}
+}

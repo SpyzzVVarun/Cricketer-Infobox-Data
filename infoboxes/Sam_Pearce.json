@@ -1,0 +1,51 @@
+{
+    "name": "Sam Pearce",
+    "fullname": "Samuel James Pearce",
+    "birth_place": "Bridgend, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "type1": "First-class",
+    "debutdate1": "1 April",
+    "debutyear1": "2018",
+    "debutfor1": "Cardiff MCCU",
+    "debutagainst1": "Gloucestershire",
+    "type2": "Twenty20",
+    "debutdate2": "29 June",
+    "debutyear2": "2021",
+    "debutfor2": "Glamorgan",
+    "debutagainst2": "Surrey",
+    "source": "http://www.espncricinfo.com/ci/content/player/641395.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "55",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "196",
+        "wickets": "1",
+        "bowl avg": "164.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/74",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "68",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cardiff MCCU": "2018\u20132019",
+        "Glamorgan( 19 )": "2021"
+    },
+    "birth_date": "1997-9-2"
+}

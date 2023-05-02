@@ -1,0 +1,29 @@
+{
+    "name": "Maurice Fenner",
+    "fullname": "Maurice David Fenner",
+    "birth_place": "Linton, Kent",
+    "death_date": "2015",
+    "death_place": "Ashford, Kent",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/13027.html Cricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "708",
+        "bat avg": "14.75",
+        "100s/50s": "0/2",
+        "top score": "77",
+        "deliveries": "5",
+        "wickets": "1",
+        "bowl avg": "1.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "47/13"
+    },
+    "clubs": {
+        "Combined Services": "1949\u20131964",
+        "Kent": "1951\u20131954"
+    },
+    "birth_date": "1929-2-16"
+}

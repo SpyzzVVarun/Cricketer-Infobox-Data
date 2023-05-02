@@ -1,0 +1,42 @@
+{
+    "name": "Jamaluddin Ahmed",
+    "country": "Bangladesh",
+    "birth_place": "Jessore, Khulna, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "oneodi": "true",
+    "odidebutagainst": "England",
+    "odidebutdate": "7 November",
+    "odidebutyear": "2003",
+    "odicap": "68",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/55938.html Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "64",
+        "runs": "3,046",
+        "bat avg": "31.08",
+        "100s/50s": "4/15",
+        "top score": "121",
+        "deliveries": "10,117",
+        "wickets": "141",
+        "bowl avg": "29.89",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "8/67",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1977-1-5"
+}

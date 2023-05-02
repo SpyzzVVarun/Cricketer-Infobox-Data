@@ -1,0 +1,43 @@
+{
+    "country": "West Indies",
+    "fullname": "Timur Mohamed",
+    "birth_place": "Georgetown, Demerara, Guyana",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "family": "Edwin Mohamed (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/52454.html Cricinfo ",
+    "First-class": {
+        "matches": "47",
+        "runs": "2,526",
+        "bat avg": "36.08",
+        "100s/50s": "5/11",
+        "deliveries": "145",
+        "wickets": "2",
+        "bowl avg": "49.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/16",
+        "catches/stumpings": "21/&ndash;"
+    },
+    "List A": {
+        "matches": "30",
+        "runs": "868",
+        "bat avg": "29.93",
+        "100s/50s": "2/4",
+        "top score": "104",
+        "deliveries": "9",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1980",
+        "Suffolk": "1979&ndash;1981",
+        "Demerara": "1978/79&ndash;1984/85",
+        "Guyana": "1975/76&ndash;1986/87"
+    },
+    "birth_date": "1957-6-7"
+}

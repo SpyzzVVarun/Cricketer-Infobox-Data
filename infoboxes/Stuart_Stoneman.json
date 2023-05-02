@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Stuart Andrew Stoneman",
+    "birth_place": "Hammersmith, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20383.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "89",
+        "bat avg": "29.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "258",
+        "wickets": "2",
+        "bowl avg": "99.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/35",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Devon": "2002",
+        "Cheshire": "1998&ndash;2001"
+    },
+    "birth_date": "1971-8-12"
+}

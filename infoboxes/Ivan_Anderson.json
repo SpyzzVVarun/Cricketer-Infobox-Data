@@ -1,0 +1,36 @@
+{
+    "name": "Ivan Anderson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26687/26687.html CricketArchive",
+    "First-class": {
+        "matches": "19",
+        "runs": "947",
+        "bat avg": "37.88",
+        "100s/50s": "3/1",
+        "top score": "147",
+        "deliveries": "873",
+        "wickets": "17",
+        "bowl avg": "14.64",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/21",
+        "catches/stumpings": "9/0"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "77",
+        "bat avg": "25.66",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "126",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

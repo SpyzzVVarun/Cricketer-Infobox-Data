@@ -1,0 +1,38 @@
+{
+    "name": "George Gunn",
+    "full_name": "George Vernon Gunn",
+    "birth_place": "West Bridgford, Nottinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Shelton, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "family": "George Gunn (father)",
+    "type1": "FC",
+    "debutdate1": "7 July",
+    "debutyear1": "1928",
+    "debutfor1": "Notts",
+    "debutagainst1": "West Indians",
+    "lastdate1": "12 August",
+    "lastyear1": "1950",
+    "lastfor1": "Notts",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/29/29843/29843.html CricketArchive subscription needed",
+    "First-class": {
+        "matches": "266",
+        "runs": "10,337",
+        "bat avg": "29.36",
+        "100s/50s": "11/56",
+        "top score": "184",
+        "deliveries": "20,473",
+        "wickets": "281",
+        "bowl avg": "35.67",
+        "fivefor": "9",
+        "tenfor": "1",
+        "best bowling": "7/44",
+        "catches/stumpings": "114/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1928\u20131950"
+    },
+    "birth_date": "1905-07-21"
+}

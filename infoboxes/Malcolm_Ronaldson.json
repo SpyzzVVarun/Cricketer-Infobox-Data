@@ -1,0 +1,38 @@
+{
+    "name": "Malcolm Ronaldson",
+    "country": "South Africa",
+    "fullname": "Malcolm Bruce Ronaldson",
+    "birth_place": "East London, Cape Province, South Africa",
+    "death_date": "2004",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "1 January",
+    "debutyear1": "1938",
+    "debutfor1": "Eastern Province",
+    "debutagainst1": "Border",
+    "lastdate1": "25 March",
+    "lastyear1": "1938",
+    "lastfor1": "Eastern Province",
+    "lastagainst1": "Transvaal",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/25/25921/25921.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "242",
+        "bat avg": "26.88",
+        "100s/50s": "0/2",
+        "top score": "94",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Eastern Province": "1938"
+    },
+    "birth_date": "1917-4-13"
+}

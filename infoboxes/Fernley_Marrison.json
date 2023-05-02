@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Fernley Marrison",
+    "birth_place": "Gillingham, Kent, England",
+    "death_date": "1967",
+    "death_place": "South Farnborough, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/17056.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "85",
+        "bat avg": "10.62",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,098",
+        "wickets": "16",
+        "bowl avg": "33.56",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/44",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1925/26"
+    }
+}

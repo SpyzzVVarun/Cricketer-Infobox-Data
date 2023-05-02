@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Walter Ramsay Allan",
+    "birth_place": "Riccarton, Ayrshire, Scotland",
+    "death_date": "2003",
+    "death_place": "Bolton, Lancashire, England",
+    "family": "Jimmy Allan (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ireland/content/player/25138.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "73",
+        "bat avg": "12.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1950"
+    }
+}

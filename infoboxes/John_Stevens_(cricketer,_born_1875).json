@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "John Elgar Stevens",
+    "birth_place": "Broad Chalke, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Woking, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/21027.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1895&ndash;1912",
+        "Marylebone Cricket Club": "1902"
+    }
+}

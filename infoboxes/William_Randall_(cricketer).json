@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Randall",
+    "birth_place": "England",
+    "death_date": "17 February 1877",
+    "death_place": "Northchapel, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19935.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1849"
+    }
+}

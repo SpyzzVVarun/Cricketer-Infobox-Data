@@ -1,0 +1,51 @@
+{
+    "name": "Peg Taylor",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1935",
+    "fullname": "Margaret Jean Taylor",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "2004",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "onetest": "true",
+    "testdebutdate": "16 February",
+    "testdebutyear": "1935",
+    "testdebutagainst": "England",
+    "testcap": "11",
+    "source": "https://cricketarchive.com/Archive/Players/17/17328/17328.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "62.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/62",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "25",
+        "runs": "727",
+        "bat avg": "16.90",
+        "100s/50s": "0/2",
+        "top score": "56",
+        "deliveries": "2,248",
+        "wickets": "72",
+        "bowl avg": "15.68",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/49",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1938/39\u20131952/53"
+    },
+    "birth_date": "1917-2-19"
+}

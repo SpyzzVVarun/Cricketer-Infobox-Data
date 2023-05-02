@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "John Michael Vernon",
+    "birth_place": "Port Said, Egypt",
+    "death_date": "November 1994 (aged 72)",
+    "death_place": "Portsmouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/22216.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "290",
+        "bat avg": "22.30",
+        "100s/50s": "\u2013/2",
+        "top score": "83",
+        "deliveries": "165",
+        "wickets": "2",
+        "bowl avg": "50.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/8",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {}
+}

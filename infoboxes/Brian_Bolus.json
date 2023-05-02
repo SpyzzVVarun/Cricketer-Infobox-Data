@@ -1,0 +1,63 @@
+{
+    "name": "Brian Bolus",
+    "country": "England",
+    "fullname": "John Brian Bolus",
+    "birth_place": "Whitkirk, Leeds, England",
+    "death_date": "2020",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Opening batsman",
+    "testdebutdate": "25 July",
+    "testdebutyear": "1963",
+    "testdebutagainst": "West Indies",
+    "lasttestdate": "15 February",
+    "lasttestyear": "1964",
+    "lasttestagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/1/1206/1206.html CricketArchive ",
+    "Test": {
+        "matches": "7",
+        "runs": "496",
+        "bat avg": "41.33",
+        "100s/50s": "0/4",
+        "top score": "88",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "469",
+        "runs": "25,598",
+        "bat avg": "34.03",
+        "100s/50s": "39/142",
+        "deliveries": "1,736",
+        "wickets": "24",
+        "bowl avg": "36.91",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/40",
+        "catches/stumpings": "201/\u2013"
+    },
+    "LA": {
+        "matches": "143",
+        "runs": "3,110",
+        "bat avg": "24.29",
+        "100s/50s": "1/18",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "44/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1956\u20131962",
+        "Nottinghamshire": "1963\u20131972",
+        "Derbyshire": "1973\u20131976"
+    },
+    "birth_date": "1934-1-31"
+}

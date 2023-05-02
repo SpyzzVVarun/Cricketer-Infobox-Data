@@ -1,0 +1,54 @@
+{
+    "name": "Chrishen Aponsu",
+    "fullname": "Malimige Chrishen Dilran Aponsu",
+    "birth_place": "Colombo, Sri Lanka",
+    "type1": "First-class",
+    "debutdate1": "2 December",
+    "debutyear1": "2016",
+    "debutfor1": "Kalutara Town Club",
+    "debutagainst1": "Kalutara Physical Culture Club",
+    "lastdate1": "21 March",
+    "lastyear1": "2019",
+    "lastfor1": "Kalutara Town Club",
+    "lastagainst1": "Kurunegala Youth",
+    "type2": "List A",
+    "debutdate2": "21 March",
+    "debutyear2": "2017",
+    "debutfor2": "Polonnaruwa District",
+    "debutagainst2": "Anuradhapura District",
+    "lastdate2": "23 December",
+    "lastyear2": "2019",
+    "lastfor2": "Kandy Customs",
+    "lastagainst2": "Galle Cricket Club",
+    "source": "http://www.espncricinfo.com/ci/content/player/1070079.html ESPNcricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "222",
+        "bat avg": "13.05",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "12/1"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "193",
+        "bat avg": "17.54",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "2/3"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "49",
+        "bat avg": "6.12",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "4/3"
+    },
+    "clubs": {
+        "Kalutara Town Club": "2016\u20132019",
+        "Polonnaruwa District": "2017",
+        "Kandy Customs": "2019\u20132020"
+    },
+    "birth_date": "1994-12-26"
+}

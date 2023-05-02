@@ -1,0 +1,46 @@
+{
+    "name": "Harry Donnan",
+    "birth_place": "Liverpool, New South Wales, Australia",
+    "death_date": "1956",
+    "death_place": "Bexley, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "country": "Australia",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1892",
+    "lasttestdate": "10 August",
+    "lasttestyear": "1896",
+    "source": "https://www.espncricinfo.com/australia/content/player/4969.html Cricinfo",
+    "Tests": {
+        "matches": "5",
+        "runs": "75",
+        "bat avg": "8.33",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "94",
+        "runs": "4262",
+        "bat avg": "29.19",
+        "100s/50s": "6/22",
+        "top score": "167",
+        "deliveries": "3081",
+        "wickets": "29",
+        "bowl avg": "41.06",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "37/0"
+    },
+    "clubs": {
+        "New South Wales": "1887\u201388 to 1900\u201301"
+    },
+    "birth_date": "1864-11-12"
+}

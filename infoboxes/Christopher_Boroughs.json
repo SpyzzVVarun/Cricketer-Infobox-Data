@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Christopher William Boroughs",
+    "birth_place": "Stourbridge, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Herefordshire captain",
+    "source": "http://www.espncricinfo.com/ci/content/player/9154.html Cricinfo ",
+    "LA": {
+        "matches": "12",
+        "runs": "322",
+        "bat avg": "32.20",
+        "100s/50s": "\u2013/3",
+        "top score": "72",
+        "deliveries": "216",
+        "wickets": "4",
+        "bowl avg": "38.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/41",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Herefordshire": "1998-2012"
+    },
+    "birth_date": "1975-4-21"
+}

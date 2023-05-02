@@ -1,0 +1,36 @@
+{
+    "name": "Lestock Adams",
+    "country": "England",
+    "fullname": "Lestock Handley Adams",
+    "birth_place": "Ormskirk, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Placaut Wood, Pas-de-Calais, France",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "25 May",
+    "debutyear1": "1908",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "27 June",
+    "lastyear1": "1910",
+    "lastfor1": "Gentlemen of England",
+    "lastagainst1": "Cambridge University",
+    "source": "http://www.espncricinfo.com/ci/content/player/8670.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "61",
+        "bat avg": "12.20",
+        "100s/50s": "0/0",
+        "deliveries": "866",
+        "wickets": "17",
+        "bowl avg": "31.23",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/86",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1908\u20131910"
+    },
+    "birth_date": "1887-09-10"
+}

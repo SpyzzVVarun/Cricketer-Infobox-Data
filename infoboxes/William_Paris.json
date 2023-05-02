@@ -1,0 +1,27 @@
+{
+    "name": "William Paris",
+    "country": "England",
+    "birth_place": "Old Alresford, Hampshire, England",
+    "death_date": "1915",
+    "death_place": "Winchester, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm roundarm",
+    "source": "http://www.cricinfo.com/england/content/player/18414.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "81",
+        "bat avg": "8.10",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "116",
+        "wickets": "5",
+        "bowl avg": "10.40",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/28",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1875&ndash;1876 and 1881"
+    },
+    "birth_date": "1838-4-29"
+}

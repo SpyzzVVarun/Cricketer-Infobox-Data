@@ -1,0 +1,29 @@
+{
+    "name": "Hammy Love",
+    "batting": "Right-handed",
+    "bowling": "-",
+    "onetest": "true",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testcap": "148",
+    "testdebutdate": "10 February",
+    "testdebutyear": "1933",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6319.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "3/0"
+    },
+    "First-class": {
+        "matches": "54",
+        "runs": "2,906",
+        "bat avg": "35.01",
+        "100s/50s": "7/11",
+        "top score": "192",
+        "catches/stumpings": "73/29"
+    },
+    "clubs": {}
+}

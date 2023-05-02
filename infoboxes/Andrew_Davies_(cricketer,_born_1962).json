@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Andrew George Davies",
+    "birth_place": "Altrincham, Cheshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/11984.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "494",
+        "bat avg": "19.00",
+        "100s/50s": "\u2013/3",
+        "top score": "69",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "28/4"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "68",
+        "bat avg": "13.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "12/2"
+    },
+    "clubs": {
+        "Buckinghamshire": "1989",
+        "Combined Universities": "1983\u20131985",
+        "Cambridge University": "1982\u20131989"
+    },
+    "birth_date": "1963-5-15"
+}

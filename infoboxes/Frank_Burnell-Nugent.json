@@ -1,0 +1,29 @@
+{
+    "name": "Frank Nugent",
+    "country": "England",
+    "fullname": "Frank Henry Nugent",
+    "birth_place": "The Vyne House, Sherborne St John, Hampshire, England",
+    "death_date": "1942",
+    "death_place": "Kingsclere, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/18039.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1904"
+    },
+    "birth_date": "1880-9-5"
+}

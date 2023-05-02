@@ -1,0 +1,41 @@
+{
+    "name": "Greg Ritchie",
+    "fullname": "Gregory Michael Ritchie",
+    "birth_place": "Stanthorpe, Queensland",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7358.html CricInfo ",
+    "Test": {
+        "matches": "30",
+        "runs": "1,690",
+        "bat avg": "35.20",
+        "100s/50s": "3/7",
+        "top score": "146",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "ODI": {
+        "matches": "44",
+        "runs": "959",
+        "bat avg": "27.39",
+        "100s/50s": "0/6",
+        "top score": "84",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1980/81\u20131991/92"
+    },
+    "birth_date": "1960-1-23"
+}

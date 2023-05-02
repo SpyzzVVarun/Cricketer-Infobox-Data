@@ -1,0 +1,28 @@
+{
+    "name": "Barbara Cairncross",
+    "country": "South Africa",
+    "fullname": "Barbara Cairncross",
+    "female": "true",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "England",
+    "testcap": "1",
+    "lasttestdate": "31 December",
+    "lasttestyear": "1960",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17366/17366.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "65",
+        "bat avg": "10.83",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Southern Transvaal": "1953/54\u20131960/61"
+    }
+}

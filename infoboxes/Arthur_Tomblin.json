@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Arthur Charles Tomblin",
+    "birth_place": "Empingham, Rutland, England",
+    "death_date": "15 April 1911 (aged 74)",
+    "death_place": "Kettering, Northamptonshire, England",
+    "batting": "Left-handed",
+    "source": "https://www.espncricinfo.com/player/arthur-tomblin-22082 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "106",
+        "bat avg": "17.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1857"
+    }
+}

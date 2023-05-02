@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Andrew James Collins",
+    "birth_place": "Andover, Hampshire, England",
+    "death_date": "1999",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/9/9048/9048.html CricketArchive ",
+    "LA": {
+        "matches": "2",
+        "runs": "44",
+        "bat avg": "44.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "120",
+        "wickets": "4",
+        "bowl avg": "17.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/30",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Herefordshire": "1995\u20131996",
+        "Wiltshire": "1998\u20131999",
+        "Berkshire": "1997"
+    },
+    "birth_date": "1972-7-24"
+}

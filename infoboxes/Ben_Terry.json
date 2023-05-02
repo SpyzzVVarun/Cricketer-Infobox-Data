@@ -1,0 +1,31 @@
+{
+    "name": "Ben Terry",
+    "fullname": "Richard Benjamin Terry",
+    "birth_place": "Bulwell, Nottingham, England",
+    "death_date": "1910",
+    "death_place": "Edinburgh, Scotland",
+    "role": "Umpire",
+    "umpire": "yes",
+    "testsumpired": "2",
+    "umptestdebutyr": "1877",
+    "umptestlastyr": "1877",
+    "source": "http://www.espncricinfo.com/ci/content/player/8034.html ESPN Cricinfo  ",
+    "First-class": {
+        "matches": "3",
+        "runs": "60",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "268",
+        "wickets": "6",
+        "bowl avg": "15.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1877-1881"
+    },
+    "birth_date": "1852-11-25"
+}

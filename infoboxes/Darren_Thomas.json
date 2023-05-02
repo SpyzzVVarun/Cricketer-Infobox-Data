@@ -1,0 +1,56 @@
+{
+    "country": "England",
+    "fullname": "Stuart Darren Thomas",
+    "nickname": "Ted",
+    "birth_place": "Swansea, Glamorgan, Wales",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21521.html Cricinfo ",
+    "FC": {
+        "matches": "169",
+        "runs": "3,977",
+        "bat avg": "20.93",
+        "100s/50s": "2/18",
+        "top score": "138",
+        "deliveries": "26,518",
+        "wickets": "504",
+        "bowl avg": "31.79",
+        "fivefor": "18",
+        "tenfor": "1",
+        "best bowling": "8/50",
+        "catches/stumpings": "56/&ndash;"
+    },
+    "LA": {
+        "matches": "140",
+        "runs": "1,273",
+        "bat avg": "16.53",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "5,384",
+        "wickets": "171",
+        "bowl avg": "27.29",
+        "fivefor": "3",
+        "tenfor": "&ndash;",
+        "best bowling": "7/16",
+        "catches/stumpings": "25/&ndash;"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "169",
+        "bat avg": "16.90",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "234",
+        "wickets": "11",
+        "bowl avg": "35.81",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/32",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Wales Minor Counties": "2011",
+        "Glamorgan": "1992&ndash;2006"
+    },
+    "birth_date": "1972-1-25"
+}

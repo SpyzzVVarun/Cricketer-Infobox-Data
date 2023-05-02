@@ -1,0 +1,29 @@
+{
+    "name": "Len Creese",
+    "country": "England",
+    "fullname": "William Charles Leonard Creese",
+    "birth_place": "Park Town North, Transvaal, South Africa",
+    "death_date": "1974",
+    "death_place": "Buckland, Kent, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/10876.html Cricinfo ",
+    "FC": {
+        "matches": "281",
+        "runs": "9,938",
+        "bat avg": "24.06",
+        "100s/50s": "6/50",
+        "top score": "241",
+        "deliveries": "25,359",
+        "wickets": "410",
+        "bowl avg": "27.42",
+        "fivefor": "15",
+        "tenfor": "1",
+        "best bowling": "8/37",
+        "catches/stumpings": "191/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1928\u20131939"
+    },
+    "birth_date": "1907-12-27"
+}

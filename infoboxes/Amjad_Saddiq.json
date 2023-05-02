@@ -1,0 +1,40 @@
+{
+    "name": "Amjad Saddiq",
+    "country": "Pakistan",
+    "fullname": "Amjad Saddiq",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Off-break",
+    "role": "All-rounder, Coach",
+    "source": "https://www.espncricinfo.com/ci/content/player/39578.html ESPNcricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "656",
+        "bat avg": "31.23",
+        "100s/50s": "1/4",
+        "deliveries": "-",
+        "wickets": "2",
+        "bowl avg": "57.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "5/-;"
+    },
+    "List A": {
+        "matches": "94",
+        "runs": "2805",
+        "bat avg": "36.90",
+        "100s/50s": "3/16",
+        "deliveries": "388",
+        "wickets": "10",
+        "bowl avg": "29.60",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/6",
+        "catches/stumpings": "42/&ndash;"
+    },
+    "clubs": {
+        "Water and Power Development Authority": "1981\u20131988"
+    },
+    "birth_date": "1959-12-12"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Kerry Jeremy",
+    "country": "West Indies",
+    "fullname": "Kerry Clifford Bryan Jeremy",
+    "birth_place": "Piggotts, Saint George, Antigua and Barbuda",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "odidebutdate": "4 October",
+    "odidebutyear": "2000",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "102",
+    "lastodidate": "16 May",
+    "lastodiyear": "2001",
+    "lastodiagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/10/10375/10375.html Cricket Archive ",
+    "ODIs": {
+        "matches": "6",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "deliveries": "192",
+        "wickets": "4",
+        "bowl avg": "40.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/42",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "55",
+        "runs": "446",
+        "bat avg": "9.29",
+        "100s/50s": "0/1",
+        "deliveries": "9,094",
+        "wickets": "177",
+        "bowl avg": "24.30",
+        "fivefor": "10",
+        "tenfor": "0",
+        "best bowling": "6/33",
+        "catches/stumpings": "24/\u2013"
+    },
+    "LA": {
+        "matches": "42",
+        "runs": "121",
+        "bat avg": "8.64",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "1,831",
+        "wickets": "42",
+        "bowl avg": "31.59",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Leeward Islands": "1998\u20132007"
+    },
+    "birth_date": "1980-2-6"
+}

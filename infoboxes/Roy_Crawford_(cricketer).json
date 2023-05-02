@@ -1,0 +1,29 @@
+{
+    "name": "Roy Crawford",
+    "country": "New Zealand",
+    "fullname": "Francis Roy Crawford",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1996",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36772.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "459",
+        "bat avg": "20.86",
+        "100s/50s": "0/3",
+        "top score": "55",
+        "deliveries": "415",
+        "wickets": "6",
+        "bowl avg": "47.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Wellington": "1937-38 to 1947-48"
+    },
+    "birth_date": "1917-12-23"
+}

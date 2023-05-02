@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "John McIver",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "death_date": "1938",
+    "death_place": "Rawalpindi, Punjab, Pakistan",
+    "batting": "Unknown",
+    "family": "John McIver (son)",
+    "source": "https://www.espncricinfo.com/player/john-mciver-31155 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "167",
+        "wickets": "4",
+        "bowl avg": "17.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/5",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1918/19"
+    }
+}

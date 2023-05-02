@@ -1,0 +1,34 @@
+{
+    "name": "Geoff Blakely",
+    "fullname": "Geoffrey Allan Wilfred Blakely",
+    "birth_place": "Ranfurly, New Zealand",
+    "family": "Sam Blakely (son)",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/36463.html ESPNcricinfo",
+    "module": "Infobox rugby biography",
+    "embed": "yes",
+    "ru_position": "Lock",
+    "ru_province": "Otago Sub-Unions",
+    "ru_provinceyears": "1981",
+    "ru_provincecaps": "1",
+    "FC": {
+        "matches": "9",
+        "runs": "325",
+        "bat avg": "18.05",
+        "100s/50s": "0/1",
+        "top score": "74",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Otago": "1980/81\u20131984/85"
+    },
+    "birth_date": "1959-10-30"
+}

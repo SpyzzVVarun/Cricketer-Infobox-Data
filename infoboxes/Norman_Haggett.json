@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Norman Louis Haggett",
+    "birth_place": "Lee, London, England",
+    "death_date": "df=y",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/14437.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "204",
+        "bat avg": "25.50",
+        "100s/50s": "\u2013/1",
+        "top score": "71",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Alistair MacLeod",
+    "birth_place": "Kensington, London, England",
+    "death_date": "1982",
+    "death_place": "Broomfield, Essex, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/16872.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "271",
+        "bat avg": "15.05",
+        "100s/50s": "\u2013/1",
+        "top score": "87",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1914\u20131938"
+    }
+}

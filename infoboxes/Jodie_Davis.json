@@ -1,0 +1,29 @@
+{
+    "name": "Jodie Davis  |fullname = Jodie Elizabeth Davis",
+    "country": "Australia",
+    "female": "true",
+    "batting": "Right-hand bat",
+    "bowling": "Right arm Medium Right arm Medium pace",
+    "oneodi": "true",
+    "odidebutdate": "25 January",
+    "odidebutyear": "1988",
+    "odidebutagainst": "New Zealand",
+    "odicap": "60",
+    "source": "http://www.espncricinfo.com/ci/content/player/53596.html Cricinfo  ",
+    "ODIs": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {},
+    "birth_date": "1966-12-25"
+}

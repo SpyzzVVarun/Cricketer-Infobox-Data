@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Thomas Kell Dobson",
+    "birth_place": "Whitburn, County Durham, England",
+    "death_date": "1940",
+    "death_place": "Whitburn, County Durham, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/12201.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "305",
+        "bat avg": "30.50",
+        "100s/50s": "1/\u2013",
+        "top score": "126",
+        "deliveries": "936",
+        "wickets": "6",
+        "bowl avg": "62.83",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/70",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1929\u20131934",
+        "Durham": "1922\u20131936"
+    },
+    "birth_date": "1901-1-27"
+}

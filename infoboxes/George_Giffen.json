@@ -1,0 +1,53 @@
+{
+    "name": "George Giffen",
+    "country": "Australia",
+    "fullname": "George Giffen",
+    "birth_place": "Adelaide, South Australia, Australia",
+    "death_date": "1927",
+    "death_place": "Adelaide, South Australia, Australia",
+    "heightm": "1.80",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "All-rounder",
+    "family": "Walter Giffen (brother)",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1881",
+    "testdebutagainst": "England",
+    "testcap": "27",
+    "lasttestdate": "10 August",
+    "lasttestyear": "1896",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/57/57.html CricketArchive ",
+    "Test": {
+        "matches": "31",
+        "runs": "1,238",
+        "bat avg": "23.35",
+        "100s/50s": "1/6",
+        "top score": "161",
+        "deliveries": "6,391",
+        "wickets": "103",
+        "bowl avg": "27.09",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "7/117",
+        "catches/stumpings": "24/0"
+    },
+    "First-class": {
+        "matches": "251",
+        "runs": "11,758",
+        "bat avg": "29.54",
+        "100s/50s": "18/54",
+        "top score": "271",
+        "deliveries": "46,610",
+        "wickets": "1,023",
+        "bowl avg": "21.29",
+        "fivefor": "95",
+        "tenfor": "30",
+        "best bowling": "10/66",
+        "catches/stumpings": "195/0"
+    },
+    "clubs": {
+        "South Australia": "1877/78\u20131902/03"
+    },
+    "birth_date": "1859-3-27"
+}

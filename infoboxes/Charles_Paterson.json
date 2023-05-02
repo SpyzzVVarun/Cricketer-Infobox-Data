@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Charles Strathern Paterson",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1973",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/charles-paterson-25319 Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "188",
+        "bat avg": "26.85",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "49",
+        "deliveries": "814",
+        "wickets": "10",
+        "bowl avg": "24.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/33",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1913&ndash;1927"
+    }
+}

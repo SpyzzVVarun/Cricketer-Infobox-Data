@@ -1,0 +1,26 @@
+{
+    "name": "Rene Shevill",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Irene Henrietta Shevill",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Fernie Blade (twin sister)",
+    "testdebutdate": "4 January",
+    "testdebutyear": "1935",
+    "testdebutagainst": "England",
+    "testcap": "14",
+    "lasttestdate": "18 January",
+    "lasttestyear": "1935",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/australia/content/player/53567.html CricInfo ",
+    "WTest": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

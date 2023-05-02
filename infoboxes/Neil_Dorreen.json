@@ -1,0 +1,28 @@
+{
+    "name": "Neil Dorreen",
+    "country": "New Zealand",
+    "birth_place": "Hampden, Otago, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Hastings, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36906.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "192",
+        "bat avg": "38.40",
+        "100s/50s": "1/0",
+        "top score": "105 not out",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "11/6"
+    },
+    "clubs": {
+        "Canterbury": "1927-28 to 1930-31"
+    },
+    "birth_date": "1901-10-11"
+}

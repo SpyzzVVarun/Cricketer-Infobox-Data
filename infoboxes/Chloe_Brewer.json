@@ -1,0 +1,44 @@
+{
+    "name": "Chloe Brewer",
+    "female": "true",
+    "fullname": "Chloe Brewer",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1860/1860500/1860500.html CricketArchive",
+    "WLA": {
+        "matches": "12",
+        "runs": "335",
+        "bat avg": "33.50",
+        "100s/50s": "0/3",
+        "top score": "79",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "38.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/26",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20": {
+        "matches": "12",
+        "runs": "99",
+        "bat avg": "12.37",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "21.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/21",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Surrey": "2019\u2013present",
+        "South East Stars": "2020\u20132022",
+        "London Spirit": "2022\u2013present",
+        "Central Sparks": "2023\u2013present"
+    },
+    "birth_date": "2002-7-12"
+}

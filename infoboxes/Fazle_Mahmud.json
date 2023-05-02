@@ -1,0 +1,49 @@
+{
+    "name": "Fazle Mahmud",
+    "country": "Bangladesh",
+    "fullname": "Fazle Mahmud Rabbi",
+    "nickname": "Rabbi",
+    "birth_place": "Barisal, Bangladesh",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Batting All-rounder",
+    "odidebutdate": "21 October",
+    "odidebutyear": "2018",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "129",
+    "lastodidate": "24 October",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Zimbabwe",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/55893.html ESPNcricinfo ",
+    "FC": {
+        "matches": "68",
+        "runs": "3789",
+        "bat avg": "33.16",
+        "100s/50s": "7/4",
+        "top score": "59",
+        "deliveries": "2472",
+        "wickets": "28",
+        "bowl avg": "47.35",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/80",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "19",
+        "runs": "429",
+        "bat avg": "39.00",
+        "100s/50s": "2/1",
+        "deliveries": "461",
+        "wickets": "8",
+        "bowl avg": "43.62",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/33",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Barisal Division": "2003/04&ndash;2010/11"
+    },
+    "birth_date": "1987-12-30"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "William Smale",
+    "country": "Wales",
+    "fullname": "William Timothy Edward Smale",
+    "birth_place": "Newport, Wales",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Sophia Smale (sister)",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "12 August",
+    "debutyear1": "2019",
+    "debutfor1": "NW Warriors",
+    "debutagainst1": "Leinster Lightning",
+    "type2": "List A",
+    "debutdate2": "26 August",
+    "debutyear2": "2019",
+    "debutfor2": "NW Warriors",
+    "debutagainst2": "Northern Knights",
+    "source": "http://www.espncricinfo.com/ci/content/player/1158596.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "5/0"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "100",
+        "bat avg": "33.33",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "2/0"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "North West Warriors": "2019\u20132020"
+    },
+    "birth_date": "2001-2-28"
+}

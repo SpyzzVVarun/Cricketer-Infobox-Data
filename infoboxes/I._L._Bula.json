@@ -1,0 +1,29 @@
+{
+    "name": "I. L. Bula",
+    "country": "Fiji",
+    "birth_place": "Tubou, Fiji",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "13 February",
+    "debutyear1": "1948",
+    "debutfor1": "Fiji",
+    "debutagainst1": "Auckland",
+    "lastdate1": "12 January",
+    "lastyear1": "1956",
+    "lastfor1": "Fiji",
+    "lastagainst1": "West Indians",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/24046.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "702",
+        "bat avg": "41.29",
+        "100s/50s": "2/3",
+        "top score": "120",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Fiji": "1947/48\u20131953/54"
+    },
+    "birth_date": "1921-11-15"
+}

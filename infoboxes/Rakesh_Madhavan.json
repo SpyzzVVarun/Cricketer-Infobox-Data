@@ -1,0 +1,54 @@
+{
+    "name": "Rakesh Madhavan",
+    "country": "Malaysia",
+    "birth_place": "Negeri Sembilan, Malaysia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "23 April",
+    "debutyear1": "2004",
+    "debutfor1": "Malaysia",
+    "debutagainst1": "Nepal",
+    "lastdate1": "17 September",
+    "lastyear1": "2004",
+    "lastfor1": "Malaysia",
+    "lastagainst1": "UAE",
+    "type2": "LA",
+    "debutdate2": "17 March",
+    "debutyear2": "1998",
+    "debutfor2": "Malaysia",
+    "debutagainst2": "Pakistan International Airlines",
+    "lastdate2": "14 September",
+    "lastyear2": "1998",
+    "lastfor2": "Malaysia",
+    "lastagainst2": "Jamaica",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/21/21135/21135.html CricketArchive ",
+    "FC": {
+        "matches": "2",
+        "runs": "151",
+        "bat avg": "37.75",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "68",
+        "bat avg": "11.33",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "0/0"
+    },
+    "ICC T": {
+        "matches": "5",
+        "runs": "191",
+        "bat avg": "47.75",
+        "100s/50s": "1/0",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Malaysia": "1998\u20132004"
+    },
+    "birth_date": "1977-2-23"
+}

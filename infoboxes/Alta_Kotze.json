@@ -1,0 +1,53 @@
+{
+    "name": "Alta Kotze",
+    "female": "true",
+    "fullname": "Alta Kotze",
+    "birth_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "internationalspan": "1997\u20131999",
+    "country": "South Africa",
+    "odidebutdate": "5 August",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Ireland",
+    "odicap": "6",
+    "lastodidate": "15 February",
+    "lastodiyear": "1999",
+    "lastodiagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/5/5611/5611.html CricketArchive ",
+    "WODI": {
+        "matches": "15",
+        "runs": "95",
+        "bat avg": "13.57",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "623",
+        "wickets": "8",
+        "bowl avg": "49.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WLA": {
+        "matches": "27",
+        "runs": "152",
+        "bat avg": "11.69",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "1,275",
+        "wickets": "21",
+        "bowl avg": "36.47",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/18",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Gauteng": "1996/97\u20131998/99",
+        "Easterns": "2002/03\u20132003/04",
+        "Limpopo": "2005/06"
+    },
+    "birth_date": "1971-12-4"
+}

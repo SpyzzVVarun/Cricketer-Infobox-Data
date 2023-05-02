@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "John Wilfred Intin",
+    "birth_place": "Hull, Yorkshire, England",
+    "death_date": "1970",
+    "death_place": "Grangemouth, Stirlingshire,, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://search.espncricinfo.com/scotland/content/player/25243.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "21.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/25",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1920"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ian Fleming",
+    "fullname": "Ian Douglas Keith Fleming",
+    "birth_place": "Georgetown, British Guiana",
+    "death_date": "1988",
+    "death_place": "Pembury, Kent, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/16049.html CricInfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "183",
+        "bat avg": "30.50",
+        "100s/50s": "0/1",
+        "top score": "66",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Kent": "1934"
+    },
+    "birth_date": "1908-8-21"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Kenneth Desmond Smith",
+    "birth_place": "Bishop Auckland, County Durham, England",
+    "death_date": "1998",
+    "death_place": "Selly Oak, Warwickshire,, England",
+    "family": "David Smith (son), Paul Smith (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/kenneth-smith-20875 Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "621",
+        "bat avg": "17.25",
+        "100s/50s": "\u2013/2",
+        "deliveries": "192",
+        "wickets": "3",
+        "bowl avg": "34.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/37",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1953&ndash;1961",
+        "Leicestershire": "1950&ndash;1951"
+    }
+}

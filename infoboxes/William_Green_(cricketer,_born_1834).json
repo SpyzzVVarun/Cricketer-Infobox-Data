@@ -1,0 +1,20 @@
+{
+    "name": "William Green",
+    "country": "England",
+    "fullname": "William James Green",
+    "birth_place": "Gravesend, Kent",
+    "death_date": "1876 (aged 41/42)",
+    "death_place": "Gravesend, Kent",
+    "source": "http://www.espncricinfo.com/ci/content/player/13929.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "3.40",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1856\u20131861"
+    }
+}

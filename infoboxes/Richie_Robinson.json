@@ -1,0 +1,59 @@
+{
+    "name": "Richie Robinson",
+    "fullname": "Richard Daryl Robinson",
+    "birth_place": "East Melbourne, Victoria",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "role": "wicket-keeper",
+    "testdebutdate": "16 June",
+    "testdebutyear": "1977",
+    "testdebutagainst": "England",
+    "testcap": "278",
+    "lasttestdate": "11 August",
+    "lasttestyear": "1977",
+    "lasttestagainst": "England",
+    "odidebutdate": "4 June",
+    "odidebutyear": "1977",
+    "odidebutagainst": "England",
+    "odicap": "38",
+    "lastodidate": "6 June",
+    "lastodiyear": "1977",
+    "lastodiagainst": "England",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7376.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "100",
+        "bat avg": "16.66",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "4/\u2013"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "82",
+        "bat avg": "41.00",
+        "100s/50s": "0/1",
+        "top score": "70",
+        "catches/stumpings": "3/1"
+    },
+    "FC": {
+        "matches": "97",
+        "runs": "4,776",
+        "bat avg": "39.80",
+        "100s/50s": "7/22",
+        "top score": "185",
+        "catches/stumpings": "289/40"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "370",
+        "bat avg": "23.12",
+        "100s/50s": "0/1",
+        "top score": "70",
+        "catches/stumpings": "16/7"
+    },
+    "clubs": {
+        "Victoria": "1971/72\u20131981/82"
+    },
+    "birth_date": "1946-6-8"
+}

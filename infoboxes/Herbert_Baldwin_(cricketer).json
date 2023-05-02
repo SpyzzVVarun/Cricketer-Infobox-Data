@@ -1,0 +1,30 @@
+{
+    "name": "Herbert Baldwin",
+    "country": "England",
+    "fullname": "Herbert George Baldwin",
+    "birth_place": "Hartley Wintney, Hampshire, England",
+    "death_date": "1969",
+    "death_place": "Hartley Wintney, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "family": "Harry Baldwin (Father)",
+    "role": "Umpire",
+    "source": "http://www.cricinfo.com/ci/content/player/9494.html Cricinfo ",
+    "FC": {
+        "matches": "32",
+        "runs": "509",
+        "bat avg": "13.39",
+        "100s/50s": "\u2013/1",
+        "deliveries": "672",
+        "wickets": "3",
+        "bowl avg": "107.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/83",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1922\u20131930"
+    },
+    "birth_date": "1893-3-16"
+}

@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Kenneth David Smith",
+    "birth_place": "Newcastle, Northumberland, England",
+    "family": "Kenneth Smith (father), Paul Smith (brother), Alan Oakman (father-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/david-smith-20873 Cricinfo ",
+    "First-class": {
+        "matches": "197",
+        "runs": "8,734",
+        "bat avg": "27.55",
+        "100s/50s": "9/55",
+        "top score": "140",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "34/\u2013"
+    },
+    "List A": {
+        "matches": "108",
+        "runs": "2,772",
+        "bat avg": "28.87",
+        "100s/50s": "2/19",
+        "top score": "113",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1973&ndash;1985"
+    },
+    "birth_date": "1956-7-9"
+}

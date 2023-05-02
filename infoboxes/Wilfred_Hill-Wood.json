@@ -1,0 +1,40 @@
+{
+    "name": "Sir Wilfred Hill-Wood",
+    "country": "England",
+    "fullname": "Wilfred William Hill Hill-Wood",
+    "birth_place": "Chelsea, London, England",
+    "death_date": "1980",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "family": "Samuel Hill-Wood (father)",
+    "type1": "FC",
+    "debutdate1": "8 August",
+    "debutyear1": "1919",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "28 June",
+    "lastyear1": "1939",
+    "lastfor1": "MCC",
+    "lastagainst1": "Oxford Univ.",
+    "source": "https://cricketarchive.com/Archive/Players/13/13696/13696.html CricketArchive ",
+    "First-class": {
+        "matches": "63",
+        "runs": "2,848",
+        "bat avg": "27.65",
+        "100s/50s": "3/15",
+        "deliveries": "3,679",
+        "wickets": "65",
+        "bowl avg": "34.41",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/62",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1919\u20131936",
+        "Cambridge University": "1921\u20131922",
+        "MCC": "1938\u20131939"
+    },
+    "birth_date": "1901-9-8"
+}

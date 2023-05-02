@@ -1,0 +1,52 @@
+{
+    "name": "Robin Morris",
+    "fullname": "Robin Francis Morris",
+    "birth_place": "Mumbai, India",
+    "role": "all-rounder",
+    "source": "http://espncricinfo.com/india/content/player/31008.html Cricinfo",
+    "FC": {
+        "matches": "42",
+        "runs": "1358",
+        "bat avg": "23.41",
+        "100s/50s": "0/9",
+        "deliveries": "4639",
+        "wickets": "76",
+        "bowl avg": "28.94",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/39",
+        "catches/stumpings": "27/\u2013"
+    },
+    "LA": {
+        "matches": "51",
+        "runs": "1397",
+        "bat avg": "31.75",
+        "100s/50s": "1/9",
+        "top score": "111",
+        "deliveries": "1783",
+        "wickets": "46",
+        "bowl avg": "32.89",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/30",
+        "catches/stumpings": "15/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Mumbai cricket team": ""
+    },
+    "birth_date": "1976-11-06"
+}

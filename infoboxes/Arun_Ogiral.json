@@ -1,0 +1,30 @@
+{
+    "name": "Arun Ogiral",
+    "country": "India",
+    "fullname": "Arun Muralidhar Ogiral",
+    "birth_place": "Nagpur, Maharashtra, British India",
+    "death_date": "2004",
+    "death_place": "Nagpur, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://cricketarchive.com/Archive/Players/40/40158/40158.html CricketArchive",
+    "First-class": {
+        "matches": "53",
+        "runs": "985",
+        "bat avg": "13.87",
+        "100s/50s": "0/2",
+        "top score": "73",
+        "deliveries": "9069",
+        "wickets": "152",
+        "bowl avg": "28.26",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "8/39",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {
+        "Vidarbha": "1960-61 to 1976-77",
+        "Central Zone": "1967-68 to 1975-76"
+    },
+    "birth_date": "1942-9-25"
+}

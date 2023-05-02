@@ -1,0 +1,28 @@
+{
+    "name": "Arnold Anthony",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1968",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/36253.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "52",
+        "runs": "2386",
+        "bat avg": "27.42",
+        "100s/50s": "4/12",
+        "top score": "116",
+        "deliveries": "4170",
+        "wickets": "75",
+        "bowl avg": "24.14",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "22/&ndash;"
+    },
+    "clubs": {
+        "Canterbury": "1905-06 to 1908-09",
+        "Auckland": "1909-10 to 1930-31"
+    },
+    "birth_date": "1886-7-28"
+}

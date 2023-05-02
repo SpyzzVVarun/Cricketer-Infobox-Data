@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Frederick John Dyer",
+    "birth_place": "Lewisham, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Stevenage, Hertfordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12425.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "12",
+        "bat avg": "1.71",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

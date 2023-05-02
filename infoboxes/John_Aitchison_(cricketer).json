@@ -1,0 +1,38 @@
+{
+    "name": "John Aitchison",
+    "fullname": "John Edward Aitchison",
+    "birth_place": "Gillingham, Kent",
+    "death_date": "2009",
+    "death_place": "Sydenham, London",
+    "batting": "Right-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1949",
+    "debutfor1": "Kent",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "5 July",
+    "lastyear1": "1950",
+    "lastfor1": "Kent",
+    "lastagainst1": "Leicestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/8693.html CricInfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "147",
+        "wickets": "3",
+        "bowl avg": "29.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Kent": "1949\u20131950"
+    },
+    "birth_date": "1928-12-27"
+}

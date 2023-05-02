@@ -1,0 +1,41 @@
+{
+    "name": "Steve Stubbings",
+    "country": "England",
+    "fullname": "Stephen David Stubbings",
+    "nickname": "Stubbo",
+    "birth_place": "Huddersfield, Yorkshire, England",
+    "heightft": "6",
+    "heightinch": "3",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "http://content-uk.cricinfo.com/countycricket2008/content/player/20397.html Cricinfo.com ",
+    "FC": {
+        "matches": "139",
+        "runs": "7,557",
+        "bat avg": "31.88",
+        "100s/50s": "12/38",
+        "top score": "151",
+        "catches/stumpings": "64/0"
+    },
+    "LA": {
+        "matches": "117",
+        "runs": "2,707",
+        "bat avg": "26.28",
+        "100s/50s": "1/16",
+        "top score": "110",
+        "catches/stumpings": "20/0"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "186",
+        "bat avg": "23.25",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Derbyshire": "1997\u20132010",
+        "Bedfordshire": "2011\u20132013"
+    },
+    "birth_date": "1978-3-31"
+}

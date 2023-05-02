@@ -1,0 +1,41 @@
+{
+    "name": "Geoff Smith",
+    "fullname": "Geoffrey Brunton Smith",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Brun Smith (father), Frank Smith (grandfather)",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/38510.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "196",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "32",
+        "bat avg": "10.66",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1977-78 to 1979-80"
+    },
+    "birth_date": "1953-11-22"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gerald Arthur",
+    "country": "Australia",
+    "fullname": "Gerald Charles Arthur",
+    "birth_place": "Yarloop, Western Australia",
+    "death_date": "2008",
+    "death_place": "Gosnells, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/15/15697/15697.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "53",
+        "bat avg": "8.83",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Western Australia": "1937/38"
+    },
+    "birth_date": "1913-7-25"
+}

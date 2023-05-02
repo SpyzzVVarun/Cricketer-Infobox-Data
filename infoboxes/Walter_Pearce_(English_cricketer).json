@@ -1,0 +1,28 @@
+{
+    "name": "Walter Pearce",
+    "country": "England",
+    "fullname": "Walter Kennedy Pearce",
+    "birth_place": "Bassett, Southampton, Hampshire, England",
+    "death_date": "1960",
+    "death_place": "Romsey, Hampshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/18480.html Cricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "127",
+        "bat avg": "18.14",
+        "100s/50s": "&ndash;/1",
+        "top score": "63",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1923 and 1926"
+    },
+    "birth_date": "1893-4-2"
+}

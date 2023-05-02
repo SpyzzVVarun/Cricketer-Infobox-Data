@@ -1,0 +1,32 @@
+{
+    "name": "David Kitson",
+    "country": "England",
+    "fullname": "David Lees Kitson",
+    "birth_place": "Batley, West Yorkshire",
+    "death_date": "2002",
+    "death_place": "Ilminster, Somerset",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "17 May",
+    "debutyear1": "1952",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "12 July",
+    "lastyear1": "1954",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3669/3669.html CricketArchive ",
+    "First-class": {
+        "matches": "32",
+        "runs": "886",
+        "bat avg": "15.54",
+        "100s/50s": "\u2013/5",
+        "top score": "69",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1952\u201354"
+    },
+    "birth_date": "1925-9-13"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "John Smith",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Left-handed",
+    "source": "https://cricketarchive.com/Archive/Players/22/22875/22875.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "194",
+        "bat avg": "27.71",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Canterbury": "1943-44 to 1945-46"
+    },
+    "birth_date": "1919-7-1"
+}

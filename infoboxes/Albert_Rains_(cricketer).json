@@ -1,0 +1,27 @@
+{
+    "name": "Albert Rains",
+    "fullname": "Albert George Rains",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "1947",
+    "death_place": "Perth, Australia",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/38277.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "110",
+        "bat avg": "12.22",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "130",
+        "wickets": "1",
+        "bowl avg": "53.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {
+        "Otago": "1894-95 to 1896-97"
+    },
+    "birth_date": "1865-2-7"
+}

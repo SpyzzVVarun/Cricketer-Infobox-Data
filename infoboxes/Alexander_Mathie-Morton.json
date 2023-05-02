@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Fullarton Mathie-Morton",
+    "birth_place": "Belmont, Ayrshire, Scotland",
+    "death_date": "1965",
+    "death_place": "Ayr, Ayrshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/alexander-mathie-morton-25283 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1922"
+    }
+}

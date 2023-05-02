@@ -1,0 +1,32 @@
+{
+    "name": "Charles Edgson",
+    "country": "England",
+    "fullname": "Charles Leslie Edgson",
+    "birth_place": "Morcott, Rutland, England",
+    "death_date": "1983",
+    "death_place": "Brentwood, Essex",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "26 August",
+    "debutyear1": "1933",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "1 August",
+    "lastyear1": "1939",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/29/29226/29226.html CricketArchive ",
+    "First-class": {
+        "matches": "14",
+        "runs": "321",
+        "bat avg": "13.37",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "49",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1933\u201339"
+    },
+    "birth_date": "1915-8-22"
+}

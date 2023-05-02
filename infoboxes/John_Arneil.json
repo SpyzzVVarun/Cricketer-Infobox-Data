@@ -1,0 +1,24 @@
+{
+    "name": "John Arneil",
+    "birth_place": "India",
+    "death_date": "11 August 1938 (aged 75 or 76)",
+    "death_place": "Auckland, New Zealand",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/36259.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "248",
+        "bat avg": "17.71",
+        "100s/50s": "0/1",
+        "deliveries": "90",
+        "wickets": "2",
+        "bowl avg": "30.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/9",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Auckland": "1882-83 to 1893-94"
+    }
+}

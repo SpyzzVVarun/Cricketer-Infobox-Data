@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Maurice Edward Lloyd",
+    "birth_place": "Llanmerewig, Montgomeryshire, Wales",
+    "death_date": "df=yes",
+    "death_place": "Montgomery, Montgomeryshire, Wales",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16617.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1866"
+    }
+}

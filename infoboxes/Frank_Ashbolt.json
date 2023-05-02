@@ -1,0 +1,29 @@
+{
+    "name": "Frank Ashbolt",
+    "country": "New Zealand",
+    "fullname": "Frank Lionel Ashbolt",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1940",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://cricketarchive.com/Archive/Players/16/16916/16916.html Cricket Archive ",
+    "First-class": {
+        "matches": "21",
+        "runs": "330",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "top score": "37 not out",
+        "deliveries": "3527",
+        "wickets": "105",
+        "bowl avg": "16.01",
+        "fivefor": "11",
+        "tenfor": "3",
+        "best bowling": "8/58",
+        "catches/stumpings": "23/0"
+    },
+    "clubs": {
+        "Wellington": "1893/94-1900/01"
+    },
+    "birth_date": "1876-4-11"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Richard Searle",
+    "country": "Australia",
+    "fullname": "Richard Henry Searle",
+    "birth_place": "Red Hill, Queensland, Australia",
+    "death_date": "2010",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Bowler",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "1 January",
+    "debutyear1": "1955",
+    "debutfor1": "Queensland",
+    "debutagainst1": "New South Wales",
+    "source": "http://www.cricinfo.com/ci/content/player/7770.html CricInfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "229",
+        "wickets": "4",
+        "bowl avg": "32.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/83",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1954/55"
+    },
+    "birth_date": "1934-01-16"
+}

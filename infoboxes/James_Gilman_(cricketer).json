@@ -1,0 +1,28 @@
+{
+    "name": "James Gilman",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "df=y",
+    "death_place": "Shoreham-by-Sea, West Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "https://www.espncricinfo.com/player/james-gilman-13631 Cricinfo ",
+    "First-class": {
+        "matches": "41",
+        "runs": "977",
+        "bat avg": "16.55",
+        "100s/50s": "0/2",
+        "deliveries": "228",
+        "wickets": "3",
+        "bowl avg": "46.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/74",
+        "catches/stumpings": "21/0"
+    },
+    "clubs": {
+        "London County": "1900 to 1904",
+        "Middlesex": "1900 to 1901",
+        "Cambridge University": "1901 to 1902"
+    },
+    "birth_date": "1879-3-17"
+}

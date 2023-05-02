@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "William Henry Heale",
+    "birth_place": "Hemel Hempstead, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Lambeth, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14679.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1881",
+        "Hertfordshire": "1895"
+    }
+}

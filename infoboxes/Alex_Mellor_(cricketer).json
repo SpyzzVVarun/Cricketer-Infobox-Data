@@ -1,0 +1,49 @@
+{
+    "name": "Alex Mellor",
+    "country": "England",
+    "fullname": "Alexander James Mellor",
+    "birth_place": "Stoke-on-Trent, Staffordshire, England",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "4 August",
+    "debutyear1": "2016",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "type2": "List A",
+    "debutdate2": "31 July",
+    "debutyear2": "2016",
+    "debutfor2": "Derbyshire",
+    "debutagainst2": "Northamptonshire",
+    "source": "http://www.espncricinfo.com/england/content/player/568983.html ESPNcricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "282",
+        "bat avg": "18.80",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "catches/stumpings": "15/0"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "92",
+        "bat avg": "46.00",
+        "100s/50s": "0/1",
+        "top score": "58",
+        "catches/stumpings": "4/0"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "38",
+        "bat avg": "12.66",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Warwickshire( 15 )": "2016\u20132019",
+        "\u2192 Derbyshire (on loan)": "2016"
+    },
+    "birth_date": "1991-7-22"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Babette de Leede",
+    "female": "true",
+    "country": "Netherlands",
+    "fullname": "Babette Johanna Adriana de Leede",
+    "birth_place": "Leidschendam, Netherlands",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Bas de Leede (cousin)",
+    "odidebutdate": "22 August",
+    "odidebutyear": "2022",
+    "odidebutagainst": "Ireland",
+    "odicap": "84",
+    "lastodidate": "24 November",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Thailand",
+    "T20Idebutdate": "7 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "UAE",
+    "T20Icap": "26",
+    "lastT20Idate": "1 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Namibia",
+    "source": "http://www.espncricinfo.com/ci/content/player/877473.html ESPNcricinfo ",
+    "WT20I": {
+        "matches": "28",
+        "runs": "330",
+        "bat avg": "20.62",
+        "100s/50s": "0/2",
+        "catches/stumpings": "11/11"
+    },
+    "clubs": {
+        "Western Province": "2021/22\u2013present"
+    },
+    "birth_date": "1999-10-8"
+}

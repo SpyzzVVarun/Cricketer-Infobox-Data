@@ -1,0 +1,36 @@
+{
+    "name": "Donald Campbell",
+    "birth_place": "Loddon Plains, Victoria",
+    "death_date": "1887",
+    "death_place": "South Yarra, Melbourne, Victoria",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "12 February",
+    "debutyear1": "1869",
+    "debutfor1": "Victoria",
+    "debutagainst1": "Tasmania",
+    "lastdate1": "1 January",
+    "lastyear1": "1881",
+    "lastfor1": "New South Wales and Victoria",
+    "lastagainst1": "Australian XI",
+    "source": "http://www.espncricinfo.com/australia/content/player/4712.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "643",
+        "bat avg": "15.68",
+        "100s/50s": "0/3",
+        "top score": "55",
+        "deliveries": "188",
+        "wickets": "2",
+        "bowl avg": "30.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1868/69\u20131880/81",
+        "Oxford University": "1873\u20131876"
+    },
+    "birth_date": "1851-9-18"
+}

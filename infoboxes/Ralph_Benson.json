@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Ralph Augustus Benson",
+    "birth_place": "Hanley, Worcestershire, England",
+    "death_date": "1886",
+    "death_place": "Marylebone, Middlesex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/10431.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1855"
+    }
+}

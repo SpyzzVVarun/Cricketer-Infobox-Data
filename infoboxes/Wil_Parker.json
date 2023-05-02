@@ -1,0 +1,55 @@
+{
+    "name": "Wil Parker",
+    "fullname": "Wil Parker",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "family": "Geoff Parker (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/1216350.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "360",
+        "wickets": "6",
+        "bowl avg": "32.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/54",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "44",
+        "wickets": "1",
+        "bowl avg": "44.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/44",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "47",
+        "bat avg": "11.75",
+        "100s/50s": "0/0",
+        "deliveries": "108",
+        "wickets": "1",
+        "bowl avg": "185.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/42",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria( 8 )": "2019/20\u2013",
+        "Hobart Hurricanes": "2020/21\u20132022/23"
+    },
+    "birth_date": "2002-5-29"
+}

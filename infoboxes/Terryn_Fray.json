@@ -1,0 +1,50 @@
+{
+    "name": "Terryn Fray",
+    "full_name": "Terryn Sunil Fray",
+    "birth_place": "Bermuda",
+    "batting": "Right-hand bat",
+    "role": "Opening batsman",
+    "country": "Bermuda",
+    "internationalspan": "2019\u2013present",
+    "T20Idebutdate": "18 August",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "United States",
+    "T20Icap": "19",
+    "lastT20Idate": "4 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Bahamas",
+    "source": "http://www.espncricinfo.com/ci/content/player/307231.html ESPNcricinfo ",
+    "T20I": {
+        "matches": "6",
+        "runs": "19",
+        "bat avg": "3.80",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "51",
+        "bat avg": "25.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "40",
+        "bat avg": "4.44",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1991-06-30"
+}

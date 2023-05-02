@@ -1,0 +1,40 @@
+{
+    "name": "Ajay Barik",
+    "country": "India",
+    "fullname": "Ajay Barik",
+    "birth_place": "Cuttack, Orissa, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm Medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/27045.html Cricinfo ",
+    "FC": {
+        "matches": "38",
+        "runs": "140",
+        "bat avg": "4.66",
+        "100s/50s": "0/1",
+        "deliveries": "3400",
+        "wickets": "96",
+        "bowl avg": "35.41",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/18",
+        "catches/stumpings": "19/\u2013"
+    },
+    "List A": {
+        "matches": "15",
+        "runs": "42",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "deliveries": "722",
+        "wickets": "10",
+        "bowl avg": "46.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/15",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Orissa": "1996\u20132003"
+    },
+    "birth_date": "1976-1-10"
+}

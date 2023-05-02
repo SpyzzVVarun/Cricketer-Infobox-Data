@@ -1,0 +1,41 @@
+{
+    "name": "BR Sharath",
+    "country": "India",
+    "fullname": "Belur Ravi Sharath",
+    "birth_place": "Bangalore, Karnataka, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://espncricinfo.com/india/content/player/917231.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "349",
+        "bat avg": "18.36",
+        "100s/50s": "1/0",
+        "top score": "103",
+        "catches/stumpings": "48/6"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "601",
+        "bat avg": "40.06",
+        "100s/50s": "0/4",
+        "top score": "90",
+        "catches/stumpings": "38/7"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "276",
+        "bat avg": "15.33",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "15/6"
+    },
+    "clubs": {
+        "Karnataka": "2018\u2013present",
+        "Belagavi Panthers": "",
+        "Bijapur Bulls": "",
+        "Bengaluru Blasters": "",
+        "Namma Shivamogga": ""
+    },
+    "birth_date": "1996-9-28"
+}

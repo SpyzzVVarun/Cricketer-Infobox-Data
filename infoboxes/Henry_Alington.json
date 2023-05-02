@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry Giles Alington",
+    "birth_place": "Candlesby, Lincolnshire, England",
+    "death_date": "1928",
+    "death_place": "Candlesby, Lincolnshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/8878.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1859"
+    }
+}

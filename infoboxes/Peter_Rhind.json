@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Peter Alan Rhind",
+    "birth_place": "Dundee, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/peter-rhind-25330 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "23",
+        "bat avg": "7.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "651",
+        "wickets": "6",
+        "bowl avg": "55.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/62",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1968&ndash;1982"
+    },
+    "birth_date": "1945-6-20"
+}

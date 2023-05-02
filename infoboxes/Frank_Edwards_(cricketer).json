@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Frank Edwards",
+    "birth_place": "Merstham, Surrey, England",
+    "death_date": "1970",
+    "death_place": "Winscombe, Somerset, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium, Slow left-arm Left-arm medium, Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/12622.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "31",
+        "bat avg": "3.87",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "874",
+        "wickets": "19",
+        "bowl avg": "21.00",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "8/98",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1924\u20131933",
+        "Buckinghamshire": "1914\u20131946",
+        "Surrey": "1909"
+    },
+    "birth_date": "1888-5-23"
+}

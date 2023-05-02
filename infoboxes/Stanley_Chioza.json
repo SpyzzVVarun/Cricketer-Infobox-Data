@@ -1,0 +1,40 @@
+{
+    "name": "Stanley Chioza",
+    "birth_place": "Salisbury, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "https://www.espncricinfo.com/player/stanley-chioza-55349 ESPNcricinfo",
+    "FC": {
+        "matches": "4",
+        "runs": "159",
+        "bat avg": "19.87",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Manicaland": "2005/06",
+        "Mashonaland": "2004/05"
+    },
+    "birth_date": "1981-05-28"
+}

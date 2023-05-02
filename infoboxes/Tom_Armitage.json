@@ -1,0 +1,50 @@
+{
+    "name": "Tom Armitage",
+    "country": "England",
+    "fullname": "Thomas Armitage",
+    "birth_place": "Walkley, Yorkshire, England",
+    "death_date": "1922",
+    "death_place": "Chicago, Illinois, US",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "testdebutdate": "15 March",
+    "testdebutyear": "1877",
+    "testdebutagainst": "Australia",
+    "testcap": "1",
+    "lasttestdate": "4 April",
+    "lasttestyear": "1877",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/2/2.html ",
+    "Test": {
+        "matches": "2",
+        "runs": "33",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "12",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "First-class": {
+        "matches": "57",
+        "runs": "1,180",
+        "bat avg": "13.88",
+        "100s/50s": "\u2013/4",
+        "top score": "95",
+        "deliveries": "3,845",
+        "wickets": "121",
+        "bowl avg": "14.23",
+        "fivefor": "12",
+        "tenfor": "3",
+        "best bowling": "7/26",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1872\u20131878"
+    },
+    "birth_date": "1848-4-25"
+}

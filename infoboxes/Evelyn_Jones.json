@@ -1,0 +1,50 @@
+{
+    "name": "Evelyn Jones",
+    "female": "true",
+    "country": "England",
+    "fullname": "Evelyn Jones",
+    "birth_place": "Shrewsbury, Shropshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/308/308376/308376.html CricketArchive ",
+    "WLA": {
+        "matches": "96",
+        "runs": "2,819",
+        "bat avg": "34.80",
+        "100s/50s": "5/15",
+        "deliveries": "1,161",
+        "wickets": "26",
+        "bowl avg": "30.15",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/29",
+        "catches/stumpings": "34/\u2013"
+    },
+    "WT20": {
+        "matches": "134",
+        "runs": "2,874",
+        "bat avg": "25.21",
+        "100s/50s": "0/14",
+        "deliveries": "401",
+        "wickets": "17",
+        "bowl avg": "25.41",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Shropshire": "2008\u20132011",
+        "Staffordshire": "2012\u20132016",
+        "Loughborough Lightning": "2016",
+        "Lancashire": "2017\u20132019",
+        "Lancashire Thunder": "2017\u20132019",
+        "Canterbury": "2017/18",
+        "Warwickshire": "2020\u2013present",
+        "Central Sparks": "2020\u2013present",
+        "Birmingham Phoenix": "2021\u2013present",
+        "Melbourne Renegades": "2021/22\u2013present"
+    },
+    "birth_date": "1992-08-8"
+}

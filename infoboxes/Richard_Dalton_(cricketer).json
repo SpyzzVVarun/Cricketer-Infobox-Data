@@ -1,0 +1,28 @@
+{
+    "name": "Richard Dalton",
+    "country": "England",
+    "fullname": "Richard Neil Dalton",
+    "birth_place": "Portsmouth, Hampshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11793.html Cricinfo ",
+    "List A": {
+        "matches": "11",
+        "runs": "249",
+        "bat avg": "22.63",
+        "100s/50s": "0/3",
+        "top score": "76",
+        "deliveries": "400",
+        "wickets": "12",
+        "bowl avg": "31.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/28",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1997\u20131998",
+        "Bedfordshire": "1991\u20132001"
+    },
+    "birth_date": "1965-8-11"
+}

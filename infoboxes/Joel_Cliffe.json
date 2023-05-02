@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Joel Alexander Cliffe",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/11560.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "0.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "316",
+        "wickets": "2",
+        "bowl avg": "95.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/71",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge UCCE": "2001"
+    },
+    "birth_date": "1980-4-2"
+}

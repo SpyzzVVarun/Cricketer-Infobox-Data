@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "birth_place": "Friskney, Lincolnshire, England",
+    "death_date": "1926",
+    "death_place": "Spilsby, Lincolnshire, England",
+    "heightft": "5",
+    "heightinch": "11 title=Frederick Lillywhite's Cricket scores and Biographies",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/9151.html Cricinfo ",
+    "First-class": {
+        "matches": "75",
+        "runs": "1,922",
+        "bat avg": "15.37",
+        "100s/50s": "\u2013/4",
+        "top score": "78",
+        "deliveries": "440",
+        "wickets": "5",
+        "bowl avg": "37.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/4",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1862\u20131865",
+        "Marylebone Cricket Club": "1871\u20131886",
+        "Hampshire": "1875\u20131880"
+    }
+}

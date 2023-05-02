@@ -1,0 +1,28 @@
+{
+    "name": "John Lamb",
+    "country": "England",
+    "fullname": "Henry John Hey Lamb",
+    "birth_place": "Warkton, Northamptonshire, England",
+    "death_date": "1993",
+    "death_place": "Kettering, Northamptonshire, England",
+    "batting": "Right-handed",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/16437.html Cricinfo ",
+    "First-class": {
+        "matches": "38",
+        "runs": "1,085",
+        "bat avg": "16.95",
+        "100s/50s": "0/4",
+        "deliveries": "0",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "23/1"
+    },
+    "clubs": {
+        "Northamptonshire": "1934&ndash;1938"
+    },
+    "birth_date": "1912-5-3"
+}

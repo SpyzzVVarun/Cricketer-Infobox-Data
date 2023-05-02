@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Philip John Caley",
+    "birth_place": "Harwich, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/10641.html Cricinfo ",
+    "List A": {
+        "matches": "22",
+        "runs": "514",
+        "bat avg": "32.12",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "558",
+        "wickets": "6",
+        "bowl avg": "84.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/24",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "1982\u20132009"
+    },
+    "birth_date": "1962-10-18"
+}

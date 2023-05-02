@@ -1,0 +1,33 @@
+{
+    "name": "Halim Shah",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/17/17577/17577.html CricketArchive",
+    "First-class": {
+        "matches": "40",
+        "runs": "1,482",
+        "bat avg": "25.55",
+        "100s/50s": "2/7",
+        "deliveries": "294",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "26/\u2013"
+    },
+    "List A": {
+        "matches": "25",
+        "runs": "448",
+        "bat avg": "23.57",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {}
+}

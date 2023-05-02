@@ -1,0 +1,41 @@
+{
+    "name": "Bob Dudley-Jones",
+    "country": "England",
+    "fullname": "Robert David Louis Dudley-Jones",
+    "birth_place": "Bridgend, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/12329.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "15",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "533",
+        "wickets": "13",
+        "bowl avg": "27.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/31",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "175",
+        "wickets": "4",
+        "bowl avg": "32.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/31",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1972&ndash;1974"
+    },
+    "birth_date": "1952-5-26"
+}

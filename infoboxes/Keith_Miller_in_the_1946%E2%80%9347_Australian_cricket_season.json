@@ -1,0 +1,50 @@
+{
+    "name": "Keith Miller",
+    "country": "Australia",
+    "fullname": "Keith Ross Miller",
+    "nickname": "Nugget",
+    "birth_place": "Sunshine, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Mornington, Victoria, Australia",
+    "heightm": "1.88",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "All-rounder",
+    "testdebutdate": "29 November",
+    "testdebutyear": "1946",
+    "testdebutagainst": "England",
+    "lasttestdate": "28 February",
+    "lasttestyear": "1947",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/cgi-bin/player_oracle_reveals_results2.cgi?playernumber=741&opponentmatch=exact&playername=Miller&resulttype=All&matchtype=All&teammatch=exact&startwicket=&homeawaytype=All&opponent=&endwicket=&wicketkeeper=&searchtype=InningsList&endscore=&playermatch=contains&branding=cricketarchive&captain=&endseason=1946/47&startscore=&team=&startseason=1946/47 ",
+    "Tests": {
+        "matches": "5",
+        "runs": "384",
+        "bat avg": "76.80",
+        "100s/50s": "1/1",
+        "deliveries": "979",
+        "wickets": "16",
+        "bowl avg": "20.88",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/60",
+        "catches/stumpings": "6/\u2013"
+    },
+    "First-class": {
+        "matches": "13",
+        "runs": "1,202",
+        "bat avg": "75.12",
+        "100s/50s": "4/3",
+        "deliveries": "1,967",
+        "wickets": "32",
+        "bowl avg": "22.65",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/60",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1946/47"
+    },
+    "birth_date": "1919-11-28"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Henry Richards",
+    "birth_place": "Keevil, Wiltshire, England",
+    "death_date": "1912",
+    "death_place": "Westridge, Isle of Wight, England",
+    "family": "Arthur Richards (son)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19672.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "39",
+        "bat avg": "19.50",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1866"
+    }
+}

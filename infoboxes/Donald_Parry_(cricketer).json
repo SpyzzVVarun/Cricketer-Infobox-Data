@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Donald Morris Parry",
+    "birth_place": "Hatch End, Middlesex, England",
+    "death_date": "2002",
+    "death_place": "Stalham, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18778.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "574",
+        "bat avg": "22.07",
+        "100s/50s": "\u2013/2",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1931&ndash;1932"
+    }
+}

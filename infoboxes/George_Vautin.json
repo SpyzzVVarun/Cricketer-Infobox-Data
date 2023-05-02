@@ -1,0 +1,45 @@
+{
+    "name": "George Vautin",
+    "birth_name": "George James Phillips Vautin",
+    "birth_place": "Orielton, Tasmania",
+    "death_date": "1949",
+    "death_place": "East Melbourne, Victoria",
+    "nationality": "Australian",
+    "module": "Infobox AFL biography",
+    "embed": "yes  ",
+    "originalteam": "City (Hobart)",
+    "statsend": "1898",
+    "years1": "1892\u20131896",
+    "games_goals1": "087 (13)",
+    "years2": "1897\u20131898",
+    "games_goals2": "026 0(1)",
+    "games_goalstotal": "113 (14)",
+    "careerhighlights": [
+        "VFA premiership player 1892\u20131894",
+        "VFL premiership player: 1897  |module2= Infobox cricketer"
+    ],
+    "country": "Australia",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "8 January",
+    "debutyear1": "1890",
+    "debutfor1": "Tasmania",
+    "debutagainst1": "Victoria",
+    "lastdate1": "26 January",
+    "lastyear1": "1895",
+    "lastfor1": "Victoria",
+    "lastagainst1": "Tasmania",
+    "source": "https://cricketarchive.com/Archive/Players/2/2758/2758.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "55",
+        "bat avg": "18.33",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1889/90",
+        "Victoria": "1894/95"
+    }
+}

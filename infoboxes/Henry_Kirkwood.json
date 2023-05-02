@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Henry Raphael Kirkwood",
+    "birth_place": "Hartley Wintney, Hampshire, England",
+    "death_date": "1954",
+    "death_place": "Folkestone, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/16069.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "127",
+        "bat avg": "15.87",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "deliveries": "630",
+        "wickets": "12",
+        "bowl avg": "30.16",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/100",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,42 @@
+{
+    "name": "John Waring",
+    "country": "England",
+    "fullname": "John Shaw Waring",
+    "birth_place": "Ripon, North Riding of Yorkshire",
+    "batting": "Right-handed",
+    "bowling": "Right arm fast Right arm fast medium",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/player/john-waring-22745 ESPN cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "152",
+        "bat avg": "10.85",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "2,762",
+        "wickets": "55",
+        "bowl avg": "22.74",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/40",
+        "catches/stumpings": "17/0"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Yorkshire": "1963\u20131966",
+        "Warwickshire": "1967"
+    },
+    "birth_date": "1942-10-1"
+}

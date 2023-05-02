@@ -1,0 +1,29 @@
+{
+    "name": "Fred Coyle",
+    "country": "England",
+    "fullname": "Frederick Thomas Coyle",
+    "birth_place": "Taunton, Somerset",
+    "death_date": "df=yes",
+    "death_place": "Halifax, Yorkshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/3/3503/3503.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "132",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/2",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1903\u201305"
+    },
+    "birth_date": "1869-07-25"
+}

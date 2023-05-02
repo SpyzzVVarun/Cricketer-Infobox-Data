@@ -1,0 +1,26 @@
+{
+    "name": "Clive Richardson",
+    "country": "South Africa",
+    "birth_place": "Bloemfontein, Orange Free State, South Africa",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/47113.html Cricinfo ",
+    "First-class": {
+        "matches": "54",
+        "runs": "3312",
+        "bat avg": "35.23",
+        "100s/50s": "8/13",
+        "top score": "258",
+        "deliveries": "25",
+        "wickets": "1",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/38",
+        "catches/stumpings": "25/0"
+    },
+    "clubs": {
+        "Orange Free State": "1950-51 to 1964-65"
+    },
+    "birth_date": "1932-11-3"
+}

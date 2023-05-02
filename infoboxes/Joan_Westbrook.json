@@ -1,0 +1,40 @@
+{
+    "name": "Joan Westbrook",
+    "female": "true",
+    "fullname": "Joan Hilda Westbrook",
+    "birth_place": "Hackney, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Sutton, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1954",
+    "country": "England",
+    "testdebutdate": "12 June",
+    "testdebutyear": "1954",
+    "testdebutagainst": "New Zealand",
+    "testcap": "40",
+    "lasttestdate": "24 July",
+    "lasttestyear": "1954",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/10/10881/10881.html CricketArchive",
+    "WTest": {
+        "matches": "3",
+        "runs": "34",
+        "bat avg": "6.80",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "3/0"
+    },
+    "WFC": {
+        "matches": "16",
+        "runs": "199",
+        "bat avg": "9.04",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "17/6"
+    },
+    "clubs": {
+        "Surrey": "1949\u20131981"
+    },
+    "birth_date": "1923-2-17"
+}

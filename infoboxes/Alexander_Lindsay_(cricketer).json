@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Lindsay",
+    "birth_place": "Broughty Ferry, Angus, Scotland",
+    "death_date": "1941",
+    "death_place": "Dundee, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "https://www.espncricinfo.com/player/alexander-lindsay-25267 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1909"
+    }
+}

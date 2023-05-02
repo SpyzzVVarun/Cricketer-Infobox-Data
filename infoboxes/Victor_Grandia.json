@@ -1,0 +1,31 @@
+{
+    "name": "Victor Grandia",
+    "country": "Netherlands",
+    "fullname": "Victor D Grandia",
+    "birth_place": "Amsterdam, Netherlands",
+    "internationalspan": "2002",
+    "oneodi": "true",
+    "odidebutdate": "16 September",
+    "odidebutyear": "2002",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "16",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/netherlands/content/player/24903.html Cricinfo  ",
+    "ODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "40.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/40",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1979-01-10"
+}

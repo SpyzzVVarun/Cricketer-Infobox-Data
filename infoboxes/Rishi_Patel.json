@@ -1,0 +1,48 @@
+{
+    "name": "Rishi Patel",
+    "country": "England",
+    "fullname": "Rishi Ketan Patel",
+    "birth_place": "Chigwell, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "type1": "First-class",
+    "debutdate1": "26 March",
+    "debutyear1": "2019",
+    "debutfor1": "Essex",
+    "debutagainst1": "Cambridge MCCU",
+    "type2": "List A",
+    "debutdate2": "28 April",
+    "debutyear2": "2019",
+    "debutfor2": "Essex",
+    "debutagainst2": "Hampshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/857653.html Cricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "884",
+        "bat avg": "26.00",
+        "100s/50s": "1/3",
+        "top score": "125",
+        "catches/stumpings": "16/\u2013"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "491",
+        "bat avg": "25.84",
+        "100s/50s": "1/2",
+        "top score": "118",
+        "catches/stumpings": "13/\u2013"
+    },
+    "T20": {
+        "matches": "28",
+        "runs": "403",
+        "bat avg": "16.79",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Essex( 12 )": "2019\u20132020",
+        "Leicestershire( 26 )": "2021\u2013present"
+    },
+    "birth_date": "1998-7-26"
+}

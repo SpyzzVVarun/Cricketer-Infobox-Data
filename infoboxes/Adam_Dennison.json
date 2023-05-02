@@ -1,0 +1,45 @@
+{
+    "name": "Adam Dennison",
+    "country": "Ireland",
+    "fullname": "Adam Dennison",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "30 May",
+    "debutyear1": "2017",
+    "debutfor1": "Northern",
+    "debutagainst1": "North West",
+    "type2": "List A",
+    "debutdate2": "29 May",
+    "debutyear2": "2017",
+    "debutfor2": "Northern",
+    "debutagainst2": "North West",
+    "source": "http://www.espncricinfo.com/ci/content/player/526444.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "45",
+        "bat avg": "11.25",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "60",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "176",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northern Knights": "2014\u2013present"
+    },
+    "birth_date": "1997-5-3"
+}

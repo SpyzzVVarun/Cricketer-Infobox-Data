@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "J. James",
+    "source": "http://www.espncricinfo.com/england/content/player/15648.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "0.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "246",
+        "wickets": "2",
+        "bowl avg": "62.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/14",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1906"
+    }
+}

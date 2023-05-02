@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "James Grantham Faithfull",
+    "birth_place": "Hatfield, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London, England",
+    "family": "Valentine Faithfull (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13254.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1839"
+    }
+}

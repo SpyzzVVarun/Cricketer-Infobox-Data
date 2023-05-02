@@ -1,0 +1,27 @@
+{
+    "name": "Debbie Kooij",
+    "female": "true",
+    "birth_place": "Nijmegen, Netherlands",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "country": "Netherlands",
+    "internationalspan": "1999\u20132003",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1999",
+    "odidebutagainst": "England",
+    "odicap": "53",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Players/17/17203/17203.html CricketArchive ",
+    "WODI": {
+        "matches": "7",
+        "runs": "123",
+        "bat avg": "17.57",
+        "100s/50s": "0/1",
+        "top score": "78",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1968-12-27"
+}

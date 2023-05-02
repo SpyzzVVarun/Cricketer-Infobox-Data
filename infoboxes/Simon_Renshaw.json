@@ -1,0 +1,42 @@
+{
+    "name": "Simon Renshaw",
+    "country": "England",
+    "fullname": "Simon John Renshaw",
+    "birth_place": "Bebington, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.cricinfo.com/ci/content/player/19370.html Cricinfo ",
+    "FC": {
+        "matches": "39",
+        "runs": "459",
+        "bat avg": "16.39",
+        "100s/50s": "&ndash;/1",
+        "top score": "56",
+        "deliveries": "6,504",
+        "wickets": "93",
+        "bowl avg": "38.49",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/110",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "LA": {
+        "matches": "60",
+        "runs": "233",
+        "bat avg": "12.26",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "2,694",
+        "wickets": "77",
+        "bowl avg": "28.57",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/25",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "2005",
+        "Cheshire": "1994&ndash;1996",
+        "Hampshire": "1996&ndash;2000"
+    },
+    "birth_date": "1974-3-6"
+}

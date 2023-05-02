@@ -1,0 +1,34 @@
+{
+    "name": "James Govan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/11/11287/11287.html CricketArchive",
+    "First-class": {
+        "matches": "13",
+        "runs": "142",
+        "bat avg": "10.14",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "2,433",
+        "wickets": "42",
+        "bowl avg": "27.45",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/70",
+        "catches/stumpings": "6/\u2013"
+    },
+    "List A": {
+        "matches": "30",
+        "runs": "321",
+        "bat avg": "17.83",
+        "100s/50s": "0/0",
+        "deliveries": "1,436",
+        "wickets": "21",
+        "bowl avg": "49.04",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/55",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {}
+}

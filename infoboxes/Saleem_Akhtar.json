@@ -1,0 +1,31 @@
+{
+    "name": "Saleem Akhtar",
+    "country": "Pakistan",
+    "fullname": "Raja Saleem Akhtar",
+    "birth_place": "Gujranwala, Punjab, British India",
+    "death_date": "2004",
+    "death_place": "Lahore, Punjab, Pakistan",
+    "family": "Wasim Raja (son)",
+    "batting": "Right-handed",
+    "bowling": "Legbreak. Legbreak. googly",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/42977.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "187",
+        "bat avg": "10.38",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "586",
+        "wickets": "17",
+        "bowl avg": "18.29",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/34",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Multan": "1958/59\u20131959/60",
+        "Sargodha": "1961/62\u20131962/63"
+    },
+    "birth_date": "1930-9-8"
+}

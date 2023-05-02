@@ -1,0 +1,26 @@
+{
+    "name": "William Mills",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1962",
+    "death_place": "Auckland, New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/37929.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "210",
+        "bat avg": "26.25",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "892",
+        "wickets": "28",
+        "bowl avg": "14.32",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "6/35",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Taranaki": "1894-95",
+        "Auckland": "1900-01 to 1903-04"
+    },
+    "birth_date": "1875-3-19"
+}

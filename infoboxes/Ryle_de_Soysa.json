@@ -1,0 +1,28 @@
+{
+    "country": "Sri Lanka",
+    "fullname": "Gahmini Ryle Johannes de Soysa",
+    "birth_place": "Colombo, Western Province,, British Ceylon",
+    "death_date": "df=yes",
+    "death_place": "Colombo, Western Province,, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/48635.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "314",
+        "bat avg": "20.93",
+        "100s/50s": "\u2013/2",
+        "top score": "67",
+        "deliveries": "32",
+        "wickets": "2",
+        "bowl avg": "7.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1938&ndash;1939",
+        "Ceylon": "1944/45"
+    }
+}

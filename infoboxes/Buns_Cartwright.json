@@ -1,0 +1,30 @@
+{
+    "name": "Buns Cartwright",
+    "country": "England",
+    "fullname": "George Hamilton Grahame Montagu Cartwright",
+    "nickname": "Buns",
+    "birth_place": "Westminster, London, England",
+    "death_date": "1976",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11047.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "523",
+        "bat avg": "22.73",
+        "100s/50s": "0/3",
+        "top score": "65 not out",
+        "deliveries": "1831",
+        "wickets": "32",
+        "bowl avg": "35.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/79",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1909\u20131910"
+    },
+    "birth_date": "1889-4-23"
+}

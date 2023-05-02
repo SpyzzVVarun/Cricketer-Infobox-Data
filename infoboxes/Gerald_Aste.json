@@ -1,0 +1,39 @@
+{
+    "name": "Gerald Aste",
+    "country": "India",
+    "birth_place": "Beckenham, South London, England",
+    "death_date": "1961",
+    "death_place": "Salisbury, Wiltshire, England",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "8 January",
+    "debutyear1": "1922",
+    "debutfor1": "Europeans (India)",
+    "debutagainst1": "Indians",
+    "lastdate1": "15 February",
+    "lastyear1": "1936",
+    "lastfor1": "Delhi",
+    "lastagainst1": "Northern India",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/12/12640/12640.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "164",
+        "bat avg": "9.11",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "1214",
+        "wickets": "19",
+        "bowl avg": "27.05",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "27.05",
+        "catches/stumpings": "15/0"
+    },
+    "clubs": {
+        "Delhi": "1936",
+        "Cricket Club of India": "1936",
+        "Sind": "1933",
+        "Europeans (India)": "1922-1927"
+    },
+    "birth_date": "1900-7-30"
+}

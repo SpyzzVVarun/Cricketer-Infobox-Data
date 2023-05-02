@@ -1,0 +1,44 @@
+{
+    "country": "South Africa",
+    "fullname": "Bradley Lewis Wadlan",
+    "birth_place": "Bridgend, Glamorgan, Wales",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/295397.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "813",
+        "bat avg": "31.26",
+        "100s/50s": "\u2013/6",
+        "top score": "77",
+        "deliveries": "2,543",
+        "wickets": "67",
+        "bowl avg": "18.98",
+        "fivefor": "3",
+        "tenfor": "2",
+        "best bowling": "7/30",
+        "catches/stumpings": "5/\u2013"
+    },
+    "List A": {
+        "matches": "22",
+        "runs": "364",
+        "bat avg": "19.15",
+        "100s/50s": "\u2013/2",
+        "deliveries": "828",
+        "wickets": "20",
+        "bowl avg": "28.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/24",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Wales Minor Counties": "2018",
+        "Herefordshire": "2011&ndash;2014",
+        "Unicorns": "2011&ndash;2013",
+        "Mid West Rhinos": "2013/14&ndash;2014/15",
+        "Cornwall": "2015&ndash;2017",
+        "Midlands Rhinos": "2017/18"
+    },
+    "birth_date": "1988-12-14"
+}

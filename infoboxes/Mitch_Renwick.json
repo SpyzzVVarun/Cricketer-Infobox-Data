@@ -1,0 +1,37 @@
+{
+    "name": "Mitch Renwick",
+    "fullname": "Mitchell Renwick",
+    "birth_place": "Palmerston North, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batsman, occasional wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/mitch-renwick-875609 Cricinfo ",
+    "FC": {
+        "matches": "41",
+        "runs": "1,842",
+        "bat avg": "25.23",
+        "100s/50s": "3/5",
+        "top score": "134",
+        "catches/stumpings": "44/1"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "837",
+        "bat avg": "26.15",
+        "100s/50s": "0/4",
+        "top score": "75",
+        "catches/stumpings": "31/5"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "110",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "2/2"
+    },
+    "clubs": {
+        "Central Districts": "2015/16\u20132017/18",
+        "Otago": "2018/19\u20132021/22"
+    },
+    "birth_date": "1993-2-23"
+}

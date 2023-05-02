@@ -1,0 +1,26 @@
+{
+    "name": "Edward Fitzsimmons",
+    "country": "New Zealand",
+    "death_date": "28 January 1942",
+    "death_place": "Wanganui, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37048.html Cricinfo",
+    "First-class": {
+        "matches": "15",
+        "runs": "134",
+        "bat avg": "6.70",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "1636",
+        "wickets": "33",
+        "bowl avg": "20.69",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/39",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1889-90 to 1895-96"
+    }
+}

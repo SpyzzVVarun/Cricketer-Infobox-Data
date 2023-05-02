@@ -1,0 +1,36 @@
+{
+    "name": "Mluleki Nkala",
+    "country": "Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/55663.html Cricinfo  ",
+    "Test": {
+        "matches": "10",
+        "runs": "187",
+        "bat avg": "14.38",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "1452",
+        "wickets": "11",
+        "bowl avg": "66.09",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/82",
+        "catches/stumpings": "4/\u2013"
+    },
+    "ODI": {
+        "matches": "50",
+        "runs": "324",
+        "bat avg": "10.80",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "1,582",
+        "wickets": "22",
+        "bowl avg": "71.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Chris Taylor",
+    "country": "England",
+    "fullname": "Christopher Glyn Taylor",
+    "birth_place": "Bristol, England",
+    "heightft": "5",
+    "heightinch": "8",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/21475.html ",
+    "FC": {
+        "matches": "160",
+        "runs": "9,083",
+        "bat avg": "34.93",
+        "100s/50s": "20/43",
+        "top score": "196",
+        "deliveries": "2,527",
+        "wickets": "28",
+        "bowl avg": "52.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/52",
+        "catches/stumpings": "101/0"
+    },
+    "LA": {
+        "matches": "181",
+        "runs": "3,716",
+        "bat avg": "26.73",
+        "100s/50s": "2/21",
+        "top score": "105",
+        "deliveries": "700",
+        "wickets": "16",
+        "bowl avg": "38.31",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/5",
+        "catches/stumpings": "76/1"
+    },
+    "T20": {
+        "matches": "79",
+        "runs": "1,416",
+        "bat avg": "23.21",
+        "100s/50s": "0/6",
+        "top score": "83",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "60.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/22",
+        "catches/stumpings": "26/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1999-2011"
+    },
+    "birth_date": "1976-9-27"
+}

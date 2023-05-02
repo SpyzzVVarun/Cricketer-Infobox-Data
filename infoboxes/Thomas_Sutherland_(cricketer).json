@@ -1,0 +1,24 @@
+{
+    "name": "Thomas Sutherland",
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/20418.html Cricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "74",
+        "bat avg": "14.80",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "767",
+        "wickets": "11",
+        "bowl avg": "40.54",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/111",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1898&ndash;1899"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Henriette Hansen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Henriette Hansen",
+    "odidebutdate": "18 July",
+    "odidebutyear": "1995",
+    "odidebutagainst": "Ireland",
+    "odicap": "25",
+    "lastodidate": "26 July",
+    "lastodiyear": "1998",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54971.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "6",
+        "runs": "14",
+        "bat avg": "2.80",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Aditya Tare",
+    "country": "India",
+    "fullname": "Aditya Prakash Tare",
+    "birth_place": "Saphale, Maharashtra, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsman",
+    "source": "http://www.cricinfo.com/india/content/player/333904.html Cricinfo ",
+    "FC": {
+        "matches": "80",
+        "runs": "4,523",
+        "bat avg": "36.77",
+        "100s/50s": "9/27",
+        "top score": "222",
+        "catches/stumpings": "263/25"
+    },
+    "LA": {
+        "matches": "73",
+        "runs": "1,841",
+        "bat avg": "36.09",
+        "100s/50s": "1/12",
+        "catches/stumpings": "109/13"
+    },
+    "T20": {
+        "matches": "117",
+        "runs": "2,361",
+        "bat avg": "27.13",
+        "100s/50s": "0/10",
+        "top score": "82",
+        "catches/stumpings": "60/19"
+    },
+    "clubs": {
+        "Mumbai": "2008\u20132022",
+        "Mumbai Indians( 27 )": "2018\u20132021",
+        "Sunrisers Hyderabad( 27 )": "2016",
+        "Delhi Daredevils( 27 )": "2017",
+        "Uttarakhand": "2022\u2013present"
+    },
+    "birth_date": "1987-11-7"
+}

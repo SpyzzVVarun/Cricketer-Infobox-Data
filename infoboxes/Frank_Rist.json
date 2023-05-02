@@ -1,0 +1,27 @@
+{
+    "name": "Frank Rist",
+    "fullname": "Frank Henry Rist",
+    "birth_place": "Wandsworth, London, England",
+    "death_date": "2001",
+    "death_place": "Whipps Cross, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/19420.html Cricinfo ",
+    "FC": {
+        "matches": "65",
+        "runs": "1,496",
+        "bat avg": "15.11",
+        "100s/50s": "0/3",
+        "wickets": "1",
+        "bowl avg": "8.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "35/5"
+    },
+    "clubs": {
+        "Essex": "1934-1953"
+    },
+    "birth_date": "1914-3-30"
+}

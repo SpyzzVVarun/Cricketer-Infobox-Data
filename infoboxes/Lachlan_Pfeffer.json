@@ -1,0 +1,34 @@
+{
+    "name": "Lachlan Pfeffer",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/333800.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "214",
+        "bat avg": "19.45",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "1/1"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "109",
+        "bat avg": "27.25",
+        "100s/50s": "0/1",
+        "top score": "69",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Queensland( 33 )": "2017/18\u20152019/20"
+    },
+    "birth_date": "1991-4-8"
+}

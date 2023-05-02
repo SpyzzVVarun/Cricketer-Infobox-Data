@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "Peter John Lewington",
+    "birth_place": "Finchampstead, Berkshire, England",
+    "death_date": "2017",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/16562.html Cricinfo ",
+    "FC": {
+        "matches": "72",
+        "runs": "383",
+        "bat avg": "7.36",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "12,469",
+        "wickets": "191",
+        "bowl avg": "45.93",
+        "fivefor": "6",
+        "tenfor": "\u2013",
+        "best bowling": "7/52",
+        "catches/stumpings": "31/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "438",
+        "wickets": "8",
+        "bowl avg": "33.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/23",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1967\u20131969",
+        "Minor Counties West": "1978",
+        "DH Robins' XI": "1972/73",
+        "Warwickshire": "1970\u20131982"
+    },
+    "birth_date": "1950-1-30"
+}

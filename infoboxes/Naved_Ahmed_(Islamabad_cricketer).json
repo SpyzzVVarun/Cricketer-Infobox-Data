@@ -1,0 +1,40 @@
+{
+    "name": "Naved Ahmed",
+    "birth_place": "Islamabad, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/19/19509/19509.html CricketArchive ",
+    "FC": {
+        "matches": "27",
+        "runs": "669",
+        "bat avg": "15.20",
+        "100s/50s": "0/3",
+        "top score": "72",
+        "deliveries": "271",
+        "wickets": "3",
+        "bowl avg": "65.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/22",
+        "catches/stumpings": "33/\u2013"
+    },
+    "LA": {
+        "matches": "15",
+        "runs": "359",
+        "bat avg": "23.93",
+        "100s/50s": "1/1",
+        "top score": "120",
+        "deliveries": "2",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "0/4",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Islamabad": "1993\u20132001"
+    },
+    "birth_date": "1971-4-22"
+}

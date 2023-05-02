@@ -1,0 +1,62 @@
+{
+    "name": "Victoria Lind",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Victoria Jayne Lind",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2009\u20132010",
+    "odidebutdate": "10 February",
+    "odidebutyear": "2010",
+    "odidebutagainst": "Australia",
+    "odicap": "113",
+    "lastodidate": "7 March",
+    "lastodiyear": "2010",
+    "lastodiagainst": "Australia",
+    "T20Idebutdate": "1 June",
+    "T20Idebutyear": "2009",
+    "T20Idebutagainst": "Australia",
+    "T20Icap": "27",
+    "lastT20Idate": "3 June",
+    "lastT20Iyear": "2009",
+    "lastT20Iagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/44/44461/44461.html CricketArchive",
+    "WODI": {
+        "matches": "8",
+        "runs": "178",
+        "bat avg": "22.25",
+        "100s/50s": "0/1",
+        "top score": "68",
+        "catches/stumpings": "5/0"
+    },
+    "WT20I": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "134",
+        "runs": "2,887",
+        "bat avg": "26.73",
+        "100s/50s": "0/16",
+        "top score": "91",
+        "catches/stumpings": "71/17"
+    },
+    "WT20": {
+        "matches": "58",
+        "runs": "869",
+        "bat avg": "17.38",
+        "100s/50s": "0/3",
+        "top score": "78",
+        "catches/stumpings": "21/22"
+    },
+    "clubs": {
+        "Auckland": "2003/04\u20132016/17",
+        "Berkshire": "2007"
+    },
+    "birth_date": "1985-5-15"
+}

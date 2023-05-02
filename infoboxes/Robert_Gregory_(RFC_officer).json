@@ -1,0 +1,35 @@
+{
+    "name": "William Robert Gregory",
+    "country": "Ireland",
+    "birth_place": "London, England",
+    "death_date": "df=yes",
+    "death_place": "Monastiero, Padua, Italy",
+    "batting": "Right-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "family": "William Henry Gregory (father)",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "30 August",
+    "debutyear1": "1912",
+    "debutfor1": "Ireland",
+    "debutagainst1": "Scotland",
+    "source": "https://cricketarchive.com/Archive/Players/26/26761/26761.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "162",
+        "wickets": "9",
+        "bowl avg": "10.22",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "8/80",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Ireland cricket team": "1912"
+    },
+    "birth_date": "1881-05-21"
+}

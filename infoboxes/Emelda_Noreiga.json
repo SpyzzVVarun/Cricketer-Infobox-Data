@@ -1,0 +1,27 @@
+{
+    "name": "Emelda Noreiga",
+    "female": "yes",
+    "fullname": "Emelda Noreiga",
+    "birth_place": "Trinidad",
+    "role": "Wicket-keeper",
+    "country": "Trinidad and Tobago",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "New Zealand",
+    "odicap": "7",
+    "lastodidate": "14 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "Young England",
+    "source": "http://www.espncricinfo.com/ci/content/player/55145.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "4",
+        "runs": "14",
+        "bat avg": "3.5",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "South Trinidad Women": "1971"
+    }
+}

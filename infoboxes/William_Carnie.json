@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "William Dugald Carnie",
+    "birth_place": "Greenock, Renfrewshire, Scotland",
+    "death_date": "1980",
+    "death_place": "Saint-Lambert, Quebec, Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/william-carnie-25164 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1925"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "T. E. Srinivasan",
+    "full_name": "Tirumalai Echambadi Srinivasan",
+    "birth_place": "Madras, Tamil Nadu, India",
+    "death_date": "df=y",
+    "country": "India",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "onetest": "yes",
+    "testdebutdate": "13 March",
+    "testdebutyear": "1981",
+    "testdebutagainst": "New Zealand",
+    "testcap": "153",
+    "odidebutdate": "6 December",
+    "odidebutyear": "1980",
+    "odidebutagainst": "Australia",
+    "odicap": "33",
+    "lastodidate": "10 January",
+    "lastodiyear": "1981",
+    "lastodiagainst": "New Zealand",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/34109.html CricInfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "48",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1950-10-26"
+}

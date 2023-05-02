@@ -1,0 +1,44 @@
+{
+    "name": "Mark Patterson",
+    "country": "Ireland",
+    "fullname": "Mark William Patterson",
+    "birth_place": "Belfast, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Andrew Patterson (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/24265.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "243",
+        "wickets": "10",
+        "bowl avg": "16.30",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/80",
+        "catches/stumpings": "0/\u2014"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "25",
+        "bat avg": "3.57",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "663",
+        "wickets": "20",
+        "bowl avg": "33.05",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/39",
+        "catches/stumpings": "4/\u2014"
+    },
+    "clubs": {
+        "Ireland": "1995\u20141996",
+        "Surrey": "1996\u20141999",
+        "Bedfordshire": "2002\u20142005"
+    },
+    "birth_date": "1974-2-2"
+}

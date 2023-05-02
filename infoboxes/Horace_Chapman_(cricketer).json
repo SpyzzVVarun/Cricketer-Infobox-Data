@@ -1,0 +1,42 @@
+{
+    "name": "Horace Chapman",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "14 February",
+    "testdebutyear": "1914",
+    "lasttestdate": "5 November",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1921",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/44430.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "39",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "126",
+        "wickets": "1",
+        "bowl avg": "104.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "18",
+        "runs": "587",
+        "bat avg": "20.96",
+        "100s/50s": "0/3",
+        "top score": "71",
+        "deliveries": "1,254",
+        "wickets": "30",
+        "bowl avg": "25.23",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {}
+}

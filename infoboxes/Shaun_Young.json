@@ -1,0 +1,60 @@
+{
+    "name": "Shaun Young",
+    "birth_place": "Burnie, Tasmania, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "21 August",
+    "testdebutyear": "1997",
+    "onetest": "true",
+    "testcap": "372",
+    "source": "http://www.espncricinfo.com/ci/content/player/8457.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "138",
+        "runs": "7,212",
+        "bat avg": "37.95",
+        "100s/50s": "14/44",
+        "top score": "237",
+        "deliveries": "20,630",
+        "wickets": "274",
+        "bowl avg": "35.82",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "7/64",
+        "catches/stumpings": "82/\u2013"
+    },
+    "LA": {
+        "matches": "102",
+        "runs": "2,486",
+        "bat avg": "32.28",
+        "100s/50s": "1/18",
+        "deliveries": "4,313",
+        "wickets": "88",
+        "bowl avg": "34.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/39",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1991/92\u20132001/02",
+        "Gloucestershire": "1997",
+        "Bedfordshire": "2001\u20132003"
+    },
+    "birth_date": "1970-06-13"
+}

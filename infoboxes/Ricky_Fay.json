@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Richard Anthony Fay",
+    "birth_place": "Kilburn, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12816.html Cricinfo ",
+    "FC": {
+        "matches": "16",
+        "runs": "164",
+        "bat avg": "7.45",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "2,178",
+        "wickets": "31",
+        "bowl avg": "36.96",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/53",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "31",
+        "runs": "61",
+        "bat avg": "8.71",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "1,362",
+        "wickets": "31",
+        "bowl avg": "31.22",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/33",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Middlesex Cricket Board": "2000",
+        "Middlesex": "1995\u20131997"
+    },
+    "birth_date": "1975-6-14"
+}

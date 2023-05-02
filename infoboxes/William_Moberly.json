@@ -1,0 +1,23 @@
+{
+    "name": "William Moberly",
+    "country": "England",
+    "fullname": "William Octavius Moberly",
+    "birth_place": "Shoreham-by-Sea, Sussex",
+    "death_date": "1914",
+    "death_place": "Mullion, Cornwall",
+    "batting": "Right-handed",
+    "role": "Batsman, Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/31/31510/31510.html CricketArchive ",
+    "First-class": {
+        "matches": "66",
+        "runs": "2104",
+        "bat avg": "21.46",
+        "100s/50s": "3/9",
+        "top score": "121",
+        "catches/stumpings": "48/16"
+    },
+    "clubs": {
+        "Gloucestershire": "1876\u20131887"
+    },
+    "birth_date": "1850-11-14"
+}

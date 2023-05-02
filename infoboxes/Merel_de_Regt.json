@@ -1,0 +1,27 @@
+{
+    "name": "Merel de Regt",
+    "female": "true",
+    "fullname": "Merel A de Regt",
+    "birth_place": "s-Gravenhage, The Hague, Netherlands",
+    "role": "Wicket-keeper",
+    "country": "Netherlands",
+    "internationalspan": "2003",
+    "odidebutdate": "21 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Scotland",
+    "odicap": "63",
+    "lastodidate": "25 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Ireland",
+    "source": "https://www.espncricinfo.com/player/merel-de-regt-54694 ESPNcricinfo",
+    "WODI": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "4/2"
+    },
+    "clubs": {},
+    "birth_date": "1981-12-14"
+}

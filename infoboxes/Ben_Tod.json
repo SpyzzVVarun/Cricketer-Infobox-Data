@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Ben Ross Tod",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1967",
+    "death_place": "Belmont, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/player/ben-tod-25381 Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "387",
+        "bat avg": "22.76",
+        "100s/50s": "1/\u2013",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "23.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/17",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1930&ndash;1939"
+    }
+}

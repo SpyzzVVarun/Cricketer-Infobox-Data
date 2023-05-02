@@ -1,0 +1,31 @@
+{
+    "name": "Norman Bowell",
+    "country": "England",
+    "fullname": "Norman Henry Bowell",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "death_date": "1943",
+    "death_place": "Balalae Island, British Solomon Islands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "family": "Alex Bowell (father)",
+    "source": "http://www.cricinfo.com/ci/content/player/9173.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "56",
+        "bat avg": "18.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "deliveries": "84",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1924",
+        "Northamptonshire": "1925",
+        "Oxfordshire": "1927\u20131931"
+    }
+}

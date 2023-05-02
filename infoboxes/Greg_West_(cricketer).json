@@ -1,0 +1,43 @@
+{
+    "name": "Greg West",
+    "country": "Australia",
+    "fullname": "Gregory Aaron West",
+    "birth_place": "Belmont, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/588906.html ESPNcricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "338",
+        "wickets": "8",
+        "bowl avg": "23.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/30",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "\u2014",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "2",
+        "bowl avg": "42.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Adelaide Strikers( 67 )": "2015/16",
+        "New South Wales( 76 )": "2018\u2014",
+        "Sydney Sixers( 76 )": "2018\u2014"
+    },
+    "birth_date": "1994-7-25"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Julie Calvert",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "24 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "West Indies",
+    "odicap": "70",
+    "lastodidate": "22 January",
+    "lastodiyear": "1994",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/53594.html CricInfo ",
+    "ODI": {
+        "matches": "6",
+        "runs": "96",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "WNCL": {
+        "matches": "11",
+        "runs": "129",
+        "bat avg": "25.80",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {
+        "Victorian state women's cricket team": "1987/88-1996-97"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "George Jones",
+    "country": "Scotland",
+    "fullname": "George Lennard Jones",
+    "birth_place": "Lockerbie, Dumfriesshire, Scotland",
+    "death_date": "1954",
+    "death_place": "Aston Reynold, Shropshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/15544.html Cricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "169",
+        "bat avg": "14.08",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1937"
+    },
+    "birth_date": "1907-2-11"
+}

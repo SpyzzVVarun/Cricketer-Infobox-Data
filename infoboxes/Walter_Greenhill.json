@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Walter Greenhill",
+    "birth_place": "St John's Wood, London, England",
+    "death_date": "1913",
+    "death_place": "Warsash, Hampshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/13745.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "24",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "87",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1868"
+    },
+    "birth_date": "1849-6-19"
+}

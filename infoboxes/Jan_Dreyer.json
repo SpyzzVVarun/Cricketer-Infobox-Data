@@ -1,0 +1,43 @@
+{
+    "country": "South Africa",
+    "fullname": "Jan Nicolaas Dreyer",
+    "birth_place": "Amanzimtoti, Natal Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/44723.html Cricinfo ",
+    "FC": {
+        "matches": "26",
+        "runs": "248",
+        "bat avg": "10.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "40",
+        "deliveries": "4,450",
+        "wickets": "69",
+        "bowl avg": "39.98",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "5/81",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "175",
+        "bat avg": "12.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1,138",
+        "wickets": "28",
+        "bowl avg": "37.35",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/38",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire Cricket Board": "2000",
+        "KwaZulu-Natal B": "1998/99",
+        "KwaZulu-Natal": "1998/99",
+        "North West": "1996/97-2001/02",
+        "Western Transvaal": "1995/1996"
+    },
+    "birth_date": "1976-9-9"
+}

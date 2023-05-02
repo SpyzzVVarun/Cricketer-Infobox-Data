@@ -1,0 +1,54 @@
+{
+    "country": "Namibia",
+    "fullname": "Ewald Steenkamp",
+    "birth_place": "Windhoek, Khomas Region, Namibia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/97/97744/97744.html CricketArchive subscription required ",
+    "FC": {
+        "matches": "10",
+        "runs": "612",
+        "bat avg": "38.25",
+        "100s/50s": "1/3",
+        "top score": "206",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "433",
+        "bat avg": "20.61",
+        "100s/50s": "&ndash;/2",
+        "top score": "80",
+        "deliveries": "1,690",
+        "wickets": "50",
+        "bowl avg": "25.14",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "25/1"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "14",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2007/08&ndash;"
+    },
+    "birth_date": "1988-4-18"
+}

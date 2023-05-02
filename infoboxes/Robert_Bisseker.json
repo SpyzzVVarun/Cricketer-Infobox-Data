@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Robert Godlonton Bisseker",
+    "birth_place": "Port Elizabeth, Cape Province,, South Africa",
+    "death_date": "1965",
+    "death_place": "Hindhead, Surrey, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/9776.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "22.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1904"
+    }
+}

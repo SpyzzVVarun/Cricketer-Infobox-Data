@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Guy Alexander Ingram Dury",
+    "birth_place": "Harrow-on-the-Hill, Middlesex,, England",
+    "death_date": "df=yes",
+    "death_place": "Eastbourne, Sussex, England",
+    "family": "Theodore Dury (father)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12281.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "70",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/1",
+        "top score": "51",
+        "deliveries": "198",
+        "wickets": "3",
+        "bowl avg": "43.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/51",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

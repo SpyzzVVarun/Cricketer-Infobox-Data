@@ -1,0 +1,44 @@
+{
+    "name": "Henry Fotheringham",
+    "country": "South Africa",
+    "fullname": "Henry Richard Fotheringham",
+    "birth_place": "Empangeni, Natal Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm off-break",
+    "role": "Batsman",
+    "family": "Wayne Madsen (nephew)",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/45066.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "147",
+        "runs": "8,814",
+        "bat avg": "40.06",
+        "100s/50s": "21/48",
+        "top score": "184",
+        "deliveries": "1,002",
+        "wickets": "7",
+        "bowl avg": "70.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/48",
+        "catches/stumpings": "135/\u2013"
+    },
+    "List A": {
+        "matches": "133",
+        "runs": "4,438",
+        "bat avg": "39.98",
+        "100s/50s": "7/26",
+        "deliveries": "28",
+        "wickets": "1",
+        "bowl avg": "26.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Natal": "1989/90",
+        "Gloucestershire": "1977",
+        "Transvaal": "1978/79\u20131988/89"
+    },
+    "birth_date": "1953-4-4"
+}

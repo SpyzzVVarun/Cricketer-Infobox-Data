@@ -1,0 +1,46 @@
+{
+    "name": "Cherie Bambury",
+    "fullname": "Cherie Anne Bambury",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast\u2013medium",
+    "odidebutdate": "7 February",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Pakistan",
+    "odicap": "80",
+    "lastodidate": "23 December",
+    "lastodiyear": "2000",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/53402.html CricInfo ",
+    "ODI": {
+        "matches": "15",
+        "runs": "227",
+        "bat avg": "22.70",
+        "100s/50s": "0/2",
+        "top score": "66",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "WNCL": {
+        "matches": "40",
+        "runs": "992",
+        "bat avg": "26.34",
+        "100s/50s": "0/8",
+        "deliveries": "907",
+        "wickets": "21",
+        "bowl avg": "27.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1996/97\u20132009/10"
+    }
+}

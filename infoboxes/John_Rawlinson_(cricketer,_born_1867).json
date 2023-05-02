@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Baldwin Rawlinson",
+    "birth_place": "Whitehaven, Cumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/19602.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "45.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/45",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1887"
+    }
+}

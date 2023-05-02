@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Eric Malcolm Senior",
+    "birth_place": "Shaftesbury, Dorset, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/20661.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1939&ndash;1946",
+        "Lincolnshire": "1957&ndash;1958"
+    }
+}

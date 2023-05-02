@@ -1,0 +1,22 @@
+{
+    "name": "Alice Wegemund",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "26 June",
+    "testdebutyear": "1937",
+    "testdebutagainst": "England",
+    "lasttestdate": "10 July",
+    "lasttestyear": "1937",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/australia/content/player/53582.html ESPNcricinfo ",
+    "WTest": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "4.66",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/5"
+    },
+    "clubs": {}
+}

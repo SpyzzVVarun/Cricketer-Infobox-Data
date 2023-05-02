@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Huntley George Gordon Duff",
+    "birth_place": "Inverness, Inverness-shire,, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Inverness, Inverness-shire,, Scotland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12412.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "2.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "280",
+        "wickets": "9",
+        "bowl avg": "9.75",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "7/40",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1844"
+    }
+}

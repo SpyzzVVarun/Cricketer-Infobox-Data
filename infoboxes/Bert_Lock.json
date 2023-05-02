@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Herbert Christmas Lock",
+    "birth_place": "East Molesey, Surrey, England",
+    "death_date": "1978",
+    "death_place": "Honor Oak, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16621.html Cricinfo ",
+    "First-class": {
+        "matches": "35",
+        "runs": "93",
+        "bat avg": "4.22",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "6,407",
+        "wickets": "81",
+        "bowl avg": "32.81",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/34",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Devon": "1934&ndash;1939",
+        "Minor Counties": "1931&ndash;1935",
+        "Surrey": "1926&ndash;1932"
+    },
+    "birth_date": "1903-5-8"
+}

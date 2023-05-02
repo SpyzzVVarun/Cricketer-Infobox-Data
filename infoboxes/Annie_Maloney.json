@@ -1,0 +1,59 @@
+{
+    "name": "Annie Maloney",
+    "female": "true",
+    "full_name": "Annie Rose Maloney",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "country": "Australia",
+    "internationalspan": "2011",
+    "oneodi": "true",
+    "odidebutdate": "2 July",
+    "odidebutyear": "2011",
+    "odidebutagainst": "India",
+    "odicap": "121",
+    "source": "https://www.espncricinfo.com/player/annie-maloney-275436 ESPNcricinfo",
+    "WODI": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WNCL url=https://cricketarchive.com/Players/239/239347/239347.html": {
+        "matches": "15",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "deliveries": "598",
+        "wickets": "16",
+        "bowl avg": "24.56",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "4/26",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "19",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "deliveries": "332",
+        "wickets": "16",
+        "bowl avg": "18.81",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/11",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2007/08\u20132011/12"
+    },
+    "birth_date": "1989-3-4"
+}

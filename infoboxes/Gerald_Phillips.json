@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Gerald Courtenay Phillips",
+    "birth_place": "Crumlin, Monmouthshire, Wales",
+    "death_date": "1938",
+    "death_place": "Regent's Park, London, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "family": "Frank Phillips (brother), Noel Phillips (brother)",
+    "source": "https://www.espncricinfo.com/player/gerald-phillips-32460 Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "551",
+        "bat avg": "30.61",
+        "100s/50s": "\u2013/6",
+        "top score": "94",
+        "deliveries": "96",
+        "wickets": "4",
+        "bowl avg": "11.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/9",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1910/11&ndash;1926/27"
+    }
+}

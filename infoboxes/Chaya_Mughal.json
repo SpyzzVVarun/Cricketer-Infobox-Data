@@ -1,0 +1,33 @@
+{
+    "name": "Chaya Mughal",
+    "female": "true",
+    "country": "United Arab Emirates",
+    "fullname": "Chaya Mughal",
+    "birth_place": "India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "7 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "1",
+    "lastT20Idate": "25 April",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/1126415.html Cricinfo ",
+    "WT20I": {
+        "matches": "48",
+        "runs": "430",
+        "bat avg": "13.43",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "844",
+        "wickets": "31",
+        "bowl avg": "19.51",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/4",
+        "catches/stumpings": "16/4"
+    },
+    "clubs": {},
+    "birth_date": "1986-6-20"
+}

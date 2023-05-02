@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "John Nevile Buchanan",
+    "birth_place": "Grahamstown, Cape Colony",
+    "death_date": "1969",
+    "death_place": "St John's Wood, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Edward Leigh (nephew)",
+    "source": "http://www.espncricinfo.com/ci/content/player/10114.html Cricinfo ",
+    "First-class": {
+        "matches": "34",
+        "runs": "1,536",
+        "bat avg": "26.48",
+        "100s/50s": "4/5",
+        "top score": "118",
+        "deliveries": "1,889",
+        "wickets": "26",
+        "bowl avg": "42.07",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/56",
+        "catches/stumpings": "45/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1925\u20131927",
+        "Marylebone Cricket Club": "1910",
+        "Cambridge University": "1906\u20131909"
+    },
+    "birth_date": "1887-5-30"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Pole Mayo",
+    "birth_place": "Wotton, Surrey, England",
+    "death_date": "1899",
+    "death_place": "Notting Hill, Middlesex, England",
+    "source": "http://www.espncricinfo.com/ci/content/player/17856.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "63",
+        "bat avg": "6.30",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1850",
+        "Marylebone Cricket Club": "1850&ndash;1851"
+    }
+}

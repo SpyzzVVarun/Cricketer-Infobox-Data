@@ -1,0 +1,37 @@
+{
+    "name": "Tom Hearne",
+    "country": "England",
+    "full_name": "Thomas Hearne",
+    "birth_place": "Chalfont St Peter, Buckinghamshire",
+    "death_date": "1900",
+    "death_place": "Ealing, Middlesex",
+    "batting": "Right-handed",
+    "bowling": "Right arm medium Right arm medium (roundarm)",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/30/30120/30120.html CricketArchive ",
+    "First-class": {
+        "matches": "173",
+        "runs": "5,048",
+        "bat avg": "18.55",
+        "100s/50s": "4/21",
+        "top score": "146",
+        "deliveries": "11,948",
+        "wickets": "292",
+        "bowl avg": "14.10",
+        "fivefor": "16",
+        "tenfor": "2",
+        "best bowling": "6/12",
+        "catches/stumpings": "116/7"
+    },
+    "clubs": {
+        "Marylebone Cricket Club (MCC)": "1857\u20131876",
+        "United England Eleven (UEE)": "1858\u20131864",
+        "Middlesex XI": "1859\u20131863",
+        "England XI": "1860\u20131872",
+        "South": "1860\u20131872",
+        "Players": "1863\u20131869",
+        "Middlesex CCC": "1864\u20131875",
+        "United South of England Eleven (USEE)": "1872"
+    },
+    "birth_date": "1826-09-04"
+}

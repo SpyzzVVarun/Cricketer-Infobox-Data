@@ -1,0 +1,51 @@
+{
+    "name": "Ian Sinclair",
+    "fullname": "Ian McKay Sinclair",
+    "birth_place": "Rangiora, New Zealand",
+    "death_date": "2019",
+    "death_place": "Tauranga, New Zealand",
+    "family": "Azalea Sinclair (wife)",
+    "internationalspan": "1956",
+    "country": "New Zealand",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "18 February",
+    "testdebutyear": "1956",
+    "testcap": "79",
+    "lasttestdate": "3 March",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1956",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38391.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "0/0",
+        "deliveries": "233",
+        "wickets": "1",
+        "bowl avg": "120.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/79",
+        "catches/stumpings": "1/-"
+    },
+    "First-class": {
+        "matches": "15",
+        "runs": "264",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "2853",
+        "wickets": "41",
+        "bowl avg": "27.34",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/57",
+        "catches/stumpings": "16/-"
+    },
+    "clubs": {
+        "Canterbury": "1953-1957"
+    },
+    "birth_date": "1933-06-01"
+}

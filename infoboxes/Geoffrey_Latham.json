@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Chitty Latham",
+    "birth_place": "Shanghai, Kiangsu, China",
+    "death_date": "df=yes",
+    "death_place": "Farnham, Surrey, England",
+    "family": "Thomas Latham (father)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/16466.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1907"
+    }
+}

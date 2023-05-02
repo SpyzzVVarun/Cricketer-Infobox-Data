@@ -1,0 +1,45 @@
+{
+    "name": "Roselyn Emmanuel",
+    "female": "true",
+    "fullname": "Roselyn Emmanuel",
+    "birth_place": "Saint Lucia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1997",
+    "country": "West Indies",
+    "odidebutdate": "13 December",
+    "odidebutyear": "1997",
+    "odidebutagainst": "India",
+    "odicap": "34",
+    "lastodidate": "20 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Archive/Players/17/17412/17412.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "20",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "1/1"
+    },
+    "WFC": {
+        "matches": "2",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "0/0"
+    },
+    "WLA": {
+        "matches": "22",
+        "runs": "583",
+        "bat avg": "29.15",
+        "100s/50s": "0/4",
+        "top score": "89",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Saint Lucia": "1989\u20132002"
+    }
+}

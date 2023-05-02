@@ -1,0 +1,48 @@
+{
+    "name": "Bhuwan Karki",
+    "country": "Nepal",
+    "birth_place": "Dhangadhi, Nepal",
+    "batting": "Left-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Bowler",
+    "oneT20I": "true",
+    "T20Idebutdate": "4 March",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "31",
+    "source": "https://www.espncricinfo.com/ci/content/player/446812.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "31.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/31",
+        "catches/stumpings": "1/-"
+    },
+    "Youth ODI": {
+        "matches": "6",
+        "runs": "3",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "225",
+        "wickets": "9",
+        "bowl avg": "17.11",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/21",
+        "catches/stumpings": "4/-"
+    },
+    "clubs": {
+        "Panchakanya Tej (NPL)": "2014\u20132014",
+        "APF (National League)": "2011\u20132015",
+        "Sudur Pashchimanchal Academy (SPA Cup)": "2013\u20132015"
+    },
+    "birth_date": "1994-1-28"
+}

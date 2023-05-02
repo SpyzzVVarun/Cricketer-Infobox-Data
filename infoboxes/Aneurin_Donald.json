@@ -1,0 +1,50 @@
+{
+    "name": "Aneurin Donald",
+    "country": "England",
+    "fullname": "Aneurin Henry Thomas Donald",
+    "birth_place": "Swansea, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "23 September",
+    "debutyear1": "2014",
+    "debutfor1": "Glamorgan",
+    "debutagainst1": "Hampshire",
+    "type2": "List A",
+    "debutdate2": "26 July",
+    "debutyear2": "2015",
+    "debutfor2": "Glamorgan",
+    "debutagainst2": "Nottinghamshire",
+    "source": "http://www.espncricinfo.com/england/content/player/562281.html Cricinfo  ",
+    "FC": {
+        "matches": "58",
+        "runs": "3,024",
+        "bat avg": "31.50",
+        "100s/50s": "3/18",
+        "top score": "234",
+        "catches/stumpings": "55/0"
+    },
+    "LA": {
+        "matches": "39",
+        "runs": "651",
+        "bat avg": "18.60",
+        "100s/50s": "0/4",
+        "top score": "76",
+        "catches/stumpings": "17/\u2013"
+    },
+    "T20": {
+        "matches": "58",
+        "runs": "947",
+        "bat avg": "18.94",
+        "100s/50s": "0/5",
+        "top score": "76",
+        "catches/stumpings": "36/\u2013"
+    },
+    "clubs": {
+        "Glamorgan( 12 )": "2014\u20132018",
+        "\u2192 Hampshire  (on loan)": "2018",
+        "Hampshire( 12 )": "2019\u2013"
+    },
+    "birth_date": "1996-12-20"
+}

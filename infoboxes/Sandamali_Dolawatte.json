@@ -1,0 +1,36 @@
+{
+    "name": "Sandamali Dolawatte",
+    "female": "true",
+    "birth_place": "Colombo, Sri Lanka",
+    "bowling": "Legbreak",
+    "country": "Sri Lanka",
+    "WODI": {
+        "matches": "53",
+        "runs": "431",
+        "bat avg": "12.31",
+        "100s/50s": "0/1",
+        "top score": "74",
+        "deliveries": "870",
+        "wickets": "25",
+        "bowl avg": "23.36",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/16",
+        "catches/stumpings": "13/0"
+    },
+    "WT20I": {
+        "matches": "24",
+        "runs": "97",
+        "bat avg": "6.46",
+        "100s/50s": "0/0",
+        "deliveries": "133",
+        "wickets": "5",
+        "bowl avg": "26.20",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/0",
+        "catches/stumpings": "2/0 "
+    },
+    "clubs": {},
+    "birth_date": "1983-02-10"
+}

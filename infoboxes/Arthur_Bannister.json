@@ -1,0 +1,38 @@
+{
+    "name": "Arthur Bannister",
+    "country": "England",
+    "fullname": "Arthur Frederick Bannister",
+    "birth_place": "Somers Town, London, England",
+    "death_date": "1958",
+    "death_place": "Islington, London, England",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Bowler, Umpire",
+    "type1": "First-class",
+    "debutdate1": "7 May",
+    "debutyear1": "1900",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "24 July",
+    "lastyear1": "1902",
+    "lastfor1": "Worcestershire",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27659/27659.html Cricket Archive ",
+    "FC": {
+        "matches": "38",
+        "runs": "354",
+        "bat avg": "7.69",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "6,258",
+        "wickets": "92",
+        "bowl avg": "23.64",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/29",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1900\u20131902"
+    },
+    "birth_date": "1875-6-18"
+}

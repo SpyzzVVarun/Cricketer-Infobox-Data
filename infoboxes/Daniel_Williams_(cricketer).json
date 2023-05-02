@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Daniel Mark Williams",
+    "birth_place": "Newbury, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/23477.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Loughborough UCCE": "2008",
+        "Berkshire": "2001 and 2003"
+    },
+    "birth_date": "1981-12-"
+}

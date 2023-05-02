@@ -1,0 +1,51 @@
+{
+    "name": "Roger Blunt",
+    "honorific_suffix": "country=GBR",
+    "country": "New Zealand",
+    "birth_place": "Durham, England",
+    "death_date": "1966",
+    "death_place": "Westminster, England",
+    "internationalspan": "1930\u20131932",
+    "testdebutdate": "10 January",
+    "testdebutyear": "1930",
+    "testdebutagainst": "England",
+    "testcap": "2",
+    "lasttestdate": "4 March",
+    "lasttestyear": "1932",
+    "lasttestagainst": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36301.html Cricinfo ",
+    "Test": {
+        "matches": "9",
+        "runs": "330",
+        "bat avg": "27.50",
+        "100s/50s": "0/1",
+        "top score": "96",
+        "deliveries": "936",
+        "wickets": "12",
+        "bowl avg": "39.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "123",
+        "runs": "7,953",
+        "bat avg": "40.99",
+        "100s/50s": "15/40",
+        "deliveries": "13,252",
+        "wickets": "213",
+        "bowl avg": "31.16",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "8/99",
+        "catches/stumpings": "88/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1917/18\u20131924/25",
+        "Otago": "1926/27\u20131931/32"
+    },
+    "birth_date": "1900-11-3"
+}

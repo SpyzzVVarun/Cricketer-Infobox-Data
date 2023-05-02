@@ -1,0 +1,22 @@
+{
+    "name": "Sir Jack Rumbold",
+    "honorific_suffix": "country=GBR",
+    "country": "New Zealand",
+    "fullname": "Jack Seddon Rumbold",
+    "birth_place": "Reefton, West Coast, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/19869.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "175",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1946&ndash;1947"
+    }
+}

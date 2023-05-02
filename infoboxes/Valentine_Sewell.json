@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Valentine Evelyn Sewell",
+    "birth_place": "Kendal, Westmorland, England",
+    "death_date": "1978",
+    "death_place": "Yeovil, Somerset, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/34418.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "21.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "138",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Europeans (India)": "1931/32&ndash;1932/33",
+        "Dorset": "1928"
+    },
+    "birth_date": "1910-4-12"
+}

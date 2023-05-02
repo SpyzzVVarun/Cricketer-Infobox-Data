@@ -1,0 +1,51 @@
+{
+    "name": "Tommy Scott",
+    "country": "West Indies",
+    "fullname": "Oscar Charles Scott",
+    "birth_place": "Kingston, Jamaica",
+    "death_date": "1961",
+    "death_place": "Kingston, Jamaica",
+    "nickname": "Tommy",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "family": "Alfred Scott (son)",
+    "testdebutdate": "21 July",
+    "testdebutyear": "1928",
+    "testdebutagainst": "England",
+    "lasttestdate": "27 February",
+    "lasttestyear": "1931",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/488/488.html Cricket Archive ",
+    "Tests": {
+        "matches": "8",
+        "runs": "171",
+        "bat avg": "17.10",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "1,405",
+        "wickets": "22",
+        "bowl avg": "42.04",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/266",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "45",
+        "runs": "1,317",
+        "bat avg": "24.38",
+        "100s/50s": "0/9",
+        "top score": "94",
+        "deliveries": "9,706",
+        "wickets": "182",
+        "bowl avg": "30.52",
+        "fivefor": "14",
+        "tenfor": "5",
+        "best bowling": "8/67",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1910\u20131935"
+    },
+    "birth_date": "1892-8-14"
+}

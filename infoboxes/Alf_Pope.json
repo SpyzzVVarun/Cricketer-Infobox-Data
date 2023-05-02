@@ -1,0 +1,40 @@
+{
+    "name": "Alf Pope",
+    "country": "England",
+    "fullname": "Alfred Vardy Pope",
+    "height": "1.95m",
+    "birth_place": "Tibshelf, Derbyshire , England",
+    "death_date": "df=y",
+    "death_place": "Derby, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "family": "George Pope (brother)",
+    "type1": "FC",
+    "debutdate1": "31 May",
+    "debutyear1": "1930",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Middlesex",
+    "lastdate1": "30 August",
+    "lastyear1": "1939",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Leicestershire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3333/3333.html CricketArchive ",
+    "First-class": {
+        "matches": "214",
+        "runs": "4,963",
+        "bat avg": "18.38",
+        "100s/50s": "1/17",
+        "top score": "103",
+        "deliveries": "33,305",
+        "wickets": "555",
+        "bowl avg": "22.54",
+        "fivefor": "22",
+        "tenfor": "3",
+        "best bowling": "7/84",
+        "catches/stumpings": "99/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1930\u20131939"
+    },
+    "birth_date": "1909-8-15"
+}

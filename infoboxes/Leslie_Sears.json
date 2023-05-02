@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Leslie Daniel Sears",
+    "birth_place": "Wokingham, Berkshire, England",
+    "death_date": "1992",
+    "death_place": "Amesbury Abbey, Wiltshire, England",
+    "batting": "Left-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/20099.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1934&ndash;1935",
+        "Essex": "1925"
+    },
+    "birth_date": "1901-1-12"
+}

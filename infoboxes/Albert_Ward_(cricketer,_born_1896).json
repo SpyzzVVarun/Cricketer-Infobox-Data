@@ -1,0 +1,29 @@
+{
+    "name": "Albert Ward",
+    "country": "England",
+    "fullname": "Albert Paine Ward",
+    "birth_place": "Highgate, Middlesex, England",
+    "death_date": "1979",
+    "death_place": "Jersey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/22289.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "57.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/28",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1921"
+    },
+    "birth_date": "1896-11-9"
+}

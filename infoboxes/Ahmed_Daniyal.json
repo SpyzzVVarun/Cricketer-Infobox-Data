@@ -1,0 +1,39 @@
+{
+    "name": "Ahmed Daniyal",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "height": "5 ft 9 in",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1249564.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "414",
+        "wickets": "10",
+        "bowl avg": "24.10",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "20",
+        "runs": "20",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "deliveries": "426",
+        "wickets": "19",
+        "bowl avg": "34.63",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/28",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Lahore Qalandars": "2021-present",
+        "Melbourne Stars( 3 )": "2022"
+    },
+    "birth_date": "1997-7-3"
+}

@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Nigel Clement Francis Bloy",
+    "birth_place": "Plymouth, Devon, England",
+    "death_date": "1989",
+    "death_place": "Sherborne, Dorset, England",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/9822.html Cricinfo ",
+    "First-class": {
+        "matches": "31",
+        "runs": "964",
+        "bat avg": "21.90",
+        "100s/50s": "\u2013/1",
+        "top score": "77",
+        "deliveries": "814",
+        "wickets": "8",
+        "bowl avg": "76.62",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/80",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Dorset": "1958\u20131961",
+        "Marylebone Cricket Club": "1954\u20131958",
+        "Devon": "1951\u20131957",
+        "Oxford University": "1946\u20131948"
+    },
+    "birth_date": "1923-1-2"
+}

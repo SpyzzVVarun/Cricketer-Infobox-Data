@@ -1,0 +1,29 @@
+{
+    "name": "Alex Stead",
+    "country": "England",
+    "fullname": "Roger Alexander Stead",
+    "birth_place": "Dewsbury, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/10/10647/10647.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "210",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Durham UCCE": "2001",
+        "Cumberland": "2007\u20132009",
+        "Staffordshire": "2010\u20132011"
+    },
+    "birth_date": "1980-9-18"
+}

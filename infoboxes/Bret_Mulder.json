@@ -1,0 +1,35 @@
+{
+    "name": "Bret Mulder",
+    "country": "Australia",
+    "birth_place": "Perth, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm offbreak",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "18 November",
+    "debutyear1": "1983",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "Victoria",
+    "lastdate1": "26 November",
+    "lastyear1": "1998",
+    "lastfor1": "Western Australia",
+    "lastagainst1": "New South Wales",
+    "source": "https://cricketarchive.com/Players/6/6278/6278.html cricketarchive ",
+    "First-class": {
+        "matches": "25",
+        "runs": "101",
+        "bat avg": "8.41",
+        "100s/50s": "0/0",
+        "deliveries": "4,850",
+        "wickets": "59",
+        "bowl avg": "35.79",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "6/65",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1983/84\u20131998/99"
+    },
+    "birth_date": "1964-2-6"
+}

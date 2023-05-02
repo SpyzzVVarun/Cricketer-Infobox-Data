@@ -1,0 +1,27 @@
+{
+    "name": "James Rogers",
+    "fullname": "James Julian Rogers",
+    "birth_place": "Kendal, Westmorland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/19803.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "693",
+        "bat avg": "16.50",
+        "100s/50s": "0/2",
+        "top score": "54",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/24",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1979\u20131981",
+        "Cumberland": "1979"
+    },
+    "birth_date": "1958-8-20"
+}

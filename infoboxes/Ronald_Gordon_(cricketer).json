@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Ronald Steuart Gordon",
+    "birth_place": "Elgin, Morayshire, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Messines, West Flanders, Belgium",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/28958.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1899/00"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Roy Gilchrist",
+    "country": "West Indies",
+    "fullname": "Roy Gilchrist",
+    "birth_place": "St Thomas, Jamaica",
+    "death_date": "2001",
+    "death_place": "Portmore, St Catherine, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast",
+    "role": "Bowler",
+    "testdebutdate": "30 May",
+    "testdebutyear": "1957",
+    "testdebutagainst": "England",
+    "testcap": "93",
+    "lasttestdate": "11 February",
+    "lasttestyear": "1959",
+    "lasttestagainst": "India",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/51887.html Cricinfo",
+    "Tests": {
+        "matches": "13",
+        "runs": "60",
+        "bat avg": "5.45",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "3,227",
+        "wickets": "57",
+        "bowl avg": "26.68",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/55",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "42",
+        "runs": "258",
+        "bat avg": "7.81",
+        "100s/50s": "0/0",
+        "top score": "43 not out",
+        "deliveries": "8,391",
+        "wickets": "167",
+        "bowl avg": "26.00",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "6/16",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1956\u20131962",
+        "Hyderabad": "1962\u20131963"
+    },
+    "birth_date": "1934-6-28"
+}

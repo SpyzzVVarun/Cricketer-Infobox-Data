@@ -1,0 +1,51 @@
+{
+    "name": "Betty Wilson",
+    "female": "true",
+    "fullname": "Betty Rebecca Wilson",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "2010",
+    "death_place": "Melbourne, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "country": "Australia",
+    "testdebutdate": "20 March",
+    "testdebutyear": "1948",
+    "testdebutagainst": "New Zealand",
+    "testcap": "25",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1958",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/10/10537/10537.html CricketArchive",
+    "WTests": {
+        "matches": "11",
+        "runs": "862",
+        "bat avg": "57.46",
+        "100s/50s": "3/3",
+        "top score": "127",
+        "deliveries": "2,885",
+        "wickets": "68",
+        "bowl avg": "11.80",
+        "fivefor": "4",
+        "tenfor": "2",
+        "best bowling": "7/7",
+        "catches/stumpings": "10/\u2013"
+    },
+    "WFC": {
+        "matches": "49",
+        "runs": "2,197",
+        "bat avg": "43.94",
+        "100s/50s": "6/8",
+        "top score": "145",
+        "deliveries": "4,752",
+        "wickets": "200",
+        "bowl avg": "9.80",
+        "fivefor": "14",
+        "tenfor": "5",
+        "best bowling": "7/7",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1948\u20131958"
+    },
+    "birth_date": "1921-11-21"
+}

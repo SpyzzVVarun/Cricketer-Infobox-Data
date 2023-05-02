@@ -1,0 +1,42 @@
+{
+    "name": "Selina Solman",
+    "female": "true",
+    "country": "Vanuatu",
+    "fullname": "Selina Solman",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "internationalspan": "2019-present",
+    "T20Idebutdate": "6 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "PNG",
+    "T20Icap": "9",
+    "lastT20Idate": "6 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "PNG",
+    "source": "http://www.espncricinfo.com/ci/content/player/1093523.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {
+        "matches": "17",
+        "runs": "227",
+        "bat avg": "20.63",
+        "100s/50s": "0/1",
+        "deliveries": "329",
+        "wickets": "15",
+        "bowl avg": "18.06",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/10",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1994-2-8",
+    "medaltemplates": [
+        "Country: {{VAN}}",
+        "Sport: Women's Cricket",
+        "Competition: Pacific Games",
+        "Bronze Medal: 2019 Apia Twenty20 International"
+    ]
+}

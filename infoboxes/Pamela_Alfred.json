@@ -1,0 +1,51 @@
+{
+    "name": "Pamela Alfred",
+    "female": "true",
+    "fullname": "Pamela Alfred",
+    "birth_place": "Saint Lucia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "internationalspan": "2003",
+    "country": "West Indies",
+    "odidebutdate": "13 March",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "36",
+    "lastodidate": "20 March",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Sri Lanka",
+    "source": "https://cricketarchive.com/Archive/Players/46/46112/46112.html CricketArchive ",
+    "WODI": {
+        "matches": "4",
+        "runs": "53",
+        "bat avg": "13.25",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "156",
+        "wickets": "3",
+        "bowl avg": "30.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WLA": {
+        "matches": "19",
+        "runs": "418",
+        "bat avg": "34.83",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "deliveries": "222",
+        "wickets": "12",
+        "bowl avg": "17.37",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/?",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Saint Lucia": "1999\u20132008"
+    },
+    "birth_date": "1978-9-28"
+}

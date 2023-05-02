@@ -1,0 +1,40 @@
+{
+    "country": "India",
+    "fullname": "Saeed Ahmed Hatteea",
+    "birth_place": "Bombay, Bombay State, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/29418.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "1",
+        "bat avg": "0.20",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "1,392",
+        "wickets": "27",
+        "bowl avg": "28.91",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/33",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "56",
+        "wickets": "4",
+        "bowl avg": "8.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/32",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Bombay": "1969/70&ndash;1970/71",
+        "Oxfordshire": "1972"
+    },
+    "birth_date": "1950-2-2"
+}

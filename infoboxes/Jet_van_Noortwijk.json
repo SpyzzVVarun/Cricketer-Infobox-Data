@@ -1,0 +1,36 @@
+{
+    "name": "Jet van Noortwijk",
+    "fullname": "Ariette Josephine van Noortwijk",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "country": "Netherlands",
+    "internationalspan": "1989\u20131997",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "England",
+    "odicap": "23",
+    "lastodidate": "20 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/54714.html Cricinfo ",
+    "WODI": {
+        "matches": "27",
+        "runs": "324",
+        "bat avg": "14.08",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "1,028",
+        "wickets": "24",
+        "bowl avg": "19.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/21",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1993\u20131999"
+    },
+    "birth_date": "1968-5-11"
+}

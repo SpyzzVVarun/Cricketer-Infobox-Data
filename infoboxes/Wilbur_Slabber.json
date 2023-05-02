@@ -1,0 +1,39 @@
+{
+    "country": "Namibia",
+    "fullname": "Wilbur Slabber",
+    "birth_place": "Windhoek, Khomas Region, South-West Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/10/10252/10252.html CricketArchive subscription required ",
+    "First-class": {
+        "matches": "7",
+        "runs": "39",
+        "bat avg": "3.90",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "348",
+        "wickets": "1",
+        "bowl avg": "214.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/57",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "8",
+        "bat avg": "2.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "96",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2007/08&ndash;2009/10"
+    },
+    "birth_date": "1980-12-2"
+}

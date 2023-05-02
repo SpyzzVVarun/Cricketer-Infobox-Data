@@ -1,0 +1,21 @@
+{
+    "name": "Scott Huey",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26783/26783.html Cricket Archive",
+    "First-class": {
+        "matches": "20",
+        "runs": "134",
+        "bat avg": "5.15",
+        "100s/50s": "0/0",
+        "deliveries": "3,534",
+        "wickets": "66",
+        "bowl avg": "18.22",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "8/48",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Kevin Corby",
+    "birth_place": "Newcastle upon Tyne, Northumberland, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/11538.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1977\u20131991"
+    },
+    "birth_date": "1959-7-12"
+}

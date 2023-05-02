@@ -1,0 +1,51 @@
+{
+    "name": "Carol Evans",
+    "female": "true",
+    "country": "England",
+    "fullname": "Carol Anne Evans",
+    "birth_place": "Cardiff, Wales",
+    "death_date": "df=yes",
+    "role": "Bowler",
+    "internationalspan": "1968\u20131969",
+    "testdebutdate": "27 December",
+    "testdebutyear": "1968",
+    "testdebutagainst": "Australia",
+    "testcap": "72",
+    "lasttestdate": "28 March",
+    "lasttestyear": "1969",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17009/17009.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "498",
+        "wickets": "10",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/45",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "19",
+        "runs": "29",
+        "bat avg": "4.14",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "2,316",
+        "wickets": "46",
+        "bowl avg": "14.69",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "7/25",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "West Midlands": "1963",
+        "West": "1966\u20131982"
+    },
+    "birth_date": "1938-11-29"
+}

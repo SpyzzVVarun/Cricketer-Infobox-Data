@@ -1,0 +1,52 @@
+{
+    "name": "Anton Murray",
+    "country": "South Africa",
+    "fullname": "Anton Ronald Andrew Murray",
+    "height": "6 ft 2 in",
+    "birth_place": "Grahamstown, Cape Province, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "role": "All-rounder",
+    "testdebutdate": "5 December",
+    "testdebutyear": "1952",
+    "testdebutagainst": "Australia",
+    "testcap": "186",
+    "lasttestdate": "9 February",
+    "lasttestyear": "1954",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/0/948/948.html CricketArchive ",
+    "Test": {
+        "matches": "10",
+        "runs": "289",
+        "bat avg": "22.23",
+        "100s/50s": "1/1",
+        "top score": "109",
+        "deliveries": "2,374",
+        "wickets": "18",
+        "bowl avg": "39.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/169",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "64",
+        "runs": "2,685",
+        "bat avg": "29.83",
+        "100s/50s": "4/15",
+        "top score": "133",
+        "deliveries": "14,807",
+        "wickets": "188",
+        "bowl avg": "24.90",
+        "fivefor": "8",
+        "tenfor": "2",
+        "best bowling": "7/30",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1947/48\u20131955/56"
+    },
+    "birth_date": "1922-4-30"
+}

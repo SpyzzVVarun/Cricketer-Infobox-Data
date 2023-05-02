@@ -1,0 +1,65 @@
+{
+    "name": "Avishka Fernando",
+    "fullname": "Weerahandige Inol Avishka Fernando",
+    "nickname": "Ava",
+    "birth_place": "Wadduwa, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Opening batter",
+    "internationalspan": "2016\u2013present",
+    "country": "Sri Lanka",
+    "odidebutdate": "31 August",
+    "odidebutyear": "2016",
+    "odidebutagainst": "Australia",
+    "odicap": "175",
+    "lastodidate": "15 January",
+    "lastodiyear": "2023",
+    "lastodiagainst": "India",
+    "T20Idebutdate": "19 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "79",
+    "lastT20Idate": "7 January",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Sri Lanka",
+    "source": "http://espncricinfo.com/srilanka/content/player/784369.html ESPNCricinfo ",
+    "ODI": {
+        "matches": "29",
+        "runs": "990",
+        "bat avg": "34.13",
+        "100s/50s": "3/5",
+        "top score": "127",
+        "catches/stumpings": "14/\u2013"
+    },
+    "T20I": {
+        "matches": "33",
+        "runs": "337",
+        "bat avg": "11.62",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "7/\u2013"
+    },
+    "FC": {
+        "matches": "23",
+        "runs": "1,179",
+        "bat avg": "31.02",
+        "100s/50s": "2/5",
+        "top score": "223",
+        "catches/stumpings": "20/\u2013"
+    },
+    "LA": {
+        "matches": "64",
+        "runs": "2,479",
+        "bat avg": "42.01",
+        "100s/50s": "8/11",
+        "top score": "139",
+        "catches/stumpings": "28/\u2013"
+    },
+    "clubs": {
+        "Colts Cricket Club": "2018\u2013present",
+        "Chittagong Vikings": "2019\u2013present",
+        "Chattogram Challengers": "2019\u201320",
+        "Jaffna Stallions": "2020"
+    },
+    "birth_date": "1998-4-5"
+}

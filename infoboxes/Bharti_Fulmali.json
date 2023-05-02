@@ -1,0 +1,33 @@
+{
+    "name": "Bharti Fulmali",
+    "female": "true",
+    "country": "India",
+    "fullname": "Bharati Shrikrushna Fulmali",
+    "birth_place": "Amravati, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "T20Idebutdate": "7 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "England",
+    "T20Icap": "63",
+    "lastT20Idate": "9 March",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/961179.html Cricinfo ",
+    "WT20I": {
+        "matches": "2",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1994-11-10"
+}

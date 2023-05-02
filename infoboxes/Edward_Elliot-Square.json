@@ -1,0 +1,25 @@
+{
+    "name": "Edward Elliot-Square",
+    "country": "England",
+    "birth_place": "Winchester, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/12786.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "60",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dorset": "1997\u20131999"
+    },
+    "birth_date": "1978-5-7"
+}

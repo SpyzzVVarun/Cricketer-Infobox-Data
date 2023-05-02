@@ -1,0 +1,58 @@
+{
+    "name": "Yo Mahesh",
+    "country": "India",
+    "fullname": "Vijaykumar Yo Mahesh",
+    "birth_place": "Chennai, India",
+    "nickname": "Yomi",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/31732.html Cricinfo ",
+    "FC": {
+        "matches": "50",
+        "runs": "1119",
+        "bat avg": "26.02",
+        "100s/50s": "2/5",
+        "deliveries": "7132",
+        "wickets": "108",
+        "bowl avg": "35.31",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/47",
+        "catches/stumpings": "23/0"
+    },
+    "LA": {
+        "matches": "61",
+        "runs": "326",
+        "bat avg": "13.04",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "1665",
+        "wickets": "93",
+        "bowl avg": "24.67",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/31",
+        "catches/stumpings": "18/0"
+    },
+    "T20": {
+        "matches": "46",
+        "runs": "96",
+        "bat avg": "9.60",
+        "100s/50s": "0/0",
+        "deliveries": "929",
+        "wickets": "52",
+        "bowl avg": "23.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "13/0"
+    },
+    "clubs": {
+        "Delhi Daredevils": "2008\u20132010",
+        "Chennai Super Kings": "2011\u20132012",
+        "Tamil Nadu": "",
+        "Northern Warriors-Abu Dhabi T10 League": "2021"
+    },
+    "birth_date": "1987-12-21"
+}

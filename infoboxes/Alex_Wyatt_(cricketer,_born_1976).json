@@ -1,0 +1,26 @@
+{
+    "country": "Australia",
+    "fullname": "Alexander August Wyatt",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/456583.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "414",
+        "wickets": "4",
+        "bowl avg": "55.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/22",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford UCCE": "2002",
+        "Oxford University": "2002&ndash;2004"
+    },
+    "birth_date": "1976-6-23"
+}

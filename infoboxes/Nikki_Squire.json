@@ -1,0 +1,28 @@
+{
+    "name": "Nikki Squire",
+    "fullname": "Nikki Helen Squire",
+    "female": "true",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "country": "Ireland",
+    "internationalspan": "1991\u20132001",
+    "odidebutdate": "16 July",
+    "odidebutyear": "1991",
+    "odidebutagainst": "England",
+    "odicap": "24",
+    "lastodidate": "12 August",
+    "lastodiyear": "2001",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Players/15/15009/15009.html CricketArchive ",
+    "ODI": {
+        "matches": "37",
+        "runs": "291",
+        "bat avg": "10.77",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1967-11-2"
+}

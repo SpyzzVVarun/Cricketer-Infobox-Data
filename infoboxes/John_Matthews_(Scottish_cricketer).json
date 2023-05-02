@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "John Duncan Matthews",
+    "birth_place": "Rainhill, Lancashire, England",
+    "death_date": "2009",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Left-handed",
+    "source": "https://www.espncricinfo.com/player/john-matthews-25284 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "81",
+        "bat avg": "11.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1951&ndash;1955"
+    }
+}

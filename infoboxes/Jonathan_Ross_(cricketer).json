@@ -1,0 +1,41 @@
+{
+    "name": "Jonathan Ross",
+    "fullname": "Christopher Jonathan Ross",
+    "birth_place": "Warri, Nigeria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38355.html Cricinfo ",
+    "FC": {
+        "matches": "31",
+        "runs": "132",
+        "bat avg": "4.71",
+        "100s/50s": "0/0",
+        "deliveries": "4016",
+        "wickets": "55",
+        "bowl avg": "35.23",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/34",
+        "catches/stumpings": "8/0"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "15",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "716",
+        "wickets": "10",
+        "bowl avg": "42.70",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/31",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Wellington": "1975-76",
+        "Oxford University": "1978 to 1980",
+        "Combined Universities": "1978 to 1980"
+    },
+    "birth_date": "1954-6-24"
+}

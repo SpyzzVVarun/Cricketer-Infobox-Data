@@ -1,0 +1,22 @@
+{
+    "name": "William Kendle",
+    "country": "England",
+    "fullname": "William James Kendle",
+    "birth_place": "Romsey, Hampshire, England",
+    "death_date": "1920",
+    "death_place": "Woodsford, Dorset, England",
+    "batting": "Right-handed",
+    "family": "Charles Kendle (uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/15853.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "66",
+        "bat avg": "7.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1869\u20131878"
+    }
+}

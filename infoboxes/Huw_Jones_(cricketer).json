@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "Huw Rhys Jones",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/15771.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "304",
+        "bat avg": "23.38",
+        "100s/50s": "&ndash;/2",
+        "top score": "97",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "88",
+        "bat avg": "29.33",
+        "100s/50s": "&ndash;/1",
+        "top score": "72",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Herefordshire": "2008-2009",
+        "Warwickshire": "2002",
+        "Warwickshire Cricket Board": "2001-2002",
+        "Oxford University": "2001-2003"
+    },
+    "birth_date": "1980-11-23"
+}

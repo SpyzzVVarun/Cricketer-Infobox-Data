@@ -1,0 +1,25 @@
+{
+    "country": "Canada",
+    "fullname": "Herbert Gladstone Wookey",
+    "birth_place": "Canada",
+    "death_date": "1953",
+    "death_place": "United States",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/25848.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "168",
+        "wickets": "3",
+        "bowl avg": "33.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/99",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

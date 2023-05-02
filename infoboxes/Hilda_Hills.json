@@ -1,0 +1,26 @@
+{
+    "name": "Hilda Hills",
+    "fullname": "Hilda Mary Hills",
+    "country": "Australia",
+    "female": "yes",
+    "death_date": "2003",
+    "batting": "Right-handed",
+    "role": "wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "28 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "England",
+    "testcap": "7",
+    "source": "http://www.espncricinfo.com/australia/content/player/53509.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Victoria": "1932\u20131936"
+    },
+    "birth_date": "1913-07-18-df-ye"
+}

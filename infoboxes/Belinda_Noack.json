@@ -1,0 +1,27 @@
+{
+    "name": "Belinda Noack",
+    "female": "true",
+    "birth_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/12/12297/12297.html CricketArchive",
+    "WLA": {
+        "matches": "43",
+        "runs": "9",
+        "bat avg": "1.28",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "1,408",
+        "wickets": "36",
+        "bowl avg": "24.52",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/4",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1997/98\u20132002/03"
+    },
+    "birth_date": "1977-03-20"
+}

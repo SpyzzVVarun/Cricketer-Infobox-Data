@@ -1,0 +1,40 @@
+{
+    "name": "Digger Robertson",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1885",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7367.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "44",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "7",
+        "runs": "109",
+        "bat avg": "13.62",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "965",
+        "wickets": "15",
+        "bowl avg": "31.06",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/46",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Sheldon Gomes",
+    "fullname": "Sheldon Anthony Gomes",
+    "birth_place": "Arima, Trinidad",
+    "death_date": "2020",
+    "death_place": "Las Vegas, Nevada, United States",
+    "family": "Larry Gomes (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/westindies/content/player/51978.html Cricinfo",
+    "First-class": {
+        "matches": "55",
+        "runs": "2645",
+        "bat avg": "32.65",
+        "100s/50s": "5/15",
+        "top score": "213",
+        "deliveries": "69",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "45/\u2013"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "188",
+        "bat avg": "14.46",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1968-69 to 1982-83",
+        "North Trinidad": "1968-69 to 1973-74",
+        "East Trinidad": "1970-71 to 1978-79",
+        "North and East Trinidad": "1975-76 to 1982-83"
+    },
+    "birth_date": "1950-10-18"
+}

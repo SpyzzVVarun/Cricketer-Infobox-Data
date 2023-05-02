@@ -1,0 +1,19 @@
+{
+    "name": "John Rogers",
+    "fullname": "John Pritchard Rogers",
+    "birth_place": "Bloxham, Oxfordshire, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/19804.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Middlesex": "1891"
+    },
+    "birth_date": "1860-3-10"
+}

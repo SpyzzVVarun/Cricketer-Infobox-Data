@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Arthur Alfred Kenneth Lawrence",
+    "birth_place": "Marlborough, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/16476.html Cricinfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "632",
+        "bat avg": "17.08",
+        "100s/50s": "&ndash;/3",
+        "deliveries": "44",
+        "wickets": "1",
+        "bowl avg": "40.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/14",
+        "catches/stumpings": "28/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1952&ndash;1956"
+    },
+    "birth_date": "1930-11-3"
+}

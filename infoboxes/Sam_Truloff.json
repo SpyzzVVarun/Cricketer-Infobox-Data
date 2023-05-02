@@ -1,0 +1,25 @@
+{
+    "name": "Sam Truloff",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/500269.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "486",
+        "bat avg": "16.75",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "catches/stumpings": "20/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "237",
+        "bat avg": "47.40",
+        "100s/50s": "0/2",
+        "top score": "80",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1993-3-24"
+}

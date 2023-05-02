@@ -1,0 +1,32 @@
+{
+    "name": "Alfred Archer",
+    "fullname": "Alfred German Archer",
+    "birth_place": "Richmond, Surrey, England",
+    "death_date": "1935",
+    "death_place": "Seaford, Sussex, England",
+    "batting": "Right-handed",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testcap": "120",
+    "testdebutdate": "1 April",
+    "testdebutyear": "1899",
+    "onetest": "true",
+    "source": "https://cricketarchive.com/Archive/Players/0/235/235.html CricketArchive",
+    "Test": {
+        "matches": "1",
+        "runs": "31",
+        "bat avg": "31.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "12",
+        "runs": "231",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "10/2"
+    },
+    "clubs": {},
+    "birth_date": "1871-12-6"
+}

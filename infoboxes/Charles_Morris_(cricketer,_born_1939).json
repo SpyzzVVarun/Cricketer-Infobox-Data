@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Antony Morris",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "df=yes",
+    "death_place": "Wilmslow, Cheshire, England",
+    "batting": "Left-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/17688.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "23",
+        "bat avg": "4.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "72",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1956&ndash;1963",
+        "Cambridge University": "1960"
+    }
+}

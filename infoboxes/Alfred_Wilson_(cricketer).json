@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Alfred Wilson",
+    "birth_place": "London, England",
+    "death_date": "df=yes",
+    "death_place": "East Preston, Sussex, England",
+    "family": "Sidney Wilson (son)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23407.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "226",
+        "bat avg": "10.27",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1848&ndash;1850",
+        "Marylebone Cricket Club": "1851&ndash;1855"
+    }
+}

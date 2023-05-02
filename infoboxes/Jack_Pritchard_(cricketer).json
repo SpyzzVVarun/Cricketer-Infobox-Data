@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Jack Mervyn Pritchard",
+    "birth_place": "Madras, Madras Presidency,, British India",
+    "death_date": "df=yes",
+    "death_place": "Kensington, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19074.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "36",
+        "bat avg": "18.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "390",
+        "wickets": "7",
+        "bowl avg": "25.28",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/45",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1919"
+    }
+}

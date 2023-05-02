@@ -1,0 +1,57 @@
+{
+    "name": "Dhruv Shorey",
+    "country": "India",
+    "fullname": "Dhruv Ranjan Shorey",
+    "birth_place": "Delhi, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Top-order batsman",
+    "source": "https://www.espncricinfo.com/player/dhruv-shorey-590327 Cricinfo ",
+    "FC": {
+        "matches": "38",
+        "runs": "2328",
+        "bat avg": "47.51",
+        "100s/50s": "4/13",
+        "top score": "145",
+        "deliveries": "466",
+        "wickets": "3",
+        "bowl avg": "86.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/47",
+        "catches/stumpings": "27/0"
+    },
+    "LA": {
+        "matches": "48",
+        "runs": "1588",
+        "bat avg": "36.09",
+        "100s/50s": "2/13",
+        "top score": "132",
+        "deliveries": "107",
+        "wickets": "3",
+        "bowl avg": "32.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "23/0"
+    },
+    "T20": {
+        "matches": "38",
+        "runs": "780",
+        "bat avg": "27.85",
+        "100s/50s": "0/16",
+        "top score": "84",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "19/0"
+    },
+    "clubs": {
+        "Delhi": "2013\u2013present",
+        "Chennai Super Kings": "2018\u20132019"
+    },
+    "birth_date": "1992-6-5"
+}

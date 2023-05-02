@@ -1,0 +1,28 @@
+{
+    "name": "Mahesh Sharma",
+    "fullname": "Mahesh Sharma",
+    "birth_place": "Rajasthan, India",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "15 December",
+    "debutyear1": "1973",
+    "debutfor1": "Rajasthan",
+    "debutagainst1": "Uttar Pradesh",
+    "lastdate1": "18 December",
+    "lastyear1": "1976",
+    "lastfor1": "Rajasthan",
+    "lastagainst1": "Madhya Pradesh",
+    "source": "http://www.espncricinfo.com/india/content/player/35037.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "166",
+        "bat avg": "12.76",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Rajasthan": "1973\u20131976"
+    }
+}

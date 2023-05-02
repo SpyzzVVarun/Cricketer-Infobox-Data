@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Richard Dreyer",
+    "birth_place": "Morpeth, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium, Right-arm off Right-arm medium, Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/12314.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "31",
+        "bat avg": "15.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1984\u20131989"
+    },
+    "birth_date": "1960-11-24"
+}

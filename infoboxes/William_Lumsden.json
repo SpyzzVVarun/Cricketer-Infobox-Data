@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "William Forbes Lumsden",
+    "birth_place": "Peterculter, Aberdeenshire, Scotland",
+    "death_date": "1956",
+    "death_place": "Nairobi, Kenya Colony",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "Oswald Lumsden (brother)",
+    "source": "https://www.espncricinfo.com/player/william-lumsden-30792 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1902/03"
+    }
+}

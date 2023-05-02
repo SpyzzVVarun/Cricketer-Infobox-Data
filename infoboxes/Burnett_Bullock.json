@@ -1,0 +1,37 @@
+{
+    "name": "Burn Bullock",
+    "country": "England",
+    "fullname": "Burnett Wedlake Bullock",
+    "birth_place": "Redhill, Surrey, England",
+    "death_date": "1954",
+    "death_place": "Balham, London, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "umpire": "true",
+    "fcumpired": "3",
+    "umpfcdebutyr": "1931",
+    "umpfclastyr": "1932",
+    "type1": "First-class",
+    "debutdate1": "3 July",
+    "debutyear1": "1920",
+    "debutfor1": "Gentlemen of the South",
+    "debutagainst1": "Players of the South",
+    "lastdate1": "26 June",
+    "lastyear1": "1924",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/28/28277/28277.html CricketArchive ",
+    "FC": {
+        "matches": "6",
+        "runs": "121",
+        "bat avg": "17.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40|      hidedeliveries = true",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Gentlemen of the South": "1920",
+        "Surrey": "1922\u201324"
+    },
+    "birth_date": "1896-10-5"
+}

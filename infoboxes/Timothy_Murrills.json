@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "Timothy James Murrills",
+    "birth_place": "Eccleshall, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/17754.html Cricinfo ",
+    "First-class": {
+        "matches": "37",
+        "runs": "996",
+        "bat avg": "15.32",
+        "100s/50s": "&ndash;/3",
+        "top score": "67",
+        "deliveries": "6",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "18/&ndash;"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "141",
+        "bat avg": "28.20",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "27",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties South": "1979",
+        "Dorset": "1974&ndash;1981",
+        "Cambridge University": "1973&ndash;1976"
+    },
+    "birth_date": "1953-11-22"
+}

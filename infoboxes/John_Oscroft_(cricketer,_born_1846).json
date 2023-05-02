@@ -1,0 +1,28 @@
+{
+    "name": "John Oscroft",
+    "country": "England",
+    "fullname": "John Thomas Oscroft",
+    "birth_place": "Arnold, Nottinghamshire",
+    "death_date": "df=yes",
+    "death_place": "Arnold, Nottinghamshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/31/31820/31820.html CricketArchive ",
+    "First-class": {
+        "matches": "18",
+        "runs": "244",
+        "bat avg": "7.87",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "432",
+        "wickets": "3",
+        "bowl avg": "53.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Nottinghamshire": "1867\u20131874"
+    }
+}

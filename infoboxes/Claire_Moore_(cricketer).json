@@ -1,0 +1,32 @@
+{
+    "name": "Claire Moore",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Claire Francis Moore",
+    "birth_place": "Richmond, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/2481/2481422/2481422.html CricketArchive ",
+    "WLA": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "9",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Sydney Sixers": "2021/22",
+        "New South Wales": "2021/22\u2013present"
+    },
+    "birth_date": "2003-10-28"
+}

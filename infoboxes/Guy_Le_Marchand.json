@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harold Markham Le Marchand",
+    "birth_place": "Madras, Madras Presidency, British India",
+    "death_date": "1990",
+    "death_place": "Wells, Somerset, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "Pat Le Marchand (brother)",
+    "source": "https://www.espncricinfo.com/player/harold-le-marchand-30773 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "55",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "450",
+        "wickets": "5",
+        "bowl avg": "47.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/36",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1921/22&ndash;1933/34"
+    }
+}

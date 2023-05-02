@@ -1,0 +1,23 @@
+{
+    "name": "Jalat Khan",
+    "fullname": "Jalat Khan",
+    "birth_place": "Sibi, Kachi District, Balochistan, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/40931.html ESPNCricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Quetta": "2003/04\u20132009/10",
+        "Quetta Gladiators": "2019",
+        "Balochistan": "2020\u2013present"
+    },
+    "birth_date": "1986-2-3",
+    "medaltemplates": [
+        "Country: {{PAK}}",
+        "Sport: Men's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2010 Guangzhou Team"
+    ]
+}

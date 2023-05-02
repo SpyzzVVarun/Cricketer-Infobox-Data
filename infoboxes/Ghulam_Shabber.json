@@ -1,0 +1,56 @@
+{
+    "name": "Ghulam Shabber",
+    "country": "United Arab Emirates",
+    "fullname": "Ghulam Shabber",
+    "birth_place": "Jhang, Pakistan",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2016\u20132019",
+    "odidebutdate": "24 January",
+    "odidebutyear": "2017",
+    "odidebutagainst": "Scotland",
+    "odicap": "68",
+    "lastodidate": "16 April",
+    "lastodiyear": "2019",
+    "lastodiagainst": "Zimbabwe",
+    "T20Idebutdate": "14 December",
+    "T20Idebutyear": "2016",
+    "T20Idebutagainst": "Afghanistan",
+    "T20Icap": "30",
+    "lastT20Idate": "18 October",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Oman",
+    "source": "http://www.espncricinfo.com/ci/content/player/950303.html Cricinfo ",
+    "ODI": {
+        "matches": "23",
+        "runs": "500",
+        "bat avg": "21.73",
+        "100s/50s": "0/4",
+        "top score": "90",
+        "catches/stumpings": "30/2"
+    },
+    "T20I": {
+        "matches": "17",
+        "runs": "208",
+        "bat avg": "18.90",
+        "100s/50s": "0/1",
+        "catches/stumpings": "14/1"
+    },
+    "LA": {
+        "matches": "42",
+        "runs": "1,168",
+        "bat avg": "28.48",
+        "100s/50s": "0/9",
+        "top score": "90",
+        "catches/stumpings": "50/4"
+    },
+    "T20": {
+        "matches": "19",
+        "runs": "281",
+        "bat avg": "21.61",
+        "100s/50s": "0/2",
+        "catches/stumpings": "16/1"
+    },
+    "clubs": {},
+    "birth_date": "1985-12-12"
+}

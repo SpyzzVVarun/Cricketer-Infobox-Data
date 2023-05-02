@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Edward Knatchbull Hughes D'Aeth",
+    "birth_place": "Knowlton, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "New York City, New York, United States",
+    "family": "Lewis D'Aeth (brother), Henry Knight (grandfather)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12010.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "44",
+        "bat avg": "8.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1885"
+    }
+}

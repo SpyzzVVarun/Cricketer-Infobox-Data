@@ -1,0 +1,30 @@
+{
+    "name": "Vivian Neser",
+    "country": "South Africa",
+    "fullname": "Vivian Herbert Neser",
+    "nickname": "Boet, Knoppie",
+    "birth_place": "Klerksdorp, South African Republic",
+    "death_date": "1956",
+    "death_place": "Pretoria, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/46572.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "743",
+        "bat avg": "27.51",
+        "100s/50s": "0/7",
+        "top score": "90",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "28/15"
+    },
+    "clubs": {
+        "Oxford University": "1919 to 1921",
+        "Transvaal": "1921-22 to 1924-25"
+    },
+    "birth_date": "1894-6-16"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Richard Wardill",
+    "country": "Australia",
+    "fullname": "Richard Wilson Wardill",
+    "birth_place": "Everton, Liverpool, Lancashire, England",
+    "death_date": "1873",
+    "death_place": "Melbourne, Australia",
+    "family": "Benjamin Wardill (brother), Dick Wardill (son)",
+    "batting": "Right-handed",
+    "bowling": "Right arm medium pace Right arm medium pace (roundarm)",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/16/16826/16826.html CricketArchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "381",
+        "bat avg": "25.40",
+        "100s/50s": "1/1",
+        "top score": "110",
+        "deliveries": "202",
+        "wickets": "8",
+        "bowl avg": "10.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/23"
+    },
+    "clubs": {
+        "Victoria": "1861\u201373",
+        "G. Anderson's XI": "1864"
+    },
+    "birth_date": "1840-11-3"
+}

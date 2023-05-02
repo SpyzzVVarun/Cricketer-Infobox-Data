@@ -1,0 +1,22 @@
+{
+    "name": "Jimmy Stone",
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://hcs.cricketarchive.co.uk/Archive/Players/4/4670/4670.html CricketArchive ",
+    "First-class": {
+        "matches": "306",
+        "runs": "10,341",
+        "bat avg": "22.43",
+        "100s/50s": "6/48",
+        "top score": "174",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "104.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/77",
+        "catches/stumpings": "392/132"
+    },
+    "clubs": {}
+}

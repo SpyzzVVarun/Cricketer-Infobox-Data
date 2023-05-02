@@ -1,0 +1,33 @@
+{
+    "name": "Neil MacRae",
+    "birth_place": "Liverpool, England",
+    "country": "Scotland",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/10/10693/10693.html CricketArchive  ",
+    "ODI": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "6",
+        "runs": "219",
+        "bat avg": "21.90",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "2/0"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "255",
+        "bat avg": "19.61",
+        "100s/50s": "0/1",
+        "top score": "83",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1972-3-25"
+}

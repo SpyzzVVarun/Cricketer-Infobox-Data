@@ -1,0 +1,40 @@
+{
+    "name": "James Schofield",
+    "country": "England",
+    "fullname": "James Edward Knowle Schofield",
+    "birth_place": "Blackpool, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/21231.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "43",
+        "bat avg": "10.75",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "853",
+        "wickets": "19",
+        "bowl avg": "25.10",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "22.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/22",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "2001&ndash;2002"
+    },
+    "birth_date": "1978-11-1"
+}

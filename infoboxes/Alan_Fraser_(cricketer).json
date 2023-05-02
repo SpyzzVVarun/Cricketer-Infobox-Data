@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Alan Fraser",
+    "birth_place": "Perth, Perthshire, Scotland",
+    "death_date": "1962",
+    "death_place": "Dundee, Angus, Scotland",
+    "family": "William Lovat Fraser (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/alan-fraser-25212 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1921"
+    }
+}

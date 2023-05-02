@@ -1,0 +1,44 @@
+{
+    "name": "Milly Home",
+    "female": "true",
+    "fullname": "Milly Home",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "family": "Guy Home (uncle)",
+    "source": "https://cricketarchive.com/Archive/Players/1312/1312060/1312060.html CricketArchive",
+    "WLA": {
+        "matches": "15",
+        "runs": "229",
+        "bat avg": "17.61",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WT20": {
+        "matches": "36",
+        "runs": "501",
+        "bat avg": "16.16",
+        "100s/50s": "0/1",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Shropshire": "2015\u20132017",
+        "Warwickshire": "2018\u2013present",
+        "\u2192 Worcestershire (on loan)": "2021\u2013present",
+        "Central Sparks": "2020\u20132022"
+    },
+    "birth_date": "2001-2-27"
+}

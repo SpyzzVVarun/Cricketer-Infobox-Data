@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Frederick Hayes Whymper",
+    "birth_place": "Westminster, Middlesex, England",
+    "death_date": "1893",
+    "death_place": "Chelsea, London, England",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/player/frederick-whymper-23383 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "60",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1849&ndash;1852",
+        "Marylebone Cricket Club": "1851"
+    }
+}

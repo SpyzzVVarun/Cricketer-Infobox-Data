@@ -1,0 +1,38 @@
+{
+    "name": "Gerald Mordaunt",
+    "fullname": "Gerald John Mordaunt",
+    "birth_place": "Wellesbourne Hastings, Warwickshire",
+    "death_date": "df=yes",
+    "death_place": "Hayling Island, Hampshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm slow Slow left arm Right-arm slow Slow left arm orthodox",
+    "family": "John Mordaunt (father) Henry Mordaunt (brother) Eustace Mordaunt (brother) Osbert Mordaunt (uncle) David Mordaunt (grandson)",
+    "type1": "FC",
+    "debutdate1": "15 June",
+    "debutyear1": "1893",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "9 May",
+    "lastyear1": "1904",
+    "lastfor1": "Gentlemen of England",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.espncricinfo.com/england/content/player/17666.html CricInfo",
+    "First-class": {
+        "matches": "60",
+        "runs": "2,675",
+        "bat avg": "26.22",
+        "100s/50s": "2/13",
+        "deliveries": "15",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "72/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1893\u20131896",
+        "Kent": "1895\u20131897"
+    },
+    "birth_date": "1873-01-20"
+}

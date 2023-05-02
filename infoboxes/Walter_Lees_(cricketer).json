@@ -1,0 +1,41 @@
+{
+    "name": "Walter Lees",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "2 January",
+    "testdebutyear": "1906",
+    "lasttestdate": "30 March",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1906",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/16242.html CricInfo",
+    "Test": {
+        "matches": "5",
+        "runs": "66",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "deliveries": "1,256",
+        "wickets": "26",
+        "bowl avg": "17.96",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/78",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "364",
+        "runs": "7,642",
+        "bat avg": "17.13",
+        "100s/50s": "2/17",
+        "top score": "137",
+        "deliveries": "69,778",
+        "wickets": "1,402",
+        "bowl avg": "21.40",
+        "fivefor": "97",
+        "tenfor": "20",
+        "best bowling": "9/81",
+        "catches/stumpings": "125/\u2013"
+    },
+    "clubs": {}
+}

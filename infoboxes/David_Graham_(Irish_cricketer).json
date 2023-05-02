@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "David Graham",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "2009",
+    "death_place": "Harrow, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24377.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "20.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/13",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1948"
+    },
+    "birth_date": "1922-3-13"
+}

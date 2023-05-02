@@ -1,0 +1,43 @@
+{
+    "name": "Dooley Briscoe",
+    "birth_place": "Johannesburg, Transvaal",
+    "death_place": "near Dessie, Ethiopia",
+    "death_date": "22 April 1941 (aged 30)",
+    "batting": "Right-handed",
+    "bowling": "-",
+    "country": "South Africa",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1935",
+    "lasttestdate": "31 December",
+    "lasttestyear": "1938",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/44121.html Cricinfo",
+    "Tests": {
+        "matches": "2",
+        "runs": "33",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/-"
+    },
+    "First-class": {
+        "matches": "35",
+        "runs": "2189",
+        "bat avg": "45.60",
+        "100s/50s": "6/10",
+        "top score": "191",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "15/-"
+    },
+    "clubs": {}
+}

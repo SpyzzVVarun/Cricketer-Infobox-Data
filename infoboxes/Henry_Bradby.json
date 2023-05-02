@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry Christopher Bradby",
+    "birth_place": "Hertford Heath, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ringshall, Hertfordshire, England",
+    "family": "Edward Bradby (brother), Arthur Chitty (brother-in-law)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/9933.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "178",
+        "bat avg": "19.77",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1890"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Kirk Stewart",
+    "country": "England",
+    "fullname": "Kirk David Edward Stewart",
+    "birth_place": "Marandellas, Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/20374.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "156",
+        "wickets": "7",
+        "bowl avg": "18.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/52",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "1999",
+        "Hertfordshire": "2000"
+    },
+    "birth_date": "1974-1-1"
+}

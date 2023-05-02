@@ -1,0 +1,38 @@
+{
+    "name": "Will Gifford",
+    "country": "England",
+    "fullname": "William McLean Gifford",
+    "birth_place": "Sutton Coldfield, England",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/64/64311/64311.html CricketArchive ",
+    "FC": {
+        "matches": "8",
+        "runs": "252",
+        "bat avg": "22.90",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/0"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {},
+    "birth_date": "1985-10-10"
+}

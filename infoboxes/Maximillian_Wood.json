@@ -1,0 +1,29 @@
+{
+    "name": "Maximillian Wood",
+    "country": "England",
+    "fullname": "Maximillian David Francis Wood",
+    "birth_place": "Kamptee, Bombay Presidency,, British India",
+    "death_date": "1915",
+    "death_place": "Ismail Oglu Tepe, Gallipoli, Ottoman Empire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/22507.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "196",
+        "bat avg": "10.31",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "deliveries": "1,049",
+        "wickets": "34",
+        "bowl avg": "14.20",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/51",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Europeans (India)": "1897&ndash;1902",
+        "Hampshire": "1907"
+    }
+}

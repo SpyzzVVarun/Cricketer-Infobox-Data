@@ -1,0 +1,32 @@
+{
+    "name": "Yeshwant Sidhaye",
+    "country": "India",
+    "fullname": "Yeshwant Prabhakar Sidhaye",
+    "birth_place": "Iran",
+    "death_date": "2002",
+    "death_place": "Pune, Maharashtra, India",
+    "nickname": "Baba, Panther",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/india/content/player/35116.html ESPNcricinfo ",
+    "FC": {
+        "matches": "51",
+        "runs": "1,862",
+        "bat avg": "27.79",
+        "100s/50s": "1/10",
+        "top score": "135",
+        "deliveries": "772",
+        "wickets": "13",
+        "bowl avg": "37.61",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "36/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "1952/53\u20131966/67",
+        "Bombay": "1954/55",
+        "Railways": "1961/62\u20131967/68"
+    },
+    "birth_date": "1932-4-10"
+}

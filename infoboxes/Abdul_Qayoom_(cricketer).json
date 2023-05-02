@@ -1,0 +1,41 @@
+{
+    "name": "Abdul Qayoom",
+    "country": "India",
+    "fullname": "Abdul Qayoom Bagaw",
+    "birth_place": "Anantnag, Jammu and Kashmir, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/32977.html ESPNcricinfo ",
+    "FC": {
+        "matches": "47",
+        "runs": "796",
+        "bat avg": "11.21",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "8,563",
+        "wickets": "152",
+        "bowl avg": "30.67",
+        "fivefor": "11",
+        "tenfor": "2",
+        "best bowling": "7/57",
+        "catches/stumpings": "17/\u2013"
+    },
+    "List A": {
+        "matches": "25",
+        "runs": "170",
+        "bat avg": "9.44",
+        "100s/50s": "0/0",
+        "deliveries": "1,273",
+        "wickets": "31",
+        "bowl avg": "32.67",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/24",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Jammu and Kashmir": "1985/86\u20132002/03"
+    },
+    "birth_date": "1967-3-2"
+}

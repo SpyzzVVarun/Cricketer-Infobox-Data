@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Wilfred Cyril Izzard",
+    "birth_place": "Northampton, Northamptonshire, England",
+    "death_date": "1977",
+    "death_place": "Northampton, Northamptonshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/15444.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "206",
+        "bat avg": "10.30",
+        "100s/50s": "&ndash;/1",
+        "top score": "51",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1919&ndash;1920"
+    },
+    "birth_date": "1892-2-25"
+}

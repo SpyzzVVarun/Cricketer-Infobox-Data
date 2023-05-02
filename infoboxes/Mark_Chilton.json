@@ -1,0 +1,59 @@
+{
+    "name": "Mark Chilton",
+    "country": "England",
+    "fullname": "Mark James Chilton",
+    "birth_place": "Sheffield, South Yorkshire, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/10723.html Cricinfo ",
+    "FC": {
+        "matches": "196",
+        "runs": "9,556",
+        "bat avg": "32.72",
+        "100s/50s": "21/39",
+        "top score": "131",
+        "deliveries": "1,343",
+        "wickets": "12",
+        "bowl avg": "55.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/3",
+        "catches/stumpings": "140/\u2013"
+    },
+    "LA": {
+        "matches": "185",
+        "runs": "4,505",
+        "bat avg": "30.43",
+        "100s/50s": "5/21",
+        "top score": "115",
+        "deliveries": "1,106",
+        "wickets": "42",
+        "bowl avg": "24.07",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/26",
+        "catches/stumpings": "57/\u2013"
+    },
+    "T20": {
+        "matches": "52",
+        "runs": "376",
+        "bat avg": "16.34",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "British Universities": "1997\u20131998",
+        "Lancashire": "1997\u20132011"
+    },
+    "birth_date": "1976-10-02"
+}

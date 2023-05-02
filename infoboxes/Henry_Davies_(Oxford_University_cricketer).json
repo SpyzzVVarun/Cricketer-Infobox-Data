@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Henry Richard Davies",
+    "birth_place": "Camberwell, London, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "http://www.espncricinfo.com/england/content/player/11988.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "178",
+        "bat avg": "12.71",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "deliveries": "1,846",
+        "wickets": "13",
+        "bowl avg": "105.92",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/93",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1990&ndash;1992"
+    },
+    "birth_date": "1970-9-2"
+}

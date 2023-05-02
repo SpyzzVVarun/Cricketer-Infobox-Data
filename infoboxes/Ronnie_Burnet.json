@@ -1,0 +1,29 @@
+{
+    "name": "Ronnie Burnet",
+    "country": "England",
+    "fullname": "John Ronald Burnet",
+    "birth_place": "Saltaire, Yorkshire, England",
+    "death_date": "1999",
+    "death_place": "Pateley Bridge, Yorkshire, England",
+    "batting": "Right-handed",
+    "role": "Batsman, captain",
+    "source": "https://cricketarchive.com/Archive/Players/28/28309/28309.html Cricket Archive ",
+    "First-class": {
+        "matches": "55",
+        "runs": "897",
+        "bat avg": "12.63",
+        "100s/50s": "0/3",
+        "top score": "54",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "26.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/8",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1958\u20131959"
+    },
+    "birth_date": "1918-10-11"
+}

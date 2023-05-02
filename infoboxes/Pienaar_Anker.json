@@ -1,0 +1,40 @@
+{
+    "name": "Pienaar Anker",
+    "country": "South Africa",
+    "birth_place": "Bellville, Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/43995.html Cricinfo ",
+    "First-class": {
+        "matches": "42",
+        "runs": "562",
+        "bat avg": "17.03",
+        "100s/50s": "0/3",
+        "top score": "59",
+        "deliveries": "10,188",
+        "wickets": "175",
+        "bowl avg": "21.90",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "6/50",
+        "catches/stumpings": "27/\u2013"
+    },
+    "List A": {
+        "matches": "23",
+        "runs": "109",
+        "bat avg": "9.90",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "1230",
+        "wickets": "13",
+        "bowl avg": "49.84",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/26",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Boland": "1981\u201382 to 1990\u201391"
+    },
+    "birth_date": "1956-1-4"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Reinout Scholte",
+    "country": "Netherlands",
+    "fullname": "Reinout Hans Scholte",
+    "birth_place": "The Hague, Netherlands",
+    "internationalspan": "2002\u20132003",
+    "odidebutdate": "16 September",
+    "odidebutyear": "2002",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "18",
+    "lastodidate": "28 February",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Zimbabwe",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/netherlands/content/player/24945.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "5",
+        "runs": "39",
+        "bat avg": "7.80",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "16",
+        "runs": "95",
+        "bat avg": "7.91",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "11/3"
+    },
+    "clubs": {},
+    "birth_date": "1967-8-10"
+}

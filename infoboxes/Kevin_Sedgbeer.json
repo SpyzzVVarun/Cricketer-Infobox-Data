@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Kevin Graham Sedgbeer",
+    "birth_place": "Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/20100.html Cricinfo ",
+    "LA": {
+        "matches": "6",
+        "runs": "103",
+        "bat avg": "20.60",
+        "100s/50s": "\u2013/-",
+        "top score": "37",
+        "deliveries": "186",
+        "wickets": "2",
+        "bowl avg": "64.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/29",
+        "catches/stumpings": "4/-"
+    },
+    "clubs": {
+        "Huntingdonshire": "2000",
+        "Somerset Cricket Board": "1999&ndash;2002"
+    },
+    "birth_date": "1972-9-20"
+}

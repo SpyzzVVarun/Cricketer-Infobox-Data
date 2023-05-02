@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Ronald Scott Sugden",
+    "birth_place": "Aintree, Lancashire, England",
+    "death_date": "1971",
+    "death_place": "Dinas Powys, Glamorgan, Wales",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21113.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "90",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

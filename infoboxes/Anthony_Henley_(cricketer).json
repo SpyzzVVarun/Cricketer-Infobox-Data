@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Anthony Alfred Henley",
+    "birth_place": "Sherborne, Dorset, England",
+    "death_date": "1916",
+    "death_place": "Woodbridge, Suffolk, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "family": "Francis Henley (son), Robert Henley (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/14160.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1866"
+    }
+}

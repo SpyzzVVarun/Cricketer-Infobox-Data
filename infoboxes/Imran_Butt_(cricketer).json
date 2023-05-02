@@ -1,0 +1,56 @@
+{
+    "name": "Imran Butt",
+    "country": "Pakistan",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "testdebutdate": "26 January",
+    "testdebutyear": "2021",
+    "testdebutagainst": "South Africa",
+    "testcap": "242",
+    "lasttestdate": "20 August",
+    "lasttestyear": "2021",
+    "lasttestagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/598905.html Cricinfo ",
+    "Test": {
+        "matches": "6",
+        "runs": "178",
+        "bat avg": "17.80",
+        "100s/50s": "0/1",
+        "top score": "91",
+        "catches/stumpings": "16/\u2013"
+    },
+    "FC": {
+        "matches": "78",
+        "runs": "4,656",
+        "bat avg": "34.74",
+        "100s/50s": "10/24",
+        "top score": "214",
+        "catches/stumpings": "94/\u2013"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "1,305",
+        "bat avg": "37.28",
+        "100s/50s": "2/8",
+        "top score": "104",
+        "catches/stumpings": "9/\u2013"
+    },
+    "T20": {
+        "matches": "16",
+        "runs": "135",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Lahore Shalimar": "2012/13\u20132014/15",
+        "Sui Northern Gas Pipelines": "2015/16\u20132018/19",
+        "Lahore Lions": "2013\u20132015",
+        "Lahore Qalandars": "2016",
+        "North West Warriors": "2017",
+        "Balochistan": "2019\u2013present"
+    },
+    "birth_date": "1995-12-27"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Robin Douglas Lees",
+    "birth_place": "Cranleigh, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/16533.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "276",
+        "wickets": "1",
+        "bowl avg": "144.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/53",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1970"
+    },
+    "birth_date": "1949-5-19"
+}

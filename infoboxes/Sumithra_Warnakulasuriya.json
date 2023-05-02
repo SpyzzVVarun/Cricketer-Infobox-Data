@@ -1,0 +1,36 @@
+{
+    "name": "Sumithra Warnakulasuriya",
+    "country": "Sri Lanka",
+    "birth_place": "Maharagama, Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50968.html Cricinfo ",
+    "FC": {
+        "matches": "16",
+        "runs": "789",
+        "bat avg": "37.57",
+        "100s/50s": "1/5",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "127",
+        "bat avg": "31.75",
+        "100s/50s": "0/1",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "40.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1962-3-25"
+}

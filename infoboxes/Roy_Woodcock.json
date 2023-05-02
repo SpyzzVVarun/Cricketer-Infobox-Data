@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Roy Gordon Woodcock",
+    "birth_place": "Burnley, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Malvern, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/23158.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "779",
+        "bat avg": "18.11",
+        "100s/50s": "\u2013/4",
+        "top score": "57",
+        "deliveries": "3,886",
+        "wickets": "53",
+        "bowl avg": "33.83",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/54",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1956&ndash;1958"
+    }
+}

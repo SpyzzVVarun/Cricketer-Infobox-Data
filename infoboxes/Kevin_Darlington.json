@@ -1,0 +1,56 @@
+{
+    "name": "Kevin Darlington",
+    "country": "United States",
+    "fullname": "Kevin Godfrey Darlington",
+    "birth_place": "New Amsterdam, East Berbice-Corentyne, Guyana",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "internationalspan": "2010&ndash;2011",
+    "source": "http://www.cricinfo.com/usa/content/player/51661.html Cricinfo ",
+    "FC": {
+        "matches": "30",
+        "runs": "154",
+        "bat avg": "6.41",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "4,508",
+        "wickets": "79",
+        "bowl avg": "28.79",
+        "fivefor": "3",
+        "tenfor": "&ndash;",
+        "best bowling": "6/25",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "LA": {
+        "matches": "22",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "840",
+        "wickets": "18",
+        "bowl avg": "25.27",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/14",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "45.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/19",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Guyana": "1995&ndash;2002"
+    },
+    "birth_date": "1972-4-26"
+}

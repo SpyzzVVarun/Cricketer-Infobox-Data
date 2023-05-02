@@ -1,0 +1,28 @@
+{
+    "name": "John Badcock",
+    "country": "England",
+    "birth_place": "Christchurch, Hampshire, England",
+    "death_date": "1940",
+    "death_place": "Marylebone, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/8932.html Cricinfo ",
+    "FC": {
+        "matches": "69",
+        "runs": "1,199",
+        "bat avg": "14.44",
+        "100s/50s": "\u2013/2",
+        "top score": "74",
+        "deliveries": "9,157",
+        "wickets": "212",
+        "bowl avg": "25.53",
+        "fivefor": "12",
+        "tenfor": "3",
+        "best bowling": "8/44",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1906\u20131908"
+    },
+    "birth_date": "1883-10-4"
+}

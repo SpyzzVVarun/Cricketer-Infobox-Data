@@ -1,0 +1,21 @@
+{
+    "name": "David Livingstone",
+    "country": "Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/27/27069/27069.html CricketArchive ",
+    "First-class": {
+        "matches": "18",
+        "runs": "102",
+        "bat avg": "6.37",
+        "100s/50s": "0/0",
+        "deliveries": "2,982",
+        "wickets": "50",
+        "bowl avg": "25.10",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/33",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {}
+}

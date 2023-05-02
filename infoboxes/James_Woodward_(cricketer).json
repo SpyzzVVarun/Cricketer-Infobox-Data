@@ -1,0 +1,26 @@
+{
+    "name": "James Woodward",
+    "country": "England",
+    "fullname": "James Ralph Woodward",
+    "birth_place": "Peterborough, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/22571.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "40",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/-",
+        "top score": "30",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/-"
+    },
+    "clubs": {
+        "Huntingdonshire": "2000&ndash;2001"
+    },
+    "birth_date": "1963-11-19"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Ikram Alikhil",
+    "country": "Afghanistan",
+    "role": "Wicket-keeper batsman",
+    "onetest": "true",
+    "testdebutdate": "15 March",
+    "testdebutyear": "2019",
+    "testdebutagainst": "Ireland",
+    "testcap": "13",
+    "odidebutdate": "2 March",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Ireland",
+    "odicap": "45",
+    "lastodidate": "11 November",
+    "lastodiyear": "2019",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/935553.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "4/1"
+    },
+    "ODI": {
+        "matches": "12",
+        "runs": "234",
+        "bat avg": "26.00",
+        "100s/50s": "0/2",
+        "top score": "86",
+        "catches/stumpings": "3/3"
+    },
+    "FC": {
+        "matches": "16",
+        "runs": "759",
+        "bat avg": "39.94",
+        "100s/50s": "1/5",
+        "top score": "103*",
+        "catches/stumpings": "45/5"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "726",
+        "bat avg": "27.92",
+        "100s/50s": "0/7",
+        "top score": "94",
+        "catches/stumpings": "26/3"
+    },
+    "clubs": {},
+    "birth_date": "2000-9-29"
+}

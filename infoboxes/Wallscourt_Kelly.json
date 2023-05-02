@@ -1,0 +1,27 @@
+{
+    "country": "Australia",
+    "fullname": "Wallscourt Steen Kelly",
+    "birth_place": "Elsternwick, Victoria, Australia",
+    "death_date": "1952",
+    "death_place": "Ivanhoe, Victoria, Australia",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/wallscourt-kelly-30253 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "74",
+        "bat avg": "9.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "432",
+        "wickets": "24",
+        "bowl avg": "13.58",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/57",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1924/25&ndash;1927/28"
+    }
+}

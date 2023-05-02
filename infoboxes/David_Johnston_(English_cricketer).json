@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "David Johnston",
+    "birth_place": "Blackpool, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/15768.html Cricinfo ",
+    "LA": {
+        "matches": "6",
+        "runs": "139",
+        "bat avg": "23.16",
+        "100s/50s": "&ndash;/1",
+        "top score": "68",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties West": "1976",
+        "Minor Counties South": "1975",
+        "Berkshire": "1960-1980"
+    },
+    "birth_date": "1943-4-17"
+}

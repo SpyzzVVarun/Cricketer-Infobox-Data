@@ -1,0 +1,31 @@
+{
+    "name": "George Chesterton",
+    "country": "England",
+    "fullname": "George Herbert Chesterton",
+    "birth_place": "Fenton, Stoke-on-Trent, Staffordshire, England",
+    "death_date": "2012",
+    "death_place": "Great Malvern, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/28/28526/28526.html CricketArchive ",
+    "FC": {
+        "matches": "72",
+        "runs": "598",
+        "bat avg": "8.79",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "14,017",
+        "wickets": "263",
+        "bowl avg": "22.78",
+        "fivefor": "18",
+        "tenfor": "1",
+        "best bowling": "7\u201314",
+        "catches/stumpings": "37/0"
+    },
+    "clubs": {
+        "Oxford University": "1949",
+        "Marylebone Cricket Club (MCC)": "1950\u20131966",
+        "Worcestershire": "1950\u20131957"
+    },
+    "birth_date": "1922-7-15"
+}

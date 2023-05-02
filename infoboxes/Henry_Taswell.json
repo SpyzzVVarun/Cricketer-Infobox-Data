@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Henry Taswell",
+    "birth_place": "Canterbury, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Sherbrooke, Quebec, Canada",
+    "family": "Edward Taswell (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22047.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1851"
+    }
+}

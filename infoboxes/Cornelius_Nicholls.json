@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Cornelius Nicholls",
+    "birth_place": "Pendleton, Lancashire, England",
+    "death_date": "1895 (aged 56/57)",
+    "death_place": "Chorlton, Lancashire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown arm Unknown arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/18216.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "18.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "157",
+        "wickets": "8",
+        "bowl avg": "7.87",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/19",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

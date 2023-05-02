@@ -1,0 +1,58 @@
+{
+    "name": "Christopher Carter",
+    "country": "Hong Kong",
+    "fullname": "Christopher Carter",
+    "birth_place": "Hong Kong",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2015\u20132018",
+    "odidebutdate": "16 November",
+    "odidebutyear": "2015",
+    "odidebutagainst": "UAE",
+    "odicap": "31",
+    "lastodidate": "18 September",
+    "lastodiyear": "2018",
+    "lastodiagainst": "India",
+    "T20Idebutdate": "21 November",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "Oman",
+    "T20Icap": "18",
+    "lastT20Idate": "18 January",
+    "lastT20Iyear": "2017",
+    "lastT20Iagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/919493.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "11",
+        "runs": "114",
+        "bat avg": "12.66",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "10/2"
+    },
+    "T20I": {
+        "matches": "10",
+        "runs": "55",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "2/1"
+    },
+    "FC": {
+        "matches": "5",
+        "runs": "177",
+        "bat avg": "19.66",
+        "100s/50s": "0/1",
+        "top score": "84",
+        "catches/stumpings": "11/2"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "221",
+        "bat avg": "14.73",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "13/4"
+    },
+    "clubs": {},
+    "birth_date": "1997-9-9"
+}

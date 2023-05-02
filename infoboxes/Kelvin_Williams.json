@@ -1,0 +1,41 @@
+{
+    "name": "Kelvin Williams",
+    "country": "West Indies",
+    "fullname": "Kelvin Claudius Williams",
+    "birth_place": "Carapichaima, Trinidad",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/10/10070/10070.html CricketArchive ",
+    "First-class": {
+        "matches": "27",
+        "runs": "834",
+        "bat avg": "24.52",
+        "100s/50s": "0/4",
+        "top score": "91",
+        "deliveries": "3,107",
+        "wickets": "59",
+        "bowl avg": "29.62",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/29",
+        "catches/stumpings": "12/\u2013"
+    },
+    "List A": {
+        "matches": "18",
+        "runs": "195",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "846",
+        "wickets": "16",
+        "bowl avg": "36.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/37",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1981\u20131990"
+    },
+    "birth_date": "1959-5-29"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Thomas Fraser",
+    "fullname": "Thomas William Fraser",
+    "birth_place": "Natal, South Africa",
+    "death_date": "1995",
+    "death_place": "Taunton, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/45189.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "249",
+        "bat avg": "9.57",
+        "100s/50s": "0/1",
+        "deliveries": "4,062",
+        "wickets": "58",
+        "bowl avg": "31.62",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "8/71",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1936\u20131937",
+        "Orange Free State": "1937/38\u20131946/47"
+    },
+    "birth_date": "1912-6-26"
+}

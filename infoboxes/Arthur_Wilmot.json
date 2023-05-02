@@ -1,0 +1,28 @@
+{
+    "name": "Arthur Wilmot",
+    "country": "England",
+    "fullname": "Arthur Alfred Wilmot",
+    "birth_place": "Derby, England",
+    "death_date": "1876",
+    "death_place": "Morley, Derbyshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "17 August",
+    "debutyear1": "1871",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/33/33928/33928.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Derbyshire": "1871"
+    },
+    "birth_date": "1845-2-14"
+}

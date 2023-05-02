@@ -1,0 +1,39 @@
+{
+    "name": "Craig Thiele",
+    "fullname": "Craig Harvey Thiele",
+    "birth_place": "Nelson, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://espncricinfo.com/newzealand/content/player/38652.html Cricinfo",
+    "First-class": {
+        "matches": "34",
+        "runs": "260",
+        "bat avg": "10.40",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "5,641",
+        "wickets": "107",
+        "bowl avg": "26.93",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/45",
+        "catches/stumpings": "11/\u2013"
+    },
+    "List A": {
+        "matches": "25",
+        "runs": "34",
+        "bat avg": "3.09",
+        "100s/50s": "0/0",
+        "deliveries": "1197",
+        "wickets": "39",
+        "bowl avg": "18.51",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/37",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1980/81\u20131985/86"
+    },
+    "birth_date": "1953-11-14"
+}

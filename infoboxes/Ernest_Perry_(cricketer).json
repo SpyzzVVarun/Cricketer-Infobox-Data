@@ -1,0 +1,30 @@
+{
+    "name": "Ernest Perry",
+    "country": "England",
+    "fullname": "Ernest Harvey Perry",
+    "birth_place": "Chaddesley Corbett, Worcestershire, England",
+    "death_date": "1996",
+    "death_place": "Kidderminster, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast",
+    "role": "fast bowler",
+    "source": "http://cricketarchive.co.uk/Archive/Players/32/32027/32027.html ",
+    "FC": {
+        "matches": "10",
+        "runs": "148",
+        "bat avg": "9.25",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "1,268",
+        "wickets": "22",
+        "bowl avg": "33.27",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5-42",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Worcestershire": "1933&ndash;1946"
+    },
+    "birth_date": "1908-1-16"
+}

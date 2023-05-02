@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Benjamin Anthony Jeffery",
+    "birth_place": "Camden, London, England",
+    "heightft": "6",
+    "heightinch": "5",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/511748.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "133",
+        "bat avg": "13.30",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "2011&ndash;2013",
+        "Oxford MCCU": "2012&ndash;2014"
+    },
+    "birth_date": "1991-7-31"
+}

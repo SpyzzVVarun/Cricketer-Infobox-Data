@@ -1,0 +1,32 @@
+{
+    "name": "Tahlia Wilson",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Tahlia Beverly Wilson",
+    "birth_place": "Figtree, New South Wales, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2124/2124531/2124531.html CricketArchive ",
+    "WLA": {
+        "matches": "18",
+        "runs": "375",
+        "bat avg": "25.00",
+        "100s/50s": "0/4",
+        "catches/stumpings": "5/0"
+    },
+    "WT20": {
+        "matches": "30",
+        "runs": "234",
+        "bat avg": "16.71",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/5"
+    },
+    "clubs": {
+        "Auckland": "2018/19",
+        "New South Wales": "2017/18\u2013present",
+        "Sydney Sixers": "2018/19",
+        "Sydney Thunder": "2019/20\u2013present"
+    },
+    "birth_date": "1999-10-21"
+}

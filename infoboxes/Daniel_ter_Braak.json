@@ -1,0 +1,45 @@
+{
+    "name": "Daniel ter Braak",
+    "country": "Netherlands",
+    "fullname": "Daniel James ter Braak",
+    "birth_place": "Rotterdam, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batsman",
+    "family": "Ross ter Braak (brother)",
+    "internationalspan": "2017\u2013present",
+    "odidebutdate": "1 August",
+    "odidebutyear": "2018",
+    "odidebutagainst": "Nepal",
+    "odicap": "65",
+    "lastodidate": "3 August",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/960035.html Cricinfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "40",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "40",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1991-2-27"
+}

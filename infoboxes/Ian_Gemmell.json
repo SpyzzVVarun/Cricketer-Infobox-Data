@@ -1,0 +1,27 @@
+{
+    "name": "Ian Gemmell",
+    "fullname": "Ian James Gemmell",
+    "birth_place": "Ashton-under-Lyne, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13834.html Cricinfo ",
+    "List A": {
+        "matches": "10",
+        "runs": "59",
+        "bat avg": "7.37",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "455",
+        "wickets": "7",
+        "bowl avg": "45.71",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/58",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1981\u20131982",
+        "Minor Counties North": "1979",
+        "Cheshire": "1978\u20131983"
+    },
+    "birth_date": "1953-4-6"
+}

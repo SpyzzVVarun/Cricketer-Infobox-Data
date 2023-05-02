@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Cyril Hollinshead",
+    "birth_place": "Timberland, Lincolnshire, England",
+    "death_date": "1995",
+    "death_place": "Cheltenham, Gloucestershire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/14242.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "30",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Lincolnshire": "1931",
+        "Gloucestershire": "1946"
+    },
+    "birth_date": "1902-5-26"
+}

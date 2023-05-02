@@ -1,0 +1,54 @@
+{
+    "name": "Rajib Dutta",
+    "fullname": "Rajib Kajalkumar Dutta",
+    "birth_place": "Agartala, India",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/india/content/player/28301.html Cricinfo ",
+    "FC": {
+        "matches": "49",
+        "runs": "1314",
+        "bat avg": "17.28",
+        "100s/50s": "0/6",
+        "top score": "81",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "87/15"
+    },
+    "List A": {
+        "matches": "37",
+        "runs": "545",
+        "bat avg": "18.79",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "42/7"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "66",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/1"
+    },
+    "clubs": {
+        "Tripura": "1999-00 to 2011-12"
+    },
+    "birth_date": "1980-11-17"
+}

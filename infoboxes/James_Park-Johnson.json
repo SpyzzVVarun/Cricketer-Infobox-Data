@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "James Charles Park-Johnson",
+    "birth_place": "Kendal, Westmorland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/1141710.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "258",
+        "wickets": "1",
+        "bowl avg": "236.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/69",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge MCCU": "2019"
+    },
+    "birth_date": "1998-9-14"
+}

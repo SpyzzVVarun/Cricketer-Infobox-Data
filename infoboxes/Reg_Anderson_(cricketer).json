@@ -1,0 +1,30 @@
+{
+    "name": "Reg Anderson",
+    "country": "England",
+    "fullname": "Reginald Mervyn Bulford Anderson",
+    "birth_place": "Brynhyfryd, Glamorgan, Wales",
+    "death_date": "1972",
+    "death_place": "Uplands, Glamorgan, Wales",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "onetype1": "true",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/4/4283/4283.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "-/-",
+        "top score": "0",
+        "deliveries": "108",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "Glamorgan": "1946"
+    },
+    "birth_date": "1914-4-25"
+}

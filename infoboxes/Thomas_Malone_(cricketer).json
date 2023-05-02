@@ -1,0 +1,28 @@
+{
+    "name": "Thomas Malone",
+    "fullname": "Thomas Joseph Malone",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1933",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/37806.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "24",
+        "bat avg": "2.66",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "2080",
+        "wickets": "39",
+        "bowl avg": "22.76",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "7/30",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Canterbury": "1895-96 to 1908-09"
+    },
+    "birth_date": "1876-5-17"
+}

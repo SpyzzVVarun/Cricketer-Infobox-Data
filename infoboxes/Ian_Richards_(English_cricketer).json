@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Ian Michael Richards",
+    "birth_place": "Stockton-on-Tees, County Durham, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19668.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "467",
+        "bat avg": "22.23",
+        "100s/50s": "&ndash;/1",
+        "top score": "50",
+        "deliveries": "372",
+        "wickets": "7",
+        "bowl avg": "28.71",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/57",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "53",
+        "bat avg": "8.83",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "150",
+        "wickets": "2",
+        "bowl avg": "76.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/22",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Durham": "1981&ndash;1982",
+        "Northamptonshire": "1976&ndash;1979"
+    },
+    "birth_date": "1957-12-9"
+}

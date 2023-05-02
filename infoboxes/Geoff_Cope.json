@@ -1,0 +1,38 @@
+{
+    "name": "Geoff Cope",
+    "country": "England",
+    "fullname": "Geoffrey Alan Cope",
+    "birth_place": "Burmantofts, Leeds, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/10809.html CricInfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "40",
+        "bat avg": "13.33",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "864",
+        "wickets": "8",
+        "bowl avg": "34.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/102",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "112",
+        "wickets": "2",
+        "bowl avg": "17.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1947-2-23"
+}

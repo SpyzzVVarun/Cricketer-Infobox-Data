@@ -1,0 +1,31 @@
+{
+    "name": "Harold Lusk",
+    "country": "New Zealand",
+    "fullname": "Harold Butler Lusk",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Auckland",
+    "batting": "Right-handed",
+    "family": "Hugh Lusk (father), Hugh Lusk (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/22/22334/22334.html Cricket Archive ",
+    "First-class": {
+        "matches": "35",
+        "runs": "1451",
+        "bat avg": "22.67",
+        "100s/50s": "2/4",
+        "top score": "151 not out",
+        "deliveries": "634",
+        "wickets": "8",
+        "bowl avg": "42.25",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/33",
+        "catches/stumpings": "34/0"
+    },
+    "clubs": {
+        "Auckland": "1899-1900 to 1905-06, 1918-19 to 1920-21",
+        "Canterbury": "1906-07 to 1912-13",
+        "Wellington": "1917-18"
+    },
+    "birth_date": "1877-6-8"
+}

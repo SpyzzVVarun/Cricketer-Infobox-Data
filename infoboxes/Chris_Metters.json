@@ -1,0 +1,45 @@
+{
+    "name": "Chris Metters",
+    "country": "England",
+    "fullname": "Christopher Liam Metters",
+    "birth_place": "Torquay, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "role": "Bowler",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/360453.html CricInfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "167",
+        "bat avg": "23.85",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "1330",
+        "wickets": "29",
+        "bowl avg": "23.96",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/65",
+        "catches/stumpings": "15/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "47.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/41",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Devon": "2008\u20132010",
+        "Warwickshire( 35 )": "2011\u20132013"
+    },
+    "birth_date": "1990-9-12"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Alfred Diver",
+    "country": "England",
+    "birth_place": "Cambridge, England",
+    "death_date": "25 March 1876 (aged 52)",
+    "death_place": "Rugby, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://cricketarchive.co.uk/Archive/Players/29/29083/29083.html CricketArchive ",
+    "First-class": {
+        "matches": "84",
+        "runs": "1,701",
+        "bat avg": "12.23",
+        "100s/50s": "0/0",
+        "top score": "65",
+        "deliveries": "404+",
+        "wickets": "87",
+        "bowl avg": "19.23",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "\u2013",
+        "catches/stumpings": "43/3"
+    },
+    "clubs": {
+        "Cambridge Town Club": "1843\u20131855",
+        "Middlesex XI": "1850",
+        "Cambridgeshire": "1857\u20131866",
+        "Nottinghamshire": "1858"
+    }
+}

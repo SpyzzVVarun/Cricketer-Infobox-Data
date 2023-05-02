@@ -1,0 +1,30 @@
+{
+    "country": "Nigeria",
+    "fullname": "Victor Thomas Wilfred Troman",
+    "birth_place": "Wednesbury, Staffordshire, England",
+    "death_date": "2000",
+    "death_place": "Torquay, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/35383.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "20",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "55.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/20",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Devon": "1949-1956",
+        "Europeans (India)": "1945/46",
+        "Staffordshire": "1934-1938"
+    },
+    "birth_date": "1914-8-30"
+}

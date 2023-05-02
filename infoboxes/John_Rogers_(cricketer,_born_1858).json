@@ -1,0 +1,29 @@
+{
+    "name": "John Rogers",
+    "country": "Australia",
+    "fullname": "John Edward Rogers",
+    "birth_place": "Botany Bay, New South Wales",
+    "death_date": "8 July 1935 (aged 77)",
+    "death_place": "South Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/16/16628/16628.html CricketArchive ",
+    "FC": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "321",
+        "wickets": "3",
+        "bowl avg": "40.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/96",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "Victoria": "1891"
+    }
+}

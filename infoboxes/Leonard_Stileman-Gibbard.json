@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Leonard Gibbard Stileman-Gibbard",
+    "birth_place": "Bombay, Bombay Presidency, British India",
+    "death_date": "df=yes",
+    "death_place": "Sharnbrook, Bedfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/21040.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1901&ndash;1905"
+    }
+}

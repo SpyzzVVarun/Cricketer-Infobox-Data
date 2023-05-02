@@ -1,0 +1,42 @@
+{
+    "name": "Geoff Parker",
+    "fullname": "Geoffrey Ross Parker",
+    "birth_place": "Malvern, Victoria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Wil Parker (nephew)",
+    "source": "https://cricketarchive.com//Players/6/6279/6279.html CricketArchive ",
+    "First-class": {
+        "matches": "37",
+        "runs": "1,616",
+        "bat avg": "26.93",
+        "100s/50s": "2/9",
+        "top score": "117",
+        "deliveries": "453",
+        "wickets": "6",
+        "bowl avg": "40.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/30",
+        "catches/stumpings": "29/\u2013"
+    },
+    "List A": {
+        "matches": "28",
+        "runs": "502",
+        "bat avg": "22.81",
+        "100s/50s": "0/1",
+        "top score": "83",
+        "deliveries": "338",
+        "wickets": "3",
+        "bowl avg": "90.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1985/86\u20131991/92",
+        "South Australia": "1996/97\u20131998/99"
+    },
+    "birth_date": "1968-3-31"
+}

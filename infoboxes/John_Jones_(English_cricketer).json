@@ -1,0 +1,19 @@
+{
+    "name": "John Jones",
+    "fullname": "John Jones",
+    "birth_place": "Birmingham,, Warwickshire, England",
+    "death_date": "1937",
+    "death_place": "Chalfont St Giles,, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15728.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "173",
+        "bat avg": "43.25",
+        "100s/50s": "1/0",
+        "top score": "125",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

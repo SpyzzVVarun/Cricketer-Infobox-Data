@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "David Henry Macindoe",
+    "birth_place": "Eton,",
+    "death_date": "1986",
+    "death_place": "Eton, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/17245.html Cricinfo ",
+    "First-class": {
+        "matches": "42",
+        "runs": "747",
+        "bat avg": "14.36",
+        "100s/50s": "&ndash;/2",
+        "top score": "51",
+        "deliveries": "10,149",
+        "wickets": "152",
+        "bowl avg": "28.54",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/61",
+        "catches/stumpings": "38/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1937&ndash;1946",
+        "Buckinghamshire": "1937&ndash;1947"
+    },
+    "birth_date": "1917-9-1"
+}

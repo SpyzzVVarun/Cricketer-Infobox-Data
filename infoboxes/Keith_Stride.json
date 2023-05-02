@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Keith Harvey Stride",
+    "birth_place": "Dunstall, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21208.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "354",
+        "wickets": "9",
+        "bowl avg": "21.77",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/66",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties North": "1975",
+        "Staffordshire": "1970&ndash;1978"
+    },
+    "birth_date": "1944-1-10"
+}

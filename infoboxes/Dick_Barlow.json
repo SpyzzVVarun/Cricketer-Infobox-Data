@@ -1,0 +1,53 @@
+{
+    "name": "Dick Barlow",
+    "country": "England",
+    "fullname": "Richard Gorton Barlow",
+    "birth_place": "Bolton, England",
+    "death_date": "1919",
+    "death_place": "Blackpool, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1881",
+    "testdebutagainst": "Australia",
+    "testcap": "29",
+    "lasttestdate": "1 March",
+    "lasttestyear": "1887",
+    "lasttestagainst": "Australia",
+    "umpire": "true",
+    "testsumpired": "1",
+    "umptestdebutyr": "1899",
+    "source": "https://cricketarchive.com/Archive/Players/0/53/53.html CricketArchive ",
+    "Test": {
+        "matches": "17",
+        "runs": "591",
+        "bat avg": "22.73",
+        "100s/50s": "0/2",
+        "top score": "62",
+        "deliveries": "2,456",
+        "wickets": "34",
+        "bowl avg": "22.55",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/40",
+        "catches/stumpings": "14/\u2013"
+    },
+    "First-class": {
+        "matches": "351",
+        "runs": "11,217",
+        "bat avg": "20.61",
+        "100s/50s": "4/39",
+        "top score": "117",
+        "deliveries": "43,468",
+        "wickets": "950",
+        "bowl avg": "14.52",
+        "fivefor": "66",
+        "tenfor": "14",
+        "best bowling": "9/39",
+        "catches/stumpings": "268/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1871\u20131891"
+    },
+    "birth_date": "1851-5-28"
+}

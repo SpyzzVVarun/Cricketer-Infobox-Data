@@ -1,0 +1,29 @@
+{
+    "name": "George Collins",
+    "fullname": "George Christopher Collins",
+    "birth_place": "Gravesend, Kent",
+    "death_date": "1949",
+    "death_place": "Rochester, Kent",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11248.html CricInfo ",
+    "First-class": {
+        "matches": "218",
+        "runs": "6,280",
+        "bat avg": "22.11",
+        "100s/50s": "4/33",
+        "top score": "110",
+        "deliveries": "18,246",
+        "wickets": "379",
+        "bowl avg": "23.91",
+        "fivefor": "24",
+        "tenfor": "3",
+        "best bowling": "10/65",
+        "catches/stumpings": "81/1"
+    },
+    "clubs": {
+        "Kent": "1911\u20131928",
+        "Marylebone Cricket Club": "1919\u20131926"
+    },
+    "birth_date": "1889-9-21"
+}

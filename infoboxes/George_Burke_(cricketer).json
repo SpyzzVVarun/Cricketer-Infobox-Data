@@ -1,0 +1,21 @@
+{
+    "name": "George Burke",
+    "fullname": "George Humphrey Burke",
+    "birth_place": "Greenwich, Kent",
+    "death_date": "1920",
+    "death_place": "Peckham, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "30 July",
+    "debutyear1": "1877",
+    "debutfor1": "Kent",
+    "debutagainst1": "Hampshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/10160.html Cricinfo ",
+    "clubs": {
+        "Kent": "1877"
+    },
+    "birth_date": "1847-8-18"
+}

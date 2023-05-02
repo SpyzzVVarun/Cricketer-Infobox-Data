@@ -1,0 +1,42 @@
+{
+    "name": "Rumesh Buddika",
+    "country": "Sri Lanka",
+    "fullname": "Rumesh Buddika Muthukumarana",
+    "birth_place": "Matara, Southern Province, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/366421.html Cricinfo ",
+    "FC": {
+        "matches": "91",
+        "runs": "6005",
+        "bat avg": "42.89",
+        "100s/50s": "16/27",
+        "deliveries": "1688",
+        "wickets": "25",
+        "bowl avg": "43.56",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/50",
+        "catches/stumpings": "70/&ndash;"
+    },
+    "LA": {
+        "matches": "66",
+        "runs": "1442",
+        "bat avg": "24.86",
+        "100s/50s": "1/8",
+        "top score": "125",
+        "deliveries": "780",
+        "wickets": "18",
+        "bowl avg": "32.22",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/32",
+        "catches/stumpings": "21/&ndash;"
+    },
+    "clubs": {
+        "BRC": "2016/17",
+        "Galle Cricket Club": "2015/16",
+        "Chilaw Marians Cricket Club": "2018/2020"
+    },
+    "birth_date": "1990-11-14"
+}

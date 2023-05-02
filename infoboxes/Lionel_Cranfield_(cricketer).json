@@ -1,0 +1,40 @@
+{
+    "name": "Lionel Cranfield",
+    "country": "England",
+    "fullname": "Lionel Lord Cranfield",
+    "birth_place": "Brixton, London, England",
+    "death_date": "1968",
+    "death_place": "Sale, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Bowler",
+    "family": "Brother Beaumont, son Monty",
+    "type1": "First-class",
+    "debutdate1": "15 June",
+    "debutyear1": "1903",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Gentlemen of Philadelphia",
+    "lastdate1": "20 July",
+    "lastyear1": "1922",
+    "lastfor1": "Gloucestershire",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3505/3505.html CricketArchive ",
+    "First-class": {
+        "matches": "29",
+        "runs": "612",
+        "bat avg": "13.30",
+        "100s/50s": "\u2013/1",
+        "deliveries": "3753",
+        "wickets": "59",
+        "bowl avg": "29.83",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/67",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1903\u201322",
+        "Somerset": "1906"
+    },
+    "birth_date": "1883-10-11"
+}

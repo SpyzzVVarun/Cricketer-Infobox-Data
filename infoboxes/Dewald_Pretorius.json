@@ -1,0 +1,42 @@
+{
+    "name": "Dewald Pretorius",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "8 March",
+    "testdebutyear": "2002",
+    "lasttestdate": "21 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "2003",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46784.html Cricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "22",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "570",
+        "wickets": "6",
+        "bowl avg": "71.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/115",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "67",
+        "runs": "508",
+        "bat avg": "9.76",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "11,413",
+        "wickets": "231",
+        "bowl avg": "27.40",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/49",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {}
+}

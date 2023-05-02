@@ -1,0 +1,39 @@
+{
+    "name": "Ray Dowker",
+    "country": "New Zealand",
+    "fullname": "Raymond Thomas Dowker",
+    "birth_place": "New Brighton, Christchurch, Canterbury, New Zealand",
+    "death_date": "2004",
+    "death_place": "Christchurch, Canterbury, New Zealand",
+    "batting": "Right-hand bat",
+    "role": "Batsman",
+    "family": "Joe Wheeler (grandson), Ben Wheeler (grandson)",
+    "type1": "First class",
+    "debutdate1": "7 January",
+    "debutyear1": "1950",
+    "debutfor1": "Canterbury",
+    "debutagainst1": "Otago",
+    "lastdate1": "15 February",
+    "lastyear1": "1957",
+    "lastfor1": "Canterbury",
+    "lastagainst1": "Auckland",
+    "source": "https://cricketarchive.com/Archive/Players/21/21792/21792.html CricketArchive ",
+    "FC": {
+        "matches": "24",
+        "runs": "1147",
+        "bat avg": "30.18",
+        "100s/50s": "1/7",
+        "top score": "122",
+        "deliveries": "56",
+        "wickets": "3",
+        "bowl avg": "15.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "16"
+    },
+    "clubs": {
+        "Canterbury": "1949&ndash;1957"
+    },
+    "birth_date": "1919-7-6"
+}

@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Hubert Digby Watson",
+    "birth_place": "Harrow, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Inkpen, Berkshire, England",
+    "family": "Arthur Watson (brother), Reginald Digby (uncle), Kenelm Digby (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/22779.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "248",
+        "bat avg": "13.05",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1891&ndash;1892"
+    }
+}

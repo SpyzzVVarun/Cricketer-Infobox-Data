@@ -1,0 +1,28 @@
+{
+    "name": "Stanley Brown",
+    "fullname": "William Stanley Alston Brown",
+    "birth_place": "Clifton, Bristol",
+    "death_date": "df=yes",
+    "death_place": "Kingsdown, Bristol",
+    "batting": "Right-hand bat",
+    "bowling": "Left-arm Left-arm slow-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/10080.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "164",
+        "runs": "4820",
+        "bat avg": "18.97",
+        "100s/50s": "2/17",
+        "top score": "155",
+        "deliveries": "14822",
+        "wickets": "195",
+        "bowl avg": "33.38",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/56",
+        "catches/stumpings": "139/-"
+    },
+    "clubs": {
+        "Gloucestershire": "1896-1919"
+    },
+    "birth_date": "1877-05-23"
+}

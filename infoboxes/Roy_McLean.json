@@ -1,0 +1,48 @@
+{
+    "name": "Roy McLean",
+    "fullname": "Roy Alastair McLean",
+    "birth_place": "Pietermaritzburg, Natal, South Africa",
+    "death_date": "2007",
+    "death_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "5 July",
+    "testdebutyear": "1951",
+    "lasttestdate": "23 December",
+    "lasttestagainst": "England",
+    "lasttestyear": "1964",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46212.html Cricinfo",
+    "Test": {
+        "matches": "40",
+        "runs": "2,120",
+        "bat avg": "30.28",
+        "100s/50s": "5/10",
+        "top score": "142",
+        "deliveries": "4",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "23/\u2013"
+    },
+    "First-class": {
+        "matches": "200",
+        "runs": "10,969",
+        "bat avg": "36.68",
+        "100s/50s": "22/65",
+        "top score": "207",
+        "deliveries": "184",
+        "wickets": "2",
+        "bowl avg": "61.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/22",
+        "catches/stumpings": "132/\u2013"
+    },
+    "clubs": {
+        "Natal": "1949/50\u20131965/66"
+    },
+    "birth_date": "1930-7-9"
+}

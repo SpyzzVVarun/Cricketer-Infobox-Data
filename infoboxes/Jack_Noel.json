@@ -1,0 +1,30 @@
+{
+    "name": "Jack Noel",
+    "country": "Australia",
+    "fullname": "John Noel",
+    "birth_place": "Hindmarsh, Adelaide, South Australia",
+    "death_date": "1938",
+    "death_place": "Largs Bay, Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "role": "All-rounder, occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/6960.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "326",
+        "bat avg": "12.53",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "deliveries": "1605",
+        "wickets": "14",
+        "bowl avg": "39.92",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/43",
+        "catches/stumpings": "10/1"
+    },
+    "clubs": {
+        "South Australia": "1880-81 to 1894-95"
+    },
+    "birth_date": "1856-3-28"
+}

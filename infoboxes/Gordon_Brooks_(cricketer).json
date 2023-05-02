@@ -1,0 +1,29 @@
+{
+    "name": "Gordon Brooks",
+    "country": "Australia",
+    "fullname": "Gordon Victor Brooks",
+    "birth_place": "Ceduna, South Australia",
+    "death_date": "2004",
+    "death_place": "Brisbane, Queensland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/4392.html Cricinfo",
+    "First-class": {
+        "matches": "26",
+        "runs": "41",
+        "bat avg": "2.56",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "4,353",
+        "wickets": "61",
+        "bowl avg": "33.26",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/11",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1961/62\u20131963/64"
+    },
+    "birth_date": "1938-5-30"
+}

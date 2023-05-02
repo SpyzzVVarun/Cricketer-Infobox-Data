@@ -1,0 +1,23 @@
+{
+    "country": "Uganda",
+    "fullname": "Charles de Souza",
+    "birth_place": "Uganda Protectorate",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/charlie-de-souza-23979 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "75.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/75",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

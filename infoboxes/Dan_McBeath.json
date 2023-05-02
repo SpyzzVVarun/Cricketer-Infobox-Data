@@ -1,0 +1,31 @@
+{
+    "name": "Dan McBeath",
+    "country": "New Zealand",
+    "fullname": "Daniel Jason McBeath",
+    "birth_place": "Malvern, Canterbury, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Timaru, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium Left-arm medium pace",
+    "source": "https://cricketarchive.com/Archive/Players/16/16930/16930.html Cricket Archive ",
+    "First-class": {
+        "matches": "32",
+        "runs": "346",
+        "bat avg": "10.17",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "8062",
+        "wickets": "170",
+        "bowl avg": "20.83",
+        "fivefor": "15",
+        "tenfor": "3",
+        "best bowling": "9/56",
+        "catches/stumpings": "19/0"
+    },
+    "clubs": {
+        "Otago": "1917\u201318, 1922\u201323",
+        "Canterbury": "1918\u201319, 1921\u201322, 1923\u201324 to 1926\u201327",
+        "Southland": "1919\u201320 to 1920\u201321"
+    },
+    "birth_date": "1897-4-8"
+}

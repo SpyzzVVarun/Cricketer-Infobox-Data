@@ -1,0 +1,18 @@
+{
+    "name": "Vivek Vedagiri",
+    "role": "Wicketkeeper",
+    "country": "Singapore",
+    "source": "http://m.espncricinfo.com/ci/content/player/362546.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1981-09-09",
+    "medaltemplates": [
+        "Country: {{SGP}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20",
+        "Silver Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

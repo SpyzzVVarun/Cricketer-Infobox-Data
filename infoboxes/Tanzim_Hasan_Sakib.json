@@ -1,0 +1,42 @@
+{
+    "name": "Tanzim Hasan Sakib",
+    "birth_place": "Sylhet, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/1139520.html Cricinfo",
+    "FC": {
+        "matches": "1",
+        "runs": "44",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "43.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/63",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "60",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "366",
+        "wickets": "11",
+        "bowl avg": "24.27",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/36",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2002-10-20",
+    "medaltemplates": [
+        "Sport: Men's cricket",
+        "Country: {{BAN}}",
+        "Competition: ICC Under-19 Cricket World Cup"
+    ]
+}

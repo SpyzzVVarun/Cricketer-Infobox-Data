@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Peter Bruce Smith",
+    "birth_place": "Headington, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20879.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "36",
+        "bat avg": "7.20",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "634",
+        "wickets": "7",
+        "bowl avg": "41.57",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/92",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "81",
+        "bat avg": "40.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "233",
+        "wickets": "3",
+        "bowl avg": "36.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/40",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1967",
+        "Oxfordshire": "1963&ndash;1977"
+    },
+    "birth_date": "1944-3-18"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Andrew Michael Bredin",
+    "birth_place": "Wimbledon, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/9399.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "26",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "690",
+        "wickets": "7",
+        "bowl avg": "55.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/50",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1986"
+    },
+    "birth_date": "1962-1-12"
+}

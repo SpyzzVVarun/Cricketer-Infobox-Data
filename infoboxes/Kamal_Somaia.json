@@ -1,0 +1,42 @@
+{
+    "name": "Kamal Somaia",
+    "country": "England",
+    "fullname": "Kamal Anilkumar Somaia",
+    "birth_place": "Wembley, London, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/20287.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "50",
+        "bat avg": "8.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "472",
+        "wickets": "8",
+        "bowl avg": "30.62",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/87",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "88.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/52",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1989",
+        "Staffordshire": "1989&ndash;1990"
+    },
+    "birth_date": "1968-7-22"
+}

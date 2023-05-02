@@ -1,0 +1,73 @@
+{
+    "name": "Lily Mulivai",
+    "female": "true",
+    "fullname": "Lily Sinei Mulivai",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "internationalspan": "2019\u2013present",
+    "country": "Samoa",
+    "T20Idebutdate": "6 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Fiji",
+    "T20Icap": "7",
+    "lastT20Idate": "13 July",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Papua New Guinea",
+    "source": "https://cricketarchive.com/Archive/Players/978/978744/978744.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {
+        "matches": "12",
+        "runs": "152",
+        "bat avg": "16.88",
+        "100s/50s": "0/0",
+        "deliveries": "271",
+        "wickets": "17",
+        "bowl avg": "10.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/18",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WLA": {
+        "matches": "15",
+        "runs": "105",
+        "bat avg": "10.50",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "462",
+        "wickets": "9",
+        "bowl avg": "40.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/8",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "29",
+        "runs": "218",
+        "bat avg": "12.11",
+        "100s/50s": "0/1",
+        "deliveries": "523",
+        "wickets": "26",
+        "bowl avg": "19.03",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/18",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "2018/19\u2013present"
+    },
+    "birth_date": "3 August 1990",
+    "medaltemplates": [
+        "Country: {{SAM}}",
+        "Sport: Women's Cricket",
+        "Competition: Pacific Games",
+        "Gold Medal: 2015 Port Moresby 20 over cricket",
+        "Gold Medal: 2019 Apia 20 over cricket"
+    ]
+}

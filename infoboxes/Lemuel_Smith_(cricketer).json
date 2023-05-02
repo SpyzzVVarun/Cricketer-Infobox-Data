@@ -1,0 +1,31 @@
+{
+    "name": "Lemuel Smith",
+    "country": "England",
+    "fullname": "Lemuel Strutt Tugby Smith",
+    "birth_place": "Tibshelf, Derbyshire, England",
+    "death_date": "1927",
+    "death_place": "South Kirkby, Yorkshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "3 May",
+    "debutyear1": "1909",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "10 May",
+    "lastyear1": "1909",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Sussex",
+    "source": "https://cricketarchive.com/Players/32/32878/32878.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1909"
+    },
+    "birth_date": "1880-6-5"
+}

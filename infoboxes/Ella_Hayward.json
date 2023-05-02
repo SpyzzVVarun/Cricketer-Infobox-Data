@@ -1,0 +1,40 @@
+{
+    "name": "Ella Hayward",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/2412/2412239/2412239.html CricketArchive",
+    "WLA": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "deliveries": "78",
+        "wickets": "2",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/53",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "8",
+        "runs": "12",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "111",
+        "wickets": "5",
+        "bowl avg": "27.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Melbourne Renegades": "2020/21\u2013present",
+        "Victoria": "2020/21\u2013present"
+    },
+    "birth_date": "2003-9-8"
+}

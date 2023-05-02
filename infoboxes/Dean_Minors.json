@@ -1,0 +1,51 @@
+{
+    "name": "Dean Minors",
+    "fullname": "Dean Anthony Minors",
+    "birth_place": "Hamilton, Bermuda",
+    "internationalspan": "2006\u20132007",
+    "country": "Bermuda",
+    "odidebutagainst": "Canada",
+    "odidebutdate": "17 May",
+    "odidebutyear": "2006",
+    "odicap": "4",
+    "lastodidate": "25 March",
+    "lastodiagainst": "Bangladesh",
+    "lastodiyear": "2007",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/5/5409/5409.html CricketArchive ",
+    "ODI": {
+        "matches": "20",
+        "runs": "478",
+        "bat avg": "26.55",
+        "100s/50s": "0/3",
+        "top score": "74",
+        "catches/stumpings": "10/2"
+    },
+    "FC": {
+        "matches": "6",
+        "runs": "238",
+        "bat avg": "29.75",
+        "100s/50s": "0/3",
+        "top score": "74",
+        "catches/stumpings": "11/2"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "749",
+        "bat avg": "26.75",
+        "100s/50s": "0/4",
+        "top score": "68",
+        "catches/stumpings": "30/6"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1970-01-06"
+}

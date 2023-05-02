@@ -1,0 +1,73 @@
+{
+    "name": "Brad Haddin",
+    "fullname": "Bradley James Haddin",
+    "nickname": "BJ, Hadds",
+    "birth_place": "Cowra, New South Wales",
+    "height": "177 cm",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "Australia",
+    "internationalspan": "2001\u20132015",
+    "testdebutdate": "22 May",
+    "testdebutyear": "2008",
+    "testdebutagainst": "West Indies",
+    "testcap": "400",
+    "lasttestdate": "12 July",
+    "lasttestyear": "2015",
+    "lasttestagainst": "England",
+    "odidebutdate": "30 January",
+    "odidebutyear": "2001",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "144",
+    "lastodidate": "29 March",
+    "lastodiyear": "2015",
+    "lastodiagainst": "New Zealand",
+    "odishirt": "57",
+    "T20Idebutdate": "9 January",
+    "T20Idebutyear": "2006",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "16",
+    "lastT20Idate": "5 October",
+    "lastT20Iyear": "2014",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/5560.html ESPNcricinfo ",
+    "Test": {
+        "matches": "66",
+        "runs": "3,266",
+        "bat avg": "32.99",
+        "100s/50s": "4/18",
+        "top score": "169",
+        "catches/stumpings": "262/8"
+    },
+    "ODI": {
+        "matches": "126",
+        "runs": "3,122",
+        "bat avg": "31.53",
+        "100s/50s": "2/16",
+        "top score": "110",
+        "catches/stumpings": "170/11"
+    },
+    "FC": {
+        "matches": "184",
+        "runs": "9,932",
+        "bat avg": "38.05",
+        "100s/50s": "17/56",
+        "top score": "169",
+        "catches/stumpings": "608/40"
+    },
+    "LA": {
+        "matches": "235",
+        "runs": "6,503",
+        "bat avg": "33.01",
+        "100s/50s": "9/35",
+        "catches/stumpings": "318/50"
+    },
+    "clubs": {
+        "ACT Comets": "1997/98\u20131998/99",
+        "New South Wales": "1999/00\u20132014/15",
+        "Kolkata Knight Riders": "2011",
+        "Sydney Sixers": "2011/12\u20132016/17",
+        "Islamabad United": "2016\u20132017"
+    },
+    "birth_date": "1977-10-23"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Alexander Kennedy Kirkpatrick",
+    "birth_place": "Belfast, Northern Ireland",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/24419.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "31",
+        "bat avg": "31.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "deliveries": "72",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1962"
+    },
+    "birth_date": "1938-7-25"
+}

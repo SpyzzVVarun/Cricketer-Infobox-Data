@@ -1,0 +1,29 @@
+{
+    "name": "Kamran Rasheed",
+    "country": "United States",
+    "fullname": "Kamran Rasheed Khan",
+    "batting": "Right-hand bat",
+    "bowling": "n/a",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/India/content/player/25865.html ESPNcricinfo ",
+    "FC": {
+        "matches": "31",
+        "runs": "1217",
+        "bat avg": "27.65",
+        "100s/50s": "1/8",
+        "top score": "117",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "33.00",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/18",
+        "catches/stumpings": "38/7"
+    },
+    "clubs": {
+        "Lahore Education Board": "1964/65",
+        "Punjab University": "1965/66-1970/71",
+        "Pakistan Railways": "1969/70",
+        "Lahore": "1968/69"
+    }
+}

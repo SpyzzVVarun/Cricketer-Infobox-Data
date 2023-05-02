@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Foord-Kelcey",
+    "birth_place": "Smeeth, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Gloucester, Gloucestershire,, England",
+    "family": "William Foord-Kelcey (brother), Osbert Mordaunt (nephew)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13116.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "36",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "280",
+        "wickets": "11",
+        "bowl avg": "11.36",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/58",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1883"
+    }
+}

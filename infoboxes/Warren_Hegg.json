@@ -1,0 +1,55 @@
+{
+    "name": "Warren Hegg",
+    "country": "England",
+    "fullname": "Warren Kevin Hegg",
+    "nickname": "Chucky, Chutch, The Admiral",
+    "heightft": "5",
+    "heightinch": "7",
+    "birth_place": "Whitefield, Lancashire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "26 December",
+    "testdebutyear": "1998",
+    "testdebutagainst": "Australia",
+    "testcap": "593",
+    "lasttestdate": "5 January",
+    "lasttestyear": "1999",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/4/4319/4319.html CricketArchive ",
+    "Test": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "catches/stumpings": "8/0"
+    },
+    "FC": {
+        "matches": "348",
+        "runs": "11,302",
+        "bat avg": "27.90",
+        "100s/50s": "7/55",
+        "top score": "134",
+        "catches/stumpings": "857/94"
+    },
+    "LA": {
+        "matches": "409",
+        "runs": "3,313",
+        "bat avg": "19.95",
+        "100s/50s": "0/5",
+        "top score": "81",
+        "catches/stumpings": "466/61"
+    },
+    "T20": {
+        "matches": "20",
+        "runs": "104",
+        "bat avg": "11.55",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "10/8"
+    },
+    "clubs": {
+        "Lancashire": "1986\u20132005"
+    },
+    "birth_date": "1968-2-23"
+}

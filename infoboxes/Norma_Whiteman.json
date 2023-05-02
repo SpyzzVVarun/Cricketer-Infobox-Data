@@ -1,0 +1,50 @@
+{
+    "name": "Norma Whiteman",
+    "fullname": "Betty Norma Johnston",
+    "birth_place": "Bathurst, New South Wales, Australia",
+    "death_date": "2023",
+    "death_place": "Sydney, New South Wales, Australia",
+    "country": "Australia",
+    "female": "true",
+    "testdebutdate": "20 March",
+    "testdebutyear": "1948",
+    "testdebutagainst": "New Zealand",
+    "testcap": "27",
+    "lasttestdate": "28 July",
+    "lasttestyear": "1951",
+    "lasttestagainst": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/australia/content/player/53585.html ESPNcricinfo ",
+    "WTest": {
+        "matches": "7",
+        "runs": "151",
+        "bat avg": "25.16",
+        "100s/50s": "0/0",
+        "deliveries": "1,635",
+        "wickets": "22",
+        "bowl avg": "20.54",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/33",
+        "catches/stumpings": "12/\u2013"
+    },
+    "WFC": {
+        "matches": "31",
+        "runs": "449",
+        "bat avg": "17.26",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "3,265",
+        "wickets": "74",
+        "bowl avg": "16.17",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "6/8",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1946/47\u20131950/51"
+    },
+    "birth_date": "1927-12-28"
+}

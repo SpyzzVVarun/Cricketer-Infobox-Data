@@ -1,0 +1,45 @@
+{
+    "name": "Jane Gough",
+    "female": "true",
+    "country": "England",
+    "fullname": "Jane Mary Gough",
+    "birth_place": "Twickenham, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Batter",
+    "internationalspan": "1973",
+    "oneodi": "true",
+    "odidebutdate": "18 July",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Young England",
+    "odicap": "14",
+    "source": "https://cricketarchive.com/Archive/Players/17/17015/17015.html CricketArchive ",
+    "WODI": {
+        "matches": "1",
+        "runs": "33",
+        "bat avg": "33.00",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "18",
+        "runs": "396",
+        "bat avg": "24.75",
+        "100s/50s": "0/4",
+        "top score": "69",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "West": "1971\u20131991"
+    },
+    "birth_date": "1943-9-4"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Arindam Das",
+    "country": "India",
+    "fullname": "Arindam Shibendranarayan Das",
+    "birth_place": "Calcutta, Bengal, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/26282.html Cricinfo ",
+    "FC": {
+        "matches": "80",
+        "runs": "4397",
+        "bat avg": "36.04",
+        "100s/50s": "10/22",
+        "catches/stumpings": "79/\u2013"
+    },
+    "List A": {
+        "matches": "29",
+        "runs": "1031",
+        "bat avg": "36.82",
+        "100s/50s": "0/8",
+        "top score": "78",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "83",
+        "bat avg": "83.00",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Bengal": "2001/02\u2013present"
+    },
+    "birth_date": "1981-10-16"
+}

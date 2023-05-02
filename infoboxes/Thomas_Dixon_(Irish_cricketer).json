@@ -1,0 +1,21 @@
+{
+    "name": "Thomas Dixon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/13/13327/13327.html CricketArchive",
+    "First-class": {
+        "matches": "14",
+        "runs": "312",
+        "bat avg": "14.18",
+        "100s/50s": "0/0",
+        "deliveries": "2,484",
+        "wickets": "50",
+        "bowl avg": "20.86",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/51",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Ben Dougall",
+    "country": "Australia",
+    "fullname": "Benjamin Luke Dougall",
+    "birth_place": "Murray Bridge, South Australia, Australia",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "6 November",
+    "debutyear1": "2011",
+    "debutfor1": "SA",
+    "debutagainst1": "NSW",
+    "type2": "List A",
+    "debutdate2": "12 December",
+    "debutyear2": "2010",
+    "debutfor2": "SA",
+    "debutagainst2": "NSW",
+    "source": "http://www.espncricinfo.com/ci/content/player/333840.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "46",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "0/0"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "30",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "tenfor": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "South Australia": "2010/11\u20132011/12"
+    },
+    "birth_date": "1991-12-16"
+}

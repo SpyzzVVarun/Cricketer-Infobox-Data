@@ -1,0 +1,35 @@
+{
+    "name": "Geetika Kodali",
+    "female": "true",
+    "country": "United States",
+    "fullname": "Geetika Kodali",
+    "birth_place": "Fremont, California",
+    "nickname": "Geetu, Geets",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "19 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "13",
+    "lastT20Idate": "21 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/1184545.html Cricinfo ",
+    "WT20I": {
+        "matches": "12",
+        "runs": "38",
+        "bat avg": "6.33",
+        "100s/50s": "0/0",
+        "deliveries": "174",
+        "wickets": "4",
+        "bowl avg": "43.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Trinbago Knight Riders": "2022\u2013present"
+    },
+    "birth_date": "2004-6-7"
+}

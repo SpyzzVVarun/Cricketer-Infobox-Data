@@ -1,0 +1,42 @@
+{
+    "name": "Charles Rowe",
+    "country": "Hong Kong",
+    "fullname": "Charles James Castell Rowe",
+    "birth_place": "Hong Kong",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "James Rowe (son)  Antony Rowe (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/19487.html CricInfo ",
+    "First-class": {
+        "matches": "175",
+        "runs": "6,173",
+        "bat avg": "26.38",
+        "100s/50s": "6/30",
+        "deliveries": "10,056",
+        "wickets": "128",
+        "bowl avg": "40.05",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "6/46",
+        "catches/stumpings": "63/\u2013"
+    },
+    "List A": {
+        "matches": "118",
+        "runs": "1,563",
+        "bat avg": "20.29",
+        "100s/50s": "0/7",
+        "top score": "81",
+        "deliveries": "601",
+        "wickets": "18",
+        "bowl avg": "29.33",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Kent": "1974\u20131981",
+        "Glamorgan": "1982\u20131984"
+    },
+    "birth_date": "1951-11-27"
+}

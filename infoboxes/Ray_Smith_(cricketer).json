@@ -1,0 +1,29 @@
+{
+    "name": "Ray Smith",
+    "fullname": "Raymond Smith",
+    "birth_place": "Boreham, Essex, United Kingdom",
+    "death_date": "1996",
+    "death_place": "Kidderminster, Worcestershire, United Kingdom",
+    "batting": "Right-handed",
+    "bowling": "Right arm fast medium; Off Right arm fast medium; Off break",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/england/content/player/20264.html Cricinfo ",
+    "FC": {
+        "matches": "445",
+        "runs": "12041",
+        "bat avg": "20.27",
+        "100s/50s": "8/51",
+        "top score": "147",
+        "deliveries": "86610",
+        "wickets": "1350",
+        "bowl avg": "30.56",
+        "fivefor": "73",
+        "tenfor": "10",
+        "best bowling": "8/63",
+        "catches/stumpings": "192/0"
+    },
+    "clubs": {
+        "Essex": "1934\u20131956"
+    },
+    "birth_date": "1914-8-10"
+}

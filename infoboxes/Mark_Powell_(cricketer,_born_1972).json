@@ -1,0 +1,32 @@
+{
+    "country": "England",
+    "fullname": "Mark Geoffrey Powell",
+    "nickname": "Powelly",
+    "birth_place": "Romford, London, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Jonathan Powell (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/18702.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "49",
+        "bat avg": "12.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "37",
+        "deliveries": "201",
+        "wickets": "1",
+        "bowl avg": "171.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/60",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Essex CCC": "1992",
+        "Minor Counties": "1996",
+        "Norfolk": "1995&ndash;1996"
+    },
+    "birth_date": "1972-8-5"
+}

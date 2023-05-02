@@ -1,0 +1,38 @@
+{
+    "name": "Tom Hall",
+    "fullname": "Thomas Auckland Hall",
+    "birth_place": "Darlington, England",
+    "death_date": "1984",
+    "death_place": "Arlesey, Bedfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "20 August",
+    "debutyear1": "1949",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "8 June",
+    "lastyear1": "1958",
+    "lastfor1": "Free Foresters",
+    "lastagainst1": "Cambridge University",
+    "source": "https://www.espncricinfo.com/player/tom-hall-14013 Cricinfo ",
+    "First-class": {
+        "matches": "66",
+        "runs": "892",
+        "bat avg": "11.15",
+        "100s/50s": "0/2",
+        "deliveries": "9511",
+        "wickets": "183",
+        "bowl avg": "27.91",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "5/50",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1949\u20131952",
+        "Somerset": "1953\u20131954"
+    },
+    "birth_date": "1930-8-19"
+}

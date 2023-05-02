@@ -1,0 +1,45 @@
+{
+    "country": "England",
+    "fullname": "Derek Henry Cole",
+    "birth_place": "Dawlish, Devon, England",
+    "death_date": "2006",
+    "death_place": "Chippenham, Wiltshire, England",
+    "heightft": "6",
+    "heightinch": "4",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break, Right-arm Right-arm off break, Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11219.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "86",
+        "bat avg": "21.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "162",
+        "wickets": "2",
+        "bowl avg": "41.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "25.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/25",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1959\u20131967",
+        "Devon": "1947\u20131970"
+    },
+    "birth_date": "1925-3-9"
+}

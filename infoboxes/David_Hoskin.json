@@ -1,0 +1,27 @@
+{
+    "name": "David Hoskin",
+    "country": "New Zealand",
+    "fullname": "David Craig Hoskin",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37439.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "126",
+        "bat avg": "7.87",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "3919",
+        "wickets": "60",
+        "bowl avg": "27.70",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/33",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "1956-57 to 1964-65"
+    },
+    "birth_date": "1935-10-16"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Martin Burton",
+    "country": "England",
+    "fullname": "Martin Arthur Edward Burton",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/9318.html Cricinfo ",
+    "LA": {
+        "matches": "8",
+        "runs": "134",
+        "bat avg": "16.75",
+        "100s/50s": "\u2013/-",
+        "top score": "34",
+        "deliveries": "420",
+        "wickets": "7",
+        "bowl avg": "37.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/22",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "Huntingdonshire": "1999\u20132002",
+        "Cambridgeshire": "1994\u20131995"
+    },
+    "birth_date": "1973-7-6"
+}

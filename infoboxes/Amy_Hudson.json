@@ -1,0 +1,31 @@
+{
+    "name": "Amy Hudson",
+    "country": "Australia",
+    "death_date": "2003",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg-spin, medium Right-arm leg-spin, medium pace",
+    "female": "yes",
+    "testdebutdate": "18 January",
+    "testdebutyear": "1935",
+    "testdebutagainst": "England",
+    "testcap": "15",
+    "lasttestdate": "28 July",
+    "lasttestyear": "1951",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/australia/content/player/53512.html CricInfo",
+    "WTest": {
+        "matches": "9",
+        "runs": "451",
+        "bat avg": "34.69",
+        "100s/50s": "0/3",
+        "deliveries": "610",
+        "wickets": "16",
+        "bowl avg": "16.25",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "5/46",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1916-02-05"
+}

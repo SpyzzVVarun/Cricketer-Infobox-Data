@@ -1,0 +1,26 @@
+{
+    "name": "Percy Perrin",
+    "country": "England",
+    "fullname": "Percival Albert Perrin",
+    "birth_place": "Stoke Newington, England",
+    "death_date": "df=yes",
+    "death_place": "Hickling Broad, Norfolk, England",
+    "batting": "Right-handed",
+    "role": "Middle-order batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/18506.html cricinfo ",
+    "FC": {
+        "matches": "538",
+        "runs": "29709",
+        "bat avg": "35.92",
+        "100s/50s": "66/152",
+        "deliveries": "1279",
+        "wickets": "16",
+        "bowl avg": "47.06",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "3/13",
+        "catches/stumpings": "293/-"
+    },
+    "clubs": {},
+    "birth_date": "1876-5-26"
+}

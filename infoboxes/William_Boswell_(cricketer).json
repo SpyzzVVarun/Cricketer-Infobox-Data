@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Gerald Knox Boswell",
+    "birth_place": "Chelsea, London, England",
+    "death_date": "df=yes",
+    "death_place": "Thiepval, Somme, France",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/9875.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "756",
+        "bat avg": "30.24",
+        "100s/50s": "1/4",
+        "deliveries": "563",
+        "wickets": "14",
+        "bowl avg": "24.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/22",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1912&ndash;1914"
+    }
+}

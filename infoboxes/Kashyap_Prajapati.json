@@ -1,0 +1,41 @@
+{
+    "name": "Kashyap Prajapati",
+    "country": "Oman",
+    "fullname": "Kashyapkumar Harishbhai Prajapati",
+    "birth_place": "Kheda, Gujarat, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Top order batter",
+    "odidebutdate": "26 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "PNG",
+    "odicap": "23",
+    "lastodidate": "29 April",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "T20Idebutdate": "17 October",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "PNG",
+    "T20Icap": "29",
+    "lastT20Idate": "21 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Canada",
+    "source": "http://www.espncricinfo.com/ci/content/player/1276719.html Cricinfo ",
+    "ODI": {
+        "matches": "21",
+        "runs": "623",
+        "bat avg": "31.15",
+        "100s/50s": "1/4",
+        "top score": "103",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20I": {
+        "matches": "11",
+        "runs": "194",
+        "bat avg": "24.25",
+        "100s/50s": "0/2",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-10-11"
+}

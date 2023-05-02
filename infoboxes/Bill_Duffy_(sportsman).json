@@ -1,0 +1,28 @@
+{
+    "name": "Bill Duffy",
+    "country": "Australia",
+    "fullname": "William Vincent Duffy",
+    "birth_place": "Doutta Galla, Colony of Victoria",
+    "death_date": "df=y",
+    "death_place": "Subiaco, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off-break Right-arm Right-arm off-break Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Players/15/15971/15971.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "62",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "363",
+        "wickets": "8",
+        "bowl avg": "29.37",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/124",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1892/93"
+    }
+}

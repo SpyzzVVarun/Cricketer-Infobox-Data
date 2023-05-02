@@ -1,0 +1,51 @@
+{
+    "name": "Tuppy Owen-Smith",
+    "fullname": "Harold Geoffrey Owen Owen-Smith",
+    "birth_place": "Rondebosch, Cape Town, South Africa",
+    "death_date": "1990",
+    "death_place": "Rosebank, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "15 June",
+    "testdebutyear": "1929",
+    "lasttestdate": "17 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1929",
+    "testcap": "126",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46691.html Cricinfo",
+    "Test": {
+        "matches": "5",
+        "runs": "252",
+        "bat avg": "42.00",
+        "100s/50s": "1/1",
+        "top score": "129",
+        "deliveries": "156",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "101",
+        "runs": "4,059",
+        "bat avg": "26.88",
+        "100s/50s": "3/23",
+        "deliveries": "13,445",
+        "wickets": "319",
+        "bowl avg": "23.22",
+        "fivefor": "20",
+        "tenfor": "3",
+        "best bowling": "7/153",
+        "catches/stumpings": "92/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1927/28\u20131949/50",
+        "Oxford University": "1931\u20131933",
+        "Middlesex": "1935\u20131937"
+    },
+    "birth_date": "1909-02-18"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Grace Morgan",
+    "female": "true",
+    "fullname": "Grace Angela Morgan",
+    "birth_place": "Richmond-upon-Thames, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Guildford, Surrey, England",
+    "role": "Wicket-keeper",
+    "internationalspan": "1949\u20131951",
+    "country": "England",
+    "testdebutdate": "26 March",
+    "testdebutyear": "1949",
+    "testdebutagainst": "New Zealand",
+    "testcap": "30",
+    "lasttestdate": "28 July",
+    "lasttestyear": "1951",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17059/17059.html CricketArchive",
+    "WTest": {
+        "matches": "2",
+        "runs": "51",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "2/0"
+    },
+    "WFC": {
+        "matches": "20",
+        "runs": "490",
+        "bat avg": "24.50",
+        "100s/50s": "0/2",
+        "top score": "69",
+        "catches/stumpings": "9/9"
+    },
+    "clubs": {
+        "Surrey": "1949\u20131951"
+    },
+    "birth_date": "1909-5-5"
+}

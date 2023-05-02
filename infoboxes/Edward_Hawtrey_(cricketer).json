@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edward Montague Hawtrey",
+    "birth_place": "Windsor, Berkshire, England",
+    "death_date": "1916",
+    "death_place": "Westgate-on-Sea, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/14643.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "32.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/50",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1880&ndash;1882"
+    }
+}

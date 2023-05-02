@@ -1,0 +1,49 @@
+{
+    "name": "Nick Welch",
+    "country": "Zimbabwe",
+    "fullname": "Nicholas Roy Welch",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "29 March",
+    "debutyear1": "2014",
+    "debutfor1": "Mashonaland Eagles",
+    "debutagainst1": "Mountaineers",
+    "type2": "List A",
+    "debutdate2": "15 March",
+    "debutyear2": "2014",
+    "debutfor2": "Mashonaland Eagles",
+    "debutagainst2": "Matabeleland Tuskers",
+    "source": "http://www.espncricinfo.com/ci/content/player/696145.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "184",
+        "bat avg": "20.44",
+        "100s/50s": "0/1",
+        "top score": "83",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "15",
+        "runs": "327",
+        "bat avg": "23.35",
+        "100s/50s": "1/1",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "274",
+        "bat avg": "30.44",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Mashonaland Eagles": "2013/14",
+        "Loughborough MCCU": "2019",
+        "Leicestershire( 67 )": "2020\u2013present"
+    },
+    "birth_date": "1998-2-5"
+}

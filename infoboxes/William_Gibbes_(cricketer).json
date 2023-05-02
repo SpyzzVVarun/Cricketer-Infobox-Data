@@ -1,0 +1,28 @@
+{
+    "name": "William Gibbes",
+    "country": "New Zealand",
+    "fullname": "William Richard Ladsey Gibbes",
+    "birth_place": "Cootamundra, New South Wales, Australia",
+    "death_date": "21 November 1918",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/37144.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "557",
+        "bat avg": "25.31",
+        "100s/50s": "0/5",
+        "top score": "81",
+        "deliveries": "1032",
+        "wickets": "25",
+        "bowl avg": "26.76",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Wellington": "1905\u201306 to 1914\u201315"
+    }
+}

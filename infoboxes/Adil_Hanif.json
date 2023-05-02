@@ -1,0 +1,47 @@
+{
+    "name": "Adil Hanif",
+    "country": "Bahrain",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "T20Idebutdate": "20 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Saudi Arabia",
+    "T20Icap": "1",
+    "lastT20Iagainst": "Qatar",
+    "lastT20Idate": "24 January",
+    "lastT20Iyear": "2019",
+    "source": "http://www.cricinfo.com/ci/content/player/39100.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "8.66",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "103",
+        "bat avg": "17.16",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Islamabad Cricket Association": "1998\u20132002"
+    },
+    "birth_date": "1978-2-25"
+}

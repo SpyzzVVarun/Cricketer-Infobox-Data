@@ -1,0 +1,51 @@
+{
+    "name": "Jack Mason",
+    "country": "England",
+    "fullname": "John Richard Mason",
+    "birth_place": "Blackheath, Kent, England",
+    "death_date": "1958",
+    "death_place": "Cooden Beach, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "family": "James Mason (brother) Charles Mason (brother)",
+    "testdebutdate": "13 December",
+    "testdebutyear": "1897",
+    "testdebutagainst": "Australia",
+    "testcap": "109",
+    "lasttestdate": "2 March",
+    "lasttestyear": "1898",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/16933.html CricInfo ",
+    "Tests": {
+        "matches": "5",
+        "runs": "129",
+        "bat avg": "12.90",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "324",
+        "wickets": "2",
+        "bowl avg": "74.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "339",
+        "runs": "17,337",
+        "bat avg": "33.27",
+        "100s/50s": "34/86",
+        "top score": "183",
+        "deliveries": "41,813",
+        "wickets": "848",
+        "bowl avg": "22.39",
+        "fivefor": "35",
+        "tenfor": "9",
+        "best bowling": "8/29",
+        "catches/stumpings": "390/\u2013"
+    },
+    "clubs": {
+        "Kent": "1893\u20131914"
+    },
+    "birth_date": "1874-3-26"
+}

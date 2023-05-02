@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Russell",
+    "country": "England",
+    "fullname": "Thomas Marychurch Russell",
+    "birth_place": "Lewisham, Kent, England",
+    "death_date": "1927",
+    "death_place": "Leyton, Essex, England",
+    "family": "Jack Russell (son)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/5/5284/5284.html  CricketArchive ",
+    "First-class": {
+        "matches": "170",
+        "runs": "3,273",
+        "bat avg": "15.29",
+        "100s/50s": "3/7",
+        "top score": "139",
+        "catches/stumpings": "251/89"
+    },
+    "clubs": {
+        "Essex": "1894\u20131905",
+        "MCC": "1897\u20131902"
+    },
+    "birth_date": "1863-7-6"
+}

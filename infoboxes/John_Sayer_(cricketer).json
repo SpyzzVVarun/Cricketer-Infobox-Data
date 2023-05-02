@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Druce Sayer",
+    "birth_place": "Hong Kong",
+    "death_date": "df=y",
+    "death_place": "Easterton, Wiltshire, England",
+    "heightft": "6",
+    "heightinch": "5",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/20606.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "81",
+        "bat avg": "11.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "49",
+        "deliveries": "419",
+        "wickets": "7",
+        "bowl avg": "39.14",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/38",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

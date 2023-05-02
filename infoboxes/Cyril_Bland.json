@@ -1,0 +1,27 @@
+{
+    "name": "Cyril Bland",
+    "country": "England",
+    "birth_place": "Boston, Lincolnshire, England",
+    "death_date": "1 July 1950 (aged 78)",
+    "death_place": "Cowbridge, Boston, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9803.html CricInfo ",
+    "First-class": {
+        "matches": "147",
+        "runs": "998",
+        "bat avg": "6.43",
+        "100s/50s": "3/25",
+        "top score": "59",
+        "deliveries": "27,548",
+        "wickets": "557",
+        "bowl avg": "24.28",
+        "fivefor": "44",
+        "tenfor": "11",
+        "best bowling": "10/48",
+        "catches/stumpings": "80/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1897\u20131904"
+    }
+}

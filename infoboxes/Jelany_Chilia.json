@@ -1,0 +1,23 @@
+{
+    "name": "Jelany Chilia",
+    "country": "Vanuatu",
+    "T20Idebutdate": "22 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "PNG",
+    "T20Icap": "2",
+    "lastT20Idate": "4 October",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Malaysia",
+    "source": "http://www.espncricinfo.com/ci/content/player/420508.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1991-10-29",
+    "medaltemplates": [
+        "Country: {{VAN}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

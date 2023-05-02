@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Brian James Hoyle",
+    "birth_place": "Worksop, Nottinghamshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/15164.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Somerset Cricket Board": "2001",
+        "Herefordshire": "1995 & 1997"
+    },
+    "birth_date": "1963-8-25"
+}

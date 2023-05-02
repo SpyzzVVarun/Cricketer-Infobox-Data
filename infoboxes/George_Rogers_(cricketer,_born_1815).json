@@ -1,0 +1,27 @@
+{
+    "name": "George Rogers",
+    "country": "England",
+    "fullname": "George John Rogers",
+    "birth_place": "Hackney, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Holloway, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ireland/content/player/19798.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "116",
+        "bat avg": "8.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/-"
+    },
+    "clubs": {
+        "Middlesex": "1850&ndash;1851"
+    }
+}

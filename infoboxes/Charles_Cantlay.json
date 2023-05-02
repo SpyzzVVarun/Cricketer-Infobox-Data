@@ -1,0 +1,42 @@
+{
+    "name": "Charles Cantlay",
+    "country": "England",
+    "fullname": "Charles Peter Thrale Cantlay",
+    "birth_place": "Victoria, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11000.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "19",
+        "bat avg": "4.75",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "803",
+        "wickets": "11",
+        "bowl avg": "38.09",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/85",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "100",
+        "wickets": "3",
+        "bowl avg": "19.66",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "3/42",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1975",
+        "Combined Universities": "1975"
+    },
+    "birth_date": "1954-2-4"
+}

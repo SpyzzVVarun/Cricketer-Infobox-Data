@@ -1,0 +1,14 @@
+{
+    "name": "John Smith",
+    "country": "England",
+    "fullname": "John Smith",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "15 April 1873",
+    "death_place": "Stratford-by-Bow, Essex, England",
+    "batting": "Right-handed",
+    "role": "Bbatsman",
+    "source": "https://cricketarchive.com/Archive/Players/32/32868/32868.html CricketArchive ",
+    "clubs": {
+        "Cambridge Town Club": "1863\u20131872"
+    }
+}

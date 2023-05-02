@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Frederick William John Dugmore",
+    "birth_place": "St Pancras, Middlesex, England",
+    "death_date": "1908",
+    "death_place": "Hamble-le-Rice, Hampshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/12413.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1854"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Frank Tyson",
+    "country": "England",
+    "fullname": "Frank Holmes Tyson",
+    "birth_place": "Farnworth, Lancashire, England",
+    "death_date": "2015",
+    "death_place": "Gold Coast, Queensland, Australia",
+    "nickname": "Typhoon Tyson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "testdebutdate": "12 August",
+    "testdebutyear": "1954",
+    "testdebutagainst": "Pakistan",
+    "testcap": "377",
+    "lasttestdate": "18 March",
+    "lasttestyear": "1959",
+    "lasttestagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/21644.html CricInfo ",
+    "Test": {
+        "matches": "17",
+        "runs": "230",
+        "bat avg": "10.95",
+        "100s/50s": "0/0",
+        "deliveries": "3,452",
+        "wickets": "76",
+        "bowl avg": "18.56",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/27",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "244",
+        "runs": "4,103",
+        "bat avg": "17.09",
+        "100s/50s": "0/13",
+        "top score": "82",
+        "deliveries": "38,173",
+        "wickets": "767",
+        "bowl avg": "20.89",
+        "fivefor": "34",
+        "tenfor": "5",
+        "best bowling": "8/60",
+        "catches/stumpings": "85/0"
+    },
+    "clubs": {
+        "Northamptonshire": "1952\u20131960"
+    },
+    "birth_date": "1930-6-6"
+}

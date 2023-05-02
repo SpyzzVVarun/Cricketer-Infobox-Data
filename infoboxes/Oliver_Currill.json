@@ -1,0 +1,34 @@
+{
+    "name": "Oliver Currill",
+    "country": "England",
+    "fullname": "Oliver Charles Currill",
+    "birth_place": "Banbury, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "28 March",
+    "debutyear1": "2017",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Durham MCCU",
+    "source": "http://www.espncricinfo.com/ci/content/player/869683.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "90",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "2017\u2013present"
+    },
+    "birth_date": "1997-2-27"
+}

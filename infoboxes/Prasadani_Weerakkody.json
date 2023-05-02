@@ -1,0 +1,42 @@
+{
+    "name": "Prasadani Weerakkody",
+    "female": "true",
+    "country": "Sri Lanka",
+    "fullname": "Prasadani Maheshika Weerakkody",
+    "birth_place": "Kurunegala, Sri Lanka",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "14 November",
+    "odidebutyear": "2011",
+    "odidebutagainst": "South Africa",
+    "odicap": "50",
+    "lastodidate": "3 June",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "1 May",
+    "T20Idebutyear": "2012",
+    "T20Idebutagainst": "West Indies",
+    "T20Icap": "25",
+    "lastT20Idate": "6 February",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/womens-world-twenty20-2012/content/player/442310.html Cricinfo ",
+    "WODI": {
+        "matches": "53",
+        "runs": "909",
+        "bat avg": "17.48",
+        "100s/50s": "0/2",
+        "top score": "69",
+        "catches/stumpings": "39/16"
+    },
+    "WT20I": {
+        "matches": "27",
+        "runs": "303",
+        "bat avg": "13.17",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "8/11"
+    },
+    "clubs": {},
+    "birth_date": "1988-11-13"
+}

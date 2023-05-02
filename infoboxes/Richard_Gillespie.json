@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Richard Henry Gillespie",
+    "birth_place": "Morpeth, Northumberland,, England",
+    "death_date": "df=yes",
+    "death_place": "Balham, Kent, England",
+    "family": "Derek Gillespie (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13626.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "10",
+        "bat avg": "2.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "432",
+        "wickets": "3",
+        "bowl avg": "69.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/89",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1901&ndash;1904"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Richard Bedbrook",
+    "country": "England",
+    "fullname": "Richard Denison Bedbrook",
+    "nickname": "Bedders",
+    "birth_place": "Bury, Greater Manchester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.cricinfo.com/ci/content/player/10311.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "53",
+        "bat avg": "53.00",
+        "100s/50s": "0/0",
+        "deliveries": "216",
+        "wickets": "5",
+        "bowl avg": "32.80",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "2/49",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "2000\u20132010"
+    },
+    "birth_date": "1978-7-29"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Peter Coutts",
+    "country": "New Zealand",
+    "fullname": "Peter John Charles Coutts",
+    "birth_place": "Napier, New Zealand",
+    "death_date": "2015",
+    "death_place": "Takapuna, Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/36763.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "1379",
+        "bat avg": "28.14",
+        "100s/50s": "4/2",
+        "top score": "152",
+        "deliveries": "82",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "21/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "100",
+        "bat avg": "100.00",
+        "100s/50s": "0/1",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Central Districts": "1958\u201359 to 1972\u201373",
+        "Wellington": "1969\u201370"
+    },
+    "birth_date": "1937-11-3"
+}

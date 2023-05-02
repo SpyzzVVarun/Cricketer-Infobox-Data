@@ -1,0 +1,37 @@
+{
+    "name": "Henry Bishop",
+    "country": "Australia",
+    "fullname": "Henry Symons Bishop",
+    "birth_place": "Torrington, Devon, England",
+    "death_date": "1891",
+    "death_place": "Prahran, Victoria, Australia",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "14 March",
+    "debutyear1": "1873",
+    "debutfor1": "Victoria",
+    "debutagainst1": "Tasmania",
+    "lastdate1": "14 March",
+    "lastyear1": "1873",
+    "lastfor1": "Victoria",
+    "lastagainst1": "Tasmania",
+    "source": "https://cricketarchive.com/Archive/Players/15/15760/15760.html ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1873"
+    },
+    "birth_date": "1849-12-15"
+}

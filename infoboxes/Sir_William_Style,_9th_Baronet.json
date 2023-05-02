@@ -1,0 +1,23 @@
+{
+    "name": "William Style",
+    "country": "England",
+    "fullname": "William Henry Marsham Style",
+    "birth_place": "Bicester, Oxfordshire, England",
+    "death_date": "1904",
+    "death_place": "Folkestone, Kent, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Henry Tubb (brother-in-law)",
+    "source": "http://www.cricinfo.com/ci/content/player/20405.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Hampshire": "1865"
+    }
+}

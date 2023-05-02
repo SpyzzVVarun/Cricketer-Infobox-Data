@@ -1,0 +1,30 @@
+{
+    "name": "Hurtle Willsmore",
+    "country": "Australia",
+    "fullname": "Hurtle Binks Willsmore",
+    "birth_place": "Beverley, South Australia",
+    "death_date": "1985",
+    "death_place": "King's Park, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm legspin",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/16/16873/16873.html Cricket Archive ",
+    "First-class": {
+        "matches": "9",
+        "runs": "271",
+        "bat avg": "16.93",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "874",
+        "wickets": "16",
+        "bowl avg": "32.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/65",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1913/14\u20131920/21"
+    },
+    "birth_date": "1889-12-26"
+}

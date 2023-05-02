@@ -1,0 +1,44 @@
+{
+    "name": "Henry Thornton",
+    "fullname": "Henry Thomas Raphael James York Thornton",
+    "birth_place": "Kogarah, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/837611.html Cricinfo",
+    "List A": {
+        "matches": "16",
+        "runs": "111",
+        "bat avg": "15.85",
+        "100s/50s": "0/0",
+        "deliveries": "815",
+        "wickets": "24",
+        "bowl avg": "34.29",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/45",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "18",
+        "runs": "8",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "372",
+        "wickets": "30",
+        "bowl avg": "17.86",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/3",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sydney Sixers( 6 )": "2016/17",
+        "Cricket Australia XI( 9 )": "2017/18",
+        "New South Wales": "2017/18",
+        "Adelaide Strikers( 58 )": "2021/22\u2013",
+        "Victoria": "2021/22",
+        "South Australia( 58 )": "2022/23"
+    },
+    "birth_date": "1996-12-16"
+}

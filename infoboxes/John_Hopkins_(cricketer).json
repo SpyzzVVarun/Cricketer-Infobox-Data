@@ -1,0 +1,33 @@
+{
+    "name": "John Hopkins",
+    "batting": "Right-handed",
+    "source": "http://content-aus.cricinfo.com/england/content/player/14264.html Cricinfo",
+    "First-class": {
+        "matches": "305",
+        "runs": "13,742",
+        "bat avg": "27.32",
+        "100s/50s": "18/64",
+        "top score": "230",
+        "deliveries": "157",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "213/1"
+    },
+    "List A": {
+        "matches": "264",
+        "runs": "5,657",
+        "bat avg": "23.76",
+        "100s/50s": "2/33",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "69/1"
+    },
+    "clubs": {}
+}

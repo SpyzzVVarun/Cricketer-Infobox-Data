@@ -1,0 +1,29 @@
+{
+    "name": "Wahidul Gani",
+    "country": "Bangladesh",
+    "birth_place": "Dacca, East Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "oneodi": "true",
+    "odidebutagainst": "Pakistan",
+    "odidebutdate": "28 October",
+    "odidebutyear": "1988",
+    "odicap": "20",
+    "source": "http://www.espncricinfo.com/ci/content/player/56162.html Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1958-9-22"
+}

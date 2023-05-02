@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Leslie",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=yes",
+    "death_place": "Brancaster, Norfolk, England",
+    "family": "Charles Leslie (father), Ivor Gilliat (brother-in-law), Hubert Pilkington (brother-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/16552.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "42",
+        "bat avg": "8.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1908"
+    }
+}

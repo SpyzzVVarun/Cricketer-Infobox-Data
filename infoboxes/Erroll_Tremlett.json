@@ -1,0 +1,23 @@
+{
+    "module": "child=yes   |embed=yes",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "id=21925   ",
+    "First-class": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "8.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "31.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1929\u20131934"
+    }
+}

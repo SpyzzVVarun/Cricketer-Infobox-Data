@@ -1,0 +1,29 @@
+{
+    "name": "Herbert Baker",
+    "country": "England",
+    "fullname": "Herbert Zouch Baker",
+    "birth_place": "Beckenham, Kent",
+    "death_date": "df=yes",
+    "death_place": "Orpington, Kent",
+    "batting": "Right-handed",
+    "family": "Percy Baker (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/9483.html CricInfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "211",
+        "bat avg": "11.72",
+        "100s/50s": "0/1",
+        "top score": "82",
+        "deliveries": "190",
+        "wickets": "5",
+        "bowl avg": "21.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/68",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Kent": "1903\u20131904"
+    },
+    "birth_date": "1880-2-7"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Stephen Bozman",
+    "birth_place": "Wandsworth, Surrey, England",
+    "death_date": "1972",
+    "death_place": "Bromley, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/geoffrey-bozman-27062 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1925/26"
+    }
+}

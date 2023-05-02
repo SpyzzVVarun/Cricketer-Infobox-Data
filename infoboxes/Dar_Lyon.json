@@ -1,0 +1,40 @@
+{
+    "name": "Dar Lyon",
+    "country": "England",
+    "fullname": "Malcolm Douglas Lyon",
+    "birth_place": "Caterham, Surrey, England",
+    "death_date": "1964",
+    "death_place": "St Leonards-on-Sea, Sussex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsman",
+    "family": "Beverley Lyon (brother)",
+    "type1": "FC",
+    "debutdate1": "29 May",
+    "debutyear1": "1920",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "31 August",
+    "lastyear1": "1938",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Leicestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3696/3696.html CricketArchive ",
+    "First-class": {
+        "matches": "158",
+        "runs": "7,290",
+        "bat avg": "29.27",
+        "100s/50s": "14/31",
+        "top score": "219",
+        "deliveries": "891",
+        "wickets": "8",
+        "bowl avg": "71.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/43",
+        "catches/stumpings": "150/43"
+    },
+    "clubs": {
+        "Somerset": "1920\u20131938",
+        "Cambridge University": "1920\u20131922"
+    },
+    "birth_date": "1898-04-22"
+}

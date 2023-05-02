@@ -1,0 +1,58 @@
+{
+    "name": "Dane Anderson",
+    "country": "Australia",
+    "fullname": "Dane John Anderson",
+    "nickname": "Angry",
+    "birth_place": "Launceston, Tasmania, Australia",
+    "heightm": "1.80",
+    "role": "Batsman",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/australia/content/player/4067.html CricInfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "229",
+        "bat avg": "19.08",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "24",
+        "runs": "585",
+        "bat avg": "37.85",
+        "100s/50s": "0/1",
+        "top score": "79",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "35.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/22",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "171",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {
+        "Tasmania": "2005/06\u20132008/09"
+    },
+    "birth_date": "1984-10-19"
+}

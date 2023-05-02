@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas Hunt",
+    "birth_place": "Chesterfield, Derbyshire, England",
+    "death_date": "df=yes",
+    "death_place": "Rochdale, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/15063.html Cricinfo ",
+    "First-class": {
+        "matches": "39",
+        "runs": "922",
+        "bat avg": "15.11",
+        "100s/50s": "1/\u2013",
+        "top score": "102",
+        "deliveries": "1,449",
+        "wickets": "67",
+        "bowl avg": "14.94",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/?",
+        "catches/stumpings": "33/9"
+    },
+    "clubs": {
+        "Yorkshire": "1845&ndash;1851",
+        "Lancashire": "1849"
+    }
+}

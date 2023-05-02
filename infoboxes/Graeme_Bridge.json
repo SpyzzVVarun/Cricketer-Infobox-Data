@@ -1,0 +1,39 @@
+{
+    "name": "Graeme Bridge",
+    "fullname": "Graeme David Bridge",
+    "birth_place": "Sunderland, Tyne and Wear, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/9217.html  Cricinfo ",
+    "FC": {
+        "matches": "40",
+        "runs": "966",
+        "bat avg": "17.88",
+        "100s/50s": "0/3",
+        "top score": "52",
+        "deliveries": "6257",
+        "wickets": "89",
+        "bowl avg": "35.29",
+        "fivefor": "1",
+        "tenfor": "-",
+        "best bowling": "6/84",
+        "catches/stumpings": "20/-"
+    },
+    "List A": {
+        "matches": "49",
+        "runs": "332",
+        "bat avg": "15.09",
+        "100s/50s": "0/1",
+        "deliveries": "2096",
+        "wickets": "55",
+        "bowl avg": "27.96",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "4/20",
+        "catches/stumpings": "8/-"
+    },
+    "clubs": {
+        "Durham": "1999\u20132006"
+    },
+    "birth_date": "1980-9-4"
+}

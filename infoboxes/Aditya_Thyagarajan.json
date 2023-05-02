@@ -1,0 +1,37 @@
+{
+    "name": "Aditya Thyagarajan",
+    "country": "United States",
+    "birth_place": "Bangalore, Karnataka, India",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/352313.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "58",
+        "bat avg": "19.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "42",
+        "deliveries": "78",
+        "wickets": "5",
+        "bowl avg": "11.60",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/30",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "86",
+        "bat avg": "86.00",
+        "100s/50s": "&ndash;/1;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1978-11-7"
+}

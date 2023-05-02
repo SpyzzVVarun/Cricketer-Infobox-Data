@@ -1,0 +1,43 @@
+{
+    "name": "Tess Flintoff",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Tess Flintoff",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/2314/2314605/2314605.html CricketArchive",
+    "WLA": {
+        "matches": "16",
+        "runs": "56",
+        "bat avg": "11.20",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "241",
+        "wickets": "4",
+        "bowl avg": "48.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/31",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "27",
+        "runs": "84",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "deliveries": "309",
+        "wickets": "13",
+        "bowl avg": "31.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/13",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2019/20\u2013present",
+        "Melbourne Stars": "2019/20\u2013present"
+    },
+    "birth_date": "2003-3-31"
+}

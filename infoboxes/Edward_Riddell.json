@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edward Mitford Hutton Riddell",
+    "birth_place": "Carlton-on-Trent, Nottinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Lincoln, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/19699.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "89",
+        "bat avg": "12.71",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "248",
+        "wickets": "2",
+        "bowl avg": "62.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/33",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1870&ndash;1871"
+    }
+}

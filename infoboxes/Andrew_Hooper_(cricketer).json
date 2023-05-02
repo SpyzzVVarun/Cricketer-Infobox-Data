@@ -1,0 +1,36 @@
+{
+    "name": "Andrew Hooper",
+    "country": "England",
+    "fullname": "Andrew James Mendez Hooper",
+    "birth_place": "Denmark Hill, London",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "FC",
+    "debutdate1": "3 August",
+    "debutyear1": "1966",
+    "debutfor1": "Kent",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "9 August",
+    "lastyear1": "1969",
+    "lastfor1": "Kent",
+    "lastagainst1": "Sussex",
+    "source": "http://www.espncricinfo.com/ci/content/player/14361.html CricInfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "70",
+        "bat avg": "7.77",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "959",
+        "wickets": "16",
+        "bowl avg": "30.81",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/92",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Kent": "1966\u20131969"
+    },
+    "birth_date": "1945-9-17"
+}

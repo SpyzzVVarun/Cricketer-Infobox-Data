@@ -1,0 +1,22 @@
+{
+    "name": "Stephen Noyes",
+    "country": "England",
+    "fullname": "Stephen James Noyes",
+    "birth_place": "High Wycombe, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/18173.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "170",
+        "bat avg": "13.07",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Cambridge University": "1988",
+        "Buckinghamshire": "1992"
+    },
+    "birth_date": "1963-9-17"
+}

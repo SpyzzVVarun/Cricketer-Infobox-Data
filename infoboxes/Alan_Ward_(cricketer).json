@@ -1,0 +1,62 @@
+{
+    "name": "Alan Ward",
+    "country": "England",
+    "birth_place": "Dronfield, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "David Ward (son)",
+    "testdebutdate": "24 July",
+    "testdebutyear": "1969",
+    "testdebutagainst": "New Zealand",
+    "lasttestdate": "22 July",
+    "lasttestyear": "1976",
+    "lasttestagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/1/1339/1339.html CricketArchive ",
+    "Test": {
+        "matches": "5",
+        "runs": "40",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "761",
+        "wickets": "14",
+        "bowl avg": "32.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/61",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "163",
+        "runs": "928",
+        "bat avg": "8.43",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "21,905",
+        "wickets": "460",
+        "bowl avg": "22.81",
+        "fivefor": "15",
+        "tenfor": "4",
+        "best bowling": "7/42",
+        "catches/stumpings": "51/\u2013"
+    },
+    "LA": {
+        "matches": "119",
+        "runs": "259",
+        "bat avg": "6.31",
+        "100s/50s": "0/0",
+        "deliveries": "5,671",
+        "wickets": "143",
+        "bowl avg": "24.45",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/24",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1966\u20131976",
+        "Border": "1971/72",
+        "Leicestershire": "1977\u20131978"
+    },
+    "birth_date": "1947-8-10"
+}

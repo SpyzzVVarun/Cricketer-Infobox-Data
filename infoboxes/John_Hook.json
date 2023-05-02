@@ -1,0 +1,25 @@
+{
+    "name": "John Hook",
+    "fullname": "John Stanley Hook",
+    "birth_place": "Weston-super-Mare, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/3/3634/3634.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "deliveries": "72",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "0/3",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1975"
+    },
+    "birth_date": "1954-5-27"
+}

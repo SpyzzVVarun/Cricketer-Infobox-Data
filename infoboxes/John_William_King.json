@@ -1,0 +1,29 @@
+{
+    "name": "John King",
+    "country": "England",
+    "fullname": "John William King",
+    "birth_place": "Leicester, England",
+    "death_date": "1953",
+    "death_place": "Narborough, Leicestershire, England",
+    "batting": "Right-handed",
+    "source": "http://cricketarchive.co.uk/Archive/Players/30/30783/30783.html ",
+    "First-class": {
+        "matches": "48",
+        "runs": "1,169",
+        "bat avg": "15.79",
+        "100s/50s": "0/5",
+        "top score": "91",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "13/0"
+    },
+    "clubs": {
+        "Worcestershire": "1927\u20131928",
+        "Leicestershire": "1929"
+    },
+    "birth_date": "1908-1-21"
+}

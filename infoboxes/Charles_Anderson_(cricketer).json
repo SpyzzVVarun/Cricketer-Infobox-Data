@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Charles Stewart Anderson",
+    "birth_place": "Holywood, Ireland",
+    "death_date": "1943",
+    "death_place": "Portrush, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break, Right-arm Right-arm off break, Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24305.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "78",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1926"
+    }
+}

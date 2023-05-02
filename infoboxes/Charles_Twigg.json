@@ -1,0 +1,27 @@
+{
+    "country": "South Africa",
+    "fullname": "Charles Hanbury Twigg",
+    "birth_place": "Weeping Cross, Staffordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Pietermaritzburg, Natal,, South Africa",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/charles-twigg-47621 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "67",
+        "bat avg": "7.44",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "798",
+        "wickets": "11",
+        "bowl avg": "42.90",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1915/16\u20131916/17",
+        "Eastern Province": "1926/27\u20131930/31"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Troy Cooley",
+    "country": "Australia",
+    "fullname": "Troy James Cooley",
+    "birth_place": "Launceston, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/2/2454/2454.html CricketArchive ",
+    "First-class": {
+        "matches": "33",
+        "runs": "291",
+        "bat avg": "9.38",
+        "100s/50s": "0/0",
+        "deliveries": "4,871",
+        "wickets": "54",
+        "bowl avg": "61.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/41",
+        "catches/stumpings": "16/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "120",
+        "wickets": "4",
+        "bowl avg": "21.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/16",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1986\u20131995"
+    },
+    "birth_date": "1965-12-9"
+}

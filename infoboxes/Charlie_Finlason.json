@@ -1,0 +1,45 @@
+{
+    "name": "Charlie Finlason",
+    "country": "South Africa",
+    "birth_place": "Camberwell, Surrey,, England",
+    "death_date": "31 July 1917 (aged 57)",
+    "death_place": "Surbiton, Surrey,, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "onetest": "true",
+    "testdebutagainst": "England",
+    "testdebutdate": "12 March",
+    "testdebutyear": "1889",
+    "source": "https://cricketarchive.com/Archive/Players/0/117/117.html CricketArchive",
+    "Test": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/7",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "5",
+        "runs": "213",
+        "bat avg": "26.62",
+        "100s/50s": "1/0",
+        "deliveries": "694",
+        "wickets": "14",
+        "bowl avg": "20.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/37",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Transvaal  (now Gauteng)": "1890",
+        "Griqualand West  (or Kimberley)": "1890\u20131891"
+    }
+}

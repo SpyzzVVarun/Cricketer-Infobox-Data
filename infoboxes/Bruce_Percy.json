@@ -1,0 +1,27 @@
+{
+    "name": "Bruce Percy",
+    "country": "England",
+    "fullname": "Bruce Stephen Percy",
+    "birth_place": "Horsforth, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18501.html Cricinfo ",
+    "List A": {
+        "matches": "8",
+        "runs": "59",
+        "bat avg": "8.42",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "19",
+        "deliveries": "126",
+        "wickets": "3",
+        "bowl avg": "27.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/2",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1986&ndash;2001"
+    },
+    "birth_date": "1966-6-15"
+}

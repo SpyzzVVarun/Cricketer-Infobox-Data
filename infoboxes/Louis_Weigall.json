@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Louis Arthur Frederick Weigall",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "df=y",
+    "death_place": "Folkestone, Kent, England",
+    "family": "Gerry Weigall (brother), Evelyn Weigall (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/35961.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "171",
+        "bat avg": "13.15",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "deliveries": "221",
+        "wickets": "5",
+        "bowl avg": "31.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/41",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "1907&ndash;1914",
+        "Europeans": "1917/18&ndash;1919/20"
+    }
+}

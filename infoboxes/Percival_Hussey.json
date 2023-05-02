@@ -1,0 +1,30 @@
+{
+    "name": "Percival Hussey",
+    "country": "Australia",
+    "fullname": "Percival Leith Hussey",
+    "birth_place": "Perth, Western Australia",
+    "death_date": "1944",
+    "death_place": "Adelaide, South Australia",
+    "type1": "FC",
+    "debutdate1": "27 March",
+    "debutyear1": "1893",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "South Australia",
+    "lastdate1": "1 April",
+    "lastyear1": "1893",
+    "lastfor1": "Western Australia",
+    "lastagainst1": "Victoria",
+    "source": "https://cricketarchive.com/Archive/Players/16/16224/16224.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1892/93"
+    },
+    "birth_date": "1869-6-23"
+}

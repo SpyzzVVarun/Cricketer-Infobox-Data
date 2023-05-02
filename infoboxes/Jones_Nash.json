@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Jones Gifford Nash",
+    "birth_place": "Bishop's Stortford, Hertfordshire,, England",
+    "death_date": "df=yes",
+    "death_place": "Kentish Town, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm underarm Unknown-arm underarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/18191.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "31",
+        "bat avg": "5.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "311",
+        "wickets": "34",
+        "bowl avg": "17.50",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "6/?",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {}
+}

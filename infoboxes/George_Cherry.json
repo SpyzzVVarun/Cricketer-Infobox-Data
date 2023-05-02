@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "George Charles Cherry",
+    "birth_place": "Kintbury, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Kintbury, Berkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11622.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "122",
+        "bat avg": "7.17",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1841&ndash;1844"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Mithra Wettimuny",
+    "country": "Sri Lanka",
+    "fullname": "Mithra de Silva Wettimuny",
+    "birth_place": "Colombo",
+    "death_date": "2019",
+    "death_place": "Colombo",
+    "internationalspan": "1983",
+    "testdebutdate": "4 March",
+    "testdebutyear": "1983",
+    "testdebutagainst": "New Zealand",
+    "testcap": "22",
+    "lasttestdate": "11 March",
+    "lasttestyear": "1983",
+    "lasttestagainst": "New Zealand",
+    "oneodi": "true",
+    "odidebutdate": "2 March",
+    "odidebutyear": "1983",
+    "odidebutagainst": "New Zealand",
+    "odicap": "31",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50879.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "2/\u2013"
+    },
+    "ODI": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "9",
+        "runs": "268",
+        "bat avg": "17.86",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "49",
+        "bat avg": "16.33",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1951-7-11"
+}

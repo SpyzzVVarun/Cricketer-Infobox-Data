@@ -1,0 +1,31 @@
+{
+    "name": "Francis Clifford",
+    "full_name": "Francis Seath Clifford",
+    "birth_place": "Bearsted, Kent",
+    "death_date": "1869",
+    "death_place": "Gravesend, Kent",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "William Clifford (brother)",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1849",
+    "debutfor1": "Kent",
+    "debutagainst1": "Yorkshire XI",
+    "lastdate1": "14 June",
+    "lastyear1": "1860",
+    "lastfor1": "Kent",
+    "lastagainst1": "MCC",
+    "source": "https://www.espncricinfo.com/player/francis-clifford-11178 CricInfo",
+    "First-class": {
+        "matches": "53",
+        "runs": "907",
+        "bat avg": "10.30",
+        "100s/50s": "0/2",
+        "catches/stumpings": "24/8"
+    },
+    "clubs": {
+        "Kent": "1849\u20131860"
+    },
+    "birth_date": "1822-12-17"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Tony Tillim",
+    "country": "South Africa",
+    "fullname": "Anthony Frank Tillim",
+    "birth_place": "Johannesburg, Transvaal, South Africa",
+    "death_date": "2008",
+    "death_place": "Houghton, Johannesburg, Gauteng, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://www.espncricinfo.com/player/anthony-tillim-47547 Cricinfo ",
+    "First-class": {
+        "matches": "36",
+        "runs": "729",
+        "bat avg": "15.51",
+        "100s/50s": "0/1",
+        "deliveries": "4761",
+        "wickets": "92",
+        "bowl avg": "24.36",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "7/34",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Natal": "1958\u201359 to 1959\u201360, 1968\u201369",
+        "Transvaal": "1961\u201362 to 1966\u201367"
+    },
+    "birth_date": "1938-4-8"
+}

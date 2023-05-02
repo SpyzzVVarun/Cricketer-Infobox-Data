@@ -1,0 +1,27 @@
+{
+    "name": "John Weston",
+    "fullname": "John Stiles Weston",
+    "birth_place": "St John's Wood, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Monmouth, Monmouthshire, Wales",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23367.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "25",
+        "bat avg": "2.27",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "?",
+        "wickets": "18",
+        "bowl avg": "?",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/?",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1851\u20131854"
+    }
+}

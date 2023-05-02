@@ -1,0 +1,37 @@
+{
+    "name": "James Stubbings",
+    "country": "England",
+    "birth_place": "Whitwell, Derbyshire, England",
+    "death_date": "1912",
+    "death_place": "Huddersfield, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Walter Stubbings (brother)",
+    "type1": "FC",
+    "debutdate1": "6 September",
+    "debutyear1": "1877",
+    "debutfor1": "Players of the North",
+    "debutagainst1": "Gentlemen of the North",
+    "lastdate1": "4 June",
+    "lastyear1": "1885",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/33/33097/33097.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "26",
+        "bat avg": "3.71",
+        "100s/50s": "0/0",
+        "deliveries": "225",
+        "wickets": "7",
+        "bowl avg": "20.28",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1880\u20131885"
+    },
+    "birth_date": "1856-4-27"
+}

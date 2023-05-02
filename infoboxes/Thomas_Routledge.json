@@ -1,0 +1,47 @@
+{
+    "name": "Tommy Routledge",
+    "fullname": "Thomas William Routledge",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1927",
+    "death_place": "Billingham, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "South Africa",
+    "testdebutdate": "19 March",
+    "testdebutyear": "1892",
+    "lasttestdate": "21 March",
+    "lasttestyear": "1896",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/47002.html Cricinfo",
+    "Tests": {
+        "matches": "4",
+        "runs": "72",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "2/0"
+    },
+    "First-class": {
+        "matches": "12",
+        "runs": "492",
+        "bat avg": "21.39",
+        "100s/50s": "0/2",
+        "top score": "77",
+        "deliveries": "105",
+        "wickets": "3",
+        "bowl avg": "23.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/26",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Transvaal": "1892-93 to 1896-97"
+    },
+    "birth_date": "1867-4-18"
+}

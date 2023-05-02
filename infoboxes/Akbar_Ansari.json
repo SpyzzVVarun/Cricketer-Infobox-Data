@@ -1,0 +1,43 @@
+{
+    "name": "Akbar Ansari",
+    "country": "England",
+    "fullname": "Akbar Shahzaman Ansari",
+    "birth_place": "Ascot, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "role": "All-rounder",
+    "family": "Khizar Humayun Ansari (father) ,  Zafar Ansari (brother)",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/90/90841/90841.html CricketArchive   ",
+    "FC": {
+        "matches": "17",
+        "runs": "675",
+        "bat avg": "30.68",
+        "100s/50s": "2/1",
+        "top score": "193",
+        "deliveries": "812",
+        "wickets": "14",
+        "bowl avg": "43.21",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/50",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Cambridge UCCE": "2008\u20132013"
+    },
+    "birth_date": "1988-7-3"
+}

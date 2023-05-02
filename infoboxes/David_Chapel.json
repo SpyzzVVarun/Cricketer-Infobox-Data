@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "David Chapel",
+    "birth_place": "St Vigeans, Angus, Scotland",
+    "death_date": "1912",
+    "death_place": "Arbroath, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/david-chapel-25166 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "68",
+        "bat avg": "13.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "601",
+        "wickets": "18",
+        "bowl avg": "18.05",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/34",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1909&ndash;1911"
+    }
+}

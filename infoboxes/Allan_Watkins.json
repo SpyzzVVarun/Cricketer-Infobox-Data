@@ -1,0 +1,43 @@
+{
+    "name": "Allan Watkins",
+    "fullname": "Albert John Watkins",
+    "birth_place": "Usk, Monmouthshire, Wales",
+    "death_date": "2011",
+    "death_place": "Kidderminster, Worcestershire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "country": "England",
+    "testdebutdate": "14 August",
+    "testdebutyear": "1948",
+    "lasttestdate": "17 July",
+    "lasttestyear": "1952",
+    "source": "http://www.espncricinfo.com/england/content/player/22329.html Cricinfo",
+    "Tests": {
+        "matches": "15",
+        "runs": "810",
+        "bat avg": "40.50",
+        "100s/50s": "2/4",
+        "deliveries": "1,364",
+        "wickets": "11",
+        "bowl avg": "50.36",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/20",
+        "catches/stumpings": "17/\u2013"
+    },
+    "First-class": {
+        "matches": "484",
+        "runs": "20,361",
+        "bat avg": "30.57",
+        "100s/50s": "32/108",
+        "deliveries": "51,469",
+        "wickets": "833",
+        "bowl avg": "24.48",
+        "fivefor": "25",
+        "tenfor": "\u2013",
+        "best bowling": "7/28",
+        "catches/stumpings": "464/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1922-4-21"
+}

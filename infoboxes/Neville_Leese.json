@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Neville Leese",
+    "birth_place": "Preston, Lancashire, England",
+    "death_date": "1948",
+    "death_place": "Zeals, Wiltshire, England",
+    "family": "Joseph Leese (father), Vernon Leese (brother), William Leese (brother), Ernest Leese (uncle)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16537.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "226",
+        "bat avg": "18.83",
+        "100s/50s": "\u2013/1",
+        "top score": "59",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1895"
+    }
+}

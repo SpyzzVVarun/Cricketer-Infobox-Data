@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "James Lillywhite",
+    "source": "http://www.cricinfo.com/ci/content/player/16802.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1821"
+    }
+}

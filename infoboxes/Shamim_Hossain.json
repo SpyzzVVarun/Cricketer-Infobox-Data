@@ -1,0 +1,52 @@
+{
+    "name": "Shamim Hossain",
+    "country": "Bangladesh",
+    "fullname": "Shamim Hossain Patwari",
+    "birth_place": "Chandpur, Bangladesh",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "internationalspan": "2021",
+    "T20Idebutdate": "23 July",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Zimbabwe",
+    "T20Icap": "71",
+    "lastT20Idate": "31 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Ireland",
+    "source": "https://www.espncricinfo.com/player/shamim-hossain-1161044 Cricinfo",
+    "T20I": {
+        "matches": "6",
+        "runs": "70",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "4/0"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "2000-9-2",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{BAN}}",
+        "Competition: U-19 World Cup"
+    ]
+}

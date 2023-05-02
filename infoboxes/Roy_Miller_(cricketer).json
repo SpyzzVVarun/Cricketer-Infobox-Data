@@ -1,0 +1,47 @@
+{
+    "name": "Roy Miller",
+    "fullname": "Roy Samuel Miller",
+    "birth_place": "Kingston, Jamaica",
+    "death_date": "2014",
+    "death_place": "Florida, U.S.",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "West Indies",
+    "testdebutdate": "11 March",
+    "testdebutyear": "1953",
+    "lasttestdate": "11 March",
+    "lasttestyear": "1953",
+    "source": "http://www.espncricinfo.com/westindies/content/player/52537.html Cricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "23",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "96",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "8",
+        "runs": "231",
+        "bat avg": "25.66",
+        "100s/50s": "0/1",
+        "top score": "86",
+        "deliveries": "1464",
+        "wickets": "14",
+        "bowl avg": "45.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/65",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Jamaica": "1950-51 to 1953-54"
+    },
+    "birth_date": "1924-12-24"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Francis Spurway",
+    "country": "England",
+    "fullname": "Francis Edward Spurway",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "1980",
+    "death_place": "Halse, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "2 June",
+    "debutyear1": "1920",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "20 July",
+    "lastyear1": "1929",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Northamptonshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3827/3827.html CricketArchive ",
+    "First-class": {
+        "matches": "23",
+        "runs": "328",
+        "bat avg": "9.37",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "29/14"
+    },
+    "clubs": {
+        "Somerset": "1920\u20131929"
+    },
+    "birth_date": "1894-8-8"
+}

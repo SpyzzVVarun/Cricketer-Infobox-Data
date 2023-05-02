@@ -1,0 +1,31 @@
+{
+    "name": "Sydney Smith",
+    "country": "West Indies",
+    "fullname": "Sydney Gordon Smith",
+    "birth_place": "San Fernando, Trinidad and Tobago",
+    "death_date": "1963",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/22/22886/22886.html Cricket Archive ",
+    "First-class": {
+        "matches": "211",
+        "runs": "10920",
+        "bat avg": "31.28",
+        "100s/50s": "14/60",
+        "top score": "256",
+        "deliveries": "40396",
+        "wickets": "955",
+        "bowl avg": "18.08",
+        "fivefor": "71",
+        "tenfor": "19",
+        "best bowling": "9/34",
+        "catches/stumpings": "156/0"
+    },
+    "clubs": {
+        "Trinidad": "1899\u20131900 to 1905\u201306",
+        "Northamptonshire": "1907 to 1914",
+        "Auckland": "1917\u201318 to 1925\u201326"
+    },
+    "birth_date": "1881-1-15"
+}

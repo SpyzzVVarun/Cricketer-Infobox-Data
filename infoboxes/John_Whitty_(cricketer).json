@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Henry Hamlyn Whitty",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "1944",
+    "death_place": "Vicchio, Tuscany, Italy",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "source": "http://www.espncricinfo.com/england/content/player/22957.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "126",
+        "wickets": "4",
+        "bowl avg": "11.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/19",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1910-02-04"
+}

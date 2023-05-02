@@ -1,0 +1,29 @@
+{
+    "name": "Archer Windsor-Clive",
+    "fullname": "Archer Windsor-Clive",
+    "birth_place": "Redditch, Worcestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Landrecies, Nord, France",
+    "family": "Robert Windsor-Clive (father), Hugo Charteris (brother-in-law)",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/23101.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "108",
+        "bat avg": "8.30",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "467",
+        "wickets": "3",
+        "bowl avg": "72.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/56",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1908\u20131912",
+        "Cambridge University": "1910\u20131912"
+    }
+}

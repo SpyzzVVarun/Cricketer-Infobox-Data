@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Edwin Woodward",
+    "birth_place": "Sutton-in-Ashfield,, Nottinghamshire, England",
+    "death_date": "1953",
+    "death_place": "Mansfield, Nottinghamshire,, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23173.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "4.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "187",
+        "wickets": "2",
+        "bowl avg": "25.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/38",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {}
+}

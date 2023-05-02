@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Bowman Turner",
+    "birth_place": "Clapham, Surrey, England, Or, Clapton, Middlesex, England",
+    "death_date": "1892",
+    "death_place": "Norwich, Norfolk, England",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/cricketers/john-turner-22105 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "41",
+        "bat avg": "10.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1841"
+    }
+}

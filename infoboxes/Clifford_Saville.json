@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Clifford Allen Saville",
+    "birth_place": "Tottenham, Middlesex, England",
+    "death_date": "1917",
+    "death_place": "Fresnoy-le-Grand, Aisne, France",
+    "family": "Stanley Saville (brother)",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/clifford-saville-20600 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "57",
+        "bat avg": "11.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1914"
+    }
+}

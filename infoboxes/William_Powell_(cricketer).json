@@ -1,0 +1,29 @@
+{
+    "name": "William Powell",
+    "country": "England",
+    "fullname": "William Allan Powell",
+    "birth_place": "Blundellsands, Lancashire",
+    "death_date": "df=yes",
+    "death_place": "Earl's Court, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/19026.html CricInfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "187",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "974",
+        "wickets": "19",
+        "bowl avg": "29.42",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/40",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Kent": "1912\u20131921"
+    },
+    "birth_date": "1885-01-19"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Shaheedur Rahman",
+    "fullname": "Shaheedur Rahman Shahid",
+    "birth_place": "Chittagong, East Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "internationalspan": "1985-1986",
+    "odidebutagainst": "Pakistan",
+    "odidebutdate": "31 March",
+    "odidebutyear": "1986",
+    "lastodiagainst": "Sri Lanka",
+    "lastodidate": "2 April",
+    "lastodiyear": "1986",
+    "odicap": "11",
+    "country": "Bangladesh",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/56102.html CricInfo",
+    "ODI": {
+        "matches": "2",
+        "runs": "62",
+        "bat avg": "31.00",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Abahani Limited cricket team": ""
+    },
+    "birth_date": "1963-01-01"
+}

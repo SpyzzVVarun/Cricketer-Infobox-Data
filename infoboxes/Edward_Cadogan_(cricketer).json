@@ -1,0 +1,29 @@
+{
+    "name": "Edward Cadogan",
+    "country": "England",
+    "fullname": "Edward Henry Cadogan",
+    "birth_place": "Kasauli, Punjab, British Raj",
+    "death_date": "1993",
+    "death_place": "Lymington, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/10636.html Cricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "148",
+        "bat avg": "14.80",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,254",
+        "wickets": "29",
+        "bowl avg": "22.48",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/52",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1933\u20131935",
+        "Europeans (India)": "1929"
+    },
+    "birth_date": "1908-9-11"
+}

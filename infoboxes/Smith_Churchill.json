@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Smith Wild Churchill",
+    "birth_place": "Shepshed, Leicestershire, England",
+    "death_date": "1902",
+    "death_place": "Mapperley, Nottinghamshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11134.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1865"
+    }
+}

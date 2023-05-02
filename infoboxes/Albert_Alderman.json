@@ -1,0 +1,39 @@
+{
+    "name": "Albert Alderman",
+    "country": "England",
+    "fullname": "Albert Edward Alderman",
+    "birth_place": "Allenton, England",
+    "death_date": "1990",
+    "death_place": "Frimley, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "11 August",
+    "debutyear1": "1928",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "10 July",
+    "lastyear1": "1948",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Players/27/27441/27441.html CricketArchive ",
+    "First-class": {
+        "matches": "318",
+        "runs": "12,376",
+        "bat avg": "25.94",
+        "100s/50s": "12/62",
+        "top score": "175",
+        "deliveries": "297",
+        "wickets": "4",
+        "bowl avg": "42.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/37",
+        "catches/stumpings": "202/2"
+    },
+    "clubs": {
+        "Derbyshire": "1928\u20131948"
+    },
+    "birth_date": "1907-10-30"
+}

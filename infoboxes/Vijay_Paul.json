@@ -1,0 +1,39 @@
+{
+    "name": "Vijay Paul",
+    "country": "India",
+    "fullname": "T. Vijay Paul",
+    "death_date": "2016",
+    "death_place": "Hyderabad, Telangana, India",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/32868.html ESPNcricinfo ",
+    "FC": {
+        "matches": "34",
+        "runs": "1,583",
+        "bat avg": "35.97",
+        "100s/50s": "2/10",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "1974/75\u20131982/83"
+    }
+}

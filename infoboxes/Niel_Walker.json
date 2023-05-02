@@ -1,0 +1,39 @@
+{
+    "name": "Niel Walker",
+    "country": "England",
+    "fullname": "Niel Alexander McDonald Walker",
+    "birth_place": "Poona, British India",
+    "death_date": "1960",
+    "death_place": "Sheffield, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "18 March",
+    "debutyear1": "1924",
+    "debutfor1": "Europeans",
+    "debutagainst1": "Hindus",
+    "lastdate1": "13 May",
+    "lastyear1": "1936",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/14/14824/14824.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "48",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "204",
+        "wickets": "2",
+        "bowl avg": "38.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1923/24\u20131926/27",
+        "Derbyshire": "1931\u20131936"
+    },
+    "birth_date": "1895-8-22"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Smith",
+    "birth_place": "Witney, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Chittlehamholt, Devon, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/20897.html Cricinfo ",
+    "First-class": {
+        "matches": "30",
+        "runs": "1,191",
+        "bat avg": "30.53",
+        "100s/50s": "2/7",
+        "top score": "143",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "33.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/6",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1895&ndash;1905",
+        "London County": "1901&ndash;1904"
+    }
+}

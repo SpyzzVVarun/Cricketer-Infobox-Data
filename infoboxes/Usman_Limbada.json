@@ -1,0 +1,58 @@
+{
+    "name": "Usman Limbada",
+    "country": "Canada",
+    "fullname": "Usman Limbada",
+    "birth_place": "Scarborough, Ontario, Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "internationalspan": "2010\u20132014",
+    "odidebutdate": "16 February",
+    "odidebutyear": "2010",
+    "odidebutagainst": "Afghanistan",
+    "odicap": "68",
+    "lastodidate": "28 January",
+    "lastodiyear": "2014",
+    "lastodiagainst": "Netherlands",
+    "T20Idebutdate": "3 February",
+    "T20Idebutyear": "2010",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "26",
+    "lastT20Idate": "26 November",
+    "lastT20Iyear": "2013",
+    "lastT20Iagainst": "Kenya",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/414249.html ESPN Crickinfo  ",
+    "ODI": {
+        "matches": "11",
+        "runs": "189",
+        "bat avg": "18.90",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20I": {
+        "matches": "7",
+        "runs": "53",
+        "bat avg": "53.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "10.50",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "19",
+        "runs": "337",
+        "bat avg": "19.82",
+        "100s/50s": "0/2",
+        "top score": "58",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1989-10-02"
+}

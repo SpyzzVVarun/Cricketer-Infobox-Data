@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "John Herbert Inns",
+    "birth_place": "Writtle, Essex, England",
+    "death_date": "1905",
+    "death_place": "Leyton, Essex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/15398.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "73",
+        "bat avg": "6.63",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "28",
+        "deliveries": "30",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Essex": "1898&ndash;1904"
+    },
+    "birth_date": "1878-3-30"
+}

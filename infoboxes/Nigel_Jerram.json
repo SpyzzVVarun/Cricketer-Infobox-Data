@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Nigel Martyn Jerram",
+    "birth_place": "Weymouth, Dorset, England",
+    "death_date": "1968",
+    "death_place": "Trescoll, Cornwall, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/15687.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "78",
+        "bat avg": "78.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1922&ndash;1923"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Barry Sinton Hobson",
+    "birth_place": "Dunmurry, Northern Ireland",
+    "death_date": "df=yes",
+    "death_place": "Wells, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14865.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "50",
+        "bat avg": "4.54",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "930",
+        "wickets": "10",
+        "bowl avg": "46.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/60",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1946",
+        "Wiltshire": "1950&ndash;1953"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Philip Jonathan Clark",
+    "birth_place": "Khartoum, Khartoum State, , Sudan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/11725.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "102",
+        "wickets": "1",
+        "bowl avg": "92.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/72",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford UCCE": "2002"
+    },
+    "birth_date": "1979-8-12"
+}

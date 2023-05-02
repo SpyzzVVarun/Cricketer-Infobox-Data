@@ -1,0 +1,53 @@
+{
+    "name": "Monty Noble",
+    "country": "Australia",
+    "fullname": "Montague Alfred Noble",
+    "nickname": "MA, Alf, Mary Ann",
+    "birth_place": "Chinatown, Sydney, Australia",
+    "death_date": "1940",
+    "death_place": "Randwick, New South Wales, Australia",
+    "heightm": "1.85",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "All-rounder",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1898",
+    "testdebutagainst": "England",
+    "testcap": "76",
+    "lasttestdate": "9 August",
+    "lasttestyear": "1909",
+    "lasttestagainst": "England",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6936.html CricInfo ",
+    "Tests": {
+        "matches": "42",
+        "runs": "1,997",
+        "bat avg": "30.25",
+        "100s/50s": "1/16",
+        "top score": "133",
+        "deliveries": "7,159",
+        "wickets": "121",
+        "bowl avg": "25.00",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "7/17",
+        "catches/stumpings": "26/0"
+    },
+    "First-class": {
+        "matches": "248",
+        "runs": "13,975",
+        "bat avg": "40.74",
+        "100s/50s": "37/66",
+        "top score": "284",
+        "deliveries": "33,112",
+        "wickets": "625",
+        "bowl avg": "23.11",
+        "fivefor": "33",
+        "tenfor": "7",
+        "best bowling": "8/48",
+        "catches/stumpings": "191"
+    },
+    "clubs": {
+        "New South Wales": "1893\u20131919"
+    },
+    "birth_date": "1873-1-28"
+}

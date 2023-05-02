@@ -1,0 +1,28 @@
+{
+    "name": "Neil McCorkell",
+    "country": "England",
+    "fullname": "Neil Thomas McCorkell",
+    "birth_place": "Portsmouth, Hampshire, , England",
+    "death_date": "2013",
+    "death_place": "South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricinfo.com/england/content/player/16963.html Cricinfo ",
+    "First-class": {
+        "matches": "396",
+        "runs": "16,106",
+        "bat avg": "25.60",
+        "100s/50s": "17/77",
+        "top score": "203",
+        "deliveries": "177",
+        "wickets": "1",
+        "bowl avg": "117.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/73",
+        "catches/stumpings": "532/185"
+    },
+    "clubs": {
+        "Hampshire": "1932\u20131951"
+    }
+}

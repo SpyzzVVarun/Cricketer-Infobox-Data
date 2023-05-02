@@ -1,0 +1,46 @@
+{
+    "name": "Santhara Vello",
+    "country": "Malaysia",
+    "fullname": "Santhara Segeran Vello",
+    "birth_place": "Ipoh, Perak, Malaysia",
+    "batting": "Right-handed",
+    "type1": "LA",
+    "debutdate1": "17 March",
+    "debutyear1": "1998",
+    "debutfor1": "Malaysia",
+    "debutagainst1": "Pakistan International Airlines",
+    "lastdate1": "12 September",
+    "lastyear1": "1998",
+    "lastfor1": "Malaysia",
+    "lastagainst1": "Zimbabwe",
+    "type2": "ICC Trophy",
+    "debutdate2": "12 February",
+    "debutyear2": "1994",
+    "debutfor2": "Malaysia",
+    "debutagainst2": "Netherlands",
+    "lastdate2": "4 April",
+    "lastyear2": "1997",
+    "lastfor2": "Malaysia",
+    "lastagainst2": "Namibia",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/21/21146/21146.html CricketArchive ",
+    "List A": {
+        "matches": "5",
+        "runs": "42",
+        "bat avg": "8.40",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ICC Trophy": {
+        "matches": "10",
+        "runs": "158",
+        "bat avg": "15.80",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Malaysia": "1998"
+    },
+    "birth_date": "1972-5-19"
+}

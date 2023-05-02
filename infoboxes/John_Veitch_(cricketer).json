@@ -1,0 +1,30 @@
+{
+    "name": "John Veitch",
+    "country": "New Zealand",
+    "fullname": "John Robert Veitch",
+    "birth_place": "Dunedin, Otago, New Zealand",
+    "death_date": "2009",
+    "death_place": "Rotorua, Bay of Plenty, New Zealand",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.cricinfo.com/ci/content/player/38720.html CricInfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "517",
+        "bat avg": "13.97",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Otago": "1957/58-1963/64",
+        "Canterbury": "1964/65"
+    },
+    "birth_date": "1937-8-26"
+}

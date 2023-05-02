@@ -1,0 +1,63 @@
+{
+    "name": "Daphne Robinson",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1961",
+    "fullname": "Daphne Maureen May Robinson",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "2008",
+    "death_place": "Dunedin, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "onetest": "true",
+    "testdebutdate": "17 March",
+    "testdebutyear": "1961",
+    "testdebutagainst": "Australia",
+    "testcap": "43",
+    "source": "https://cricketarchive.com/Archive/Players/17/17311/17311.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "16.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "90",
+        "runs": "1,318",
+        "bat avg": "10.29",
+        "100s/50s": "0/3",
+        "top score": "68",
+        "deliveries": "12,792",
+        "wickets": "229",
+        "bowl avg": "18.65",
+        "fivefor": "10",
+        "tenfor": "0",
+        "best bowling": "6/17",
+        "catches/stumpings": "13/\u2013"
+    },
+    "WLA": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "deliveries": "146",
+        "wickets": "2",
+        "bowl avg": "17.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Otago": "1950/51\u20131980/81"
+    },
+    "birth_date": "1932-2-16"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Peter Higson",
+    "country": "England",
+    "birth_place": "Bramhall, Cheshire, England",
+    "death_date": "1986",
+    "death_place": "Hove, Sussex, England",
+    "family": "Thomas Higson, Sr. (father)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/14799.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "51",
+        "bat avg": "25.50",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1928\u20131931",
+        "Minor Counties": "1933"
+    }
+}

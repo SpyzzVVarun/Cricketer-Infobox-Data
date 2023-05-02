@@ -1,0 +1,41 @@
+{
+    "name": "Jonathan October",
+    "country": "Finland",
+    "fullname": "Jonathan Ricardo October",
+    "birth_place": "Mossel Bay, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/130/130672/130672.html CricketArchive ",
+    "FC": {
+        "matches": "2",
+        "runs": "66",
+        "bat avg": "16.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "66",
+        "wickets": "2",
+        "bowl avg": "36.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/54",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "South Western Districts": "2006/07"
+    },
+    "birth_date": "1974-9-21"
+}

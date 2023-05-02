@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles William Henry Evans",
+    "birth_place": "Guernsey",
+    "death_date": "df=yes",
+    "death_place": "Bognor, Sussex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/12687.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "33",
+        "bat avg": "6.60",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "2/2"
+    },
+    "clubs": {
+        "Cambridge University": "1871"
+    }
+}

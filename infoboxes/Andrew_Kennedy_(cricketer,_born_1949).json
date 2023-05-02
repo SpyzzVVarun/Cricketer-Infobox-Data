@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Andrew Kennedy",
+    "birth_place": "Blackburn, Lancashire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15990.html Cricinfo ",
+    "FC": {
+        "matches": "150",
+        "runs": "6,298",
+        "bat avg": "28.24",
+        "100s/50s": "6/26",
+        "top score": "180",
+        "deliveries": "786",
+        "wickets": "10",
+        "bowl avg": "39.80",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/58",
+        "catches/stumpings": "85/&ndash;"
+    },
+    "LA": {
+        "matches": "154",
+        "runs": "4,010",
+        "bat avg": "29.27",
+        "100s/50s": "3/24",
+        "top score": "131",
+        "deliveries": "463",
+        "wickets": "8",
+        "bowl avg": "41.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/1",
+        "catches/stumpings": "35/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1984",
+        "Dorset": "1983&ndash;1987",
+        "Lancashire": "1970&ndash;1982"
+    },
+    "birth_date": "1949-11-4"
+}

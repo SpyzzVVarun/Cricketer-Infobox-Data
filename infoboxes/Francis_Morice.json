@@ -1,0 +1,27 @@
+{
+    "country": "Canada",
+    "fullname": "Francis Henry Morice",
+    "birth_place": "La Colle, Quebec, Canada",
+    "death_date": "19 June 1912",
+    "death_place": "Dunedin, Otago, New Zealand",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://cricketarchive.com/Archive/Players/22/22519/22519.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "18",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Wellington": "1886/87&ndash;1889/90"
+    }
+}

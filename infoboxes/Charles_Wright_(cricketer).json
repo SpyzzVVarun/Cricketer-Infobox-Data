@@ -1,0 +1,43 @@
+{
+    "name": "Charles Wright",
+    "birth_place": "Harewood, Yorkshire, England",
+    "death_date": "1936",
+    "death_place": "Saxelby Park, Melton Mowbray, Leicestershire, England",
+    "batting": "Right-handed",
+    "country": "England",
+    "testdebutdate": "13 February",
+    "testdebutyear": "1896",
+    "lasttestdate": "23 March",
+    "lasttestyear": "1896",
+    "source": "http://content-uk.cricinfo.com/england/content/player/22534.html Cricinfo",
+    "Tests": {
+        "matches": "3",
+        "runs": "125",
+        "bat avg": "31.25",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "265",
+        "runs": "6,989",
+        "bat avg": "15.88",
+        "100s/50s": "2/30",
+        "top score": "114",
+        "deliveries": "59",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "195/40"
+    },
+    "clubs": {},
+    "birth_date": "1863-5-27"
+}

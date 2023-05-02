@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Meredith Magniac",
+    "birth_place": "Hitchin, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Monchy-le-Preux, Pas-de-Calais,, France",
+    "nickname": "Maniac",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/46419.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "40.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/81",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

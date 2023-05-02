@@ -1,0 +1,25 @@
+{
+    "name": "Shafiq Sharif",
+    "country": "Malaysia",
+    "batting": "Right-handed",
+    "T20Idebutdate": "24 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "9",
+    "lastT20Idate": "21 April",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/307638.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1990-3-10",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

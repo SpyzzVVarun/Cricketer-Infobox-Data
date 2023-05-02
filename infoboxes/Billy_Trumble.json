@@ -1,0 +1,49 @@
+{
+    "name": "Billy Trumble",
+    "fullname": "John William Trumble",
+    "birth_place": "Collingwood, Melbourne, Australia",
+    "death_date": "1944",
+    "death_place": "Brighton, Melbourne, Australia",
+    "family": "Hugh Trumble (brother), Thomas Trumble (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "All-rounder",
+    "country": "Australia",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1885",
+    "lasttestdate": "12 August",
+    "lasttestyear": "1886",
+    "source": "https://www.espncricinfo.com/australia/content/player/7978.html Cricinfo",
+    "Tests": {
+        "matches": "7",
+        "runs": "243",
+        "bat avg": "20.25",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "deliveries": "600",
+        "wickets": "10",
+        "bowl avg": "22.19",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "63",
+        "runs": "1761",
+        "bat avg": "18.93",
+        "100s/50s": "0/7",
+        "top score": "87",
+        "deliveries": "7050",
+        "wickets": "109",
+        "bowl avg": "24.10",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/33",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1883-84 to 1889-90"
+    },
+    "birth_date": "1863-9-16"
+}

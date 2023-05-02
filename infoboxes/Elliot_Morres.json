@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Elliot James Morres",
+    "birth_place": "Reading, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bath, Somerset, England",
+    "family": "Thomas Morres (brother), Hugh Morres (nephew), Archibald Morres (great-nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17915.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "5.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "?",
+        "wickets": "7",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1850&ndash;1851"
+    }
+}

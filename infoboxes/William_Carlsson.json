@@ -1,0 +1,28 @@
+{
+    "country": "South Africa",
+    "fullname": "William Eric Carlsson",
+    "birth_place": "Hoetjies Bay, Cape Colony,, South Africa",
+    "death_date": "14 July 1916 (aged 24)",
+    "death_place": "Longueval, Somme, France",
+    "batting": "Unknown",
+    "source": "https://cricketarchive.com/Archive/Players/13/13124/13124.html CricketArchive",
+    "module": "Infobox rugby biography",
+    "embed": "yes",
+    "ru_position": "Wing, Centre",
+    "amatteam1": "Villagers RFC",
+    "amatyears1": "1914",
+    "province1": "Western Province",
+    "ru_provinceyears1": "1914",
+    "provincepoints1": "0",
+    "First-class": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "6.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1910/11"
+    }
+}

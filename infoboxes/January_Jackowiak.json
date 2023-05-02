@@ -1,0 +1,25 @@
+{
+    "name": "January Jackowiak",
+    "female": "true",
+    "birth_place": "Adelaide, South Australia",
+    "nickname": "Jano, Uncle Jano, Tony T",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/45/45549/45549.html CricketArchive",
+    "WLA": {
+        "matches": "17",
+        "runs": "39",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2000/01\u20132002/03 |hidedeliveries = true"
+    },
+    "birth_date": "1982-01-29"
+}

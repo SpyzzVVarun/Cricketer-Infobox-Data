@@ -1,0 +1,44 @@
+{
+    "source": "https://www.espncricinfo.com/player/tahir-mughal-43296 ESPNcricinfo",
+    "FC": {
+        "matches": "112",
+        "runs": "3202",
+        "bat avg": "20.92",
+        "100s/50s": "1/13",
+        "deliveries": "20,212",
+        "wickets": "502",
+        "bowl avg": "21.64",
+        "fivefor": "39",
+        "tenfor": "8",
+        "best bowling": "7/50",
+        "catches/stumpings": "49/\u2013"
+    },
+    "LA": {
+        "matches": "84",
+        "runs": "1109",
+        "bat avg": "22.18",
+        "100s/50s": "1/4",
+        "deliveries": "3,739",
+        "wickets": "88",
+        "bowl avg": "33.85",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/26",
+        "catches/stumpings": "27/\u2013"
+    },
+    "T20": {
+        "matches": "26",
+        "runs": "413",
+        "bat avg": "22.94",
+        "100s/50s": "0/2",
+        "top score": "94",
+        "deliveries": "275",
+        "wickets": "10",
+        "bowl avg": "36.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/22",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

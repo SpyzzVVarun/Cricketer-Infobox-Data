@@ -1,0 +1,32 @@
+{
+    "name": "Dianne Cagen",
+    "female": "true",
+    "fullname": "Dianne Cagen",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "internationalspan": "1993",
+    "country": "West Indies",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "India",
+    "odicap": "17",
+    "lastodidate": "29 July",
+    "lastodiyear": "1993",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/17/17406/17406.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "11",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

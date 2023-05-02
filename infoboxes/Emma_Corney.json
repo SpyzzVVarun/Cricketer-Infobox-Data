@@ -1,0 +1,42 @@
+{
+    "name": "Emma Corney",
+    "female": "true",
+    "fullname": "Emma V Corney",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1864/1864666/1864666.html CricketArchive",
+    "WLA": {
+        "matches": "13",
+        "runs": "157",
+        "bat avg": "17.44",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "44.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "12",
+        "runs": "236",
+        "bat avg": "29.50",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "36",
+        "wickets": "2",
+        "bowl avg": "11.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/15",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Devon": "2019\u2013present",
+        "Western Storm": "2020\u2013present"
+    },
+    "birth_date": "2003-9-15"
+}

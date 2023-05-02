@@ -1,0 +1,31 @@
+{
+    "name": "Wally Pearce",
+    "country": "New Zealand",
+    "fullname": "Walter Charles Pearce",
+    "nickname": "Biffer",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1951",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38180.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "468",
+        "bat avg": "21.27",
+        "100s/50s": "0/3",
+        "top score": "68",
+        "deliveries": "2471",
+        "wickets": "59",
+        "bowl avg": "12.79",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/37",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Canterbury": "1893-94 to 1902-03"
+    },
+    "birth_date": "1870-4-29"
+}

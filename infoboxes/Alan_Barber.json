@@ -1,0 +1,28 @@
+{
+    "name": "Alan Barber",
+    "full_name": "Alan Theodore Barber",
+    "birth_place": "Ecclesall, Sheffield, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ludgrove, Wokingham, Berkshire, England",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/england/content/player/9512.html Cricinfo",
+    "First-class": {
+        "matches": "70",
+        "runs": "2261",
+        "bat avg": "23.30",
+        "100s/50s": "2/13",
+        "top score": "119",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "52/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1927 to 1929",
+        "Yorkshire": "1929 to 1930"
+    },
+    "birth_date": "1905-06-17"
+}

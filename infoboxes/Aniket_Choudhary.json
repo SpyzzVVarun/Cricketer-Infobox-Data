@@ -1,0 +1,57 @@
+{
+    "name": "Aniket Choudhary",
+    "country": "India",
+    "fullname": "Aniket Vinod Choudhary",
+    "birth_place": "Bikaner, Rajasthan, India",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/527299.html Cricinfo ",
+    "FC": {
+        "matches": "56",
+        "runs": "331",
+        "bat avg": "6.36",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "9818",
+        "wickets": "187",
+        "bowl avg": "24.66",
+        "fivefor": "12",
+        "tenfor": "3",
+        "best bowling": "6/27",
+        "catches/stumpings": "11/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "55",
+        "bat avg": "18.33",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "316",
+        "wickets": "6",
+        "bowl avg": "38.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "39",
+        "runs": "59",
+        "bat avg": "8.42",
+        "100s/50s": "0/0",
+        "deliveries": "851",
+        "wickets": "47",
+        "bowl avg": "22.76",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/30",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Rajasthan": "2011\u2013present",
+        "Kings XI Punjab": "2013",
+        "Royal Challengers Bangalore": "2017\u20132018"
+    },
+    "birth_date": "1990-1-28"
+}

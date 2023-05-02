@@ -1,0 +1,46 @@
+{
+    "name": "Ben Geddes",
+    "fullname": "Benedict Brodie Albert Geddes",
+    "birth_place": "Epsom, Surrey, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "4 July",
+    "debutyear1": "2021",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Hampshire",
+    "type2": "List A",
+    "debutdate2": "22 July",
+    "debutyear2": "2021",
+    "debutfor2": "Surrey",
+    "debutagainst2": "Yorkshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1185574.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "299",
+        "bat avg": "42.71",
+        "100s/50s": "2/0",
+        "top score": "124",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "299",
+        "bat avg": "27.18",
+        "100s/50s": "0/2",
+        "top score": "73",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "44",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Surrey( 14 )": "2021\u20132022"
+    },
+    "birth_date": "2001-7-31"
+}

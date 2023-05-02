@@ -1,0 +1,42 @@
+{
+    "name": "Katie Thompson",
+    "female": "true",
+    "fullname": "Katie Cordelia Thompson",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm unorthodox",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/871/871236/871236.html CricketArchive",
+    "WLA": {
+        "matches": "29",
+        "runs": "72",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "1,340",
+        "wickets": "46",
+        "bowl avg": "11.04",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/10",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "41",
+        "runs": "63",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "883",
+        "wickets": "44",
+        "bowl avg": "12.56",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/4",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2014\u2013present",
+        "Yorkshire Diamonds": "2016\u20132018",
+        "North Representative XI": "2021"
+    },
+    "birth_date": "1996-9-28"
+}

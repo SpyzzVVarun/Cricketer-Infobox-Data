@@ -1,0 +1,38 @@
+{
+    "name": "Anne Bierwisch",
+    "nickname": "Sam title=Anne Bierwisch ",
+    "birth_place": "Sondershausen, Thuringia, Germany",
+    "female": "true",
+    "fullname": "Anne Bierwisch",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "country": "Germany",
+    "internationalspan": "2017\u2013present",
+    "T20Idebutdate": "26 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Scotland",
+    "T20Icap": "3",
+    "lastT20Idate": "29 August",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Scotland",
+    "source": "https://www.espncricinfo.com/ci/content/player/1190581.html Cricinfo ",
+    "WT20I": {
+        "matches": "19",
+        "runs": "32",
+        "bat avg": "10.66",
+        "100s/50s": "0/0",
+        "deliveries": "104",
+        "wickets": "8",
+        "bowl avg": "9.50",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/7",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Munich": "2016\u20132018",
+        "Frankfurt": "2019\u2013"
+    },
+    "birth_date": "1987-12-26"
+}

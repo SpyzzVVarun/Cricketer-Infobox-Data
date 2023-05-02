@@ -1,0 +1,23 @@
+{
+    "fullname": "M. Norton",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/18229.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1837"
+    }
+}

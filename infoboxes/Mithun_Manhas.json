@@ -1,0 +1,56 @@
+{
+    "name": "Mithun Manhas",
+    "country": "India",
+    "fullname": "Mithun Manhas",
+    "birth_place": "Jammu, Jammu and Kashmir, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Allrounder, occasional Wicket keeper",
+    "source": "http://www.espncricinfo.com/india/content/player/31001.html ESPN Cricinfo ",
+    "FC": {
+        "matches": "157",
+        "runs": "9,714",
+        "bat avg": "45.82",
+        "100s/50s": "27/49",
+        "deliveries": "3,702",
+        "wickets": "40",
+        "bowl avg": "46.65",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/15",
+        "catches/stumpings": "105/1"
+    },
+    "LA": {
+        "matches": "130",
+        "runs": "4,126",
+        "bat avg": "45.84",
+        "100s/50s": "5/26",
+        "top score": "148",
+        "deliveries": "1,066",
+        "wickets": "25",
+        "bowl avg": "35.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/36",
+        "catches/stumpings": "53/\u2013"
+    },
+    "T20": {
+        "matches": "91",
+        "runs": "1170",
+        "bat avg": "21.66",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "110",
+        "wickets": "5",
+        "bowl avg": "29.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "28/\u2013"
+    },
+    "clubs": {
+        "Delhi": "1998\u20132015",
+        "Jammu and Kashmir": "2016\u20132017"
+    },
+    "birth_date": "1979-10-12"
+}

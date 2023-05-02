@@ -1,0 +1,31 @@
+{
+    "name": "Walter Livsey",
+    "country": "England",
+    "fullname": "Walter Herbert Livsey",
+    "birth_place": "Todmorden, Yorkshire, England",
+    "death_date": "1978",
+    "death_place": "Merton Park, London, England",
+    "batting": "Right-hand bat",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "30 June",
+    "debutyear1": "1913",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "28 August",
+    "lastyear1": "1929",
+    "lastfor1": "Hampshire",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/6/6728/6728.html Cricket Archive ",
+    "First-class": {
+        "matches": "320",
+        "runs": "4940",
+        "bat avg": "15.33",
+        "100s/50s": "2/11",
+        "catches/stumpings": "382/266"
+    },
+    "clubs": {
+        "Hampshire": "1913&ndash;1929"
+    },
+    "birth_date": "1893-9-23"
+}

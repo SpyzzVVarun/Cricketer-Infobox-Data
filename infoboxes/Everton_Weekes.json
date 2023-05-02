@@ -1,0 +1,50 @@
+{
+    "name": "Sir Everton Weekes",
+    "country": "West Indies",
+    "fullname": "Everton DeCourcy Weekes",
+    "birth_place": "Saint Michael, Barbados",
+    "death_date": "2020",
+    "death_place": "Christ Church, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Occasional wicket-keeper",
+    "family": "David Murray (son), Ken Weekes (cousin), Ricky Hoyte (grandson)",
+    "testdebutdate": "21 January",
+    "testdebutyear": "1948",
+    "testdebutagainst": "England",
+    "testcap": "59",
+    "lasttestdate": "31 March",
+    "lasttestyear": "1958",
+    "lasttestagainst": "Pakistan",
+    "source": "https://www.espncricinfo.com/westindies/content/player/53241.html ESPN Cricinfo ",
+    "Tests": {
+        "matches": "48",
+        "runs": "4,455",
+        "bat avg": "58.61",
+        "100s/50s": "15/19",
+        "top score": "207",
+        "deliveries": "122",
+        "wickets": "1",
+        "bowl avg": "77.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "49/\u2013"
+    },
+    "First-class": {
+        "matches": "152",
+        "runs": "12,010",
+        "bat avg": "55.34",
+        "100s/50s": "36/54",
+        "deliveries": "1,137",
+        "wickets": "17",
+        "bowl avg": "43.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/38",
+        "catches/stumpings": "124/1"
+    },
+    "clubs": {
+        "Barbados": "1944\u20131964"
+    }
+}

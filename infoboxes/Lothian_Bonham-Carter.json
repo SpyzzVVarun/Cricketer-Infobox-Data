@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Lothian George Bonham-Carter",
+    "birth_place": "Adhurst St Mary, Hampshire, England",
+    "death_date": "1927",
+    "death_place": "Buriton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "(Unknown arm) slow (Unknown arm) slow roundarm",
+    "family": "Stuart Bonham Carter (son), Algernon Bonham Carter (son), Anthony Abdy (brother-in-law)",
+    "source": "http://www.espncricinfo.com/ci/content/player/9147.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "260",
+        "bat avg": "17.33",
+        "100s/50s": "\u2013/2",
+        "top score": "67",
+        "deliveries": "108",
+        "wickets": "63",
+        "bowl avg": "31.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/22",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1880\u20131888"
+    },
+    "birth_date": "1858-9-29"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Lewis Whitmore Burnand",
+    "birth_place": "Bloomsbury, Middlesex, England",
+    "death_date": "1923",
+    "death_place": "Worthing, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/10166.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1863&ndash;1864"
+    }
+}

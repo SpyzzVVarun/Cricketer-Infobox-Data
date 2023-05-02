@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Owen Hughes",
+    "birth_place": "Reigate, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Saint Peter, Jersey",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/15027.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "168",
+        "bat avg": "21.00",
+        "100s/50s": "\u2013/2",
+        "top score": "65",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1910"
+    }
+}

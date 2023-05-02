@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Henry William Majendie",
+    "birth_place": "Calne, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Charminster, Dorset, England",
+    "family": "Vivian Majendie (son)",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/17819.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1860"
+    }
+}

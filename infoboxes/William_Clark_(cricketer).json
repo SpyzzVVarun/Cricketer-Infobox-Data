@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "William Clark",
+    "birth_place": "Crieff, Perthshire, Scotland",
+    "death_date": "1990",
+    "death_place": "Stirlingshire, Stirlingshire, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/william-clark-25171 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Scotland": "1946"
+    }
+}

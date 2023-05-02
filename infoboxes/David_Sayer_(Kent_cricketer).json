@@ -1,0 +1,43 @@
+{
+    "name": "David Sayer",
+    "fullname": "David Michael Sayer",
+    "birth_place": "Romford, Essex",
+    "death_date": "2017",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/20605.html Cricinfo ",
+    "First-class": {
+        "matches": "204",
+        "runs": "1,252",
+        "bat avg": "8.29",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "33,482",
+        "wickets": "613",
+        "bowl avg": "23.48",
+        "fivefor": "19",
+        "tenfor": "2",
+        "best bowling": "7/37",
+        "catches/stumpings": "76/\u2212"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "465",
+        "wickets": "14",
+        "bowl avg": "19.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/24",
+        "catches/stumpings": "4/\u2212"
+    },
+    "clubs": {
+        "Kent": "1955\u22121976",
+        "Oxford University": "1958\u22121960"
+    },
+    "birth_date": "1936-9-19"
+}

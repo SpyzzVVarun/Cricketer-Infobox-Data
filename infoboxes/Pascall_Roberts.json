@@ -1,0 +1,43 @@
+{
+    "name": "Pascall Roberts",
+    "fullname": "Pascall Ronald Roberts",
+    "birth_place": "Port of Spain, Trinidad",
+    "death_date": "2011",
+    "country": "West Indies",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm orthodox, left-arm Slow left-arm orthodox, left-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/24/24086/24086.html Cricket Archive",
+    "First-class": {
+        "matches": "67",
+        "runs": "871",
+        "bat avg": "13.82",
+        "100s/50s": "1/0",
+        "top score": "105 not out",
+        "deliveries": "14973",
+        "wickets": "211",
+        "bowl avg": "25.05",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "6/17",
+        "catches/stumpings": "32/&ndash;"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "48",
+        "wickets": "2",
+        "bowl avg": "21.50",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/43",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Trinidad": "1960-61 to 1971-72",
+        "North Trinidad": "1960-61 to 1978-79"
+    },
+    "birth_date": "1937-12-15"
+}

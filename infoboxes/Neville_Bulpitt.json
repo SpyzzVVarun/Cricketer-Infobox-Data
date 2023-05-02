@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Neville John Bulpitt",
+    "birth_place": "Coventry, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10296.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "144",
+        "wickets": "2",
+        "bowl avg": "53.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/31",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1979"
+    },
+    "birth_date": "1957-4-15"
+}

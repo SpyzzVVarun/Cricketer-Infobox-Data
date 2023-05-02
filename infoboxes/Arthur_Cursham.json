@@ -1,0 +1,39 @@
+{
+    "name": "Arthur Cursham",
+    "country": "England",
+    "fullname": "Arthur William Cursham",
+    "birth_place": "Wilford, Nottingham, England",
+    "death_date": "1884",
+    "death_place": "Florida, USA",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "type1": "FC",
+    "debutdate1": "28 August",
+    "debutyear1": "1876",
+    "debutfor1": "Notts",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "26 August",
+    "lastyear1": "1880",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/28/28893/28893.html CricketArchive ",
+    "First-class": {
+        "matches": "21",
+        "runs": "314",
+        "bat avg": "8.97",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "deliveries": "104",
+        "wickets": "1",
+        "bowl avg": "49.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/39",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1876\u20131878",
+        "Derbyshire": "1879\u20131880"
+    },
+    "birth_date": "1853-3-14"
+}

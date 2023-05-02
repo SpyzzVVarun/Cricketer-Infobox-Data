@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Archibald Wickstead",
+    "birth_place": "Meltham Mills, Yorkshire, England",
+    "death_date": "1966",
+    "death_place": "Mansfield, Nottinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/archibald-wickstead-22963 Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "385",
+        "bat avg": "16.73",
+        "100s/50s": "\u2013/2",
+        "top score": "68",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1911&ndash;1912"
+    }
+}

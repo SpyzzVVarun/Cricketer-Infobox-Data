@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Patrick Murphy",
+    "birth_place": "County Wicklow, Ireland",
+    "death_date": "Q2 1938 (aged 56)",
+    "death_place": "Dublin, Leinster, Ireland",
+    "nickname": "Paddy",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24471.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "192",
+        "wickets": "4",
+        "bowl avg": "29.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/92",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1909&ndash;1912"
+    }
+}

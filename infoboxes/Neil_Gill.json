@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Neil Stuart Gill",
+    "birth_place": "Bradford, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "source": "http://www.cricinfo.com/ci/content/player/13536.html Cricinfo ",
+    "LA": {
+        "matches": "7",
+        "runs": "102",
+        "bat avg": "25.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "393",
+        "wickets": "15",
+        "bowl avg": "16.93",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/44",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Yorkshire Cricket Board": "2000-2002",
+        "Lincolnshire": "1996-1998"
+    },
+    "birth_date": "1971-9-22"
+}

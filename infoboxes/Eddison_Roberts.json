@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Theophile Eddison Roberts",
+    "birth_place": "Antigua",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/19914.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "56.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/42",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Berkshire": "1984-1985"
+    },
+    "birth_date": "1959-1-23"
+}

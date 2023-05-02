@@ -1,0 +1,36 @@
+{
+    "name": "William Henty",
+    "fullname": "William Henty",
+    "birth_place": "West Tarring, Sussex, England",
+    "death_date": "1881",
+    "death_place": "Hove, Sussex, England",
+    "bowling": "underarm",
+    "type1": "First-class",
+    "debutdate1": "11 February",
+    "debutyear1": "1851",
+    "debutfor1": "Tasmania",
+    "debutagainst1": "Victoria",
+    "lastdate1": "29 March",
+    "lastyear1": "1852",
+    "lastfor1": "Tasmania",
+    "lastagainst1": "Victoria",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/2/2557/2557.html",
+    "First-class": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.33",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "224",
+        "wickets": "19",
+        "bowl avg": "9.36",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "6/40",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1851&ndash;52"
+    },
+    "birth_date": "1808-9-23"
+}

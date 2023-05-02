@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Mark Robert Currie",
+    "birth_place": "Manchester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/10916.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "216",
+        "bat avg": "54.00",
+        "100s/50s": "\u2013/2",
+        "top score": "97",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "145",
+        "bat avg": "29.00",
+        "100s/50s": "\u2013/1",
+        "top score": "94",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2002\u20132003",
+        "Cheshire": "1999\u20132005"
+    },
+    "birth_date": "1979-9-22"
+}

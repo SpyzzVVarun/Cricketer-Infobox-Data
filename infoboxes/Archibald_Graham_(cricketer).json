@@ -1,0 +1,28 @@
+{
+    "name": "Archibald Graham",
+    "fullname": "Archibald Clifford Graham",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "2000",
+    "death_place": "Auckland, New Zealand",
+    "family": "Colin Graham",
+    "type1": "First-class",
+    "source": "http://www.espncricinfo.com/ci/content/player/37183.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "232",
+        "wickets": "4",
+        "bowl avg": "17.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Otago": "1944/45"
+    },
+    "birth_date": "1917-1-20"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Alan Wadey",
+    "country": "England",
+    "fullname": "Alan Nigel Charles Wadey",
+    "birth_place": "Billingshurst, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22641.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "44.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/44",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1975"
+    },
+    "birth_date": "1950-9-12"
+}

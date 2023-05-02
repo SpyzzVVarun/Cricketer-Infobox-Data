@@ -1,0 +1,28 @@
+{
+    "name": "Albert Bedford",
+    "fullname": "Albert Austen Bedford",
+    "birth_place": "Adelaide,South  Australia",
+    "death_date": "2001",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/4340.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "277",
+        "bat avg": "16.29",
+        "100s/50s": "0/0",
+        "deliveries": "3506",
+        "wickets": "33",
+        "bowl avg": "41.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/80",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1956/57\u20131958/59"
+    },
+    "birth_date": "1932-9-12"
+}

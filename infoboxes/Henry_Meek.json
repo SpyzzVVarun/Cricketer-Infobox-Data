@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry Edgar Meek",
+    "birth_place": "Devizes, Wiltshire, England",
+    "death_date": "1920",
+    "death_place": "Gullane, East Lothian, Scotland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/10167.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1878"
+    }
+}

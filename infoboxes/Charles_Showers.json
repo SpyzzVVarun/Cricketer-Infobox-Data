@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Charles James Showers",
+    "birth_place": "Fort William, Bengal Presidency,, British India",
+    "death_date": "Unknown",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/20750.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "82",
+        "bat avg": "16.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "deliveries": "164",
+        "wickets": "1",
+        "bowl avg": "48.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/48",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1881"
+    }
+}

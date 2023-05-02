@@ -1,0 +1,30 @@
+{
+    "name": "Wally Barclay",
+    "country": "New Zealand",
+    "fullname": "Walter Sinclair Barclay",
+    "birth_place": "Waihola, Otago, New Zealand",
+    "death_date": "1959",
+    "death_place": "New Plymouth, Taranaki, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "family": "Colin Barclay (son)",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36379.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "204",
+        "bat avg": "22.66",
+        "100s/50s": "0/1",
+        "top score": "67 not out",
+        "deliveries": "695",
+        "wickets": "18",
+        "bowl avg": "17.44",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/65",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1920-21 to 1925-26"
+    },
+    "birth_date": "1902-5-2"
+}

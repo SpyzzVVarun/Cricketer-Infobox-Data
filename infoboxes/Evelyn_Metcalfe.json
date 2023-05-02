@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Evelyn James Metcalfe",
+    "birth_place": "Kennington, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/6789.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "53",
+        "bat avg": "17.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "21.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/21",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1894/95&ndash;1898/99",
+        "Hertfordshire": "1903"
+    }
+}

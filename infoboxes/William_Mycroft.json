@@ -1,0 +1,39 @@
+{
+    "name": "William Mycroft",
+    "country": "England",
+    "fullname": "William Mycroft",
+    "birth_place": "Brimington, Derbyshire, England",
+    "death_date": "1894",
+    "death_place": "Derby, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "family": "Thomas Mycroft",
+    "type1": "First-class",
+    "debutdate1": "21 July",
+    "debutyear1": "1873",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "31 May",
+    "lastyear1": "1886",
+    "lastfor1": "MCC",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Players/31/31644/31644.html ",
+    "First-class": {
+        "matches": "138",
+        "runs": "791",
+        "bat avg": "5.34",
+        "100s/50s": "0/0",
+        "deliveries": "31,823",
+        "wickets": "863",
+        "bowl avg": "12.09",
+        "fivefor": "87",
+        "tenfor": "28",
+        "best bowling": "9/25",
+        "catches/stumpings": "94/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1873\u20131885",
+        "MCC": "1876\u20131886"
+    },
+    "birth_date": "1841-2-1"
+}

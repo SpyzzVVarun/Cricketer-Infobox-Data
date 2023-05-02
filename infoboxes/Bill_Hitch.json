@@ -1,0 +1,41 @@
+{
+    "name": "Bill Hitch",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1911",
+    "lasttestdate": "13 August",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1921",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/14222.html CricInfo",
+    "Test": {
+        "matches": "7",
+        "runs": "103",
+        "bat avg": "14.71",
+        "100s/50s": "0/1",
+        "deliveries": "462",
+        "wickets": "7",
+        "bowl avg": "46.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/31",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "350",
+        "runs": "7,643",
+        "bat avg": "17.81",
+        "100s/50s": "3/32",
+        "top score": "107",
+        "deliveries": "56,917",
+        "wickets": "1,387",
+        "bowl avg": "21.56",
+        "fivefor": "101",
+        "tenfor": "24",
+        "best bowling": "8/38",
+        "catches/stumpings": "230/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Thomas Crump",
+    "country": "England",
+    "birth_place": "Cleobury Mortimer, Shropshire, England",
+    "death_date": "1907",
+    "death_place": "East Pennard, Somerset, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/10890.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Somerset": "1885"
+    },
+    "birth_date": "1845-3-12"
+}

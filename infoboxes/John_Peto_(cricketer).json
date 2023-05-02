@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Peto",
+    "death_date": "22 February 1874",
+    "death_place": "Guildford, Surrey, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "family": "William Peto (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/19186.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/1"
+    },
+    "clubs": {
+        "Surrey": "1847"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Frederick Bowden-Smith",
+    "country": "England",
+    "fullname": "Frederick Hermann Bowden-Smith",
+    "birth_place": "Brockenhurst, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bournemouth, Hampshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10491.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "103",
+        "wickets": "7",
+        "bowl avg": "30.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/?",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1861"
+    }
+}

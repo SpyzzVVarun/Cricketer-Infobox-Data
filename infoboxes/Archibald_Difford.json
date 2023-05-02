@@ -1,0 +1,29 @@
+{
+    "country": "South Africa",
+    "fullname": "Archibald Newcombe Difford",
+    "birth_place": "Cape Town, Cape Colony",
+    "death_date": "df=yes",
+    "death_place": "Kh Jibeit, Ottoman Syria",
+    "family": "Ivor Difford (brother), Murray Bisset (brother-in-law)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/44704.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "824",
+        "bat avg": "29.42",
+        "100s/50s": "1/6",
+        "top score": "103",
+        "deliveries": "54",
+        "wickets": "2",
+        "bowl avg": "16.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/13",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1904/05&ndash;1907/08",
+        "Transvaal": "1908/09&ndash;1911/12"
+    }
+}

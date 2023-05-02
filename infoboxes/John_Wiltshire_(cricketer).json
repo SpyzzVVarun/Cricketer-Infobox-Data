@@ -1,0 +1,44 @@
+{
+    "name": "John Wiltshire",
+    "country": "New Zealand",
+    "fullname": "John Robert Wiltshire",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "First-class",
+    "source": "http://www.cricinfo.com/ci/content/player/38883.html CricInfo ",
+    "First-class": {
+        "matches": "54",
+        "runs": "2422",
+        "bat avg": "31.05",
+        "100s/50s": "2/10",
+        "top score": "105",
+        "deliveries": "14",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "25/0"
+    },
+    "List A": {
+        "matches": "29",
+        "runs": "695",
+        "bat avg": "28.95",
+        "100s/50s": "0/6",
+        "top score": "83",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "15/0"
+    },
+    "clubs": {
+        "Auckland": "1974-75 to 1980-81",
+        "Central Districts": "1981-82 to 1983-84"
+    },
+    "birth_date": "1952-01-20"
+}

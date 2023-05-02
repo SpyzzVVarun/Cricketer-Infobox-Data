@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Joseph Glyn Owen",
+    "birth_place": "Llanelli, Carmarthenshire, Wales",
+    "death_date": "df=yes",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/18350.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "361",
+        "bat avg": "22.56",
+        "100s/50s": "\u2013/2",
+        "top score": "57",
+        "deliveries": "1,784",
+        "wickets": "16",
+        "bowl avg": "52.31",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/15",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1950\u20131951",
+        "Bedfordshire": "1939\u20131957",
+        "Surrey": "1930\u20131933"
+    }
+}

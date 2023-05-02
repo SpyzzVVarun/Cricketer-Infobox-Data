@@ -1,0 +1,20 @@
+{
+    "name": "Leonard Newbery",
+    "fullname": "Arthur Leonard Newbery",
+    "birth_place": "Battle, Sussex, England",
+    "death_date": "1976",
+    "death_place": "Ightham, Kent, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/18103.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "58",
+        "bat avg": "11.60",
+        "100s/50s": "0/1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1925"
+    },
+    "birth_date": "1905-1-6"
+}

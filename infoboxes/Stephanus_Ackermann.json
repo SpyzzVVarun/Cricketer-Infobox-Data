@@ -1,0 +1,41 @@
+{
+    "name": "Stephanus Ackermann",
+    "country": "Namibia",
+    "fullname": "Stephanus Theodorus Ackermann",
+    "birth_place": "Windhoek, Khomas Region, Namibia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/62/62418/62418.html CricketArchive subscription required ",
+    "First-class": {
+        "matches": "3",
+        "runs": "139",
+        "bat avg": "23.16",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "66",
+        "bat avg": "22.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Namibia": "2004/05\u20132008/09"
+    },
+    "birth_date": "1985-12-26"
+}

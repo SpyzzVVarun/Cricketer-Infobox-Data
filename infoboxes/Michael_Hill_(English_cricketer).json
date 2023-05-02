@@ -1,0 +1,39 @@
+{
+    "name": "Michael Hill",
+    "country": "England",
+    "fullname": "Michael John Hill",
+    "birth_place": "Harwell, Berkshire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricinfo.com/ci/content/player/14204.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "68",
+        "bat avg": "17.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Hampshire": "1973\u20131976"
+    },
+    "birth_date": "1951-7-1"
+}

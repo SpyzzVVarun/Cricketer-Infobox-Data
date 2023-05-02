@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "James Kitson",
+    "birth_place": "Leeds, Yorkshire, England",
+    "death_date": "1885",
+    "death_place": "Leeds, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16141.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1832"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Fred Price",
+    "birth_place": "Westminster, London",
+    "death_date": "13 January 1969 (aged 66)",
+    "death_place": "Hendon, Greater London",
+    "batting": "Right-handed",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "22 July",
+    "testdebutyear": "1938",
+    "onetest": "true",
+    "source": "https://cricketarchive.com/Archive/Players/0/709/709.html CricketArchive",
+    "Test": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "2/0"
+    },
+    "First-class": {
+        "matches": "402",
+        "runs": "9,035",
+        "bat avg": "18.32",
+        "100s/50s": "3/36",
+        "top score": "111",
+        "catches/stumpings": "668/322"
+    },
+    "clubs": {}
+}

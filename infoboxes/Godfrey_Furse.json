@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Godfrey Ronald Furse",
+    "birth_place": "Launceston, Cornwall, England",
+    "batting": "Left-handed",
+    "bowling": "Right-hand Right-hand medium",
+    "source": "http://www.cricinfo.com/ci/content/player/12942.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "86.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/17",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "1985-2001"
+    },
+    "birth_date": "1960-8-27"
+}

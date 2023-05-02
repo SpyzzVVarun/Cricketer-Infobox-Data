@@ -1,0 +1,30 @@
+{
+    "name": "Gary Bricknell",
+    "country": "South Africa",
+    "fullname": "Gary Arthur Bricknell",
+    "birth_place": "Cape Town, Cape Province, South Africa",
+    "death_date": "1977",
+    "death_place": "Keetmanshoop, South West Africa",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/13/13046/13046.html CricketArchive ",
+    "First-class": {
+        "matches": "14",
+        "runs": "190",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "3,429",
+        "wickets": "58",
+        "bowl avg": "21.37",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/55",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1975/76\u20131976/77"
+    },
+    "birth_date": "1954-8-13"
+}

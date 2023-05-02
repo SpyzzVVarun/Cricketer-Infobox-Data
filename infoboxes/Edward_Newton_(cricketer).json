@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Edward Newton",
+    "birth_place": "Blackmoor, Hampshire, England",
+    "death_date": "1906",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/18014.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "568",
+        "bat avg": "18.32",
+        "100s/50s": "\u2013/3",
+        "top score": "69",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1900"
+    }
+}

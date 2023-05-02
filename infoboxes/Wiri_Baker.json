@@ -1,0 +1,29 @@
+{
+    "name": "Wiri Baker",
+    "fullname": "Wiri Aurunui Baker",
+    "country": "New Zealand",
+    "birth_place": "\u014ctaki, New Zealand",
+    "death_date": "1966",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Slow",
+    "source": "https://cricketarchive.com/Archive/Players/21/21382/21382.html Cricket Archive",
+    "First-class": {
+        "matches": "36",
+        "runs": "1874",
+        "bat avg": "29.74",
+        "100s/50s": "3/9",
+        "top score": "143",
+        "deliveries": "248",
+        "wickets": "8",
+        "bowl avg": "13.25",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/50",
+        "catches/stumpings": "22/0"
+    },
+    "clubs": {
+        "Wellington": "1911\u201312 to 1929\u201330"
+    },
+    "birth_date": "1892-4-2"
+}

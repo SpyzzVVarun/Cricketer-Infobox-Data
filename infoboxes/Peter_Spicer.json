@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Peter Alfred Spicer",
+    "birth_place": "Ilford, Essex, England",
+    "death_date": "1969",
+    "death_place": "Hainault, Essex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/20309.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "526",
+        "bat avg": "19.48",
+        "100s/50s": "\u2013/4",
+        "top score": "86",
+        "deliveries": "67",
+        "wickets": "2",
+        "bowl avg": "27.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/1",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "2",
+        "wickets": "1",
+        "bowl avg": "1.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Essex": "1962\u20131963"
+    },
+    "birth_date": "1939-5-11"
+}

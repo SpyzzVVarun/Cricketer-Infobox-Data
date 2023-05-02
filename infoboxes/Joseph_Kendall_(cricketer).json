@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Joseph Samuel Kendall",
+    "birth_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/1010971.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "95",
+        "bat avg": "47.50",
+        "100s/50s": "\u2013/2",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "2018&ndash;2019",
+        "Loughborough MCCU": "2019"
+    },
+    "birth_date": "1996-12-2"
+}

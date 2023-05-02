@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Edward Lotherington Colebrooke",
+    "birth_place": "Southborough, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Canterbury, Kent, England",
+    "family": "Kenneth Hutchings (nephew), Frederick Hutchings (nephew), William Hutchings (nephew)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/11224.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "161",
+        "bat avg": "13.41",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1880"
+    }
+}

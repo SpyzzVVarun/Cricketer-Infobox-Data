@@ -1,0 +1,32 @@
+{
+    "name": "James Cranston",
+    "birth_place": "Bordesley, Birmingham",
+    "death_date": "1904",
+    "death_place": "Bristol, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "11 August",
+    "testdebutyear": "1890",
+    "onetest": "true",
+    "source": "https://cricketarchive.com/Archive/Players/0/141/141.html CricketArchive",
+    "Test": {
+        "matches": "1",
+        "runs": "31",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "118",
+        "runs": "3,450",
+        "bat avg": "19.71",
+        "100s/50s": "5/14",
+        "top score": "152",
+        "catches/stumpings": "49/0"
+    },
+    "clubs": {},
+    "birth_date": "1859-1-9"
+}

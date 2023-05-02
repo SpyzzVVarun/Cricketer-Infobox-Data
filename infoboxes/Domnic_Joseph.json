@@ -1,0 +1,58 @@
+{
+    "name": "Domnic Joseph",
+    "country": "India",
+    "fullname": "Domnic Joseph Muthuswami",
+    "nickname": "Dom",
+    "birth_place": "Pune, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/528985.html Cricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "76",
+        "bat avg": "4.75",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "3,345",
+        "wickets": "50",
+        "bowl avg": "26.74",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/19",
+        "catches/stumpings": "11/\u2013"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "69",
+        "bat avg": "13.80",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "812",
+        "wickets": "27",
+        "bowl avg": "26.37",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "11",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "233",
+        "wickets": "11",
+        "bowl avg": "26.63",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "2011\u2013present",
+        "Delhi Daredevils( 9 )": "2015"
+    },
+    "birth_date": "1981-3-9"
+}

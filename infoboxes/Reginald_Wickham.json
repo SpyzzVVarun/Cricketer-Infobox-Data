@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Reginald William Wickham",
+    "birth_place": "Wetherby, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Harrogate, Yorkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22961.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "54",
+        "bat avg": "7.71",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "974",
+        "wickets": "24",
+        "bowl avg": "19.04",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/38",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {}
+}

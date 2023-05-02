@@ -1,0 +1,40 @@
+{
+    "name": "Ali Asfand , \u0639\u0644\u06cc \u0627\u0633\u0641\u0646\u062f",
+    "fullname": "Ali Asfand",
+    "birth_place": "Faisalabad, Punjab, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/player/ali-asfand-1171133 Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "deliveries": "204",
+        "wickets": "3",
+        "bowl avg": "48.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "26",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "122",
+        "wickets": "8",
+        "bowl avg": "19.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Central Punjab": "2021/22-present"
+    },
+    "birth_date": "2004-11-22"
+}

@@ -1,0 +1,36 @@
+{
+    "country": "England",
+    "fullname": "David Davies",
+    "birth_place": "Llanelli, Carmarthenshire, , Wales",
+    "death_date": "1976",
+    "death_place": "Llanelli, Carmarthenshire, , Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break, Right-arm Right-arm off break, Right-arm medium",
+    "umpire": "true",
+    "testsumpired": "22",
+    "umptestdebutyr": "1947",
+    "umptestlastyr": "1958",
+    "fcumpired": "404",
+    "umpfcdebutyr": "1946",
+    "umpfclastyr": "1961",
+    "source": "http://www.espncricinfo.com/ci/content/player/11815.html Cricinfo ",
+    "First-class": {
+        "matches": "421",
+        "runs": "15,390",
+        "bat avg": "24.27",
+        "100s/50s": "16/73",
+        "top score": "216",
+        "deliveries": "22,479",
+        "wickets": "275",
+        "bowl avg": "35.02",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "6/50",
+        "catches/stumpings": "198/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1923\u20131939",
+        "Wales": "1923\u20131930"
+    },
+    "birth_date": "1896-8-28"
+}

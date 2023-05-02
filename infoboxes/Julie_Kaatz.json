@@ -1,0 +1,38 @@
+{
+    "name": "Julie Kaatz",
+    "female": "true",
+    "full_name": "Julie Gai Wiseman",
+    "death_date": "2018",
+    "source": "https://cricketarchive.com/Archive/Players/93/93788/93788.html CricketArchive",
+    "WFC": {
+        "matches": "3",
+        "runs": "24",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "150",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "23",
+        "runs": "180",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "848",
+        "wickets": "14",
+        "bowl avg": "32.64",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/26",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1993/94\u20131998/99"
+    }
+}

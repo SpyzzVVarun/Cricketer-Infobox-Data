@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Ralph Charles Nicholson",
+    "birth_place": "Slaugham, Sussex, England",
+    "death_date": "16 July 1879 (aged 63)",
+    "death_place": "Newell, Iowa, United States",
+    "family": "William Nicholson (brother), John Nicholson (brother), Richard Nicholson (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/18219.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "39",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1842"
+    }
+}

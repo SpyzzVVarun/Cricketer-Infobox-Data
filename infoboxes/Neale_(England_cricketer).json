@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Neale",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/18199.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {}
+}

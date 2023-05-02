@@ -1,0 +1,40 @@
+{
+    "name": "Munir Ahmad",
+    "country": "Afghanistan",
+    "fullname": "Munir Ahmad Kakar",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "2 March",
+    "testdebutyear": "2021",
+    "testdebutagainst": "Zimbabwe",
+    "testcap": "22",
+    "source": "http://www.espncricinfo.com/ci/content/player/633399.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "28",
+        "runs": "2,318",
+        "bat avg": "49.31",
+        "100s/50s": "8/7",
+        "top score": "210",
+        "catches/stumpings": "62/6"
+    },
+    "LA": {
+        "matches": "34",
+        "runs": "1,306",
+        "bat avg": "59.36",
+        "100s/50s": "4/6",
+        "catches/stumpings": "38/3"
+    },
+    "clubs": {
+        "Amo Region": "2017\u2013present"
+    },
+    "birth_date": "1996-2-1"
+}

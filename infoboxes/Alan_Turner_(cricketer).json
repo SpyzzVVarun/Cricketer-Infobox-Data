@@ -1,0 +1,58 @@
+{
+    "name": "Alan Turner",
+    "country": "Australia",
+    "fullname": "Alan Turner",
+    "birth_place": "Camperdown, Sydney, New South Wales, Australia",
+    "batting": "Left-handed",
+    "testdebutdate": "10 July",
+    "testdebutyear": "1975",
+    "testdebutagainst": "England",
+    "testcap": "273",
+    "lasttestdate": "25 February",
+    "lasttestyear": "1977",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "7 June",
+    "odidebutyear": "1975",
+    "odidebutagainst": "Pakistan",
+    "odicap": "30",
+    "lastodidate": "20 December",
+    "lastodiyear": "1975",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/7989.html ESPNcricinfo ",
+    "Test": {
+        "matches": "14",
+        "runs": "768",
+        "bat avg": "29.53",
+        "100s/50s": "1/3",
+        "top score": "136",
+        "catches/stumpings": "15/\u2013"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "247",
+        "bat avg": "41.16",
+        "100s/50s": "1/0",
+        "top score": "101",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "105",
+        "runs": "5,744",
+        "bat avg": "30.88",
+        "100s/50s": "7/31",
+        "top score": "156",
+        "catches/stumpings": "80/\u2013"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "624",
+        "bat avg": "29.71",
+        "100s/50s": "1/2",
+        "top score": "101",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1968/69\u20131977/78"
+    },
+    "birth_date": "1950-07-23"
+}

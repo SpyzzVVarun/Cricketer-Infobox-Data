@@ -1,0 +1,29 @@
+{
+    "name": "Frank Luce",
+    "country": "England",
+    "fullname": "Frank Mowbray Luce",
+    "birth_place": "Gloucester",
+    "death_date": "df=yes",
+    "death_place": "Reading",
+    "batting": "Right-hand bat",
+    "bowling": "Left-arm Left-arm unknown",
+    "source": "http://www.espncricinfo.com/durham/content/player/16682.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "754",
+        "bat avg": "18.39",
+        "100s/50s": "0/3",
+        "top score": "57",
+        "deliveries": "10",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "19/-"
+    },
+    "clubs": {
+        "Gloucestershire": "1901-1911"
+    },
+    "birth_date": "1878-04-26"
+}

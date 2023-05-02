@@ -1,0 +1,42 @@
+{
+    "name": "Hasnain Qayyum",
+    "country": "Pakistan",
+    "fullname": "Hasnain Qayyum Khan",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "https://cricketarchive.com/Archive/Players/9/9193/9193.html Cricket Archive ",
+    "FC": {
+        "matches": "14",
+        "runs": "749",
+        "bat avg": "39.42",
+        "100s/50s": "1/4",
+        "top score": "161 not out",
+        "deliveries": "348",
+        "wickets": "3",
+        "bowl avg": "55.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/43",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "307",
+        "bat avg": "27.90",
+        "100s/50s": "0/2",
+        "top score": "68",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "n/a",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Pakistan International Airlines": "1994-95",
+        "Redco Pakistan Limited": "1999-2000"
+    },
+    "birth_date": "1975-1-15"
+}

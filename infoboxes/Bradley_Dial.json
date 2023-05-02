@@ -1,0 +1,54 @@
+{
+    "name": "Bradley Dial",
+    "country": "South Africa",
+    "fullname": "Bradley Dial",
+    "birth_place": "Boksburg, Gauteng, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://www.espncricinfo.com/ci/content/player/498825.html ESPNcricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "248",
+        "bat avg": "24.80",
+        "100s/50s": "0/2",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2014",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2014",
+        "catches/stumpings": "3/0"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "21",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2014",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2014",
+        "catches/stumpings": "0/0"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "65",
+        "bat avg": "9.28",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2014",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2014",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Gauteng": "2014\u2013present"
+    },
+    "birth_date": "1995-4-1"
+}

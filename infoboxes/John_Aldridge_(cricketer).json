@@ -1,0 +1,20 @@
+{
+    "name": "John Aldridge",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/2/2804/2804.html CricketArchive",
+    "First-class": {
+        "matches": "79",
+        "runs": "511",
+        "bat avg": "6.63",
+        "100s/50s": "0/0",
+        "deliveries": "12,891",
+        "wickets": "256",
+        "bowl avg": "23.56",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/26",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {}
+}

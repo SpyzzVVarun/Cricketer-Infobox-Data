@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Frederick Handel Hassall",
+    "birth_place": "Nantwich, Cheshire, England",
+    "death_date": "1945",
+    "death_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14617.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "57",
+        "bat avg": "8.14",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "20",
+        "deliveries": "15",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1898&ndash;1902",
+        "Leicestershire": "1894"
+    }
+}

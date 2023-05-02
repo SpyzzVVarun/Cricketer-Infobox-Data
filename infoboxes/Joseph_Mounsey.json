@@ -1,0 +1,29 @@
+{
+    "name": "Joseph Mounsey",
+    "country": "England",
+    "fullname": "Joseph Thomas Mounsey",
+    "birth_place": "Heeley, Sheffield, Yorkshire, England",
+    "death_date": "1949",
+    "death_place": "Godalming, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/31/31601/31601.html  CricketArchive ",
+    "First-class": {
+        "matches": "95",
+        "runs": "1,963",
+        "bat avg": "15.57",
+        "100s/50s": "0/7",
+        "top score": "64",
+        "deliveries": "1,050",
+        "wickets": "13",
+        "bowl avg": "36.61",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/58",
+        "catches/stumpings": "47/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1891\u20131897"
+    },
+    "birth_date": "1871-8-30"
+}

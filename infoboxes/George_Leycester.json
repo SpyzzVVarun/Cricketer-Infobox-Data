@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "George Hanmer Leycester",
+    "birth_place": "Simpson, Buckinghamshire, England",
+    "death_date": "1838",
+    "death_place": "Marylebone, Middlesex, England",
+    "batting": "Unknown",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/16573.html Cricinfo ",
+    "First-class": {
+        "matches": "50",
+        "runs": "922",
+        "bat avg": "10.35",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "49",
+        "catches/stumpings": "32/8"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1790&ndash;1808",
+        "Surrey": "1791&ndash;1808",
+        "Hampshire": "1791&ndash;1897"
+    }
+}

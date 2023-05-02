@@ -1,0 +1,28 @@
+{
+    "name": "Arthur Kimish",
+    "country": "England",
+    "fullname": "Arthur Edwards Kimish",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "2001",
+    "death_place": "Warwickshire, England",
+    "batting": "Right-handed",
+    "family": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/15885.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/3"
+    },
+    "clubs": {
+        "Hampshire": "1946"
+    },
+    "birth_date": "1917-7-5"
+}

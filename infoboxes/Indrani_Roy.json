@@ -1,0 +1,15 @@
+{
+    "name": "Indrani Roy",
+    "female": "true",
+    "country": "India",
+    "fullname": "Indrani Tarun Roy",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/1255494.html Cricinfo ",
+    "clubs": {
+        "Jharkhand": "2018\u2013present",
+        "Royal Challengers Bangalore": "2023\u2013present"
+    },
+    "birth_date": "1997-9-5"
+}

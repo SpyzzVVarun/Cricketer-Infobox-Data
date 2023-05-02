@@ -1,0 +1,29 @@
+{
+    "name": "Campbell Munro",
+    "country": "South Africa",
+    "birth_place": "Alicedale, Cape Colony",
+    "death_date": "1943",
+    "death_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/46508.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "685",
+        "bat avg": "16.70",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "deliveries": "4689",
+        "wickets": "100",
+        "bowl avg": "23.43",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "7/81",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1921-22 to 1926-27",
+        "Orange Free State": "1927-28 to 1928-29"
+    },
+    "birth_date": "1899-7-22"
+}

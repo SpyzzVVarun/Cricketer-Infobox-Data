@@ -1,0 +1,44 @@
+{
+    "name": "Brian Shantry",
+    "country": "England",
+    "fullname": "Brian Keith Shantry",
+    "birth_place": "Southmead, Bristol, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "family": "Adam Shantry (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/20526.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "234",
+        "wickets": "3",
+        "bowl avg": "55.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/63",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "428",
+        "wickets": "5",
+        "bowl avg": "59.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1978\u20131979",
+        "Dorset": "1983\u20131986",
+        "Shropshire": "1990\u20131996"
+    },
+    "birth_date": "1955-5-26"
+}

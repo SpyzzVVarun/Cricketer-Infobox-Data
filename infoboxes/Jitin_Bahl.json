@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Jitin Bahl",
+    "birth_place": "Hammersmith, London, England",
+    "family": "dimple bahl",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/9413.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1975-10-16"
+}

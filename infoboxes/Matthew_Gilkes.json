@@ -1,0 +1,55 @@
+{
+    "name": "Matthew Gilkes",
+    "birth_place": "Ulladulla, New South Wales",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/1081730.html Cricinfo",
+    "FC": {
+        "matches": "17",
+        "runs": "776",
+        "bat avg": "26.75",
+        "100s/50s": "0/6",
+        "top score": "83",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "17/0"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "360",
+        "bat avg": "24.00",
+        "100s/50s": "0/2",
+        "top score": "82",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "13/1"
+    },
+    "T20": {
+        "matches": "30",
+        "runs": "445",
+        "bat avg": "17.11",
+        "100s/50s": "0/3",
+        "top score": "93",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Sydney Thunder( 22 )": "2018/19\u20132019/20",
+        "New South Wales( 99 )": "2019/20\u2013present"
+    },
+    "birth_date": "1999-8-21"
+}

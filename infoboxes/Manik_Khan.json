@@ -1,0 +1,16 @@
+{
+    "name": "Manik Khan",
+    "fullname": "Manik Khan",
+    "source": "http://www.espncricinfo.com/ci/content/player/1136011.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1997-1-2",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

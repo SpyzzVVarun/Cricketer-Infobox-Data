@@ -1,0 +1,37 @@
+{
+    "name": "John Trask",
+    "country": "England",
+    "fullname": "John Ernest Trask",
+    "birth_place": "Brympton, Somerset, England",
+    "death_date": "1896",
+    "death_place": "Kosheh, Sudan",
+    "height": "5 ft 10 in",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "family": "William Trask (cousin)",
+    "type1": "First-class",
+    "debutdate1": "18 August",
+    "debutyear1": "1884",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "29 July",
+    "lastyear1": "1895",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/3/3857/3857.html CricketArchive ",
+    "First-class": {
+        "matches": "16",
+        "runs": "515",
+        "bat avg": "19.07",
+        "100s/50s": "0/3",
+        "top score": "78",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1884\u20131895",
+        "Europeans": "1892\u20131895",
+        "Bombay": "1892\u201393"
+    },
+    "birth_date": "1861-10-27"
+}

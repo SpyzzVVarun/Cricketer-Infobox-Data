@@ -1,0 +1,50 @@
+{
+    "name": "Piyal Wijetunge, \u0db4\u0dd2\u0dba\u0dbd\u0dca \u0dc0\u0dd2\u0da2\u0dda\u0dad\u0dd4\u0d82\u0d9c",
+    "birth_place": "Badulla, Sri Lanka",
+    "country": "Sri Lanka",
+    "internationalspan": "1993",
+    "onetest": "true",
+    "testdebutdate": "25 August",
+    "testdebutyear": "1993",
+    "testdebutagainst": "South Africa",
+    "testcap": "58",
+    "batting": "Right-hand bat",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "bowler, coach",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50856.html ESPNcricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "-/-",
+        "top score": "10",
+        "deliveries": "312",
+        "wickets": "2",
+        "bowl avg": "59.00",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/58",
+        "catches/stumpings": "-/-"
+    },
+    "First-class": {
+        "matches": "65",
+        "runs": "541",
+        "bat avg": "11.27",
+        "100s/50s": "-/1",
+        "top score": "52",
+        "deliveries": "9559",
+        "wickets": "161",
+        "bowl avg": "30.47",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/51",
+        "catches/stumpings": "24/-"
+    },
+    "clubs": {
+        "Sinhalese Sports Club": "1990\u20131994",
+        "Bloomfield Cricket and Athletic Club": "1995\u20131996",
+        "Moors Sports Club": "1998",
+        "Kandy Cricket Club": "2002"
+    },
+    "birth_date": "1971-08-06"
+}

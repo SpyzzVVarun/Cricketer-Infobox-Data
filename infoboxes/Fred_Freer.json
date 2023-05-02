@@ -1,0 +1,42 @@
+{
+    "name": "Fred Freer",
+    "birth_place": "North Carlton, Victoria, Australia",
+    "death_date": "2 November 1998 (aged 82)",
+    "death_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "13 December",
+    "testdebutyear": "1946",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/5325.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "28",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "160",
+        "wickets": "3",
+        "bowl avg": "24.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/49",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "40",
+        "runs": "1,284",
+        "bat avg": "32.10",
+        "100s/50s": "3/5",
+        "top score": "132",
+        "deliveries": "7,527",
+        "wickets": "104",
+        "bowl avg": "27.75",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/29",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Amy Vine",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Amy Joy Vine",
+    "birth_place": "Carlton, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/913/913878/913878.html CricketArchive",
+    "WLA": {
+        "matches": "6",
+        "runs": "83",
+        "bat avg": "16.60",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2018/19\u20132021/22"
+    },
+    "birth_date": "1991-12-22"
+}

@@ -1,0 +1,29 @@
+{
+    "fullname": "Reginald John Covill",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "2002",
+    "death_place": "Colchester, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/11365.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "322",
+        "bat avg": "20.12",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "deliveries": "1,216",
+        "wickets": "23",
+        "bowl avg": "25.60",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/31",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1933",
+        "Marylebone Cricket Club": "1930\u20131935",
+        "Cambridgeshire": "1928\u20131939",
+        "Norfolk": "1926\u20131927"
+    }
+}

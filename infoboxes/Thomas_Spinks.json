@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Thomas Spinks",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=yes",
+    "death_place": "Upper Sydenham, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21348.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "?",
+        "wickets": "3",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/?",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1840"
+    }
+}

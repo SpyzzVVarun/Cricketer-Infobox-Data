@@ -1,0 +1,33 @@
+{
+    "name": "William Bullen",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "All-rounder",
+    "type1": "FC",
+    "debutdate1": "2 July",
+    "debutyear1": "1773",
+    "debutfor1": "England XI",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "4 July",
+    "lastyear1": "1797",
+    "lastfor1": "Charles Lennox's XI",
+    "lastagainst1": "Earl of Winchilsea's XI",
+    "source": "https://www.espncricinfo.com/player/william-bullen-532859 CricInfo",
+    "First-class": {
+        "matches": "113",
+        "runs": "1,777",
+        "bat avg": "10.21",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "\u2013name=bowl",
+        "wickets": "181name=bowl",
+        "bowl avg": "\u2013name=bowl",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/?name=bowl",
+        "catches/stumpings": "119/\u2013"
+    },
+    "clubs": {
+        "Kent": "1774\u20131796"
+    }
+}

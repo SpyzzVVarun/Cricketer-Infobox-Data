@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Peter Henry Christopher Badham",
+    "birth_place": "Bagworth, Leicestershire, England",
+    "death_date": "1983",
+    "death_place": "Upton, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9438.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "67",
+        "bat avg": "11.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "744",
+        "wickets": "10",
+        "bowl avg": "31.10",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/70",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Dorset": "1937\u20131947",
+        "Oxford University": "1934",
+        "Buckinghamshire": "1933\u20131934",
+        "Leicestershire": "1933"
+    },
+    "birth_date": "1911-2-11"
+}

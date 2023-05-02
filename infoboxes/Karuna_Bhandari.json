@@ -1,0 +1,29 @@
+{
+    "name": "Karuna Bhandari",
+    "female": "true",
+    "country": "Nepal",
+    "fullname": "Karuna Bhandari",
+    "birth_place": "Nepal",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "T20Idebutdate": "12 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "China",
+    "T20Icap": "3",
+    "lastT20Idate": "22 November",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Hong Kong",
+    "source": "http://www.espncricinfo.com/ci/content/player/587171.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1988-11-24",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

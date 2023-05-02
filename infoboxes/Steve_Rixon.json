@@ -1,0 +1,25 @@
+{
+    "name": "Steve Rixon",
+    "fullname": "Stephen John Rixon",
+    "birth_place": "Albury, Australia",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7360.html CricInfo ",
+    "Test": {
+        "matches": "13",
+        "runs": "394",
+        "bat avg": "18.76",
+        "100s/50s": "0/2",
+        "top score": "54",
+        "catches/stumpings": "42/5"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "40",
+        "bat avg": "13.33",
+        "100s/50s": "0/0",
+        "catches/stumpings": "9/2"
+    },
+    "clubs": {},
+    "birth_date": "1954-02-25"
+}

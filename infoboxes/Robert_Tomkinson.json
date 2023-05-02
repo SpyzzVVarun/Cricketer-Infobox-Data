@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Robert Edward Tomkinson",
+    "birth_place": "Willington, Cheshire, England",
+    "death_date": "1928",
+    "death_place": "Burnham-on-Sea, Somerset, England",
+    "family": "James Palmer-Tomkinson (nephew)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/21882.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "81",
+        "bat avg": "16.20",
+        "100s/50s": "\u2013/1",
+        "top score": "52",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1873"
+    }
+}

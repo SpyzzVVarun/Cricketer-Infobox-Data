@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Francis Bawtree",
+    "birth_place": "Witham, Essex, England",
+    "death_date": "1938",
+    "death_place": "Great Totham, Essex, England",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/9047.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "96",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "deliveries": "105",
+        "wickets": "2",
+        "bowl avg": "33.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/16",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Essex": "1895\u20131896"
+    },
+    "birth_date": "1873-11-26"
+}

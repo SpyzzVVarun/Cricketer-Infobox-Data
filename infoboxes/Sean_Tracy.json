@@ -1,0 +1,43 @@
+{
+    "name": "Sean Tracy",
+    "country": "New Zealand",
+    "fullname": "Sean Robert Tracy",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "year3": "1990/91",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38676.html ",
+    "First-class": {
+        "matches": "30",
+        "runs": "124",
+        "bat avg": "4.76",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "33",
+        "deliveries": "-",
+        "wickets": "81",
+        "bowl avg": "28.59",
+        "fivefor": "3",
+        "tenfor": "&ndash;",
+        "best bowling": "5/19",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "List A": {
+        "matches": "22",
+        "runs": "39",
+        "bat avg": "6.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1060",
+        "wickets": "21",
+        "bowl avg": "33.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/16",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Auckland": "1982/83-1984/85",
+        "Canterbury( |club3 = Otago )": "1985/86-1989/90"
+    },
+    "birth_date": "1963-6-7"
+}

@@ -1,0 +1,54 @@
+{
+    "country": "Zimbabwe",
+    "fullname": "James Gair Cameron",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/zci/content/player/55344.html Cricinfo ",
+    "FC": {
+        "matches": "34",
+        "runs": "1,553",
+        "bat avg": "29.30",
+        "100s/50s": "1/8",
+        "top score": "105",
+        "deliveries": "893",
+        "wickets": "10",
+        "bowl avg": "56.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/18",
+        "catches/stumpings": "17/&ndash;"
+    },
+    "LA": {
+        "matches": "32",
+        "runs": "823",
+        "bat avg": "32.92",
+        "100s/50s": "&ndash;/5",
+        "top score": "69",
+        "deliveries": "283",
+        "wickets": "8",
+        "bowl avg": "39.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/44",
+        "catches/stumpings": "11/&ndash;"
+    },
+    "T20": {
+        "matches": "36",
+        "runs": "547",
+        "bat avg": "19.53",
+        "100s/50s": "&ndash;/3",
+        "top score": "57",
+        "deliveries": "185",
+        "wickets": "8",
+        "bowl avg": "31.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/22",
+        "catches/stumpings": "18/&ndash;"
+    },
+    "clubs": {
+        "Worcestershire( 16 )": "2010&ndash;2012"
+    },
+    "birth_date": "1986-1-31"
+}

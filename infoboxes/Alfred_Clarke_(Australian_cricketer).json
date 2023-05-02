@@ -1,0 +1,27 @@
+{
+    "name": "Alfred Clarke",
+    "fullname": "Alfred Edward Clarke",
+    "birth_place": "Surry Hills, Sydney, Australia",
+    "death_date": "1940",
+    "death_place": "Wellington, New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/4574.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "808",
+        "bat avg": "18.79",
+        "100s/50s": "0/2",
+        "top score": "76",
+        "wickets": "14",
+        "bowl avg": "15.92",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/25",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1889/90\u20131891/92",
+        "Otago": "1893/94\u20131898/99",
+        "Wellington": "1900/01\u20131901/02"
+    },
+    "birth_date": "1868-4-6"
+}

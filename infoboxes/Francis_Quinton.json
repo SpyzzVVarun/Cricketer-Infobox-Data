@@ -1,0 +1,31 @@
+{
+    "name": "Francis Quinton",
+    "country": "England",
+    "fullname": "Francis William Drummond Quinton",
+    "birth_place": "Faizabad, North-Western Provinces, British India",
+    "death_date": "1926",
+    "death_place": "Marylebone, London, England",
+    "batting": "Right-handed",
+    "bowling": "Slow Slow underarm",
+    "family": "James Quinton (Brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/19301.html Cricinfo ",
+    "FC": {
+        "matches": "51",
+        "runs": "2,393",
+        "bat avg": "27.82",
+        "100s/50s": "2/14",
+        "top score": "178",
+        "deliveries": "1,319",
+        "wickets": "30",
+        "bowl avg": "28.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/93",
+        "catches/stumpings": "45/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1895&ndash;1900",
+        "Marylebone Cricket Club": "1893&ndash;1895"
+    },
+    "birth_date": "1865-11-27"
+}

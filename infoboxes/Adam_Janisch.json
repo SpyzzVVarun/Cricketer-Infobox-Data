@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Adam Nicholas Janisch",
+    "birth_place": "Hammersmith, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15478.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "168",
+        "bat avg": "15.27",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,489",
+        "wickets": "26",
+        "bowl avg": "59.15",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/71",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1995&ndash;1998"
+    },
+    "birth_date": "1975-10-21"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Winnie George",
+    "country": "Australia",
+    "fullname": "Winifred Una Margaretta George",
+    "batting": "Right-handed",
+    "role": "wicket-keeper",
+    "female": "yes",
+    "testdebutdate": "12 June",
+    "testdebutyear": "1937",
+    "testdebutagainst": "England",
+    "testcap": "16",
+    "lasttestdate": "10 July",
+    "lasttestyear": "1937",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/australia/content/player/53503.html CricInfo",
+    "Test": {
+        "matches": "3",
+        "runs": "170",
+        "bat avg": "42.50",
+        "100s/50s": "0/1",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {}
+}

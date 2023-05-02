@@ -1,0 +1,29 @@
+{
+    "name": "Bob Platt",
+    "country": "England",
+    "fullname": "Robert Kenworthy Platt",
+    "birth_place": "Holmfirth, West Riding of Yorkshire",
+    "batting": "Right-handed",
+    "bowling": "Right arm fast Right arm fast medium",
+    "role": "bowler",
+    "source": "https://www.espncricinfo.com/player/robert-platt-18973 ESPN cricinfo ",
+    "First-class": {
+        "matches": "101",
+        "runs": "424",
+        "bat avg": "7.31",
+        "100s/50s": "0/1",
+        "deliveries": "17,741",
+        "wickets": "301",
+        "bowl avg": "22.58",
+        "fivefor": "10",
+        "tenfor": "3",
+        "best bowling": "7/40",
+        "catches/stumpings": "38/0"
+    },
+    "clubs": {
+        "Yorkshire": "1955\u20131963",
+        "Combined Services": "1956",
+        "Northamptonshire": "1964"
+    },
+    "birth_date": "1932-12-26"
+}

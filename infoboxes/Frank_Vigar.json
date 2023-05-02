@@ -1,0 +1,37 @@
+{
+    "name": "Frank Vigar",
+    "country": "England",
+    "fullname": "Frank Henry Vigar",
+    "birth_place": "Bruton, Somerset, England",
+    "death_date": "2004",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1938",
+    "debutfor1": "Essex",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "28 August",
+    "lastyear1": "1954",
+    "lastfor1": "Essex",
+    "lastagainst1": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/5/5343/5343.html CricketArchive ",
+    "First-class": {
+        "matches": "257",
+        "runs": "8,858",
+        "bat avg": "26.28",
+        "100s/50s": "12/39",
+        "top score": "145",
+        "deliveries": "15,398",
+        "wickets": "241",
+        "bowl avg": "37.90",
+        "fivefor": "8",
+        "tenfor": "0",
+        "best bowling": "8/128",
+        "catches/stumpings": "197/\u2013"
+    },
+    "clubs": {
+        "Essex": "1938&ndash;1954"
+    },
+    "birth_date": "1917-7-14"
+}

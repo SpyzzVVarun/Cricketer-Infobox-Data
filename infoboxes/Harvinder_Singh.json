@@ -1,0 +1,39 @@
+{
+    "name": "Harvinder Singh",
+    "birth_place": "Amritsar, Punjab, India",
+    "testdebutdate": "6 March",
+    "testdebutyear": "1998",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/29280.html Cricinfo ",
+    "Tests": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "2.00",
+        "100s/50s": "-/-",
+        "top score": "6",
+        "deliveries": "273",
+        "wickets": "4",
+        "bowl avg": "46.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/62",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "16",
+        "runs": "6",
+        "bat avg": "1.50",
+        "100s/50s": "-/-",
+        "deliveries": "686",
+        "wickets": "24",
+        "bowl avg": "25.37",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "3/44",
+        "catches/stumpings": "6/-"
+    },
+    "clubs": {},
+    "birth_date": "1977-12-23"
+}

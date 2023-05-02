@@ -1,0 +1,44 @@
+{
+    "name": "Stephan Swanepoel",
+    "country": "Namibia",
+    "fullname": "Stephan Jacobus Swanepoel",
+    "birth_place": "Kathu, Namibia, South West Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman, wicket-keeper",
+    "internationalspan": "1998\u20132009",
+    "odidebutdate": "10 February",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "10",
+    "lastodidate": "27 February",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/24846.html ESPNcricinfo",
+    "ODI": {
+        "matches": "5",
+        "runs": "43",
+        "bat avg": "8.60",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "8",
+        "runs": "372",
+        "bat avg": "24.80",
+        "100s/50s": "0/2",
+        "top score": "72",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "25",
+        "runs": "312",
+        "bat avg": "13.56",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1981-12-2"
+}

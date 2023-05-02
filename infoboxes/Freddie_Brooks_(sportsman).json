@@ -1,0 +1,23 @@
+{
+    "name": "Freddie Brooks",
+    "country": "Rhodesia",
+    "fullname": "Frederick George Brooks",
+    "birth_place": "Bombay, British India",
+    "death_date": "1947",
+    "death_place": "Hermanus, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/5/5044/5044.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "123",
+        "bat avg": "30.75",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Rhodesia": "1904/05\u20131909/10"
+    },
+    "birth_date": "1883-5-1"
+}

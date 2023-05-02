@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander McNab",
+    "birth_place": "Uddingston, Lanarkshire, Scotland",
+    "death_date": "1943",
+    "death_place": "Camden, New Jersey, United States",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/alexander-mcnab-25292 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1910"
+    }
+}

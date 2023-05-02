@@ -1,0 +1,38 @@
+{
+    "name": "Charles Bernard",
+    "country": "England",
+    "fullname": "Charles Albert Bernard",
+    "birth_place": "Downend, Bristol, England",
+    "death_date": "1953",
+    "death_place": "Clifton, Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "type1": "First-class",
+    "debutdate1": "21 May",
+    "debutyear1": "1896",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "26 August",
+    "lastyear1": "1901",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Gloucestershire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3436/3436.html CricketArchive ",
+    "First-class": {
+        "matches": "33",
+        "runs": "1705",
+        "bat avg": "30.44",
+        "100s/50s": "2/11",
+        "top score": "122",
+        "deliveries": "21",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/5",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1896\u20131901"
+    },
+    "birth_date": "1876-02-16"
+}

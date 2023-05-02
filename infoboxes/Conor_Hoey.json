@@ -1,0 +1,38 @@
+{
+    "name": "Conor Hoey",
+    "fullname": "Conor Joseph Hoey",
+    "birth_place": "Dublin, Ireland",
+    "family": "Gavin Hoey (son)",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg spin",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24278.html CricInfo",
+    "First-class": {
+        "matches": "4",
+        "runs": "21",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "687",
+        "wickets": "9",
+        "bowl avg": "37.11",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/38",
+        "catches/stumpings": "1/0"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "44",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "deliveries": "307",
+        "wickets": "3",
+        "bowl avg": "71.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1968-03-24"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Edward Whitting",
+    "country": "England",
+    "fullname": "Edward Jewel Whitting",
+    "birth_place": "Mylor, Cornwall, England",
+    "death_date": "1938",
+    "death_place": "Abergavenny, Monmouthshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "13 June",
+    "debutyear1": "1892",
+    "debutfor1": "HT Hewett's XII",
+    "debutagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/33/33836/33836.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1890"
+    },
+    "birth_date": "1872-09-01"
+}

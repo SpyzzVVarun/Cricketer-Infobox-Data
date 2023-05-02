@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Herbert Walter Green",
+    "birth_place": "Watford, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Rouen, Normandy, France",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/28965.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1903/04"
+    }
+}

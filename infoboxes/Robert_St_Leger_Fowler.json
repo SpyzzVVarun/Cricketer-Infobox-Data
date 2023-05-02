@@ -1,0 +1,30 @@
+{
+    "name": "Robert Fowler",
+    "country": "Ireland",
+    "fullname": "Robert St Leger Fowler",
+    "birth_place": "Rahinstown, Enfield, County Meath, Ireland",
+    "death_date": "1925",
+    "death_place": "Rahinstown, Enfield, County Meath, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Robert Henry Fowler (Father)",
+    "source": "http://www.cricinfo.com/ci/content/player/13232.html Cricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "957",
+        "bat avg": "28.14",
+        "100s/50s": "&ndash;/7",
+        "deliveries": "3,083",
+        "wickets": "59",
+        "bowl avg": "24.77",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "7/22",
+        "catches/stumpings": "21/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1924",
+        "Marylebone Cricket Club": "1913"
+    },
+    "birth_date": "1891-4-7"
+}

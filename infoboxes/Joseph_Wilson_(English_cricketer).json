@@ -1,0 +1,26 @@
+{
+    "name": "Joseph Wilson",
+    "country": "England",
+    "fullname": "Joseph Robert Wilson",
+    "birth_place": "Birkenhead, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/23482.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "108",
+        "wickets": "4",
+        "bowl avg": "19.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/36",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dorset": "2002&ndash;2003"
+    },
+    "birth_date": "1965-1-16"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Alf Hadden",
+    "country": "New Zealand",
+    "fullname": "Alfred Ernest Hadden",
+    "birth_place": "Sydney, Australia",
+    "death_date": "25 December 1936 (age 58)",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/22/22014/22014.html Cricket Archive ",
+    "First-class": {
+        "matches": "20",
+        "runs": "986",
+        "bat avg": "29.87",
+        "100s/50s": "0/10",
+        "top score": "84",
+        "deliveries": "1245",
+        "wickets": "25",
+        "bowl avg": "25.20",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/65",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Auckland": "1905-06 to 1910-11"
+    }
+}

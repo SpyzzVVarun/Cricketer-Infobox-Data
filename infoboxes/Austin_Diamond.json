@@ -1,0 +1,30 @@
+{
+    "name": "Austin Diamond",
+    "country": "Australia",
+    "birth_place": "Marsden, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Roseville, New South Wales, Australia",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "30 December",
+    "debutyear1": "1899",
+    "debutfor1": "New South Wales",
+    "debutagainst1": "Tasmania",
+    "lastdate1": "26 December",
+    "lastyear1": "1918",
+    "lastfor1": "New South Wales",
+    "lastagainst1": "Victoria",
+    "source": "http://www.espncricinfo.com/australia/content/player/4944.html Cricinfo ",
+    "FC": {
+        "matches": "35",
+        "runs": "1681",
+        "bat avg": "32.96",
+        "100s/50s": "4/4",
+        "top score": "210 not out",
+        "catches/stumpings": "36/0"
+    },
+    "clubs": {
+        "New South Wales": "1899\u20131918"
+    },
+    "birth_date": "1874-07-10"
+}

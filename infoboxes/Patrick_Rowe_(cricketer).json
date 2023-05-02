@@ -1,0 +1,26 @@
+{
+    "name": "Patrick Rowe",
+    "fullname": "Patrick Justin Rowe",
+    "birth_place": "Randwick, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "http://espncricinfo.com/australia/content/player/1130758.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "\u2014",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "0/1"
+    },
+    "clubs": {},
+    "birth_date": "2001-1-28"
+}

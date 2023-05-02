@@ -1,0 +1,59 @@
+{
+    "name": "Evan Gulbis",
+    "country": "Australia",
+    "fullname": "Evan Peter Gulbis",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ausdomestic/content/player/381183.html Cricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "726",
+        "bat avg": "24.20",
+        "100s/50s": "1/2",
+        "top score": "229",
+        "deliveries": "3,412",
+        "wickets": "59",
+        "bowl avg": "31.59",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/104",
+        "catches/stumpings": "10/\u2013"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "636",
+        "bat avg": "27.65",
+        "100s/50s": "0/4",
+        "top score": "63",
+        "deliveries": "1,135",
+        "wickets": "36",
+        "bowl avg": "25.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/8",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "52",
+        "runs": "475",
+        "bat avg": "19.00",
+        "100s/50s": "0/1",
+        "deliveries": "564",
+        "wickets": "20",
+        "bowl avg": "38.95",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2016/17",
+        "Tasmania": "2011/12\u20132015/16",
+        "Hobart Hurricanes": "2012/13\u20132014/15",
+        "Melbourne Stars": "2015/16\u20132018/19",
+        "Wellington": "2016/17"
+    },
+    "birth_date": "1986-3-26"
+}

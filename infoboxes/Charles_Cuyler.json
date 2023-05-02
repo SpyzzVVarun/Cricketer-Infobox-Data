@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Cuyler",
+    "birth_place": "Almondsbury, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Wheatley, Oxfordshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/11513.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1895"
+    }
+}

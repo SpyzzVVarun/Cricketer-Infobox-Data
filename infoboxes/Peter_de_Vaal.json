@@ -1,0 +1,41 @@
+{
+    "name": "Peter de Vaal",
+    "fullname": "Peter Derek de Vaal",
+    "birth_place": "Cathcart, Cape Province, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/44693.html Cricinfo",
+    "First-class": {
+        "matches": "109",
+        "runs": "4208",
+        "bat avg": "29.84",
+        "100s/50s": "1/23",
+        "deliveries": "16,465",
+        "wickets": "240",
+        "bowl avg": "30.47",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/76",
+        "catches/stumpings": "65/\u2013"
+    },
+    "List A": {
+        "matches": "30",
+        "runs": "526",
+        "bat avg": "29.22",
+        "100s/50s": "1/2",
+        "top score": "111",
+        "deliveries": "1319",
+        "wickets": "23",
+        "bowl avg": "33.73",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "4/27",
+        "catches/stumpings": "12/0"
+    },
+    "clubs": {
+        "Transvaal": "1967\u201368 to 1978\u201379",
+        "Northern Transvaal": "1979\u201380 to 1981\u201382",
+        "Eastern Transvaal": "1991\u201392 to 1992\u201393"
+    },
+    "birth_date": "1945-12-3"
+}

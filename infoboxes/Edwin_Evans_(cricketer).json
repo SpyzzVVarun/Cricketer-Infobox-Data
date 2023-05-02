@@ -1,0 +1,45 @@
+{
+    "name": "Edwin Evans",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "country": "Australia",
+    "testcap": "26",
+    "internationalspan": "1881\u20131886",
+    "testdebutagainst": "England",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1881",
+    "lasttestdate": "12 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1886",
+    "source": "https://cricketarchive.com/Archive/Players/0/56/56.html CricketArchive",
+    "Test": {
+        "matches": "6",
+        "runs": "82",
+        "bat avg": "10.25",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "1237",
+        "wickets": "7",
+        "bowl avg": "47.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/64",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "65",
+        "runs": "1,006",
+        "bat avg": "12.26",
+        "100s/50s": "0/2",
+        "deliveries": "11,603",
+        "wickets": "201",
+        "bowl avg": "16.69",
+        "fivefor": "18",
+        "tenfor": "4",
+        "best bowling": "7/16",
+        "catches/stumpings": "61/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1874/75\u20131887/88"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Florence Miller",
+    "female": "true",
+    "fullname": "Florence Hebe Miller",
+    "birth_place": "Oxford, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/2159/2159858/2159858.html CricketArchive",
+    "WLA": {
+        "matches": "3",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "tenfor": "0",
+        "best bowling": "/",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "19",
+        "runs": "161",
+        "bat avg": "17.88",
+        "100s/50s": "0/1",
+        "tenfor": "0",
+        "best bowling": "/",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "2019\u2013present",
+        "Sunrisers": "2021\u2013present"
+    },
+    "birth_date": "2004-2-26"
+}

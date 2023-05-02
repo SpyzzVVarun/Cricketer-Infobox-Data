@@ -1,0 +1,62 @@
+{
+    "name": "Paul-Jan Bakker",
+    "country": "Netherlands",
+    "fullname": "Paul-Jan Bakker",
+    "birth_place": "Vlaardingen, South Holland, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "internationalspan": "1996",
+    "odidebutdate": "17 February",
+    "odidebutyear": "1996",
+    "odidebutagainst": "New Zealand",
+    "odicap": "2",
+    "lastodidate": "5 March",
+    "lastodiyear": "1996",
+    "lastodiagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/netherlands/content/player/24860.html Cricinfo ",
+    "ODI": {
+        "matches": "5",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "258",
+        "wickets": "3",
+        "bowl avg": "71.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/51",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "69",
+        "runs": "333",
+        "bat avg": "9.51",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "11,525",
+        "wickets": "193",
+        "bowl avg": "28.01",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "7/31",
+        "catches/stumpings": "9/0"
+    },
+    "LA": {
+        "matches": "68",
+        "runs": "59",
+        "bat avg": "8.42",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "3,377",
+        "wickets": "80",
+        "bowl avg": "28.27",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/17",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Hampshire": "1986\u20131992"
+    },
+    "birth_date": "1957-9-19"
+}

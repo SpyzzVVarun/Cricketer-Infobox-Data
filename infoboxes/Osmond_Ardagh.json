@@ -1,0 +1,28 @@
+{
+    "name": "Osmond Ardagh",
+    "country": "England",
+    "fullname": "Osmond Charles Ardagh",
+    "birth_place": "Haslemere, England",
+    "death_date": "1954",
+    "death_place": "Berkshire, England",
+    "batting": "Left-handed",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "24 June",
+    "debutyear1": "1922",
+    "debutfor1": "Oxford Univ.",
+    "debutagainst1": "Leicestershire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27510/27510.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1922"
+    },
+    "birth_date": "1900-11-1"
+}

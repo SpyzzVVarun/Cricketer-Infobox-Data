@@ -1,0 +1,49 @@
+{
+    "name": "Alex Ross",
+    "fullname": "Alexander Ian Ross",
+    "birth_place": "East Melbourne , Victoria, Australia",
+    "nickname": "Sweepologist url=http://www.foxsports.com.au/cricket/domestic-cricket/adelaide-strikers-batsman-alex-ross-dubbed-sweepologist-after-brilliant-innings/story-fn5k3es5-1227677106635 ",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Middle-order batsman",
+    "type1": "First-class",
+    "debutdate1": "7 February",
+    "debutyear1": "2015",
+    "debutfor1": "South Australia",
+    "debutagainst1": "Western Australia",
+    "type2": "List A",
+    "debutdate2": "14 October",
+    "debutyear2": "2012",
+    "debutfor2": "South Australia",
+    "debutagainst2": "Tasmania",
+    "source": "http://www.espncricinfo.com/ci/content/player/333624.html Cricinfo",
+    "FC": {
+        "matches": "18",
+        "runs": "868",
+        "bat avg": "28.00",
+        "100s/50s": "0/6",
+        "catches/stumpings": "22/\u2013"
+    },
+    "LA": {
+        "matches": "51",
+        "runs": "1,103",
+        "bat avg": "29.02",
+        "100s/50s": "1/6",
+        "top score": "110",
+        "catches/stumpings": "22/\u2013"
+    },
+    "T20": {
+        "matches": "86",
+        "runs": "1,623",
+        "bat avg": "28.98",
+        "100s/50s": "0/9",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2012&ndash;2019",
+        "Adelaide Strikers": "2014&ndash;2016",
+        "Brisbane Heat": "2016&ndash;2019",
+        "Sydney Thunder": "2019&ndash;present"
+    },
+    "birth_date": "1992-04-17"
+}

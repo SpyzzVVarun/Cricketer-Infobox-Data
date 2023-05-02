@@ -1,0 +1,49 @@
+{
+    "name": "Gurdeep Singh",
+    "country": "Kenya",
+    "fullname": "Gurdeep Singh",
+    "birth_place": "Nairobi, Kenya",
+    "batting": "Left-handed",
+    "bowling": "Legbreak",
+    "role": "Opening batsman",
+    "oneodi": "true",
+    "odidebutdate": "4 October",
+    "odidebutyear": "2013",
+    "odidebutagainst": "Afghanistan",
+    "odicap": "50",
+    "T20Idebutdate": "10 September",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Uganda",
+    "T20Icap": "34",
+    "lastT20Idate": "18 November",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Nigeria",
+    "source": "http://www.espncricinfo.com/ci/content/player/637496.html Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "wickets": "-",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "163",
+        "bat avg": "18.11",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "0/0"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "13",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1998-1-19"
+}

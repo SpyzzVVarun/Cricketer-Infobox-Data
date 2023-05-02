@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "George Strickland Marriott",
+    "birth_place": "Cotesbach, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Sigglesthorne, Yorkshire, England",
+    "family": "Charles Marriott (brother), Peter Scott (great-nephew), Robert Scott (great-nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/17339.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "21",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "184",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1878"
+    }
+}

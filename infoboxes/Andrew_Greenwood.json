@@ -1,0 +1,50 @@
+{
+    "name": "Andrew Greenwood",
+    "country": "England",
+    "fullname": "Andrew Greenwood",
+    "birth_place": "Huddersfield, West Riding of Yorkshire",
+    "death_date": "1889",
+    "death_place": "Huddersfield",
+    "batting": "Right-handed",
+    "family": "Luke Greenwood (uncle)",
+    "testdebutdate": "15 March",
+    "testdebutyear": "1877",
+    "testdebutagainst": "Australia",
+    "testcap": "4",
+    "lasttestdate": "4 April",
+    "lasttestyear": "1877",
+    "lasttestagainst": "Australia",
+    "source": "http://content.cricinfo.com/england/content/player/13451.html ESPN cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "77",
+        "bat avg": "19.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "49",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "141",
+        "runs": "4,307",
+        "bat avg": "18.32",
+        "100s/50s": "1/18",
+        "top score": "111",
+        "deliveries": "16",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "70/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1869\u20131880"
+    },
+    "birth_date": "1847-8-20"
+}

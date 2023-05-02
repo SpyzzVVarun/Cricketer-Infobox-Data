@@ -1,0 +1,31 @@
+{
+    "name": "Elspeth Fowler",
+    "female": "true",
+    "country": "Spain",
+    "fullname": "Elspeth Marinha C Fowler",
+    "nickname": "Hermione Granger",
+    "birth_place": "Northampton, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "5 May",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Austria",
+    "T20Icap": "3",
+    "lastT20Idate": "14 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Italy",
+    "source": "https://www.espncricinfo.com/player/elspeth-fowler-1037327 ESPNCricinfo ",
+    "WT20I": {
+        "matches": "8",
+        "runs": "152",
+        "bat avg": "21.71",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Buckinghamshire": "2010",
+        "Cambridgeshire": "2016"
+    },
+    "birth_date": "1992-8-14"
+}

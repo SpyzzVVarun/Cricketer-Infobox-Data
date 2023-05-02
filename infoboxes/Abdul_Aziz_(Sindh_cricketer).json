@@ -1,0 +1,32 @@
+{
+    "name": "Abdul Aziz",
+    "country": "Pakistan",
+    "fullname": "Abdul Aziz",
+    "birth_place": "Karachi, Sind, British India",
+    "death_date": "17 January 1959",
+    "death_place": "Karachi, Sind, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "11 October",
+    "debutyear1": "1957",
+    "debutfor1": "Karachi C",
+    "debutagainst1": "Sind A",
+    "lastdate1": "16 January",
+    "lastyear1": "1959",
+    "lastfor1": "Karachi",
+    "lastagainst1": "Pakistan Combined Services",
+    "source": "https://cricketarchive.com/Archive/Players/41/41464/41464.html CricketArchive  ",
+    "First-class": {
+        "matches": "8",
+        "runs": "149",
+        "bat avg": "21.28",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "17/5"
+    },
+    "clubs": {
+        "Karachi": "1958/59",
+        "Karachi C": "1957/58"
+    }
+}

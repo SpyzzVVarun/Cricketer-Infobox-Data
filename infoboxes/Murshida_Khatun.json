@@ -1,0 +1,52 @@
+{
+    "name": "Murshida Khatun",
+    "female": "true",
+    "fullname": "Murshida Khatun",
+    "birth_place": "Bangladesh",
+    "batting": "Left-handed",
+    "role": "Batter",
+    "country": "Bangladesh",
+    "odidebutdate": "4 May",
+    "odidebutyear": "2018",
+    "odidebutagainst": "South Africa",
+    "odicap": "27",
+    "lastodidate": "17 December",
+    "lastodiyear": "2022",
+    "lastodiagainst": "New Zealand",
+    "T20Idebutdate": "20 May",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "27",
+    "lastT20Idate": "21 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "South Africa",
+    "source": "http://espncricinfo.com/ci/content/player/1080264.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "13",
+        "runs": "193",
+        "bat avg": "17.54",
+        "100s/50s": "0/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20I": {
+        "matches": "25",
+        "runs": "506",
+        "bat avg": "23.00",
+        "100s/50s": "0/3",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Sylhet Division": "2017\u20132017/18",
+        "Northern Zone": "2021/22\u2013present"
+    },
+    "birth_date": "1999-7-7",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

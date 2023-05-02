@@ -1,0 +1,48 @@
+{
+    "name": "Murtaza Hussain",
+    "country": "Pakistan",
+    "fullname": "Murtaza Hussain",
+    "birth_place": "Bahawalpur, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://content-usa.cricinfo.com/pakistandomestic/content/current/player/41314.html Cricinfo ",
+    "FC": {
+        "matches": "148",
+        "runs": "3,571",
+        "bat avg": "20.88",
+        "100s/50s": "1/12",
+        "top score": "117",
+        "deliveries": "34,051",
+        "wickets": "573",
+        "bowl avg": "24.96",
+        "fivefor": "36",
+        "tenfor": "7",
+        "best bowling": "9/54",
+        "catches/stumpings": "70/&ndash;"
+    },
+    "LA": {
+        "matches": "106",
+        "runs": "762",
+        "bat avg": "14.65",
+        "100s/50s": "0/1",
+        "top score": "85",
+        "deliveries": "4,827",
+        "wickets": "132",
+        "bowl avg": "25.56",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/18",
+        "catches/stumpings": "33/&ndash;"
+    },
+    "clubs": {
+        "Surrey": "2007&ndash;2009",
+        "Pakistan Customs": "2004&ndash;2009",
+        "Bahawalpur": "1990&ndash;2002",
+        "Khan Research Laboratories": "1997&ndash;2000",
+        "Islamabad": "1998&ndash;1999",
+        "Pakistan National Shipping Corporation": "1995&ndash;1997",
+        "United Bank Limited": "1994&ndash;1995",
+        "Pakistan Automobiles Corporation": "1992&ndash;1994"
+    },
+    "birth_date": "1974-12-20"
+}

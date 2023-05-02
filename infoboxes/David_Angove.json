@@ -1,0 +1,49 @@
+{
+    "name": "David Angove",
+    "country": "England",
+    "fullname": "David Angove",
+    "birth_place": "Truro, England",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "LA",
+    "onetype1": "true",
+    "debutdate1": "25 June",
+    "debutyear1": "1996",
+    "debutfor1": "Cornwall",
+    "debutagainst1": "Wawrickshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/9/9503/9503.html CricketArchive ",
+    "List A": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "72",
+        "wickets": "4",
+        "bowl avg": "16.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/65",
+        "catches/stumpings": "0/\u2013"
+    },
+    "MCC": {
+        "matches": "26",
+        "runs": "111",
+        "bat avg": "7.40",
+        "100s/50s": "0/0",
+        "deliveries": "3256",
+        "wickets": "69",
+        "bowl avg": "32.13",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/25",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "1995\u20132000"
+    },
+    "birth_date": "1974-3-7"
+}

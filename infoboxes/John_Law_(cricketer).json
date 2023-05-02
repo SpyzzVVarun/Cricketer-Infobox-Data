@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "John Alexander Gordon Charles Law",
+    "birth_place": "Bangalore, Mysore,, British India",
+    "death_date": "df=yes",
+    "death_place": "Montreal, Quebec, Canada",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/16413.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "194",
+        "bat avg": "11.41",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "catches/stumpings": "16/3"
+    },
+    "clubs": {
+        "Europeans": "1940/41&ndash;1944/45",
+        "Madras": "1940/41&ndash;1941/42",
+        "Oxford University": "1949"
+    }
+}

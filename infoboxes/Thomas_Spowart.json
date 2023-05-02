@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Thomas Spowart",
+    "birth_place": "Dunfermline, Fife, Scotland",
+    "death_date": "1971",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/thomas-spowart-25355 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "98",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/1",
+        "top score": "66",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1932&ndash;1938"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Edward Austen",
+    "country": "England",
+    "fullname": "Edward Thomas Austen",
+    "birth_place": "Chawton, Hampshire, England",
+    "death_date": "1908",
+    "death_place": "Barfrestone, Kent, England",
+    "source": "http://www.espncricinfo.com/ci/content/player/8900.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "MCC": "1844"
+    }
+}

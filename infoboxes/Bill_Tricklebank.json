@@ -1,0 +1,29 @@
+{
+    "name": "Bill Tricklebank",
+    "country": "New Zealand",
+    "fullname": "William Tricklebank",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1986",
+    "death_place": "Hataitai, Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38679.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "136",
+        "bat avg": "19.42",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "850",
+        "wickets": "12",
+        "bowl avg": "36.91",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1934-35 to 1936-37"
+    },
+    "birth_date": "1915-12-30"
+}

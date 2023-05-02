@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Donald John Wilkinson",
+    "birth_place": "Irvine, Ayrshire, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/22988.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "11",
+        "bat avg": "1.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "611",
+        "wickets": "7",
+        "bowl avg": "50.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/89",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1975&ndash;1976"
+    },
+    "birth_date": "1955-2-14"
+}

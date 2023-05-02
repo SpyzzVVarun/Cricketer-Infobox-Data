@@ -1,0 +1,22 @@
+{
+    "name": "Dean Morrison",
+    "country": "Jersey",
+    "fullname": "Dean Anthony Morrison",
+    "nickname": "Dingo, Willy, Morro",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "heightm": "1.78",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/449033.html Cricinfo ",
+    "World Cricket League": {
+        "matches": "23",
+        "runs": "731",
+        "bat avg": "43.00",
+        "100s/50s": "0/7",
+        "top score": "77",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1978-6-12"
+}

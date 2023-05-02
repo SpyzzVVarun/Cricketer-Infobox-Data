@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Charles Lexington Manners Sutton",
+    "birth_place": "Chichester, Sussex, England",
+    "death_date": "1962",
+    "death_place": "Tunbridge Wells, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21141.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "90",
+        "bat avg": "30.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "702",
+        "wickets": "10",
+        "bowl avg": "39.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/15",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {}
+}

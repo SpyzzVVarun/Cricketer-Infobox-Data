@@ -1,0 +1,38 @@
+{
+    "name": "Joshua Bishop",
+    "birth_place": "Barbados",
+    "batting": "Right-hand bat",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1078693.html ESPNcricinfo ",
+    "LA": {
+        "matches": "22",
+        "runs": "101",
+        "bat avg": "8.41",
+        "100s/50s": "0/0",
+        "deliveries": "1,133",
+        "wickets": "32",
+        "bowl avg": "23.93",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20": {
+        "matches": "7",
+        "runs": "43",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "155",
+        "wickets": "10",
+        "bowl avg": "17.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "West Indies Academy": "2023"
+    },
+    "birth_date": "2000-5-30"
+}

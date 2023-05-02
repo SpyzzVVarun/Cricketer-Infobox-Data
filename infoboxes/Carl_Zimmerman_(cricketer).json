@@ -1,0 +1,27 @@
+{
+    "name": "Carl Zimmerman",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1969",
+    "death_place": "Oamaru, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/38941.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "269",
+        "bat avg": "20.69",
+        "100s/50s": "0/1",
+        "top score": "77",
+        "deliveries": "774",
+        "wickets": "8",
+        "bowl avg": "38.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/47",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Otago": "1925-26 to 1929-30"
+    },
+    "birth_date": "1898-7-24"
+}

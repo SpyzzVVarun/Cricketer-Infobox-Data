@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Gary Malcolm Thomas",
+    "birth_place": "Penzance, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/21509.html Cricinfo ",
+    "LA": {
+        "matches": "12",
+        "runs": "115",
+        "bat avg": "9.58",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "44",
+        "deliveries": "48",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Cornwall": "1992-present"
+    },
+    "birth_date": "1973-10-31"
+}

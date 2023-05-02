@@ -1,0 +1,38 @@
+{
+    "name": "George Dawkes",
+    "fullname": "George Owen Dawkes",
+    "birth_place": "Leicester, England",
+    "death_date": "2006",
+    "death_place": "Leicester, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "type1": "FC",
+    "debutdate1": "12 June",
+    "debutyear1": "1937",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "22 August",
+    "lastyear1": "1961",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/28/28991/28991.html CricketArchive ",
+    "First-class": {
+        "matches": "482",
+        "runs": "11,411",
+        "bat avg": "18.08",
+        "100s/50s": "1/33",
+        "top score": "143",
+        "deliveries": "23",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "0/0",
+        "catches/stumpings": "893/148"
+    },
+    "clubs": {
+        "Leicestershire": "1937\u20131939",
+        "Derbyshire": "1947\u20131961"
+    },
+    "birth_date": "1920-7-19"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "George Talbot",
+    "country": "New Zealand",
+    "full_name": "George Logan Talbot",
+    "birth_place": "Christchurch, Canterbury, New Zealand",
+    "death_date": "1943",
+    "death_place": "Orsogna, Fascist Italy",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/38631.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "28",
+        "wickets": "3",
+        "bowl avg": "9.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Canterbury": "1930"
+    },
+    "birth_date": "1907-04-02"
+}

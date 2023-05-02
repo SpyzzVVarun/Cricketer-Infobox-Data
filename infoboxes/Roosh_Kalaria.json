@@ -1,0 +1,56 @@
+{
+    "name": "Roosh Kalaria",
+    "country": "India",
+    "fullname": "Roosh Bipinbhai Kalaria",
+    "birth_place": "Rajkot, Gujarat, India",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ranji-trophy-2013-14/content/player/528055.html Cricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "325",
+        "bat avg": "27.08",
+        "100s/50s": "1/0",
+        "top score": "100",
+        "deliveries": "1762",
+        "wickets": "25",
+        "bowl avg": "28.68",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "37",
+        "bat avg": "18.50",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "295",
+        "wickets": "10",
+        "bowl avg": "22.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/21",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "22.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Gujarat": "2012\u2013present"
+    },
+    "birth_date": "1993-1-16"
+}

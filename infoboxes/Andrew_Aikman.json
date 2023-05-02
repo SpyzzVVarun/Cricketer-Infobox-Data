@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Andrew Miller Aikman",
+    "birth_place": "Galashiels, Selkirkshire, Scotland",
+    "death_date": "1959",
+    "death_place": "Galashiels, Selkirkshire, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/andrew-aikman-25133 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1921"
+    }
+}

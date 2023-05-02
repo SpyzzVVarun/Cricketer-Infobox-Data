@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Legh Sherwin",
+    "birth_place": "Petworth, Sussex, England",
+    "death_date": "1873",
+    "death_place": "Petworth, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/21294.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "0.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1861"
+    }
+}

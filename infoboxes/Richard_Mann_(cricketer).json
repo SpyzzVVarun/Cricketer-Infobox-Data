@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Richard James Mann",
+    "birth_place": "Ipswich, Suffolk, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/17969.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "216",
+        "bat avg": "24.00",
+        "100s/50s": "\u2013/2",
+        "top score": "63",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "2003&ndash;2005",
+        "Cambridge UCCE": "2003"
+    },
+    "birth_date": "1982-9-26"
+}

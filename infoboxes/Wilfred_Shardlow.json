@@ -1,0 +1,37 @@
+{
+    "name": "Wilfred Shardlow",
+    "country": "England",
+    "fullname": "Wilfred Shardlow",
+    "birth_place": "Clowne, Derbyshire, England",
+    "death_date": "1956",
+    "death_place": "Burton-upon-Trent, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "1 July",
+    "debutyear1": "1925",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "11 July",
+    "lastyear1": "1928",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32686/32686.html CricketArchive ",
+    "First-class": {
+        "matches": "38",
+        "runs": "201",
+        "bat avg": "7.17",
+        "100s/50s": "0/0",
+        "deliveries": "4,640",
+        "wickets": "56",
+        "bowl avg": "34.62",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/41",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1925\u20131928"
+    },
+    "birth_date": "1902-9-30"
+}

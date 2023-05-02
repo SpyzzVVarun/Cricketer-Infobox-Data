@@ -1,0 +1,58 @@
+{
+    "name": "Hamish Kingston",
+    "country": "Australia",
+    "fullname": "Hamish Phillip Kingston",
+    "birth_place": "Hobart, Tasmania",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/australia/content/player/326679.html Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "209",
+        "bat avg": "13.93",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "1,854",
+        "wickets": "32",
+        "bowl avg": "38.84",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/61",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "86",
+        "bat avg": "17.20",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "534",
+        "wickets": "16",
+        "bowl avg": "27.06",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/44",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "72",
+        "wickets": "4",
+        "bowl avg": "33.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "2014/15\u20132018/19",
+        "Adelaide Strikers": "2015/16",
+        "Hobart Hurricanes": "2016/17"
+    },
+    "birth_date": "1990-12-17"
+}

@@ -1,0 +1,47 @@
+{
+    "country": "Scotland",
+    "fullname": "Ryan Flannigan",
+    "birth_place": "Kelso, Roxburghshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "odidebutdate": "17 August",
+    "odidebutyear": "2010",
+    "odidebutagainst": "Afghanistan",
+    "odicap": "45",
+    "oneodi": "true",
+    "source": "http://www.espncricinfo.com/ci/content/player/303412.html Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "4",
+        "runs": "238",
+        "bat avg": "34.00",
+        "100s/50s": "1/1",
+        "top score": "102",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "18",
+        "runs": "227",
+        "bat avg": "15.13",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "38",
+        "bat avg": "12.66",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1988-6-30"
+}

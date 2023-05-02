@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "George Wilson",
+    "birth_place": "Ligoniel, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Glengormley, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24542.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "116",
+        "bat avg": "19.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "deliveries": "30",
+        "wickets": "2",
+        "bowl avg": "6.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1948&ndash;1951"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Harold Hippisley",
+    "country": "England",
+    "fullname": "Harold Edwin Hippisley",
+    "birth_place": "Wells, Somerset, England",
+    "death_date": "1914",
+    "death_place": "Langemarck, Belgium",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "23 August",
+    "debutyear1": "1909",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "16 July",
+    "lastyear1": "1913",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3627/3627.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "114",
+        "bat avg": "9.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1909&ndash;13"
+    },
+    "birth_date": "1890-9-3"
+}

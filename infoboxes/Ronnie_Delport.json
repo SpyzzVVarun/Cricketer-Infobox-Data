@@ -1,0 +1,27 @@
+{
+    "name": "Ronnie Delport",
+    "country": "South Africa",
+    "fullname": "Ronald Frederick Delport",
+    "birth_place": "Claremont, Cape Town, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/44790.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "152",
+        "bat avg": "8.44",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "2440",
+        "wickets": "35",
+        "bowl avg": "21.77",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/54",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Western Province": "1950-51 to 1963-64"
+    },
+    "birth_date": "1931-11-18"
+}

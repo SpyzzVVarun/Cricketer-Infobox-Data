@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Frank Lankester Horsey",
+    "birth_place": "Woodbridge, Suffolk, England",
+    "death_date": "df=yes",
+    "death_place": "Hide Stile, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14958.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "8.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/17",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

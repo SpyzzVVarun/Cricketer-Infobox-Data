@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Charles Henry Gausden",
+    "birth_place": "Brasted, Kent, England",
+    "death_date": "5 September 1886",
+    "death_place": "St Leonards-on-Sea, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/13883.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "41",
+        "bat avg": "5.85",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1847\u20131851"
+    }
+}

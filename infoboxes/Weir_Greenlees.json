@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Weir Loudon Greenlees Greenlees",
+    "birth_place": "Islington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/13747.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "68",
+        "bat avg": "22.66",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "London County": "1904",
+        "Oxford University": "1904"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Jack Riley",
+    "country": "England",
+    "birth_place": "Accrington, Lancashire, England",
+    "death_date": "2008",
+    "death_place": "England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "First-class",
+    "debutdate1": "16 May",
+    "debutyear1": "1953",
+    "debutfor1": ", Worcestershire",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "19 May",
+    "lastyear1": "1953",
+    "lastfor1": ", Worcestershire",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/32/32383/32383.html CricketArchive  ",
+    "FC": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "124",
+        "wickets": "3",
+        "bowl avg": "16.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Worcestershire": "1953"
+    },
+    "birth_date": "1927-4-27"
+}

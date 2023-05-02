@@ -1,0 +1,28 @@
+{
+    "name": "John Vear",
+    "fullname": "Dennis John Vear",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "2017",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38719.html CricInfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "1491",
+        "bat avg": "16.33",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "wickets": "1",
+        "bowl avg": "94.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1-19",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Otago": "1959/60\u20131960/61"
+    },
+    "birth_date": "1938-04-05"
+}

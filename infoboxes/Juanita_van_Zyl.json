@@ -1,0 +1,27 @@
+{
+    "name": "Juanita van Zyl",
+    "female": "true",
+    "fullname": "Juanita van Zyl",
+    "birth_place": "Port Elizabeth, South Africa",
+    "role": "Batter",
+    "internationalspan": "1972",
+    "country": "South Africa",
+    "onetest": "true",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "testcap": "21",
+    "source": "https://cricketarchive.com/Archive/Players/17/17387/17387.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1958/59\u20131960/61",
+        "Western Province": "1971/72\u20131975/76"
+    }
+}

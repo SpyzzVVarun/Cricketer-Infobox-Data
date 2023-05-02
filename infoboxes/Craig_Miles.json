@@ -1,0 +1,63 @@
+{
+    "name": "Craig Miles",
+    "country": "England",
+    "fullname": "Craig Neil Miles",
+    "birth_place": "Swindon, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "type1": "First-class",
+    "debutdate1": "11 May",
+    "debutyear1": "2011",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Northamptonshire",
+    "type2": "List A",
+    "debutdate2": "26 July",
+    "debutyear2": "2011",
+    "debutfor2": "Gloucestershire",
+    "debutagainst2": "Essex",
+    "source": "http://www.espncricinfo.com/ci/content/player/407875.html ESPNcricinfo ",
+    "FC": {
+        "matches": "96",
+        "runs": "1,727",
+        "bat avg": "15.70",
+        "100s/50s": "0/5",
+        "deliveries": "15,248",
+        "wickets": "334",
+        "bowl avg": "27.91",
+        "fivefor": "17",
+        "tenfor": "1",
+        "best bowling": "6/63",
+        "catches/stumpings": "28/\u2013"
+    },
+    "LA": {
+        "matches": "41",
+        "runs": "146",
+        "bat avg": "12.16",
+        "100s/50s": "0/0",
+        "deliveries": "1,756",
+        "wickets": "51",
+        "bowl avg": "35.98",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/29",
+        "catches/stumpings": "6/\u2013"
+    },
+    "T20": {
+        "matches": "47",
+        "runs": "57",
+        "bat avg": "7.12",
+        "100s/50s": "0/0",
+        "deliveries": "871",
+        "wickets": "50",
+        "bowl avg": "25.24",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/19",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire( 34 )": "2011\u20132018",
+        "Warwickshire": "2019\u2013present"
+    },
+    "birth_date": "1994-07-20"
+}

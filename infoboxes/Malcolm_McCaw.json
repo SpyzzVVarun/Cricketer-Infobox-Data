@@ -1,0 +1,30 @@
+{
+    "name": "Malcolm McCaw",
+    "fullname": "Peter Malcolm McCaw",
+    "birth_place": "Inglewood, New Zealand",
+    "death_date": "2021",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "type1": "First-class",
+    "debutdate1": "25 December",
+    "debutyear1": "1952",
+    "debutfor1": "Wellington",
+    "debutagainst1": "Auckland",
+    "lastdate1": "9 January",
+    "lastyear1": "1953",
+    "lastfor1": "Wellington",
+    "lastagainst1": "Otago",
+    "source": "http://www.espncricinfo.com/ci/content/player/37850.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "115",
+        "bat avg": "19.16",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1952/53"
+    },
+    "birth_date": "1930-2-10"
+}

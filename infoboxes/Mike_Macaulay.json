@@ -1,0 +1,51 @@
+{
+    "name": "Mike Macaulay",
+    "fullname": "Michael John Macaulay",
+    "birth_place": "Durban, Natal, South Africa",
+    "death_date": "2021",
+    "death_place": "Gqeberha, Eastern Cape, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "12 February",
+    "testdebutyear": "1965",
+    "onetest": "true",
+    "source": "https://cricketarchive.com/Archive/Players/1/1254/1254.html CricketArchive",
+    "Test": {
+        "matches": "1",
+        "runs": "33",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "276",
+        "wickets": "2",
+        "bowl avg": "36.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "69",
+        "runs": "888",
+        "bat avg": "13.05",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "deliveries": "13,566",
+        "wickets": "234",
+        "bowl avg": "22.89",
+        "fivefor": "16",
+        "tenfor": "4",
+        "best bowling": "7/49",
+        "catches/stumpings": "45/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1965/66",
+        "Western Province": "1960/61",
+        "Orange Free State": "1963/64\u20131964/65",
+        "North-Eastern Transvaal": "1966/67\u20131968/69",
+        "Eastern Province": "1977/78\u20131978/79"
+    },
+    "birth_date": "1939-4-19"
+}

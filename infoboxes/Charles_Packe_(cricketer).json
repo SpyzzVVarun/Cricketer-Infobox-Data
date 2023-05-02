@@ -1,0 +1,40 @@
+{
+    "name": "Charles Packe",
+    "country": "England",
+    "fullname": "Charles William Christopher Packe",
+    "birth_place": "Pietermaritzburg, South Africa",
+    "death_date": "df=yes",
+    "death_place": "near Caen, German-occupied France",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "Batsman",
+    "family": "Brothers, Michael and Robert",
+    "type1": "First-class",
+    "debutdate1": "24 August",
+    "debutyear1": "1929",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Essex",
+    "lastdate1": "9 June",
+    "lastyear1": "1939",
+    "lastfor1": "The Army",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/31/31835/31835.html CricketArchive ",
+    "First-class": {
+        "matches": "26",
+        "runs": "1013",
+        "bat avg": "24.70",
+        "100s/50s": "2/5",
+        "top score": "176",
+        "deliveries": "144",
+        "wickets": "3",
+        "bowl avg": "25.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/33",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1929\u201334"
+    },
+    "birth_date": "1909-5-2"
+}

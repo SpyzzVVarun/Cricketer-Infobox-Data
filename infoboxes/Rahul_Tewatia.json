@@ -1,0 +1,57 @@
+{
+    "name": "Rahul Tewatia",
+    "nickname": "The Iceman",
+    "birth_place": "Faridabad, Haryana, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowling all-rounder",
+    "source": "https://www.espncricinfo.com/india/content/player/423838.html ESPNcricinfo |heightm=1.7",
+    "FC": {
+        "matches": "7",
+        "runs": "190",
+        "bat avg": "17.27",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "750",
+        "wickets": "17",
+        "bowl avg": "30.05",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/98",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "23",
+        "runs": "568",
+        "bat avg": "37.86",
+        "100s/50s": "0/4",
+        "deliveries": "995",
+        "wickets": "31",
+        "bowl avg": "25.32",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "103",
+        "runs": "1387",
+        "bat avg": "27.74",
+        "100s/50s": "0/2",
+        "deliveries": "1301",
+        "wickets": "54",
+        "bowl avg": "30.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/18",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Haryana": "2013\u2013present",
+        "Rajasthan Royals": "2020\u20132021",
+        "Kings XI Punjab": "2017",
+        "Delhi Capitals": "2018\u20132019",
+        "Gujarat Titans": "2022\u2013present"
+    },
+    "birth_date": "1993-5-20"
+}

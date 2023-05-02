@@ -1,0 +1,44 @@
+{
+    "name": "Francois Weideman",
+    "country": "South Africa",
+    "fullname": "Izak Francois Nel Weideman",
+    "birth_place": "Johannesburg, Transvaal, South Africa",
+    "death_date": "2001",
+    "death_place": "Maraisburg, Gauteng, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/3/3293/3293.html CricketArchive ",
+    "First-class": {
+        "matches": "40",
+        "runs": "662",
+        "bat avg": "15.39",
+        "100s/50s": "0/0",
+        "deliveries": "6,432",
+        "wickets": "135",
+        "bowl avg": "22.34",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "18/\u2013"
+    },
+    "List A": {
+        "matches": "30",
+        "runs": "134",
+        "bat avg": "12.18",
+        "100s/50s": "0/1",
+        "deliveries": "1,446",
+        "wickets": "27",
+        "bowl avg": "33.03",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/46",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "South African Universities": "1980/81\u20131982/83",
+        "Transvaal": "1980/81\u20131982/83",
+        "Northern Transvaal": "1983/84\u20131986/87"
+    },
+    "birth_date": "1960-9-19"
+}

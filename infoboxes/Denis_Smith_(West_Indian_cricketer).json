@@ -1,0 +1,33 @@
+{
+    "name": "Denis Smith",
+    "source": "http://www.espncricinfo.com/ci/content/player/843937.html Cricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "835",
+        "bat avg": "20.36",
+        "100s/50s": "0/3",
+        "top score": "84",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "52/7"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "137",
+        "bat avg": "19.57",
+        "100s/50s": "0/0",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {},
+    "birth_date": "1991-10-30"
+}

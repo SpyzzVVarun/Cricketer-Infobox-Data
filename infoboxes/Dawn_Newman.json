@@ -1,0 +1,28 @@
+{
+    "name": "Dawn Newman",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "testdebutdate": "27 December",
+    "testdebutyear": "1968",
+    "testdebutagainst": "England",
+    "lasttestdate": "25 January",
+    "lasttestyear": "1969",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53548.html CricInfo  ",
+    "Tests": {
+        "matches": "3",
+        "runs": "154",
+        "bat avg": "30.80",
+        "100s/50s": "0/2",
+        "top score": "76",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {},
+    "birth_date": "8 April 1942"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Leslie Wight",
+    "batting": "Right-handed",
+    "country": "West Indies",
+    "testdebutagainst": "India",
+    "testdebutdate": "11 March",
+    "testdebutyear": "1953",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/53225.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "12",
+        "runs": "1,260",
+        "bat avg": "66.31",
+        "100s/50s": "4/6",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {}
+}

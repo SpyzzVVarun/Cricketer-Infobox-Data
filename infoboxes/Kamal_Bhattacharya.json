@@ -1,0 +1,28 @@
+{
+    "name": "Kamal Bhattacharya",
+    "birth_place": "Calcutta, India",
+    "death_date": "1995",
+    "death_place": "Kolkata, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/27474.html Cricinfo ",
+    "First-class": {
+        "matches": "35",
+        "runs": "1001",
+        "bat avg": "20.42",
+        "100s/50s": "0/6",
+        "top score": "71",
+        "deliveries": "5540",
+        "wickets": "117",
+        "bowl avg": "19.91",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/83",
+        "catches/stumpings": "34/0"
+    },
+    "clubs": {
+        "Bengal": "1935-36 to 1946-47"
+    },
+    "birth_date": "1915-9-24"
+}

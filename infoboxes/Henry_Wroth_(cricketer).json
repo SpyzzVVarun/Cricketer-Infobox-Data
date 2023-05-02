@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Henry Thomas Wroth",
+    "birth_place": "Northchurch, Hertfordshire, England",
+    "death_date": "1861",
+    "death_place": "Bebek, Constantinople,, Ottoman Empire",
+    "family": "Warwick Wroth (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/henry-wroth-23447 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "130",
+        "bat avg": "16.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "90",
+        "wickets": "22",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/?",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1844&ndash;1846"
+    }
+}

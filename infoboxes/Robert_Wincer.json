@@ -1,0 +1,41 @@
+{
+    "name": "Robert Wincer",
+    "country": "England",
+    "fullname": "Robert Colin Wincer",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/23093.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "131",
+        "bat avg": "10.07",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "2803",
+        "wickets": "46",
+        "bowl avg": "35.93",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "8/\u2013"
+    },
+    "List A": {
+        "matches": "16",
+        "runs": "19",
+        "bat avg": "3.80",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "667",
+        "wickets": "9",
+        "bowl avg": "48.33",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1978 to 1980"
+    },
+    "birth_date": "1952-4-2"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Herbert Hake",
+    "country": "England",
+    "fullname": "Herbert Denys Hake OBE",
+    "birth_place": "Christchurch, Hampshire, England",
+    "death_date": "1975",
+    "death_place": "Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "family": "Stanley Toyne (Uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/13996.html Cricinfo ",
+    "FC": {
+        "matches": "26",
+        "runs": "557",
+        "bat avg": "15.91",
+        "100s/50s": "&ndash;/3",
+        "top score": "94",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/1"
+    },
+    "clubs": {
+        "Hampshire": "1920&ndash;1925",
+        "Cambridge University": "1920&ndash;1921"
+    },
+    "birth_date": "1894-11-8"
+}

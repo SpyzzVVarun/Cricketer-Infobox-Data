@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Richard Thornhill Tudor",
+    "birth_place": "Shrewsbury, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21953.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "90",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1976",
+        "Shropshire": "1975&ndash;1977"
+    },
+    "birth_date": "1948-9-27"
+}

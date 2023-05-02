@@ -1,0 +1,37 @@
+{
+    "name": "Stuart Rogers",
+    "country": "England",
+    "fullname": "Stuart Scott Rogers",
+    "birth_place": "Muswell Hill, London, England",
+    "death_date": "1969",
+    "death_place": "Chartridge, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "3 January",
+    "debutyear1": "1947",
+    "debutfor1": "Europeans",
+    "debutagainst1": "Indians",
+    "lastdate1": "15 June",
+    "lastyear1": "1953",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Leicestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3796/3796.html CricketArchive ",
+    "First-class": {
+        "matches": "119",
+        "runs": "3,608",
+        "bat avg": "18.89",
+        "100s/50s": "3/18",
+        "deliveries": "196",
+        "wickets": "2",
+        "bowl avg": "72.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1947\u20131953"
+    },
+    "birth_date": "1923-3-18"
+}

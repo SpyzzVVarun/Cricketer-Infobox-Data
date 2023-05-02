@@ -1,0 +1,32 @@
+{
+    "name": "Dave Snapper Halliwell",
+    "country": "England",
+    "fullname": "David Halliwell",
+    "nickname": "fastest white man",
+    "birth_place": "Leyland, Lancashire, England",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "father and grandfather",
+    "family": "2 Daughters  (Lisa and Gemma)",
+    "source": "http://www.espncricinfo.com/ci/content/player/15107.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "28",
+        "bat avg": "14.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "387",
+        "wickets": "9",
+        "bowl avg": "25.44",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/57",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cumberland": "1981&ndash;1990",
+        "Cheshire": "1978&ndash;1979"
+    },
+    "birth_date": "1947-12-11"
+}

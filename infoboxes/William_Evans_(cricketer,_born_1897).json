@@ -1,0 +1,24 @@
+{
+    "name": "William Evans",
+    "fullname": "William Lewis Evans",
+    "birth_place": "Streatham, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Epsom, Surrey, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12697.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "23",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "deliveries": "102",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

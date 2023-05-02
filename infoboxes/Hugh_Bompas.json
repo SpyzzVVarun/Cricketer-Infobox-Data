@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Hugh Steele Bompas",
+    "birth_place": "Hampstead, Middlesex, England",
+    "death_date": "df=y",
+    "death_place": "Chelsea, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/9846.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "35",
+        "bat avg": "3.88",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "5/4"
+    },
+    "clubs": {
+        "Cambridge University": "1901&ndash;1903"
+    }
+}

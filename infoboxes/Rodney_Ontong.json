@@ -1,0 +1,43 @@
+{
+    "name": "Rodney Ontong",
+    "country": "South Africa",
+    "fullname": "Rodney Craig Ontong",
+    "birth_place": "Johannesburg, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off-break   Right-arm Right-arm off-break   Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/3/3147/3147.html CricketArchive ",
+    "FC": {
+        "matches": "367",
+        "runs": "15,234",
+        "bat avg": "29.46",
+        "100s/50s": "20/78",
+        "deliveries": "53,649",
+        "wickets": "845",
+        "bowl avg": "31.34",
+        "fivefor": "33",
+        "tenfor": "4",
+        "best bowling": "8/67",
+        "catches/stumpings": "179/\u2013"
+    },
+    "List A": {
+        "matches": "293",
+        "runs": "5,865",
+        "bat avg": "28.19",
+        "100s/50s": "2/28",
+        "deliveries": "12,613",
+        "wickets": "261",
+        "bowl avg": "32.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/30",
+        "catches/stumpings": "91/\u2013"
+    },
+    "clubs": {
+        "Border": "1972/73\u20131984/85",
+        "Glamorgan": "1975\u20131989",
+        "Transvaal": "1976/77\u20131977/78",
+        "Northern Transvaal": "1978/79\u20131994/95"
+    },
+    "birth_date": "1955-9-9"
+}

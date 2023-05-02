@@ -1,0 +1,44 @@
+{
+    "country": "Hong Kong",
+    "fullname": "Simon David Myles",
+    "birth_place": "Mansfield, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/17138.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "189",
+        "bat avg": "21.00",
+        "100s/50s": "\u2013/1",
+        "deliveries": "138",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "543",
+        "bat avg": "30.16",
+        "100s/50s": "\u2013/5",
+        "top score": "81",
+        "deliveries": "517",
+        "wickets": "14",
+        "bowl avg": "31.85",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/8",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1995\u20132002",
+        "Minor Counties": "1994\u20131996",
+        "Staffordshire": "1992\u20131994",
+        "Cumberland": "1990",
+        "Warwickshire": "1988",
+        "Sussex": "1987"
+    },
+    "birth_date": "1966-6-2"
+}

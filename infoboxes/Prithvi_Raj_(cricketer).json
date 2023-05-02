@@ -1,0 +1,54 @@
+{
+    "name": "Prithvi Raj",
+    "fullname": "Yarra Prithvi Raj",
+    "birth_place": "Duggirala, Andhra Pradesh, India",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1121579.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "1,036",
+        "wickets": "21",
+        "bowl avg": "24.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/56",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "32.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/65",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "deliveries": "53",
+        "wickets": "4",
+        "bowl avg": "21.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/28",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Andhra": "2017\u2013present",
+        "Kolkata Knight Riders": "2019"
+    },
+    "birth_date": "1998-2-20"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Laurie Johnson",
+    "fullname": "Hubert Laurence Johnson",
+    "birth_place": "St Michael, Barbados",
+    "death_date": "2020",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "type1": "First-class",
+    "debutdate1": "18 June",
+    "debutyear1": "1949",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "20 August",
+    "lastyear1": "1966",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Glamorgan",
+    "type2": "List A",
+    "debutdate2": "22 May",
+    "debutyear2": "1963",
+    "debutfor2": "Derbyshire",
+    "debutagainst2": "Hampshire",
+    "lastdate2": "21 May",
+    "lastyear2": "1966",
+    "lastfor2": "Derbyshire",
+    "lastagainst2": "Essex",
+    "source": "https://cricketarchive.com/Archive/Players/30/30639/30639.html ",
+    "First-class": {
+        "matches": "361",
+        "runs": "14286",
+        "bat avg": "26.40",
+        "100s/50s": "16/57",
+        "top score": "154",
+        "deliveries": "1178",
+        "wickets": "21",
+        "bowl avg": "39.14",
+        "best bowling": "3\u201312",
+        "catches/stumpings": "217/2"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "69",
+        "bat avg": "13.80",
+        "top score": "32",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {
+        "Derbyshire": "1948\u20131966"
+    },
+    "birth_date": "1927-11-8"
+}

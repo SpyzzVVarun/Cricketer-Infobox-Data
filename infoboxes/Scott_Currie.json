@@ -1,0 +1,55 @@
+{
+    "name": "Scott Currie",
+    "fullname": "Scott William Currie",
+    "birth_place": "Poole, Dorset, England",
+    "height": "1.96m",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Brad Currie (brother) Dean Hawkshaw (cousin)",
+    "source": "http://www.espncricinfo.com/ci/content/player/1104697.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "43",
+        "bat avg": "10.75",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "269",
+        "wickets": "7",
+        "bowl avg": "23.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/109",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "139",
+        "bat avg": "17.37",
+        "100s/50s": "0/0",
+        "deliveries": "579",
+        "wickets": "24",
+        "bowl avg": "24.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "14/\u2013"
+    },
+    "T20": {
+        "matches": "16",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "276",
+        "wickets": "22",
+        "bowl avg": "18.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/24",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Hampshire( 44 )": "2020\u2013present"
+    },
+    "birth_date": "2001-5-2"
+}

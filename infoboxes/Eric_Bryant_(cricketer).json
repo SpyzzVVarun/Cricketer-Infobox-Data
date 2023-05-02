@@ -1,0 +1,39 @@
+{
+    "name": "Eric Bryant",
+    "country": "England",
+    "fullname": "Leonard Eric Bryant",
+    "birth_place": "Weston-super-Mare, Somerset, England",
+    "death_date": "1999",
+    "death_place": "Brent Knoll, Somerset, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "31 May",
+    "debutyear1": "1958",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Sussex",
+    "lastdate1": "29 July",
+    "lastyear1": "1960",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3459/3459.html CricketArchive ",
+    "First-class": {
+        "matches": "22",
+        "runs": "133",
+        "bat avg": "8.86",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "2,288",
+        "wickets": "34",
+        "bowl avg": "27.73",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/64",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1958\u20131960"
+    },
+    "birth_date": "1936-6-2"
+}

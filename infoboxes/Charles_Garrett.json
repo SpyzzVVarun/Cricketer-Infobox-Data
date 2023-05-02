@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Charles Richard Garrett",
+    "birth_place": "Puri, Bengal Presidency,, British India",
+    "death_date": "df=yes",
+    "death_place": "Kenya",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13571.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "70",
+        "bat avg": "11.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "383",
+        "wickets": "7",
+        "bowl avg": "34.28",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/124",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {}
+}

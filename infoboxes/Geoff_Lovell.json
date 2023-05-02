@@ -1,0 +1,40 @@
+{
+    "country": "Australia",
+    "fullname": "Geoffrey Bruce Tasman Lovell",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/16407.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "1,061",
+        "bat avg": "32.15",
+        "100s/50s": "2/3",
+        "top score": "114",
+        "deliveries": "192",
+        "wickets": "1",
+        "bowl avg": "141.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/13",
+        "catches/stumpings": "21/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "18.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1991&ndash;1993"
+    },
+    "birth_date": "1966-7-11"
+}

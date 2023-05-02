@@ -1,0 +1,38 @@
+{
+    "name": "George Hay",
+    "country": "England",
+    "birth_place": "Staveley, Derbyshire, England",
+    "death_date": "1913",
+    "death_place": "Staveley, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "21 June",
+    "debutyear1": "1875",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Kent",
+    "lastdate1": "7 July",
+    "lastyear1": "1887",
+    "lastfor1": "Players of the North",
+    "lastagainst1": "Players of the South",
+    "source": "https://cricketarchive.com/Archive/Players/30/30072/30072.html CricketArchive ",
+    "First-class": {
+        "matches": "55",
+        "runs": "669",
+        "bat avg": "9.57",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "6,309",
+        "wickets": "148",
+        "bowl avg": "16.51",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "6/16",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1875\u20131886",
+        "MCC": "1882"
+    },
+    "birth_date": "1851-1-28"
+}

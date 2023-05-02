@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Mark John Lowrey",
+    "birth_place": "Hampstead, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/16359.html Cricinfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "597",
+        "bat avg": "19.90",
+        "100s/50s": "&ndash;/3",
+        "top score": "72",
+        "deliveries": "1,724",
+        "wickets": "19",
+        "bowl avg": "51.52",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/31",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "38.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/38",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Middlesex Cricket Board": "1999",
+        "Cambridge University": "1990-1991"
+    },
+    "birth_date": "1971-9-13"
+}

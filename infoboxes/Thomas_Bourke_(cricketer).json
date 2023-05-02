@@ -1,0 +1,28 @@
+{
+    "name": "Thomas Bourke",
+    "country": "Ireland",
+    "fullname": "Thomas Joseph Deane Bourke",
+    "birth_place": "Ireland",
+    "death_date": "1875",
+    "death_place": "England",
+    "source": "http://www.cricinfo.com/ci/content/player/10490.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "25",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1844&ndash;1845",
+        "Marylebone Cricket Club": "1843"
+    },
+    "birth_date": "1815-2-7"
+}

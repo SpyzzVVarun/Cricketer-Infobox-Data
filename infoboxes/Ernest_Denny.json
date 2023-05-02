@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Ernest Wriothesley Denny",
+    "birth_place": "Paddington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Garboldisham, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12143.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "10",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1891"
+    }
+}

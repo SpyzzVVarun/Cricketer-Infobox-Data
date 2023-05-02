@@ -1,0 +1,29 @@
+{
+    "name": "Alfred Morcom",
+    "fullname": "Alfred Farr Morcom",
+    "birth_place": "Dunstable, Bedfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17663.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "257",
+        "bat avg": "11.68",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "4,818",
+        "wickets": "97",
+        "bowl avg": "23.93",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/76",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1904\u20131914",
+        "Cambridge University": "1905\u20131907",
+        "Marylebone Cricket Club": "1911"
+    }
+}

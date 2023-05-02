@@ -1,0 +1,44 @@
+{
+    "name": "Gayatri Gole",
+    "female": "true",
+    "fullname": "Gayatri Kamal S Gole",
+    "birth_place": "Camden, Greater London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/986/986802/986802.html CricketArchive",
+    "WLA": {
+        "matches": "25",
+        "runs": "112",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "856",
+        "wickets": "15",
+        "bowl avg": "40.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WT20": {
+        "matches": "46",
+        "runs": "161",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "676",
+        "wickets": "21",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "2016\u2013present",
+        "Surrey Stars": "2018",
+        "Sunrisers": "2020\u20132022"
+    },
+    "birth_date": "1998-7-22"
+}

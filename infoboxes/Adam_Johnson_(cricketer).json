@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Adam Hugh Vyvyan Johnson",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/15581.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "72",
+        "bat avg": "18.00",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1999",
+        "Cambridge MCCU": "2001",
+        "Cambridge University": "2001"
+    },
+    "birth_date": "1978-11-28"
+}

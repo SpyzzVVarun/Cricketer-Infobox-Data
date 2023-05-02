@@ -1,0 +1,31 @@
+{
+    "name": "Simon Atai",
+    "country": "Papua New Guinea",
+    "internationalspan": "2017-present",
+    "odidebutdate": "27 April",
+    "odidebutyear": "2019",
+    "odidebutagainst": "USA",
+    "odicap": "23",
+    "lastodidate": "21 September",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Namibia",
+    "T20Idebutdate": "8 July",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Samoa",
+    "T20Icap": "23",
+    "lastT20Idate": "15 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Zimbabwe",
+    "source": "http://www.espncricinfo.com/ci/content/player/1115033.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1999-9-19",
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Gold Medal: 2019 Apia Twenty20 International"
+    ]
+}

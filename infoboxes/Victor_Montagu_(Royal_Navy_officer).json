@@ -1,0 +1,16 @@
+{
+    "module": "child=yes   |embed=yes",
+    "batting": "Unknown",
+    "source": "id=17645   ",
+    "First-class": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1868\u20131869"
+    }
+}

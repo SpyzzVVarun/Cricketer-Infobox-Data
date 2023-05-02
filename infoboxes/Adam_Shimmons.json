@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Adam Mark Shimmons",
+    "birth_place": "Hillingdon, Middlesex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20468.html Cricinfo ",
+    "List A": {
+        "matches": "11",
+        "runs": "67",
+        "bat avg": "11.16",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "522",
+        "wickets": "13",
+        "bowl avg": "29.84",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/30",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Shropshire": "1996&ndash;present"
+    },
+    "birth_date": "1972-10-16"
+}

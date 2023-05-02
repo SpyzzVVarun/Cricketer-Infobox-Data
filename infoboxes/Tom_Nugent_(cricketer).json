@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Thomas Michael Nugent",
+    "birth_place": "Bath, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/562280.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "&ndash;",
+        "100s/50s": "0/0",
+        "deliveries": "150",
+        "wickets": "3",
+        "bowl avg": "35.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/32",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "&ndash;",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "&ndash;",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "15.00;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/15",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "2014",
+        "Loughborough MCCU": "2015&ndash;present",
+        "Berkshire": "2015&ndash;present"
+    },
+    "birth_date": "1994-7-11"
+}

@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Arnold Minnis",
+    "birth_place": "Oughtibridge, Yorkshire, England",
+    "death_date": "1972",
+    "death_place": "Cirencester, Gloucestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/17608.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "10",
+        "bat avg": "3.33",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "917",
+        "wickets": "23",
+        "bowl avg": "15.13",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "7/48",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

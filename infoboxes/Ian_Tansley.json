@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Ian Joseph Tansley",
+    "birth_place": "Stockport, Cheshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/22009.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cheshire": "1983&ndash;1990"
+    },
+    "birth_date": "1962-1-22"
+}

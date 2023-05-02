@@ -1,0 +1,23 @@
+{
+    "name": "Dicky Richards",
+    "fullname": "William Henry Matthews Richards",
+    "nickname": "Dicky",
+    "death_date": "4 January 1903",
+    "batting": "Right-handed",
+    "onetest": "true",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testcap": "13",
+    "testdebutdate": "25 March",
+    "testdebutyear": "1889",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46983.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

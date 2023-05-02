@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Avijit Mitra",
+    "birth_place": "Bhowanipore, West Bengal, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/17623.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "157",
+        "bat avg": "13.08",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1974&ndash;1975"
+    },
+    "birth_date": "1953-7-6"
+}

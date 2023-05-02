@@ -1,0 +1,58 @@
+{
+    "name": "Irfanullah Shah",
+    "country": "Pakistan",
+    "fullname": "Irfanullah Shah",
+    "birth_place": "Bannu, Khyber Pakhtunkhwa, Pakistan",
+    "height": "6 ft 4 in",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/Bangladesh/content/player/697877.html Cricinfo ",
+    "FC": {
+        "matches": "25",
+        "runs": "154",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "4,009",
+        "wickets": "99",
+        "bowl avg": "21.19",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/29",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "19",
+        "runs": "11",
+        "bat avg": "2.75",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "674",
+        "wickets": "13",
+        "bowl avg": "48.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/68",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "72.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Federally Administered Tribal Areas": "2014/15\u20132017/18",
+        "Khyber Pakhtunkhwa": "2019/20\u2013"
+    },
+    "birth_date": "1995-5-5"
+}

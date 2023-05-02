@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Aneurin John Norman",
+    "birth_place": "Cardiff, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/352764.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "78",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan( 37 )": "2011&ndash;2012",
+        "Wales Minor Counties": "2008&ndash;present"
+    },
+    "birth_date": "1991-3-22"
+}

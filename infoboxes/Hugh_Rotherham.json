@@ -1,0 +1,40 @@
+{
+    "name": "Hugh Rotherham",
+    "imagesize": "180",
+    "country": "England",
+    "fullname": "Hugh Rotherham",
+    "birth_place": "Coventry, Warwickshire, England",
+    "death_date": "1939",
+    "death_place": "Coventry",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast (round-arm)",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "10 May",
+    "debutyear1": "1880",
+    "debutfor1": "An England XI",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "10 July",
+    "lastyear1": "1903",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Philadelphians",
+    "source": "https://cricketarchive.com/Archive/Players/32/32498/32498.html CricketArchive ",
+    "First-class": {
+        "matches": "23",
+        "runs": "179",
+        "bat avg": "7.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "4377",
+        "wickets": "101",
+        "bowl avg": "19.87",
+        "fivefor": "8",
+        "tenfor": "2",
+        "best bowling": "8/57",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1884\u20131903"
+    },
+    "birth_date": "1861-3-16"
+}

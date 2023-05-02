@@ -1,0 +1,32 @@
+{
+    "name": "Morgan Topping",
+    "country": "Ireland",
+    "fullname": "Morgan Topping",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "type1": "List A",
+    "onetype1": "true",
+    "debutdate1": "4 June",
+    "debutyear1": "2017",
+    "debutfor1": "Northern",
+    "debutagainst1": "Leinster",
+    "source": "http://www.espncricinfo.com/ci/content/player/1020269.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northern Knights": "2017\u2013present"
+    },
+    "birth_date": "1999-3-25"
+}

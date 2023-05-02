@@ -1,0 +1,22 @@
+{
+    "name": "Harry Downer",
+    "country": "England",
+    "fullname": "Harry Rodney Downer",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "March 1980",
+    "death_place": "Montreal, Quebec, Canada",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/11930.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1946"
+    },
+    "birth_date": "1915-10-19"
+}

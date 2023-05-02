@@ -1,0 +1,62 @@
+{
+    "name": "Chirag Suri",
+    "country": "United Arab Emirates",
+    "fullname": "Chirag Suri",
+    "birth_place": "New Delhi, Delhi, India",
+    "batting": "Right handed",
+    "bowling": "Right arm Offbreak, Legbreak Right arm Offbreak, Legbreak Googly",
+    "role": "Opening Batsman",
+    "internationalspan": "2018\u20132023",
+    "odidebutdate": "6 March",
+    "odidebutyear": "2018",
+    "odidebutagainst": "West Indies",
+    "odicap": "75",
+    "lastodidate": "14 August",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Scotland",
+    "T20Idebutdate": "22 October",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Australia",
+    "T20Icap": "42",
+    "lastT20Idate": "18 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/ci/content/player/534734.html Cricinfo  ",
+    "ODI": {
+        "matches": "35",
+        "runs": "941",
+        "bat avg": "26.88",
+        "100s/50s": "2/5",
+        "top score": "115",
+        "catches/stumpings": "10/\u2013"
+    },
+    "T20I": {
+        "matches": "31",
+        "runs": "817",
+        "bat avg": "29.17",
+        "100s/50s": "0/7",
+        "top score": "88",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "137",
+        "bat avg": "34.25",
+        "100s/50s": "0/1",
+        "top score": "81",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "43",
+        "runs": "1,118",
+        "bat avg": "26.61",
+        "100s/50s": "2/6",
+        "top score": "115",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Gujarat Lions": "2017",
+        "Toronto Nationals": "2019"
+    },
+    "birth_date": "1995-02-18"
+}

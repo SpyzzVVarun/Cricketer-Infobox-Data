@@ -1,0 +1,40 @@
+{
+    "name": "Mohit Rathee",
+    "birth_place": "Rohtak, Haryana, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "All-rounder",
+    "source": "https://www.espncricinfo.com/cricketers/mohit-rathee-1349361.html Cricinfo  ",
+    "FC": {
+        "matches": "4",
+        "runs": "138",
+        "bat avg": "17.25",
+        "100s/50s": "0/1",
+        "top score": "69",
+        "deliveries": "697",
+        "wickets": "9",
+        "bowl avg": "44.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/94",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Services": "2022\u2013present",
+        "Punjab Kings": "2023\u2013present"
+    },
+    "birth_date": "1999-01-13"
+}

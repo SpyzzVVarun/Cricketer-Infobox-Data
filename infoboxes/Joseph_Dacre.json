@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Joseph Dacre",
+    "birth_place": "Chittor, Udaipur State,, British India",
+    "death_date": "1868",
+    "death_place": "Coton Hill, Staffordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11911.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "46",
+        "bat avg": "9.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "?",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1845&ndash;1846"
+    }
+}

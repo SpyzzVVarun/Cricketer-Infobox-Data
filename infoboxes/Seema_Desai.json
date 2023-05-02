@@ -1,0 +1,51 @@
+{
+    "name": "Seema Desai",
+    "female": "true",
+    "country": "India",
+    "fullname": "Seema Desai",
+    "birth_place": "East Singhbhum, Bihar, India",
+    "death_date": "2013",
+    "death_place": "Ranchi, Jharkhand, India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "testdebutdate": "2 February",
+    "testdebutyear": "1991",
+    "testdebutagainst": "Australia",
+    "testcap": "36",
+    "lasttestdate": "9 February",
+    "lasttestyear": "1991",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17124/17124.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "49",
+        "bat avg": "12.25",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "138",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLO": {
+        "matches": "25",
+        "runs": "294",
+        "bat avg": "21.00",
+        "100s/50s": "0/1",
+        "top score": "69",
+        "deliveries": "768",
+        "wickets": "24",
+        "bowl avg": "12.45",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/11",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Jharkhand": "2006\u20132008"
+    },
+    "birth_date": "1965-1-6"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Tristan George Lance Ballance",
+    "birth_place": "Norwich, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Naples, Campania, Italy",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/9503.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "190",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/1",
+        "top score": "63",
+        "deliveries": "4,238",
+        "wickets": "61",
+        "bowl avg": "30.73",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/30",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1932&ndash;1939",
+        "Oxford University": "1935&ndash;1937"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Neil Thurgood",
+    "country": "England",
+    "fullname": "Neil Jonathan Thurgood",
+    "birth_place": "Bournemouth, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/21539.html Cricinfo ",
+    "LA": {
+        "matches": "5",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Dorset": "1999&ndash;2006"
+    },
+    "birth_date": "1977-2-18"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Nipuni Hansika",
+    "female": "yes",
+    "country": "Sri Lanka",
+    "fullname": "Manage Don Nipuni Hansika",
+    "birth_place": "Dehiwala, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm medium-fast",
+    "odidebutdate": "24 February",
+    "odidebutyear": "2013",
+    "odidebutagainst": "West Indies",
+    "odicap": "54",
+    "odishirt": "25",
+    "lastodidate": "13 September",
+    "lastodiyear": "2018",
+    "lastodiagainst": "India",
+    "T20Idebutdate": "7 March",
+    "T20Idebutyear": "2013",
+    "T20Idebutagainst": "India",
+    "T20Icap": "31",
+    "lastT20Idate": "7 June",
+    "lastT20Iyear": "2018",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/342862.html Cricinfo ",
+    "WODI": {
+        "matches": "34",
+        "runs": "544",
+        "bat avg": "16.48",
+        "100s/50s": "0/1",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20I": {
+        "matches": "20",
+        "runs": "189",
+        "bat avg": "9.44",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1994-8-3"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Maurice Jewell",
+    "country": "England",
+    "fullname": "Maurice Frederick Stewart Jewell",
+    "birth_place": "Iquique, Chile",
+    "death_date": "df=yes",
+    "death_place": "Whiteleaf, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Arthur Jewell (brother), John Jewell (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/30/30630/30630.html Cricket Archive ",
+    "First-class": {
+        "matches": "133",
+        "runs": "4118",
+        "bat avg": "18.38",
+        "100s/50s": "2/20",
+        "top score": "125",
+        "deliveries": "6361",
+        "wickets": "104",
+        "bowl avg": "33.15",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/56",
+        "catches/stumpings": "68/0"
+    },
+    "clubs": {
+        "Worcestershire": "1909 to 1933",
+        "Sussex": "1914 to 1919"
+    },
+    "birth_date": "1885-9-15"
+}

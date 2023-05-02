@@ -1,0 +1,33 @@
+{
+    "name": "Melissa Papworth",
+    "country": "Australia",
+    "female": "yes",
+    "fullname": "Melissa Mary Papworth",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm Off-break",
+    "odidebutdate": "6 February",
+    "odidebutyear": "1990",
+    "odidebutagainst": "New Zealand",
+    "odicap": "63",
+    "lastodidate": "11 February",
+    "lastodiyear": "1990",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/53603.html CricInfo ",
+    "WODI": {
+        "matches": "3",
+        "runs": "39",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1987/88 - 1993/94"
+    }
+}

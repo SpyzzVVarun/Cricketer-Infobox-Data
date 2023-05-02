@@ -1,0 +1,34 @@
+{
+    "name": "Amit Shukla",
+    "country": "Kenya",
+    "fullname": "Amit Shukla",
+    "birth_place": "delhi, india",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Middle-order batsman",
+    "odidebutdate": "26 July",
+    "odidebutyear": "2011",
+    "odidebutagainst": "United Arab Emirates",
+    "oneodi": "true",
+    "source": "http://www.espncricinfo.com/kenya/content/player/315052.html ESPNCricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "0/17",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "Kenya A": "",
+        "Southern Stars": "2008\u201311",
+        "Kongonis": "2011\u2013present"
+    },
+    "birth_date": "1997-2-23"
+}

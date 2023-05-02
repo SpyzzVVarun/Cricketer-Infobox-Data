@@ -1,0 +1,26 @@
+{
+    "name": "Alfred Bailey",
+    "country": "Australia",
+    "fullname": "Alfred John Thomas Slater Bailey",
+    "birth_place": "Adelaide, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4305.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "558",
+        "wickets": "3",
+        "bowl avg": "69.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/84",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "South Australia": "1953/54-1955/56"
+    },
+    "birth_date": "1932-3-3"
+}

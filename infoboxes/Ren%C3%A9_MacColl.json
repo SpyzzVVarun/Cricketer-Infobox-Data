@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Ren\u00e9 MacColl",
+    "birth_place": "Brentford, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Crowborough, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17240.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1924"
+    }
+}

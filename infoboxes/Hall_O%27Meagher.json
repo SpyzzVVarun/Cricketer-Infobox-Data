@@ -1,0 +1,26 @@
+{
+    "name": "Hall O'Meagher",
+    "fullname": "Hall O'Meagher",
+    "birth_place": "Canberra, Australian Capital Territory",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/6/6414/6414.html CricketArchive ",
+    "List A": {
+        "matches": "12",
+        "runs": "28",
+        "bat avg": "5.60",
+        "100s/50s": "0/0",
+        "deliveries": "654",
+        "wickets": "10",
+        "bowl avg": "48.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/31",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "ACT Comets": "1997/98\u20131998/99"
+    },
+    "birth_date": "1974-1-27"
+}

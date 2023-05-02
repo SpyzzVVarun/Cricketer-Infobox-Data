@@ -1,0 +1,30 @@
+{
+    "name": "Lene Hansen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Lene Hansen",
+    "birth_place": "Denmark",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Ireland",
+    "odicap": "3",
+    "lastodidate": "20 July",
+    "lastodiyear": "1991",
+    "lastodiagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/54958.html Cricinfo ",
+    "WODI": {
+        "matches": "10",
+        "runs": "99",
+        "bat avg": "12.37",
+        "100s/50s": "0/0",
+        "deliveries": "394",
+        "wickets": "12",
+        "bowl avg": "23.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1964"
+}

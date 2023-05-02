@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Godfrey Arnold Pell",
+    "birth_place": "Sunderland, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/ci/content/player/18873.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "74",
+        "wickets": "4",
+        "bowl avg": "7.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/9",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1947"
+    },
+    "birth_date": "1928-3-11"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Mark Kincaid Mackenzie",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Soupir, Aisne, France",
+    "family": "Lord Mackenzie (father)",
+    "batting": "Unknown",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17250.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "65",
+        "bat avg": "16.25",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "390",
+        "wickets": "6",
+        "bowl avg": "30.83",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/65",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1910"
+    }
+}

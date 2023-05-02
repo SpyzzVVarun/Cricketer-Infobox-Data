@@ -1,0 +1,31 @@
+{
+    "name": "Walter Humphreys",
+    "country": "England",
+    "fullname": "Walter Alexander Humphreys",
+    "birth_place": "Southsea, Hampshire, England",
+    "death_date": "1924",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "family": "George Humphreys (brother), Walter Humphreys junior (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/15101.html Cricinfo ",
+    "FC": {
+        "matches": "273",
+        "runs": "6,268",
+        "bat avg": "16.11",
+        "100s/50s": "1/17",
+        "top score": "117",
+        "deliveries": "23,712",
+        "wickets": "718",
+        "bowl avg": "21.52",
+        "fivefor": "51",
+        "tenfor": "8",
+        "best bowling": "8/83",
+        "catches/stumpings": "217/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1900",
+        "Sussex": "1871&ndash;1896"
+    },
+    "birth_date": "1849-10-28"
+}

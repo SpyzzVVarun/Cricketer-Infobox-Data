@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Jonathon Andrew Benn",
+    "birth_place": "Rawtenstall, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9419.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1989\u20132002"
+    },
+    "birth_date": "1967-6-24"
+}

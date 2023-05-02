@@ -1,0 +1,45 @@
+{
+    "name": "Kiplin Doriga",
+    "country": "Papua New Guinea",
+    "batting": "Right-handed",
+    "role": "Batsman, occasional wicket-keeper",
+    "odidebutdate": "24 November",
+    "odidebutyear": "2017",
+    "odidebutagainst": "Scotland",
+    "odicap": "20",
+    "lastodidate": "15 March",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "T20Idebutdate": "22 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Philippines",
+    "T20Icap": "23",
+    "lastT20Idate": "21 October",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/646173.html Cricinfo ",
+    "ODI": {
+        "matches": "18",
+        "runs": "279",
+        "bat avg": "18.60",
+        "100s/50s": "0/1",
+        "catches/stumpings": "8/2"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "53",
+        "bat avg": "26.50",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "25",
+        "runs": "430",
+        "bat avg": "20.47",
+        "100s/50s": "0/2",
+        "catches/stumpings": "17/4"
+    },
+    "clubs": {},
+    "birth_date": "1995-10-18"
+}

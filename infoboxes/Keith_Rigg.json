@@ -1,0 +1,37 @@
+{
+    "name": "Keith Rigg",
+    "country": "Australia",
+    "fullname": "Keith Edward Rigg",
+    "birth_place": "Malvern, Melbourne, Australia",
+    "death_date": "1995",
+    "death_place": "Malvern, Melbourne, Australia",
+    "batting": "Right-handed",
+    "family": "Colin McDonald (cousin)",
+    "testdebutdate": "27 February",
+    "testdebutyear": "1931",
+    "testdebutagainst": "West Indies",
+    "testcap": "136",
+    "lasttestdate": "26 February",
+    "lasttestyear": "1937",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/571/571.html CricketArchive ",
+    "Test": {
+        "matches": "8",
+        "runs": "401",
+        "bat avg": "33.41",
+        "100s/50s": "1/1",
+        "top score": "127",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "87",
+        "runs": "5544",
+        "bat avg": "42.00",
+        "100s/50s": "14/30",
+        "catches/stumpings": "58/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1926/27\u20131938/39"
+    },
+    "birth_date": "1906-5-21"
+}

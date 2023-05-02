@@ -1,0 +1,41 @@
+{
+    "name": "Lauren Parfitt",
+    "female": "true",
+    "fullname": "Lauren Amy Parfitt",
+    "birth_place": "Pontypool, Wales",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/228/228116/228116.html CricketArchive",
+    "WLA": {
+        "matches": "83",
+        "runs": "1,652",
+        "bat avg": "22.32",
+        "100s/50s": "1/8",
+        "deliveries": "1,052",
+        "wickets": "26",
+        "bowl avg": "27.19",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/20",
+        "catches/stumpings": "37/\u2013"
+    },
+    "WT20": {
+        "matches": "64",
+        "runs": "1,118",
+        "bat avg": "24.30",
+        "100s/50s": "0/5",
+        "deliveries": "544",
+        "wickets": "30",
+        "bowl avg": "18.46",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/11",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Wales": "2007\u2013present",
+        "Western Storm": "2020\u20132022"
+    },
+    "birth_date": "1994-4-1"
+}

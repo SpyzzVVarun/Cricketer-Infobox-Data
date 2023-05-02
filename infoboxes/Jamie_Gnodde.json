@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "James Spencer Drury Gnodde",
+    "birth_place": "Westminster, London, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/755047.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "113",
+        "bat avg": "18.83",
+        "100s/50s": "\u2013/1",
+        "top score": "54",
+        "deliveries": "492",
+        "wickets": "4",
+        "bowl avg": "52.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/35",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "2015&ndash;2018",
+        "Oxford MCCU": "2018"
+    },
+    "birth_date": "1995-11-9"
+}

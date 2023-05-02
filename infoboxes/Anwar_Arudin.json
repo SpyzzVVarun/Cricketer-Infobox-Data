@@ -1,0 +1,26 @@
+{
+    "name": "Anwar Arudin",
+    "country": "Malaysia",
+    "fullname": "Mohammad Anwar Arudin",
+    "batting": "Left-handed",
+    "T20Idebutdate": "24 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "2",
+    "lastT20Idate": "22 April",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/320755.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1984-7-9",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "John Hall",
+    "country": "England",
+    "fullname": "John Peter Hall",
+    "birth_place": "Worksop, Nottinghamshire, England",
+    "death_date": "1925",
+    "death_place": "Worksop, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "FC",
+    "debutdate1": "20 June",
+    "debutyear1": "1895",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "24 May",
+    "lastyear1": "1897",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Players/29/29893/29893.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "3",
+        "bat avg": "0.50",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "216",
+        "wickets": "3",
+        "bowl avg": "37.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1895\u20131897"
+    },
+    "birth_date": "1874-8-20"
+}

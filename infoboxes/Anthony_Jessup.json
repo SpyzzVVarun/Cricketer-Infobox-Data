@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Anthony Jessup",
+    "birth_place": "Blindley Heath, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Kensington, London, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/15694.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,213",
+        "wickets": "19",
+        "bowl avg": "22.73",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "5/30",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1950&ndash;1951"
+    }
+}

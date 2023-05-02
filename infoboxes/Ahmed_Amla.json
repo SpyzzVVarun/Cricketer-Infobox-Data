@@ -1,0 +1,58 @@
+{
+    "name": "Ahmed Amla",
+    "country": "South Africa",
+    "fullname": "Ahmed Mahomed Amla",
+    "birth_place": "Durban, Natal, South Africa",
+    "heightm": "1.86",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "family": "Hashim Amla (brother)",
+    "source": "http://www.espncricinfo.com/dolphins/content/current/player/43930.html ESPNcricinfo ",
+    "FC": {
+        "matches": "128",
+        "runs": "6,587",
+        "bat avg": "34.30",
+        "100s/50s": "13/33",
+        "deliveries": "849",
+        "wickets": "8",
+        "bowl avg": "68.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/53",
+        "catches/stumpings": "67/\u2013"
+    },
+    "LA": {
+        "matches": "127",
+        "runs": "3,147",
+        "bat avg": "31.15",
+        "100s/50s": "2/24",
+        "deliveries": "204",
+        "wickets": "6",
+        "bowl avg": "36.66",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "1/8",
+        "catches/stumpings": "37/\u2013"
+    },
+    "T20": {
+        "matches": "53",
+        "runs": "801",
+        "bat avg": "22.25",
+        "100s/50s": "-/1",
+        "deliveries": "162",
+        "wickets": "8",
+        "bowl avg": "33.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/30",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "KwaZulu Natal Dolphins( 99 )": "1999\u20132013",
+        "KwaZulu-Natal": "1999-2013",
+        "Natal B": "1997/98",
+        "KwaZulu-Natal B": "1998/99"
+    },
+    "birth_date": "1979-9-15"
+}

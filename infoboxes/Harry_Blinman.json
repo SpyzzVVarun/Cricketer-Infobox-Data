@@ -1,0 +1,28 @@
+{
+    "name": "Harry Blinman",
+    "country": "Australia",
+    "fullname": "Harry Blinman",
+    "birth_place": "Adelaide, South Australia",
+    "death_date": "1950",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/australia/content/player/4365.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "663",
+        "bat avg": "20.09",
+        "100s/50s": "0/3",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1880/81\u20131895/96"
+    },
+    "birth_date": "1861-12-30"
+}

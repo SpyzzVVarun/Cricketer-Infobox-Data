@@ -1,0 +1,40 @@
+{
+    "name": "Ashok Malhotra",
+    "full_name": "Ashok Omprakash Malhotra",
+    "birth_place": "Amritsar, Punjab, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "India",
+    "testcap": "155",
+    "testdebutagainst": "England",
+    "testdebutdate": "13 January",
+    "testdebutyear": "1982",
+    "lasttestdate": "31 January",
+    "lasttestyear": "1985",
+    "lasttestagainst": "England",
+    "odicap": "40",
+    "odidebutdate": "27 January",
+    "odidebutyear": "1982",
+    "odidebutagainst": "England",
+    "lastodidate": "5 February",
+    "lastodiyear": "1986",
+    "lastodiagainst": "Australia",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/30912.html CricInfo ",
+    "Test": {
+        "matches": "7",
+        "runs": "226",
+        "bat avg": "25.11",
+        "100s/50s": "0/1",
+        "catches/stumpings": "2/\u2013"
+    },
+    "ODI": {
+        "matches": "20",
+        "runs": "457",
+        "bat avg": "30.46",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "26 January 1957"
+}

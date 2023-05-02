@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Newman",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1883",
+    "death_place": "Barnwell, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/18110.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "195",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1861&ndash;1869"
+    }
+}

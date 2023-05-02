@@ -1,0 +1,32 @@
+{
+    "name": "Josh Thomas",
+    "fullname": "Joshua Frederick Thomas",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All-rounder",
+    "family": "George Thomas (brother)",
+    "type1": "List A",
+    "debutdate1": "14 August",
+    "debutyear1": "2022",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Middlesex",
+    "source": "https://www.espncricinfo.com/player/joshua-thomas-1258580 ESPNcricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "12",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "69.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/39",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Somerset( 8 )": "2022"
+    },
+    "birth_date": "2005-1-11"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Paul Nicholls",
+    "country": "Australia",
+    "fullname": "Paul Allen Nicholls",
+    "birth_place": "East Fremantle, Western Australia",
+    "death_date": "2009",
+    "death_place": "Nedlands, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/11/11491/11491.html CricketArchive ",
+    "First-class": {
+        "matches": "19",
+        "runs": "492",
+        "bat avg": "23.42",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "2,167",
+        "wickets": "30",
+        "bowl avg": "31.43",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/68",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "40",
+        "wickets": "3",
+        "bowl avg": "9.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/28",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1971/72\u20131978/79",
+        "Hertfordshire": "1973"
+    },
+    "birth_date": "1946-11-10"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Grahame Clinton",
+    "fullname": "Grahame Selvey Clinton",
+    "birth_place": "Sidcup, Kent",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/10750.html CricInfo",
+    "First-class": {
+        "matches": "270",
+        "runs": "13,118",
+        "bat avg": "33.04",
+        "100s/50s": "20/73",
+        "top score": "192",
+        "deliveries": "160",
+        "wickets": "4",
+        "bowl avg": "50.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/8",
+        "catches/stumpings": "96/\u2013"
+    },
+    "List A": {
+        "matches": "185",
+        "runs": "5,264",
+        "bat avg": "33.74",
+        "100s/50s": "4/33",
+        "top score": "146",
+        "deliveries": "32",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Kent": "1974\u20131978",
+        "Surrey": "1979\u20131990",
+        "Zimbabwe-Rhodesia": "1979/80"
+    },
+    "birth_date": "1953-05-05"
+}

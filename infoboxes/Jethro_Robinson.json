@@ -1,0 +1,30 @@
+{
+    "name": "Jethro Robinson",
+    "fullname": "Jethro Frederick Robinson",
+    "birth_place": "Eastbourne, Sussex, England",
+    "death_date": "2001",
+    "death_place": "Canada",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Miles Robinson (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/19773.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "11",
+        "bat avg": "2.75",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "383",
+        "wickets": "8",
+        "bowl avg": "20.75",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/47",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1936",
+        "Sussex": "1935\u20131936"
+    },
+    "birth_date": "1914-11-10"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Ajay Ratra",
+    "fullname": "Ajay Ratra",
+    "country": "India",
+    "birth_place": "Faridabad, Haryana, India",
+    "nickname": "Bunty,  !Cousin- Sahil Madan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "internationalspan": "2002",
+    "testdebutdate": "19 April",
+    "testdebutyear": "2002",
+    "testdebutagainst": "West Indies",
+    "testcap": "243",
+    "lasttestdate": "9 September",
+    "lasttestyear": "2002",
+    "lasttestagainst": "England",
+    "odidebutdate": "19 January",
+    "odidebutyear": "2002",
+    "odidebutagainst": "England",
+    "odicap": "140",
+    "lastodidate": "9 July",
+    "lastodiyear": "2002",
+    "lastodiagainst": "England",
+    "source": "http://www.cricinfo.com/indiandomestic2010/content/current/player/33127.html Cricinfo ",
+    "Test": {
+        "matches": "6",
+        "runs": "163",
+        "bat avg": "18.11",
+        "100s/50s": "1/0",
+        "catches/stumpings": "11/2"
+    },
+    "ODI": {
+        "matches": "12",
+        "runs": "90",
+        "bat avg": "12.85",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "11/5"
+    },
+    "FC": {
+        "matches": "99",
+        "runs": "4,029",
+        "bat avg": "30.29",
+        "100s/50s": "8/17",
+        "catches/stumpings": "233/27"
+    },
+    "LA": {
+        "matches": "89",
+        "runs": "1381",
+        "bat avg": "22.63",
+        "100s/50s": "1/6",
+        "top score": "103",
+        "catches/stumpings": "78/30"
+    },
+    "clubs": {
+        "Haryana": "1999\u20132005",
+        "Goa": "2007\u20132011",
+        "Tripura": "2011\u20132013"
+    },
+    "birth_date": "1981-12-13"
+}

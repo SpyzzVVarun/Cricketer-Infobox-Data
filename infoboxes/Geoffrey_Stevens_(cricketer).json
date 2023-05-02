@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Alden Stevens",
+    "birth_place": "Norwich, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Norwich, Norfolk, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/21025.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "56",
+        "bat avg": "11.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1907&ndash;1930",
+        "Minor Counties": "1912&ndash;1924"
+    }
+}

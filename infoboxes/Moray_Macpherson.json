@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Moray Charles Livingstone Macpherson",
+    "birth_place": "Barton on Sea, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Northwood, London, England",
+    "family": "Hubert Webb (uncle)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/17269.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "52",
+        "bat avg": "5.77",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "8/1"
+    },
+    "clubs": {
+        "Oxford University": "1980"
+    }
+}

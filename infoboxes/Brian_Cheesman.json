@@ -1,0 +1,27 @@
+{
+    "name": "Brian Cheesman",
+    "country": "England",
+    "fullname": "Brian Eldon Frederick Cheesman",
+    "birth_place": "Shefford Woodlands, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/11525.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "60",
+        "bat avg": "20.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "71.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1963\u20131966"
+    },
+    "birth_date": "1929-6-14"
+}

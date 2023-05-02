@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Andrew James Hall",
+    "nickname": "Albert",
+    "birth_place": "Manchester, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14403.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "116",
+        "bat avg": "19.33",
+        "100s/50s": "&ndash;/1",
+        "top score": "66",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Cheshire": "1993&ndash;present"
+    },
+    "birth_date": "1973-3-12"
+}

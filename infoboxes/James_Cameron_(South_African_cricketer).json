@@ -1,0 +1,26 @@
+{
+    "country": "South Africa",
+    "fullname": "James Cameron",
+    "birth_place": "Johannesburg, Transvaal Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10936.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire Cricket Board": "2000"
+    },
+    "birth_date": "1979-9-20"
+}

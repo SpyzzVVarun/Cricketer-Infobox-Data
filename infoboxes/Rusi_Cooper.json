@@ -1,0 +1,27 @@
+{
+    "name": "Rusi Cooper",
+    "country": "India",
+    "fullname": "Rustom Sorabji Cooper",
+    "birth_place": "Bombay, British India",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/india/content/player/27835.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "1205",
+        "bat avg": "52.39",
+        "100s/50s": "3/10",
+        "deliveries": "138",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Parsees": "1941-42 to 1944-45",
+        "Bombay": "1943-44 to 1944-45",
+        "Middlesex": "1949 to 1951"
+    },
+    "birth_date": "1922-12-14"
+}

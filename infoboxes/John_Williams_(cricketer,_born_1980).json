@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Charles Williams",
+    "birth_place": "Weston-super-Mare, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/22561.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Somerset Cricket Board": "2000"
+    },
+    "birth_date": "1980-11-8"
+}

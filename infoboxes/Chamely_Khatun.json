@@ -1,0 +1,32 @@
+{
+    "name": "Chamely Khatun",
+    "female": "true",
+    "country": "Bangladesh",
+    "fullname": "Chamely Khatun",
+    "birth_place": "Rajshahi, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/198/198550/198550.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WLA": {
+        "matches": "10",
+        "runs": "75",
+        "bat avg": "10.71",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Dhaka Division": "2008/09-2012/13"
+    },
+    "birth_date": "1988-11-11",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Silver Medal: 2010 Guangzhou Team"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Subhranshu Senapati",
+    "fullname": "Subhranshu Pradeep Senapati",
+    "birth_place": "Kendujhar, Odisha, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Middle order batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/1059577.html ESPNcricinfo ",
+    "FC": {
+        "matches": "34",
+        "runs": "1854",
+        "bat avg": "37.83",
+        "100s/50s": "5/7",
+        "top score": "173",
+        "catches/stumpings": "11/\u2013"
+    },
+    "LA": {
+        "matches": "22",
+        "runs": "549",
+        "bat avg": "34.31",
+        "100s/50s": "1/2",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "21",
+        "runs": "499",
+        "bat avg": "29.35",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Odisha": "2016\u2013present",
+        "Chennai Super Kings": "2022\u2013present"
+    },
+    "birth_date": "1996-12-30"
+}

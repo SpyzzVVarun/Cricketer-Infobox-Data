@@ -1,0 +1,31 @@
+{
+    "name": "Michael Gandy",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "umpire": "true",
+    "wtestsumpired": "1",
+    "umpwtestdebutyr": "1985",
+    "fcumpired": "6",
+    "umpfcdebutyr": "1985",
+    "umpfclastyr": "1989",
+    "listaumpired": "1",
+    "umplistadebutyr": "1988",
+    "source": "https://cricketarchive.com/Archive/Players/2/2520/2520.html CricketArchive subscription needed ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "128",
+        "wickets": "1",
+        "bowl avg": "112",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/66",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Tasmania": "1969"
+    },
+    "birth_date": "1944-8-28"
+}

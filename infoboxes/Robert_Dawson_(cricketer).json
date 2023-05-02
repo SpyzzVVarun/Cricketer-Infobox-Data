@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Robert Ian Dawson",
+    "birth_place": "Exmouth, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break, Right-arm Leg break, Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11846.html Cricinfo ",
+    "First-class": {
+        "matches": "64",
+        "runs": "2,598",
+        "bat avg": "24.50",
+        "100s/50s": "3/12",
+        "deliveries": "395",
+        "wickets": "8",
+        "bowl avg": "24.87",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/15",
+        "catches/stumpings": "31/\u2013"
+    },
+    "List A": {
+        "matches": "129",
+        "runs": "2,792",
+        "bat avg": "25.38",
+        "100s/50s": "1/13",
+        "top score": "138",
+        "deliveries": "122",
+        "wickets": "3",
+        "bowl avg": "45.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/15",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1992\u20131999",
+        "Devon": "1988\u20132011"
+    },
+    "birth_date": "1970-3-9"
+}

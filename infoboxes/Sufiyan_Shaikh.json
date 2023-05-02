@@ -1,0 +1,53 @@
+{
+    "name": "Sufiyan Shaikh",
+    "fullname": "Sufiyan Mehboob Shaikh",
+    "birth_place": "Mumbai, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "role": "Wicketkeeper",
+    "type1": "FC",
+    "debutdate1": "3 February",
+    "debutyear1": "2016",
+    "debutfor1": "Mumbai",
+    "debutagainst1": "Jharkhand",
+    "lastdate1": "7 December",
+    "lastyear1": "2016",
+    "lastfor1": "Mumbai",
+    "lastagainst1": "Punjab",
+    "type2": "LA",
+    "debutdate2": "8 November",
+    "debutyear2": "2014",
+    "debutfor2": "Mumbai",
+    "debutagainst2": "Saurashtra",
+    "lastdate2": "9 November",
+    "lastyear2": "2014",
+    "lastfor2": "Mumbai",
+    "lastagainst2": "Baroda",
+    "FC": {
+        "matches": "2",
+        "runs": "104",
+        "bat avg": "50.98",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "catches/stumpings": "4/3"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "58",
+        "bat avg": "63.73",
+        "100s/50s": "0/0",
+        "top score": "58",
+        "catches/stumpings": "5/0"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "52",
+        "bat avg": "136.84",
+        "100s/50s": "0/0",
+        "top score": "52",
+        "catches/stumpings": "4/1  "
+    },
+    "clubs": {
+        "Mumbai": "2014\u20132016"
+    }
+}

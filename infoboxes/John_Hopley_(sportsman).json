@@ -1,0 +1,33 @@
+{
+    "name": "John Hopley",
+    "country": "South Africa",
+    "fullname": "Frederick John Vanderbyl Hopley",
+    "birth_place": "Grahamstown, Cape Colony",
+    "death_date": "1951",
+    "death_place": "Marandellas, Southern Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/13/13730/13730.html CricketArchive ",
+    "First-class": {
+        "matches": "27",
+        "runs": "599",
+        "bat avg": "14.26",
+        "100s/50s": "0/3",
+        "top score": "55",
+        "deliveries": "2,885",
+        "wickets": "48",
+        "bowl avg": "33.75",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/37",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1904\u20131906",
+        "MCC": "1905",
+        "HDG Leveson Gower's XI": "1907\u20131910",
+        "Western Province": "1909/10"
+    },
+    "birth_date": "1883-8-27"
+}

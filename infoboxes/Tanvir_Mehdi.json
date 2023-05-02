@@ -1,0 +1,36 @@
+{
+    "name": "Tanvir Mehdi",
+    "country": "Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/42674.html  ",
+    "Tests": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "-/-",
+        "top score": "0",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "72.00",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "1/72",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {}
+}

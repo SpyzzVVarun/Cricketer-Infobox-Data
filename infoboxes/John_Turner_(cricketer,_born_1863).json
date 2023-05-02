@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Alfred Turner",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "1924",
+    "death_place": "Roehampton, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://www.espncricinfo.com/cricketers/john-turner-21975 Cricinfo ",
+    "First-class": {
+        "matches": "36",
+        "runs": "1,060",
+        "bat avg": "19.27",
+        "100s/50s": "2/3",
+        "top score": "174",
+        "deliveries": "2,557",
+        "wickets": "33",
+        "bowl avg": "34.42",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/46",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1883\u20131886",
+        "Marylebone Cricket Club": "1887"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Merv Harvey",
+    "fullname": "Mervyn Roye Harvey",
+    "birth_place": "Broken Hill, New South Wales, Australia",
+    "death_date": "1995name=death",
+    "death_place": "Footscray, Victoria, Australia",
+    "family": "Mick Harvey (brother)",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "onetest": "true",
+    "testdebutagainst": "England",
+    "testdebutdate": "31 January",
+    "testdebutyear": "1947",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/5600.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "43",
+        "bat avg": "21.50",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "22",
+        "runs": "1147",
+        "bat avg": "38.23",
+        "100s/50s": "3/3",
+        "top score": "163",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1940/41\u20131948/49"
+    },
+    "birth_date": "1918-4-29"
+}

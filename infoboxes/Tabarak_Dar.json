@@ -1,0 +1,51 @@
+{
+    "name": "Tabarak Dar",
+    "country": "Hong Kong",
+    "birth_place": "Mirpur, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "umpire": "true",
+    "odisumpired": "3",
+    "umpodidebutyr": "2016",
+    "umpodilastyr": "2017",
+    "t20isumpired": "18",
+    "umpt20idebutyr": "2016",
+    "umpt20ilastyr": "2022",
+    "odidebutdate": "16 July",
+    "odidebutyear": "2004",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "11",
+    "lastodidate": "25 June",
+    "lastodiyear": "2008",
+    "lastodiagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/15/15103/15103.html CricketArchive ",
+    "ODI": {
+        "matches": "4",
+        "runs": "101",
+        "bat avg": "25.25",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "4.66",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "101",
+        "bat avg": "25.25",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Little Sai Wan Cricket Club": "1995\u20132015"
+    },
+    "birth_date": "1976-5-3"
+}

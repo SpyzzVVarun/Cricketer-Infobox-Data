@@ -1,0 +1,22 @@
+{
+    "name": "Bernard Graham",
+    "fullname": "Bernard Neylon Graham",
+    "birth_place": "Gisborne, New Zealand",
+    "death_date": "1992",
+    "death_place": "Gisborne, New Zealand",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/37184.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "151",
+        "bat avg": "13.72",
+        "100s/50s": "\u2013/1",
+        "top score": "56",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Auckland": "1953-54",
+        "Northern Districts": "1956-57"
+    },
+    "birth_date": "1922-10-27"
+}

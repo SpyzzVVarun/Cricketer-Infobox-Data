@@ -1,0 +1,24 @@
+{
+    "country": "Argentina",
+    "fullname": "George Wilfred Stocks",
+    "birth_place": "Argentina",
+    "death_date": "August 1993 (aged 79/80)",
+    "death_place": "Argentina",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/23648.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "180",
+        "wickets": "4",
+        "bowl avg": "24.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

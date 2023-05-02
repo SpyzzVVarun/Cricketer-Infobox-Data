@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Ernest Hammond",
+    "birth_place": "Storrington, Sussex, England",
+    "death_date": "1921",
+    "death_place": "Storrington, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Roundarm right-arm Roundarm right-arm slow",
+    "family": "John Hammond (grandfather), Charles Hammond (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/14491.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "16",
+        "bat avg": "2.28",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1870&ndash;1875"
+    },
+    "birth_date": "1850-7-29"
+}

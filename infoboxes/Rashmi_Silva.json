@@ -1,0 +1,36 @@
+{
+    "name": "Rashmi Silva",
+    "female": "true",
+    "fullname": "Hanthana Dewage Rashmi Sewandi Silva",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "country": "Sri Lanka",
+    "odidebutdate": "1 July",
+    "odidebutyear": "2022",
+    "odidebutagainst": "India",
+    "odicap": "74",
+    "lastodidate": "7 July",
+    "lastodiyear": "2022",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/1321015.html Cricinfo ",
+    "WODI": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "41.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/53",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Sri Lanka Navy Sports Club": "2021/22\u2013present"
+    },
+    "birth_date": "2000-12-4"
+}

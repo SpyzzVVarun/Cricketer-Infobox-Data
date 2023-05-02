@@ -1,0 +1,62 @@
+{
+    "name": "Marie Moralee",
+    "female": "true",
+    "country": "England",
+    "fullname": "Marie Frances Moralee",
+    "birth_place": "Kent, England",
+    "role": "All-rounder",
+    "internationalspan": "1991",
+    "odidebutdate": "17 July",
+    "odidebutyear": "1991",
+    "odidebutagainst": "Netherlands",
+    "odicap": "61",
+    "lastodidate": "20 July",
+    "lastodiyear": "1991",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Archive/Players/17/17057/17057.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "25",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "3",
+        "bowl avg": "2.00",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/6",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "126",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "72",
+        "runs": "1,000",
+        "bat avg": "17.24",
+        "100s/50s": "0/3",
+        "top score": "80",
+        "deliveries": "2,702",
+        "wickets": "49",
+        "bowl avg": "28.91",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/6",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Kent": "1988\u20132002"
+    },
+    "birth_date": "1971-6-26"
+}

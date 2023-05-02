@@ -1,0 +1,41 @@
+{
+    "name": "George Ferris",
+    "country": "West Indies",
+    "fullname": "George John Fitzgerald Ferris",
+    "birth_place": "Urlings, Saint Mary, Antigua",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/player/george-ferris-51790 Cricinfo ",
+    "First-class": {
+        "matches": "94",
+        "runs": "745",
+        "bat avg": "12.21",
+        "100s/50s": "0/0",
+        "deliveries": "13,533",
+        "wickets": "286",
+        "bowl avg": "25.71",
+        "fivefor": "9",
+        "tenfor": "1",
+        "best bowling": "7/42",
+        "catches/stumpings": "13/\u2013"
+    },
+    "List A": {
+        "matches": "62",
+        "runs": "64",
+        "bat avg": "6.40",
+        "100s/50s": "0/0",
+        "deliveries": "2,881",
+        "wickets": "75",
+        "bowl avg": "26.85",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/28",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Leeward Islands": "1982/83\u20131988/89",
+        "Leicestershire": "1983\u20131990"
+    },
+    "birth_date": "1964-10-18"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Charles Thomson",
+    "country": "India",
+    "fullname": "Charles David Thomson",
+    "birth_place": "Visakhapatnam, Andhra Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/india/content/player/35339.html Cricinfo",
+    "First-class": {
+        "matches": "34",
+        "runs": "1249",
+        "bat avg": "25.48",
+        "100s/50s": "1/5",
+        "top score": "130",
+        "deliveries": "1404",
+        "wickets": "12",
+        "bowl avg": "65.91",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/60",
+        "catches/stumpings": "14/\u2013"
+    },
+    "List A": {
+        "matches": "23",
+        "runs": "273",
+        "bat avg": "13.65",
+        "100s/50s": "0/2",
+        "deliveries": "444",
+        "wickets": "10",
+        "bowl avg": "39.20",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/59",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Services": "1993-94 to 2003-04"
+    },
+    "birth_date": "1969-9-7"
+}

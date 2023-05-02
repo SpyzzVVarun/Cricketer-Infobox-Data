@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "William Anthony Kirby",
+    "birth_place": "Hull, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15928.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "78",
+        "bat avg": "26.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "37",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Lincolnshire": "2009-present",
+        "Durham UCCE": "2002",
+        "Nottinghamshire Cricket Board": "2000"
+    },
+    "birth_date": "1981-6-2"
+}

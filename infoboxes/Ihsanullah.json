@@ -1,0 +1,63 @@
+{
+    "name": "Ihsanullah",
+    "country": "Afghanistan",
+    "fullname": "Ihsanullah Janat",
+    "birth_place": "Khost, Afghanistan",
+    "family": "Nawroz Mangal (brother)",
+    "batting": "Right-handed",
+    "testdebutdate": "15 March",
+    "testdebutyear": "2019",
+    "testdebutagainst": "Ireland",
+    "testcap": "12",
+    "lasttestdate": "27 November",
+    "lasttestyear": "2019",
+    "lasttestagainst": "West Indies",
+    "odidebutdate": "24 February",
+    "odidebutyear": "2017",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "40",
+    "lastodidate": "23 September",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Bangladesh",
+    "oneT20I": "true",
+    "T20Idebutdate": "14 June",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Zimbabwe",
+    "T20Icap": "47",
+    "source": "http://www.espncricinfo.com/ci/content/player/703323.html Cricinfo ",
+    "ODI": {
+        "matches": "16",
+        "runs": "307",
+        "bat avg": "21.92",
+        "100s/50s": "0/3",
+        "catches/stumpings": "10/\u2013"
+    },
+    "FC": {
+        "matches": "13",
+        "runs": "1040",
+        "bat avg": "54.73",
+        "100s/50s": "3/5",
+        "top score": "248",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "50",
+        "runs": "1499",
+        "bat avg": "33.31",
+        "100s/50s": "2/12",
+        "top score": "125",
+        "catches/stumpings": "30/\u2013"
+    },
+    "T20": {
+        "matches": "28",
+        "runs": "594",
+        "bat avg": "23.76",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Boost Region": "2017"
+    },
+    "birth_date": "1997-9-28"
+}

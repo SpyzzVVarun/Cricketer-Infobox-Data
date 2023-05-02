@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "James Michael Cornford",
+    "birth_place": "Crewe, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium-fast, Leg Right-arm medium-fast, Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/11747.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "314",
+        "bat avg": "78.50",
+        "100s/50s": "\u2013/3",
+        "deliveries": "210",
+        "wickets": "5",
+        "bowl avg": "23.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/36",
+        "catches/stumpings": "10/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1999&ndash;2001",
+        "Midlands": "2001/02&ndash;2002/03",
+        "Worcestershire Cricket Board": "2002"
+    },
+    "birth_date": "1978-9-6"
+}

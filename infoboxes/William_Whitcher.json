@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Whitcher",
+    "birth_place": "Emsworth, Hampshire, England",
+    "death_date": "9 March 1910",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/22397.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "27",
+        "bat avg": "13.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "48",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1864\u20131867"
+    }
+}

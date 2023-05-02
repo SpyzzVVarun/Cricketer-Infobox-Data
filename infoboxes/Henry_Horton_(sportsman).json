@@ -1,0 +1,38 @@
+{
+    "name": "Henry Horton",
+    "birth_place": "Colwall, Herefordshire, England",
+    "death_date": "1998",
+    "death_place": "Birmingham, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/6/6673/6673.html CricketArchive",
+    "First-class": {
+        "matches": "417",
+        "runs": "21,669",
+        "bat avg": "32.83",
+        "100s/50s": "32/122",
+        "deliveries": "348",
+        "wickets": "3",
+        "bowl avg": "64.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/0",
+        "catches/stumpings": "264/\u2013"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "284",
+        "bat avg": "21.84",
+        "100s/50s": "0/2",
+        "top score": "56",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1923-4-18"
+}

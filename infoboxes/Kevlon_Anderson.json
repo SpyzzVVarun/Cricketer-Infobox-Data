@@ -1,0 +1,31 @@
+{
+    "name": "Kevlon Anderson",
+    "full_name": "Kevlon Alston Anderson",
+    "birth_place": "Guyana",
+    "batting": "Right-handed",
+    "role": "Top order batsman",
+    "type1": "FC",
+    "debutdate1": "15 March",
+    "debutyear1": "2023",
+    "debutfor1": "Guyana",
+    "debutagainst1": "Trinidad and Tobago",
+    "type2": "List A",
+    "debutdate2": "29 October",
+    "debutyear2": "2022",
+    "debutfor2": "West Indies Academy",
+    "debutagainst2": "Leeward Islands",
+    "source": "https://www.espncricinfo.com/cricketers/kevlon-anderson-1209188 ESPNcricinfo",
+    "FC": {
+        "matches": "4",
+        "runs": "295",
+        "bat avg": "36.87",
+        "100s/50s": "1/0",
+        "top score": "153",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "West Indies Academy": "2022\u2013present",
+        "Guyana": "2023\u2013present"
+    },
+    "birth_date": "2000-9-28"
+}

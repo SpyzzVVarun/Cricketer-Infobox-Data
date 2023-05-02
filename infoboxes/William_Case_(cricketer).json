@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "William Sterndale Case",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "family": "Thomas Case, Sr. (father) Thomas Case, Jr. (brother)",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/11055.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1895&ndash;1906",
+        "Marylebone Cricket Club": "1896"
+    }
+}

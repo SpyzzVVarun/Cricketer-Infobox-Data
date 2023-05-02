@@ -1,0 +1,24 @@
+{
+    "country": "Canada",
+    "fullname": "Tony Gardner",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23814.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "32",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "156",
+        "wickets": "4",
+        "bowl avg": "29.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/42",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Canada": "1996/97"
+    }
+}

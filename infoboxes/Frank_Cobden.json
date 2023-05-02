@@ -1,0 +1,29 @@
+{
+    "name": "Frank Cobden",
+    "country": "England",
+    "fullname": "Frank Carroll Cobden",
+    "birth_place": "Marylebone, London, England",
+    "death_date": "1932",
+    "death_place": "Capel Curig, Caernarvonshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right arm fast Right arm fast (roundarm)",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/28/28603/28603.html CricketArchive ",
+    "First-class": {
+        "matches": "22",
+        "runs": "471",
+        "bat avg": "14.27",
+        "100s/50s": "0/1",
+        "deliveries": "2,381",
+        "wickets": "65",
+        "bowl avg": "17.20",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/35",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1870\u20131872",
+        "Marylebone Cricket Club": "1870\u20131872"
+    },
+    "birth_date": "1849-10-14"
+}

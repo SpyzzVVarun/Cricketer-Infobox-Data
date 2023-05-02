@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Francis Findlay",
+    "birth_place": "Rubislaw, Aberdeenshire, Scotland",
+    "death_date": "1963",
+    "death_place": "Kilmarnock, Ayrshire, Scotland",
+    "family": "Tom Findlay (brother)",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/francis-findlay-25204 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1948"
+    }
+}

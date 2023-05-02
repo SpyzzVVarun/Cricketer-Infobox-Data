@@ -1,0 +1,36 @@
+{
+    "name": "Thomas Kelly",
+    "birth_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Middle-order batter |family = Corey Kelly (twin brother)",
+    "source": "https://www.espncricinfo.com/player/thomas-kelly-1202263 ESPNCricinfo",
+    "FC": {
+        "matches": "4",
+        "runs": "147",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "4/-"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "113",
+        "bat avg": "28.25",
+        "100s/50s": "0/1",
+        "catches/stumpings": "-/-"
+    },
+    "T20": {
+        "matches": "27",
+        "runs": "318",
+        "bat avg": "18.70",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "South Australia( 31 )": "2021/22&ndash;",
+        "Adelaide Strikers( 31 )": "2021/22&ndash;"
+    },
+    "birth_date": "2000-12-14"
+}

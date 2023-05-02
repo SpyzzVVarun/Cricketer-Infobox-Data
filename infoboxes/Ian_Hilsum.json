@@ -1,0 +1,41 @@
+{
+    "name": "Ian",
+    "country": "England",
+    "fullname": "Ian Jack Hilsum",
+    "birth_place": "Newport, Isle of Wight, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/14294.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "56",
+        "bat avg": "14.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "30",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "2002",
+        "Hampshire Cricket Board": "2000"
+    },
+    "birth_date": "1981-12-29"
+}

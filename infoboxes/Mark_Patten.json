@@ -1,0 +1,22 @@
+{
+    "country": "Scotland",
+    "fullname": "Mark Patten",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Ashford, Kent, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/25460.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "407",
+        "bat avg": "11.97",
+        "100s/50s": "\u2013/2",
+        "top score": "58",
+        "catches/stumpings": "37/3"
+    },
+    "clubs": {
+        "Scotland": "1922&ndash;1925",
+        "Oxford University": "1922&ndash;1923"
+    }
+}

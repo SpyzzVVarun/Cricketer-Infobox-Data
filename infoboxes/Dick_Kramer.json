@@ -1,0 +1,26 @@
+{
+    "country": "Netherlands",
+    "fullname": "Dick Kramer",
+    "birth_place": "The Hague, South Holland, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/25001.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "342",
+        "wickets": "9",
+        "bowl avg": "27.33",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/26",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Netherlands": "1999&ndash;2000"
+    },
+    "birth_date": "1972-11-1"
+}

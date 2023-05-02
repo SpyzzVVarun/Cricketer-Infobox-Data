@@ -1,0 +1,58 @@
+{
+    "name": "Stewart Walters",
+    "country": "England",
+    "fullname": "Stewart Jonathan Walters",
+    "nickname": "Wal",
+    "birth_place": "Mornington, Victoria, Australia",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "https://cricketarchive.com/Players/64/64529/64529.html ",
+    "FC": {
+        "matches": "71",
+        "runs": "3,411",
+        "bat avg": "31.00",
+        "100s/50s": "6/15",
+        "top score": "188",
+        "deliveries": "432",
+        "wickets": "3",
+        "bowl avg": "81.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/4",
+        "catches/stumpings": "78/\u2013"
+    },
+    "LA": {
+        "matches": "67",
+        "runs": "1,485",
+        "bat avg": "49.11",
+        "100s/50s": "\u2013/10",
+        "top score": "115",
+        "deliveries": "165",
+        "wickets": "3",
+        "bowl avg": "59.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/12",
+        "catches/stumpings": "22/\u2013"
+    },
+    "T20": {
+        "matches": "53",
+        "runs": "830",
+        "bat avg": "27.63",
+        "100s/50s": "\u2013/1",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "26.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/9",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Surrey": "2005\u20132010",
+        "Glamorgan": "2011\u20132014"
+    },
+    "birth_date": "1983-6-25"
+}

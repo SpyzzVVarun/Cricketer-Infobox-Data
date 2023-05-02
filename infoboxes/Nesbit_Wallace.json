@@ -1,0 +1,31 @@
+{
+    "name": "Nesbit Wallace",
+    "country": "Canada",
+    "fullname": "Nesbit Willoughby Wallace",
+    "birth_place": "Halifax, Nova Scotia, Canada",
+    "death_date": "1931",
+    "death_place": "Guildford, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm slow Right-arm slow underarm",
+    "source": "http://www.cricinfo.com/ci/content/player/22281.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "66",
+        "bat avg": "8.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "16",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1885",
+        "Hampshire": "1884",
+        "Gloucestershire": "1871"
+    },
+    "birth_date": "1839-4-20"
+}

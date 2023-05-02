@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas Craven",
+    "birth_place": "Whitechapel, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Folkestone, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11693.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "158",
+        "bat avg": "7.18",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "deliveries": "602",
+        "wickets": "38",
+        "bowl avg": "?",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "6/?",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1842&ndash;1843",
+        "Middlesex": "1850&ndash;1851"
+    }
+}

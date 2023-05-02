@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "William Arnot Ellis",
+    "birth_place": "Bo'ness, West Lothian, Scotland",
+    "death_date": "2015",
+    "death_place": "Larbert, Stirlingshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/william-ellis-25200 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1954"
+    }
+}

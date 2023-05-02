@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "William Henry Rist",
+    "birth_place": "Guildford, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/255541.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "2006",
+        "Cambridge UCCE": "2007&ndash;2008"
+    },
+    "birth_date": "1987-3-22"
+}

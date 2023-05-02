@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "William Murdoch Ross Drinnan",
+    "birth_place": "St Quivox, Ayrshire, Scotland",
+    "death_date": "1948",
+    "death_place": "Ayr, Ayrshire, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/william-drinnan-25191 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "168",
+        "wickets": "3",
+        "bowl avg": "34.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/43",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1932"
+    }
+}

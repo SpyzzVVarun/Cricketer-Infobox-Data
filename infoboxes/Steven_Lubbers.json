@@ -1,0 +1,50 @@
+{
+    "name": "Steven Lubbers",
+    "country": "Netherlands",
+    "fullname": "Steven Willem Lubbers",
+    "birth_place": "Netherlands",
+    "internationalspan": "1996",
+    "odidebutdate": "17 February",
+    "odidebutyear": "1996",
+    "odidebutagainst": "New Zealand",
+    "odicap": "8",
+    "lastodidate": "5 March",
+    "lastodiyear": "1996",
+    "lastodiagainst": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/netherlands/content/player/24920.html Cricinfo ",
+    "ODI": {
+        "matches": "4",
+        "runs": "24",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "216",
+        "wickets": "5",
+        "bowl avg": "37.39",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/48",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "58",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "288",
+        "wickets": "7",
+        "bowl avg": "35.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/48",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Hermes DVS": ""
+    },
+    "birth_date": "1953-3-24"
+}

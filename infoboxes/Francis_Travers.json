@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Francis Guy Travers",
+    "birth_place": "Birkenhead, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Kensington, London,, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/35382.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "835",
+        "bat avg": "33.40",
+        "100s/50s": "2/2",
+        "deliveries": "759",
+        "wickets": "6",
+        "bowl avg": "67.16",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/23",
+        "catches/stumpings": "28/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1911",
+        "Europeans": "1920/21&ndash;1928/29",
+        "Bombay": "1926/27"
+    }
+}

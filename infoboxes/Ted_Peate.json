@@ -1,0 +1,50 @@
+{
+    "name": "Ted Peate",
+    "country": "England",
+    "fullname": "Edmund Peate",
+    "birth_place": "Holbeck, Yorkshire, England",
+    "death_date": "1900",
+    "death_place": "Horsforth, Yorks., England",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1881",
+    "testdebutagainst": "Australia",
+    "testcap": "32",
+    "lasttestdate": "7 July",
+    "lasttestyear": "1886",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/59/59.html CricketArchive ",
+    "Test": {
+        "matches": "9",
+        "runs": "70",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "2,096",
+        "wickets": "31",
+        "bowl avg": "22.03",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/85",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "209",
+        "runs": "2,384",
+        "bat avg": "10.64",
+        "100s/50s": "0/3",
+        "top score": "95",
+        "deliveries": "47,116",
+        "wickets": "1,076",
+        "bowl avg": "13.49",
+        "fivefor": "94",
+        "tenfor": "27",
+        "best bowling": "8/5",
+        "catches/stumpings": "132/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1879\u20131887"
+    },
+    "birth_date": "1855-3-2"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Jack Bowles",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://cricketarchive.co.uk/Archive/Players/28/28048/28048.html CricketArchive",
+    "First-class": {
+        "matches": "80",
+        "runs": "1,392",
+        "bat avg": "11.50",
+        "100s/50s": "0/2",
+        "top score": "73",
+        "deliveries": "5,920",
+        "wickets": "83",
+        "bowl avg": "41.65",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/56",
+        "catches/stumpings": "48/1"
+    },
+    "clubs": {}
+}

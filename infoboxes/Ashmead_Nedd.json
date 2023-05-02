@@ -1,0 +1,42 @@
+{
+    "name": "Ashmead Nedd",
+    "fullname": "Ashmead Romano Nedd",
+    "birth_place": "Guyana",
+    "batting": "Right-hand bat",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1131647.html Cricinfo ",
+    "LA": {
+        "matches": "12",
+        "runs": "20",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "549",
+        "wickets": "17",
+        "bowl avg": "18.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/29",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "7",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "deliveries": "137",
+        "wickets": "3",
+        "bowl avg": "43.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Guyana Amazon Warriors( 41 )": "2020\u2013present",
+        "Leeward Islands": "2020-present",
+        "West Indies Academy": "2023"
+    },
+    "birth_date": "2001-1-10"
+}

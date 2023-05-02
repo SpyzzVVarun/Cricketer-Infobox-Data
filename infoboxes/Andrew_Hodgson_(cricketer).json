@@ -1,0 +1,41 @@
+{
+    "name": "Andrew Hodgson",
+    "country": "England",
+    "fullname": "Andrew Sabin Hodgson",
+    "birth_place": "Auckland, Auckland Region, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/45535.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "950",
+        "wickets": "10",
+        "bowl avg": "32.90",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "37.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/37",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dorset": "1972\u20131973, 1976\u20131977 & 1979\u20131980",
+        "Western Province": "1967\u20131968"
+    },
+    "birth_date": "1941-9-16"
+}

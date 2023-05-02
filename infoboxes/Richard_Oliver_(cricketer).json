@@ -1,0 +1,48 @@
+{
+    "name": "Richard Oliver",
+    "country": "England",
+    "fullname": "Richard Kenneth Oliver",
+    "birth_place": "Stoke-on-Trent, Staffordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "29 June",
+    "debutyear1": "2014",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Glamorgan",
+    "type2": "LA",
+    "debutdate2": "27 July",
+    "debutyear2": "2014",
+    "debutfor2": "Worcestershire",
+    "debutagainst2": "Essex",
+    "source": "https://cricketarchive.com/Archive/Players/235/235648/235648.html CricketArchive ",
+    "FC": {
+        "matches": "20",
+        "runs": "1,052",
+        "bat avg": "29.22",
+        "100s/50s": "2/5",
+        "top score": "179",
+        "catches/stumpings": "10/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "66",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "472",
+        "bat avg": "22.47",
+        "100s/50s": "0/2",
+        "top score": "77",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Shropshire": "2008\u20132014, 2016",
+        "Worcestershire( 43 )": "2014\u20132015"
+    },
+    "birth_date": "1989-11-14"
+}

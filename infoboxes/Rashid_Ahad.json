@@ -1,0 +1,20 @@
+{
+    "name": "Rashid Ahad",
+    "fullname": "Abdul Rashid Bin Ahad",
+    "birth_place": "Negeri Sembilan, Malaysia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "country": "Malaysia",
+    "source": "http://espncricinfo.com/ci/content/player/328084.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1990-03-20",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

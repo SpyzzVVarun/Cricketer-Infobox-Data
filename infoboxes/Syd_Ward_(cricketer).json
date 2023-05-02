@@ -1,0 +1,29 @@
+{
+    "name": "Syd Ward",
+    "country": "New Zealand",
+    "fullname": "Sydney William Ward",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "2010",
+    "death_place": "Featherston, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/38794.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "282",
+        "bat avg": "14.84",
+        "100s/50s": "\u2013/1",
+        "top score": "61",
+        "deliveries": "36",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/-"
+    },
+    "clubs": {
+        "Wellington": "1929/30\u20131937/38"
+    },
+    "birth_date": "1907-8-5"
+}

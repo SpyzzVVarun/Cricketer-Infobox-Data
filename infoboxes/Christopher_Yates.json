@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Christopher Joseph Yates",
+    "nickname": "Donkey",
+    "birth_place": "Aldershot, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/23538.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "22",
+        "deliveries": "90",
+        "wickets": "4",
+        "bowl avg": "9.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/17",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "2000&ndash;2001"
+    },
+    "birth_date": "1981-8-10"
+}

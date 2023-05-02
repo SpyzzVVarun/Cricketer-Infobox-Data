@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Henry Wright",
+    "birth_place": "Drayton Parslow, Buckinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Pimlico, London, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23244.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "1.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1866"
+    }
+}

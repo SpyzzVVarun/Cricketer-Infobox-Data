@@ -1,0 +1,21 @@
+{
+    "name": "Arthur Butcher",
+    "fullname": "Arthur Butcher",
+    "birth_place": "Tring, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/10217.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1895\u20131909",
+        "Marylebone Cricket Club": "1902\u20131905"
+    }
+}

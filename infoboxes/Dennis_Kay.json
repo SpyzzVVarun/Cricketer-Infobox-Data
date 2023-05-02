@@ -1,0 +1,43 @@
+{
+    "name": "Dennis Kay",
+    "fullname": "Dennis Jon Kay",
+    "birth_place": "Palmerston North, New Zealand",
+    "death_date": "2007",
+    "death_place": "Palmerston North, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Opening bowler",
+    "source": "https://www.espncricinfo.com/cricketers/dennis-kay-37544 Cricinfo ",
+    "FC": {
+        "matches": "15",
+        "runs": "107",
+        "bat avg": "8.91",
+        "100s/50s": "0/0",
+        "top score": "39 not out",
+        "deliveries": "2514",
+        "wickets": "48",
+        "bowl avg": "22.41",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/62",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "top score": "0 not out",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "25.50",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "1/18",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Central Districts": "1974/75\u20131977/78"
+    },
+    "birth_date": "1948-4-12"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Ernest Simpson",
+    "full_name": "Ernest Herbert Simpson",
+    "birth_place": "Clapton, London, England",
+    "death_date": "df=yes",
+    "death_place": "St. Omer, France",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Charles Cooper (brother-in-law)",
+    "type1": "FC",
+    "debutdate1": "18 May",
+    "debutyear1": "1896",
+    "debutfor1": "Kent",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "18 June",
+    "lastyear1": "1896",
+    "lastfor1": "Kent",
+    "lastagainst1": "Sussex",
+    "source": "https://www.espncricinfo.com/player/ernest-simpson-20775 CricInfo",
+    "First-class": {
+        "matches": "7",
+        "runs": "219",
+        "bat avg": "15.64",
+        "100s/50s": "0/1",
+        "top score": "94",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1896"
+    },
+    "birth_date": "1875-12-17"
+}

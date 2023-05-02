@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Dennis Constable",
+    "birth_place": "East Molesey, Surrey, England",
+    "death_date": "November 2011",
+    "death_place": "Basingstoke, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Bernie Constable (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/11275.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {
+        "Northamptonshire": "1949"
+    },
+    "birth_date": "1925-8-4"
+}

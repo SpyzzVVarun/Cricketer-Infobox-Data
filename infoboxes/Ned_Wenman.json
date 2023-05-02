@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "birth_place": "Benenden, Kent, England",
+    "death_date": "28 December 1879 (aged 76)",
+    "death_place": "Benenden, Kent, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/22860.html CricInfo ",
+    "First-class": {
+        "matches": "146",
+        "runs": "3,204",
+        "bat avg": "13.35",
+        "100s/50s": "0/0",
+        "top score": "73",
+        "deliveries": "3,328",
+        "wickets": "45",
+        "bowl avg": "\u2013name=balls",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/\u2013name=balls",
+        "catches/stumpings": "118/87"
+    },
+    "clubs": {
+        "Kent county cricket teams": "1825\u20131842",
+        "Kent County Cricket Club": "1842\u20131854"
+    }
+}

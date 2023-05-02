@@ -1,0 +1,53 @@
+{
+    "name": "Sirajullah Khadim",
+    "country": "Portugal",
+    "fullname": "Sirajullah Khadim",
+    "birth_place": "Brahmanbaria, Bangladesh",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "T20Idebutdate": "19 August",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Malta",
+    "T20Icap": "18",
+    "lastT20Idate": "4 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Denmark",
+    "source": "http://www.espncricinfo.com/ci/content/player/56161.html Cricinfo ",
+    "T20I": {
+        "matches": "4",
+        "runs": "1",
+        "bat avg": "1",
+        "100s/50s": "0/0",
+        "deliveries": "96",
+        "wickets": "9",
+        "bowl avg": "8.44",
+        "best bowling": "3/16",
+        "catches/stumpings": ";"
+    },
+    "FC": {
+        "matches": "6",
+        "runs": "89",
+        "bat avg": "8.90",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "300",
+        "wickets": "1",
+        "bowl avg": "174.00",
+        "best bowling": "1/77"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "89",
+        "bat avg": "12.71",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "57.00",
+        "best bowling": "1/12"
+    },
+    "clubs": {
+        "Sylhet Division": "2005-2009"
+    },
+    "birth_date": "1988-6-10"
+}

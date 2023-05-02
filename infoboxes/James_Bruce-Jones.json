@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "James Bruce-Jones",
+    "birth_place": "Larbert, Stirlingshire, Scotland",
+    "death_date": "1943",
+    "death_place": "Enfidaville, French Tunisia",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/james-jones-25248 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "91",
+        "bat avg": "22.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1936&ndash;1937"
+    }
+}

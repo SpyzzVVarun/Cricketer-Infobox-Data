@@ -1,0 +1,26 @@
+{
+    "name": "Jake Winter",
+    "fullname": "Jake Liam Winter",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Opening batsman",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "8 December",
+    "debutyear1": "2016",
+    "debutfor1": "Cricket Australia XI",
+    "debutagainst1": "Pakistanis",
+    "source": "http://www.espncricinfo.com/ci/content/player/774229.html Cricinfo",
+    "FC": {
+        "matches": "1",
+        "runs": "39",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {
+        "South Australia": "2017"
+    },
+    "birth_date": "1997-06-02"
+}

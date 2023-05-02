@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Gordon Arthur Orford",
+    "birth_place": "Thornton Heath, Surrey, England",
+    "death_date": "2004",
+    "death_place": "Truro, Cornwall, England",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/gordon-orford-32113 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1943/44"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Sydney Hollands",
+    "birth_place": "East Grinstead, Sussex, England",
+    "death_date": "1949",
+    "death_place": "Croydon, Surrey, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/14902.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "154",
+        "bat avg": "7.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1887&ndash;1893"
+    },
+    "birth_date": "1866-1-24"
+}

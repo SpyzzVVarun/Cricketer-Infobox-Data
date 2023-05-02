@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Thomas Lloyd Robinson",
+    "birth_place": "Swansea, Glamorgan, Wales",
+    "death_date": "1996",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/19448.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "27",
+        "bat avg": "4.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "552",
+        "wickets": "6",
+        "bowl avg": "46.16",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/74",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1946"
+    }
+}

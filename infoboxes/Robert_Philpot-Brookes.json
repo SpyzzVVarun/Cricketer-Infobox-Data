@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Robert Francis Hugh Philpot-Brookes",
+    "birth_place": "Fulham, London, England",
+    "death_date": "df=yes",
+    "death_place": "Mont-Saint-\u00c9loi, Nord, France",
+    "batting": "Right-hand bat",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/india/content/player/32461.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "185",
+        "bat avg": "46.25",
+        "100s/50s": "1/-",
+        "top score": "17",
+        "deliveries": "876",
+        "wickets": "11",
+        "bowl avg": "42.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Europeans (India)": "1938/1939"
+    }
+}

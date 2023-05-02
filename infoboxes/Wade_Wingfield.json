@@ -1,0 +1,50 @@
+{
+    "name": "Wade Wingfield",
+    "fullname": "Wade Richard Wingfield",
+    "birth_place": "Scottburgh, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "debutdate1": "30 October",
+    "debutyear1": "1997",
+    "debutfor1": "Natal B",
+    "debutagainst1": "Western Province B",
+    "lastdate1": "2 February",
+    "lastyear1": "2006",
+    "lastfor1": "KwaZulu-Natal",
+    "lastagainst1": "Western Province",
+    "source": "https://cricketarchive.com/Archive/Players/7/7516/7516.html CricketArchive ",
+    "First-class": {
+        "matches": "43",
+        "runs": "1,936",
+        "bat avg": "35.85",
+        "100s/50s": "1/10",
+        "deliveries": "2,202",
+        "wickets": "23",
+        "bowl avg": "46.95",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18",
+        "catches/stumpings": "20/\u2013"
+    },
+    "List A": {
+        "matches": "66",
+        "runs": "1,479",
+        "bat avg": "32.86",
+        "100s/50s": "0/9",
+        "top score": "85",
+        "deliveries": "1,602",
+        "wickets": "42",
+        "bowl avg": "30.95",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "KwaZulu-Natal": "2004/05\u20132005/06",
+        "Eastern Province": "2002/03\u20132003/04",
+        "Dolphins": "2003/04\u20132004/05"
+    },
+    "birth_date": "1977-12-17"
+}

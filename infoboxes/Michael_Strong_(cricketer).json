@@ -1,0 +1,42 @@
+{
+    "name": "Michael Strong",
+    "country": "England",
+    "fullname": "Michael Richard Strong",
+    "birth_place": "Cuckfield, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/20391.html CricInfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "235",
+        "bat avg": "15.66",
+        "100s/50s": "0/0",
+        "deliveries": "2,297",
+        "wickets": "31",
+        "bowl avg": "46.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/46",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "19",
+        "runs": "63",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "860",
+        "wickets": "31",
+        "bowl avg": "25.58",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/39",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1996&ndash;1999",
+        "Northamptonshire": "2000&ndash;2001"
+    },
+    "birth_date": "1974-6-28"
+}

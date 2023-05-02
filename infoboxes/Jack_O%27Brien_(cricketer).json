@@ -1,0 +1,26 @@
+{
+    "name": "Jack O'Brien",
+    "fullname": "John Joseph O'Brien",
+    "death_date": "20 1939",
+    "death_place": "Napier, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38078.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "314",
+        "bat avg": "13.65",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "wickets": "27",
+        "bowl avg": "27.22",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/55",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Hawke's Bay": "1905-06 to 1920-21"
+    },
+    "birth_date": "1886"
+}

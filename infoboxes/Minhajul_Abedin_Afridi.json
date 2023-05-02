@@ -1,0 +1,19 @@
+{
+    "name": "Minhajul Abedin Afridi",
+    "fullname": "Minhajul Abedin Afridi",
+    "birth_place": "Chittagong, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "source": "http://www.espncricinfo.com/ci/content/player/1163753.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1999-2-5",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Ernest James de Veuille Coxon",
+    "birth_place": "Bishop's Hull, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Neuilly-sur-Seine, Hauts-de-Seine, France",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11390.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "31",
+        "bat avg": "15.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "15",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

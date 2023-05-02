@@ -1,0 +1,50 @@
+{
+    "name": "Brian Booth",
+    "country": "Australia",
+    "fullname": "Brian Charles Booth MBE",
+    "nickname": "Sam",
+    "birth_place": "Perthville, South Wales, Australia",
+    "heightm": "1.81",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "Middle-order batsman",
+    "testdebutdate": "27 July",
+    "testdebutyear": "1961",
+    "testdebutagainst": "England",
+    "testcap": "221",
+    "lasttestdate": "7 January",
+    "lasttestyear": "1966",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/1/1153/1153.html CricketArchive ",
+    "Test": {
+        "matches": "29",
+        "runs": "1,773",
+        "bat avg": "42.21",
+        "100s/50s": "5/10",
+        "top score": "169",
+        "deliveries": "436",
+        "wickets": "3",
+        "bowl avg": "48.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/33",
+        "catches/stumpings": "17/0"
+    },
+    "FC": {
+        "matches": "183",
+        "runs": "11,265",
+        "bat avg": "45.42",
+        "100s/50s": "26/60",
+        "deliveries": "2,112",
+        "wickets": "16",
+        "bowl avg": "59.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/29",
+        "catches/stumpings": "119/0"
+    },
+    "clubs": {
+        "New South Wales": "1954/55\u20131968/69"
+    },
+    "birth_date": "1933-10-19"
+}

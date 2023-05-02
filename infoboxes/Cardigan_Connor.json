@@ -1,0 +1,45 @@
+{
+    "name": "Cardigan Connor",
+    "country": "West Indies",
+    "fullname": "Cardigan Adolphus Connor",
+    "nickname": "Christy, Cardy",
+    "birth_place": "The Valley, Anguilla",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/10784.html Cricinfo ",
+    "FC": {
+        "matches": "221",
+        "runs": "1,814",
+        "bat avg": "11.93",
+        "100s/50s": "\u2013/2",
+        "top score": "59",
+        "deliveries": "37,397",
+        "wickets": "614",
+        "bowl avg": "31.74",
+        "fivefor": "18",
+        "tenfor": "4",
+        "best bowling": "9/38",
+        "catches/stumpings": "61/\u2013"
+    },
+    "LA": {
+        "matches": "300",
+        "runs": "335",
+        "bat avg": "6.32",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "14,625",
+        "wickets": "411",
+        "bowl avg": "25.07",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/25",
+        "catches/stumpings": "55/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1984\u20131998",
+        "Buckinghamshire": "1979\u20131984"
+    },
+    "birth_date": "1961-3-24"
+}

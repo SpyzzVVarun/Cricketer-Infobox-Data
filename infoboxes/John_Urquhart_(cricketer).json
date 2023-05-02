@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Rankin Urquhart",
+    "birth_place": "Chelmsford, Essex, England",
+    "death_date": "2003",
+    "death_place": "Melbourne, Victoria, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/22164.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "13",
+        "bat avg": "3.25",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "634",
+        "wickets": "15",
+        "bowl avg": "15.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/21",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1948"
+    }
+}

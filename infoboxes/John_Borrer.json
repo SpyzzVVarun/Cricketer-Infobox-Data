@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Hamlin Borrer",
+    "birth_place": "Henfield, Sussex, England",
+    "death_date": "1854",
+    "death_place": "Henfield, Sussex, England",
+    "source": "http://www.espncricinfo.com/ci/content/player/10485.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "37",
+        "bat avg": "7.40",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1838",
+        "Oxford University": "1837\u20131838"
+    }
+}

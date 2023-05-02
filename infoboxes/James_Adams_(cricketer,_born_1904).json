@@ -1,0 +1,20 @@
+{
+    "name": "James Adams",
+    "country": "Australia",
+    "fullname": "James Adams",
+    "birth_place": "Toowong, Brisbane, Queensland",
+    "death_date": "1988",
+    "death_place": "Willoughby, New South Wales",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/australia/content/player/3936.html ESPNCricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "12.5",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {},
+    "birth_date": "1904-02-22"
+}

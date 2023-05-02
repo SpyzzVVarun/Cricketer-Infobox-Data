@@ -1,0 +1,43 @@
+{
+    "name": "Jenny Taffs",
+    "female": "true",
+    "full_name": "Jennifer E Taffs",
+    "birth_place": "Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/955/955095/955095.html CricketArchive",
+    "WLA": {
+        "matches": "9",
+        "runs": "151",
+        "bat avg": "25.16",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "94",
+        "wickets": "2",
+        "bowl avg": "50.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WT20": {
+        "matches": "28",
+        "runs": "290",
+        "bat avg": "13.80",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "72",
+        "wickets": "4",
+        "bowl avg": "23.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Australian Capital Territory": "2013/14\u20132015/16",
+        "Melbourne Renegades": "2015/16"
+    },
+    "birth_date": "{{birth year and age|1995}}"
+}

@@ -1,0 +1,24 @@
+{
+    "country": "Scotland",
+    "fullname": "William John Foster",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/13161.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "79",
+        "bat avg": "19.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1934-2-3"
+}

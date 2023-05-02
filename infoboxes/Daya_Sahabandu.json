@@ -1,0 +1,27 @@
+{
+    "name": "Daya Sahabandu",
+    "country": "Sri Lanka",
+    "fullname": "Dayananda Sahabandu",
+    "birth_place": "Colombo, Ceylon",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm orthodox, left-arm Slow left-arm orthodox, left-arm slow-medium",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50599.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "78",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "32 not out",
+        "deliveries": "4824",
+        "wickets": "87",
+        "bowl avg": "19.49",
+        "fivefor": "6",
+        "tenfor": "2",
+        "best bowling": "8/37",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {},
+    "birth_date": "1940-3-28"
+}

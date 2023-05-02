@@ -1,0 +1,46 @@
+{
+    "name": "Hartley Alleyne",
+    "fullname": "Hartley Leroy Alleyne",
+    "birth_place": "Derricks, Saint James, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/westindies/content/player/51120.html CricInfo ",
+    "First-class": {
+        "matches": "85",
+        "runs": "709",
+        "bat avg": "9.98",
+        "100s/50s": "0/1",
+        "top score": "72",
+        "deliveries": "13,278",
+        "wickets": "254",
+        "bowl avg": "27.66",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "8/43",
+        "catches/stumpings": "17/\u2013"
+    },
+    "List A": {
+        "matches": "102",
+        "runs": "306",
+        "bat avg": "9.56",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "5,084",
+        "wickets": "146",
+        "bowl avg": "22.45",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/24",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1978/79&ndash;1981/82",
+        "Lincolnshire": "1979",
+        "Worcestershire": "1980&ndash;1982",
+        "Buckinghamshire": "1984&ndash;1985",
+        "Natal": "1984/85&ndash;1989/90",
+        "Kent": "1988&ndash;1989"
+    },
+    "birth_date": "1957-2-28"
+}

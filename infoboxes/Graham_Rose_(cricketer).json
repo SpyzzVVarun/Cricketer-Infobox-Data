@@ -1,0 +1,41 @@
+{
+    "name": "Graham Rose",
+    "fullname": "Graham David Rose",
+    "birth_place": "Tottenham, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "https://cricketarchive.com/Archive/Players/3/3797/3797.html CricketArchive ",
+    "FC": {
+        "matches": "251",
+        "runs": "8737",
+        "bat avg": "30.76",
+        "100s/50s": "11/41",
+        "top score": "191",
+        "deliveries": "34326",
+        "wickets": "604",
+        "bowl avg": "29.74",
+        "fivefor": "15",
+        "tenfor": "1",
+        "best bowling": "7/47",
+        "catches/stumpings": "117/&ndash;"
+    },
+    "LA": {
+        "matches": "295",
+        "runs": "5044",
+        "bat avg": "23.79",
+        "100s/50s": "2/24",
+        "top score": "148",
+        "deliveries": "12745",
+        "wickets": "303",
+        "bowl avg": "29.65",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/16",
+        "catches/stumpings": "68/&ndash;"
+    },
+    "clubs": {
+        "Middlesex": "1983&ndash;1986",
+        "Somerset": "1987&ndash;2002"
+    },
+    "birth_date": "1964-4-12"
+}

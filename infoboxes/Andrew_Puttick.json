@@ -1,0 +1,47 @@
+{
+    "name": "Andrew Puttick",
+    "full_name": "Andrew George Puttick",
+    "birth_place": "Cape Town, Cape Province, South Africa",
+    "nickname": "Boom",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "country": "South Africa",
+    "oneodi": "true",
+    "odidebutdate": "28 October",
+    "odidebutyear": "2005",
+    "odidebutagainst": "New Zealand",
+    "odicap": "79",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/46797.html CricInfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "173",
+        "runs": "10,956",
+        "bat avg": "40.27",
+        "100s/50s": "27/46",
+        "catches/stumpings": "203/2"
+    },
+    "LA": {
+        "matches": "172",
+        "runs": "5,288",
+        "bat avg": "36.21",
+        "100s/50s": "12/30",
+        "top score": "143",
+        "catches/stumpings": "108/8"
+    },
+    "T20": {
+        "matches": "83",
+        "runs": "1,791",
+        "bat avg": "25.58",
+        "100s/50s": "1/9",
+        "catches/stumpings": "26/6"
+    },
+    "clubs": {},
+    "birth_date": "1980-12-11"
+}

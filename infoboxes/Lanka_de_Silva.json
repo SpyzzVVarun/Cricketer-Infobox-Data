@@ -1,0 +1,42 @@
+{
+    "name": "Lanka de Silva",
+    "country": "Sri Lanka",
+    "fullname": "Sanjeewa Kumara Lanka de Silva",
+    "birth_place": "Kurunegala",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Wicket-keeper",
+    "internationalspan": "1997-1997",
+    "testdebutdate": "19 November",
+    "testdebutyear": "1997",
+    "testdebutagainst": "India",
+    "testcap": "70",
+    "lasttestdate": "3 December",
+    "lasttestyear": "1997",
+    "lasttestagainst": "India",
+    "odidebutdate": "18 July",
+    "odidebutyear": "1997",
+    "odidebutagainst": "India",
+    "odicap": "90",
+    "lastodidate": "8 November",
+    "lastodiyear": "1997",
+    "lastodiagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/48465.html Cricinfo  ",
+    "Test": {
+        "matches": "3",
+        "runs": "36",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "11",
+        "runs": "161",
+        "bat avg": "53.66",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "catches/stumpings": "9/6"
+    },
+    "clubs": {},
+    "birth_date": "1975-07-29"
+}

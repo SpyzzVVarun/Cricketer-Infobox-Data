@@ -1,0 +1,28 @@
+{
+    "name": "Cecil Bodington",
+    "country": "England",
+    "fullname": "Cecil Herbert Bodington",
+    "birth_place": "Suffield, Norfolk, England",
+    "death_date": "1917",
+    "death_place": "Near Arras, Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/9138.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "154",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "375",
+        "wickets": "9",
+        "bowl avg": "31.88",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/19",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1901\u20131902"
+    }
+}

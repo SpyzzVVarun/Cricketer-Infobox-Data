@@ -1,0 +1,43 @@
+{
+    "name": "Dennis Gamsy",
+    "birth_place": "Glenwood, Natal, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "country": "South Africa",
+    "testdebutdate": "22 January",
+    "testdebutyear": "1970",
+    "lasttestdate": "5 February",
+    "lasttestyear": "1970",
+    "source": "http://www.espncricinfo.com/ci/content/player/45214.html Cricinfo",
+    "Tests": {
+        "matches": "2",
+        "runs": "39",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/-"
+    },
+    "First-class": {
+        "matches": "93",
+        "runs": "3106",
+        "bat avg": "23.70",
+        "100s/50s": "2/18",
+        "top score": "137",
+        "deliveries": "7",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "278/33"
+    },
+    "clubs": {
+        "Natal": "1958-59 to 1972-73"
+    },
+    "birth_date": "1940-2-17"
+}

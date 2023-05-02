@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Edward Davenport",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Stoke Talmage, Oxfordshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/12053.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "318",
+        "bat avg": "31.80",
+        "100s/50s": "1/2",
+        "top score": "107",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Oxford University": "1864&ndash;1866"
+    }
+}

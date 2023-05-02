@@ -1,0 +1,29 @@
+{
+    "name": "William Dodd",
+    "country": "England",
+    "fullname": "William Thomas Francis Dodd",
+    "birth_place": "Steep, Hampshire, England",
+    "death_date": "1993",
+    "death_place": "New Forest, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/11908.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "95",
+        "bat avg": "6.78",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "698",
+        "wickets": "10",
+        "bowl avg": "32.10",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/63",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1931\u20131935"
+    },
+    "birth_date": "1908-3-8"
+}

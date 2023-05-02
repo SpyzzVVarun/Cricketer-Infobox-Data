@@ -1,0 +1,33 @@
+{
+    "name": "Umesha Thimashini",
+    "female": "true",
+    "country": "Sri Lanka",
+    "fullname": "Umesha Nimeshani Thimashini",
+    "birth_place": "Rathgama, Galle, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "oneodi": "true",
+    "odidebutdate": "11 February",
+    "odidebutyear": "2019",
+    "odidebutagainst": "South Africa",
+    "odicap": "71",
+    "T20Idebutdate": "1 February",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "46",
+    "lastT20Idate": "2 March",
+    "lastT20Iyear": "2020",
+    "lastT20Iagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/924287.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "2001-4-24",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

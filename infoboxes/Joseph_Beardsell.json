@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Joseph Bentley Beardsell",
+    "birth_place": "Stockport, Lancashire, England",
+    "death_date": "1978",
+    "death_place": "Madras, Tamil Nadu, India",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/27035.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1947/48"
+    }
+}

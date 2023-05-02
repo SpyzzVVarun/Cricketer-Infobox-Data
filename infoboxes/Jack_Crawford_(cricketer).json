@@ -1,0 +1,53 @@
+{
+    "name": "Jack Crawford",
+    "country": "England",
+    "fullname": "John Neville Crawford",
+    "birth_place": "Cane Hill, Surrey, England",
+    "death_date": "1963",
+    "death_place": "Epsom, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm off Right-arm medium Right-arm off spin",
+    "role": "All-rounder",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "2 January",
+    "testdebutyear": "1906",
+    "lasttestagainst": "Australia",
+    "lasttestdate": "27 February",
+    "lasttestyear": "1908",
+    "testcap": "146",
+    "source": "https://cricketarchive.com/Archive/Players/0/284/284.html CricketArchive ",
+    "Test": {
+        "matches": "12",
+        "runs": "469",
+        "bat avg": "22.33",
+        "100s/50s": "0/2",
+        "top score": "74",
+        "deliveries": "2,203",
+        "wickets": "39",
+        "bowl avg": "29.48",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/48",
+        "catches/stumpings": "13/0"
+    },
+    "First-class": {
+        "matches": "210",
+        "runs": "9,488",
+        "bat avg": "32.60",
+        "100s/50s": "15/43",
+        "top score": "232",
+        "deliveries": "35,423",
+        "wickets": "815",
+        "bowl avg": "20.66",
+        "fivefor": "57",
+        "tenfor": "12",
+        "best bowling": "8/24",
+        "catches/stumpings": "162/0"
+    },
+    "clubs": {
+        "Surrey": "1919\u20131921",
+        "South Australia": "1909/10\u20131913/14",
+        "Otago": "1914/15"
+    },
+    "birth_date": "1886-12-1"
+}

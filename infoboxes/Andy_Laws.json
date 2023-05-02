@@ -1,0 +1,27 @@
+{
+    "name": "Andy Laws",
+    "fullname": "Andrew Robert Laws",
+    "birth_place": "Reigate, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/416717.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "24.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/17",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "2009\u20132018",
+        "Leeds/Bradford MCCU": "2014"
+    },
+    "birth_date": "1991-9-21"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "New Zealand",
+    "fullname": "Herbert Hastings Sharp",
+    "birth_place": "Blackheath, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Bancourt, Pas-de-Calais, France",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/38476.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hawke's Bay": "1904/05"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Jack Board",
+    "fullname": "John Henry Board",
+    "birth_place": "Clifton, Bristol",
+    "death_date": "1924",
+    "death_place": "At sea",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "14 February",
+    "testdebutyear": "1899",
+    "lasttestdate": "30 March",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1906",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/9136.html Cricinfo",
+    "Test": {
+        "matches": "6",
+        "runs": "108",
+        "bat avg": "10.80",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "8/3"
+    },
+    "First-class": {
+        "matches": "525",
+        "runs": "15,674",
+        "bat avg": "19.37",
+        "100s/50s": "9/64",
+        "top score": "214",
+        "catches/stumpings": "851/355"
+    },
+    "clubs": {
+        "Gloucestershire": "1891\u20131914",
+        "London County": "1900\u20131904",
+        "Hawke's Bay": "1910/11\u20131913/14"
+    },
+    "birth_date": "1867-2-23"
+}

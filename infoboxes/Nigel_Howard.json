@@ -1,0 +1,51 @@
+{
+    "name": "Nigel Howard",
+    "country": "England",
+    "fullname": "Nigel David Howard",
+    "birth_place": "Gee Cross, Hyde, Cheshire, England",
+    "death_date": "1979",
+    "death_place": "Douglas, Isle of Man",
+    "role": "Batsman",
+    "batting": "Right-handed",
+    "testdebutdate": "2 November",
+    "testdebutyear": "1951",
+    "testdebutagainst": "India",
+    "testcap": "363",
+    "lasttestdate": "14 January",
+    "lasttestyear": "1952",
+    "lasttestagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/0/903/903.html CricketArchive ",
+    "Tests": {
+        "matches": "4",
+        "runs": "86",
+        "bat avg": "17.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "FC": {
+        "matches": "198",
+        "runs": "6,152",
+        "bat avg": "24.70",
+        "100s/50s": "3/36",
+        "top score": "145",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "52.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/14",
+        "catches/stumpings": "153/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1946\u20131953",
+        "Marylebone Cricket Club (MCC)": "1949\u20131954"
+    },
+    "birth_date": "1925-5-18"
+}

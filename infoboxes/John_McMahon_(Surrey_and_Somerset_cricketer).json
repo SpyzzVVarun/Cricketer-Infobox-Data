@@ -1,0 +1,39 @@
+{
+    "name": "John McMahon",
+    "fullname": "John William Joseph McMahon",
+    "birth_place": "Balaklava, South Australia",
+    "death_date": "2001",
+    "death_place": "Islington, London",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "7 June",
+    "debutyear1": "1947",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "30 August",
+    "lastyear1": "1957",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3714/3714.html CricketArchive ",
+    "First-class": {
+        "matches": "201",
+        "runs": "989",
+        "bat avg": "6.18",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "37,038",
+        "wickets": "590",
+        "bowl avg": "27.60",
+        "fivefor": "30",
+        "tenfor": "2",
+        "best bowling": "8/46",
+        "catches/stumpings": "109/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1947\u20131953",
+        "Somerset": "1954\u20131957"
+    },
+    "birth_date": "1917-12-28"
+}

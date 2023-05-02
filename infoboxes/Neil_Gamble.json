@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Neil Walton Gamble",
+    "birth_place": "Macclesfield, Cheshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/westindies/content/player/13551.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "87",
+        "bat avg": "7.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "1,384",
+        "wickets": "19",
+        "bowl avg": "41.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/57",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1967",
+        "Cheshire": "1965&ndash;1973"
+    },
+    "birth_date": "1943-1-17"
+}

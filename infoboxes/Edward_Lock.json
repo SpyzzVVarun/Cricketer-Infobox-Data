@@ -1,0 +1,32 @@
+{
+    "name": "Edward Lock",
+    "country": "England",
+    "fullname": "Edward John Lock",
+    "birth_place": "Taunton, Somerset, England",
+    "death_date": "1949",
+    "death_place": "Taunton, Somerset, England",
+    "batting": "Unknown",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "9 July",
+    "debutyear1": "1891",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "6 July",
+    "lastyear1": "1893",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3689/3689.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1889&ndash;1893"
+    },
+    "birth_date": "1868-11-21"
+}

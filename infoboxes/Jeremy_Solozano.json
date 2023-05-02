@@ -1,0 +1,44 @@
+{
+    "name": "Jeremy Solozano",
+    "country": "West Indies",
+    "birth_place": "Arima, Trinidad",
+    "batting": "Left-handed",
+    "onetest": "true",
+    "testdebutdate": "21 November",
+    "testdebutyear": "2021",
+    "testdebutagainst": "Sri Lanka",
+    "testcap": "327",
+    "source": "http://www.espncricinfo.com/ci/content/player/632168.html Cricinfo ",
+    "FC": {
+        "matches": "40",
+        "runs": "1,686",
+        "bat avg": "23.41",
+        "100s/50s": "2/8",
+        "top score": "110",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "20/\u2013"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "312",
+        "bat avg": "39.00",
+        "100s/50s": "1/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {},
+    "clubs": {
+        "Trinidad and Tobago": "2013-present"
+    },
+    "birth_date": "1995-10-5"
+}

@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Bernard Patrick Dobson",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "death_date": "1936",
+    "death_place": "Crowborough, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/12198.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "159",
+        "bat avg": "14.45",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1912/13"
+    }
+}

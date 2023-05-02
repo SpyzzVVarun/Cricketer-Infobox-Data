@@ -1,0 +1,28 @@
+{
+    "fullname": "John Stuart Pollock",
+    "birth_place": "Belfast, Northern Ireland",
+    "death_date": "df=yes",
+    "death_place": "Downpatrick, Northern Ireland",
+    "family": "William Pollock (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/24493.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "1,036",
+        "bat avg": "25.26",
+        "100s/50s": "1/4",
+        "top score": "129",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1954&ndash;1957",
+        "Ireland": "1939&ndash;1957"
+    }
+}

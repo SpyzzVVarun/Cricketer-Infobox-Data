@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Derek John Lister",
+    "birth_place": "Norwood, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Northampton, Northamptonshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/16596.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "35",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1951",
+        "Cambridge University": "1954"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas Hayes Belcher",
+    "birth_place": "Faringdon, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bramley, Hampshire, England",
+    "family": "Gordon Belcher (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/9654.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "58",
+        "bat avg": "11.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "1,173",
+        "wickets": "20",
+        "bowl avg": "20.57",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/22",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1869&ndash;1870"
+    }
+}

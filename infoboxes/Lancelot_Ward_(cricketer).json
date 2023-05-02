@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Lancelot Bangor Ward",
+    "birth_place": "Shillong, Assam, British India",
+    "death_date": "1959",
+    "death_place": "Cardigan, Cardiganshire, Wales",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "William Ward (father), Edward Ward (uncle)",
+    "source": "https://www.espncricinfo.com/player/lancelot-ward-35950 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "25.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "246",
+        "wickets": "2",
+        "bowl avg": "60.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/28",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1910/11"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Edward Wyndham Hazelton",
+    "birth_place": "Buckingham, Buckinghamshire, England",
+    "death_date": "1958",
+    "death_place": "Great Dunmow, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break, Right-arm Leg break, Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14125.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "77",
+        "bat avg": "6.41",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "43",
+        "deliveries": "1,157",
+        "wickets": "23",
+        "bowl avg": "27.00",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "6/45",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1930",
+        "Minor Counties": "1924",
+        "Essex": "1919",
+        "Buckinghamshire": "1912&ndash;1931"
+    },
+    "birth_date": "1894-5-8"
+}

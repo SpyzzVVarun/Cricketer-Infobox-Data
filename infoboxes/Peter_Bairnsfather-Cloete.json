@@ -1,0 +1,27 @@
+{
+    "country": "South Africa",
+    "fullname": "Peter Henry Bairnsfather Cloete",
+    "birth_place": "Cape Town, Cape Province, South Africa",
+    "death_date": "1942",
+    "death_place": "Kisumu, Kenya Colony",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/44519.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "74",
+        "bat avg": "7.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "deliveries": "1,823",
+        "wickets": "29",
+        "bowl avg": "33.41",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/112",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1936/37&ndash;1939/40"
+    }
+}

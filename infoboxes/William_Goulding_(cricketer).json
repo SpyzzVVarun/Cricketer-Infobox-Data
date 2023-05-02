@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "William Goulding",
+    "birth_place": "Enfield, Middlesex, England",
+    "death_date": "1878",
+    "death_place": "Hampstead, Middlesex, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/13916.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "18",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Middlesex": "1851",
+        "Marylebone Cricket Club": "1862"
+    }
+}

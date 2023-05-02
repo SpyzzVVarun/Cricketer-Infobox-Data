@@ -1,0 +1,44 @@
+{
+    "name": "Paul Romaines",
+    "country": "England",
+    "fullname": "Paul William Romaines",
+    "birth_place": "Bishop Auckland, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/england/content/player/19523.html Cricinfo ",
+    "First-class": {
+        "matches": "173",
+        "runs": "8120",
+        "bat avg": "28.39",
+        "100s/50s": "13/41",
+        "top score": "186",
+        "deliveries": "257",
+        "wickets": "4",
+        "bowl avg": "61.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/42",
+        "catches/stumpings": "68/\u2013"
+    },
+    "List A": {
+        "matches": "158",
+        "runs": "3651",
+        "bat avg": "28.30",
+        "100s/50s": "2/20",
+        "top score": "125",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "1975 to 1976",
+        "Durham": "1977 to 1981",
+        "Gloucestershire": "1982 to 1991",
+        "Griqualand West": "1984-85"
+    },
+    "birth_date": "1955-12-25"
+}

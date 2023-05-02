@@ -1,0 +1,43 @@
+{
+    "name": "Deep Dasgupta",
+    "fullname": "Deep Biplab Dasgupta",
+    "country": "India",
+    "internationalspan": "2001\u20132002",
+    "birth_place": "Calcutta, West Bengal, India",
+    "testdebutdate": "3 November",
+    "testdebutyear": "2001",
+    "testdebutagainst": "South Africa",
+    "testcap": "238",
+    "lasttestdate": "11 April",
+    "lasttestyear": "2002",
+    "lasttestagainst": "West Indies",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2001",
+    "odidebutagainst": "South Africa",
+    "odicap": "139",
+    "lastodidate": "19 October",
+    "lastodiyear": "2001",
+    "lastodiagainst": "South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper-batsman",
+    "source": "https://www.espncricinfo.com/player/deep-dasgupta-28146 Cricinfo ",
+    "Test": {
+        "matches": "8",
+        "runs": "344",
+        "bat avg": "28.67",
+        "100s/50s": "1/2",
+        "top score": "100",
+        "catches/stumpings": "13/0"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "51",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Bengal": "1998/99\u20132009/10"
+    },
+    "birth_date": "1977-06-07"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Trevor Malloch",
+    "honorific_suffix": "country=NZL",
+    "fullname": "Trevor Stuart Malloch",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "2020",
+    "death_place": "Feilding, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/37805.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "432",
+        "wickets": "6",
+        "bowl avg": "30.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/59",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Wellington": "1953/54"
+    },
+    "birth_date": "1928-12-2"
+}

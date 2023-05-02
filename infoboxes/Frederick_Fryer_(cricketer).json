@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Frederick Eustace Reade Fryer",
+    "birth_place": "Holbrook, Suffolk, England",
+    "death_date": "df=y",
+    "death_place": "Poplar, Middlesex, England",
+    "family": "Arthur Lucas (brother-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/13217.html Cricinfo ",
+    "First-class": {
+        "matches": "58",
+        "runs": "2,149",
+        "bat avg": "21.92",
+        "100s/50s": "\u2013/12",
+        "top score": "91",
+        "deliveries": "2,290",
+        "wickets": "39",
+        "bowl avg": "29.00",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/49",
+        "catches/stumpings": "31/-"
+    },
+    "clubs": {
+        "Cambridge University": "1870\u20131873"
+    }
+}

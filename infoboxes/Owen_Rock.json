@@ -1,0 +1,31 @@
+{
+    "name": "Owen Rock",
+    "country": "Australia",
+    "fullname": "Harry Owen Rock",
+    "birth_place": "Scone, New South Wales, Australia",
+    "death_date": "1978",
+    "death_place": "Manly, Sydney",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Claude Rock (father)",
+    "type1": "First-class",
+    "debutdate1": "28 November",
+    "debutyear1": "1924",
+    "debutfor1": "New South Wales",
+    "debutagainst1": "South Australia",
+    "lastdate1": "23 January",
+    "lastyear1": "1926",
+    "lastfor1": "New South Wales",
+    "lastagainst1": "Victoria",
+    "source": "https://cricketarchive.com/Archive/Players/6/6083/6083.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "758",
+        "bat avg": "94.75",
+        "100s/50s": "3/2",
+        "top score": "235",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1896-10-18"
+}

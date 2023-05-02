@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Robert Worboys Skene",
+    "birth_place": "Sutton, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Blickling, Norfolk, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/20790.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "644",
+        "bat avg": "25.76",
+        "100s/50s": "1/2",
+        "top score": "105",
+        "deliveries": "2,628",
+        "wickets": "26",
+        "bowl avg": "47.30",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/53",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1928&ndash;1930"
+    }
+}

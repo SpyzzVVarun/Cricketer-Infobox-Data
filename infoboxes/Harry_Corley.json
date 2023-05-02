@@ -1,0 +1,22 @@
+{
+    "name": "Harry Corley",
+    "country": "Ireland",
+    "fullname": "Harry Cecil Corley",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "1936",
+    "death_place": "Dublin, Leinster, Ireland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/cricketers/harry-corley-24342 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "50",
+        "bat avg": "7.14",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1907&ndash;1909"
+    },
+    "birth_date": "1878-8-15"
+}

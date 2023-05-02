@@ -1,0 +1,24 @@
+{
+    "name": "George Wootton",
+    "birth_place": "Clifton, Nottinghamshire, England",
+    "death_date": "1924",
+    "death_place": "Ruddington, Nottinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/34/34064/34064.html CricketArchive",
+    "First-class": {
+        "matches": "186",
+        "runs": "2,431",
+        "bat avg": "10.43",
+        "100s/50s": "0/5",
+        "deliveries": "36,125",
+        "wickets": "983",
+        "bowl avg": "13.00",
+        "fivefor": "87",
+        "tenfor": "34",
+        "best bowling": "10/54",
+        "catches/stumpings": "143/0"
+    },
+    "clubs": {},
+    "birth_date": "1834-10-16"
+}

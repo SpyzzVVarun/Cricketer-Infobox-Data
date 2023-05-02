@@ -1,0 +1,31 @@
+{
+    "name": "Charles Ward",
+    "country": "England",
+    "fullname": "Charles Gordon Ward",
+    "birth_place": "Braughing, Hertfordshire, England",
+    "death_date": "1954",
+    "death_place": "South Ormsby, Lincolnshire, England",
+    "batting": "Right-handed",
+    "family": "Herbert Ward (Brother), Leonard Ward (Cousin)",
+    "source": "http://www.cricinfo.com/ci/content/player/22294.html Cricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "186",
+        "bat avg": "8.08",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "178",
+        "wickets": "2",
+        "bowl avg": "67.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/17",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Hertfordshire": "1912&ndash;1914 & 1920&ndash;1922",
+        "Lincolnshire": "1907&ndash;1911",
+        "Hampshire": "1897&ndash;1901"
+    },
+    "birth_date": "1875-9-23"
+}

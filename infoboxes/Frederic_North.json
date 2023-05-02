@@ -1,0 +1,31 @@
+{
+    "name": "Frederic North,  CMG",
+    "country": "Australia",
+    "fullname": "Frederic Dudley North",
+    "nickname": "Piggy",
+    "birth_place": "Earls Court, Kensington, London, England",
+    "death_date": "1921",
+    "death_place": "Cottesloe, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/16/16497/16497.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "109",
+        "bat avg": "27.25",
+        "100s/50s": "0/1",
+        "top score": "77",
+        "deliveries": "36",
+        "wickets": "2",
+        "bowl avg": "7.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1892/93"
+    },
+    "birth_date": "1866-11-9"
+}

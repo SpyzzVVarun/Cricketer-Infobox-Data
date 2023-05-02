@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Peter Robert Thackeray",
+    "birth_place": "Nairobi, Nairobi Province, Kenya",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21766.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "315",
+        "bat avg": "28.63",
+        "100s/50s": "&ndash;/2",
+        "deliveries": "3",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1974",
+        "Devon": "1972"
+    },
+    "birth_date": "1950-9-26"
+}

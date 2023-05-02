@@ -1,0 +1,62 @@
+{
+    "name": "Prasanna Jayawardene",
+    "country": "Sri Lanka",
+    "fullname": "Hewasandatchige Asiri Prasanna Wishvanath Jayawardene",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2000\u20132015",
+    "testdebutdate": "28 June",
+    "testdebutyear": "2000",
+    "testdebutagainst": "Pakistan",
+    "testcap": "83",
+    "lasttestdate": "3 January",
+    "lasttestyear": "2015",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "4 April",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "114",
+    "lastodidate": "22 May",
+    "lastodiyear": "2007",
+    "lastodiagainst": "Pakistan",
+    "odishirt": "3",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/49236.html ESPNcricinfo ",
+    "Test": {
+        "matches": "58",
+        "runs": "2,124",
+        "bat avg": "29.50",
+        "100s/50s": "4/5",
+        "catches/stumpings": "124/32"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "27",
+        "bat avg": "5.40",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "4/1"
+    },
+    "FC": {
+        "matches": "228",
+        "runs": "9,274",
+        "bat avg": "29.61",
+        "100s/50s": "14/39",
+        "catches/stumpings": "513/106"
+    },
+    "LA": {
+        "matches": "123",
+        "runs": "2,031",
+        "bat avg": "21.37",
+        "100s/50s": "0/8",
+        "top score": "70",
+        "catches/stumpings": "126/54"
+    },
+    "clubs": {
+        "Sebastianites C&AC": "1999&ndash;present",
+        "Nondescripts": "1998&ndash;2005",
+        "Colombo": "2001&ndash;2003",
+        "Sinhalese": "2000&ndash;2001"
+    },
+    "birth_date": "1979-09-10"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Georgia Wyllie",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Georgia L Wyllie",
+    "birth_place": "Mandurah, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "All-rounder",
+    "family": "Teague Wyllie (brother) last1=Reilly ",
+    "source": "https://cricketarchive.com/Archive/Players/1962/1962139/1962139.html CricketArchive",
+    "WLA": {
+        "matches": "9",
+        "runs": "32",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "306",
+        "wickets": "5",
+        "bowl avg": "45.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/49",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Perth Scorchers": "2022/23",
+        "Western Australia": "2021/22\u2013present"
+    },
+    "birth_date": "2002-5-3"
+}

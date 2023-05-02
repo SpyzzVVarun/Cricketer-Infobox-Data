@@ -1,0 +1,27 @@
+{
+    "name": "Ronald Jones",
+    "country": "England",
+    "birth_place": "Tettenhall, Wolverhampton, England",
+    "death_date": "2019",
+    "death_place": "Dudley, Staffordshire, England",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/30/30669/30669.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Worcestershire": "1955"
+    },
+    "birth_date": "1938-9-9"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Richa Ghosh",
+    "female": "true",
+    "country": "India",
+    "fullname": "Richa Manabendra Ghosh",
+    "birth_place": "Siliguri, West Bengal, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper batter",
+    "odidebutdate": "21 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Australia",
+    "odicap": "133",
+    "lastodidate": "7 July",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Sri Lanka",
+    "odishirt": "13",
+    "T20Idebutdate": "12 February",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "Australia",
+    "T20Icap": "65",
+    "lastT20Idate": "23 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Australia",
+    "T20Ishirt": "13",
+    "source": "http://www.espncricinfo.com/ci/content/player/1212830.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "17",
+        "runs": "311",
+        "bat avg": "22.21",
+        "100s/50s": "0/2",
+        "top score": "65",
+        "catches/stumpings": "17/3"
+    },
+    "WT20I": {
+        "matches": "33",
+        "runs": "549",
+        "bat avg": "28.89",
+        "100s/50s": "0/0",
+        "catches/stumpings": "15/16"
+    },
+    "clubs": {
+        "Bengal Women": "2019\u2013present",
+        "Trailblazers": "2020\u20132022",
+        "Hobart Hurricanes": "2021/22",
+        "Royal Challengers Bangalore": "2023\u2013present"
+    },
+    "birth_date": "2003-9-28",
+    "medaltemplates": [
+        "Country: {{IND}}",
+        "Sport: Women's Cricket",
+        "Competition: ICC Women's Under-19 Cricket World Cup"
+    ]
+}

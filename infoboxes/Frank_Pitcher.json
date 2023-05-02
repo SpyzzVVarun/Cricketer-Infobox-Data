@@ -1,0 +1,30 @@
+{
+    "name": "Frank Pitcher",
+    "country": "Australia",
+    "fullname": "Franklyn Joseph Pitcher",
+    "birth_place": "Collingwood, Victoria, Australia",
+    "death_date": "1921",
+    "death_place": "Northcote, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7214.html CricInfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1910/11"
+    },
+    "birth_date": "1879-06-24"
+}

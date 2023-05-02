@@ -1,0 +1,29 @@
+{
+    "name": "William Knightley-Smith",
+    "birth_place": "West Smithfield, London, England",
+    "death_date": "1962",
+    "death_place": "Edinburgh, Scotland",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/16091.html Cricinfo ",
+    "FC": {
+        "matches": "87",
+        "runs": "2530",
+        "bat avg": "17.44",
+        "100s/50s": "0/11",
+        "top score": "95",
+        "deliveries": "41",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1952",
+        "Cambridge University": "1953\u20131955",
+        "Gloucestershire": "1955\u20131957"
+    },
+    "birth_date": "1932-8-1"
+}

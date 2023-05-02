@@ -1,0 +1,43 @@
+{
+    "name": "B. Vijayakrishna",
+    "country": "India",
+    "nickname": "Viji",
+    "birth_place": "Bangalore, Karnataka, India",
+    "death_date": "2021",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All-rounder",
+    "source": "https://www.espncricinfo.com/india/content/player/35889.html Cricinfo ",
+    "First-class": {
+        "matches": "80",
+        "runs": "2,297",
+        "bat avg": "25.80",
+        "100s/50s": "2/16",
+        "top score": "104",
+        "deliveries": "13043",
+        "wickets": "194",
+        "bowl avg": "27.30",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "7/85",
+        "catches/stumpings": "76/0"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "110",
+        "wickets": "3",
+        "bowl avg": "23.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/36",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Karnataka": "1968/69\u20131983/84"
+    },
+    "birth_date": "1949-10-12"
+}

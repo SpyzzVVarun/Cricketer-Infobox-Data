@@ -1,0 +1,63 @@
+{
+    "name": "Qasim Sheikh",
+    "country": "Scotland",
+    "fullname": "Mohammad Qasim Sheikh",
+    "birth_place": "Glasgow, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "odidebutdate": "2 July",
+    "odidebutyear": "2008",
+    "odidebutagainst": "Ireland",
+    "odicap": "32",
+    "lastodidate": "15 June",
+    "lastodiyear": "2010",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Archive/Players/45/45374/45374.html CricketArchive ",
+    "ODI": {
+        "matches": "7",
+        "runs": "63",
+        "bat avg": "10.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "FC": {
+        "matches": "16",
+        "runs": "691",
+        "bat avg": "27.64",
+        "100s/50s": "3/3",
+        "top score": "108",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "85",
+        "bat avg": "7.72",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Pakistan Customs": "2008/09",
+        "Scotland": "2005&ndash;2007"
+    },
+    "birth_date": "1984-10-30"
+}

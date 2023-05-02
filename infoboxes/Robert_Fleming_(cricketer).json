@@ -1,0 +1,38 @@
+{
+    "country": "England",
+    "fullname": "Robert Christopher John Fleming",
+    "birth_place": "Woking, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/13087.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "60",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "774",
+        "wickets": "7",
+        "bowl avg": "74.57",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/91",
+        "catches/stumpings": "5/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "132",
+        "wickets": "1",
+        "bowl avg": "110.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/39",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1974"
+    },
+    "birth_date": "1953-7-20"
+}

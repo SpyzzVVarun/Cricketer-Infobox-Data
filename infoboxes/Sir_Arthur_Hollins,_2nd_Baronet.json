@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Arthur Meyrick Hollins",
+    "birth_place": "Preston, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Walton-le-Dale, Lancashire, England",
+    "family": "Frank Hollins (brother), John Hollins (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/14907.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "389",
+        "bat avg": "21.61",
+        "100s/50s": "\u2013/1",
+        "top score": "63",
+        "deliveries": "403",
+        "wickets": "3",
+        "bowl avg": "83.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/19",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1899&ndash;1900"
+    }
+}

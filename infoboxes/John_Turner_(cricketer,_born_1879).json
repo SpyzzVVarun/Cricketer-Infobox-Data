@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "John Trench Turner",
+    "birth_place": "Meerut, North-Western Provinces, British India",
+    "death_date": "1963",
+    "death_place": "Berkhamsted, Hertfordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "Arthur Turner (brother), Walter Turner (brother)",
+    "source": "https://www.espncricinfo.com/player/john-turner-35387 Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "254",
+        "bat avg": "19.53",
+        "100s/50s": "\u2013/1",
+        "top score": "54",
+        "deliveries": "518",
+        "wickets": "7",
+        "bowl avg": "32.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/11",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1905/06\u20131908/09"
+    }
+}

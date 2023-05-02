@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Stanley Gordon Metcalfe",
+    "birth_place": "Horsforth, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Alton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/17543.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "1,200",
+        "bat avg": "25.53",
+        "100s/50s": "2/6",
+        "deliveries": "668",
+        "wickets": "9",
+        "bowl avg": "39.11",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/32",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1954&ndash;1956",
+        "Marylebone Cricket Club": "1961"
+    }
+}

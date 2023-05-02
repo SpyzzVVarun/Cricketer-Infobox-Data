@@ -1,0 +1,37 @@
+{
+    "name": "Ron Saggers",
+    "country": "Australia",
+    "fullname": "Ronald Arthur Saggers",
+    "birth_place": "Marrickville, New South Wales, Australia",
+    "death_date": "1987",
+    "death_place": "Harbord, New South Wales, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "22 July",
+    "testdebutyear": "1948",
+    "testdebutagainst": "England",
+    "testcap": "182",
+    "lasttestdate": "3 March",
+    "lasttestyear": "1950",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/0/830/830.html CricketArchive ",
+    "Test": {
+        "matches": "6",
+        "runs": "30",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "16/8"
+    },
+    "FC": {
+        "matches": "77",
+        "runs": "1,888",
+        "bat avg": "23.89",
+        "100s/50s": "1/8",
+        "catches/stumpings": "146/75"
+    },
+    "clubs": {
+        "New South Wales": "1939/40\u20131950/51"
+    },
+    "birth_date": "1917-5-15"
+}

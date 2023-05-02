@@ -1,0 +1,30 @@
+{
+    "name": "John Knott",
+    "country": "England",
+    "fullname": "Charles Harold Knott",
+    "birth_place": "Tunbridge Wells, Kent",
+    "death_date": "df=yes",
+    "death_place": "Tonbridge, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "family": "Freddie Knott (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16092.html CricInfo ",
+    "First-class": {
+        "matches": "136",
+        "runs": "5,633",
+        "bat avg": "31.46",
+        "100s/50s": "9/31",
+        "deliveries": "1,129",
+        "wickets": "24",
+        "bowl avg": "27.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/24",
+        "catches/stumpings": "66/\u2013"
+    },
+    "clubs": {
+        "Kent": "1921\u20131939",
+        "Oxford University": "1922\u20131924"
+    },
+    "birth_date": "1901-03-20"
+}

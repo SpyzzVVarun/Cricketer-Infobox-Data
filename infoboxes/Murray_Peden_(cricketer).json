@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "David Murray Peden",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1978",
+    "death_place": "Dunfermline, Fife, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/david-peden-25322 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "108",
+        "bat avg": "21.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "156",
+        "wickets": "2",
+        "bowl avg": "37.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/53",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1973&ndash;1976"
+    }
+}

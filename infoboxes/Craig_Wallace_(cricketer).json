@@ -1,0 +1,58 @@
+{
+    "name": "Craig Wallace",
+    "country": "Scotland",
+    "fullname": "Craig Donald Wallace",
+    "birth_place": "Dundee, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2011\u2013present",
+    "odidebutdate": "11 July",
+    "odidebutyear": "2012",
+    "odidebutagainst": "Canada",
+    "odicap": "47",
+    "lastodidate": "17 August",
+    "lastodiyear": "2022",
+    "lastodiagainst": "USA",
+    "T20Idebutdate": "13 March",
+    "T20Idebutyear": "2012",
+    "T20Idebutagainst": "Kenya",
+    "T20Icap": "25",
+    "lastT20Idate": "27 October",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Namibia",
+    "source": "http://www.espncricinfo.com/ci/content/player/414971.html Cricinfo ",
+    "ODI": {
+        "matches": "32",
+        "runs": "574",
+        "bat avg": "21.25",
+        "100s/50s": "0/4",
+        "top score": "58",
+        "catches/stumpings": "17/2"
+    },
+    "T20I": {
+        "matches": "21",
+        "runs": "173",
+        "bat avg": "17.30",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "7/2"
+    },
+    "FC": {
+        "matches": "8",
+        "runs": "191",
+        "bat avg": "17.36",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "3/1"
+    },
+    "LA": {
+        "matches": "66",
+        "runs": "916",
+        "bat avg": "18.69",
+        "100s/50s": "0/4",
+        "top score": "58",
+        "catches/stumpings": "30/5"
+    },
+    "clubs": {},
+    "birth_date": "1990-6-27"
+}

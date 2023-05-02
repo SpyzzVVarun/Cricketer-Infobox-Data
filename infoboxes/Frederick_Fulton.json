@@ -1,0 +1,23 @@
+{
+    "name": "Fred Fulton",
+    "fullname": "Frederick Fulton",
+    "birth_place": "Aligarh, Bengal Presidency",
+    "death_date": "1923",
+    "death_place": "Napier, New Zealand",
+    "family": "John Fulton (brother)",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/37081.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "70",
+        "bat avg": "7.77",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Otago": "1868/69\u20131878/79",
+        "Hawke's Bay": "1877/78\u20131883/84"
+    },
+    "birth_date": "1850-6-1"
+}

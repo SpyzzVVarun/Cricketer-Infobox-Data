@@ -1,0 +1,42 @@
+{
+    "name": "George McConnell",
+    "fullname": "George Thomas McConnell",
+    "birth_place": "Innisfail, Queensland, Australia",
+    "death_date": "2019",
+    "death_place": "Tauranga, Bay of Plenty, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37851.html Cricinfo",
+    "FC": {
+        "matches": "18",
+        "runs": "221",
+        "bat avg": "14.73",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "3065",
+        "wickets": "50",
+        "bowl avg": "21.96",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/41",
+        "catches/stumpings": "15/0"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "192",
+        "wickets": "5",
+        "bowl avg": "14.80",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/16",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Wellington": "1960-61 to 1971\u201372"
+    },
+    "birth_date": "1938-1-3"
+}

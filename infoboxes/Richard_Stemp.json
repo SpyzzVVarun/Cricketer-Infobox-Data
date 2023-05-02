@@ -1,0 +1,37 @@
+{
+    "name": "Richard Stemp",
+    "fullname": "Richard David Stemp",
+    "birth_place": "Erdington, Birmingham, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/20353.html CricInfo",
+    "First-class": {
+        "matches": "166",
+        "runs": "1,657",
+        "bat avg": "12.36",
+        "100s/50s": "0/3",
+        "top score": "66",
+        "deliveries": "31,433",
+        "wickets": "385",
+        "bowl avg": "35.20",
+        "fivefor": "14",
+        "tenfor": "1",
+        "best bowling": "6/37",
+        "catches/stumpings": "68/\u2013"
+    },
+    "List A": {
+        "matches": "153",
+        "runs": "226",
+        "bat avg": "7.79",
+        "100s/50s": "0/0",
+        "deliveries": "6,844",
+        "wickets": "161",
+        "bowl avg": "31.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/25",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1967-12-11"
+}

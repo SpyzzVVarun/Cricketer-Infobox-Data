@@ -1,0 +1,41 @@
+{
+    "name": "Surendra Bhave",
+    "country": "India",
+    "fullname": "Surendra Shriram Bhave",
+    "birth_place": "Pune, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "Opening batsman",
+    "source": "https://cricketarchive.com/Archive/Players/7/7798/7798.html CricketArchive ",
+    "FC": {
+        "matches": "97",
+        "runs": "7,971",
+        "bat avg": "58.18",
+        "100s/50s": "28/27",
+        "top score": "292",
+        "deliveries": "1,214",
+        "wickets": "8",
+        "bowl avg": "76.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/42",
+        "catches/stumpings": "121/\u2013"
+    },
+    "List A": {
+        "matches": "51",
+        "runs": "1,808",
+        "bat avg": "38.46",
+        "100s/50s": "2/13",
+        "deliveries": "209",
+        "wickets": "4",
+        "bowl avg": "42.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/47",
+        "catches/stumpings": "22/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "1986\u20132001"
+    },
+    "birth_date": "1966-3-30"
+}

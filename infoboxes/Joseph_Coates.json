@@ -1,0 +1,29 @@
+{
+    "name": "Joseph Coates",
+    "country": "Australia",
+    "fullname": "Joseph Coates",
+    "birth_place": "Huddersfield, Yorkshire, United Kingdom",
+    "death_date": "1896",
+    "death_place": "Sydney, Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium Left-arm medium pace",
+    "role": "Bowler/coach",
+    "source": "https://cricketarchive.com/Archive/Players/5/5785/5785.html Cricket Archive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "158",
+        "bat avg": "7.90",
+        "100s/50s": "0/0",
+        "deliveries": "2550",
+        "wickets": "76",
+        "bowl avg": "11.67",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/39",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1867/68&ndash;1879/80"
+    },
+    "birth_date": "1844-11-13"
+}

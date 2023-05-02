@@ -1,0 +1,53 @@
+{
+    "name": "Bill Johnston",
+    "country": "Australia",
+    "fullname": "William Arras Johnston",
+    "nickname": "Big Bill",
+    "birth_place": "Beeac, Victoria, Australia",
+    "death_date": "2007",
+    "death_place": "Mosman, New South Wales, Australia",
+    "height": "187 cm",
+    "batting": "Left-handed",
+    "bowling": "Left-arm orthodox spin or fast Left-arm orthodox spin or fast medium",
+    "role": "Specialist bowler",
+    "testdebutdate": "28 November",
+    "testdebutyear": "1947",
+    "testdebutagainst": "India",
+    "testcap": "177",
+    "lasttestdate": "11 June",
+    "lasttestyear": "1955",
+    "lasttestagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/0/794/794.html Cricketarchive.com ",
+    "Tests": {
+        "matches": "40",
+        "runs": "273",
+        "bat avg": "11.37",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "11048",
+        "wickets": "160",
+        "bowl avg": "23.91",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/44",
+        "catches/stumpings": "16/0"
+    },
+    "FC": {
+        "matches": "142",
+        "runs": "1129",
+        "bat avg": "12.68",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "34576",
+        "wickets": "554",
+        "bowl avg": "23.35",
+        "fivefor": "29",
+        "tenfor": "6",
+        "best bowling": "8/52",
+        "catches/stumpings": "52/0"
+    },
+    "clubs": {
+        "Victoria": "1945\u20131955"
+    },
+    "birth_date": "1922-02-26"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Vijay Yadav",
+    "country": "India",
+    "batting": "Right-handed",
+    "source": "family=Amrita (wife)dec. 2006,  Sonalika (daughter)dec. 2006",
+    "Test": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "1/2"
+    },
+    "ODI": {
+        "matches": "19",
+        "runs": "118",
+        "bat avg": "11.80",
+        "100s/50s": "0/0",
+        "catches/stumpings": "12/7"
+    },
+    "clubs": {}
+}

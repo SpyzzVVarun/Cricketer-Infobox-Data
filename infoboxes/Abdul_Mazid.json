@@ -1,0 +1,54 @@
+{
+    "name": "Abdul Mazid",
+    "country": "Bangladesh",
+    "fullname": "Mohammad Abdul Mazid",
+    "birth_place": "Mymensingh, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/cricketers/abdul-mazid-508442 Cricinfo ",
+    "FC": {
+        "matches": "92",
+        "runs": "5349",
+        "bat avg": "36.88",
+        "100s/50s": "12/27",
+        "deliveries": "457",
+        "wickets": "1",
+        "bowl avg": "266.00",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "1/47",
+        "catches/stumpings": "64/1"
+    },
+    "List A": {
+        "matches": "97",
+        "runs": "3126",
+        "bat avg": "33.97",
+        "100s/50s": "7/21",
+        "top score": "118",
+        "deliveries": "75",
+        "wickets": "1",
+        "bowl avg": "85.00",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "1/16",
+        "catches/stumpings": "38/\u2013"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "395",
+        "bat avg": "17.17",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Dhaka Division": "2010-11 \u2013 2014-15"
+    },
+    "birth_date": "1991-1-1"
+}

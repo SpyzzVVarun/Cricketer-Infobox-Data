@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "David Joseph Parsons",
+    "birth_place": "Accrington, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/18780.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "79",
+        "wickets": "1",
+        "bowl avg": "53.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/53",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "6",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1981",
+        "Cumberland": "1981&ndash;1984"
+    },
+    "birth_date": "1954-10-28"
+}

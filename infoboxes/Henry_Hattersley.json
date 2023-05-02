@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Henry Hattersley",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "death_date": "1835",
+    "death_place": "Sheffield, Yorkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15214.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "41",
+        "bat avg": "10.25",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "404",
+        "wickets": "7",
+        "bowl avg": "22.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/25",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1834"
+    }
+}

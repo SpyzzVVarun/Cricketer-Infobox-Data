@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Stephen Flockton Charles",
+    "birth_place": "Romford, Essex, England",
+    "death_date": "df=yes",
+    "death_place": "Wroxham, Norfolk, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/11091.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "143",
+        "bat avg": "20.42",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "catches/stumpings": "4/5"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1895&ndash;1905",
+        "Norfolk": "1906&ndash;1907"
+    }
+}

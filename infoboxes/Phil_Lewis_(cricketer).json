@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Philip David Lewis",
+    "birth_place": "Liss, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/16849.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "115",
+        "bat avg": "28.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "606",
+        "wickets": "10",
+        "bowl avg": "40.20",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/58",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Dorset": "2005&ndash;2007",
+        "Loughborough UCCE": "2003&ndash;2004"
+    },
+    "birth_date": "1981-10-4"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Howard Francis",
+    "fullname": "Howard Henry Francis",
+    "birth_place": "Clifton, Bristol, England",
+    "death_date": "df=yes",
+    "death_place": "Sea Point, Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "14 February",
+    "testdebutyear": "1899",
+    "lasttestdate": "1 April",
+    "lasttestagainst": "England",
+    "lasttestyear": "1899",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/45072.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "39",
+        "bat avg": "9.75",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "25",
+        "runs": "529",
+        "bat avg": "12.90",
+        "100s/50s": "0/0",
+        "top score": "55",
+        "catches/stumpings": "13/1"
+    },
+    "clubs": {
+        "Gloucestershire": "1890\u20131894",
+        "Western Province": "1895/96\u20131902/03"
+    },
+    "birth_date": "1868-5-26"
+}

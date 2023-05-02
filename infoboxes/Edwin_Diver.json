@@ -1,0 +1,40 @@
+{
+    "name": "Edwin Diver",
+    "country": "England",
+    "fullname": "Edwin James Diver",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1924",
+    "death_place": "Pontardawe, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "24 May",
+    "debutyear1": "1883",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "6 July",
+    "lastyear1": "1901",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/29/29084/29084.html CricketArchive ",
+    "First-class": {
+        "matches": "205",
+        "runs": "7245",
+        "bat avg": "23.00",
+        "100s/50s": "5/45",
+        "top score": "184",
+        "deliveries": "496",
+        "wickets": "6",
+        "bowl avg": "51.83",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/58",
+        "catches/stumpings": "117/4"
+    },
+    "clubs": {
+        "Surrey": "1883\u20131886",
+        "Warwickshire": "1894\u20131901"
+    },
+    "birth_date": "1861-3-20"
+}

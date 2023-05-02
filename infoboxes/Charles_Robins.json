@@ -1,0 +1,28 @@
+{
+    "name": "Charles Robins",
+    "country": "England",
+    "fullname": "Robert Victor Charles Robins",
+    "birth_place": "Burnham, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Walter Robins (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/19758.html Cricinfo ",
+    "First-class": {
+        "matches": "60",
+        "runs": "1055",
+        "bat avg": "12.71",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "6460",
+        "wickets": "107",
+        "bowl avg": "33.61",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/78",
+        "catches/stumpings": "19/0"
+    },
+    "clubs": {
+        "Middlesex": "1953 to 1960"
+    },
+    "birth_date": "1935-3-13"
+}

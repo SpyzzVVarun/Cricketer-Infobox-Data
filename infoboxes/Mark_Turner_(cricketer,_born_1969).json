@@ -1,0 +1,27 @@
+{
+    "name": "Mark Turner",
+    "country": "England",
+    "fullname": "Mark Andrew Turner",
+    "birth_place": "Blackpool, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/21621.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/ \u2013",
+        "top score": "5",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "45.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/20",
+        "catches/stumpings": "\u2013/ \u2013"
+    },
+    "clubs": {
+        "Huntingdonshire": "1999&ndash;2000"
+    },
+    "birth_date": "1969-5-13"
+}

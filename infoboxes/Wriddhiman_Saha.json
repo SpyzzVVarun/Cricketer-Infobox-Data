@@ -1,0 +1,65 @@
+{
+    "name": "Wriddhiman Saha",
+    "fullname": "Wriddhiman Prasanta Saha",
+    "birth_place": "Siliguri, West Bengal, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper Batsman",
+    "country": "India",
+    "internationalspan": "2010\u20132021",
+    "testdebutdate": "6 February",
+    "testdebutyear": "2010",
+    "testdebutagainst": "South Africa",
+    "testcap": "263",
+    "lasttestdate": "3 December",
+    "lasttestyear": "2021",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "28 November",
+    "odidebutyear": "2010",
+    "odidebutagainst": "New Zealand",
+    "odicap": "190",
+    "lastodidate": "2 November",
+    "lastodiyear": "2014",
+    "lastodiagainst": "Sri Lanka",
+    "odishirt": "24",
+    "source": "http://content-www.cricinfo.com/india/content/player/279810.html ESPNcricinfo",
+    "Test": {
+        "matches": "40",
+        "runs": "1,353",
+        "bat avg": "29.41",
+        "100s/50s": "3/6",
+        "top score": "117",
+        "catches/stumpings": "92/12"
+    },
+    "ODI": {
+        "matches": "9",
+        "runs": "41",
+        "bat avg": "13.67",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "17/1"
+    },
+    "FC": {
+        "matches": "122",
+        "runs": "6,423",
+        "bat avg": "41.98",
+        "100s/50s": "13/38",
+        "catches/stumpings": "313/37"
+    },
+    "LA": {
+        "matches": "102",
+        "runs": "2,762",
+        "bat avg": "42.49",
+        "100s/50s": "2/19",
+        "top score": "116",
+        "catches/stumpings": "125/15"
+    },
+    "clubs": {
+        "Bengal": "2007\u20132022",
+        "Kolkata Knight Riders": "2008\u20132010",
+        "Chennai Super Kings( 6 )": "2011\u20132013",
+        "Kings XI Punjab( 6 )": "2014\u20132017",
+        "Sunrisers Hyderabad": "2018\u20132021",
+        "Gujarat Titans": "2022\u2013present"
+    },
+    "birth_date": "1984-10-24"
+}

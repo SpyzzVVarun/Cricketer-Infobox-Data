@@ -1,0 +1,36 @@
+{
+    "name": "Colin Dredge",
+    "fullname": "Colin Herbert Dredge",
+    "birth_place": "Frome, Somerset, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11937.html CricInfo",
+    "First-class": {
+        "matches": "194",
+        "runs": "2,182",
+        "bat avg": "13.98",
+        "100s/50s": "0/4",
+        "deliveries": "28,414",
+        "wickets": "443",
+        "bowl avg": "30.10",
+        "fivefor": "12",
+        "tenfor": "0",
+        "best bowling": "6/37",
+        "catches/stumpings": "84/\u2013"
+    },
+    "List A": {
+        "matches": "209",
+        "runs": "464",
+        "bat avg": "10.54",
+        "100s/50s": "0/0",
+        "deliveries": "9,594",
+        "wickets": "253",
+        "bowl avg": "25.42",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "66/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "4 August 1954"
+}

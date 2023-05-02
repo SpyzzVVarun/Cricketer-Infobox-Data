@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Francis Harry Hoggarth",
+    "birth_place": "Whitby, Yorkshire, England",
+    "death_date": "1961",
+    "death_place": "Aberdeen, Aberdeenshire, Scotland",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/player/francis-hoggarth-25239 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1906"
+    }
+}

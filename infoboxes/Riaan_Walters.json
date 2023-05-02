@@ -1,0 +1,44 @@
+{
+    "name": "Riaan Walters",
+    "country": "Namibia",
+    "fullname": "Riaan Walters",
+    "birth_place": "Windhoek, South West Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Batsman",
+    "internationalspan": "1997\u20132009",
+    "odidebutdate": "10 February",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "11",
+    "lastodidate": "16 February",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/24835.html ESPNcricinfo",
+    "ODI": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "4",
+        "runs": "76",
+        "bat avg": "12.66",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "380",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1980-8-10"
+}

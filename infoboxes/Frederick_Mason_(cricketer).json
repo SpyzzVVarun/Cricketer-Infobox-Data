@@ -1,0 +1,27 @@
+{
+    "name": "Frederick Mason",
+    "fullname": "Frederick Richard Mason",
+    "birth_place": "Napier, New Zealand",
+    "death_date": "1936",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/37827.html Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "520",
+        "bat avg": "16.77",
+        "100s/50s": "0/1",
+        "top score": "81",
+        "deliveries": "432",
+        "wickets": "2",
+        "bowl avg": "112.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1902-03 to 1914-15"
+    },
+    "birth_date": "1881-2-4"
+}

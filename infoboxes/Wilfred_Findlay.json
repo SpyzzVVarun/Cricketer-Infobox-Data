@@ -1,0 +1,29 @@
+{
+    "name": "Wilfred Findlay",
+    "fullname": "John Wilfred Findlay",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1951",
+    "death_place": "Mount Kisco, New York, United States of America",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Sir John Findlay (father), James Lloyd Findlay (brother)",
+    "country": "New Zealand",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37041.html Cricinfo",
+    "First-class": {
+        "matches": "4",
+        "runs": "51",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "top score": "22 not out",
+        "deliveries": "434",
+        "wickets": "13",
+        "bowl avg": "15.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1910-11 to 1911-12"
+    },
+    "birth_date": "1891-11-27"
+}

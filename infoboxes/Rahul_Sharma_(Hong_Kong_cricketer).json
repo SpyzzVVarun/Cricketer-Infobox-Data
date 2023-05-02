@@ -1,0 +1,32 @@
+{
+    "name": "Rahul Sharma",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm legspin",
+    "country": "Hong Kong",
+    "odidebutagainst": "Bangladesh",
+    "odidebutdate": "16 July",
+    "odidebutyear": "2004",
+    "odicap": "9",
+    "lastodidate": "18 July",
+    "lastodiagainst": "Pakistan",
+    "lastodiyear": "2004",
+    "source": "http://content-usa.cricinfo.com/ci/content/player/24129.html Cricinfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1960-9-14"
+}

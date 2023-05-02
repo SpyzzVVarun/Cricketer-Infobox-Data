@@ -1,0 +1,28 @@
+{
+    "name": "Ian Hamilton",
+    "country": "New Zealand",
+    "fullname": "Ian Malone Hamilton",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Ashburton, New Zealand",
+    "batting": "Left-handed",
+    "source": "https://cricketarchive.com/Archive/Players/22/22033/22033.html Cricket Archive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "788",
+        "bat avg": "24.62",
+        "100s/50s": "0/4",
+        "top score": "80",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Canterbury": "1926-27 \u2013 1932-33"
+    },
+    "birth_date": "1906-12-13"
+}

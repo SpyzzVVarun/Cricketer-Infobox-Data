@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Brown",
+    "birth_place": "Coatbridge, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/player/25156.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "256",
+        "bat avg": "19.69",
+        "100s/50s": "\u2013/2",
+        "top score": "74",
+        "catches/stumpings": "13/3"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "281",
+        "bat avg": "14.05",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "catches/stumpings": "15/3"
+    },
+    "clubs": {
+        "Scotland": "1977&ndash;1987"
+    },
+    "birth_date": "1950-10-7"
+}

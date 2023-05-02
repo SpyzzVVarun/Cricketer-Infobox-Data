@@ -1,0 +1,41 @@
+{
+    "name": "Shayne Moseley",
+    "country": "West Indies",
+    "fullname": "Shayne Akeel Richard Moseley",
+    "birth_place": "Christ Church, Barbados",
+    "testdebutdate": "3 February",
+    "testdebutyear": "2021",
+    "testdebutagainst": "Bangladesh",
+    "testcap": "325",
+    "lasttestdate": "11 February",
+    "lasttestyear": "2021",
+    "lasttestagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/851501.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "32",
+        "runs": "1,773",
+        "bat avg": "30.56",
+        "100s/50s": "4/11",
+        "catches/stumpings": "15/\u2013"
+    },
+    "LA": {
+        "matches": "8",
+        "runs": "174",
+        "bat avg": "21.75",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Barbados": "2017-present"
+    },
+    "birth_date": "1994-4-11"
+}

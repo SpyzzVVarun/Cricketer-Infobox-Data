@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "David Chalmers Pickeman",
+    "birth_place": "Donnybrook, Ireland",
+    "death_date": "June 1945 (aged 53)",
+    "death_place": "Dublin, Leinster, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24490.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1926"
+    }
+}

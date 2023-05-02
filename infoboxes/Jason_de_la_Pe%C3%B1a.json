@@ -1,0 +1,43 @@
+{
+    "name": "Jason de la Pe\u00f1a",
+    "country": "England",
+    "fullname": "Jason Michael de la Pe\u00f1a",
+    "birth_place": "Hammersmith, London",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/11866.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "10",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "deliveries": "1,253",
+        "wickets": "29",
+        "bowl avg": "30.89",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "53.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/46",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1991\u20131993",
+        "Surrey": "1994\u20131997",
+        "Hertfordshire": "1997",
+        "Kent": "1998",
+        "Worcestershire": "1999"
+    },
+    "birth_date": "1972-9-16"
+}

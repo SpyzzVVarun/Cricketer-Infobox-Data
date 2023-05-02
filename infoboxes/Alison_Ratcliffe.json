@@ -1,0 +1,52 @@
+{
+    "name": "Alison Ratcliffe",
+    "female": "true",
+    "country": "England",
+    "fullname": "Alison Barbara Ratcliffe",
+    "birth_place": "Bacup, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "South Africa",
+    "testcap": "55",
+    "lasttestdate": "13 January",
+    "lasttestyear": "1961",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/17/17073/17073.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "226",
+        "bat avg": "45.20",
+        "100s/50s": "0/1",
+        "top score": "95",
+        "deliveries": "420",
+        "wickets": "12",
+        "bowl avg": "17.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/50",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WFC": {
+        "matches": "7",
+        "runs": "284",
+        "bat avg": "35.50",
+        "100s/50s": "0/1",
+        "top score": "95",
+        "deliveries": "420",
+        "wickets": "12",
+        "bowl avg": "17.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/50",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "East Anglia": "1954",
+        "Kent": "1963\u20131965"
+    },
+    "birth_date": "1934-10-10"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Rahmanullah Gurbaz",
+    "country": "Afghanistan",
+    "birth_place": "Kabul Afghanistan",
+    "height": "5 ft 8 in",
+    "batting": "Right-handed",
+    "role": "Opening batsman, wicket-keeper",
+    "internationalspan": "2019\u2013present",
+    "odidebutdate": "21 January",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "50",
+    "lastodidate": "30 November",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Sri Lanka",
+    "T20Idebutdate": "14 September",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Zimbabwe",
+    "T20Icap": "38",
+    "lastT20Idate": "27 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Pakistan",
+    "source": "year9=2023",
+    "ODI": {
+        "matches": "12",
+        "runs": "456",
+        "bat avg": "41.45",
+        "100s/50s": "3/0",
+        "top score": "127",
+        "catches/stumpings": "8/2"
+    },
+    "T20I": {
+        "matches": "32",
+        "runs": "828",
+        "bat avg": "25.87",
+        "100s/50s": "0/5",
+        "top score": "87",
+        "catches/stumpings": "15/2"
+    },
+    "FC": {
+        "matches": "12",
+        "runs": "941",
+        "bat avg": "49.52",
+        "100s/50s": "1/7",
+        "top score": "153",
+        "catches/stumpings": "16/5"
+    },
+    "LA": {
+        "matches": "41",
+        "runs": "1,260",
+        "bat avg": "39.37",
+        "100s/50s": "5/3",
+        "top score": "128",
+        "catches/stumpings": "38/7"
+    },
+    "clubs": {
+        "Mis Ainak Knights": "2017",
+        "Khulna Tigers": "2019\u201320",
+        "Barbados Tridents": "2020",
+        "Multan Sultans": "2021",
+        "Islamabad United": "2022\u2013present",
+        "Jaffna Kings": "2022",
+        "Gujarat Titans": "2022",
+        "Fortune Barishal & Rangpur Riders(In a season)": "2023"
+    },
+    "birth_date": "1998-11-28"
+}

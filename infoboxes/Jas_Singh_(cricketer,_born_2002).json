@@ -1,0 +1,49 @@
+{
+    "name": "Jaskaran Singh",
+    "birth_place": "Denmark Hill, Camberwell, London Borough of Southwark",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "11 July",
+    "debutyear1": "2021",
+    "debutfor1": "Kent",
+    "debutagainst1": "Sussex",
+    "type2": "T20",
+    "debutdate2": "21 June",
+    "debutyear2": "2022",
+    "debutfor2": "Kent",
+    "debutagainst2": "Gloucestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1185571.html Cricinfo",
+    "First-class": {
+        "matches": "5",
+        "runs": "20",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "deliveries": "548",
+        "wickets": "9",
+        "bowl avg": "44.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Kent": "2021"
+    },
+    "birth_date": "2002-09-19"
+}

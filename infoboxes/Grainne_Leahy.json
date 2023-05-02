@@ -1,0 +1,27 @@
+{
+    "name": "Grainne Leahy",
+    "female": "yes",
+    "country": "Ireland",
+    "fullname": "Grainne Maire Leahy",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right handed",
+    "role": "Top order batter",
+    "odidebutdate": "5 August",
+    "odidebutyear": "1997",
+    "odidebutagainst": "South Africa",
+    "odicap": "33",
+    "lastodidate": "11 August",
+    "lastodiyear": "2001",
+    "lastodiagainst": "Scotland",
+    "source": "https://cricketarchive.com/Archive/Players/17/17176/17176.html CricketArchive ",
+    "WODI": {
+        "matches": "11",
+        "runs": "55",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1966-08-02"
+}

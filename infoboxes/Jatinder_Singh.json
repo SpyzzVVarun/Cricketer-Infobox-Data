@@ -1,0 +1,56 @@
+{
+    "name": "Jatinder Singh",
+    "country": "Oman",
+    "fullname": "Jatinder Singh",
+    "birth_place": "Ludhiana, Punjab, India",
+    "nickname": "Jati",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman, occasional wicket-keeper",
+    "internationalspan": "2015\u2013present",
+    "odidebutdate": "27 April",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Namibia",
+    "odicap": "4",
+    "lastodidate": "29 April",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "T20Idebutdate": "25 July",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "Afghanistan",
+    "T20Icap": "4",
+    "lastT20Idate": "21 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Canada",
+    "source": "http://www.espncricinfo.com/ci/content/player/307756.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "33",
+        "runs": "985",
+        "bat avg": "31.77",
+        "100s/50s": "3/5",
+        "catches/stumpings": "15/\u2013"
+    },
+    "T20I": {
+        "matches": "39",
+        "runs": "875",
+        "bat avg": "25.73",
+        "100s/50s": "0/4",
+        "catches/stumpings": "17/\u2013"
+    },
+    "LA": {
+        "matches": "52",
+        "runs": "1,518",
+        "bat avg": "30.97",
+        "100s/50s": "4/8",
+        "catches/stumpings": "26/\u2013"
+    },
+    "T20": {
+        "matches": "49",
+        "runs": "1,206",
+        "bat avg": "28.71",
+        "100s/50s": "0/7",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1989-03-05"
+}

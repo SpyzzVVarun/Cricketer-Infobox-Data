@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William George Dyas",
+    "birth_place": "Madeley, Shropshire, England",
+    "death_date": "1940",
+    "death_place": "Madeley, Shropshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/12287.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "136",
+        "bat avg": "22.66",
+        "100s/50s": "\u2013/1",
+        "top score": "83",
+        "deliveries": "228",
+        "wickets": "2",
+        "bowl avg": "34.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/16",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "London County": "1901&ndash;1902"
+    }
+}

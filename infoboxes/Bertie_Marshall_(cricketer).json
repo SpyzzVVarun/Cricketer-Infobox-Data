@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Bertie Marshall",
+    "birth_place": "Sutton-in-Ashfield, Nottinghamshire, England",
+    "death_date": "1991",
+    "death_place": "Durham, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/17358.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "61",
+        "bat avg": "15.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "36",
+        "deliveries": "372",
+        "wickets": "5",
+        "bowl avg": "40.60",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/29",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1939",
+        "Nottinghamshire": "1923&ndash;1929"
+    }
+}

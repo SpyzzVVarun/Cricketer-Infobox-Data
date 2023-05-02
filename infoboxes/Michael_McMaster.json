@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Michael McMaster",
+    "birth_place": "Porlock, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Brook, Isle of Wight, England",
+    "family": "Emile McMaster (father)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17496.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "73.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/55",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,22 @@
+{
+    "name": "John Dunn",
+    "country": "Sri Lanka",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "death_date": "1892",
+    "death_place": "Pescadores, Formosa",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/29/29170/29170.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "95",
+        "bat avg": "8.63",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Surrey": "1881",
+        "MCC": "1882"
+    },
+    "birth_date": "1862-6-8"
+}

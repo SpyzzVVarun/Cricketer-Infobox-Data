@@ -1,0 +1,21 @@
+{
+    "name": "Robert Bennett",
+    "country": "England",
+    "birth_place": "Tunbridge Wells, Kent",
+    "death_date": "1875",
+    "death_place": "Chichester, Sussex",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/9696.html CricInfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "35",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "9/2"
+    },
+    "clubs": {
+        "Sussex": "1860",
+        "Kent": "1863\u20131864"
+    }
+}

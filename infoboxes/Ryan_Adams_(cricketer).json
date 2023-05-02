@@ -1,0 +1,31 @@
+{
+    "name": "Ryan Adams",
+    "country": "England",
+    "fullname": "Ryan James Adams",
+    "birth_place": "Gloucestershire, England",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "1 April",
+    "debutyear1": "2014",
+    "debutfor1": "Cardiff MCCU",
+    "debutagainst1": "Glamorgan",
+    "source": "http://www.espncricinfo.com/ci/content/player/733301.html ESPNcricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "120",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cardiff MCCU": "2014"
+    },
+    "birth_date": "1993-3-11"
+}

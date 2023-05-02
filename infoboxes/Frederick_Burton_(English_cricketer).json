@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Frederick Alfred Burton",
+    "birth_place": "Islington, Middlesex, England",
+    "death_date": "1978",
+    "death_place": "Weston-super-Mare, Somerset, England",
+    "family": "George Burton (father), George Hearne (father-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/10191.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "99",
+        "bat avg": "12.37",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,116",
+        "wickets": "11",
+        "bowl avg": "51.27",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/101",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1924",
+        "Marylebone Cricket Club": "1921\u20131925",
+        "Hertfordshire": "1910\u20131932"
+    }
+}

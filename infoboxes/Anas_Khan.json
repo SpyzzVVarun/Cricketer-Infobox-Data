@@ -1,0 +1,24 @@
+{
+    "name": "Anas Khan",
+    "country": "Hong Kong",
+    "fullname": "Anas Khan",
+    "birth_place": "Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All-rounder",
+    "oneT20I": "true",
+    "T20Idebutdate": "24 November",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Nepal",
+    "T20Icap": "14",
+    "source": "http://www.espncricinfo.com/ci/content/player/800395.html CricketArchive ",
+    "T20I": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1993-02-26"
+}

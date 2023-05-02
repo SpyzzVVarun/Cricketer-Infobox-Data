@@ -1,0 +1,43 @@
+{
+    "name": "Sam Staples",
+    "fullname": "Samuel James Staples",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "21 January",
+    "testdebutyear": "1928",
+    "lasttestdate": "4 February",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1928",
+    "source": "https://www.espncricinfo.com/england/content/player/20339.html CricInfo",
+    "Test": {
+        "matches": "3",
+        "runs": "65",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "1,149",
+        "wickets": "15",
+        "bowl avg": "29.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/50",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "385",
+        "runs": "6,470",
+        "bat avg": "17.02",
+        "100s/50s": "1/19",
+        "top score": "110",
+        "deliveries": "75,609",
+        "wickets": "1,331",
+        "bowl avg": "22.85",
+        "fivefor": "72",
+        "tenfor": "11",
+        "best bowling": "9/141",
+        "catches/stumpings": "335/\u2013"
+    },
+    "clubs": {}
+}

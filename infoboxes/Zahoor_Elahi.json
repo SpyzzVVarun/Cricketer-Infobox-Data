@@ -1,0 +1,43 @@
+{
+    "name": "Zahoor Elahi",
+    "country": "Pakistan",
+    "fullname": "Zahoor Elahi",
+    "birth_place": "Sahiwal, Punjab, Pakistan",
+    "family": "Saleem Elahi (brother),, Manzoor Elahi (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "internationalspan": "1996\u20131997",
+    "testdebutdate": "21 November",
+    "testdebutyear": "1996",
+    "testdebutagainst": "New Zealand",
+    "testcap": "143",
+    "lasttestdate": "28 November",
+    "lasttestyear": "1996",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "3 November",
+    "odidebutyear": "1996",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "113",
+    "lastodidate": "20 January",
+    "lastodiyear": "1997",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/43701.html ESPNCricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "14",
+        "runs": "297",
+        "bat avg": "22.84",
+        "100s/50s": "0/3",
+        "top score": "86",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1971-3-1"
+}

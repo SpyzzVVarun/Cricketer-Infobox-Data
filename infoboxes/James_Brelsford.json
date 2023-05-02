@@ -1,0 +1,38 @@
+{
+    "name": "James Brelsford",
+    "country": "England",
+    "fullname": "James Brelsford",
+    "birth_place": "Brimington, Derbyshire, England",
+    "death_date": "1924",
+    "death_place": "Bowdon, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "17 May",
+    "debutyear1": "1883",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "5 July",
+    "lastyear1": "1886",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Players/28/28110/28110.html CricketArchive ",
+    "First-class": {
+        "matches": "8",
+        "runs": "56",
+        "bat avg": "4.30",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "1,085",
+        "wickets": "24",
+        "bowl avg": "20.08",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/31",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1883\u20131886"
+    },
+    "birth_date": "1855-12-19"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "David Christopher Dickinson",
+    "birth_place": "Blackheath, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12168.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "111",
+        "bat avg": "10.09",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,661",
+        "wickets": "24",
+        "bowl avg": "27.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/22",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1953"
+    }
+}

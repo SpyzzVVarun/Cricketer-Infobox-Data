@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Dudley Francis Eugene Cockle",
+    "birth_place": "Wilton, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ludlow, Shropshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/27731.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "37",
+        "bat avg": "18.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "174",
+        "wickets": "2",
+        "bowl avg": "49.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/99",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1937&ndash;1949"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Lancelot Townley Grove",
+    "birth_place": "Satara, Bombay Presidency,, British India",
+    "death_date": "df=y",
+    "death_place": "Gander, Newfoundland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13807.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "332",
+        "bat avg": "47.42",
+        "100s/50s": "1/2",
+        "top score": "106",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "22.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

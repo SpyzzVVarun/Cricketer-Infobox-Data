@@ -1,0 +1,59 @@
+{
+    "name": "Lisa Nye",
+    "female": "true",
+    "country": "England",
+    "fullname": "Lisa Nye",
+    "birth_place": "Tunbridge Wells, Kent, England",
+    "role": "Wicket-keeper",
+    "internationalspan": "1988\u20131992",
+    "testdebutdate": "11 January",
+    "testdebutyear": "1992",
+    "testdebutagainst": "New Zealand",
+    "testcap": "110",
+    "lasttestdate": "19 February",
+    "lasttestyear": "1992",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "30 November",
+    "odidebutyear": "1988",
+    "odidebutagainst": "New Zealand",
+    "odicap": "51",
+    "lastodidate": "25 January",
+    "lastodiyear": "1992",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17063/17063.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "33",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "10/3"
+    },
+    "WODI": {
+        "matches": "21",
+        "runs": "31",
+        "bat avg": "31.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "10/9"
+    },
+    "WFC": {
+        "matches": "6",
+        "runs": "51",
+        "bat avg": "12.75",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "11/3"
+    },
+    "WLA": {
+        "matches": "65",
+        "runs": "1,061",
+        "bat avg": "26.52",
+        "100s/50s": "1/7",
+        "top score": "105",
+        "catches/stumpings": "49/25"
+    },
+    "clubs": {
+        "Middlesex": "1988\u20131997"
+    },
+    "birth_date": "1966-10-24"
+}

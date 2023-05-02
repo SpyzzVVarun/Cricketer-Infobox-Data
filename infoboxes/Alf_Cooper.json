@@ -1,0 +1,26 @@
+{
+    "name": "Alf Cooper",
+    "country": "Ireland",
+    "country2": "United States",
+    "fullname": "Alfred William Madison Cooper",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/26/26720/26720.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "50",
+        "bat avg": "25.00",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "66",
+        "wickets": "2",
+        "bowl avg": "19.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/35",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1932-6-12"
+}

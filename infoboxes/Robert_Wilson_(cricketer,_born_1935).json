@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Wilson",
+    "birth_place": "Paisley, Renfrewshire, Scotland",
+    "death_date": "April 1987 (aged 52)",
+    "death_place": "Maidstone, Kent, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/robert-wilson-25400 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "64",
+        "bat avg": "12.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1955&ndash;1956"
+    }
+}

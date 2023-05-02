@@ -1,0 +1,39 @@
+{
+    "name": "Palwankar Baloo",
+    "country": "India",
+    "fullname": "Palwankar Baloo",
+    "birth_place": "Dharwad, Bombay Presidency, British India",
+    "death_date": "1955",
+    "death_place": "Bombay, Bombay State, India",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "family": "P Shivram (brother) P Ganpat (brother) P Vithal (brother)",
+    "type1": "FC",
+    "debutdate1": "8 February",
+    "debutyear1": "1906",
+    "debutfor1": "Hindus",
+    "debutagainst1": "Europeans",
+    "lastdate1": "8 December",
+    "lastyear1": "1920",
+    "lastfor1": "Hindus",
+    "lastagainst1": "Parsees",
+    "source": "http://www.espncricinfo.com/india/content/player/27275.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "753",
+        "bat avg": "13.69",
+        "100s/50s": "0/3",
+        "top score": "75",
+        "deliveries": "6,431",
+        "wickets": "179",
+        "bowl avg": "15.21",
+        "fivefor": "17",
+        "tenfor": "4",
+        "best bowling": "8/103",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Hindus": "1905\u20131921"
+    },
+    "birth_date": "1876-3-19"
+}

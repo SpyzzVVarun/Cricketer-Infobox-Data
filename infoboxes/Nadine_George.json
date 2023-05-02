@@ -1,0 +1,67 @@
+{
+    "name": "Nadine George,  MBE",
+    "female": "true",
+    "country": "West Indies",
+    "fullname": "Nadine Andrea Julietta George",
+    "birth_place": "Jamaica",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2003\u20132008",
+    "onetest": "true",
+    "testdebutdate": "15 March",
+    "testdebutyear": "2004",
+    "testdebutagainst": "Pakistan",
+    "testcap": "23",
+    "odidebutdate": "13 March",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "38",
+    "lastodidate": "12 November",
+    "lastodiyear": "2008",
+    "lastodiagainst": "Sri Lanka",
+    "T20Idebutdate": "27 June",
+    "T20Idebutyear": "2008",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "3",
+    "lastT20Idate": "6 July",
+    "lastT20Iyear": "2008",
+    "lastT20Iagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Archive/Players/46/46086/46086.html CricketArchive",
+    "WTest": {
+        "matches": "1",
+        "runs": "140",
+        "bat avg": "70.00",
+        "100s/50s": "1/0",
+        "top score": "118",
+        "catches/stumpings": "1/0"
+    },
+    "WODI": {
+        "matches": "41",
+        "runs": "622",
+        "bat avg": "16.81",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "8/1"
+    },
+    "WT20I": {
+        "matches": "3",
+        "runs": "32",
+        "bat avg": "10.66",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "0/4"
+    },
+    "WLA": {
+        "matches": "59",
+        "runs": "1,270",
+        "bat avg": "24.90",
+        "100s/50s": "0/8",
+        "top score": "90",
+        "catches/stumpings": "11/1"
+    },
+    "clubs": {
+        "Saint Lucia": "1994\u20132008",
+        "Trinidad and Tobago": "2010\u20132011"
+    },
+    "birth_date": "1968-10-15"
+}

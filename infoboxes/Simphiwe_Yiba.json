@@ -1,0 +1,34 @@
+{
+    "name": "Simphiwe Yiba",
+    "birth_place": "Cape Province, South Africa",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/379782.html ESPNcricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "2/0"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1992-6-20"
+}

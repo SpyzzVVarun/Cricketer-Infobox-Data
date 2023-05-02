@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "John Douglas Sandford",
+    "birth_place": "Chillingham, Northumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Windsor, Berkshire, England",
+    "family": "Ernest Sandford (brother), Temple Sandford (nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/20581.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "45",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1855&ndash;1856",
+        "Marylebone Cricket Club": "1869"
+    }
+}

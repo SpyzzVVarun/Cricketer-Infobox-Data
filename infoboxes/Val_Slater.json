@@ -1,0 +1,28 @@
+{
+    "name": "Val Slater",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Vlamai Slater",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium pace, Right-arm medium pace, off-spin",
+    "testdebutdate": "18 January",
+    "testdebutyear": "1957 |onetest=true",
+    "testdebutagainst": "New Zealand",
+    "testcap": "43",
+    "source": "http://www.espncricinfo.com/ci/content/player/53568.html CricInfo ",
+    "WTest": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "61",
+        "wickets": "4",
+        "bowl avg": "3.25",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "4/13"
+    },
+    "clubs": {}
+}

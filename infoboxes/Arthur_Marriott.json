@@ -1,0 +1,26 @@
+{
+    "name": "Arthur Marriott",
+    "country": "Australia",
+    "fullname": "Arthur John Marriott",
+    "birth_place": "England",
+    "death_date": "31 March 1866",
+    "death_place": "Nice, France",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "29 March",
+    "debutyear1": "1852",
+    "debutfor1": "Tasmania",
+    "debutagainst1": "Victoria",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/2/2618/2618.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1852"
+    }
+}

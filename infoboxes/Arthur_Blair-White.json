@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "Arthur Blair-White",
+    "birth_place": "Monkstown, Ireland",
+    "death_date": "1975",
+    "death_place": "Ballindrait, Ulster, Ireland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/24319.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "15.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1913"
+    }
+}

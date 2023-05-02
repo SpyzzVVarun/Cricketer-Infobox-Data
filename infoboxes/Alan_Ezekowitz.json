@@ -1,0 +1,39 @@
+{
+    "country": "South Africa",
+    "fullname": "Raymond Alan Bryan Ezekowitz",
+    "birth_place": "Durban, Natal, South Africa",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12715.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "635",
+        "bat avg": "20.48",
+        "100s/50s": "\u2013/3",
+        "top score": "93",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "13/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "33",
+        "bat avg": "8.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "3",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1980&ndash;1981"
+    },
+    "birth_date": "1954-1-19"
+}

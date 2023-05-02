@@ -1,0 +1,36 @@
+{
+    "name": "Steven Jack",
+    "country": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://cricinfo.com/ci/content/player/45711.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "462",
+        "wickets": "8",
+        "bowl avg": "24.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/69",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "108",
+        "wickets": "3",
+        "bowl avg": "28.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/41",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

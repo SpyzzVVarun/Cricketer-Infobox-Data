@@ -1,0 +1,61 @@
+{
+    "name": "Pochiah Krishnamurthy",
+    "full_name": "Pallemoni Krishnamurthy",
+    "birth_place": "Hyderabad, British India",
+    "death_date": "1999",
+    "death_place": "Hyderabad, Andhra Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "testcap": "127",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "18 February",
+    "testdebutyear": "1971",
+    "lasttestdate": "13 April",
+    "lasttestyear": "1971",
+    "lasttestagainst": "West Indies",
+    "oneodi": "true",
+    "odidebutdate": "22 February",
+    "odidebutyear": "1976",
+    "odidebutagainst": "New Zealand",
+    "odicap": "21",
+    "lastodidate": "22 February",
+    "lastodiyear": "1976",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/30135.html ",
+    "Test": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "7/1"
+    },
+    "ODI": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "1/1"
+    },
+    "FC": {
+        "matches": "108",
+        "runs": "1,558",
+        "bat avg": "14.98",
+        "100s/50s": "0/8",
+        "top score": "82",
+        "catches/stumpings": "150/68"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "2/2"
+    },
+    "clubs": {},
+    "birth_date": "1947-7-12"
+}

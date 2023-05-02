@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Ian Gillespie",
+    "birth_place": "Shrewsbury, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13969.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "26",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "24",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Shropshire": "2002\u20132003"
+    },
+    "birth_date": "1976-11-3"
+}

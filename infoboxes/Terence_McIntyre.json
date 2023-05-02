@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Terence Frank McIntyre",
+    "birth_place": "Hendon, Middlesex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/17488.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "87",
+        "bat avg": "9.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {
+        "Bedfordshire": "1957&ndash;1960"
+    },
+    "birth_date": "1930-7-2"
+}

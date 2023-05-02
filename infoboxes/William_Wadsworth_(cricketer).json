@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "William Wadsworth",
+    "birth_place": "Baildon, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bradford, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23307.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "107",
+        "bat avg": "8.23",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1845&ndash;1862"
+    }
+}

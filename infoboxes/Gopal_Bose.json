@@ -1,0 +1,25 @@
+{
+    "name": "Gopal Bose",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/26966.html  ",
+    "Tests": {
+        "matches": "0"
+    },
+    "ODIs": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "-/-",
+        "top score": "13",
+        "deliveries": "11",
+        "wickets": "1",
+        "bowl avg": "39.00",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "1/39",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {}
+}

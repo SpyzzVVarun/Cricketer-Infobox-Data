@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "George Henry Rogerson",
+    "birth_place": "Monks Coppenhall, Cheshire,, England",
+    "death_date": "1961",
+    "death_place": "Crewe, Cheshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/19807.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "340",
+        "bat avg": "17.89",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1923"
+    }
+}

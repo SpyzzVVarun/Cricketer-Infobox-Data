@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Thomas Albert Pearce",
+    "birth_place": "Essendon, Hertfordshire, England",
+    "death_date": "1898",
+    "death_place": "St Albans, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/18843.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "31",
+        "bat avg": "4.37",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1874&ndash;1876"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Andrew Zesers",
+    "country": "Australia",
+    "fullname": "Andris Karlis Zesers",
+    "birth_place": "Adelaide, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "odidebutdate": "22 October",
+    "odidebutyear": "1987",
+    "odidebutagainst": "India",
+    "lastodidate": "27 October",
+    "lastodiyear": "1987",
+    "lastodiagainst": "New Zealand",
+    "source": "http://content.cricinfo.com/ci/content/current/player/8466.html CricInfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "74.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "45",
+        "runs": "763",
+        "bat avg": "16.58",
+        "100s/50s": "0/2",
+        "top score": "85",
+        "deliveries": "11,189",
+        "wickets": "142",
+        "bowl avg": "30.44",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/67",
+        "catches/stumpings": "14/\u2013"
+    },
+    "LA": {
+        "matches": "15",
+        "runs": "15",
+        "bat avg": "15.00",
+        "100s/50s": "1/13",
+        "deliveries": "816",
+        "wickets": "10",
+        "bowl avg": "54.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1984/85\u20131989/90"
+    },
+    "birth_date": "1967-3-11"
+}

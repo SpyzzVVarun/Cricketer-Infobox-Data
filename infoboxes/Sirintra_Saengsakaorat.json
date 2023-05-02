@@ -1,0 +1,24 @@
+{
+    "name": "Sirintra Saengsakaorat",
+    "female": "true",
+    "country": "Thailand",
+    "T20Idebutdate": "3 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "8",
+    "lastT20Idate": "14 July",
+    "lastT20Iyear": "2018",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/587143.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1996-11-18",
+    "medaltemplates": [
+        "Country: {{THA}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

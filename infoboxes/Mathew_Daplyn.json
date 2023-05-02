@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Mathew Daplyn",
+    "birth_place": "Hindringham, Norfolk, England",
+    "death_date": "4 April 1854 (aged 51/52)",
+    "death_place": "Hindringham, Norfolk, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/12345.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "93",
+        "bat avg": "7.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "148",
+        "wickets": "23",
+        "bowl avg": [
+            ""
+        ],
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "5/?",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1835",
+        "Norfolk": "1833\u20131836",
+        "Cambridge University": "1833"
+    }
+}

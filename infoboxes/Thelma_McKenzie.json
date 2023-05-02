@@ -1,0 +1,31 @@
+{
+    "name": "Thelma McKenzie",
+    "fullname": "Thelma Norma Meryl Murden",
+    "female": "true",
+    "country": "Australia",
+    "birth_place": "Wallerawang, New South Wales, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "20 March",
+    "testdebutyear": "1948",
+    "testdebutagainst": "New Zealand",
+    "testcap": "28",
+    "source": "http://www.espncricinfo.com/ci/content/player/53543.html ESPNcricinfo ",
+    "WTest": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1915-4-6"
+}

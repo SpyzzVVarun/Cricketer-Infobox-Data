@@ -1,0 +1,42 @@
+{
+    "name": "Cliff Dickeson",
+    "country": "New Zealand",
+    "fullname": "Clifford Wayne Dickeson",
+    "birth_place": "Kawakawa, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/cliff-dickeson-36892 Cricinfo ",
+    "FC": {
+        "matches": "90",
+        "runs": "1289",
+        "bat avg": "12.04",
+        "100s/50s": "0/3",
+        "top score": "59",
+        "deliveries": "21,353",
+        "wickets": "282",
+        "bowl avg": "29.22",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "7/79",
+        "catches/stumpings": "59/\u2013"
+    },
+    "List A": {
+        "matches": "32",
+        "runs": "257",
+        "bat avg": "16.11",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "1744",
+        "wickets": "39",
+        "bowl avg": "26.33",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/21",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "1973\u201374 to 1986\u201387",
+        "Bedfordshire": "1975 to 1976"
+    },
+    "birth_date": "1955-3-26"
+}

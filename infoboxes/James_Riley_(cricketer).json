@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "James Riley",
+    "birth_place": "Kirkby-in-Ashfield, Nottinghamshire, England",
+    "death_date": "1937",
+    "death_place": "Derby, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19716.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "115",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire": "1898"
+    },
+    "birth_date": "1860-12-11"
+}

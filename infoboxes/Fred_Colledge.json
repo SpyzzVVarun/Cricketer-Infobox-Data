@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Fred Colledge",
+    "birth_place": "Renfrew, Renfrewshire, Scotland",
+    "death_date": "1985",
+    "death_place": "Paisley, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/fred-colledge-25173 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "749",
+        "wickets": "6",
+        "bowl avg": "44.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1949&ndash;1952"
+    }
+}

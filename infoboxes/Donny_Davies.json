@@ -1,0 +1,32 @@
+{
+    "name": "Don Davies",
+    "country": "England",
+    "fullname": "Harry Donald Davies",
+    "birth_place": "Manchester, Lancashire, England",
+    "death_date": "1958",
+    "death_place": "Munich-Riem Airport, Germany",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1924",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Kent",
+    "lastdate1": "29 August",
+    "lastyear1": "1925",
+    "lastfor1": "Lancashire",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/28/28968/28968.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "260",
+        "bat avg": "17.33",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1924\u20131925"
+    },
+    "birth_date": "1892-3-13"
+}

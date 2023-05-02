@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Godfrey Acheson Thornhagh Foljambe",
+    "birth_place": "Marylebone, London, England",
+    "death_date": "df=yes",
+    "death_place": "Lizard, Cornwall, England",
+    "family": "George Foljambe (brother), Edward Acheson (uncle), Lord Acheson (uncle), Edmond Foljambe (nephew), Henry Wright (brother-in-law)",
+    "batting": "Unknown",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/13111.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "97",
+        "bat avg": "12.12",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "379",
+        "wickets": "9",
+        "bowl avg": "16.11",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1892&ndash;1893",
+        "Cambridgeshire": "1899"
+    }
+}

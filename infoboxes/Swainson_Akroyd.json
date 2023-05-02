@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Swainson Howden Akroyd",
+    "birth_place": "Streatham, Surrey, England",
+    "death_date": "1925",
+    "death_place": "Marylebone, London, England",
+    "family": "Bayly Akroyd (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/8696.html Cricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "930",
+        "bat avg": "17.22",
+        "100s/50s": "\u2013/4",
+        "top score": "87",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1870\u20131871",
+        "Surrey": "1869\u20131878",
+        "Gentlemen of England": "1870\u20131875",
+        "South of England": "1873"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Peter Carlton Oldfield",
+    "birth_place": "Headingley, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Highclere, Hampshire, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/18311.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "237",
+        "bat avg": "9.87",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "catches/stumpings": "26/33"
+    },
+    "clubs": {
+        "Oxford University": "1931&ndash;1933",
+        "Marylebone Cricket Club": "1934"
+    }
+}

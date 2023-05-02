@@ -1,0 +1,28 @@
+{
+    "name": "Ray Phillips",
+    "country": "Australia",
+    "batting": "Right-hand bat",
+    "source": "http://www.espncricinfo.com/australia/content/player/7113.html  ",
+    "FC": {
+        "matches": "89",
+        "runs": "2925",
+        "bat avg": "28.96",
+        "100s/50s": "1/21",
+        "fivefor": "-",
+        "tenfor": "-",
+        "catches/stumpings": "271/15"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "129",
+        "bat avg": "16.12",
+        "100s/50s": "-/-",
+        "top score": "19",
+        "fivefor": "-",
+        "catches/stumpings": "26/0"
+    },
+    "clubs": {
+        "New South Wales": "1978/79",
+        "Queensland": "1979/80-1985/86"
+    }
+}

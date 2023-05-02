@@ -1,0 +1,23 @@
+{
+    "name": "Pia Thomsen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Pia Thomsen",
+    "role": "Batsman",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "England",
+    "odicap": "22",
+    "lastodidate": "28 July",
+    "lastodiyear": "1993",
+    "lastodiagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/54978.html Cricinfo ",
+    "WODI": {
+        "matches": "5",
+        "runs": "16",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {}
+}

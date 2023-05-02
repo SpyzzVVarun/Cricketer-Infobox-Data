@@ -1,0 +1,42 @@
+{
+    "name": "John King",
+    "birth_place": "Lutterworth, Leicestershire, England",
+    "death_date": "18 November 1946 (aged 75)",
+    "death_place": "Denbigh, Wales",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "14 June",
+    "testdebutyear": "1909",
+    "onetest": "True",
+    "source": "http://content-uk.cricinfo.com/england/content/player/15889.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "64",
+        "bat avg": "32.00",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "162",
+        "wickets": "1",
+        "bowl avg": "99.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/99",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "552",
+        "runs": "25,122",
+        "bat avg": "27.33",
+        "100s/50s": "34/130",
+        "deliveries": "70,187",
+        "wickets": "1,204",
+        "bowl avg": "25.17",
+        "fivefor": "69",
+        "tenfor": "11",
+        "best bowling": "8/17",
+        "catches/stumpings": "340/0"
+    },
+    "clubs": {}
+}

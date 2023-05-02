@@ -1,0 +1,28 @@
+{
+    "name": "Harry Ridley",
+    "country": "New Zealand",
+    "fullname": "Harry Clifford Ridley",
+    "birth_place": "Chepstow, Monmouthshire, England",
+    "death_date": "11 January 1949 (aged 80)",
+    "death_place": "Christchurch, New Zealand",
+    "family": "Archie Ridley (brother)",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/38320.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "611",
+        "bat avg": "19.70",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1891-92 to 1904-05"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Britney Cooper",
+    "female": "true",
+    "country": "West Indies",
+    "fullname": "Britney Cooper",
+    "birth_place": "Trinidad",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Batter",
+    "internationalspan": "2009\u2013present",
+    "odidebutdate": "21 October",
+    "odidebutyear": "2009",
+    "odidebutagainst": "South Africa",
+    "odicap": "69",
+    "lastodidate": "7 September",
+    "lastodiyear": "2021",
+    "lastodiagainst": "South Africa",
+    "T20Idebutdate": "25 October",
+    "T20Idebutyear": "2009",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "21",
+    "lastT20Idate": "25 January",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/westindies/content/player/424629.html ESPNCricinfo ",
+    "WODI": {
+        "matches": "43",
+        "runs": "448",
+        "bat avg": "14.00",
+        "100s/50s": "0/1",
+        "catches/stumpings": "20/-"
+    },
+    "WT20I": {
+        "matches": "69",
+        "runs": "582",
+        "bat avg": "11.19",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "catches/stumpings": "22/-"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2010\u2013present",
+        "Barbados Royals": "2022\u2013present"
+    },
+    "birth_date": "1989-8-23"
+}

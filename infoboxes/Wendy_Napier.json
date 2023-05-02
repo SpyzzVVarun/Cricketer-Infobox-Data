@@ -1,0 +1,60 @@
+{
+    "name": "Wendy Napier",
+    "female": "true",
+    "fullname": "Wendy Napier",
+    "birth_place": "Caulfield, Victoria Australia",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "1985",
+    "country": "Australia",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1985",
+    "testdebutagainst": "England",
+    "testcap": "107",
+    "lasttestdate": "12 January",
+    "lasttestyear": "1985",
+    "lasttestagainst": "England",
+    "odidebutdate": "3 February",
+    "odidebutyear": "1985",
+    "odidebutagainst": "England",
+    "odicap": "42",
+    "lastodidate": "10 February",
+    "lastodiyear": "1985",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/11/11032/11032.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "4",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "19",
+        "runs": "400",
+        "bat avg": "18.18",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WLA": {
+        "matches": "16",
+        "runs": "315",
+        "bat avg": "24.23",
+        "100s/50s": "0/2",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1979/80\u20131986/87"
+    },
+    "birth_date": "1957-10-1"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Paul Whitelaw",
+    "fullname": "Paul Erskine Whitelaw",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1988",
+    "death_place": "Auckland, New Zealand",
+    "testcap": "25",
+    "country": "New Zealand",
+    "testdebutagainst": "England",
+    "testdebutdate": "24 March",
+    "testdebutyear": "1933",
+    "lasttestdate": "31 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1933",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38748.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "64",
+        "bat avg": "32.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "49",
+        "runs": "2739",
+        "bat avg": "37.52",
+        "100s/50s": "5/15",
+        "top score": "195",
+        "catches/stumpings": "39/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1910-02-10"
+}

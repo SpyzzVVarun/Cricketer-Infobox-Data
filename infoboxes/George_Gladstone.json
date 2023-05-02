@@ -1,0 +1,38 @@
+{
+    "name": "George Gladstone",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "West Indies",
+    "testdebutagainst": "England",
+    "testdebutdate": "3 April",
+    "testdebutyear": "1930",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/51888.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "300",
+        "wickets": "1",
+        "bowl avg": "189.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/139",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "753",
+        "wickets": "10",
+        "bowl avg": "44.10",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/142",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

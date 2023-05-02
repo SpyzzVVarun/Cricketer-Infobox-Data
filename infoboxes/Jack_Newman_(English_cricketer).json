@@ -1,0 +1,20 @@
+{
+    "name": "Jack Newman",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/6/6776/6776.html CricketArchive",
+    "First-class": {
+        "matches": "541",
+        "runs": "15,364",
+        "bat avg": "21.57",
+        "100s/50s": "10/69",
+        "deliveries": "102,779",
+        "wickets": "2,054",
+        "bowl avg": "25.02",
+        "fivefor": "134",
+        "tenfor": "35",
+        "best bowling": "9/131",
+        "catches/stumpings": "318/\u2013"
+    },
+    "clubs": {}
+}

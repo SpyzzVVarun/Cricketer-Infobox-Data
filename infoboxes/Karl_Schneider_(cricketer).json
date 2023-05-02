@@ -1,0 +1,41 @@
+{
+    "name": "Karl Schneider",
+    "country": "Australia",
+    "fullname": "Karl Joseph Schneider",
+    "birth_place": "Hawthorn, Victoria",
+    "death_date": "1928",
+    "death_place": "Kensington Park, South Australia",
+    "heightm": "1.57",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg spin",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "2 February",
+    "debutyear1": "1923",
+    "debutfor1": "Victoria",
+    "debutagainst1": "Tasmania",
+    "lastdate1": "3 April",
+    "lastyear1": "1928",
+    "lastfor1": "Australia",
+    "lastagainst1": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/16/16660/16660.html CricketArchive ",
+    "First-class": {
+        "matches": "20",
+        "runs": "1,509",
+        "bat avg": "48.67",
+        "100s/50s": "6/8",
+        "top score": "146",
+        "deliveries": "533",
+        "wickets": "10",
+        "bowl avg": "35.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/10",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Victoria": "1922/23-1924/25",
+        "South Australia": "1926/27-1927/28"
+    },
+    "birth_date": "1905-8-15"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Vernon Eccles",
+    "birth_place": "Davenham, Cheshire, England",
+    "death_date": "1890",
+    "death_place": "Bareilly, North-Western Provinces, British India",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm underarm Unknown-arm underarm slow",
+    "family": "William Eccles (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/12480.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "42",
+        "bat avg": "8.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "64",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1870&ndash;1875"
+    }
+}

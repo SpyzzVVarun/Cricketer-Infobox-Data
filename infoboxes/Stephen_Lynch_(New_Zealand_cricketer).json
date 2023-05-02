@@ -1,0 +1,41 @@
+{
+    "name": "Stephen Lynch",
+    "country": "New Zealand",
+    "fullname": "Stephen Michael Lynch",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "family": "Robert Lynch (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/10/10181/10181.html CricketArchive ",
+    "FC": {
+        "matches": "24",
+        "runs": "1,263",
+        "bat avg": "32.38",
+        "100s/50s": "&ndash;/10",
+        "top score": "94",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "19/&ndash;"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "568",
+        "bat avg": "18.93",
+        "100s/50s": "&ndash;/4",
+        "top score": "65",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Auckland": "1995/96&ndash;1999/2000"
+    },
+    "birth_date": "1976-2-18"
+}

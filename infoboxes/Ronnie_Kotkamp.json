@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Ronald Kotkamp",
+    "birth_place": "Dunedin, Otago, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/45/45501/45501.html CricketArchive ",
+    "List A": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "39.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/39",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hertfordshire": "2002"
+    },
+    "birth_date": "1972-4-15"
+}

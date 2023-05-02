@@ -1,0 +1,22 @@
+{
+    "name": "Rodney Bernstein",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26698/26698.html CricketArchive",
+    "First-class": {
+        "matches": "6",
+        "runs": "89",
+        "bat avg": "8.90",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "816",
+        "wickets": "16",
+        "bowl avg": "25.37",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

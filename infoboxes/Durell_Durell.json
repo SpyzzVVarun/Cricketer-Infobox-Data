@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Durell Durell",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=yes",
+    "death_place": "Winchester, Hampshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12421.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "108",
+        "bat avg": "13.50",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "deliveries": "?",
+        "wickets": "3",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/?",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1838",
+        "Oxford University": "1838&ndash;1840"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Stephen John Hoadley",
+    "birth_place": "Pembury, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Simon Hoadley (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/14850.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "202",
+        "bat avg": "18.36",
+        "100s/50s": "&ndash;/2",
+        "top score": "58",
+        "deliveries": "6",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1975&ndash;1976"
+    },
+    "birth_date": "1955-7-7"
+}

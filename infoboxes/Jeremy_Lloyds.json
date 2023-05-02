@@ -1,0 +1,52 @@
+{
+    "name": "Jeremy Lloyds",
+    "country": "England",
+    "fullname": "Jeremy William Lloyds",
+    "birth_place": "Penang, Malaya",
+    "death_date": "2022",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder (1979\u20131991)",
+    "umpire": "true",
+    "testsumpired": "5",
+    "umptestdebutyr": "2004",
+    "umptestlastyr": "2005",
+    "odisumpired": "18",
+    "umpodidebutyr": "2000",
+    "umpodilastyr": "2006",
+    "t20isumpired": "1",
+    "umpt20idebutyr": "2005",
+    "source": "http://www.espncricinfo.com/ci/content/player/16315.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "267",
+        "runs": "10,679",
+        "bat avg": "31.04",
+        "100s/50s": "10/62",
+        "deliveries": "24,175",
+        "wickets": "333",
+        "bowl avg": "38.86",
+        "fivefor": "13",
+        "tenfor": "1",
+        "best bowling": "7/88",
+        "catches/stumpings": "229/\u2013"
+    },
+    "List A": {
+        "matches": "177",
+        "runs": "1,982",
+        "bat avg": "15.98",
+        "100s/50s": "0/5",
+        "deliveries": "1,522",
+        "wickets": "26",
+        "bowl avg": "43.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "58/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1979\u20131984",
+        "Orange Free State": "1983/84\u20131987/88",
+        "Gloucestershire": "1985\u20131991"
+    },
+    "birth_date": "1954-11-17"
+}

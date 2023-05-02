@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Benjamin Jack Bhabra",
+    "birth_place": "Huddersfield, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/884079.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "4.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "226",
+        "wickets": "1",
+        "bowl avg": "149.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/101",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Loughborough MCCU": "2019"
+    },
+    "birth_date": "1996-8-18"
+}

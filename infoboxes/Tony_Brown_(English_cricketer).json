@@ -1,0 +1,40 @@
+{
+    "name": "Tony Brown",
+    "fullname": "Anthony Stephen Brown",
+    "birth_place": "Clifton, Bristol",
+    "death_date": "2020",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/28/28188/28188.html CricketArchive subscription ",
+    "First-class": {
+        "matches": "496",
+        "runs": "12,851",
+        "bat avg": "18.12",
+        "100s/50s": "3/41",
+        "top score": "116",
+        "deliveries": "71,576",
+        "wickets": "1,230",
+        "bowl avg": "25.64",
+        "fivefor": "54",
+        "tenfor": "8",
+        "best bowling": "8/80",
+        "catches/stumpings": "496/\u2013"
+    },
+    "List A": {
+        "matches": "164",
+        "runs": "2,017",
+        "bat avg": "17.69",
+        "100s/50s": "0/2",
+        "deliveries": "7,626",
+        "wickets": "230",
+        "bowl avg": "20.62",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/44",
+        "catches/stumpings": "68/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1953\u20131976"
+    },
+    "birth_date": "1936-6-24"
+}

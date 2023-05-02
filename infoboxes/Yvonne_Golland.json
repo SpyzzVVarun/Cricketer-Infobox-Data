@@ -1,0 +1,32 @@
+{
+    "name": "Yvonne Golland",
+    "female": "true",
+    "country": "Young England",
+    "fullname": "Yvonne Golland",
+    "role": "Bowler",
+    "internationalspan": "1973",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Australia",
+    "odicap": "5",
+    "lastodidate": "21 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Players/17/17013/17013.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "31.50",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "1/31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "West Midlands": "1973\u20131976"
+    }
+}

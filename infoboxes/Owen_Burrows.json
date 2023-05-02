@@ -1,0 +1,28 @@
+{
+    "name": "Owen Burrows",
+    "fullname": "Arthur Owen Burrows",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "death_date": "1984",
+    "death_place": "Hobart, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/australia/content/player/4247.html Cricinfo ",
+    "FC": {
+        "matches": "32",
+        "runs": "1054",
+        "bat avg": "19.51",
+        "100s/50s": "0/3",
+        "top score": "69",
+        "deliveries": "4568",
+        "wickets": "77",
+        "bowl avg": "30.84",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1923\u20131937"
+    },
+    "birth_date": "1903-10-17"
+}

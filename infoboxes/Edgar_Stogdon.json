@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Edgar Stogdon",
+    "birth_place": "Harrow, Middlesex, England",
+    "death_date": "1951",
+    "death_place": "Northwood, Middlesex, England",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/cricketers/edgar-stogdon-21051 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "4.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1893"
+    }
+}

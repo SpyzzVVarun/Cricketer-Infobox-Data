@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Samuel Edward Grant",
+    "birth_place": "Shoreham-by-Sea, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/638392.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "66",
+        "bat avg": "33.00",
+        "100s/50s": "\u2013/1",
+        "top score": "52",
+        "deliveries": "469",
+        "wickets": "1",
+        "bowl avg": "401.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/42",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Loughborough MCCU": "2014&ndash;2016"
+    },
+    "birth_date": "1995-8-30"
+}

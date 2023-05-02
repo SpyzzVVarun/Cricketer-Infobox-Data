@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Marmaduke Evan-Thomas",
+    "birth_place": "Builth Wells, Brecknockshire, Wales",
+    "death_date": "df=yes",
+    "death_place": "Llanwrtyd Wells, Brecknockshire, Wales",
+    "family": "Cyril Stileman (brother-in-law)",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/12698.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "45",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "59.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1929"
+    }
+}

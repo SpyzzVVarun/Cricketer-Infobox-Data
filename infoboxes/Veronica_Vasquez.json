@@ -1,0 +1,31 @@
+{
+    "name": "Veronica Vasquez",
+    "female": "true",
+    "country": "Argentina",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "3 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Peru",
+    "T20Icap": "10",
+    "lastT20Idate": "15 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Brazil",
+    "source": "http://www.espncricinfo.com/ci/content/player/307838.html Cricinfo ",
+    "WT20I": {
+        "matches": "14",
+        "runs": "190",
+        "bat avg": "19.00",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-10-18"
+}

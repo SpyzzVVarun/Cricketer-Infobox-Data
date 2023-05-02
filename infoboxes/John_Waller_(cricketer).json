@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "John Waller",
+    "birth_place": "Camberwell, London, England",
+    "death_date": "df=yes",
+    "death_place": "Brooklyn, New York, United States",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ireland/content/player/23322.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "35",
+        "bat avg": "5.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "8",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {}
+}

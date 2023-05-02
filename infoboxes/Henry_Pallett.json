@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Henry James Pallett",
+    "birth_place": "Birchfield, Staffordshire,, England",
+    "death_date": "1917",
+    "death_place": "Aston, Warwickshire,, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/18736.html Cricinfo ",
+    "First-class": {
+        "matches": "77",
+        "runs": "929",
+        "bat avg": "11.19",
+        "100s/50s": "\u2013/2",
+        "deliveries": "16,459",
+        "wickets": "305",
+        "bowl avg": "21.57",
+        "fivefor": "21",
+        "tenfor": "7",
+        "best bowling": "9/55",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1894&ndash;1898",
+        "Staffordshire": "1903"
+    }
+}

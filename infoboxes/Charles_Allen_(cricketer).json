@@ -1,0 +1,31 @@
+{
+    "name": "Charles Allen",
+    "country": "England",
+    "fullname": "Charles Allen",
+    "birth_place": "Cirencester, England",
+    "death_date": "1958",
+    "death_place": "Cirencester, England",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutyear1": "1909",
+    "lastyear1": "1909",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27454/27454.html ",
+    "FC": {
+        "matches": "2",
+        "runs": "51",
+        "bat avg": "17",
+        "100s/50s": "-/-",
+        "top score": "35",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {
+        "Gloucestershire County Cricket Club": ""
+    },
+    "birth_date": "1878-5-31"
+}

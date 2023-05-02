@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Frederick Randon",
+    "birth_place": "Stapleford, Nottinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Hathern, Leicestershire, England",
+    "family": "Frederick Randon, Jr. (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/19571.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "104",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,386",
+        "wickets": "37",
+        "bowl avg": "17.70",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/54",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1874&ndash;1876"
+    }
+}

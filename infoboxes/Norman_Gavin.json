@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Norman Leslie Gavin",
+    "birth_place": "Camberwell, Surrey, England",
+    "death_date": "2013",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/13579.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "52",
+        "bat avg": "52.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "deliveries": "204",
+        "wickets": "3",
+        "bowl avg": "34.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/76",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1922-9-5"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "John Pember",
+    "country": "England",
+    "fullname": "John Devereaux Dubricious Pember",
+    "birth_place": "Creaton, Northamptonshire, England",
+    "death_date": "2007",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18876.html Cricinfo",
+    "First-class": {
+        "matches": "24",
+        "runs": "271",
+        "bat avg": "18.06",
+        "100s/50s": "&ndash;/1",
+        "top score": "53",
+        "deliveries": "2696",
+        "wickets": "43",
+        "bowl avg": "31.86",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/45",
+        "catches/stumpings": "11/&ndash;"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "20",
+        "bat avg": "3.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "deliveries": "360",
+        "wickets": "8",
+        "bowl avg": "31.87",
+        "fivefor": "&ndash;",
+        "tenfor": "n/a",
+        "best bowling": "2/19",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1940-6-8"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Frank Tarrant",
+    "country": "Australia",
+    "fullname": "Francis Alfred Tarrant",
+    "birth_place": "Fitzroy, Colony of Victoria",
+    "death_date": "1951",
+    "death_place": "Hawthorn, Victoria,, Australia",
+    "family": "WA Tarrant (uncle), LBN Tarrant (son)",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm slow-medium",
+    "role": "All-rounder",
+    "umpire": "true",
+    "testsumpired": "2",
+    "umptestdebutyr": "1933",
+    "umptestlastyr": "1934",
+    "fcumpired": "8",
+    "umpfcdebutyr": "1932",
+    "umpfclastyr": "1934",
+    "source": "https://cricketarchive.com/Archive/Players/13/13229/13229.html CricketArchive ",
+    "FC": {
+        "matches": "329",
+        "runs": "17,952",
+        "bat avg": "36.41",
+        "100s/50s": "33/93",
+        "deliveries": "63,531",
+        "wickets": "1,512",
+        "bowl avg": "17.49",
+        "fivefor": "133",
+        "tenfor": "38",
+        "best bowling": "10/90",
+        "catches/stumpings": "303/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1899\u20131925",
+        "MCC": "1903\u20131914",
+        "Middlesex": "1904\u20131914",
+        "Europeans": "1915\u20131936",
+        "Patiala": "1927\u20131933"
+    },
+    "birth_date": "1880-12-11"
+}

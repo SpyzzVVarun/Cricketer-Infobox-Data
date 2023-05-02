@@ -1,0 +1,39 @@
+{
+    "country": "England",
+    "fullname": "Maxwell Nicholas Field",
+    "birth_place": "Coventry, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13042.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "122",
+        "bat avg": "12.20",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,684",
+        "wickets": "24",
+        "bowl avg": "37.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/76",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "382",
+        "wickets": "4",
+        "bowl avg": "47.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/31",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1974\u20131975",
+        "Cambridge University": "1974"
+    },
+    "birth_date": "1950-3-23"
+}

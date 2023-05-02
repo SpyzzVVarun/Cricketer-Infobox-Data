@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Lea Birch",
+    "birth_place": "Cartmel, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Totnes, Devon, England",
+    "family": "Scholes Birch (son)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10445.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "8.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "156",
+        "wickets": "8",
+        "bowl avg": "11.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

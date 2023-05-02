@@ -1,0 +1,31 @@
+{
+    "name": "Gamini Goonesena",
+    "birth_place": "Colombo, Ceylon",
+    "death_date": "df=yes",
+    "death_place": "Canberra, Australia",
+    "batting": "Right-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/49123.html CricInfo",
+    "First-class": {
+        "matches": "194",
+        "runs": "5,751",
+        "bat avg": "21.53",
+        "100s/50s": "3/24",
+        "top score": "211",
+        "deliveries": "35,172",
+        "wickets": "674",
+        "bowl avg": "24.37",
+        "fivefor": "41",
+        "tenfor": "8",
+        "best bowling": "8/39",
+        "catches/stumpings": "108/\u2013"
+    },
+    "clubs": {
+        "Ceylon": "1949/50\u20131961/62",
+        "Nottinghamshire": "1952\u20131964",
+        "Cambridge University": "1954\u20131957",
+        "New South Wales": "1960/61\u20131963/64"
+    },
+    "birth_date": "1931-2-16"
+}

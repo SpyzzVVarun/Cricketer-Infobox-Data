@@ -1,0 +1,21 @@
+{
+    "name": "Reginald Fisher",
+    "country": "England",
+    "fullname": "Reginald Wordsworth Cecil Fisher",
+    "birth_place": "Stoke Rochford, Lincolnshire, England",
+    "death_date": "1939",
+    "death_place": "Hemel Hempstead, Hertfordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/12844.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1898"
+    }
+}

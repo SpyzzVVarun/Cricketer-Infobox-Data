@@ -1,0 +1,29 @@
+{
+    "name": "Francis Appleyard",
+    "country": "England",
+    "fullname": "Francis Appleyard",
+    "birth_place": "Clifton, Yorkshire, England",
+    "death_date": "1971",
+    "death_place": "Stevenage, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/4/4763/4763.html CricketArchive ",
+    "First-class": {
+        "matches": "18",
+        "runs": "74",
+        "bat avg": "6.72",
+        "100s/50s": "0/0",
+        "deliveries": "2,951",
+        "wickets": "30",
+        "bowl avg": "40.33",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/14",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Essex": "1946\u20131947",
+        "MCC": "1946\u20131950"
+    },
+    "birth_date": "1905-9-26"
+}

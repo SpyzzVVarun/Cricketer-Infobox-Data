@@ -1,0 +1,50 @@
+{
+    "name": "Lynne Read",
+    "female": "true",
+    "country": "Young England",
+    "country2": "England",
+    "fullname": "Lynne Read",
+    "birth_place": "Hertfordshire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1973",
+    "internationalspan2": "1976",
+    "odidebutfor": "Young England",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Australia",
+    "odicap": "10",
+    "lastodifor": "England",
+    "lastodidate": "1 August",
+    "lastodiyear": "1976",
+    "lastodiagainst": "Australia",
+    "odicap2": "19",
+    "source": "https://cricketarchive.com/Archive/Players/17/17074/17074.html CricketArchive ",
+    "WODI": {
+        "matches": "7",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "4/3"
+    },
+    "WFC": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "33.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/6"
+    },
+    "WLA": {
+        "matches": "9",
+        "runs": "10",
+        "bat avg": "3.33",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "4/3"
+    },
+    "clubs": {
+        "East Anglia": "1972\u20131978"
+    },
+    "birth_date": "1948-"
+}

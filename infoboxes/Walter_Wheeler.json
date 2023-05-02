@@ -1,0 +1,31 @@
+{
+    "name": "Walter Wheeler",
+    "country": "England",
+    "fullname": "Walter Charles Wheeler",
+    "birth_place": "Newport, Isle of Wight, England",
+    "death_date": "1907",
+    "death_place": "Kennington, London, Hampshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/22388.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "80",
+        "bat avg": "4.44",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "696",
+        "wickets": "14",
+        "bowl avg": "23.64",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/133",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1878 and 1780",
+        "Surrey": "1875",
+        "Middlesex": "1873"
+    },
+    "birth_date": "1841-12-30"
+}

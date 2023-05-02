@@ -1,0 +1,37 @@
+{
+    "name": "Priyanaz Chatterji",
+    "female": "true",
+    "country": "Scotland",
+    "fullname": "Priyanaz Anjum Chatterji",
+    "birth_place": "Dundee, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "T20Idebutdate": "7 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Uganda",
+    "T20Icap": "4",
+    "lastT20Idate": "18 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "USA",
+    "source": "https://cricketarchive.com/Archive/Players/291/291403/291403.html CricketArchive ",
+    "WT20I": {
+        "matches": "28",
+        "runs": "125",
+        "bat avg": "10.41",
+        "100s/50s": "0/0",
+        "deliveries": "400",
+        "wickets": "14",
+        "bowl avg": "24.07",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/5",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Surrey": "2022",
+        "Wellington": "2019/20",
+        "Central Districts": "2022/23\u2013present"
+    },
+    "birth_date": "1993-8-12"
+}

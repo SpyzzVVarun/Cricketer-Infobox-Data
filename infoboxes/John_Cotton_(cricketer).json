@@ -1,0 +1,40 @@
+{
+    "name": "John Cotton",
+    "birth_place": "Newstead, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/player/john-cotton-11349 Cricinfo",
+    "FC": {
+        "matches": "239",
+        "runs": "1631",
+        "bat avg": "8.53",
+        "100s/50s": "0/1",
+        "top score": "58",
+        "deliveries": "36,203",
+        "wickets": "652",
+        "bowl avg": "25.57",
+        "fivefor": "21",
+        "tenfor": "1",
+        "best bowling": "9/29",
+        "catches/stumpings": "74/\u2013"
+    },
+    "LA": {
+        "matches": "15",
+        "runs": "21",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "deliveries": "852",
+        "wickets": "15",
+        "bowl avg": "31.46",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/49",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1958\u20131964",
+        "Leicestershire": "1965\u20131969"
+    },
+    "birth_date": "1940-11-07"
+}

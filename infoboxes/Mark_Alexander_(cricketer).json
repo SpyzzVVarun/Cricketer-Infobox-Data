@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Mark Steven Alexander",
+    "birth_place": "Farnborough, Kent, England",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/8620.html Cricinfo ",
+    "List A": {
+        "matches": "9",
+        "runs": "182",
+        "bat avg": "26.00",
+        "100s/50s": "1/\u2013",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Kent Cricket Board": "1999-2001"
+    },
+    "birth_date": "1962-4-5"
+}

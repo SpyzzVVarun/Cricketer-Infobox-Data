@@ -1,0 +1,50 @@
+{
+    "name": "Joe Small",
+    "country": "West Indies",
+    "fullname": "Joseph A Small",
+    "birth_place": "Princes Town, Trinidad",
+    "death_date": "1958",
+    "death_place": "Forest Reserve or Pointe-\u00e0-Pierre, Trinidad",
+    "batting": "Left-handed",
+    "bowling": "Right-arm medium-fast, off Right-arm medium-fast, off breaks",
+    "role": "all-rounder",
+    "testdebutdate": "23 June",
+    "testdebutyear": "1928",
+    "testdebutagainst": "England",
+    "lasttestdate": "1 February",
+    "lasttestyear": "1930",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/484/484.html CricketArchive ",
+    "Tests": {
+        "matches": "3",
+        "runs": "79",
+        "bat avg": "13.16",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "366",
+        "wickets": "3",
+        "bowl avg": "61.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/67",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "77",
+        "runs": "3,063",
+        "bat avg": "26.17",
+        "100s/50s": "4/16",
+        "top score": "133",
+        "deliveries": "10,847",
+        "wickets": "165",
+        "bowl avg": "27.81",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "7/49",
+        "catches/stumpings": "71/\u2013"
+    },
+    "clubs": {
+        "Trinidad": "1909\u20131932"
+    },
+    "birth_date": "1892-11-3"
+}

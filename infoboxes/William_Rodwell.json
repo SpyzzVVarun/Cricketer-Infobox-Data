@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "William Hunter Rodwell",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "1929",
+    "death_place": "Amersham, Buckinghamshire, England",
+    "family": "Harold Ruggles-Brise (brother-in-law)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19796.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "32",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882"
+    }
+}

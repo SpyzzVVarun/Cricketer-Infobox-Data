@@ -1,0 +1,26 @@
+{
+    "name": "Theodore Brinkman",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "country": "England",
+    "testdebutdate": "26 December",
+    "testdebutyear": "1937",
+    "lasttestdate": "15 January",
+    "lasttestyear": "1938",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/28/28132/28132.html Cricket Archive",
+    "First-class": {
+        "matches": "3",
+        "runs": "42",
+        "bat avg": "10.50",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {}
+}

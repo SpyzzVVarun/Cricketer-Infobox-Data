@@ -1,0 +1,51 @@
+{
+    "name": "Ross Gregory",
+    "country": "Australia",
+    "fullname": "Ross Gerald Gregory",
+    "birth_place": "Malvern, Victoria,  Australia",
+    "death_date": "1942",
+    "death_place": "Gaffargaon, Bengal, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm legbreak",
+    "role": "Batsman",
+    "testdebutdate": "29 January",
+    "testdebutyear": "1937",
+    "testdebutagainst": "England",
+    "testcap": "159",
+    "lasttestdate": "3 March",
+    "lasttestyear": "1937",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/690/690.html CricketArchive ",
+    "Test": {
+        "matches": "2",
+        "runs": "153",
+        "bat avg": "51.00",
+        "100s/50s": "0/2",
+        "top score": "80",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "24",
+        "runs": "1,874",
+        "bat avg": "38.24",
+        "100s/50s": "1/17",
+        "top score": "128",
+        "deliveries": "3,709",
+        "wickets": "50",
+        "bowl avg": "35.34",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/69",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1933/34\u20131938/39"
+    },
+    "birth_date": "1916-2-27"
+}

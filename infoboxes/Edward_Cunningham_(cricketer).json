@@ -1,0 +1,40 @@
+{
+    "name": "Edward Cunningham",
+    "fullname": "Edward James Cunningham",
+    "birth_place": "Oxford, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Off Right-arm Off spin",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/11484.html Cricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "271",
+        "bat avg": "15.94",
+        "100s/50s": "0/1",
+        "top score": "61 not out",
+        "deliveries": "444",
+        "wickets": "4",
+        "bowl avg": "66.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2-55",
+        "catches/stumpings": "4/0"
+    },
+    "List A": {
+        "matches": "17",
+        "runs": "349",
+        "bat avg": "26.84",
+        "100s/50s": "0/2",
+        "top score": "56",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0-35"
+    },
+    "clubs": {
+        "Gloucestershire": "1982\u20131984"
+    },
+    "birth_date": "1962-5-16"
+}

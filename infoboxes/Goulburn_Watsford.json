@@ -1,0 +1,28 @@
+{
+    "country": "Australia",
+    "fullname": "Goulburn Watsford",
+    "birth_place": "Goulburn, Australia",
+    "death_date": "1951",
+    "death_place": "Melbourne, Australia",
+    "role": "Batsman/occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/8318.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "5.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1882/83",
+        "Victoria": "1885/86"
+    },
+    "birth_date": "1859-7-1"
+}

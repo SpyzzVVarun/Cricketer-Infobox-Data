@@ -1,0 +1,38 @@
+{
+    "name": "Jim Hutchinson",
+    "country": "England",
+    "fullname": "James Metcalf Hutchinson",
+    "birth_place": "Tupton, Derbyshire, England",
+    "death_date": "2000",
+    "death_place": "Doncaster, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm medium Right-arm Right arm medium Right-arm off-break",
+    "type1": "FC",
+    "debutdate1": "7 August",
+    "debutyear1": "1920",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Sussex",
+    "lastdate1": "11 July",
+    "lastyear1": "1931",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Hampshire",
+    "source": "http://cricketarchive.co.uk/Archive/Players/15/15056/15056.html CricketArchive ",
+    "First-class": {
+        "matches": "256",
+        "runs": "7,055",
+        "bat avg": "18.66",
+        "100s/50s": "5/31",
+        "top score": "143",
+        "deliveries": "2,252",
+        "wickets": "31",
+        "bowl avg": "39.93",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/44",
+        "catches/stumpings": "97/2"
+    },
+    "clubs": {
+        "Derbyshire": "1920\u20131931"
+    },
+    "birth_date": "1896-11-29"
+}

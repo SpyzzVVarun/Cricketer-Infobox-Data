@@ -1,0 +1,28 @@
+{
+    "name": "Albert Cordingley",
+    "country": "England",
+    "fullname": "Albert Cordingley",
+    "birth_place": "Greengates, Bradford, Yorkshire, England",
+    "death_date": "1945",
+    "death_place": "Horsham, Sussex, England",
+    "bowling": "Slow Slow left-arm",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/28/28732/28732.html",
+    "First-class": {
+        "matches": "15",
+        "runs": "47",
+        "bat avg": "5.22",
+        "100s/50s": "0/0",
+        "deliveries": "1,137",
+        "wickets": "16",
+        "bowl avg": "34.12",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/22",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Sussex": "1901\u20131905"
+    },
+    "birth_date": "1871-5-13"
+}

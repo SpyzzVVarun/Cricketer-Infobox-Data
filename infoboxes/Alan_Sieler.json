@@ -1,0 +1,40 @@
+{
+    "name": "Alan Sieler",
+    "fullname": "Alan John Sieler",
+    "birth_place": "Arncliffe, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium pace, slow left-arm Left-arm medium pace, slow left-arm orthodox",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/australia/content/player/7713.html Cricinfo ",
+    "First-class": {
+        "matches": "39",
+        "runs": "1801",
+        "bat avg": "30.52",
+        "100s/50s": "4/6",
+        "top score": "157",
+        "deliveries": "3890",
+        "wickets": "41",
+        "bowl avg": "35.39",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/28",
+        "catches/stumpings": "26/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "141",
+        "bat avg": "35.25",
+        "100s/50s": "0/1",
+        "deliveries": "251",
+        "wickets": "8",
+        "bowl avg": "20.50",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/29",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1970-1977"
+    },
+    "birth_date": "1948-7-17"
+}

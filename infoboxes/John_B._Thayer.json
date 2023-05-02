@@ -1,0 +1,27 @@
+{
+    "name": "John Thayer",
+    "country": "United States",
+    "fullname": "John Borland Thayer II",
+    "birth_place": "Philadelphia, Pennsylvania, U.S.",
+    "death_date": "1912",
+    "death_place": "North Atlantic Ocean",
+    "source": "https://cricketarchive.com/Archive/Players/27/27358/27358.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "138",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "320",
+        "wickets": "6",
+        "bowl avg": "26.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Philadelphia": "1879\u20131886"
+    },
+    "birth_date": "1862-4-21"
+}

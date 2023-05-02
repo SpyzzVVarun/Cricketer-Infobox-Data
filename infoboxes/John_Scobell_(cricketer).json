@@ -1,0 +1,27 @@
+{
+    "name": "John Scobell",
+    "country": "England",
+    "fullname": "John Frederick Scobell",
+    "birth_place": "Plymouth, Devon, England",
+    "death_date": "df=yes",
+    "death_place": "St Leonards-on-Sea, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/20615.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "73",
+        "bat avg": "12.16",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "32",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1865\u20131867"
+    }
+}

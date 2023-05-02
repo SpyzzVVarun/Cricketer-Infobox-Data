@@ -1,0 +1,29 @@
+{
+    "name": "Sydney Beadle",
+    "country": "England",
+    "fullname": "Sydney Wilford Beadle",
+    "birth_place": "Wadhwan, British Raj",
+    "death_date": "1937",
+    "death_place": "Reading Street, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.cricinfo.com/ci/content/player/9049.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "88",
+        "bat avg": "14.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1911"
+    },
+    "birth_date": "1885-11-9"
+}

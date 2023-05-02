@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Stanley Austin Leadbetter",
+    "birth_place": "Stanion, Northamptonshire, England",
+    "death_date": "2013",
+    "death_place": "Kettering, Northamptonshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/16504.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "112",
+        "bat avg": "22.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

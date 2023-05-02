@@ -1,0 +1,28 @@
+{
+    "name": "Bill McDougall",
+    "fullname": "Angus William McDougall",
+    "birth_place": "Port Chalmers, Dunedin, New Zealand",
+    "death_date": "1983",
+    "death_place": "Lower Hutt, New Zealand",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/ci/content/player/37860.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "196",
+        "bat avg": "19.60",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "1914",
+        "wickets": "31",
+        "bowl avg": "23.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/44",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Otago": "1944-45 to 1946-47"
+    },
+    "birth_date": "1913-4-2"
+}

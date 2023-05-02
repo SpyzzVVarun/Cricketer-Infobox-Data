@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Barclay Field",
+    "birth_place": "Clapham, Surrey, England",
+    "death_date": "1892",
+    "death_place": "Otford, Kent, England",
+    "family": "George Field (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/13267.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1861"
+    }
+}

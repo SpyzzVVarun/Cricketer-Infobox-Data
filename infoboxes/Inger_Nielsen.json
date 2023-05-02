@@ -1,0 +1,29 @@
+{
+    "name": "Inger Nielsen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Inger Nielsen",
+    "family": "Susanne Nielsen (sister)",
+    "odidebutdate": "6 July",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Netherlands",
+    "odicap": "29",
+    "lastodidate": "21 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54980.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "9",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "deliveries": "276",
+        "wickets": "4",
+        "bowl avg": "42.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/16",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

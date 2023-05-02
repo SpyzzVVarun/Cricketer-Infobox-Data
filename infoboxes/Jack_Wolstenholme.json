@@ -1,0 +1,25 @@
+{
+    "name": "Jack Wolstenholme",
+    "fullname": "John Wolstenholme",
+    "birth_place": "Rishton, Lancashire, England",
+    "death_date": "5 February 1914",
+    "death_place": "Hastings, New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/23/23150/23150.html CricketArchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "280",
+        "bat avg": "17.50",
+        "100s/50s": "1/1",
+        "top score": "103",
+        "deliveries": "450",
+        "wickets": "14",
+        "bowl avg": "9.78",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/9",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Hawke's Bay": "1886-87 to 1898-99"
+    }
+}

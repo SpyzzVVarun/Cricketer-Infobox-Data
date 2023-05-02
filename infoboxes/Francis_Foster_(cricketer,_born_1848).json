@@ -1,0 +1,28 @@
+{
+    "name": "Francis Foster",
+    "country": "England",
+    "fullname": "Francis George Foster",
+    "birth_place": "Havant, Hampshire, England",
+    "death_date": "1931",
+    "death_place": "Earl Grey, Saskatchewan, Canada",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/12874.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1876"
+    },
+    "birth_date": "1848-11-6"
+}

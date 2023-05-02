@@ -1,0 +1,41 @@
+{
+    "name": "James Bovill",
+    "country": "England",
+    "fullname": "James Noel Bruce Bovill",
+    "birth_place": "High Wycombe, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/9169.html Cricinfo ",
+    "FC": {
+        "matches": "38",
+        "runs": "324",
+        "bat avg": "9.81",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "5,717",
+        "wickets": "104",
+        "bowl avg": "32.53",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/29",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "26",
+        "runs": "34",
+        "bat avg": "5.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,134",
+        "wickets": "27",
+        "bowl avg": "33.81",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/44",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1998\u20131999",
+        "Hampshire": "1993\u20131997"
+    },
+    "birth_date": "1971-6-2"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "George Harman Jupp",
+    "birth_place": "Brentford, Middlesex, England",
+    "death_date": "1930",
+    "death_place": "West Ealing, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Roundarm Roundarm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/15755.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "181",
+        "bat avg": "12.92",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "49",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "24.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/49",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Gentlemen of the South": "1867",
+        "Middlesex": "1867-1868"
+    },
+    "birth_date": "1845-2-26"
+}

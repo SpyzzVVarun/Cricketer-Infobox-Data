@@ -1,0 +1,31 @@
+{
+    "name": "Harry Hilliard",
+    "country": "Australia",
+    "fullname": "Henry Hilliard",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "1914",
+    "death_place": "Willoughby, New South Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast underarm",
+    "role": "Batsman",
+    "family": "William Hilliard (grandson)",
+    "source": "https://cricketarchive.com/Archive/Players/5/5906/5906.html Cricket Archive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "42",
+        "bat avg": "4.66",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "56",
+        "wickets": "2",
+        "bowl avg": "13.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/27",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "New South Wales": "1855-56 to 1859-60"
+    },
+    "birth_date": "1826-11-7"
+}

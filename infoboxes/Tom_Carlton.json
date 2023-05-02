@@ -1,0 +1,33 @@
+{
+    "name": "Tom Carlton",
+    "country": "New Zealand",
+    "fullname": "Thomas Andrew Carlton",
+    "birth_place": "Footscray, Melbourne, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Moreland, Victoria",
+    "family": "William Carlton (uncle)",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/11/11605/11605.html CricketArchive ",
+    "First-class": {
+        "matches": "60",
+        "runs": "1,153",
+        "bat avg": "15.37",
+        "100s/50s": "0/2",
+        "top score": "63",
+        "deliveries": "11,469",
+        "wickets": "185",
+        "bowl avg": "24.61",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "6/42",
+        "catches/stumpings": "48/0"
+    },
+    "clubs": {
+        "Canterbury": "1909/10\u20131914/15",
+        "Victoria": "1922/23\u20131923/24",
+        "Otago": "1920/21\u20131921/22",
+        "South Australia": "1928/29\u20131931/32"
+    },
+    "birth_date": "1890-12-7"
+}

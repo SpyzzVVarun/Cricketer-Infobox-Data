@@ -1,0 +1,29 @@
+{
+    "name": "Roy Gearry",
+    "country": "New Zealand",
+    "fullname": "Roy Malcolm Gearry",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "family": "George Gearry (father)",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/37137.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "234",
+        "bat avg": "18.00",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "deliveries": "168",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Canterbury": "1964-65 to 1973-74",
+        "Central Districts": "1969-70 to 1970-71"
+    },
+    "birth_date": "1946-12-18"
+}

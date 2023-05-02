@@ -1,0 +1,27 @@
+{
+    "name": "William Thomas",
+    "country": "England",
+    "fullname": "William Richard Keay Thomas",
+    "birth_place": "Redditch, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/33/33269/33269.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "57",
+        "bat avg": "57.00",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "102",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Worcestershire": "1981"
+    },
+    "birth_date": "1960-7-22"
+}

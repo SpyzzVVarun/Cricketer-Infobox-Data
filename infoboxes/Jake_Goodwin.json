@@ -1,0 +1,26 @@
+{
+    "name": "Jake Goodwin",
+    "country": "England",
+    "fullname": "Jake Goodwin",
+    "birth_place": "Swindon, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "T20",
+    "debutdate1": "29 July",
+    "debutyear1": "2016",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "Somerset",
+    "source": "http://www.espncricinfo.com/england/content/player/875603.html Cricinfo ",
+    "T20": {
+        "matches": "1",
+        "runs": "32",
+        "bat avg": "32.00",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "2016"
+    },
+    "birth_date": "1998-1-19"
+}

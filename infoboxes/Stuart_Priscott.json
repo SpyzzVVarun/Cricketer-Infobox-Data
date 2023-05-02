@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Stuart Michael Priscott",
+    "birth_place": "Bristol, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/19259.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "12.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/24",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Devon": "2002",
+        "Gloucestershire Cricket Board": "2001",
+        "Wiltshire": "1992-1994"
+    },
+    "birth_date": "1971-7-6"
+}

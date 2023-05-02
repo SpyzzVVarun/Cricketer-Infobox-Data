@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Kenneth Hosking",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/29362.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "32",
+        "bat avg": "16.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Mysore": "1935/36",
+        "Cornwall": "1932&ndash;1938"
+    }
+}

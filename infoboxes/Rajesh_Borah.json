@@ -1,0 +1,42 @@
+{
+    "name": "Rajesh Borah",
+    "country": "India",
+    "fullname": "Rajesh Kumar Borah",
+    "birth_place": "Tezpur, Assam, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/india/content/player/26957.html ESPNcricinfo ",
+    "FC": {
+        "matches": "66",
+        "runs": "3,447",
+        "bat avg": "31.62",
+        "100s/50s": "5/17",
+        "top score": "235",
+        "deliveries": "2,469",
+        "wickets": "28",
+        "bowl avg": "45.28",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/110",
+        "catches/stumpings": "36/\u2013"
+    },
+    "List A": {
+        "matches": "34",
+        "runs": "466",
+        "bat avg": "15.03",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "deliveries": "614",
+        "wickets": "16",
+        "bowl avg": "31.37",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/16",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Assam": "1983/84\u20132000/01",
+        "Railways": "1994/95\u20131995/96"
+    },
+    "birth_date": "1967-11-14"
+}

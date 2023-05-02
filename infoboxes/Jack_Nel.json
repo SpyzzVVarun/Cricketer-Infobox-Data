@@ -1,0 +1,33 @@
+{
+    "name": "Jack Nel",
+    "fullname": "John Desmond Nel",
+    "birth_place": "Cape Town, Cape Province, South Africa",
+    "death_date": "2018",
+    "death_place": "Pinelands, Western Cape, South Africa",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1949",
+    "lasttestdate": "23 December",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1957",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46570.html Cricinfo",
+    "Test": {
+        "matches": "6",
+        "runs": "150",
+        "bat avg": "13.63",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "35",
+        "runs": "1,839",
+        "bat avg": "31.70",
+        "100s/50s": "4/6",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1928-7-10"
+}

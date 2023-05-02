@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Harold Mead",
+    "birth_place": "Walthamstow, Essex, England",
+    "death_date": "1921",
+    "death_place": "Bell Common, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Walter Mead (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16994.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "19",
+        "bat avg": "3.16",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "334",
+        "wickets": "3",
+        "bowl avg": "64.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/84",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1895-6-13"
+}

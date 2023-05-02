@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Mark Upton",
+    "birth_place": "Poole, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/22163.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "180",
+        "wickets": "1",
+        "bowl avg": "120.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/72",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1971"
+    },
+    "birth_date": "1950-6-30"
+}

@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "James William Marsh",
+    "birth_place": "Thame, Oxfordshire, England",
+    "death_date": "1930",
+    "death_place": "Ludlow, Shropshire, England",
+    "family": "Frederick Marsh (brother)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/james-marsh-17353 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "145",
+        "bat avg": "11.15",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "5/5"
+    },
+    "clubs": {
+        "Oxfordshire": "1898&ndash;1906",
+        "Cambridge University": "1901&ndash;1903"
+    }
+}

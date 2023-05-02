@@ -1,0 +1,42 @@
+{
+    "name": "Peter Neutze",
+    "fullname": "Peter Stephen Neutze",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right arm leg Right arm leg break",
+    "source": "https://www.espncricinfo.com/player/peter-neutze-38029 Cricinfo ",
+    "FC": {
+        "matches": "15",
+        "runs": "107",
+        "bat avg": "8.91",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "2775",
+        "wickets": "30",
+        "bowl avg": "44.53",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/109",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "72",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Otago": "1984/85",
+        "Auckland": "1987/88 \u2013 1988/89",
+        "Northern Districts": "1989/90"
+    },
+    "birth_date": "1963-9-5"
+}

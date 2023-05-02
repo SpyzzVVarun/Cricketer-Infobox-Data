@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Harold Boyes Watson",
+    "birth_place": "St Margarets, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Thorpe Bay, Essex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22778.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "48",
+        "wickets": "2",
+        "bowl avg": "17.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/35",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1919"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Nat Wraith",
+    "female": "true",
+    "fullname": "Natasha Agnes Jessica Wraith",
+    "birth_place": "Bristol, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1673/1673017/1673017.html CricketArchive",
+    "WLA": {
+        "matches": "39",
+        "runs": "578",
+        "bat avg": "18.06",
+        "100s/50s": "0/2",
+        "top score": "68",
+        "catches/stumpings": "27/16"
+    },
+    "WT20": {
+        "matches": "53",
+        "runs": "545",
+        "bat avg": "17.03",
+        "100s/50s": "0/1",
+        "catches/stumpings": "12/26"
+    },
+    "clubs": {
+        "Gloucestershire": "2016\u20132018",
+        "Somerset": "2019\u2013present",
+        "Western Storm": "2019\u2013present",
+        "Welsh Fire": "2021",
+        "London Spirit": "2022\u2013present"
+    },
+    "birth_date": "2001-10-3"
+}

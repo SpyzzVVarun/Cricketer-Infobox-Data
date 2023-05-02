@@ -1,0 +1,48 @@
+{
+    "name": "Arun Harinath",
+    "country": "England",
+    "fullname": "Arun Harinath",
+    "nickname": "The Baron",
+    "birth_place": "Sutton, London, England",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Players/67/67010/67010.html CricketArchive",
+    "FC": {
+        "matches": "75",
+        "runs": "3,870",
+        "bat avg": "30.96",
+        "100s/50s": "6/21",
+        "top score": "154",
+        "deliveries": "351",
+        "wickets": "5",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/1",
+        "catches/stumpings": "20/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "108",
+        "bat avg": "21.60",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Loughborough UCCE": "2007\u20132009",
+        "Marylebone Cricket Club (MCC)": "2008",
+        "Surrey( 10 )": "2009\u20132019",
+        "\u2192 Leicestershire  (on loan)": "2017",
+        "\u2192 Hampshire  (on loan)": "2019 "
+    },
+    "birth_date": "1987-3-26"
+}

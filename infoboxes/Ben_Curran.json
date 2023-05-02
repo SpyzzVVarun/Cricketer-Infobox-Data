@@ -1,0 +1,48 @@
+{
+    "name": "Ben Curran",
+    "country": "England",
+    "fullname": "Benjamin Jack Curran",
+    "birth_place": "Northampton, England",
+    "family": "Kevin P Curran (grandfather), Kevin M Curran (father), Tom Curran (brother),  Sam Curran (brother)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "type1": "First-class",
+    "debutdate1": "29 August",
+    "debutyear1": "2018",
+    "debutfor1": "Northamptonshire",
+    "debutagainst1": "Durham",
+    "type2": "List A",
+    "debutdate2": "26 April",
+    "debutyear2": "2019",
+    "debutfor2": "Northamptonshire",
+    "debutagainst2": "Worcestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/910695.html Cricinfo ",
+    "FC": {
+        "matches": "29",
+        "runs": "1,229",
+        "bat avg": "27.93",
+        "100s/50s": "0/7",
+        "catches/stumpings": "22/\u2013"
+    },
+    "LA": {
+        "matches": "19",
+        "runs": "565",
+        "bat avg": "35.31",
+        "100s/50s": "0/5",
+        "top score": "94",
+        "catches/stumpings": "6/\u2013"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "378",
+        "bat avg": "18.00",
+        "100s/50s": "0/3",
+        "top score": "71",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire( 17 )": "2018\u2013present",
+        "Southern Rocks": "2020/21\u20132021/22"
+    },
+    "birth_date": "1996-6-7"
+}

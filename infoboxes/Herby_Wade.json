@@ -1,0 +1,31 @@
+{
+    "name": "Herby Wade",
+    "birth_place": "Durban, Colony of Natal",
+    "death_date": "23 November 1980 (aged 75)",
+    "death_place": "Inanda, Gauteng, South Africa",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "15 June",
+    "testdebutyear": "1935",
+    "lasttestdate": "28 February",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1936",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/47854.html Cricinfo",
+    "Test": {
+        "matches": "10",
+        "runs": "327",
+        "bat avg": "20.43",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "74",
+        "runs": "3,858",
+        "bat avg": "35.39",
+        "100s/50s": "9/18",
+        "top score": "190",
+        "catches/stumpings": "50/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Edward Gordon Murphy",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "death_date": "2020",
+    "death_place": "Clarkson, Mississauga, Ontario, Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17747.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "24",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1921-12-6"
+}

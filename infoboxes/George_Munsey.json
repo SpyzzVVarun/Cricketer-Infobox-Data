@@ -1,0 +1,62 @@
+{
+    "name": "George Munsey",
+    "country": "Scotland",
+    "fullname": "Henry George Munsey",
+    "birth_place": "Oxford, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Batsman",
+    "odidebutdate": "22 January",
+    "odidebutyear": "2017",
+    "odidebutagainst": "Hong Kong",
+    "odicap": "62",
+    "lastodidate": "4 December",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Nepal",
+    "odishirt": "93",
+    "T20Idebutdate": "18 June",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "39",
+    "lastT20Idate": "21 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Zimbabwe",
+    "T20Ishirt": "93",
+    "source": "http://www.espncricinfo.com/scotland/content/player/671805.html Cricinfo  ",
+    "ODI": {
+        "matches": "49",
+        "runs": "1,520",
+        "bat avg": "38.97",
+        "100s/50s": "1/11",
+        "catches/stumpings": "22/\u2013"
+    },
+    "T20I": {
+        "matches": "56",
+        "runs": "1,438",
+        "bat avg": "28.76",
+        "100s/50s": "1/9",
+        "catches/stumpings": "20/\u2013"
+    },
+    "FC": {
+        "matches": "4",
+        "runs": "224",
+        "bat avg": "56.00",
+        "100s/50s": "1/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "65",
+        "runs": "1,826",
+        "bat avg": "38.04",
+        "100s/50s": "1/13",
+        "top score": "108",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "2015",
+        "Leicestershire": "2019",
+        "Hampshire": "2020",
+        "Kent( 93 )": "2021"
+    },
+    "birth_date": "1993-2-21"
+}

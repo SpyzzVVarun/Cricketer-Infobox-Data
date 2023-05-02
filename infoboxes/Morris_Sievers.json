@@ -1,0 +1,43 @@
+{
+    "name": "Morris Sievers",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "internationalspan": "1936\u20131937",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testcap": "157",
+    "testdebutdate": "4 December",
+    "testdebutyear": "1936",
+    "lasttestdate": "1 January",
+    "lasttestagainst": "England",
+    "lasttestyear": "1937",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7614.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "67",
+        "bat avg": "13.40",
+        "100s/50s": "0/0",
+        "deliveries": "602",
+        "wickets": "9",
+        "bowl avg": "17.88",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/21",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "58",
+        "runs": "2,075",
+        "bat avg": "29.64",
+        "100s/50s": "0/14",
+        "top score": "76",
+        "deliveries": "10,035",
+        "wickets": "116",
+        "bowl avg": "33.36",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "56/\u2013"
+    },
+    "clubs": {}
+}

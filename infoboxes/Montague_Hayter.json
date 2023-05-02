@@ -1,0 +1,28 @@
+{
+    "name": "Montague Hayter",
+    "country": "England",
+    "fullname": "Montague William Hayter",
+    "birth_place": "Ringwood, Hampshire, England",
+    "death_date": "1948",
+    "death_place": "Christchurch, Hampshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/14114.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "166",
+        "bat avg": "13.83",
+        "100s/50s": "&ndash;/1",
+        "top score": "82",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1904"
+    },
+    "birth_date": "1871-11-16"
+}

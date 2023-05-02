@@ -1,0 +1,24 @@
+{
+    "name": "Edwin Bennett",
+    "fullname": "Edwin Howard Bennett",
+    "birth_place": "Shifnal, Shropshire, England",
+    "death_date": "1929",
+    "death_place": "East Worthing, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "type1": "First-class",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27829/27829.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "157",
+        "bat avg": "19.62",
+        "100s/50s": "0/2",
+        "top score": "73",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1925",
+        "Staffordshire": "1921\u20131924"
+    },
+    "birth_date": "1893-12-21"
+}

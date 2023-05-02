@@ -1,0 +1,37 @@
+{
+    "name": "Sydney Deane",
+    "country": "Australia",
+    "fullname": "Sydney Leslie Deane",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "1934",
+    "death_place": "New York, US",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "25 January",
+    "debutyear1": "1890",
+    "debutfor1": "New South Wales",
+    "debutagainst1": "Victoria",
+    "lastdate1": "14 February",
+    "lastyear1": "1890",
+    "lastfor1": "New South Wales",
+    "lastagainst1": "South Australia",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/5/5818/5818.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "26.00",
+        "100s/50s": "0/0",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "New South Wales": "1890"
+    },
+    "birth_date": "1863-3-1"
+}

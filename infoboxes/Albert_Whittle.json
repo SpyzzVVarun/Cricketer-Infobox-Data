@@ -1,0 +1,40 @@
+{
+    "name": "Albert Whittle",
+    "country": "England",
+    "fullname": "Albert Edward Mark Whittle",
+    "birth_place": "Bristol, England",
+    "death_date": "1917",
+    "death_place": "Charminster, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman/all-rounder",
+    "type1": "First-class",
+    "debutdate1": "20 August",
+    "debutyear1": "1900",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "London County",
+    "lastdate1": "3 June",
+    "lastyear1": "1911",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3889/3889.html CricketArchive ",
+    "First-class": {
+        "matches": "89",
+        "runs": "2552",
+        "bat avg": "22.00",
+        "100s/50s": "1/15",
+        "top score": "104",
+        "deliveries": "4585",
+        "wickets": "64",
+        "bowl avg": "37.82",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "5/28",
+        "catches/stumpings": "38/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1900&ndash;06",
+        "Somerset": "1907&ndash;11"
+    },
+    "birth_date": "1877-9-16"
+}

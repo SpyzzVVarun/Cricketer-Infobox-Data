@@ -1,0 +1,60 @@
+{
+    "name": "Gloria Gill",
+    "female": "true",
+    "country": "West Indies",
+    "fullname": "Gloria Gill",
+    "birth_place": "Barbados",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "1976\u20131979",
+    "testdebutdate": "7 May",
+    "testdebutyear": "1976",
+    "testdebutagainst": "Australia",
+    "testcap": "5",
+    "lasttestdate": "1 July",
+    "lasttestyear": "1979",
+    "lasttestagainst": "England",
+    "odidebutdate": "6 June",
+    "odidebutyear": "1979",
+    "odidebutagainst": "England",
+    "odicap": "8",
+    "lastodidate": "7 July",
+    "lastodiyear": "1979",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17419/17419.html CricketArchive ",
+    "WTest": {
+        "matches": "10",
+        "runs": "273",
+        "bat avg": "17.06",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WODI": {
+        "matches": "2",
+        "runs": "46",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "13",
+        "runs": "306",
+        "bat avg": "16.10",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WLA": {
+        "matches": "6",
+        "runs": "79",
+        "bat avg": "13.16",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1975/76\u20131980"
+    }
+}

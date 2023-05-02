@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Christopher Mark Denny",
+    "birth_place": "Farnborough, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/12142.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "28",
+        "bat avg": "5.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1985"
+    },
+    "birth_date": "1964-4-22"
+}

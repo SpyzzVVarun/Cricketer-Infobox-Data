@@ -1,0 +1,29 @@
+{
+    "country": "Ireland",
+    "fullname": "James Poole Maunsell Pigot",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Glenageary, Leinster, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "role": "David Pigot, Sr. (brother), David Pigot, Jr. (nephew)",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24585.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "67",
+        "bat avg": "8.37",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "deliveries": "222",
+        "wickets": "4",
+        "bowl avg": "46.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/71",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1925/26&ndash;1929/30",
+        "Dublin University": "1924&ndash;1925"
+    }
+}

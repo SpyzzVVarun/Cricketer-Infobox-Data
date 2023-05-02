@@ -1,0 +1,26 @@
+{
+    "country": "Denmark",
+    "fullname": "Henrik Bjerre \u00d8re",
+    "birth_place": "Esbjerg, Ribe County, Denmark",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/212132.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "28.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/28",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Denmark": "2005"
+    },
+    "birth_date": "1979-8-12"
+}

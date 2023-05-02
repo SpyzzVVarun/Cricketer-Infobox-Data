@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Ronald Outram Lee",
+    "birth_place": "Thame, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/16528.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "140",
+        "wickets": "3",
+        "bowl avg": "26.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/59",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1896&ndash;1899",
+        "Cambridge University": "1899"
+    }
+}

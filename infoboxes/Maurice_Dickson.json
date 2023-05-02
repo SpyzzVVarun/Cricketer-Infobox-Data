@@ -1,0 +1,30 @@
+{
+    "name": "Maurice Dickson",
+    "country": "Scotland",
+    "fullname": "Maurice Rhynd Dickson",
+    "birth_place": "Panbride, Angus, Scotland",
+    "death_date": "1940",
+    "death_place": "Woodville House, Arbroath, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/26/26986/26986.html CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "723",
+        "bat avg": "28.92",
+        "100s/50s": "0/6",
+        "top score": "98",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "16.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1905\u20131914"
+    },
+    "birth_date": "1882-1-2"
+}

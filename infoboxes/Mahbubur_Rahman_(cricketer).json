@@ -1,0 +1,43 @@
+{
+    "name": "Mahbubur Rahman",
+    "birth_place": "Mymensingh, Bangladesh",
+    "country": "Bangladesh",
+    "batting": "Right-hand bat",
+    "bowling": "-",
+    "oneodi": "true",
+    "odidebutagainst": "Zimbabwe",
+    "odidebutdate": "25 March",
+    "odidebutyear": "1999",
+    "odicap": "47",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/55966.html Cricinfo  ",
+    "Tests": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "-/-",
+        "top score": "3",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {},
+    "birth_date": "February 1, 1969"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "John Hugh Bainbridge",
+    "birth_place": "Mallow, County Cork, Ireland",
+    "death_date": "df=yes",
+    "death_place": "at sea off Bergen, Norway",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/9460.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882"
+    }
+}

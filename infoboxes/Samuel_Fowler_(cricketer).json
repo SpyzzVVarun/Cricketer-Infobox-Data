@@ -1,0 +1,27 @@
+{
+    "name": "Samuel Fowler",
+    "country": "New Zealand",
+    "birth_place": "Waimea, Nelson, New Zealand",
+    "death_date": "1915",
+    "death_place": "Riwaka, New Zealand",
+    "batting": "Left-handed",
+    "family": "Louis Fowler (brother), George Fowler (brother)",
+    "source": "http://cricketarchive.com/Archive/Players/21/21899/21899.html CricketArchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "186",
+        "bat avg": "10.94",
+        "100s/50s": "0/0",
+        "top score": "28 not out",
+        "wickets": "13",
+        "bowl avg": "5.53",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/14",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Nelson": "1873-74 to 1883-84"
+    },
+    "birth_date": "1854-8-18"
+}

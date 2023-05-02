@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Paul Stuart Widdowson",
+    "birth_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22562.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "12.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/12",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Leicestershire Cricket Board": "2000"
+    },
+    "birth_date": "1974-3-27"
+}

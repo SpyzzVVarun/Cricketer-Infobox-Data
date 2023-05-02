@@ -1,0 +1,29 @@
+{
+    "name": "Arthur Hoare",
+    "fullname": "Arthur Robertson Hoare",
+    "birth_place": "Stibbard, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Ashill, Norfolk, England",
+    "family": "William Hoare (uncle), Walter Marsham (brother-in-law), John Marsham (father-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14854.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1895\u20131907",
+        "Marylebone Cricket Club": "1903"
+    }
+}

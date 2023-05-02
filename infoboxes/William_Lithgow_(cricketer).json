@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "William Samuel Plenderleath Lithgow",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=y",
+    "death_place": "South Newington, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/9590.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "69",
+        "bat avg": "17.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1937\u20131949",
+        "Oxford University": "1939"
+    }
+}

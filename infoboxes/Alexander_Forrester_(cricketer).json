@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Roxburgh Forrester",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "death_date": "1976",
+    "death_place": "Glasgow, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "https://www.espncricinfo.com/player/alexander-forrester-25211 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "43",
+        "bat avg": "21.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "510",
+        "wickets": "17",
+        "bowl avg": "17.05",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/66",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1925&ndash;1927"
+    }
+}

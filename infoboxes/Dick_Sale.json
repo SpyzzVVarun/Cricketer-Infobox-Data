@@ -1,0 +1,40 @@
+{
+    "name": "Dick Sale",
+    "country": "England",
+    "fullname": "Richard Sale",
+    "birth_place": "Atcham, Shropshire, England",
+    "death_date": "1987",
+    "death_place": "Beccles, Suffolk, England",
+    "batting": "Left-handed",
+    "family": "Richard Sale (father)",
+    "type1": "FC",
+    "debutdate1": "29 April",
+    "debutyear1": "1939",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "31 July",
+    "lastyear1": "1954",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32569/32569.html CricketArchive ",
+    "First-class": {
+        "matches": "66",
+        "runs": "2,923",
+        "bat avg": "27.31",
+        "100s/50s": "3/13",
+        "top score": "157",
+        "deliveries": "2",
+        "wickets": "1",
+        "bowl avg": "4.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "28/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1939",
+        "Warwickshire": "1939\u20131947",
+        "Derbyshire": "1949\u20131954"
+    },
+    "birth_date": "1919-10-4"
+}

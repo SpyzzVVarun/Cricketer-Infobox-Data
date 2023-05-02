@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Bernard Broughton Waddy",
+    "birth_place": "Parramatta, New South Wales, Australia",
+    "death_date": "df=yes",
+    "death_place": "Winchester, Hampshire, England",
+    "family": "Stacy Waddy (father), Mick Waddy (uncle), Gar Waddy (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/22638.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "49",
+        "bat avg": "8.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "438",
+        "wickets": "7",
+        "bowl avg": "29.42",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/11",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1932",
+        "Marylebone Cricket Club": "1934"
+    }
+}

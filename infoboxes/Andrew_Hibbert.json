@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Andrew James Edward Hibbert",
+    "birth_place": "Harold Wood, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/14182.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "236",
+        "bat avg": "21.45",
+        "100s/50s": "&ndash;/1",
+        "top score": "85",
+        "deliveries": "105",
+        "wickets": "3",
+        "bowl avg": "16.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/16",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "170",
+        "bat avg": "17.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "59",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Essex Cricket Board": "1999-2001",
+        "Essex": "1995-1998"
+    },
+    "birth_date": "1974-12-17"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Emily Edgcombe",
+    "female": "true",
+    "fullname": "Emily Mae Edgcombe",
+    "birth_place": "Truro, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/991/991072/991072.html CricketArchive",
+    "WLA": {
+        "matches": "34",
+        "runs": "375",
+        "bat avg": "16.30",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "deliveries": "1,264",
+        "wickets": "34",
+        "bowl avg": "20.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/41",
+        "catches/stumpings": "11/\u2013"
+    },
+    "WT20": {
+        "matches": "50",
+        "runs": "706",
+        "bat avg": "20.17",
+        "100s/50s": "0/5",
+        "top score": "82",
+        "deliveries": "917",
+        "wickets": "36",
+        "bowl avg": "18.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/10",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "2014\u20132016",
+        "Devon": "2017\u20132021",
+        "Western Storm": "2020\u20132021",
+        "Somerset": "2022\u2013present"
+    },
+    "birth_date": "1999-06-25"
+}

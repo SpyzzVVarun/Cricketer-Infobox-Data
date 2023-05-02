@@ -1,0 +1,30 @@
+{
+    "name": "Sean Clingeleffer",
+    "country": "Australia",
+    "fullname": "Sean Geoffrey Clingeleffer",
+    "nickname": "Clinger",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "heightm": "1.82",
+    "role": "Wicketkeeper",
+    "batting": "Left-handed",
+    "source": "https://www.espncricinfo.com/australia/content/player/4592.html CricInfo ",
+    "First-class": {
+        "matches": "74",
+        "runs": "2,708",
+        "bat avg": "26.54",
+        "100s/50s": "3/13",
+        "catches/stumpings": "220/12"
+    },
+    "List A": {
+        "matches": "40",
+        "runs": "362",
+        "bat avg": "22.62",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "39/3"
+    },
+    "clubs": {
+        "Tasmania": "2000/01\u20132007/08"
+    },
+    "birth_date": "1980-5-9"
+}

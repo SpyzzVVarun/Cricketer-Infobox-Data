@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "John Chevallier Hoskyns",
+    "birth_place": "Newnham, Cambridgeshire, England",
+    "death_date": "1956",
+    "death_place": "Powick, Worcestershire, England",
+    "batting": "Left-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/14969.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "63",
+        "bat avg": "21.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1949"
+    }
+}

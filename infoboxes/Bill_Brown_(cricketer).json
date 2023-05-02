@@ -1,0 +1,51 @@
+{
+    "name": "Bill Brown",
+    "country": "Australia",
+    "fullname": "William Alfred Brown",
+    "birth_place": "Toowoomba, Queensland, Australia",
+    "death_date": "2008",
+    "death_place": "Brisbane, Queensland, Australia",
+    "heightcm": "176",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "Batsman",
+    "testdebutdate": "8 June",
+    "testdebutyear": "1934",
+    "testdebutagainst": "England",
+    "testcap": "150",
+    "lasttestdate": "24 June",
+    "lasttestyear": "1948",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/636/636.html CricketArchive ",
+    "Test": {
+        "matches": "22",
+        "runs": "1,592",
+        "bat avg": "46.82",
+        "100s/50s": "4/9",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "First-class": {
+        "matches": "189",
+        "runs": "13,838",
+        "bat avg": "51.44",
+        "100s/50s": "39/66",
+        "deliveries": "169",
+        "wickets": "6",
+        "bowl avg": "18.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/16",
+        "catches/stumpings": "110/1"
+    },
+    "clubs": {
+        "New South Wales": "1932/33\u20131935/36",
+        "Queensland": "1936/37\u20131949/50"
+    },
+    "birth_date": "1912-7-31"
+}

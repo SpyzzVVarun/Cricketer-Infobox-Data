@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Robert Hugh Priestley",
+    "birth_place": "Maida Vale, London, England",
+    "death_date": "df=yes",
+    "death_place": "Oakley, Hampshire, England",
+    "family": "Hugh Priestley (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/19071.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

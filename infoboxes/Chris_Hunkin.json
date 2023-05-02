@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Christopher Andrew Hunkin",
+    "birth_place": "St Austell, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/14347.html Cricinfo ",
+    "LA": {
+        "matches": "6",
+        "runs": "68",
+        "bat avg": "17.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "318",
+        "wickets": "6",
+        "bowl avg": "43.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/24",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cornwall": "2002-present",
+        "Somerset Cricket Board": "2000-2001"
+    },
+    "birth_date": "1980-12-14"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Edward James Sanders",
+    "birth_place": "Heavitree, Devon, England",
+    "death_date": "df=yes",
+    "death_place": "Heavitree, Devon, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/20574.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "8",
+        "wickets": "1",
+        "bowl avg": "4.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/4",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

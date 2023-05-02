@@ -1,0 +1,57 @@
+{
+    "name": "Martin Kent",
+    "fullname": "Martin Francis Kent",
+    "birth_place": "Mossman, Queensland, Australia",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "testdebutdate": "30 July",
+    "testdebutyear": "1981",
+    "testdebutagainst": "England",
+    "testcap": "312",
+    "lasttestdate": "27 August",
+    "lasttestyear": "1981",
+    "lasttestagainst": "England",
+    "odidebutdate": "29 January",
+    "odidebutyear": "1981",
+    "odidebutagainst": "New Zealand",
+    "odicap": "64",
+    "lastodidate": "6 June",
+    "lastodiyear": "1981",
+    "lastodiagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/6143.html CricInfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "171",
+        "bat avg": "28.50",
+        "100s/50s": "0/2",
+        "top score": "54",
+        "catches/stumpings": "6/\u2013"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "78",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "top score": "33 \u2013| catches/stumpings2 = 4/\u2013"
+    },
+    "FC": {
+        "matches": "64",
+        "runs": "3,567",
+        "bat avg": "36.03",
+        "100s/50s": "7/20",
+        "top score": "171",
+        "catches/stumpings": "60/\u2013"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "523",
+        "bat avg": "27.52",
+        "100s/50s": "0/4",
+        "top score": "76",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1974/75\u20131981/82"
+    },
+    "birth_date": "23 November 1953"
+}

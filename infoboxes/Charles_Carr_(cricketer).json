@@ -1,0 +1,32 @@
+{
+    "name": "Charles Carr",
+    "fullname": "Charles Seymour Carr",
+    "birth_place": "Jamaica",
+    "death_date": "1921",
+    "death_place": "Melbourne, Australia",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "28 February",
+    "debutyear1": "1873",
+    "debutfor1": "Victoria",
+    "debutagainst1": "New South Wales",
+    "source": "http://www.espncricinfo.com/australia/content/player/4725.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1872/73"
+    },
+    "birth_date": "1849-11-22"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Richard Frederic Skelton",
+    "birth_place": "Middlewood, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Middlewood, Yorkshire, England",
+    "family": "Henry Skelton (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21300.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "289",
+        "bat avg": "8.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "1,814",
+        "wickets": "86",
+        "bowl avg": "12.61",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "6/88",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1849&ndash;1853"
+    }
+}

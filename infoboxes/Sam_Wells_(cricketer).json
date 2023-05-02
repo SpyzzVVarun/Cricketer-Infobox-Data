@@ -1,0 +1,54 @@
+{
+    "name": "Sam Wells",
+    "country": "New Zealand",
+    "fullname": "Sam Raymond Wells",
+    "birth_place": "Dunedin, Otago, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Middle-order batsman and allrounder",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/319465.html ESPNCricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "1067",
+        "bat avg": "38.10",
+        "100s/50s": "2/9",
+        "deliveries": "1951",
+        "wickets": "33",
+        "bowl avg": "34.27",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/26",
+        "catches/stumpings": "7/-"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "100",
+        "bat avg": "20.00",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "83.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/24",
+        "catches/stumpings": "0/-"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "10",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "Otago": "2007\u20132017"
+    },
+    "birth_date": "1984-7-13"
+}

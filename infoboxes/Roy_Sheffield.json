@@ -1,0 +1,39 @@
+{
+    "name": "Roy Sheffield",
+    "country": "England",
+    "fullname": "James Roy Sheffield",
+    "birth_place": "Barking, Essex, England",
+    "death_date": "1997",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "19 June",
+    "debutyear1": "1929",
+    "debutfor1": "Essex",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "3 February",
+    "lastyear1": "1939",
+    "lastfor1": "Wellington",
+    "lastagainst1": "Auckland",
+    "source": "https://cricketarchive.com/Archive/Players/5/5296/5296.html Cricket Archive ",
+    "FC": {
+        "matches": "180",
+        "runs": "3914",
+        "bat avg": "16.51",
+        "100s/50s": "1/16",
+        "top score": "108",
+        "deliveries": "72",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "196/54"
+    },
+    "clubs": {
+        "Essex": "1929\u20131936",
+        "Wellington": "1938/39"
+    },
+    "birth_date": "1906-11-19"
+}

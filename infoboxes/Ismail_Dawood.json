@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Ismail Dawood",
+    "birth_place": "Dewsbury, Yorkshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/11842.html Cricinfo ",
+    "FC": {
+        "matches": "39",
+        "runs": "1,122",
+        "bat avg": "22.00",
+        "100s/50s": "1/4",
+        "top score": "102",
+        "catches/stumpings": "94/6"
+    },
+    "LA": {
+        "matches": "51",
+        "runs": "732",
+        "bat avg": "21.52",
+        "100s/50s": "\u2013/4",
+        "top score": "60",
+        "catches/stumpings": "44/14"
+    },
+    "T20": {
+        "matches": "11",
+        "runs": "44",
+        "bat avg": "8.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {
+        "Northamptonshire": "1994",
+        "Worcestershire": "1996&ndash;1997",
+        "Glamorgan": "1998&ndash;1999",
+        "Herefordshire": "2000&ndash;2006",
+        "Yorkshire": "2004&ndash;2005",
+        "Cheshire": "2007"
+    },
+    "birth_date": "1976-7-23"
+}

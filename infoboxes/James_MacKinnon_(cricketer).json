@@ -1,0 +1,26 @@
+{
+    "country": "Australia",
+    "fullname": "James Curdie MacKinnon",
+    "birth_place": "Terang, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/17255.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "31",
+        "bat avg": "5.16",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "524",
+        "wickets": "4",
+        "bowl avg": "59.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/39",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1886&ndash;1888"
+    }
+}

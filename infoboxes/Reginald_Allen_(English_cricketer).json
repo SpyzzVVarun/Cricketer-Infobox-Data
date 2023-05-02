@@ -1,0 +1,21 @@
+{
+    "name": "Reginald Allen",
+    "country": "England",
+    "fullname": "William Reginald Allen",
+    "birth_place": "Sharlston, Wakefield, Yorkshire, England",
+    "death_date": "1950",
+    "death_place": "Normanton, Yorkshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27458/27458.html CricketArchive ",
+    "First-class": {
+        "matches": "30",
+        "runs": "475",
+        "bat avg": "21.59",
+        "100s/50s": "0/1",
+        "catches/stumpings": "45/21"
+    },
+    "clubs": {
+        "Yorkshire": "1921"
+    },
+    "birth_date": "1893-4-14"
+}

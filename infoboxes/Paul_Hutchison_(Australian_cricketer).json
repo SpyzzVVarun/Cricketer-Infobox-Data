@@ -1,0 +1,42 @@
+{
+    "name": "Paul Hutchison",
+    "country": "Australia",
+    "fullname": "Paul James Hutchison",
+    "death_date": "df=yes",
+    "birth_place": "Glen Innes, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/5735.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "80",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "14",
+        "deliveries": "1,329",
+        "wickets": "20",
+        "bowl avg": "41.10",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/87",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "39",
+        "bat avg": "39.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "660",
+        "wickets": "16",
+        "bowl avg": "34.37",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/27",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1996/97&ndash;1997/98",
+        "South Australia": "1991/92&ndash;1994/95"
+    },
+    "birth_date": "1968-2-17"
+}

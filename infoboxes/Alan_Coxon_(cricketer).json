@@ -1,0 +1,29 @@
+{
+    "name": "Alan Coxon",
+    "country": "England",
+    "fullname": "Alan John Coxon",
+    "birth_place": "Clapton, London",
+    "death_date": "2012",
+    "death_place": "Honiton, Devon",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11389.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "144",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "2,364",
+        "wickets": "28",
+        "bowl avg": "48.21",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/55",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1951\u20131954",
+        "Buckinghamshire": "1978"
+    },
+    "birth_date": "1930-3-18"
+}

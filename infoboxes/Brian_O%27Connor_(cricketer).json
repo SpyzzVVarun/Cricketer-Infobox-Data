@@ -1,0 +1,30 @@
+{
+    "name": "Brian O'Connor",
+    "country": "Australia",
+    "fullname": "Brian Redmond Devereaux O'Connor",
+    "birth_place": "South Brisbane, Queensland",
+    "death_date": "1963",
+    "death_place": "Red Hill, Brisbane, Queensland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Players/16/16504/16504.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "83",
+        "bat avg": "11.85",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "760",
+        "wickets": "6",
+        "bowl avg": "75.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/72",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1934/35\u20131935/36"
+    },
+    "birth_date": "1913-7-5"
+}

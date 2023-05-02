@@ -1,0 +1,27 @@
+{
+    "name": "Henry Lawson",
+    "fullname": "Henry Wallace Lawson",
+    "birth_place": "Sydney, Australia",
+    "death_date": "12 January 1941 (aged 75)",
+    "death_place": "Mount Eden, Auckland, New Zealand",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/37643.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "257",
+        "bat avg": "10.70",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "wickets": "58",
+        "bowl avg": "12.03",
+        "fivefor": "5",
+        "tenfor": "3",
+        "best bowling": "7/25",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Wellington": "1883\u201384 to 1889\u201390",
+        "Auckland": "1891\u201392 to 1897\u201398"
+    }
+}

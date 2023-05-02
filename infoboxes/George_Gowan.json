@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "George Mauleverer Gowan",
+    "birth_place": "Madras, Madras Presidency,, British India",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/13918.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "5.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1849"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Colin Casemore",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/11522.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Berkshire": "1970&ndash;1977"
+    },
+    "birth_date": "1940-2-21"
+}

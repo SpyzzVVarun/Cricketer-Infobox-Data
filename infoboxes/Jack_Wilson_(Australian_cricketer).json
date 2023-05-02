@@ -1,0 +1,49 @@
+{
+    "name": "Jack Wilson",
+    "fullname": "John William Wilson",
+    "birth_place": "Albert Park, Melbourne, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Bayswater, Melbourne, Victoria",
+    "nickname": "Chucker",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "country": "Australia",
+    "onetest": "true",
+    "testdebutagainst": "India",
+    "testdebutdate": "26 October",
+    "testdebutyear": "1956",
+    "source": "https://www.espncricinfo.com/player/jack-wilson-8237 CricInfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "216",
+        "wickets": "1",
+        "bowl avg": "64.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "78",
+        "runs": "287",
+        "bat avg": "5.74",
+        "100s/50s": "0/0",
+        "deliveries": "19,853",
+        "wickets": "230",
+        "bowl avg": "30.51",
+        "fivefor": "9",
+        "tenfor": "1",
+        "best bowling": "7/11",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1949/50",
+        "South Australia": "1950/51\u20131957/58"
+    },
+    "birth_date": "1921-08-20"
+}

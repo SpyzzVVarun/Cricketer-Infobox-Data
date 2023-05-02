@@ -1,0 +1,40 @@
+{
+    "name": "Jim Hubble",
+    "country": "Australia",
+    "fullname": "James Merrick Hubble",
+    "birth_place": "Beaconsfield, Western Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/11/11502/11502.html CricketArchive",
+    "First-class": {
+        "matches": "24",
+        "runs": "279",
+        "bat avg": "16.41",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "4,114",
+        "wickets": "69",
+        "bowl avg": "28.71",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/49",
+        "catches/stumpings": "10/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "100",
+        "wickets": "3",
+        "bowl avg": "23.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1964/65\u20131974/75"
+    },
+    "birth_date": "1942-8-12"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Philip Thresher",
+    "birth_place": "Hamble-le-Rice, Hampshire, England",
+    "death_date": "1883",
+    "death_place": "Shepherd's Bush, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/21538.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "93",
+        "bat avg": "11.62",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "19.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/19",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1865\u20131869"
+    }
+}

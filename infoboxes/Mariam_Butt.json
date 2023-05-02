@@ -1,0 +1,41 @@
+{
+    "name": "Mariam Butt",
+    "female": "true",
+    "fullname": "Mariam Anwar Butt",
+    "birth_place": "Sialkot, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "internationalspan": "2003\u20132004",
+    "country": "Pakistan",
+    "onetest": "true",
+    "testdebutdate": "15 March",
+    "testdebutyear": "2004",
+    "testdebutagainst": "West Indies",
+    "testcap": "16",
+    "odidebutdate": "21 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Japan",
+    "odicap": "31",
+    "lastodidate": "2 April",
+    "lastodiyear": "2004",
+    "lastodiagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/44/44857/44857.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "12",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1987-4-18"
+}

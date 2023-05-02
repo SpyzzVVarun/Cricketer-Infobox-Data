@@ -1,0 +1,20 @@
+{
+    "name": "Louis Balmain",
+    "country": "New Zealand",
+    "fullname": "Louis Henry Fletcher Balmain",
+    "birth_place": "Bath, Somerset, England",
+    "death_date": "1904",
+    "death_place": "Canada",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36373.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "90",
+        "bat avg": "45.00",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Nelson": "1880-81"
+    }
+}

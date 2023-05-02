@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Stephen Goldring",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/13652.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "23",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "78",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1932-11-18"
+}

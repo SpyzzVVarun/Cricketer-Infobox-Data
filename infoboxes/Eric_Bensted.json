@@ -1,0 +1,29 @@
+{
+    "name": "Eric Bensted",
+    "country": "Australia",
+    "fullname": "Eric Charles Bensted",
+    "birth_place": "Killarney, Queensland, Australia",
+    "death_date": "1980",
+    "death_place": "Brisbane, Queensland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/4296.html Cricinfo",
+    "First-class": {
+        "matches": "58",
+        "runs": "2700",
+        "bat avg": "26.73",
+        "100s/50s": "3/15",
+        "top score": "155",
+        "deliveries": "6,598",
+        "wickets": "76",
+        "bowl avg": "43.34",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/28",
+        "catches/stumpings": "38/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1923-24 to 1936-37"
+    },
+    "birth_date": "1901-1-11"
+}

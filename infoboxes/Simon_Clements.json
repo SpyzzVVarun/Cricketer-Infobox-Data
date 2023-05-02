@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "Simon Mark Clements",
+    "birth_place": "Felixstowe, Suffolk, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10972.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "860",
+        "bat avg": "20.47",
+        "100s/50s": "\u2013/4",
+        "top score": "91",
+        "deliveries": "312",
+        "wickets": "3",
+        "bowl avg": "68.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/29",
+        "catches/stumpings": "18/\u2013"
+    },
+    "List A": {
+        "matches": "18",
+        "runs": "216",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/1",
+        "top score": "59",
+        "deliveries": "258",
+        "wickets": "5",
+        "bowl avg": "33.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/30",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1983",
+        "Combined Universities": "1979",
+        "Oxford University": "1976\u20131979",
+        "Suffolk": "1974\u20131998"
+    },
+    "birth_date": "1956-4-29"
+}

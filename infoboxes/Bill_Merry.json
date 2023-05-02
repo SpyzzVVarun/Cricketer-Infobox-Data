@@ -1,0 +1,45 @@
+{
+    "name": "Bill Merry",
+    "country": "England",
+    "fullname": "William Gerald Merry",
+    "birth_place": "Newbury, Berkshire, England",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17542.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "50",
+        "bat avg": "6.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "3,518",
+        "wickets": "52",
+        "bowl avg": "33.15",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/24",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "List A": {
+        "matches": "53",
+        "runs": "87",
+        "bat avg": "5.80",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "2,387",
+        "wickets": "55",
+        "bowl avg": "27.65",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/19",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1984&ndash;1987",
+        "Hertfordshire": "1976&ndash;1978",
+        "Middlesex": "1979&ndash;1983",
+        "Minor Counties West": "1978"
+    },
+    "birth_date": "1955-8-8"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Andrew David Innes",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "death_date": "1968",
+    "death_place": "Milngavie, Dunbartonshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/player/andrew-innes-25242 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "164",
+        "bat avg": "16.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "26.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/12",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1925&ndash;1934"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Greg Rowell",
+    "country": "Australia",
+    "fullname": "Gregory John Rowell",
+    "birth_place": "Lindfield, New South Wales, Australia",
+    "heightcm": "204",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/6/6089/6089.html CricketArchive ",
+    "First-class": {
+        "matches": "46",
+        "runs": "527",
+        "bat avg": "11.45",
+        "100s/50s": "0/0",
+        "deliveries": "9,623",
+        "wickets": "147",
+        "bowl avg": "30.98",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/46",
+        "catches/stumpings": "26/\u2013"
+    },
+    "List A": {
+        "matches": "27",
+        "runs": "51",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "deliveries": "1,440",
+        "wickets": "27",
+        "bowl avg": "34.03",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/30",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1989/90\u20131990/91",
+        "Queensland": "1991/92\u20131997/98",
+        "Tasmania": "1998/99"
+    },
+    "birth_date": "1966-09-01"
+}

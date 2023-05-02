@@ -1,0 +1,47 @@
+{
+    "name": "Priya Punia",
+    "female": "true",
+    "country": "India",
+    "fullname": "Priya Surender Punia",
+    "birth_place": "Jaipur, Rajasthan, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "odidebutdate": "9 October",
+    "odidebutyear": "2019",
+    "odidebutagainst": "South Africa",
+    "odicap": "127",
+    "lastodidate": "17 March",
+    "lastodiyear": "2021",
+    "lastodiagainst": "South Africa",
+    "T20Idebutdate": "6 February",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "New Zealand",
+    "T20Icap": "61",
+    "lastT20Idate": "10 February",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/883391.html Cricinfo ",
+    "WODI": {
+        "matches": "5",
+        "runs": "175",
+        "bat avg": "43.75",
+        "100s/50s": "-/2",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "3",
+        "runs": "9",
+        "bat avg": "3",
+        "100s/50s": "-/-",
+        "top score": "4",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Delhi": "2013/14\u2013present",
+        "North Zone": "2014/15\u20132017/18",
+        "India Green": "2015\u20132017/18",
+        "Supernovas": "2019\u2013present"
+    },
+    "birth_date": "1996-8-6"
+}

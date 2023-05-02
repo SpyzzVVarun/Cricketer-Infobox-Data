@@ -1,0 +1,39 @@
+{
+    "name": "Frank Prentice",
+    "country": "England",
+    "fullname": "Francis Thomas Prentice",
+    "birth_place": "Knaresborough, Yorkshire, England",
+    "death_date": "1978",
+    "death_place": "Headingley, Leeds, Yorkshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-breaks",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "9 June",
+    "debutyear1": "1934",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "1 June",
+    "lastyear1": "1951",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32160/32160.html CricketArchive ",
+    "First-class": {
+        "matches": "241",
+        "runs": "10997",
+        "bat avg": "27.70",
+        "100s/50s": "17/48",
+        "top score": "191",
+        "deliveries": "11929",
+        "wickets": "117",
+        "bowl avg": "49.97",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/46",
+        "catches/stumpings": "75/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1934\u201351"
+    },
+    "birth_date": "1912-4-22"
+}

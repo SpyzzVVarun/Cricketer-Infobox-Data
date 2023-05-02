@@ -1,0 +1,21 @@
+{
+    "name": "Brian Boshier",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/28/28015/statistics_lists.html CricketArchive",
+    "First-class": {
+        "matches": "206",
+        "runs": "579",
+        "bat avg": "4.32",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "26,693",
+        "wickets": "530",
+        "bowl avg": "23.03",
+        "fivefor": "23",
+        "tenfor": "2",
+        "best bowling": "8/45",
+        "catches/stumpings": "56/\u2013"
+    },
+    "clubs": {}
+}

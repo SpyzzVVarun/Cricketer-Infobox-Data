@@ -1,0 +1,40 @@
+{
+    "name": "Tim Bower",
+    "country": "Australia",
+    "fullname": "Timothy Donald Bower",
+    "birth_place": "Devonport, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4178.html Cricinfo ",
+    "FC": {
+        "matches": "15",
+        "runs": "74",
+        "bat avg": "6.16",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "2,478",
+        "wickets": "27",
+        "bowl avg": "49.03",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/37",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "35.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/34",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1987/88&ndash;1993/94"
+    },
+    "birth_date": "1968-9-10"
+}

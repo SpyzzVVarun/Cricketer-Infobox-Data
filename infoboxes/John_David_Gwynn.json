@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "John David Gwynn",
+    "birth_place": "Clontarf, Ireland",
+    "death_date": "1998",
+    "death_place": "Wandsworth, London, England",
+    "family": "John Gwynn (uncle), Lucius Gwynn (uncle), Arthur Gwynn (uncle), Robert Gwynn (uncle)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/24572.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dublin University": "1926"
+    }
+}

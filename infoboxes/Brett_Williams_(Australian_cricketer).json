@@ -1,0 +1,41 @@
+{
+    "name": "Brett Williams",
+    "fullname": "Brett Douglas Williams",
+    "birth_place": "Camden, New South Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/australia/content/player/8278.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "240",
+        "bat avg": "40.00",
+        "100s/50s": "0/2",
+        "top score": "77",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/21",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "43",
+        "bat avg": "14.33",
+        "100s/50s": "0/0",
+        "top score": "170",
+        "deliveries": "102",
+        "wickets": "1",
+        "bowl avg": "86.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/46",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1988/89\u20131989/90"
+    },
+    "birth_date": "1967-12-15"
+}

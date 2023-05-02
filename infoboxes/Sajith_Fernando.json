@@ -1,0 +1,56 @@
+{
+    "name": "Sajith Fernando",
+    "fullname": "Sajith Ian Fernando",
+    "birth_place": "Kandy, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Allrounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/48807.html Cricinfo ",
+    "FC": {
+        "matches": "193",
+        "runs": "10,700",
+        "bat avg": "38.62",
+        "100s/50s": "16/53",
+        "deliveries": "14,763",
+        "wickets": "269",
+        "bowl avg": "23.78",
+        "fivefor": "8",
+        "tenfor": "2",
+        "best bowling": "7/37",
+        "catches/stumpings": "120/0"
+    },
+    "LA": {
+        "matches": "108",
+        "runs": "2,920",
+        "bat avg": "31.06",
+        "100s/50s": "4/15",
+        "top score": "118",
+        "deliveries": "3,465",
+        "wickets": "83",
+        "bowl avg": "27.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/15",
+        "catches/stumpings": "29/0"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "152",
+        "bat avg": "25.33",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "126",
+        "wickets": "4",
+        "bowl avg": "36.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/15",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Colts": "",
+        "Middleton CC": "",
+        "Tamil Union": ""
+    },
+    "birth_date": "1972-9-27"
+}

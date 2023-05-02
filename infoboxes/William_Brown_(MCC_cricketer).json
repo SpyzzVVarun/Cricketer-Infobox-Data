@@ -1,0 +1,19 @@
+{
+    "name": "William Brown",
+    "country": "England",
+    "fullname": "William Brown",
+    "source": "http://www.cricinfo.com/ci/content/player/10530.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "123",
+        "bat avg": "8.78",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1836",
+        "Marylebone Cricket Club": "1837\u20131842",
+        "Hampshire": "1843"
+    }
+}

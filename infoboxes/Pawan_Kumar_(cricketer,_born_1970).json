@@ -1,0 +1,39 @@
+{
+    "name": "Pawan Kumar",
+    "fullname": "Tangirala Pawan Kumar",
+    "birth_place": "Eluru, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/32597.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "228",
+        "wickets": "1",
+        "bowl avg": "129.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/38",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "19",
+        "runs": "112",
+        "bat avg": "10.18",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "864",
+        "wickets": "28",
+        "bowl avg": "25.75",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/43",
+        "catches/stumpings": "8/0"
+    },
+    "T20": {},
+    "clubs": {
+        "Hyderabad": "1993-2002"
+    },
+    "birth_date": "1970-9-19"
+}

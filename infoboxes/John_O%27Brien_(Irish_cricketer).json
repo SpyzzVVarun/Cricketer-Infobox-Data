@@ -1,0 +1,22 @@
+{
+    "country": "Ireland",
+    "fullname": "John George O'Brien",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Ireland",
+    "family": "Tim O'Brien (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24480.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1910"
+    }
+}

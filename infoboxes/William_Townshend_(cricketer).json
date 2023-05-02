@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "William Townshend",
+    "birth_place": "Sehore, Bhopal State,, British India",
+    "death_date": "df=yes",
+    "death_place": "Kirkby Mallory,, Leicestershire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/21911.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "460",
+        "bat avg": "15.86",
+        "100s/50s": "\u2013/2",
+        "top score": "55",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1870&ndash;1872",
+        "Marylebone Cricket Club": "1874"
+    }
+}

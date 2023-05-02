@@ -1,0 +1,25 @@
+{
+    "country": "Argentina",
+    "fullname": "James Hugh Paul",
+    "birth_place": "Argentina",
+    "death_date": "df=yes",
+    "death_place": "Earlswood, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23642.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "272",
+        "bat avg": "18.13",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "deliveries": "627",
+        "wickets": "9",
+        "bowl avg": "35.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/23",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

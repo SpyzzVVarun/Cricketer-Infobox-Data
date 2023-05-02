@@ -1,0 +1,42 @@
+{
+    "name": "Rajesh Maru",
+    "country": "England",
+    "fullname": "Rajesh Jamandass Maru",
+    "birth_place": "Nairobi, Kenya Colony",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/england/content/player/16930.html Cricinfo ",
+    "First-class": {
+        "matches": "229",
+        "runs": "2,965",
+        "bat avg": "17.04",
+        "100s/50s": "&ndash;/7",
+        "top score": "74",
+        "deliveries": "40,038",
+        "wickets": "527",
+        "bowl avg": "33.61",
+        "fivefor": "15",
+        "tenfor": "1",
+        "best bowling": "8/41",
+        "catches/stumpings": "254/&ndash;"
+    },
+    "List A": {
+        "matches": "109",
+        "runs": "287",
+        "bat avg": "13.04",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "4,552",
+        "wickets": "88",
+        "bowl avg": "39.87",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/29",
+        "catches/stumpings": "48/&ndash;"
+    },
+    "clubs": {
+        "Middlesex": "1980&ndash;1982",
+        "Hampshire": "1984&ndash;1998",
+        "Hampshire Cricket Board": "1999&ndash;2001"
+    },
+    "birth_date": "1962-10-28"
+}

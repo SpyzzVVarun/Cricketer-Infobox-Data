@@ -1,0 +1,64 @@
+{
+    "name": "Steve Rhodes",
+    "country": "England",
+    "fullname": "Steven John Rhodes",
+    "birth_place": "Bradford, Yorkshire, England",
+    "nickname": "Bumpy",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper-batsman",
+    "family": "George Rhodes (son), William Rhodes (father)",
+    "internationalspan": "1989\u20131995",
+    "testdebutdate": "2 June",
+    "testdebutyear": "1994",
+    "testdebutagainst": "New Zealand",
+    "testcap": "566",
+    "lasttestdate": "3 February",
+    "lasttestyear": "1995",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "25 May",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Australia",
+    "odicap": "102",
+    "lastodidate": "10 January",
+    "lastodiyear": "1995",
+    "lastodiagainst": "Australia",
+    "coachclub1": "Bangladesh",
+    "coachyear1": "2018\u20132019",
+    "source": "https://web.archive.org/web/20160630205849/https://www.cricketarchive.com/Archive/Players/2/2157/2157.html CricketArchive ",
+    "Test": {
+        "matches": "11",
+        "runs": "294",
+        "bat avg": "24.50",
+        "100s/50s": "0/1",
+        "catches/stumpings": "46/3"
+    },
+    "ODI": {
+        "matches": "9",
+        "runs": "107",
+        "bat avg": "17.83",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "catches/stumpings": "9/2"
+    },
+    "FC": {
+        "matches": "440",
+        "runs": "14,839",
+        "bat avg": "32.82",
+        "100s/50s": "12/72",
+        "top score": "124",
+        "catches/stumpings": "1139/124"
+    },
+    "LA": {
+        "matches": "477",
+        "runs": "4,362",
+        "bat avg": "19.82",
+        "100s/50s": "1/6",
+        "top score": "105",
+        "catches/stumpings": "532/129"
+    },
+    "clubs": {
+        "Yorkshire": "1981\u20131984",
+        "Worcestershire": "1985\u20132004"
+    },
+    "birth_date": "1964-6-17"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Henry Sugden",
+    "country": "England",
+    "fullname": "Henry Emanuel Sugden",
+    "birth_place": "Southgate, Middlesex, England",
+    "death_date": "1935",
+    "death_place": "Chilworth, Hampshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "12 June",
+    "debutyear1": "1882",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Australians",
+    "lastdate1": "26 June",
+    "lastyear1": "1882",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Players/33/33112/33112.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "3.25",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1882"
+    },
+    "birth_date": "1859-7-16"
+}

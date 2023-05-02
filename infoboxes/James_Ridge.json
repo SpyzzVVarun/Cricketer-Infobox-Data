@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "James Alvar Ridge",
+    "birth_place": "Ashton Keynes, Wiltshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/19909.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "12",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "66",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wiltshire": "1966-1973"
+    },
+    "birth_date": "1943-2-6"
+}

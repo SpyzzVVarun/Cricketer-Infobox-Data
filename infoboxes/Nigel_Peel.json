@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Nigel David Peel",
+    "birth_place": "Wythenshawe, Manchester, England",
+    "death_date": "2016",
+    "death_place": "Charnock Richard, Lancashire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/18697.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "258",
+        "wickets": "4",
+        "bowl avg": "49.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/45",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cheshire": "1989&ndash;1996"
+    },
+    "birth_date": "1967-11-10"
+}

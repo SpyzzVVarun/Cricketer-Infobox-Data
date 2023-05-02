@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Francis Elmer Speed",
+    "birth_place": "Paddington, Middlesex, England",
+    "death_date": "1928",
+    "death_place": "Goodnestone, Kent, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/20949.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "30",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882&ndash;1884"
+    }
+}

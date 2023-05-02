@@ -1,0 +1,33 @@
+{
+    "country": "England",
+    "fullname": "Charles Alfred Richard Coleman",
+    "birth_place": "Gumley, Leicestershire, England",
+    "death_date": "1978",
+    "death_place": "Market Harborough, Leicestershire, England",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "umpire": "true",
+    "testsumpired": "2",
+    "umptestdebutyr": "1947",
+    "fcumpired": "142",
+    "umpfcdebutyr": "1946",
+    "umpfclastyr": "1957",
+    "source": "https://www.espncricinfo.com/player/alfred-coleman-11226 Cricinfo ",
+    "First-class": {
+        "matches": "114",
+        "runs": "2,403",
+        "bat avg": "15.01",
+        "100s/50s": "1/7",
+        "top score": "114",
+        "deliveries": "6,865",
+        "wickets": "100",
+        "bowl avg": "35.76",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/30",
+        "catches/stumpings": "60/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1926&ndash;1935"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Wilfrid Foster",
+    "country": "England",
+    "fullname": "Wilfrid Lionel Foster",
+    "birth_place": "Great Malvern, Worcestershire, England",
+    "death_date": "22 March 1958 (aged 83)",
+    "death_place": "Shifnal, Staffordshire, England",
+    "family": "Foster brothers",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/13162.html CricInfo ",
+    "First-class": {
+        "matches": "38",
+        "runs": "1,993",
+        "bat avg": "30.66",
+        "100s/50s": "3/11",
+        "top score": "113",
+        "deliveries": "5",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1898\u20131911"
+    }
+}

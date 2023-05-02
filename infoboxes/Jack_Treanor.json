@@ -1,0 +1,29 @@
+{
+    "name": "Jack Treanor",
+    "country": "Australia",
+    "fullname": "John Cassimar Treanor",
+    "birth_place": "Darlinghurst, Sydney, New South Wales, Australia",
+    "death_date": "1993",
+    "death_place": "Ballina, New South Wales",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://cricketarchive.com/Archive/Players/6/6144/6144.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "197",
+        "bat avg": "11.58",
+        "100s/50s": "0/0",
+        "top score": "33 not out",
+        "deliveries": "3661",
+        "wickets": "63",
+        "bowl avg": "27.71",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "5/36",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "New South Wales": "1954-55 to 1956-57"
+    },
+    "birth_date": "1922-8-17"
+}

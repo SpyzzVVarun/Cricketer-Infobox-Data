@@ -1,0 +1,45 @@
+{
+    "name": "Sara Hungerford",
+    "female": "true",
+    "full_name": "Sara Louise Hungerford",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/149/149701/149701.html CricketArchive",
+    "WLA": {
+        "matches": "52",
+        "runs": "985",
+        "bat avg": "22.90",
+        "100s/50s": "1/2",
+        "top score": "111",
+        "deliveries": "301",
+        "wickets": "8",
+        "bowl avg": "31.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "10/\u2013"
+    },
+    "WT20": {
+        "matches": "70",
+        "runs": "893",
+        "bat avg": "14.88",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Auckland": "2006/07",
+        "Australian Capital Territory": "2009/10\u20132015/16",
+        "Surrey": "2012",
+        "Sydney Sixers": "2015/16"
+    },
+    "birth_date": "1986-02-13"
+}

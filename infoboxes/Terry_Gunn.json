@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Terry Gunn",
+    "birth_place": "Barnsley, Yorkshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/13818.html Cricinfo |death_date=5 April 2021 (aged 85)",
+    "First-class": {
+        "matches": "41",
+        "runs": "179",
+        "bat avg": "5.11",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "109/5"
+    },
+    "clubs": {
+        "Sussex": "1961&ndash;1967"
+    }
+}

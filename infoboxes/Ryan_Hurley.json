@@ -1,0 +1,36 @@
+{
+    "name": "Ryan Hurley",
+    "country": "West Indies",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://content-ind.cricinfo.com/ci/content/player/52076.html Cricinfo  ",
+    "Tests": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "9",
+        "runs": "13",
+        "bat avg": "3.25",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "63",
+        "wickets": "5",
+        "bowl avg": "62.60",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/25",
+        "catches/stumpings": "5/-"
+    },
+    "clubs": {}
+}

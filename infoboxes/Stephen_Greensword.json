@@ -1,0 +1,44 @@
+{
+    "country": "England",
+    "fullname": "Stephen Greensword",
+    "birth_place": "Shiney Row, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/13541.html Cricinfo ",
+    "First-class": {
+        "matches": "43",
+        "runs": "1,094",
+        "bat avg": "16.57",
+        "100s/50s": "\u2013/3",
+        "deliveries": "2,162",
+        "wickets": "29",
+        "bowl avg": "34.55",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/22",
+        "catches/stumpings": "30/\u2013"
+    },
+    "List A": {
+        "matches": "60",
+        "runs": "970",
+        "bat avg": "21.55",
+        "100s/50s": "\u2013/2",
+        "top score": "73",
+        "deliveries": "3,020",
+        "wickets": "51",
+        "bowl avg": "31.86",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/28",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1973\u20131992",
+        "Minor Counties North": "1973",
+        "Durham": "1972\u20131990",
+        "Northumberland": "1967\u20131992",
+        "Leicestershire": "1963\u20131966"
+    },
+    "birth_date": "1943-9-6"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Cameron Delport",
+    "fullname": "Cameron Scott Delport",
+    "birth_place": "Durban, Natal Province, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://www.espncricinfo.com/player/cameron-delport-322810 ESPNcricinfo ",
+    "FC": {
+        "matches": "65",
+        "runs": "3,463",
+        "bat avg": "32.66",
+        "100s/50s": "4/20",
+        "top score": "163",
+        "deliveries": "1,250",
+        "wickets": "14",
+        "bowl avg": "55.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "38/\u2013"
+    },
+    "LA": {
+        "matches": "110",
+        "runs": "2,972",
+        "bat avg": "31.95",
+        "100s/50s": "4/15",
+        "deliveries": "1,572",
+        "wickets": "38",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "40/\u2013"
+    },
+    "T20": {
+        "matches": "265",
+        "runs": "6.055",
+        "bat avg": "25.33",
+        "100s/50s": "5/31",
+        "top score": "129",
+        "deliveries": "1,511",
+        "wickets": "71",
+        "bowl avg": "28.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/17",
+        "catches/stumpings": "87/\u2013"
+    },
+    "clubs": {
+        "Dolphins": "2008/09\u20132016/17Not every side that Delport has played for is listed here. Sides which he played for in only one season have been omitted.",
+        "KwaZulu-Natal": "2008/09\u20132016/17",
+        "Lahore Qalandars": "2016\u20132018",
+        "Leicestershire": "2016\u20132018",
+        "Boost Defenders": "2017\u20132018",
+        "Paarl Rocks": "2018\u20132019",
+        "Essex": "2019\u20132020"
+    },
+    "birth_date": "1989-5-12"
+}

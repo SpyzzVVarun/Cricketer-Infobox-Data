@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "William Cator",
+    "birth_place": "Moorfield, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Woodbastwick, Norfolk, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11600.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1860"
+    }
+}

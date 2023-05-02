@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Alfred Torrens",
+    "birth_place": "Agra, British India",
+    "death_date": "1903",
+    "death_place": "Hayes, Kent, England",
+    "family": "William Torrens (son), Attwood Torrens (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/22086.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1855"
+    }
+}

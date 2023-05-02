@@ -1,0 +1,37 @@
+{
+    "name": "Peggy Antonio",
+    "female": "true",
+    "country": "Australia",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "2002",
+    "death_place": "Bundoora, Melbourne, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right arm leg break Right arm leg break googly",
+    "role": "Bowler",
+    "testdebutdate": "28 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "England",
+    "testcap": "10",
+    "lasttestdate": "13 July",
+    "lasttestyear": "1937",
+    "lasttestagainst": "England",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/53474.html Cricinfo.com ",
+    "Tests": {
+        "matches": "6",
+        "runs": "128",
+        "bat avg": "11.63",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "990",
+        "wickets": "31",
+        "bowl avg": "13.90",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/49",
+        "catches/stumpings": "15/&ndash;"
+    },
+    "clubs": {
+        "Victoria Women": "1934&ndash;1935"
+    },
+    "birth_date": "1917-6-2"
+}

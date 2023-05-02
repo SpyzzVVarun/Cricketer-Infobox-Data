@@ -1,0 +1,48 @@
+{
+    "name": "Buddika Mendis",
+    "country": "Singapore",
+    "fullname": "Yange Oshanka Buddhika Mendis",
+    "birth_place": "Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Off Off spin",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "2 January",
+    "debutyear1": "1999",
+    "debutfor1": "Bloomfield Cricket and Athletic Club",
+    "debutagainst1": "Nondescripts Cricket Club",
+    "lastdate1": "18 February",
+    "lastyear1": "2000",
+    "lastfor1": "Bloomfield Cricket and Athletic Club",
+    "lastagainst1": "Police Sports Club",
+    "type2": "List A",
+    "debutdate2": "26 February",
+    "debutyear2": "2000",
+    "debutfor2": "Bloomfield Cricket and Athletic Club",
+    "debutagainst2": "Galle Cricket Club",
+    "lastdate2": "12 March",
+    "lastyear2": "2000",
+    "lastfor2": "Bloomfield Cricket and Athletic Club",
+    "lastagainst2": "Singha Sports Club",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/20/20562/20562.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "192",
+        "bat avg": "27.42",
+        "100s/50s": "0/1",
+        "top score": "85",
+        "catches/stumpings": "8/2"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "31",
+        "bat avg": "7.75",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Bloomfield Cricket and Athletic Club": "1999\u20132000"
+    },
+    "birth_date": "1979-6-22"
+}

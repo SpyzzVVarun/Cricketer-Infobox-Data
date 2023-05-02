@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Patrick Cyril Williams",
+    "birth_place": "Ningpo, Chekiang Province, China",
+    "death_date": "df=yes",
+    "death_place": "Helston, Cornwall, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/35976.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "172",
+        "wickets": "3",
+        "bowl avg": "29.33",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "3/88",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1940/41",
+        "Wiltshire": "1947"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Yaqoob Ali",
+    "country": "Ireland",
+    "fullname": "Yaqoob Ali",
+    "birth_place": "Karachi, Pakistan",
+    "role": "Bowler",
+    "type1": "Twenty20",
+    "debutdate1": "26 May",
+    "debutyear1": "2017",
+    "debutfor1": "Munster",
+    "debutagainst1": "Northern",
+    "source": "http://www.espncricinfo.com/ci/content/player/1005289.html ESPNcricinfo ",
+    "Twenty20": {
+        "matches": "13",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "deliveries": "264",
+        "wickets": "17",
+        "bowl avg": "20.17",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/29",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Leinster Lightning": "2014\u20132016",
+        "Munster Reds": "2017\u20132019"
+    },
+    "birth_date": "1980-4-5"
+}

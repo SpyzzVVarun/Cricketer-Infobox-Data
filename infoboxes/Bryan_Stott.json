@@ -1,0 +1,42 @@
+{
+    "name": "Bryan Stott",
+    "country": "England",
+    "fullname": "William Bryan Stott",
+    "birth_place": "Yeadon, West Riding of Yorkshire",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/21066.html ESPN cricinfo",
+    "First-class": {
+        "matches": "190",
+        "runs": "9,248",
+        "bat avg": "31.45",
+        "100s/50s": "17/46",
+        "top score": "186",
+        "deliveries": "189",
+        "wickets": "7",
+        "bowl avg": "16.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/34",
+        "catches/stumpings": "91/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Yorkshire": "1952\u20131963",
+        "Combined Services": "1955\u20131956"
+    },
+    "birth_date": "1934-7-18"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Suruj Ragoonath",
+    "country": "West Indies",
+    "fullname": "Suruj Ragoonath",
+    "birth_place": "Chaguanas, Trinidad and Tobago",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Opening batsman",
+    "testdebutdate": "5 March",
+    "testdebutyear": "1999",
+    "testdebutagainst": "Australia",
+    "testcap": "227",
+    "lasttestdate": "13 March",
+    "lasttestyear": "1999",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/52803.html ESPNcricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "66",
+        "runs": "3,261",
+        "bat avg": "29.11",
+        "100s/50s": "2/24",
+        "top score": "128",
+        "deliveries": "47",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "36/\u2013"
+    },
+    "LA": {
+        "matches": "48",
+        "runs": "1,045",
+        "bat avg": "24.30",
+        "100s/50s": "1/5",
+        "deliveries": "15",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1989\u20132001"
+    },
+    "birth_date": "1968-3-22"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Derek William Gillespie",
+    "birth_place": "Aberford, Yorkshire, England",
+    "death_date": "1981",
+    "death_place": "Oxton, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium-fast , Right-arm off Right-arm medium-fast , Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/13624.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "155",
+        "bat avg": "12.91",
+        "100s/50s": "\u2013/1",
+        "top score": "60",
+        "deliveries": "1,442",
+        "wickets": "22",
+        "bowl avg": "31.04",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/48",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1938&ndash;1939"
+    }
+}

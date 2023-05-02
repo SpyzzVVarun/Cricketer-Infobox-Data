@@ -1,0 +1,24 @@
+{
+    "name": "Navin Kavikara",
+    "fullname": "Navin Madushan Kavikara",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm orthodox",
+    "source": "https://cricketarchive.com/Players/210/210204/210204.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Sri Lanka Schools XI": "2008",
+        "Lankan Cricket Club": "2011",
+        "Chilaw Marians Cricket Club": "2012",
+        "Badureliya Sports Club": "2013\u20132014"
+    },
+    "birth_date": "1989-12-27",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{SRI}}",
+        "Competition: South Asian Games",
+        "Silver Medal: 2010 Dhaka Team"
+    ]
+}

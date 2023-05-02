@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Kevin Stuart Murray",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "batting": "Left-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/17234.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1984\u20131992"
+    },
+    "birth_date": "1963-1-3"
+}

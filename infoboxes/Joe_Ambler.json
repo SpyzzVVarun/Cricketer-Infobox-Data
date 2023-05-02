@@ -1,0 +1,39 @@
+{
+    "name": "Joe Ambler",
+    "country": "England",
+    "fullname": "Joe Ambler",
+    "birth_place": "Huddersfield, Yorkshire, England",
+    "death_date": "1899",
+    "death_place": "Huddersfield, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "debutdate1": "30 July",
+    "debutyear1": "1883",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Marylebone Cricket Club",
+    "lastdate1": "21 June",
+    "lastyear1": "1886",
+    "lastfor1": "Yorkshire",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3403/3403.html CricketArchive ",
+    "First-class": {
+        "matches": "8",
+        "runs": "197",
+        "bat avg": "14.07",
+        "100s/50s": "0/1",
+        "top score": "76",
+        "deliveries": "468",
+        "wickets": "7",
+        "bowl avg": "31.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/54",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {
+        "Somerset": "1883",
+        "Yorkshire": "1886"
+    },
+    "birth_date": "1860-02-12"
+}

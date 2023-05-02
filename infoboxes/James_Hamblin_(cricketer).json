@@ -1,0 +1,55 @@
+{
+    "name": "James Hamblin",
+    "country": "England",
+    "fullname": "James Rupert Christopher Hamblin",
+    "birth_place": "Pembury, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/england/content/player/14017.html Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "440",
+        "bat avg": "27.50",
+        "100s/50s": "&ndash;/3",
+        "top score": "96",
+        "deliveries": "1,002",
+        "wickets": "14",
+        "bowl avg": "51.64",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/93",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "LA": {
+        "matches": "48",
+        "runs": "656",
+        "bat avg": "16.82",
+        "100s/50s": "&ndash;/2",
+        "top score": "61",
+        "deliveries": "1,007",
+        "wickets": "28",
+        "bowl avg": "32.39",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/29",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "24",
+        "bat avg": "24.80",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "38",
+        "deliveries": "48",
+        "wickets": "7",
+        "bowl avg": "10.14",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/31",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire( 7 )": "2001&ndash;2004"
+    },
+    "birth_date": "1978-8-16"
+}

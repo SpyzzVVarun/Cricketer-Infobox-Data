@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "William Sturrock Young",
+    "birth_place": "Dundee, Angus, Scotland",
+    "death_date": "1966",
+    "death_place": "Dundee, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/william-young-25404 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1936&ndash;1938"
+    }
+}

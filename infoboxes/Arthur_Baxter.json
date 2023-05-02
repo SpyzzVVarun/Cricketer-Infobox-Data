@@ -1,0 +1,42 @@
+{
+    "name": "Arthur Baxter",
+    "country": "Scotland",
+    "fullname": "Arthur Douglas Baxter",
+    "nickname": "Sandy",
+    "birth_place": "Edinburgh, Scotland",
+    "death_date": "1986",
+    "death_place": "Edenbridge, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "6 July",
+    "debutyear1": "1929",
+    "debutfor1": "Scotland",
+    "debutagainst1": "Ireland",
+    "lastdate1": "13 June",
+    "lastyear1": "1939",
+    "lastfor1": "Free Foresters",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/26/26948/26948.html CricketArchive ",
+    "First-class": {
+        "matches": "42",
+        "runs": "273",
+        "bat avg": "7.18",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "8405",
+        "wickets": "189",
+        "bowl avg": "21.75",
+        "fivefor": "16",
+        "tenfor": "4",
+        "best bowling": "7\u201333",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1929\u201337",
+        "Lancashire": "1933\u201334",
+        "MCC": "1935\u201337",
+        "Middlesex": "1938"
+    },
+    "birth_date": "1910-1-20"
+}

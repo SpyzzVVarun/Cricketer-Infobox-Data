@@ -1,0 +1,34 @@
+{
+    "name": "Katherine Fraser",
+    "female": "true",
+    "country": "Scotland",
+    "fullname": "Katherine Fraser",
+    "birth_place": "Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "T20Idebutdate": "29 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Germany",
+    "T20Icap": "15",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Papua New Guinea",
+    "source": "http://www.espncricinfo.com/ci/content/player/1146661.html Cricinfo ",
+    "WT20I": {
+        "matches": "31",
+        "runs": "50",
+        "bat avg": "6.25",
+        "100s/50s": "0/0",
+        "deliveries": "592",
+        "wickets": "39",
+        "bowl avg": "13.15",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/19",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Northern Diamonds": "2023\u2013present"
+    },
+    "birth_date": "2005-4-9"
+}

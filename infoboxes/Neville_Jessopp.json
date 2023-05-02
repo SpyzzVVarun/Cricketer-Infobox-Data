@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Neville Augustus Jessopp",
+    "birth_place": "Sleaford, Lincolnshire, England",
+    "death_date": "df=yes",
+    "death_place": "Claremont, Cape Province,, South Africa",
+    "batting": "Unknown",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15693.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "264",
+        "wickets": "7",
+        "bowl avg": "21.42",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/64",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1914&ndash;1920",
+        "Marylebone Cricket Club": "1919"
+    }
+}

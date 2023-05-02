@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Kenneth Owen Hunter",
+    "birth_place": "Westminster, London, England",
+    "death_date": "1960",
+    "death_place": "Westminster, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15069.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "151",
+        "wickets": "6",
+        "bowl avg": "11.83",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/21",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1905"
+    }
+}

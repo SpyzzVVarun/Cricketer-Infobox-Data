@@ -1,0 +1,22 @@
+{
+    "name": "Aldam Pettinger",
+    "fullname": "Aldam Murr Pettinger",
+    "birth_place": "Adelaide, South Australia",
+    "death_date": "1950",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/7204.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "South Australia": "1880/81"
+    },
+    "birth_date": "1859-7-30"
+}

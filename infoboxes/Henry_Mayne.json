@@ -1,0 +1,35 @@
+{
+    "name": "Henry Mayne",
+    "fullname": "Henry Blair Mayne",
+    "birth_place": "Limpsfield, Surrey",
+    "death_date": "df=yes",
+    "death_place": "Brighton, Sussex",
+    "type1": "FC",
+    "debutdate1": "12 August",
+    "debutyear1": "1833",
+    "debutfor1": "Gentlemen of Kent",
+    "debutagainst1": "MCC",
+    "lastdate1": "23 August",
+    "lastyear1": "1849",
+    "lastfor1": "Gentlemen of Kent",
+    "lastagainst1": "Gentlemen of England",
+    "source": "https://www.espncricinfo.com/england/content/player/17855.html CricInfo",
+    "First-class": {
+        "matches": "18",
+        "runs": "130",
+        "bat avg": "5.65",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "?It is not known how many balls Mayne bowled in first-class cricket or how many runs he conceded. Scorecards from the time he played did not always fully record a bowler's analysis.",
+        "wickets": "5",
+        "bowl avg": "?",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/?",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1834\u20131838"
+    },
+    "birth_date": "1813-08-23"
+}

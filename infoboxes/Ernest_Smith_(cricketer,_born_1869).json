@@ -1,0 +1,32 @@
+{
+    "name": "Ernest Smith",
+    "country": "England",
+    "birth_place": "Morley, West Riding of Yorkshire, England",
+    "death_date": "9 April 1945 (aged 75)",
+    "death_place": "Eastbourne, Sussex, England",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "A. E. Smith (brother)",
+    "source": "http://www.espncricinfo.com/england/content/player/20755.html Ernest Smith. Cricinfo ",
+    "First-class": {
+        "matches": "242",
+        "runs": "7686",
+        "bat avg": "21.46",
+        "100s/50s": "6/22",
+        "top score": "164",
+        "deliveries": "22774",
+        "wickets": "454",
+        "bowl avg": "25.69",
+        "fivefor": "22",
+        "tenfor": "3",
+        "best bowling": "7/40",
+        "catches/stumpings": "174/0"
+    },
+    "clubs": {
+        "Oxford University": "1888\u20131891",
+        "Yorkshire County Cricket Club": "1888\u20131907",
+        "Marylebone Cricket Club": "1892\u20131902"
+    }
+}

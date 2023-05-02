@@ -1,0 +1,41 @@
+{
+    "name": "Cec Dixon",
+    "fullname": "Cecil Donovan Dixon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "South Africa",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1914",
+    "lasttestdate": "1 January",
+    "lasttestyear": "1914",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/44709.html Cricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "240",
+        "wickets": "3",
+        "bowl avg": "39.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/62",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "33",
+        "runs": "184",
+        "bat avg": "5.93",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "5,200",
+        "wickets": "106",
+        "bowl avg": "24.11",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/16",
+        "catches/stumpings": "21/0"
+    },
+    "clubs": {}
+}

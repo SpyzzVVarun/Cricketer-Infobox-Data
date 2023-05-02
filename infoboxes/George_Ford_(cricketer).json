@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "George John Ford",
+    "birth_place": "St Pancras, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Hove, Sussex, England",
+    "family": "William Ford (brother), Francis Ford (nephew), William Ford (nephew), Augustus Ford (nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13282.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "130",
+        "bat avg": "9.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1837&ndash;1840",
+        "Marylebone Cricket Club": "1839"
+    }
+}

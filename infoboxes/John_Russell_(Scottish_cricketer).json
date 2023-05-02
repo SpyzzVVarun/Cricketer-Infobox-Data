@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "John Russell",
+    "birth_place": "Liff, Angus, Scotland",
+    "death_date": "1965",
+    "death_place": "Dundee, Angus, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/john-russell-25336 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "58",
+        "bat avg": "29.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1923"
+    }
+}

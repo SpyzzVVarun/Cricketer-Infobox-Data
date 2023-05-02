@@ -1,0 +1,37 @@
+{
+    "name": "Roger Harman",
+    "birth_place": "Hersham, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/29/29973/29973.html CricketArchive",
+    "First-class": {
+        "matches": "144",
+        "runs": "949",
+        "bat avg": "9.98",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "21051",
+        "wickets": "378",
+        "bowl avg": "23.74",
+        "fivefor": "18",
+        "tenfor": "3",
+        "best bowling": "8/12",
+        "catches/stumpings": "84/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "53",
+        "wickets": "3",
+        "bowl avg": "16.66",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/50",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1941-12-28"
+}

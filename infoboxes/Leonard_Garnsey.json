@@ -1,0 +1,29 @@
+{
+    "name": "Leonard Garnsey",
+    "fullname": "George Leonard Garnsey",
+    "birth_place": "Sydney, Australia",
+    "death_date": "1951",
+    "death_place": "Canberra, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/5362.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "319",
+        "bat avg": "14.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "-",
+        "wickets": "80",
+        "bowl avg": "22.27",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "6/35",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1904-07"
+    },
+    "birth_date": "1881-2-10"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Ivor John Skinner",
+    "birth_place": "Walthamstow, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20204.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "28",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1,458",
+        "wickets": "21",
+        "bowl avg": "38.47",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/56",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Cornwall": "1956&ndash;1959",
+        "Essex": "1950"
+    },
+    "birth_date": "1928-4-1"
+}

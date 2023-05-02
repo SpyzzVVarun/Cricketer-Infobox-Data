@@ -1,0 +1,31 @@
+{
+    "name": "Florence Douglas",
+    "female": "true",
+    "fullname": "Florence Douglas",
+    "birth_place": "Trinidad",
+    "role": "Bowler",
+    "internationalspan": "1973",
+    "country": "Trinidad and Tobago",
+    "odidebutdate": "30 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Australia",
+    "odicap": "12",
+    "lastodidate": "20 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17410/17410.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "deliveries": "53",
+        "wickets": "1",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/11",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

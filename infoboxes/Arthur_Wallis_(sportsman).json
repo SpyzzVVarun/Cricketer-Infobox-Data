@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Arthur Knight Wallis",
+    "birth_place": "Donnycarney, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Ireland",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24589.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "465",
+        "wickets": "6",
+        "bowl avg": "53.16",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/110",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Dublin University": "1895"
+    }
+}

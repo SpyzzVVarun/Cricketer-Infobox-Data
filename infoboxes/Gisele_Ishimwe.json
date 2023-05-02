@@ -1,0 +1,32 @@
+{
+    "name": "Gisele Ishimwe",
+    "female": "true",
+    "country": "Rwanda",
+    "fullname": "Gisele Ishimwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "T20Idebutdate": "26 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nigeria",
+    "T20Icap": "5",
+    "lastT20Idate": "18 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "https://www.espncricinfo.com/cricketers/gisele-ishimwe-1172639 Cricinfo ",
+    "WT20I": {
+        "matches": "43",
+        "runs": "661",
+        "bat avg": "18.88",
+        "100s/50s": "1/2",
+        "deliveries": "239",
+        "wickets": "10",
+        "bowl avg": "21.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {},
+    "birth_date": "2004-9-9"
+}

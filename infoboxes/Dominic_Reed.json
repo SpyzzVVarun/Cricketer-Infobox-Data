@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Dominic Terrence Reed",
+    "birth_place": "Leicester, Leicestershire, England",
+    "family": "Michael Reed (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/447144.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "198",
+        "wickets": "7",
+        "bowl avg": "28.85",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "2012",
+        "Norfolk": "2013",
+        "Unicorns": "2013"
+    },
+    "birth_date": "1990-3-27"
+}

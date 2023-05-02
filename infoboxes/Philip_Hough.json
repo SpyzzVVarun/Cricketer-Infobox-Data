@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Philip Hough",
+    "birth_place": "Macclesfield, Cheshire, England |death_date=death_place= Chippenham, Wiltshire, Engla",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.cricinfo.com/ci/content/player/15146.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "25.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cheshire": "1949-1959",
+        "Wiltshire": "1962-1966"
+    },
+    "birth_date": "1924-8-31"
+}

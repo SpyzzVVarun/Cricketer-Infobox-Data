@@ -1,0 +1,41 @@
+{
+    "name": "Stephen Watkins",
+    "country": "England",
+    "fullname": "Stephen George Watkins",
+    "birth_place": "Hereford, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/33/33654/33654.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "105",
+        "bat avg": "52.50",
+        "100s/50s": "0/1",
+        "top score": "77",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Worcestershire": "1983"
+    },
+    "birth_date": "1959-3-23"
+}

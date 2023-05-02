@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Joseph Barton",
+    "birth_place": "Smethwick, Staffordshire, England",
+    "death_date": "1945",
+    "death_place": "Selly Oak, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/9582.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "38",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "345",
+        "wickets": "7",
+        "bowl avg": "23.57",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/73",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "1902",
+        "Warwickshire": "1895\u20131896"
+    },
+    "birth_date": "1860-1-10"
+}

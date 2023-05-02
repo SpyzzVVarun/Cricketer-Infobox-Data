@@ -1,0 +1,28 @@
+{
+    "name": "Arthur Conway",
+    "country": "England",
+    "fullname": "Arthur Joseph Conway",
+    "birth_place": "Stirchley, Worcestershire, England",
+    "death_date": "1954",
+    "death_place": "South Shore, Blackpool, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/28/28680/28680.html CricketArchive ",
+    "FC": {
+        "matches": "31",
+        "runs": "165",
+        "bat avg": "4.34",
+        "100s/50s": "0/0",
+        "deliveries": "3,084",
+        "wickets": "57",
+        "bowl avg": "35.75",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "9/38",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Worcestershire": "1910\u20131919"
+    },
+    "birth_date": "1885-4-1"
+}

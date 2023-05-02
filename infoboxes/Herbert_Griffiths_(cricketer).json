@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Herbert Tyrrell Griffiths",
+    "birth_place": "Ryde, Isle of Wight, England",
+    "death_date": "1905",
+    "death_place": "Preston Candover, Hampshire, England",
+    "family": "Algernon Griffiths (brother), Richard Garth (father-in-law)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/13785.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "84",
+        "bat avg": "42.00",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1876&ndash;1878"
+    }
+}

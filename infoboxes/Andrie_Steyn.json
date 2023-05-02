@@ -1,0 +1,61 @@
+{
+    "name": "Andrie Steyn",
+    "female": "true",
+    "country": "South Africa",
+    "fullname": "Andrie Steyn",
+    "birth_place": "Durban, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "Batter",
+    "internationalspan": "2014\u2013present",
+    "onetest": "true",
+    "testdebutdate": "27 June",
+    "testdebutyear": "2022",
+    "testdebutagainst": "England",
+    "testcap": "65",
+    "odidebutdate": "21 October",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "72",
+    "odishirt": "6",
+    "lastodidate": "18 July",
+    "lastodiyear": "2022",
+    "lastodiagainst": "England",
+    "T20Idebutdate": "9 September",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "38",
+    "lastT20Idate": "26 October",
+    "lastT20Iyear": "2016",
+    "lastT20Iagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/India/content/player/503123.html ESPNcricinfo ",
+    "WTest": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WODI": {
+        "matches": "39",
+        "runs": "938",
+        "bat avg": "26.80",
+        "100s/50s": "1/6",
+        "top score": "117",
+        "catches/stumpings": "12/\u2013"
+    },
+    "WT20I": {
+        "matches": "5",
+        "runs": "42",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northerns": "2010/11\u20132015/16",
+        "Western Province": "2015/16\u2013present"
+    },
+    "birth_date": "1996-11-23"
+}

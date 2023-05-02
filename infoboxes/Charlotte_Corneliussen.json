@@ -1,0 +1,24 @@
+{
+    "name": "Charlotte Corneliussen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Charlotte Corneliussen",
+    "role": "Wicket-keeper",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "England",
+    "odicap": "12",
+    "lastodidate": "21 July",
+    "lastodiyear": "1989",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54955.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "2/2"
+    },
+    "clubs": {}
+}

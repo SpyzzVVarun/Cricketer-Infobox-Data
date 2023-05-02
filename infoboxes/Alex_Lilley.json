@@ -1,0 +1,39 @@
+{
+    "name": "Alex Lilley",
+    "country": "England",
+    "fullname": "Alexander Edward Lilley",
+    "birth_place": "Halifax, Yorkshire, England",
+    "nickname": "Lills, BDL, Pythagoras",
+    "batting": "Right-handed",
+    "bowling": "Left arm Left arm medium-fast",
+    "role": "All-rounder",
+    "type1": "FC",
+    "debutdate1": "27 April",
+    "debutyear1": "2011",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Durham MCCU",
+    "lastdate1": "7 April",
+    "lastyear1": "2014",
+    "lastfor1": "Leeds/Bradford MCCU",
+    "lastagainst1": "Somerset",
+    "source": "http://www.espncricinfo.com/ci/content/player/467813.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "95",
+        "bat avg": "31.66",
+        "100s/50s": "0/1",
+        "deliveries": "798",
+        "wickets": "15",
+        "bowl avg": "27.46",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/41",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2011",
+        "\u2018Annal CC": "2014",
+        "Leeds/Bradford MCCU": "2014\u2013"
+    },
+    "birth_date": "1992-4-17"
+}

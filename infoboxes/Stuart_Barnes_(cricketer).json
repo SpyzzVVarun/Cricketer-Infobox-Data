@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Stuart Neil Barnes",
+    "birth_place": "Bath, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/9348.html Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "23",
+        "bat avg": "3.28",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,314",
+        "wickets": "16",
+        "bowl avg": "39.06",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/51",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "27",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "810",
+        "wickets": "16",
+        "bowl avg": "38.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/39",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire Cricket Board": "2000\u20132001",
+        "Wiltshire": "1993\u20131998",
+        "Gloucestershire": "1989\u20131991"
+    },
+    "birth_date": "1970-6-27"
+}

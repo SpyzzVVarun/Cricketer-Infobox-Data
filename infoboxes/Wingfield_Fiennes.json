@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Wingfield Stratford Twisleton Wykeham Fiennes",
+    "birth_place": "Adlestrop, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Banbury, Oxfordshire, England",
+    "family": "Cecil Fiennes (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13272.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "144",
+        "bat avg": "7.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "deliveries": "1,687",
+        "wickets": "67",
+        "bowl avg": "11.62",
+        "fivefor": "4",
+        "tenfor": "2",
+        "best bowling": "8/56",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1856&ndash;1858"
+    }
+}

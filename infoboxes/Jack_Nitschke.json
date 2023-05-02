@@ -1,0 +1,29 @@
+{
+    "name": "Jack Nitschke",
+    "batting": "Left-handed",
+    "country": "Australia",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "27 November",
+    "testdebutyear": "1931",
+    "lasttestdate": "18 December",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1931",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6931.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "53",
+        "bat avg": "26.50",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "3/0"
+    },
+    "First-class": {
+        "matches": "45",
+        "runs": "3,320",
+        "bat avg": "42.02",
+        "100s/50s": "9/16",
+        "top score": "172",
+        "catches/stumpings": "22/0"
+    },
+    "clubs": {}
+}

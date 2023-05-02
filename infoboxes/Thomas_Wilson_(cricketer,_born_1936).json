@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Thomas Crichton Wilson",
+    "birth_place": "Eastbourne, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/23088.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1936-11-18"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harry Nixon",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "death_date": "1935",
+    "death_place": "Rutherglen, Lanarkshire, Scotland",
+    "family": "Thomas Nixon (father), Thomas Nixon (grandfather)",
+    "batting": "Unknown",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "https://www.espncricinfo.com/player/harry-nixon-25313 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "53",
+        "bat avg": "26.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "deliveries": "270",
+        "wickets": "5",
+        "bowl avg": "39.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/106",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1906"
+    }
+}

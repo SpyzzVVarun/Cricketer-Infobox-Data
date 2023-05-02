@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Thomas Alfred Stubbs",
+    "birth_place": "West Derby, Lancashire, England",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/21098.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "168",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "43",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {}
+}

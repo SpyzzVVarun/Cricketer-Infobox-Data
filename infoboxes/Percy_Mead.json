@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Percy James Mead",
+    "birth_place": "Richmond, Surrey, England",
+    "death_date": "1923",
+    "death_place": "Mahabaleshwar, Bombay Presidency, British India",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/31159.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "2.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1895/96&ndash;1903/04"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Len Johnson",
+    "fullname": "Leonard Joseph Johnson",
+    "birth_place": "Ipswich, Queensland, Australia",
+    "death_date": "1977",
+    "death_place": "Silkstone, Queensland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Australia",
+    "testdebutagainst": "India",
+    "testdebutdate": "6 February",
+    "testdebutyear": "1948",
+    "onetest": "true",
+    "source": "http://www.espncricinfo.com/ci/content/player/6031.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "282",
+        "wickets": "6",
+        "bowl avg": "12.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/8",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "56",
+        "runs": "1,139",
+        "bat avg": "16.75",
+        "100s/50s": "0/3",
+        "top score": "75",
+        "deliveries": "14,408",
+        "wickets": "218",
+        "bowl avg": "23.17",
+        "fivefor": "16",
+        "tenfor": "1",
+        "best bowling": "7/43",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1946/47\u20131952/53"
+    },
+    "birth_date": "1919-3-18"
+}

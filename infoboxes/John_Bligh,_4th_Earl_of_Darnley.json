@@ -1,0 +1,28 @@
+{
+    "name": "John Bligh",
+    "country": "Ireland",
+    "fullname": "John Bligh",
+    "birth_place": "Kingdom of Ireland",
+    "death_date": "1831",
+    "death_place": "Cobham Hall, Kent, England",
+    "family": "See: Bligh family",
+    "source": "http://www.espncricinfo.com/ci/content/player/535961.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "163",
+        "bat avg": "3.79",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "?",
+        "wickets": "18",
+        "bowl avg": "?",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/?",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1789&ndash;1793",
+        "Kent": "1790&ndash;1796"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Edward Rose",
+    "country": "England",
+    "fullname": "Edward McQueen Rose",
+    "birth_place": "Oxted, Surrey, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/19819.html Cricinfo",
+    "First-class": {
+        "matches": "24",
+        "runs": "700",
+        "bat avg": "15.55",
+        "100s/50s": "0/4",
+        "top score": "57",
+        "deliveries": "15",
+        "wickets": "1",
+        "bowl avg": "19.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/9",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1958\u20131960"
+    },
+    "birth_date": "1936-9-2"
+}

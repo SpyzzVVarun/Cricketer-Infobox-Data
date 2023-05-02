@@ -1,0 +1,57 @@
+{
+    "name": "Nadeem Malik",
+    "country": "England",
+    "fullname": "Muhammad Nadeem Malik",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "heightft": "6",
+    "heightinch": "5",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://content-uk.cricinfo.com/england/content/player/17149.html ",
+    "FC": {
+        "matches": "90",
+        "runs": "768",
+        "bat avg": "9.84",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "14,140",
+        "wickets": "235",
+        "bowl avg": "35.66",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/46",
+        "catches/stumpings": "11/\u2013"
+    },
+    "LA": {
+        "matches": "83",
+        "runs": "134",
+        "bat avg": "9.57",
+        "100s/50s": "0/0",
+        "deliveries": "3,298",
+        "wickets": "85",
+        "bowl avg": "34.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/40",
+        "catches/stumpings": "10/\u2013"
+    },
+    "T20": {
+        "matches": "38",
+        "runs": "12",
+        "bat avg": "2.40",
+        "100s/50s": "0/0",
+        "deliveries": "751",
+        "wickets": "41",
+        "bowl avg": "24.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "2000\u20132004",
+        "Worcestershire": "2004\u20132007",
+        "Leicestershire( 21 )": "2008\u20132012"
+    },
+    "birth_date": "1982-10-6"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Charles Kendle",
+    "country": "England",
+    "fullname": "Charles Edward Compton Kendle",
+    "birth_place": "Amesbury, Wiltshire, England",
+    "death_date": "1954",
+    "death_place": "Hellingly, Sussex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "William Kendle (Nephew)",
+    "source": "http://www.cricinfo.com/ci/content/player/15852.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "27",
+        "bat avg": "9.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Wiltshire": "1911&ndash;1914",
+        "Hampshire": "1899"
+    },
+    "birth_date": "1875-2-10"
+}

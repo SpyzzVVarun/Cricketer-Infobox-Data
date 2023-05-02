@@ -1,0 +1,41 @@
+{
+    "name": "Paul Unwin",
+    "fullname": "Paul David Unwin",
+    "birth_place": "Waipawa, Hawke's Bay, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/3/3867/3867.html CricketArchive ",
+    "FC": {
+        "matches": "34",
+        "runs": "358",
+        "bat avg": "13.76",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "5416",
+        "wickets": "65",
+        "bowl avg": "43.73",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/42",
+        "catches/stumpings": "32/&ndash;"
+    },
+    "LA": {
+        "matches": "24",
+        "runs": "154",
+        "bat avg": "17.11",
+        "100s/50s": "0/0",
+        "deliveries": "678",
+        "wickets": "19",
+        "bowl avg": "24.15",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/16",
+        "catches/stumpings": "11/&ndash;"
+    },
+    "clubs": {
+        "Central Districts": "1986&ndash;1993",
+        "Somerset": "1989",
+        "Canterbury": "1993&ndash;1994"
+    },
+    "birth_date": "1967-6-9"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Aziz-ur-Rehman",
+    "country": "Pakistan",
+    "fullname": "Mohammad Aziz-ur-Rehman",
+    "birth_place": "Sargodha, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/18/18943/18943.html Cricket Archive",
+    "FC": {
+        "matches": "62",
+        "runs": "1760",
+        "bat avg": "19.77",
+        "100s/50s": "0/10",
+        "top score": "84 not out",
+        "deliveries": "10,178",
+        "wickets": "219",
+        "bowl avg": "21.14",
+        "fivefor": "15",
+        "tenfor": "3",
+        "best bowling": "7/45",
+        "catches/stumpings": "33/&ndash;"
+    },
+    "List A": {
+        "matches": "46",
+        "runs": "695",
+        "bat avg": "21.06",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "1597",
+        "wickets": "45",
+        "bowl avg": "25.44",
+        "fivefor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Sargodha": "1983-84 to 1992-93",
+        "Pakistan University Grants Commission": "1990-91 to 1991-92",
+        "Railways": "1993-94"
+    },
+    "birth_date": "1966-3-31"
+}

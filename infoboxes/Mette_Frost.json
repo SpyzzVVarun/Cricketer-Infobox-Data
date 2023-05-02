@@ -1,0 +1,32 @@
+{
+    "name": "Mette Frost",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Mette Frost",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "role": "Wicket-keeper",
+    "odidebutdate": "18 July",
+    "odidebutyear": "1990",
+    "odidebutagainst": "Ireland",
+    "odicap": "13",
+    "lastodidate": "21 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/indian-t20-league-2016/content/player/54956.html Cricinfo ",
+    "WODI": {
+        "matches": "23",
+        "runs": "295",
+        "bat avg": "14.04",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "45.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "14/4"
+    },
+    "clubs": {}
+}

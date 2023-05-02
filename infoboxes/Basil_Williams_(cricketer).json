@@ -1,0 +1,43 @@
+{
+    "name": "Basil Williams",
+    "birth_place": "Caymanas Estate, St Catherine, Jamaica",
+    "death_date": "2015",
+    "death_place": "Atlanta, Georgia, United States",
+    "batting": "Right-handed",
+    "country": "West Indies",
+    "testdebutagainst": "Australia",
+    "testcap": "170",
+    "testdebutdate": "31 March",
+    "testdebutyear": "1978",
+    "lasttestdate": "24 January",
+    "lasttestagainst": "India",
+    "lasttestyear": "1979",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/53228.html CricInfo",
+    "Test": {
+        "matches": "7",
+        "runs": "469",
+        "bat avg": "39.08",
+        "100s/50s": "2/1",
+        "top score": "111",
+        "catches/stumpings": "5/\u2013"
+    },
+    "FC": {
+        "matches": "46",
+        "runs": "2,702",
+        "bat avg": "36.02",
+        "100s/50s": "5/15",
+        "catches/stumpings": "19/\u2013"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "506",
+        "bat avg": "26.63",
+        "100s/50s": "1/1",
+        "top score": "89",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1969\u20131986"
+    },
+    "birth_date": "1949-11-21"
+}

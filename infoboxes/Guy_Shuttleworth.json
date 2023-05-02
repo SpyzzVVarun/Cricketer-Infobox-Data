@@ -1,0 +1,28 @@
+{
+    "name": "Guy Shuttleworth",
+    "country": "England",
+    "fullname": "Guy Mitchell Shuttleworth",
+    "birth_place": "Blackburn, Lancashire, England",
+    "death_date": "2021",
+    "death_place": "Eastbourne, East Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/20760.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "786",
+        "bat avg": "23.11",
+        "100s/50s": "0/3",
+        "top score": "96",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1946\u20131948"
+    },
+    "birth_date": "1926-11-6"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Leigh Brownlee",
+    "country": "England",
+    "fullname": "Leigh Dunlop Brownlee",
+    "birth_place": "Redland, Bristol, England",
+    "death_date": "1955",
+    "death_place": "Clifton, Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Batsman",
+    "family": "Brother, Wilfred",
+    "type1": "First-class",
+    "debutdate1": "26 August",
+    "debutyear1": "1901",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Somerset",
+    "lastdate1": "26 June",
+    "lastyear1": "1909",
+    "lastfor1": "Gloucestershire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/3/3458/3458.html CricketArchive ",
+    "First-class": {
+        "matches": "82",
+        "runs": "1946",
+        "bat avg": "14.63",
+        "100s/50s": "1/5",
+        "top score": "103",
+        "deliveries": "699",
+        "wickets": "15",
+        "bowl avg": "27.06",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/40",
+        "catches/stumpings": "63/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1901\u201309",
+        "Oxford University": "1902\u201304",
+        "Somerset": "1902"
+    },
+    "birth_date": "1882-12-17"
+}

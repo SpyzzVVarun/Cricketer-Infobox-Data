@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Percy C Ross",
+    "birth_place": "Ireland",
+    "death_date": "Unknown",
+    "death_place": "Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24510.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "49.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/99",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1912"
+    }
+}

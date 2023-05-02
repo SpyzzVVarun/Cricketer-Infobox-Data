@@ -1,0 +1,32 @@
+{
+    "name": "Kuntal Chandra",
+    "country": "Bangladesh",
+    "fullname": "Kuntal Chandra",
+    "nickname": "Papon",
+    "birth_place": "Tangail, Dhaka, Bangladesh",
+    "death_date": "2012",
+    "death_place": "Dhaka-Gazipur, Bangladesh",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/55964.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "132",
+        "bat avg": "26.40",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "catches/stumpings": "8/0"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Chittagong Division": "2004/05",
+        "Sylhet Division": "2007"
+    }
+}

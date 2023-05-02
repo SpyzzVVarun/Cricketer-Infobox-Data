@@ -1,0 +1,28 @@
+{
+    "name": "Peter Thomas",
+    "fullname": "Peter Wynne Thomas",
+    "birth_place": "Swardeston, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "family": "David Thomas (brother), Mark Thomas (son)",
+    "source": "https://www.espncricinfo.com/england/content/player/22016.html ESPNcricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "17.50",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "2/35",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1982\u20131986"
+    },
+    "birth_date": "1952-4-11"
+}

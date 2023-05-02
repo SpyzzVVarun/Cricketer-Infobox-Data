@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Courtenay Edmund Boyle",
+    "birth_place": "Newcastle, Surrey, Jamaica",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London, England",
+    "family": "Cecil Boyle (cousin), Charlton Lane (brother-in-law)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/9919.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "575",
+        "bat avg": "14.02",
+        "100s/50s": "\u2013/3",
+        "top score": "55",
+        "catches/stumpings": "21/6"
+    },
+    "clubs": {
+        "Oxford University": "1865&ndash;1867",
+        "Marylebone Cricket Club": "1866&ndash;1872"
+    }
+}

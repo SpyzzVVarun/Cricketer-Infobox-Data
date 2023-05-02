@@ -1,0 +1,32 @@
+{
+    "name": "Albert Thomas",
+    "country": "Wales",
+    "fullname": "Albert Edward Thomas",
+    "nickname": "Taffy",
+    "birth_place": "Ruthin, Wales",
+    "death_date": "1965",
+    "death_place": "Kidderminster, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "role": "Bowler",
+    "source": "http://www.cricinfo.com/ci/content/player/21779.html Cricinfo ",
+    "First-class": {
+        "matches": "288",
+        "runs": "4,872",
+        "bat avg": "13.49",
+        "100s/50s": "0/11",
+        "top score": "84",
+        "deliveries": "64,661",
+        "wickets": "832",
+        "bowl avg": "25.52",
+        "fivefor": "30",
+        "tenfor": "5",
+        "best bowling": "9/30",
+        "catches/stumpings": "121/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1919\u20131933",
+        "Wales": "1927"
+    },
+    "birth_date": "1893-6-7"
+}

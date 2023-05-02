@@ -1,0 +1,50 @@
+{
+    "name": "Jack Badcock",
+    "fullname": "Clayvel Lindsay Badcock",
+    "birth_place": "Exton, Tasmania",
+    "death_date": "13 December 1982 (aged 68)",
+    "death_place": "Exton, Tasmania",
+    "batting": "Right-handed",
+    "internationalspan": "1936\u20131938",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testcap": "155",
+    "testdebutdate": "4 December",
+    "testdebutyear": "1936",
+    "lasttestdate": "20 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1938",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/4076.html",
+    "Tests": {
+        "matches": "7",
+        "runs": "160",
+        "bat avg": "14.54",
+        "100s/50s": "1/0",
+        "top score": "118",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "First-class": {
+        "matches": "97",
+        "runs": "7,561",
+        "bat avg": "51.54",
+        "100s/50s": "26/21",
+        "top score": "325",
+        "deliveries": "38",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "41/0"
+    },
+    "clubs": {
+        "Tasmania": "1929\u201330 to 1933\u201334",
+        "South Australia": "1934\u201335 to 1940\u201341"
+    }
+}

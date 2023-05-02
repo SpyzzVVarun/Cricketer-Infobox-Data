@@ -1,0 +1,32 @@
+{
+    "name": "Lorna Beal",
+    "female": "true",
+    "country": "Australia",
+    "birth_place": "Hawthorn, Victoria, Australia",
+    "death_date": "2020",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "20 March",
+    "testdebutyear": "1948",
+    "testdebutagainst": "New Zealand",
+    "testcap": "26",
+    "lasttestdate": "28 July",
+    "lasttestyear": "1951",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53528.html CricInfo ",
+    "Tests": {
+        "matches": "7",
+        "runs": "72",
+        "bat avg": "9.00",
+        "100s/50s": "-/-",
+        "top score": "17",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "7/9"
+    },
+    "clubs": {},
+    "birth_date": "1923-11-28"
+}

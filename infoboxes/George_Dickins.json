@@ -1,0 +1,32 @@
+{
+    "name": "George Dickins",
+    "fullname": "George Caldwell Dickins",
+    "birth_place": "North Elmham, Norfolk, England",
+    "death_date": "1903",
+    "death_place": "Coldstream, Berwickshire, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm lob",
+    "type1": "FC",
+    "debutdate1": "21 June",
+    "debutyear1": "1848",
+    "debutfor1": "Gentlemen of Kent",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "19 September",
+    "lastyear1": "1864",
+    "lastfor1": "Kent",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/12167.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "148",
+        "bat avg": "14.36",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Gentlemen of Kent": "1848\u20131853",
+        "Kent": "1849\u20131864"
+    },
+    "birth_date": "1821-11-17"
+}

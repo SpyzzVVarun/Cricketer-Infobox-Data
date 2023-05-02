@@ -1,0 +1,49 @@
+{
+    "name": "Doug Wright",
+    "country": "England",
+    "fullname": "Douglas Vivian Parson Wright",
+    "birth_place": "Sidcup, Kent",
+    "death_date": "1998",
+    "death_place": "Canterbury, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg break Right-arm Right-arm leg break Right-arm medium",
+    "testdebutdate": "10 June",
+    "testdebutyear": "1938",
+    "testdebutagainst": "Australia",
+    "testcap": "302",
+    "lasttestdate": "28 March",
+    "lasttestyear": "1951",
+    "lasttestagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/22536.html CricInfo ",
+    "Test": {
+        "matches": "34",
+        "runs": "289",
+        "bat avg": "11.11",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "8,135",
+        "wickets": "108",
+        "bowl avg": "39.11",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/105",
+        "catches/stumpings": "10/\u2013"
+    },
+    "First-class": {
+        "matches": "497",
+        "runs": "5,903",
+        "bat avg": "12.34",
+        "100s/50s": "0/16",
+        "deliveries": "92,918",
+        "wickets": "2,056",
+        "bowl avg": "23.98",
+        "fivefor": "150",
+        "tenfor": "42",
+        "best bowling": "9/47",
+        "catches/stumpings": "182/\u2013"
+    },
+    "clubs": {
+        "Kent": "1932\u20131957"
+    },
+    "birth_date": "1914-8-21"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Ann Jago",
+    "female": "true",
+    "country": "England",
+    "fullname": "Ann Jago",
+    "birth_place": "Kingston upon Hull, Yorkshire, England",
+    "role": "Bowler",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "South Africa",
+    "testcap": "59",
+    "lasttestdate": "13 January",
+    "lasttestyear": "1961",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/17/17033/17033.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "270",
+        "wickets": "1",
+        "bowl avg": "59.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/17",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1957\u20131961"
+    },
+    "birth_date": "1939-2-20"
+}

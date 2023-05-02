@@ -1,0 +1,22 @@
+{
+    "name": "Cecil Gosling",
+    "fullname": "Cecil Henry Gosling",
+    "birth_place": "Essex, England",
+    "death_date": "1974",
+    "death_place": "Essex, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/13407.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "132",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Essex": "1929\u20131930"
+    },
+    "birth_date": "1910-2-22"
+}

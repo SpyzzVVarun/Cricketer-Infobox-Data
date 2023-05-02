@@ -1,0 +1,30 @@
+{
+    "name": "Thomas Collins",
+    "country": "England",
+    "fullname": "Thomas Hugh Collins",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "death_date": "1964",
+    "death_place": "Edwalton, Nottinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm fast-medium, Slow left-arm Left-arm fast-medium, Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/10775.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "32",
+        "bat avg": "5.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "126",
+        "wickets": "4",
+        "bowl avg": "20.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/17",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1921",
+        "Hampshire": "1935"
+    },
+    "birth_date": "1895-3-4"
+}

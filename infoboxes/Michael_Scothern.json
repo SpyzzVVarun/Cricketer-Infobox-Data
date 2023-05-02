@@ -1,0 +1,34 @@
+{
+    "name": "Michael Scothern",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/20469.html Cricinfo",
+    "First-class": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/42",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "55",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "deliveries": "458",
+        "wickets": "7",
+        "bowl avg": "57.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

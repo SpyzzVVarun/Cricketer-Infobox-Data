@@ -1,0 +1,28 @@
+{
+    "name": "Lee Ingram",
+    "country": "England",
+    "fullname": "Lee Royston Ingram",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15394.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/-",
+        "top score": "13",
+        "deliveries": "156",
+        "wickets": "3",
+        "bowl avg": "33.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/26",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "Huntingdonshire": "1999&ndash;2000",
+        "Cambridgeshire": "1984"
+    },
+    "birth_date": "1965-11-10"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Elsa Hunter",
+    "female": "true",
+    "country": "Malaysia",
+    "fullname": "tag1=en  ",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "T20Idebutdate": "13 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nepal",
+    "T20Icap": "27",
+    "lastT20Idate": "9 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Thailand",
+    "source": "https://www.espncricinfo.com/player/elsa-hunter-1171524 ESPNCricinfo ",
+    "T20I": {
+        "matches": "26",
+        "runs": "393",
+        "bat avg": "21.83",
+        "100s/50s": "0/1",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "6/-"
+    },
+    "clubs": {},
+    "birth_date": "2005-2-15"
+}

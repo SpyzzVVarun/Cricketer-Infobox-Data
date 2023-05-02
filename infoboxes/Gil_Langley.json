@@ -1,0 +1,33 @@
+{
+    "name": "Gil Langley",
+    "fullname": "Gilbert Roche Andrews Langley",
+    "birth_place": "North Adelaide, South Australia",
+    "death_date": "df=yes",
+    "death_place": "Fullarton, South Australia",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "9 November",
+    "testdebutyear": "1951",
+    "lasttestdate": "2 November",
+    "lasttestagainst": "India",
+    "lasttestyear": "1956",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6258.html CricInfo",
+    "Test": {
+        "matches": "26",
+        "runs": "374",
+        "bat avg": "14.96",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "83/15"
+    },
+    "First-class": {
+        "matches": "122",
+        "runs": "3236",
+        "bat avg": "25.68",
+        "100s/50s": "4/12",
+        "catches/stumpings": "291/77"
+    },
+    "clubs": {},
+    "birth_date": "1919-9-14"
+}

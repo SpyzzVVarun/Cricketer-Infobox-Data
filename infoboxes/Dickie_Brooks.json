@@ -1,0 +1,31 @@
+{
+    "name": "Dickie Brooks",
+    "country": "England",
+    "fullname": "Richard Alan Brooks",
+    "birth_place": "Edgware, Middlesex, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "type1": "First-class",
+    "debutdate1": "13 May",
+    "debutyear1": "1967",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Indians",
+    "lastdate1": "2 September",
+    "lastyear1": "1968",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3456/3456.html CricketArchive ",
+    "First-class": {
+        "matches": "35",
+        "runs": "317",
+        "bat avg": "10.93",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "53/7"
+    },
+    "clubs": {
+        "Oxford University": "1967",
+        "Somerset": "1968"
+    },
+    "birth_date": "1943-6-14"
+}

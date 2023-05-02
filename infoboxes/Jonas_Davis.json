@@ -1,0 +1,20 @@
+{
+    "name": "Jonas Davis",
+    "birth_place": "Goulburn, New South Wales, Australia",
+    "death_date": "1911",
+    "death_place": "Waverley, New South Wales, Australia",
+    "role": "Batsman, occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/5075.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "643",
+        "bat avg": "24.73",
+        "100s/50s": "0/3",
+        "top score": "85",
+        "catches/stumpings": "9/2"
+    },
+    "clubs": {
+        "New South Wales": "1879/80\u20131893/94"
+    },
+    "birth_date": "1859-5-12"
+}

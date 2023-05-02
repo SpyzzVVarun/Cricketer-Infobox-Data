@@ -1,0 +1,41 @@
+{
+    "name": "Dekker Curry",
+    "country": "Ireland",
+    "fullname": "John Desmond Curry",
+    "birth_place": "Strabane, County Tyrone",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Bowler",
+    "family": "Christopher Dougherty (nephew)",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/4/4330/4330.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "54",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "16.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "0/0"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "141",
+        "bat avg": "14.10",
+        "100s/50s": "0/1",
+        "top score": "75",
+        "deliveries": "204",
+        "wickets": "4",
+        "bowl avg": "36.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/42",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {},
+    "birth_date": "1966-12-20"
+}

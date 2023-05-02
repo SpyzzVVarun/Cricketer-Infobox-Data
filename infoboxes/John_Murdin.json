@@ -1,0 +1,29 @@
+{
+    "name": "John Murdin",
+    "country": "England",
+    "fullname": "John Vernon Murdin",
+    "birth_place": "Wollaston, Northamptonshire, England",
+    "death_date": "1971",
+    "death_place": "Stonehouse, Gloucestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "role": "Bowler",
+    "source": "http://acscricket.com/Archive/Players/31/31627/31627.htmldate=April 2017  ",
+    "FC": {
+        "matches": "173",
+        "runs": "1,800",
+        "bat avg": "8.57",
+        "100s/50s": "0/1",
+        "deliveries": "22,846",
+        "wickets": "455",
+        "bowl avg": "27.08",
+        "fivefor": "28",
+        "tenfor": "4",
+        "best bowling": "8/81",
+        "catches/stumpings": "111/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1913\u20131927"
+    },
+    "birth_date": "1891-8-16"
+}

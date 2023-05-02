@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Andrew William Harris",
+    "birth_place": "Newport, Monmouthshire",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/14406.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Herefordshire": "1997",
+        "Wales Minor Counties": "1989&ndash;1996"
+    },
+    "birth_date": "1971-2-2"
+}

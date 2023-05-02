@@ -1,0 +1,42 @@
+{
+    "name": "Rifat Pradhan",
+    "country": "Bangladesh",
+    "fullname": "Rifat Pradhan",
+    "nickname": "Rifat",
+    "birth_place": "Narsingdi, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/629069.html ESPNcricinfo ",
+    "FC": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "18",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "33.50",
+        "fivefor": "\u2013",
+        "tenfor": "-",
+        "best bowling": "2/27",
+        "catches/stumpings": "0/-"
+    },
+    "ODI": {},
+    "clubs": {
+        "Kalabagan": "2015-present"
+    },
+    "birth_date": "1997-10-25"
+}

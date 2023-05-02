@@ -1,0 +1,32 @@
+{
+    "name": "Malsha Shehani",
+    "female": "true",
+    "country": "Sri Lanka",
+    "fullname": "Malsha Shehani",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "oneodi": "true",
+    "odidebutdate": "7 February",
+    "odidebutyear": "2017",
+    "odidebutagainst": "India",
+    "odicap": "69",
+    "T20Idebutdate": "7 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "India",
+    "T20Icap": "44",
+    "lastT20Idate": "19 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/683433.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1995-6-5",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

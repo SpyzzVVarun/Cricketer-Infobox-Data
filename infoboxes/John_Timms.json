@@ -1,0 +1,21 @@
+{
+    "name": "John Timms",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/33/33330/33330.html CricketArchive",
+    "First-class": {
+        "matches": "472",
+        "runs": "20,509",
+        "bat avg": "25.07",
+        "100s/50s": "31/103",
+        "top score": "213",
+        "deliveries": "12,597",
+        "wickets": "149",
+        "bowl avg": "44.46",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/18",
+        "catches/stumpings": "153/\u2013"
+    },
+    "clubs": {}
+}

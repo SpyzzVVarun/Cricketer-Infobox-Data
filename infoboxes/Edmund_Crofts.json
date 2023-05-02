@@ -1,0 +1,21 @@
+{
+    "name": "Edmund Crofts",
+    "country": "England",
+    "fullname": "Edmund Sclater Crofts",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "1938",
+    "death_place": "Carlton, Bedfordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/10879.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1885"
+    }
+}

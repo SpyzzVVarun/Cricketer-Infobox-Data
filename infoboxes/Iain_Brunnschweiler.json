@@ -1,0 +1,41 @@
+{
+    "name": "Iain Brunnschweiler",
+    "country": "England",
+    "birth_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper, England Under-16s and 17s, head coach",
+    "source": "http://www.cricinfo.com/ci/content/player/9271.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "91",
+        "bat avg": "13.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "20/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "37",
+        "bat avg": "18.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "2003",
+        "Hampshire": "2000\u20132003"
+    },
+    "birth_date": "1979-12-10"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Walter Hearne",
+    "country": "England",
+    "fullname": "Walter Hearne",
+    "birth_place": "Chalfont St Giles, Buckinghamshire",
+    "death_date": "1925",
+    "death_place": "Canterbury, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "J.T. Hearne (brother) Herbert Hearne (brother) Other family",
+    "type1": "FC",
+    "debutdate1": "16 May",
+    "debutyear1": "1887",
+    "debutfor1": "Kent",
+    "debutagainst1": "MCC",
+    "lastdate1": "30 May",
+    "lastyear1": "1896",
+    "lastfor1": "Kent",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/14695.html CricInfo ",
+    "First-class": {
+        "matches": "55",
+        "runs": "553",
+        "bat avg": "7.57",
+        "100s/50s": "0/0",
+        "deliveries": "10.958",
+        "wickets": "273",
+        "bowl avg": "15.93",
+        "fivefor": "28",
+        "tenfor": "10",
+        "best bowling": "8/40",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Kent": "1887\u20131896"
+    },
+    "birth_date": "1864-1-15"
+}

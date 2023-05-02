@@ -1,0 +1,28 @@
+{
+    "name": "Brian Booth",
+    "fullname": "Ernest Brian Nelson Booth",
+    "birth_place": "Scottsdale, Tasmania, Australia",
+    "death_date": "2022",
+    "death_place": "Riverside, Tasmania, Australia",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/player/brian-booth-4172 Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "282",
+        "bat avg": "18.80",
+        "100s/50s": "1/0",
+        "top score": "113",
+        "deliveries": "16",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Tasmania": "1946-1960"
+    },
+    "birth_date": "1924-9-30"
+}

@@ -1,0 +1,24 @@
+{
+    "module": "child=yes   |embed=yes",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "id=16888   ",
+    "First-class": {
+        "matches": "21",
+        "runs": "1,162",
+        "bat avg": "31.40",
+        "100s/50s": "4/3",
+        "top score": "147",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1936\u20131948",
+        "Marylebone Cricket Club": "1953"
+    }
+}

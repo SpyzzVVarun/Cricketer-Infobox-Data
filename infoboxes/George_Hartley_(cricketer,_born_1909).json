@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "George Edward Hartley",
+    "birth_place": "Walsden, Yorkshire, England",
+    "death_date": "1992",
+    "death_place": "Guildford, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/14603.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1946",
+        "Denbighshire": "1935"
+    },
+    "birth_date": "1909-7-23"
+}

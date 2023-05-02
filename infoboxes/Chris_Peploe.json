@@ -1,0 +1,58 @@
+{
+    "name": "Chris Peploe",
+    "country": "England",
+    "fullname": "Christopher Thomas Peploe",
+    "nickname": "Peps",
+    "birth_place": "Hammersmith, London",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/19255.html Cricinfo ",
+    "FC": {
+        "matches": "30",
+        "runs": "530",
+        "bat avg": "15.58",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "5,283",
+        "wickets": "56",
+        "bowl avg": "50.69",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/31",
+        "catches/stumpings": "11/\u2013"
+    },
+    "LA": {
+        "matches": "26",
+        "runs": "58",
+        "bat avg": "6.44",
+        "100s/50s": "0/0",
+        "deliveries": "1,140",
+        "wickets": "31",
+        "bowl avg": "26.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/38",
+        "catches/stumpings": "10/\u2013"
+    },
+    "T20": {
+        "matches": "15",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "221",
+        "wickets": "10",
+        "bowl avg": "37.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/35",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Middlesex Cricket Board": "2001",
+        "Middlesex": "2003\u20132008",
+        "Berkshire": "2009\u2013present",
+        "Unicorns( 18 )": "2010\u20132011"
+    },
+    "birth_date": "1981-4-21"
+}

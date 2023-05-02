@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Harold Percival Hall",
+    "birth_place": "Murree, Punjab, British India",
+    "death_date": "2004",
+    "death_place": "Bournemouth, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/29325.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "25.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "180",
+        "wickets": "2",
+        "bowl avg": "41.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/83",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1940/41"
+    }
+}

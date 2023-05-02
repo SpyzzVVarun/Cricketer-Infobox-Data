@@ -1,0 +1,42 @@
+{
+    "name": "Martin Prashad",
+    "fullname": "Martin Joel Prashad",
+    "birth_place": "Albion, British Guiana",
+    "death_date": "2000",
+    "death_place": "Brampton, Ontario, Canada",
+    "country": "Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "All-rounder",
+    "family": "Paul Prashad (brother)",
+    "internationalspan": "1983\u20131996",
+    "source": "https://cricketarchive.com/Archive/Players/12/12666/12666.html CricketArchive ",
+    "List A": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ICCT": {
+        "matches": "19",
+        "runs": "269",
+        "bat avg": "20.69",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "444",
+        "wickets": "7",
+        "bowl avg": "31.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/21",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {}
+}

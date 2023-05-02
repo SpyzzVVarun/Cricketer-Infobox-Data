@@ -1,0 +1,48 @@
+{
+    "name": "Jay Lenton",
+    "country": "Australia",
+    "fullname": "Jay Stephen Lenton",
+    "birth_place": "Belmont, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "6 November",
+    "debutyear1": "2015",
+    "debutfor1": "NSW",
+    "debutagainst1": "Victoria",
+    "type2": "Twenty20",
+    "debutdate2": "1 January",
+    "debutyear2": "2017",
+    "debutfor2": "Thunder",
+    "debutagainst2": "Scorchers",
+    "source": "https://cricketarchive.com/Archive/Players/1184/1184314/1184314.html Cricket Archive ",
+    "FC": {
+        "matches": "3",
+        "runs": "22",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "3/1"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "33",
+        "bat avg": "8.25",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "10/0"
+    },
+    "T20": {
+        "matches": "22",
+        "runs": "141",
+        "bat avg": "23.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "12/5"
+    },
+    "clubs": {
+        "New South Wales": "2015\u2013present",
+        "Sydney Thunder( 70 )": "2016\u2013present"
+    },
+    "birth_date": "1990-8-10"
+}

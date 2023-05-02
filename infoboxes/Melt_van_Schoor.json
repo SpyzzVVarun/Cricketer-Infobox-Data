@@ -1,0 +1,44 @@
+{
+    "name": "Melt van Schoor",
+    "country": "Namibia",
+    "fullname": "Melt van Schoor",
+    "birth_place": "Mowbray, Cape Town, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Danie van Schoor (son)",
+    "internationalspan": "1990\u20132011",
+    "odidebutdate": "16 February",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "12",
+    "lastodidate": "3 March",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/24804.html ESPNcricinfo",
+    "ODI": {
+        "matches": "5",
+        "runs": "58",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "4/0"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "3/0"
+    },
+    "LA": {
+        "matches": "18",
+        "runs": "148",
+        "bat avg": "11.38",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "20/0"
+    },
+    "clubs": {},
+    "birth_date": "1967-4-7"
+}

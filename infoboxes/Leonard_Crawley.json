@@ -1,0 +1,32 @@
+{
+    "name": "Leonard Crawley",
+    "country": "England",
+    "fullname": "Leonard George Crawley",
+    "birth_place": "Nacton, Suffolk, England",
+    "death_date": "1981",
+    "death_place": "Worlington Lodge, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm fast / occ. Right arm fast / occ. WK",
+    "source": "http://cricketarchive.co.uk/Archive/Players/4/4820/4820.html CricketArchive ",
+    "FC": {
+        "matches": "109",
+        "runs": "5,227",
+        "bat avg": "31.11",
+        "100s/50s": "8/22",
+        "top score": "222",
+        "deliveries": "102",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "42/0"
+    },
+    "clubs": {
+        "Worcestershire": "1922\u20131923",
+        "Cambridge University": "1923\u20131925",
+        "Marylebone Cricket Club (MCC)": "1925/26\u20131939",
+        "Essex": "1926\u20131936"
+    },
+    "birth_date": "1903-7-26"
+}

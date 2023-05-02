@@ -1,0 +1,36 @@
+{
+    "name": "Manzoor Akhtar",
+    "country": "Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Legbreak",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/41264.html  ",
+    "Tests": {
+        "matches": "\u2013",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "-/-",
+        "top score": "\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "-/-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "7",
+        "runs": "97",
+        "bat avg": "24.25",
+        "100s/50s": "-/-",
+        "top score": "44",
+        "deliveries": "199",
+        "wickets": "5",
+        "bowl avg": "36.79",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "4/50",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {}
+}

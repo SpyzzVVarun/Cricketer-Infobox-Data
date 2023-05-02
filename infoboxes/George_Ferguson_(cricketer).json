@@ -1,0 +1,40 @@
+{
+    "name": "George Ferguson",
+    "country": "Argentina",
+    "fullname": "George William Ferguson",
+    "birth_place": "Buenos Aires, Argentina",
+    "death_date": "1995",
+    "death_place": "Argentina",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "role": "Middle order batsman",
+    "type1": "First-class",
+    "debutdate1": "18 March",
+    "debutyear1": "1930",
+    "debutfor1": "Argentina",
+    "debutagainst1": "Sir J Cahn's XI",
+    "lastdate1": "15 January",
+    "lastyear1": "1938",
+    "lastfor1": "Argentina",
+    "lastagainst1": "Sir TEW Brinckman's XI",
+    "source": "https://cricketarchive.com/Archive/Players/12/12536/12536.html CricketArchive ",
+    "First-class": {
+        "matches": "12",
+        "runs": "445",
+        "bat avg": "19.34",
+        "100s/50s": "0/2",
+        "top score": "85",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/1",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Argentina": "1929/30&ndash;37/38",
+        "South Americans": "1932"
+    },
+    "birth_date": "1912-9-17"
+}

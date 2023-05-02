@@ -1,0 +1,57 @@
+{
+    "name": "Lloyd Pope",
+    "country": "Australia",
+    "nickname": "The Holy Tomato   Floyd Dope",
+    "birth_place": "Adelaide, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1076721.html Cricinfo",
+    "FC": {
+        "matches": "13",
+        "runs": "42",
+        "bat avg": "3.81",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "2,496",
+        "wickets": "29",
+        "bowl avg": "63.37",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/87",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "329",
+        "wickets": "11",
+        "bowl avg": "31.63",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/78",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "T20": {
+        "matches": "24",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "438",
+        "wickets": "19",
+        "bowl avg": "30.84",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/23",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "South Australia( 24 )": "2017\u2013present",
+        "Sydney Sixers( 7 )": "2018\u20132022"
+    },
+    "birth_date": "1999-12-1"
+}

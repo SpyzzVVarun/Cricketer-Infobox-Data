@@ -1,0 +1,43 @@
+{
+    "name": "Okera Bascome",
+    "country": "Bermuda",
+    "fullname": "Okera Bascome",
+    "birth_place": "Bermuda",
+    "family": "Herbert Bascome (father), Oronde Bascome (brother), Onais Bascome (brother), Osagi Bascome (brother)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "T20Idebutdate": "18 August",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "United States",
+    "T20Icap": "15",
+    "lastT20Idate": "14 November",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Argentina",
+    "source": "http://www.espncricinfo.com/ci/content/player/364150.html Cricinfo ",
+    "T20I": {
+        "matches": "17",
+        "runs": "166",
+        "bat avg": "11.85",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "catches/stumpings": "9/3"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "12",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "166",
+        "bat avg": "11.85",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "catches/stumpings": "9/3"
+    },
+    "clubs": {},
+    "birth_date": "1994-2-2"
+}

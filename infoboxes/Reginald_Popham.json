@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Reginald Francis Popham",
+    "birth_place": "Kensington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Warnham, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19000.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "151",
+        "bat avg": "30.20",
+        "100s/50s": "\u2013/1",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1911&ndash;1924",
+        "Marylebone Cricket Club": "1919"
+    }
+}

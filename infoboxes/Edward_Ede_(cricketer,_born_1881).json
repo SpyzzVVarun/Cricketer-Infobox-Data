@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Edward Murray Charles Ede",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1936",
+    "death_place": "Sydney, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Edward Ede senior (father), George Ede (uncle)",
+    "source": "http://www.cricinfo.com/england/content/player/12482.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "245",
+        "bat avg": "12.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "deliveries": "1,988",
+        "wickets": "40",
+        "bowl avg": "31.17",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/72",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1902\u20131906"
+    },
+    "birth_date": "1881-4-24"
+}

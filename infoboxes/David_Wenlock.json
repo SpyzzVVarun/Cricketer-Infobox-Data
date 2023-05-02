@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "David Alan Wenlock",
+    "birth_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22858.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "148",
+        "bat avg": "16.44",
+        "100s/50s": "&ndash;/1",
+        "top score": "62",
+        "deliveries": "486",
+        "wickets": "7",
+        "bowl avg": "38.28",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/50",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "List A": {
+        "matches": "33",
+        "runs": "162",
+        "bat avg": "9.69",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "1,200",
+        "wickets": "32",
+        "bowl avg": "26.37",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/32",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1985&ndash;1986",
+        "Leicestershire": "1980&ndash;1982"
+    },
+    "birth_date": "1959-4-16"
+}

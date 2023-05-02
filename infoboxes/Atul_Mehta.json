@@ -1,0 +1,43 @@
+{
+    "name": "Atul Mehta",
+    "country": "India",
+    "fullname": "Atul Manibhai Mehta",
+    "birth_place": "Rangoon, Burma",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://www.espncricinfo.com/player/atul-mehta-31532 Cricinfo",
+    "FC": {
+        "matches": "46",
+        "runs": "1530",
+        "bat avg": "25.08",
+        "100s/50s": "2/6",
+        "top score": "141",
+        "deliveries": "3839",
+        "wickets": "51",
+        "bowl avg": "34.82",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/48",
+        "catches/stumpings": "44/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "42",
+        "bat avg": "42.00",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Saurashtra": "1967/68\u20131968/69",
+        "Bombay": "1969/70\u20131970/71",
+        "Gujarat": "1975/76\u20131980/81"
+    },
+    "birth_date": "1949-12-13"
+}

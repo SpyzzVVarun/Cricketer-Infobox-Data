@@ -1,0 +1,41 @@
+{
+    "name": "Samantha Lobatto",
+    "female": "true",
+    "country": "India",
+    "fullname": "Samantha Luzia Joseph Lobatto",
+    "birth_place": "Mumbai, Maharashtra",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicketkeeper",
+    "odidebutdate": "18 January",
+    "odidebutyear": "2011",
+    "odidebutagainst": "West Indies",
+    "odicap": "94",
+    "lastodidate": "5 July",
+    "lastodiyear": "2011",
+    "lastodiagainst": "New Zealand",
+    "T20Idebutdate": "22 January",
+    "T20Idebutyear": "2011",
+    "T20Idebutagainst": "West Indies",
+    "T20Icap": "23",
+    "lastT20Idate": "24 January",
+    "lastT20Iyear": "2011",
+    "lastT20Iagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/india/content/player/442052.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "3",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/2"
+    },
+    "T20I": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/7"
+    },
+    "clubs": {},
+    "birth_date": "1988-09-23"
+}

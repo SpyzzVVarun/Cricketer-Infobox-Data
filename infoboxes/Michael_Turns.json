@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Michael Turns",
+    "nickname": "Turnsy, Chris Evans url=http://www.loughboroughmccu.com/player-profiles/mike-turns",
+    "birth_place": "Sunderland, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/358375.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "120",
+        "bat avg": "60.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "80",
+        "deliveries": "144",
+        "wickets": "3",
+        "bowl avg": "36.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/22",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Loughborough MCCU": "2011",
+        "Northumberland": "2009&ndash;present"
+    },
+    "birth_date": "1990-11-14"
+}

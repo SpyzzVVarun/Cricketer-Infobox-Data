@@ -1,0 +1,25 @@
+{
+    "name": "Jane Jensen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Jane Jensen",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "odidebutdate": "18 July",
+    "odidebutyear": "1990",
+    "odidebutagainst": "Ireland",
+    "odicap": "15",
+    "lastodidate": "29 July",
+    "lastodiyear": "1993",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/fanzone/content/player/54961.html Cricinfo ",
+    "WODI": {
+        "matches": "10",
+        "runs": "103",
+        "bat avg": "11.44",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

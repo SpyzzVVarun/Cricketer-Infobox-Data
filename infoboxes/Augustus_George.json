@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Augustus King George",
+    "birth_place": "Enfield, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/13886.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "253",
+        "bat avg": "6.17",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1844&ndash;1847"
+    }
+}

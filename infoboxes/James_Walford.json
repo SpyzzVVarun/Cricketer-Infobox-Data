@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "James Hare Walford",
+    "birth_place": "Dallinghoo, Suffolk, England",
+    "death_date": "1915",
+    "death_place": "Wandsworth, London, England",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/cricketers/james-walford-23313 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "32",
+        "bat avg": "10.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1860",
+        "Marylebone Cricket Club": "1860"
+    }
+}

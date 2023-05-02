@@ -1,0 +1,26 @@
+{
+    "name": "John Ashman",
+    "fullname": "John Robert Ashman",
+    "birth_place": "Rotherham, Yorkshire, England",
+    "death_date": "2019",
+    "death_place": "Southbourne, West Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/8797.html Cricinfo",
+    "First-class": {
+        "matches": "34",
+        "runs": "149",
+        "bat avg": "5.73",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "4,606",
+        "wickets": "61",
+        "bowl avg": "41.73",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/111",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1926-5-20"
+}

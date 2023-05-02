@@ -1,0 +1,40 @@
+{
+    "country": "Bangladesh",
+    "fullname": "Ezaz Hashmi",
+    "birth_place": "Sylhet, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/45/45811/45811.html CricketArchive ",
+    "FC": {
+        "matches": "37",
+        "runs": "1,166",
+        "bat avg": "18.50",
+        "100s/50s": "1/5",
+        "top score": "120",
+        "deliveries": "425",
+        "wickets": "9",
+        "bowl avg": "32.55",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/41",
+        "catches/stumpings": "21/&ndash;"
+    },
+    "List A": {
+        "matches": "45",
+        "runs": "734",
+        "bat avg": "18.82",
+        "100s/50s": "&ndash;/3",
+        "top score": "67",
+        "deliveries": "145",
+        "wickets": "5",
+        "bowl avg": "25.20",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/48",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Sylhet Division": "2002/03&ndash;2010/11"
+    },
+    "birth_date": "1984-4-10"
+}

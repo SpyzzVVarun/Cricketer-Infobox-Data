@@ -1,0 +1,58 @@
+{
+    "name": "Shreyas Gopal",
+    "country": "India",
+    "fullname": "Ramswamy Shreyas Gopal",
+    "birth_place": "Bangalore, Karnataka, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/344580.html Cricinfo ",
+    "FC": {
+        "matches": "56",
+        "runs": "2,431",
+        "bat avg": "35.75",
+        "100s/50s": "4/9",
+        "deliveries": "8,047",
+        "wickets": "184",
+        "bowl avg": "26.19",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "5/17",
+        "catches/stumpings": "17/\u2013"
+    },
+    "LA": {
+        "matches": "29",
+        "runs": "328",
+        "bat avg": "29.81",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "1,143",
+        "wickets": "46",
+        "bowl avg": "20.28",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/19",
+        "catches/stumpings": "10/\u2013"
+    },
+    "T20": {
+        "matches": "49",
+        "runs": "235",
+        "bat avg": "15.66",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "845",
+        "wickets": "59",
+        "bowl avg": "17.35",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/11",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Karnataka": "2013/14\u2013present",
+        "Mumbai Indians( 19 )": "2014\u20132017",
+        "Rajasthan Royals( 37 )": "2018\u20132021",
+        "Sunrisers Hyderabad": "2022"
+    },
+    "birth_date": "1993-9-4"
+}

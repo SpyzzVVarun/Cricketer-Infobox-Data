@@ -1,0 +1,30 @@
+{
+    "name": "Frederick Allsopp",
+    "country": "England",
+    "fullname": "Frederick  Ernset Allsopp",
+    "birth_place": "Hindlip Hall, England",
+    "death_date": "1928",
+    "death_place": "Hadzor House, England",
+    "batting": "Right-handed",
+    "bowling": "Slow",
+    "onetype1": "true",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27465/27465.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "46",
+        "bat avg": "15.33",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "56",
+        "wickets": "2",
+        "bowl avg": "11.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1884"
+    },
+    "birth_date": "1857-9-21"
+}

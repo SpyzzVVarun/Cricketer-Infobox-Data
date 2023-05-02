@@ -1,0 +1,29 @@
+{
+    "name": "Howard Phillips",
+    "country": "England",
+    "fullname": "Howard William Phillips",
+    "birth_place": "St Helens, Isle of Wight, England",
+    "death_date": "1960",
+    "death_place": "East London, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/46751.html Cricinfo ",
+    "FC": {
+        "matches": "17",
+        "runs": "267",
+        "bat avg": "9.51",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "47",
+        "deliveries": "292",
+        "wickets": "2",
+        "bowl avg": "81.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/10",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "clubs": {
+        "Border": "1907&ndash;1913",
+        "Hampshire": "1899&ndash;1902"
+    },
+    "birth_date": "1872-4-20"
+}

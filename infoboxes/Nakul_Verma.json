@@ -1,0 +1,24 @@
+{
+    "name": "Nakul Verma",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/484057.html Cricinfo",
+    "FC": {
+        "matches": "32",
+        "runs": "1,398",
+        "bat avg": "26.37",
+        "100s/50s": "3/5",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "80.00 ",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "64/7"
+    },
+    "clubs": {
+        "Services": "2012-present"
+    },
+    "birth_date": "1991-4-14"
+}

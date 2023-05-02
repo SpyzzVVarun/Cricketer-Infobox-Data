@@ -1,0 +1,31 @@
+{
+    "name": "Reehana Khan",
+    "female": "true",
+    "country": "Namibia",
+    "fullname": "Reehana Khan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "20 August",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Malawi",
+    "T20Icap": "7",
+    "lastT20Idate": "7 June",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Rwanda",
+    "source": "http://www.espncricinfo.com/ci/content/player/1119579.html Cricinfo ",
+    "WT20I": {
+        "matches": "23",
+        "runs": "46",
+        "bat avg": "6.57",
+        "100s/50s": "0/0",
+        "deliveries": "136",
+        "wickets": "9",
+        "bowl avg": "14.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/6",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1999-1-7"
+}

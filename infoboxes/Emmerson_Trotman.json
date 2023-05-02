@@ -1,0 +1,43 @@
+{
+    "name": "Emmerson Trotman",
+    "country": "Australia",
+    "fullname": "Emmerson Nathaniel Trotman",
+    "birth_place": "Paradise Village, Christ Church, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "coachclub1": "Netherlands",
+    "coachyear1": "1996\u20132005",
+    "role": "All-rounder",
+    "source": "https://www.espncricinfo.com/westindies/content/player/53134.html ",
+    "First-class": {
+        "matches": "76",
+        "runs": "4495",
+        "bat avg": "37.77",
+        "100s/50s": "9/27",
+        "top score": "173",
+        "deliveries": "2209",
+        "wickets": "34",
+        "bowl avg": "33.91",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/30",
+        "catches/stumpings": "96/15"
+    },
+    "List A": {
+        "matches": "87",
+        "runs": "1729",
+        "bat avg": "23.36",
+        "100s/50s": "1/10",
+        "deliveries": "532",
+        "wickets": "12",
+        "bowl avg": "28.41",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/11",
+        "catches/stumpings": "43/4"
+    },
+    "clubs": {
+        "Barbados": "1975/76&ndash;1981/82"
+    },
+    "birth_date": "1954-11-10"
+}

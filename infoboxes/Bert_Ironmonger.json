@@ -1,0 +1,44 @@
+{
+    "name": "Bert Ironmonger",
+    "nickname": "Dainty",
+    "country": "Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm off Left-arm off spin",
+    "role": "Bowler",
+    "birth_place": "Pine Mountain, Queensland, Australia",
+    "death_date": "1971",
+    "death_place": "St Kilda, Victoria, Australia |international      = true |testdebutdate      = 30 November  |testdebutyear      = 1928 |testdebutagainst   = England |testcap            = 125 |lasttestdate       = 23 February |lasttestyear       = 1933 |lasttestagainst    = England",
+    "source": "http://www.espncricinfo.com/ci/content/player/5977.html ESPNcricinfo",
+    "Tests": {
+        "matches": "14",
+        "runs": "42",
+        "bat avg": "2.62",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "4695",
+        "wickets": "74",
+        "bowl avg": "17.97",
+        "fivefor": "4",
+        "tenfor": "2",
+        "best bowling": "7/23",
+        "catches/stumpings": "3/0"
+    },
+    "First-class": {
+        "matches": "96",
+        "runs": "476",
+        "bat avg": "5.95",
+        "100s/50s": "0/0",
+        "deliveries": "27431",
+        "wickets": "464",
+        "bowl avg": "21.50",
+        "fivefor": "36",
+        "tenfor": "11",
+        "best bowling": "8/31",
+        "catches/stumpings": "31/0"
+    },
+    "clubs": {
+        "Queensland": "1909\u20131913",
+        "Victoria": "1914\u20131936"
+    },
+    "birth_date": "1882-4-7"
+}

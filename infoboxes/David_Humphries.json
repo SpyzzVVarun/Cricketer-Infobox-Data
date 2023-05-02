@@ -1,0 +1,31 @@
+{
+    "name": "David Humphries",
+    "fullname": "David John Humphries",
+    "birth_place": "Alveley, Shropshire, England",
+    "death_date": "df=yes",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "family": "Mark Humphries (brother)",
+    "source": "https://www.espncricinfo.com/england/content/player/15052.html CricInfo",
+    "First-class": {
+        "matches": "175",
+        "runs": "5,116",
+        "bat avg": "24.83",
+        "100s/50s": "4/26",
+        "catches/stumpings": "294/60"
+    },
+    "List A": {
+        "matches": "167",
+        "runs": "1,639",
+        "bat avg": "14.25",
+        "100s/50s": "0/3",
+        "top score": "62",
+        "catches/stumpings": "138/35"
+    },
+    "clubs": {
+        "Shropshire": "1971\u20131973",
+        "Leicestershire": "1974\u20131976",
+        "Worcestershire": "1977\u20131984"
+    },
+    "birth_date": "1953-08-06"
+}

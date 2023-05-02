@@ -1,0 +1,41 @@
+{
+    "name": "Bradleigh Donelan",
+    "fullname": "Bradleigh Thomas Peter Donelan",
+    "birth_place": "Park Royal, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/3/3522/3522.html CricketArchive ",
+    "FC": {
+        "matches": "53",
+        "runs": "1105",
+        "bat avg": "24.55",
+        "100s/50s": "0/5",
+        "deliveries": "8626",
+        "wickets": "106",
+        "bowl avg": "43.65",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/62",
+        "catches/stumpings": "14/\u2013"
+    },
+    "LA": {
+        "matches": "22",
+        "runs": "207",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "900",
+        "wickets": "10",
+        "bowl avg": "72.80",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/39",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1989\u20131993",
+        "Somerset": "1994",
+        "Cambridgeshire": "1995\u20131999"
+    },
+    "birth_date": "1968-1-3"
+}

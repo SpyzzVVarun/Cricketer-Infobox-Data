@@ -1,0 +1,40 @@
+{
+    "name": "Martin Gerrard",
+    "fullname": "Martin James Gerrard",
+    "birth_place": "Southmead, Bristol, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/13517.html Cricinfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "107",
+        "bat avg": "42",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "2574",
+        "wickets": "36",
+        "bowl avg": "38.36",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/40",
+        "catches/stumpings": "7/0"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "23",
+        "bat avg": "5.75",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "587",
+        "wickets": "7",
+        "bowl avg": "63.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/35",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1991\u20131993"
+    },
+    "birth_date": "1967-5-19"
+}

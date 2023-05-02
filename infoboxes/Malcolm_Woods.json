@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Malcolm David Woods",
+    "birth_place": "Carlisle, Cumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/22633.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "110",
+        "bat avg": "22.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "36",
+        "deliveries": "336",
+        "wickets": "4",
+        "bowl avg": "68.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/33",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Cumberland": "1977&ndash;1994"
+    },
+    "birth_date": "1955-7-22"
+}

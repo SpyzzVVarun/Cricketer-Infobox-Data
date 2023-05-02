@@ -1,0 +1,26 @@
+{
+    "name": "Arthur Christian",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "1950",
+    "death_place": "Claremont, Australia",
+    "source": "http://www.espncricinfo.com/australia/content/player/4745.html Cricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "960",
+        "bat avg": "22.85",
+        "100s/50s": "-/6",
+        "top score": "98",
+        "deliveries": "?",
+        "wickets": "102",
+        "bowl avg": "24.43",
+        "fivefor": "6",
+        "tenfor": "2",
+        "best bowling": "7/144",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1904-1906",
+        "Western Australia": "1907-1922"
+    },
+    "birth_date": "1877-1-22"
+}

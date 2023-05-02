@@ -1,0 +1,30 @@
+{
+    "name": "John Steele",
+    "country": "England",
+    "fullname": "John William Jackson Steele",
+    "birth_place": "Wistaston, Crewe, Cheshire, England",
+    "death_date": "1990",
+    "death_place": "Powderham, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/20347.html Cricinfo ",
+    "FC": {
+        "matches": "19",
+        "runs": "434",
+        "bat avg": "16.69",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "44",
+        "deliveries": "3,672",
+        "wickets": "66",
+        "bowl avg": "25.90",
+        "fivefor": "3",
+        "tenfor": "&ndash;",
+        "best bowling": "6/62",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1938&ndash;1939",
+        "Army": "1938&ndash;1939"
+    },
+    "birth_date": "1905-7-30"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Alice Stanton",
+    "female": "true",
+    "fullname": "Alice Veronica Stanton",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm slow",
+    "country": "Ireland",
+    "source": "http://m.espncricinfo.com/ireland/content/player/54935.html Cricinfo",
+    "WODI": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "-",
+        "100s/50s": "-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1960-12-05"
+}

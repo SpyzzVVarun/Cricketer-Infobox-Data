@@ -1,0 +1,33 @@
+{
+    "name": "Douglas McKenzie",
+    "country": "Australia",
+    "fullname": "Douglas Charles McKenzie",
+    "birth_place": "Kew, Victoria, Australia",
+    "death_date": "1979",
+    "death_place": "Perth, Western Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Eric McKenzie (brother) Graham McKenzie (nephew)",
+    "type1": "FC",
+    "debutdate1": "9 March",
+    "debutyear1": "1935",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "New South Wales",
+    "lastdate1": "24 December",
+    "lastyear1": "1945",
+    "lastfor1": "Western Australia",
+    "lastagainst1": "Australian Services",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/16/16415/16415.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "214",
+        "bat avg": "35.66",
+        "100s/50s": "0/3",
+        "top score": "88",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Western Australia": "1934/35\u20131945/46"
+    },
+    "birth_date": "1906-3-15"
+}

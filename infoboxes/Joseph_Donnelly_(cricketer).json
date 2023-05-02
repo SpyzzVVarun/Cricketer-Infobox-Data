@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Joseph Aloysius Donnelly",
+    "birth_place": "Belfast, Ireland",
+    "death_date": "Date of date unknown",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/24356.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "65",
+        "bat avg": "32.50",
+        "100s/50s": "\u2013/1",
+        "top score": "59",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1914"
+    }
+}

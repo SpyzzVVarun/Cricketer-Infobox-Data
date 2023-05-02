@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Wass",
+    "birth_place": "Sutton-in-Ashfield, Nottinghamshire, England",
+    "death_date": "1953",
+    "death_place": "Sutton-in-Ashfield, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/33/33646/33646.html CricketArchive",
+    "First-class": {
+        "matches": "312",
+        "runs": "2,138",
+        "bat avg": "7.29",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "deliveries": "71,399",
+        "wickets": "1,666",
+        "bowl avg": "20.46",
+        "fivefor": "159",
+        "tenfor": "45",
+        "best bowling": "9/67",
+        "catches/stumpings": "114/0"
+    },
+    "clubs": {},
+    "birth_date": "1873-12-26"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Gordon Harris",
+    "fullname": "Gordon William Harris",
+    "birth_place": "Alberton, South Australia",
+    "death_date": "1974",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/5756.html Cricinfo ",
+    "First-class": {
+        "matches": "37",
+        "runs": "2294",
+        "bat avg": "34.75",
+        "100s/50s": "4/12",
+        "top score": "183",
+        "deliveries": "40",
+        "wickets": "2",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/8",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1921-22 to 1930-31"
+    },
+    "birth_date": "1897-12-11"
+}

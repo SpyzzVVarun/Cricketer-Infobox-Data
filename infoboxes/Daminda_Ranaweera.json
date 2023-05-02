@@ -1,0 +1,63 @@
+{
+    "name": "Daminda Ranaweera",
+    "full_name": "Amunugama Gedara Ranaweera Mudiyanselage Daminda Kumara Ranaweera",
+    "birth_place": "Kandy, Sri Lanka",
+    "heightft": "5",
+    "heightinch": "7",
+    "batting": "Left-handed",
+    "bowling": "Right-arm slow Right-arm slow medium",
+    "role": "Wicket-keeper batsman",
+    "source": "https://www.espncricinfo.com/player/daminda-ranaweera-50279 Cricinfo",
+    "FC": {
+        "matches": "104",
+        "runs": "4101",
+        "bat avg": "24.41",
+        "100s/50s": "0/27",
+        "top score": "99",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;/&ndash;",
+        "catches/stumpings": "207/26"
+    },
+    "LA": {
+        "matches": "61",
+        "runs": "982",
+        "bat avg": "18.18",
+        "100s/50s": "0/4",
+        "top score": "81",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;/&ndash;",
+        "catches/stumpings": "55/20"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "108",
+        "bat avg": "36.00",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;/&ndash;",
+        "catches/stumpings": "5/3"
+    },
+    "clubs": {
+        "Kurunegala Youth Cricket Club": "1999-2001",
+        "Colombo Cricket Club": "2006-2011",
+        "Tamil Union C & AC": "2004-2006",
+        "Bloomfield C & AC": "2011-2013",
+        "Sarawak Cricket Club": "2015",
+        "Cambridge Cricket Club": "2019-2021",
+        "Seattle Thunderbolts": "2022"
+    },
+    "birth_date": "1980-2-29"
+}

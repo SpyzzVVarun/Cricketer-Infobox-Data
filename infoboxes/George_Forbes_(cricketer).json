@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "George Thomson Forbes",
+    "birth_place": "Aberdeen, Aberdeenshire, Scotland",
+    "death_date": "1984",
+    "death_place": "Aberdeen, Aberdeenshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/george-forbes-25208 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "122",
+        "bat avg": "15.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "deliveries": "445",
+        "wickets": "11",
+        "bowl avg": "15.72",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1936&ndash;1938"
+    }
+}

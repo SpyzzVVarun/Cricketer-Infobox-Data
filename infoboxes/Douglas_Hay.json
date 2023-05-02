@@ -1,0 +1,29 @@
+{
+    "name": "Douglas Hay",
+    "honorific_suffix": "country=NZL",
+    "country": "New Zealand",
+    "fullname": "Thomas Douglas Baird Hay",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/22/22084/22084.html CricketArchive",
+    "First-class": {
+        "matches": "25",
+        "runs": "689",
+        "bat avg": "16.02",
+        "100s/50s": "1/2",
+        "top score": "144",
+        "deliveries": "1066",
+        "wickets": "19",
+        "bowl avg": "23.36",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/10",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1893/94\u20131906/07"
+    },
+    "birth_date": "1876-8-31"
+}

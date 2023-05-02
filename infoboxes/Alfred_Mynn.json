@@ -1,0 +1,32 @@
+{
+    "name": "Alfred Mynn",
+    "country": "England",
+    "fullname": "Alfred Mynn",
+    "nickname": "Lion of Kent",
+    "birth_place": "Goudhurst, Kent, England",
+    "death_date": "1861",
+    "death_place": "Southwark, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast (roundarm)",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/england/content/player/17144.html CricInfo ",
+    "First-class": {
+        "matches": "212",
+        "runs": "4,955",
+        "bat avg": "13.42",
+        "100s/50s": "1/12",
+        "deliveries": "16,638",
+        "wickets": "1,036",
+        "bowl avg": "10.22",
+        "fivefor": "92",
+        "tenfor": "33",
+        "best bowling": "9/?",
+        "catches/stumpings": "125/\u2013"
+    },
+    "clubs": {
+        "Kent": "1834\u20131859",
+        "Sussex": "1839\u20131847",
+        "Hampshire": "1844"
+    },
+    "birth_date": "1807-1-19"
+}

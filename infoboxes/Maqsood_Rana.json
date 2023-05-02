@@ -1,0 +1,29 @@
+{
+    "name": "Maqsood Rana",
+    "birth_place": "Lahore, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "oneodi": "true",
+    "odidebutdate": "3 January",
+    "odidebutyear": "1990",
+    "odidebutagainst": "Australia",
+    "odicap": "74",
+    "source": "http://cricinfo.com/ci/content/player/41272.html  ",
+    "ODI": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1972-8-01"
+}

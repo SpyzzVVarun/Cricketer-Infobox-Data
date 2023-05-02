@@ -1,0 +1,46 @@
+{
+    "name": "Gerald Bond",
+    "birth_place": "Cape Town, Cape Colony",
+    "death_date": "1965",
+    "death_place": "Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "South Africa",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1938",
+    "lasttestdate": "24 December",
+    "lasttestyear": "1938",
+    "source": "https://cricketarchive.com/Archive/Players/0/713/713.html CricketArchive",
+    "Tests": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "16",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "28",
+        "runs": "1604",
+        "bat avg": "41.12",
+        "100s/50s": "1/11",
+        "top score": "170",
+        "deliveries": "1462",
+        "wickets": "20",
+        "bowl avg": "35.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/17",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1929/30\u20131938/39"
+    },
+    "birth_date": "1909-4-5"
+}

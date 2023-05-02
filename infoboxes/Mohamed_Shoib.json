@@ -1,0 +1,19 @@
+{
+    "name": "Mohamed Shoib",
+    "country": "Singapore",
+    "birth_place": "Singapore",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/25522.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1977-9-12",
+    "medaltemplates": [
+        "Country: {{SGP}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20",
+        "Silver Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

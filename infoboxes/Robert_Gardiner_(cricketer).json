@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Gardiner",
+    "birth_place": "Findo Gask, Perthshire, Scotland",
+    "death_date": "1959",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/robert-gardiner-25218 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "133",
+        "bat avg": "26.60",
+        "100s/50s": "\u2013/1",
+        "top score": "72",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1909&ndash;1914"
+    }
+}

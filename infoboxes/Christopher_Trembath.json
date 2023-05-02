@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Christopher Richard Trembath",
+    "birth_place": "Willesden, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/21922.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "33",
+        "bat avg": "33.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "578",
+        "wickets": "11",
+        "bowl avg": "40.36",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/91",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "8",
+        "runs": "25",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "271",
+        "wickets": "6",
+        "bowl avg": "46.83",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/31",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wiltshire": "1985-1991",
+        "Gloucestershire": "1982-1984"
+    },
+    "birth_date": "1961-9-27"
+}

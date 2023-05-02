@@ -1,0 +1,46 @@
+{
+    "name": "Tim Lamb",
+    "honorific_prefix": "The Honourable",
+    "full_name": "Timothy Michael Lamb",
+    "birth_place": "Hartford, Cheshire, England",
+    "nickname": "Tiger",
+    "height": "6 ft",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "Bowler",
+    "family": "Nick Lamb (son)",
+    "source": "https://cricketarchive.com/Archive/Players/10/10598/10598.html CricketArchive subscription needed",
+    "FC": {
+        "matches": "160",
+        "runs": "1,274",
+        "bat avg": "12.49",
+        "100s/50s": "0/1",
+        "top score": "77",
+        "deliveries": "23,208",
+        "wickets": "361",
+        "bowl avg": "28.97",
+        "fivefor": "10",
+        "tenfor": "0",
+        "best bowling": "7/56",
+        "catches/stumpings": "40/0"
+    },
+    "LA": {
+        "matches": "166",
+        "runs": "432",
+        "bat avg": "10.53",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "7587",
+        "wickets": "190",
+        "bowl avg": "25.70",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/13",
+        "catches/stumpings": "34/0"
+    },
+    "clubs": {
+        "Oxford University": "1973\u20131974",
+        "Middlesex": "1974\u20131977",
+        "Northamptonshire": "1978\u20131983"
+    }
+}

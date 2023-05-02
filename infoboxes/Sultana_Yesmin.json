@@ -1,0 +1,68 @@
+{
+    "name": "Sultana Yesmin",
+    "female": "true",
+    "country": "Bangladesh",
+    "fullname": "Sultana Yesmin Boishakhi",
+    "birth_place": "Bangladesh",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2011\u20132013",
+    "odidebutdate": "26 November",
+    "odidebutyear": "2011",
+    "odidebutagainst": "Ireland",
+    "odicap": "11",
+    "lastodidate": "24 September",
+    "lastodiyear": "2013",
+    "lastodiagainst": "South Africa",
+    "oneT20I": "true",
+    "T20Idebutdate": "5 April",
+    "T20Idebutyear": "2013",
+    "T20Idebutagainst": "India",
+    "T20Icap": "20",
+    "source": "https://cricketarchive.com/Archive/Players/924/924137/924137.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "6",
+        "runs": "17",
+        "bat avg": "3.40",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "catches/stumpings": "4/5"
+    },
+    "WT20I": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "WLA": {
+        "matches": "23",
+        "runs": "95",
+        "bat avg": "8.63",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "15/12"
+    },
+    "WT20": {
+        "matches": "6",
+        "runs": "27",
+        "bat avg": "27.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/2"
+    },
+    "clubs": {
+        "Khulna Division": "2008/09\u20132017/18"
+    },
+    "birth_date": "1989-8-13",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Silver Medal: 2010 Guangzhou Team"
+    ]
+}

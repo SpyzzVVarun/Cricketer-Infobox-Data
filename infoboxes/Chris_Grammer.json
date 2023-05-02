@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Christopher Mark Grammer",
+    "birth_place": "Brighton, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/399312.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "113",
+        "bat avg": "22.60",
+        "100s/50s": "\u2013/1",
+        "top score": "64",
+        "deliveries": "136",
+        "wickets": "3",
+        "bowl avg": "24.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/35",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge UCCE": "2009",
+        "Cambridge University": "2009"
+    },
+    "birth_date": "1984-10-1"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "David Hunter",
+    "country": "England",
+    "birth_place": "Scarborough, North Riding of Yorkshire, England",
+    "death_date": "11 January 1927 (aged 66)",
+    "death_place": "Northstead, Scarborough, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Joe Hunter (brother)",
+    "source": "http://www.espncricinfo.com/england/content/player/15067.html CricInfo ",
+    "First-class": {
+        "matches": "552",
+        "runs": "4,538",
+        "bat avg": "12.03",
+        "100s/50s": "0/0",
+        "top score": "58",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "913/350"
+    },
+    "clubs": {
+        "Yorkshire": "1888\u20131909"
+    }
+}

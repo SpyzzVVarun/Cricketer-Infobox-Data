@@ -1,0 +1,53 @@
+{
+    "name": "Clem Hill",
+    "fullname": "Clement Hill",
+    "birth_place": "Adelaide, South Australia, Australia",
+    "death_date": "df=yes",
+    "death_place": "Parkville, Victoria, Australia",
+    "nickname": "Kruger",
+    "heightm": "1.75",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "Batsman",
+    "family": "Stanley Hill (brother)",
+    "country": "Australia",
+    "testcap": "74",
+    "testdebutagainst": "England",
+    "testdebutdate": "22 June",
+    "testdebutyear": "1896",
+    "lasttestagainst": "England",
+    "lasttestdate": "23 February",
+    "lasttestyear": "1912",
+    "source": "https://cricketarchive.com/Archive/Players/0/210/210.html CricketArchive ",
+    "Test": {
+        "matches": "49",
+        "runs": "3,412",
+        "bat avg": "39.21",
+        "100s/50s": "7/19",
+        "top score": "191",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "33/\u2013"
+    },
+    "First-class": {
+        "matches": "252",
+        "runs": "17,213",
+        "bat avg": "43.57",
+        "100s/50s": "45/83",
+        "deliveries": "510",
+        "wickets": "10",
+        "bowl avg": "32.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "168/1"
+    },
+    "clubs": {
+        "South Australia": "1892/93\u20131922/23"
+    },
+    "birth_date": "1877-3-18"
+}

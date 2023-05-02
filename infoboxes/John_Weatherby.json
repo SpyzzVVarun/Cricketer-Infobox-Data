@@ -1,0 +1,30 @@
+{
+    "name": "John Weatherby",
+    "country": "England",
+    "fullname": "John Harry Weatherby",
+    "birth_place": "Oatlands, Surrey, England",
+    "death_date": "1948",
+    "death_place": "Leamington Spa, Warwickshire, England",
+    "role": "Occasional wicket-keeper",
+    "family": "Charles Weatherby (brother), Francis Weatherby (brother), John Atkinson-Clark (nephew)",
+    "source": "http://www.espncricinfo.com/ci/content/player/35956.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "430",
+        "bat avg": "25.29",
+        "100s/50s": "&ndash;/3",
+        "top score": "74",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1896&ndash;1898",
+        "Europeans (India)": "1901/02&ndash;1903/04"
+    },
+    "birth_date": "1870-2-13"
+}

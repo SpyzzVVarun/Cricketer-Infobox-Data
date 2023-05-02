@@ -1,0 +1,27 @@
+{
+    "name": "Archibald Palm",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1927",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46725.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "40",
+        "runs": "1,958",
+        "bat avg": "32.09",
+        "100s/50s": "3/11",
+        "top score": "173",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {}
+}

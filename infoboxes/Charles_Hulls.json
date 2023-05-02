@@ -1,0 +1,40 @@
+{
+    "name": "Charles Hulls",
+    "country": "England",
+    "fullname": "Charles Henry Hulls",
+    "birth_place": "Luton, Bedfordshire, England",
+    "death_date": "1912",
+    "death_place": "Southend-on-Sea, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "debutdate1": "3 August",
+    "debutyear1": "1885",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "25 June",
+    "lastyear1": "1896",
+    "lastfor1": "MCC",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3639/3639.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "38",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "8",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/5",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1885",
+        "Marylebone Cricket Club": "1889\u20131905",
+        "Oxfordshire": "1896"
+    },
+    "birth_date": "1861-03-18"
+}

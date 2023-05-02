@@ -1,0 +1,44 @@
+{
+    "name": "Andrew Webster",
+    "country": "England",
+    "fullname": "Andrew John Webster",
+    "nickname": "Webbo",
+    "birth_place": "Rolleston on Dove, Staffordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/33/33703/33703.html CricketArchive ",
+    "FC": {
+        "matches": "9",
+        "runs": "81",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "1,249",
+        "wickets": "15",
+        "bowl avg": "48.93",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/87",
+        "catches/stumpings": "3/0"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "76",
+        "bat avg": "7.60",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "912",
+        "wickets": "16",
+        "bowl avg": "39.75",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "4/38",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Worcestershire": "1981&ndash;1982",
+        "Staffordshire": "1985&ndash;1988",
+        "Minor Counties": "1986&ndash;1988"
+    },
+    "birth_date": "1959-3-5"
+}

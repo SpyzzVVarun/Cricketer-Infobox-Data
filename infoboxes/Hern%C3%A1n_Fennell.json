@@ -1,0 +1,43 @@
+{
+    "name": "Hern\u00e1n Fennell",
+    "country": "Argentina",
+    "birth_place": "Argentina",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "3 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Mexico",
+    "T20Icap": "5",
+    "lastT20Idate": "4 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Cayman Islands",
+    "source": "http://www.espncricinfo.com/ci/content/player/307184.html Cricinfo ",
+    "T20I": {
+        "matches": "11",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "185",
+        "wickets": "19",
+        "bowl avg": "10.31",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "11",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "185",
+        "wickets": "19",
+        "bowl avg": "10.31",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1988-2-2"
+}

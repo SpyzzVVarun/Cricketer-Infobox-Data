@@ -1,0 +1,28 @@
+{
+    "name": "Mas Elysa",
+    "female": "true",
+    "country": "Malaysia",
+    "fullname": "Mas Elysa Yasmin Zulkifli",
+    "birth_place": "Hospital Sungai Siput, Perak",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "T20Idebutdate": "3 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "India",
+    "T20Icap": "6",
+    "lastT20Idate": "9 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Thailand",
+    "source": "http://www.espncricinfo.com/ci/content/player/1116789.html ESPNCricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "2001-5-19",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Bronze Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

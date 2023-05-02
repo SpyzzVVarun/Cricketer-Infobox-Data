@@ -1,0 +1,42 @@
+{
+    "name": "Anil Dalpat",
+    "country": "Pakistan",
+    "fullname": "Anil Dalpat Sonavaria",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "family": "Danish Kaneria (cousin)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1984\u20131986",
+    "testdebutdate": "2 March",
+    "testdebutyear": "1984",
+    "testdebutagainst": "England",
+    "lasttestdate": "9 February",
+    "lasttestyear": "1985",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "26 March",
+    "odidebutyear": "1984",
+    "odidebutagainst": "England",
+    "odicap": "47",
+    "lastodidate": "27 October",
+    "lastodiyear": "1986",
+    "lastodiagainst": "West Indies",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/38999.html Cricinfo  ",
+    "Test": {
+        "matches": "9",
+        "runs": "167",
+        "bat avg": "15.18",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "catches/stumpings": "22/3"
+    },
+    "ODI": {
+        "matches": "15",
+        "runs": "87",
+        "bat avg": "12.42",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "13/2"
+    },
+    "clubs": {},
+    "birth_date": "1963-09-20"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Eva Christensen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Eva Christensen",
+    "odidebutdate": "26 July",
+    "odidebutyear": "1998",
+    "odidebutagainst": "Netherlands",
+    "odicap": "31",
+    "lastodidate": "21 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54951.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "deliveries": "30",
+        "wickets": "2",
+        "bowl avg": "17.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/34",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

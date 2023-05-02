@@ -1,0 +1,32 @@
+{
+    "name": "Zafar Altaf",
+    "country": "Pakistan",
+    "fullname": "Zafar Altaf",
+    "birth_place": "Agra, Uttar Pradesh, British India",
+    "death_date": "2015",
+    "death_place": "Islamabad, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/43784.html Cricinfo",
+    "First-class": {
+        "matches": "53",
+        "runs": "2448",
+        "bat avg": "32.21",
+        "100s/50s": "4/10",
+        "top score": "268",
+        "wickets": "8",
+        "bowl avg": "37.87",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/12",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Lahore": "1958\u201359 to 1965\u201366",
+        "Punjab University": "1958\u201359 to 1959\u201360",
+        "Pakistan Universities": "1959\u201360",
+        "Karachi": "1966\u201367 to 1967\u201368",
+        "Rawalpindi": "1970\u201371 to 1971\u201372"
+    },
+    "birth_date": "1941-8-1"
+}

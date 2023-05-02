@@ -1,0 +1,28 @@
+{
+    "name": "Richard Williams",
+    "country": "England",
+    "fullname": "Richard Harry Williams",
+    "birth_place": "Brockmoor, Staffordshire, England",
+    "death_date": "1982",
+    "death_place": "Stourbridge, England",
+    "batting": "Left-handed",
+    "source": "http://cricketarchive.co.uk/Archive/Players/33/33910/33910.html ",
+    "FC": {
+        "matches": "37",
+        "runs": "713",
+        "bat avg": "11.14",
+        "100s/50s": "0/3",
+        "top score": "81",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "Worcestershire": "1923&mdash;1932"
+    },
+    "birth_date": "1901-4-23"
+}

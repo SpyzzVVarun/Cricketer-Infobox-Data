@@ -1,0 +1,32 @@
+{
+    "name": "Charles Thornton",
+    "country": "England",
+    "fullname": "Charles Inglis Thornton",
+    "birth_place": "Llanwarne, Herefordshire, England",
+    "death_date": "1929",
+    "death_place": "Marylebone, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm fast",
+    "family": "Percy Thornton (cousin)",
+    "source": "https://www.espncricinfo.com/cricketers/charles-thornton-21818 Cricinfo ",
+    "First-class": {
+        "matches": "217",
+        "runs": "6,928",
+        "bat avg": "19.35",
+        "100s/50s": "5/20",
+        "top score": "124",
+        "deliveries": "2,423",
+        "wickets": "47",
+        "bowl avg": "20.10",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/19",
+        "catches/stumpings": "119/\u2013"
+    },
+    "clubs": {
+        "Kent": "1867\u20131872",
+        "Cambridge University": "1869\u20131872",
+        "Marylebone Cricket Club": "1869\u20131895",
+        "Middlesex": "1875\u20131885"
+    }
+}

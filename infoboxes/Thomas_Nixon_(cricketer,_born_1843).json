@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas Henry Nixon",
+    "birth_place": "Sneinton, Nottinghamshire, England",
+    "death_date": "1907",
+    "death_place": "Hillingdon, Middlesex, England",
+    "nickname": "Thomas Nixon (father), Harry Nixon (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18147.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "118",
+        "wickets": "4",
+        "bowl avg": "19.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/26",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1862"
+    }
+}

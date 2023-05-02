@@ -1,0 +1,44 @@
+{
+    "name": "Ruth Prideaux",
+    "female": "true",
+    "country": "England",
+    "fullname": "Ruth Emily Prideaux",
+    "birth_place": "Greenhithe, Kent, England",
+    "death_date": "df=yes",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Roger Prideaux (husband)",
+    "internationalspan": "1957\u20131963",
+    "testdebutdate": "29 November",
+    "testdebutyear": "1957",
+    "testdebutagainst": "New Zealand",
+    "testcap": "46",
+    "lasttestdate": "20 July",
+    "lasttestyear": "1963",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17103/17103.html CricketArchive ",
+    "WTest": {
+        "matches": "11",
+        "runs": "476",
+        "bat avg": "31.73",
+        "100s/50s": "0/3",
+        "top score": "87",
+        "best bowling": "/",
+        "catches/stumpings": "13/9"
+    },
+    "WFC": {
+        "matches": "33",
+        "runs": "1,073",
+        "bat avg": "29.80",
+        "100s/50s": "0/6",
+        "top score": "88",
+        "tenfor": "\u2013",
+        "best bowling": "/",
+        "catches/stumpings": "28/20"
+    },
+    "clubs": {
+        "Yorkshire": "1953\u20131958",
+        "Kent": "1959\u20131964"
+    },
+    "birth_date": "1930-7-12"
+}

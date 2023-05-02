@@ -1,0 +1,42 @@
+{
+    "name": "Richard Dibden",
+    "country": "England",
+    "fullname": "Richard Rockley Dibden",
+    "birth_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/cricketers/richard-dibden-11889 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "1",
+        "bat avg": "0.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "835",
+        "wickets": "8",
+        "bowl avg": "74.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/36",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "162",
+        "wickets": "4",
+        "bowl avg": "32.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/40",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1995",
+        "Hampshire Cricket Board": "2001&ndash;2002"
+    },
+    "birth_date": "1975-1-29"
+}

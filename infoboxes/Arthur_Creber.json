@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Creber",
+    "country": "Scotland",
+    "fullname": "Arthur Brynley Creber",
+    "birth_place": "Sketty, Swansea, Glamorgan, Wales",
+    "death_date": "1966",
+    "death_place": "Colwyn Bay, Denbighshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Harry Creber (father)",
+    "source": "http://www.cricinfo.com/ci/content/player/10874.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "45",
+        "bat avg": "11.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "156",
+        "wickets": "1",
+        "bowl avg": "80.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/80",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1929"
+    },
+    "birth_date": "1909-10-11"
+}

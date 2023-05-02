@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Oliver Marks",
+    "birth_place": "Thornton Heath, Surrey, England",
+    "death_date": "1940",
+    "death_place": "Brompton, London, England",
+    "family": "Geoffrey Marks (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/17327.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1901"
+    }
+}

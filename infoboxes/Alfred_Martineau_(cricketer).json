@@ -1,0 +1,37 @@
+{
+    "name": "Alfred Martineau",
+    "country": "England",
+    "birth_place": "Esher, Surrey, England",
+    "death_date": "1940",
+    "death_place": "Rubislaw, Aberdeen, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "type1": "First-class",
+    "debutdate1": "20 May",
+    "debutyear1": "1889",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "MCC",
+    "lastdate1": "23 May",
+    "lastyear1": "1889",
+    "lastfor1": "Cambridge University",
+    "lastagainst1": "AJ Webbe's XI",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/31/31289/31289.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "65.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/65",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Cambridge University": "1889"
+    },
+    "birth_date": "1868-11-11"
+}

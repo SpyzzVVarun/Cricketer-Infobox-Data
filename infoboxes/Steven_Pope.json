@@ -1,0 +1,60 @@
+{
+    "country": "South Africa",
+    "fullname": "Steven Charles Pope",
+    "birth_place": "East London, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/46777.html Cricinfo ",
+    "FC": {
+        "matches": "109",
+        "runs": "5,958",
+        "bat avg": "32.91",
+        "100s/50s": "12/27",
+        "deliveries": "2,525",
+        "wickets": "48",
+        "bowl avg": "31.27",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "7/62",
+        "catches/stumpings": "81/2"
+    },
+    "LA": {
+        "matches": "106",
+        "runs": "2,660",
+        "bat avg": "31.29",
+        "100s/50s": "\u2013/21",
+        "deliveries": "1,306",
+        "wickets": "29",
+        "bowl avg": "33.55",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/38",
+        "catches/stumpings": "43/3"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "116",
+        "bat avg": "12.88",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "21",
+        "wickets": "1",
+        "bowl avg": "27.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/19",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Eastern Cape": "2003/04",
+        "Warriors": "2004/05-2005/06",
+        "Cornwall": "2000\u20132003",
+        "Huntingdonshire": "1999",
+        "Border": "1995/96-2005/06",
+        "Border B": "1995/96",
+        "Eastern Province": "1993/94-1994/95",
+        "Eastern Province B": "1992/93-1994/95"
+    },
+    "birth_date": "1972-11-15"
+}

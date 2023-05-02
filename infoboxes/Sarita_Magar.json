@@ -1,0 +1,29 @@
+{
+    "name": "Sarita Magar",
+    "female": "true",
+    "country": "Nepal",
+    "fullname": "Sarita Magar",
+    "birth_place": "Nepal",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "role": "All-rounder",
+    "T20Idebutdate": "12 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "China",
+    "T20Icap": "5",
+    "lastT20Idate": "20 May",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/486889.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1992-07-22",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

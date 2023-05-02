@@ -1,0 +1,24 @@
+{
+    "name": "Asif Khan",
+    "country": "United Arab Emirates",
+    "birth_place": "Lahore, Pakistan",
+    "role": "Batsman",
+    "odidebutdate": "5 March",
+    "odidebutyear": "2022",
+    "odidebutagainst": "Oman",
+    "odicap": "91",
+    "lastodidate": "1 May",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/315232.html Cricinfo ",
+    "ODI": {
+        "matches": "21",
+        "runs": "735",
+        "bat avg": "43.23",
+        "100s/50s": "2/5",
+        "top score": "103",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {},
+    "birth_date": "1990-2-15"
+}

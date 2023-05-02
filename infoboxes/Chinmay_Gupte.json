@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Chinmay Madhukar Gupte",
+    "birth_place": "Poona, Maharashtra, India",
+    "family": "Madhukar Gupte (father)",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/13518.html Cricinfo ",
+    "First-class": {
+        "matches": "54",
+        "runs": "2,382",
+        "bat avg": "33.08",
+        "100s/50s": "5/9",
+        "top score": "132",
+        "deliveries": "379",
+        "wickets": "4",
+        "bowl avg": "78.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/41",
+        "catches/stumpings": "16/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "97",
+        "bat avg": "24.25",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1991&ndash;1994",
+        "Marylebone Cricket Club": "1999"
+    },
+    "birth_date": "1972-7-5"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Alfred Michael Ivey",
+    "birth_place": "Leeds, Yorkshire, England",
+    "death_date": "2001",
+    "death_place": "Hammersmith, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15443.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "220",
+        "bat avg": "18.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "324",
+        "wickets": "2",
+        "bowl avg": "80.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/7",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1949&ndash;1951"
+    }
+}

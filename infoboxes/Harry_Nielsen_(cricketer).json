@@ -1,0 +1,47 @@
+{
+    "name": "Harry Nielsen",
+    "fullname": "Harry James Nielsen",
+    "birth_place": "Ashford, Adelaide, South Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "15 November",
+    "debutyear1": "2017",
+    "debutfor1": "Cricket Australia XI",
+    "debutagainst1": "England",
+    "type2": "LA",
+    "debutdate2": "27 September",
+    "debutyear2": "2017",
+    "debutfor2": "Cricket Australia XI",
+    "debutagainst2": "South Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/713195.html Cricinfo",
+    "FC": {
+        "matches": "37",
+        "runs": "1,797",
+        "bat avg": "28.98",
+        "100s/50s": "2/10",
+        "top score": "114",
+        "catches/stumpings": "94/4"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "439",
+        "bat avg": "27.43",
+        "100s/50s": "1/2",
+        "top score": "110",
+        "catches/stumpings": "15/1"
+    },
+    "T20": {
+        "matches": "38",
+        "runs": "379",
+        "bat avg": "21.05",
+        "100s/50s": "0/0",
+        "catches/stumpings": "23/1"
+    },
+    "clubs": {
+        "South Australia( 4 )": "2017/18\u2013present",
+        "Adelaide Strikers( 4 )": "2017/18\u2013present"
+    },
+    "birth_date": "1995-05-03"
+}

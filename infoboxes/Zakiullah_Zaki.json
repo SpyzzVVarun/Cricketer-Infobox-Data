@@ -1,0 +1,31 @@
+{
+    "name": "Zakiullah Zaki",
+    "country": "Afghanistan",
+    "fullname": "Zakiullah Zaki",
+    "birth_place": "Kabul, Afghanistan",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "role": "Batsman",
+    "odidebutdate": "29 March",
+    "odidebutyear": "2012",
+    "odidebutagainst": "Netherlands",
+    "odicap": "26",
+    "lastodidate": "29 March",
+    "lastodiyear": "2012",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/afghanistan/content/player/307657.html ESPN Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "3",
+        "100s/50s": "/",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1990-07-15"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Leonard Slater",
+    "birth_place": "Instow, Devon, England",
+    "death_date": "1914",
+    "death_place": "Aisne, France",
+    "source": "http://www.espncricinfo.com/ci/content/player/20804.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Gentlemen of the South": "1909",
+        "Devon": "1904"
+    },
+    "birth_date": "1875-10-11"
+}

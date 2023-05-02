@@ -1,0 +1,51 @@
+{
+    "name": "Walter Read",
+    "country": "England",
+    "fullname": "Walter William Read",
+    "birth_place": "Reigate, Surrey, England",
+    "death_date": "1907",
+    "death_place": "Addiscombe Park, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm slow Right arm slow (underarm)",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1882",
+    "testdebutagainst": "Australia",
+    "testcap": "40",
+    "lasttestdate": "26 August",
+    "lasttestyear": "1893",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/69/69.html CricketArchive ",
+    "Tests": {
+        "matches": "18",
+        "runs": "720",
+        "bat avg": "27.69",
+        "100s/50s": "1/5",
+        "top score": "117",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/27",
+        "catches/stumpings": "16/\u2013"
+    },
+    "First-class": {
+        "matches": "467",
+        "runs": "22,349",
+        "bat avg": "32.06",
+        "100s/50s": "38/113",
+        "top score": "338",
+        "deliveries": "5,597",
+        "wickets": "108",
+        "bowl avg": "32.25",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/24",
+        "catches/stumpings": "381/20"
+    },
+    "clubs": {
+        "Surrey": "1873\u20131897",
+        "Marylebone Cricket Club (MCC)": "1890"
+    },
+    "birth_date": "1855-11-23"
+}

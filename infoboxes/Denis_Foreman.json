@@ -1,0 +1,30 @@
+{
+    "name": "Denis Foreman",
+    "fullname": "Denis Joseph Foreman",
+    "birth_place": "Cape Town, South Africa",
+    "death_date": "2016",
+    "death_place": "Portslade, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://cricketarchive.com/Archive/Players/13/13446/13446.html CricketArchive",
+    "module": "clubs1         = Hibernian (South Africa) |caps1          =  |goals1         =  |years2         = 1952\u20131961 |clubs2         = Brighton & Hove Albion |caps2          = 211 |goals2         = 63 |years3         = 1961\u201319?? |clubs3         = Hastings United |caps3          =  |goals3         =  |totalcaps      = 211 |totalgoals     = 63 ",
+    "First-class": {
+        "matches": "130",
+        "runs": "3277",
+        "bat avg": "18.20",
+        "100s/50s": "1/15",
+        "top score": "104",
+        "deliveries": "638",
+        "wickets": "9",
+        "bowl avg": "30.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/64",
+        "catches/stumpings": "124/0"
+    },
+    "clubs": {
+        "Western Province": "1951\u20131952",
+        "Sussex": "1952\u20131966"
+    },
+    "birth_date": "1933-2-1"
+}

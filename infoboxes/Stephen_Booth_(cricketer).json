@@ -1,0 +1,36 @@
+{
+    "name": "Stephen Booth",
+    "country": "England",
+    "fullname": "Stephen Charles Booth",
+    "birth_place": "Leeds, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "First-class",
+    "debutdate1": "27 July",
+    "debutyear1": "1983",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "24 July",
+    "lastyear1": "1985",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3449/3449.html CricketArchive ",
+    "First-class": {
+        "matches": "33",
+        "runs": "202",
+        "bat avg": "10.63",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "6,512",
+        "wickets": "87",
+        "bowl avg": "36.31",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/26",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1983\u20131985"
+    },
+    "birth_date": "1963-10-30"
+}

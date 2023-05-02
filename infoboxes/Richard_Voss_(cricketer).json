@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Richard Zahn Hartwig Voss",
+    "birth_place": "Dunham, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Flixton, Lancashire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/22230.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "276",
+        "bat avg": "18.40",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1901&ndash;1903",
+        "London County": "1903",
+        "Cheshire": "1909&ndash;1914"
+    }
+}

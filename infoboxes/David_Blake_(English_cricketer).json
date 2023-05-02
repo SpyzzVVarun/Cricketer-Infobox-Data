@@ -1,0 +1,25 @@
+{
+    "name": "David Blake",
+    "country": "England",
+    "fullname": "David Eustace Blake",
+    "birth_place": "Havant, Hampshire, England",
+    "death_date": "2015",
+    "death_place": "Portchester, Hampshire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "family": "John Blake (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/9122.html Cricinfo ",
+    "First-class": {
+        "matches": "73",
+        "runs": "2,909",
+        "bat avg": "24.24",
+        "100s/50s": "2/20",
+        "top score": "100",
+        "catches/stumpings": "91/30"
+    },
+    "clubs": {
+        "Hampshire": "1949\u20131958",
+        "Marylebone Cricket Club": "1952\u20131961"
+    },
+    "birth_date": "1925-4-27"
+}

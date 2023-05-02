@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Uwera",
+    "female": "true",
+    "country": "Rwanda",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "T20Idebutdate": "26 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nigeria",
+    "T20Icap": "10",
+    "lastT20Idate": "18 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/1172640.html Cricinfo ",
+    "WT20I": {
+        "matches": "44",
+        "runs": "367",
+        "bat avg": "11.46",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "16/4"
+    },
+    "clubs": {},
+    "birth_date": "1996-6-1"
+}

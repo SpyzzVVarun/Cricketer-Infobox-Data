@@ -1,0 +1,40 @@
+{
+    "name": "Joydeep Mukherjee",
+    "country": "India",
+    "birth_place": "Calcutta, West Bengal, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/india/content/player/31276.html ESPNcricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "508",
+        "bat avg": "46.18",
+        "100s/50s": "0/4",
+        "top score": "79",
+        "deliveries": "919",
+        "wickets": "9",
+        "bowl avg": "54.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/31",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "258",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Bengal": "1987/88\u20131994/95"
+    },
+    "birth_date": "1967-2-5"
+}

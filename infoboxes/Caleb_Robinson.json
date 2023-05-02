@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Caleb Robinson",
+    "birth_place": "Otley, Yorkshire, England",
+    "death_date": "1906 (aged 77/78)",
+    "death_place": "Wharfedale, Yorkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "umpire": "true",
+    "fcumpired": "4",
+    "umpfcdebutyr": "1861",
+    "umpfclastyr": "1874",
+    "source": "http://www.espncricinfo.com/ci/content/player/19983.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "67",
+        "bat avg": "9.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "289",
+        "wickets": "13",
+        "bowl avg": "8.58",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1861&ndash;1862"
+    }
+}

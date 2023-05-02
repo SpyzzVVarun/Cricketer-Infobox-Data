@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Samuel Lowndes",
+    "birth_place": "Finsbury, Middlesex, England",
+    "death_date": "16 September 1903 (aged 77)",
+    "death_place": "Guildford, Surrey, England",
+    "family": "Richard Lowndes (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16823.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "33",
+        "bat avg": "8.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1846&ndash;1847"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Gordon Kinvig",
+    "country": "New Zealand",
+    "fullname": "James Gordon Kinvig",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1917",
+    "death_place": "Ploegsteert Wood, Belgium",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37573.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "40",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "88",
+        "wickets": "4",
+        "bowl avg": "17.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1909/10"
+    },
+    "birth_date": "1888-6-19"
+}

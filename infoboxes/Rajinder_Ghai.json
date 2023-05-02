@@ -1,0 +1,48 @@
+{
+    "name": "Rajinder Ghai",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/28808.html Cricinfo ",
+    "FC": {
+        "matches": "48",
+        "runs": "1196",
+        "bat avg": "28.47",
+        "100s/50s": "1/7",
+        "deliveries": "6352",
+        "wickets": "119",
+        "bowl avg": "32.21",
+        "fivefor": "6",
+        "tenfor": "&ndash;",
+        "best bowling": "7/110",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "ODIs": {
+        "matches": "6",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash; / &ndash;",
+        "top score": "1",
+        "deliveries": "275",
+        "wickets": "3",
+        "bowl avg": "86.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/38",
+        "catches/stumpings": "&ndash; / &ndash;"
+    },
+    "LA": {
+        "matches": "24",
+        "runs": "156",
+        "bat avg": "19.50",
+        "100s/50s": "&ndash; /1",
+        "deliveries": "1275",
+        "wickets": "32",
+        "bowl avg": "26.75",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/38",
+        "catches/stumpings": "5/ &ndash;"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Ella McCaughan",
+    "female": "true",
+    "fullname": "Ella May McCaughan",
+    "birth_place": "Southampton, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1860/1860389/1860389.html CricketArchive",
+    "WLA": {
+        "matches": "33",
+        "runs": "547",
+        "bat avg": "19.53",
+        "100s/50s": "0/3",
+        "top score": "72",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "WT20": {
+        "matches": "33",
+        "runs": "457",
+        "bat avg": "22.85",
+        "100s/50s": "0/1",
+        "deliveries": "52",
+        "wickets": "4",
+        "bowl avg": "15.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/6",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Sussex": "2018\u2013present",
+        "Southern Vipers": "2020\u2013present",
+        "Southern Brave": "2021\u2013present"
+    },
+    "birth_date": "2002-9-26"
+}

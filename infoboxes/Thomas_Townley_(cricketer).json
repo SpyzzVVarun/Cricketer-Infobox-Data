@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas Manners Townley",
+    "birth_place": "Fulbourn, Cambridgeshire, England",
+    "death_date": "1895",
+    "death_place": "Marylebone, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/cricketers/thomas-townley-22088 Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "96",
+        "bat avg": "5.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "?",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1847\u20131848",
+        "Cambridge University": "1847\u20131848"
+    }
+}

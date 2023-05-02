@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Coomb",
+    "country": "England",
+    "fullname": "Arthur Grenfell Coomb",
+    "birth_place": "Kempston, Bedfordshire, England",
+    "death_date": "2022",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/11296.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "55",
+        "bat avg": "9.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "628",
+        "wickets": "8",
+        "bowl avg": "40.12",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/61",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1956\u20131963",
+        "Minor Counties": "1951\u20131953",
+        "Bedfordshire": "1947\u20131955"
+    },
+    "birth_date": "1929-3-3"
+}

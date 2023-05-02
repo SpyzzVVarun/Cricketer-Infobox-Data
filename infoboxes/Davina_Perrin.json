@@ -1,0 +1,44 @@
+{
+    "name": "Davina Perrin",
+    "female": "true",
+    "fullname": "Davina Sarah T Perrin",
+    "birth_place": "Wolverhampton, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/2158/2158926/2158926.html CricketArchive",
+    "WLA": {
+        "matches": "9",
+        "runs": "229",
+        "bat avg": "25.44",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "36",
+        "wickets": "3",
+        "bowl avg": "12.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/26",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "15",
+        "runs": "272",
+        "bat avg": "30.22",
+        "100s/50s": "0/2",
+        "top score": "87",
+        "deliveries": "108",
+        "wickets": "6",
+        "bowl avg": "17.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/21",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "2021\u2013present",
+        "Central Sparks": "2021\u2013present",
+        "Birmingham Phoenix": "2022\u2013present"
+    },
+    "birth_date": "2006-9-8"
+}

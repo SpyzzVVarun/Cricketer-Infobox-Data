@@ -1,0 +1,27 @@
+{
+    "name": "Keith Gibbs",
+    "country": "South Africa",
+    "fullname": "Keith Lawley Gibbs",
+    "birth_place": "Bloemfontein, Orange Free State, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/45225.html Cricinfo",
+    "First-class": {
+        "matches": "32",
+        "runs": "481",
+        "bat avg": "14.14",
+        "100s/50s": "0/1",
+        "deliveries": "6883",
+        "wickets": "101",
+        "bowl avg": "27.44",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/79",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Orange Free State": "1951-52 to 1953-54",
+        "Transvaal": "1956-57 to 1959-60"
+    },
+    "birth_date": "1933-12-30"
+}

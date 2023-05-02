@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Bedford Thorneycroft",
+    "birth_place": "Litchborough, Northamptonshire, England",
+    "death_date": "1972",
+    "death_place": "Daventry, Northamptonshire, England",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/21812.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "1.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "25.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/14",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1899&ndash;1907"
+    },
+    "birth_date": "1879-7-27"
+}

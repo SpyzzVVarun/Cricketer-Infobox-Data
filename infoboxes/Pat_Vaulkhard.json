@@ -1,0 +1,38 @@
+{
+    "name": "Pat Vaulkhard",
+    "country": "England",
+    "fullname": "Patrick Vaulkhard",
+    "birth_place": "Nottingham, England",
+    "death_date": "1995",
+    "death_place": "Cambridge, England",
+    "batting": "Right-handed",
+    "role": "Batsman Occasional wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "12 May",
+    "debutyear1": "1934",
+    "debutfor1": "Nottinghamshire",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "23 July",
+    "lastyear1": "1952",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Players/33/33502/33502.html CricketArchive ",
+    "First-class": {
+        "matches": "77",
+        "runs": "2,460",
+        "bat avg": "21.39",
+        "100s/50s": "1/13",
+        "top score": "264",
+        "deliveries": "156",
+        "wickets": "1",
+        "bowl avg": "124.00",
+        "fivefor": "0",
+        "best bowling": "1/30",
+        "catches/stumpings": "64/4"
+    },
+    "clubs": {
+        "Nottinghamshire": "1934",
+        "Derbyshire": "1946\u20131952"
+    },
+    "birth_date": "1911-9-15"
+}

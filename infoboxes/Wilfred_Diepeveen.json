@@ -1,0 +1,40 @@
+{
+    "name": "Wilfred Diepeveen",
+    "country": "Netherlands",
+    "fullname": "Wilfred Diepeveen",
+    "birth_place": "Utrecht, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "role": "Batsman",
+    "oneodi": "yes",
+    "odidebutdate": "13 September",
+    "odidebutyear": "2011",
+    "odidebutfor": "Netherlands",
+    "odidebutagainst": "Kenya",
+    "source": "http://www.espncricinfo.com/icccont2010/content/current/player/420341.html CricInfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "3",
+        "runs": "171",
+        "bat avg": "34.20",
+        "100s/50s": "0/1",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "128",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1985-6-18"
+}

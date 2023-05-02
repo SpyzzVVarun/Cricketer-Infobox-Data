@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Grasett Clarke",
+    "birth_place": "Bridgetown, Saint Michael, Barbados",
+    "death_date": "df=yes",
+    "death_place": "St Pancras, London, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11635.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "24",
+        "bat avg": "3.42",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1840&ndash;1843",
+        "Marylebone Cricket Club": "1848"
+    }
+}

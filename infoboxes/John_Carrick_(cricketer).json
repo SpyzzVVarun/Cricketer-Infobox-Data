@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "John Carrick",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "death_date": "1916",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11026.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882"
+    }
+}

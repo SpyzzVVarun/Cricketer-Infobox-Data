@@ -1,0 +1,29 @@
+{
+    "name": "Joyce Bath",
+    "female": "yes",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "testdebutdate": "18 January",
+    "testdebutyear": "1957",
+    "testdebutagainst": "New Zealand",
+    "testcap": "44",
+    "lasttestdate": "21 March",
+    "lasttestyear": "1958",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53479.html Cricinfo ",
+    "WTest": {
+        "matches": "3",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "deliveries": "334",
+        "wickets": "7",
+        "bowl avg": "11.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "5/52",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

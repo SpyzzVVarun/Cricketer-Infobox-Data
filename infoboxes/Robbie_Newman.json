@@ -1,0 +1,28 @@
+{
+    "name": "rnew",
+    "country": "England",
+    "fullname": "Robbie James Newman",
+    "nickname": "Bigred",
+    "birth_place": "Birmingham, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/18241.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "60",
+        "wickets": "3",
+        "bowl avg": "16.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/48",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Devon": "2003&ndash;2008"
+    },
+    "birth_date": "1997-3-7"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Ella Wilson",
+    "female": "true",
+    "fullname": "Ella Josephine Wilson",
+    "birth_place": "Mount Barker, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/2614/2614065/2614065.html CricketArchive",
+    "WLA": {
+        "matches": "3",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "132",
+        "wickets": "3",
+        "bowl avg": "42.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {},
+    "clubs": {
+        "South Australia": "2022/23\u2013present",
+        "Adelaide Strikers": "2022/23\u2013present"
+    },
+    "birth_date": "2003-11-17"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Frederick Stephenson",
+    "birth_place": "Todmorden, Yorkshire, England",
+    "death_date": "July 1927 (aged 74)",
+    "death_place": "England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm roundarm Left-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/21018.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "32",
+        "wickets": "1",
+        "bowl avg": "17.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/17",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1875&ndash;1877"
+    }
+}

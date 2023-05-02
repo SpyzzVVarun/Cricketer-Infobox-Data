@@ -1,0 +1,29 @@
+{
+    "name": "Sidney Knott",
+    "country": "South Africa",
+    "birth_place": "Alice, Cape Province, South Africa",
+    "death_date": "2020",
+    "death_place": "East London, Eastern Cape, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Donald Knott (son)",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/45874.html Cricinfo ",
+    "First-class": {
+        "matches": "49",
+        "runs": "1222",
+        "bat avg": "14.37",
+        "100s/50s": "0/6",
+        "top score": "79",
+        "deliveries": "10,616",
+        "wickets": "194",
+        "bowl avg": "21.59",
+        "fivefor": "11",
+        "tenfor": "1",
+        "best bowling": "7/34",
+        "catches/stumpings": "19/0"
+    },
+    "clubs": {
+        "Border": "1951\u201352 to 1964\u201365"
+    },
+    "birth_date": "1933-8-12"
+}

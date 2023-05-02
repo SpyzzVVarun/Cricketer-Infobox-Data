@@ -1,0 +1,22 @@
+{
+    "name": "William Meldon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26837/26837.html CricketArchive",
+    "First-class": {
+        "matches": "8",
+        "runs": "208",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "692",
+        "wickets": "14",
+        "bowl avg": "24.14",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/53",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {}
+}

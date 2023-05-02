@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Charles Francis Buller",
+    "birth_place": "Colombo, Western Province,, British Ceylon",
+    "death_date": "df=yes",
+    "death_place": "Lyme Regis, Dorset, England",
+    "family": "William Buller (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/10134.html Cricinfo ",
+    "First-class": {
+        "matches": "90",
+        "runs": "3,140",
+        "bat avg": "21.80",
+        "100s/50s": "2/12",
+        "top score": "106",
+        "deliveries": "428",
+        "wickets": "12",
+        "bowl avg": "31.42",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/?",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1865&ndash;1877",
+        "Middlesex": "1865&ndash;1877"
+    }
+}

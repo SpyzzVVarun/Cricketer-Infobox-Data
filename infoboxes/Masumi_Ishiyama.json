@@ -1,0 +1,33 @@
+{
+    "name": "Masumi Ishiyama",
+    "female": "true",
+    "country": "Japan",
+    "fullname": "Masumi Ishiyama",
+    "birth_place": "Japan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "odidebutdate": "22 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Ireland",
+    "odicap": "12",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/55222.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1981-06-22"
+}

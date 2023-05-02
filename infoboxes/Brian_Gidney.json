@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Brian Bruce Gidney",
+    "birth_place": "Kingston upon Thames, London, England",
+    "death_date": "2019",
+    "death_place": "Subiaco, Western Australia, Australia",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/13603.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1963"
+    }
+}

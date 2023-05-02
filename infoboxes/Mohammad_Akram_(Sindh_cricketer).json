@@ -1,0 +1,29 @@
+{
+    "name": "Mohammad Akram",
+    "country": "Pakistan",
+    "birth_place": "Nawabshah, Sindh, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/41694.html Cricinfo",
+    "First-class": {
+        "matches": "14",
+        "runs": "634",
+        "bat avg": "25.36",
+        "100s/50s": "2/1",
+        "top score": "111",
+        "deliveries": "479",
+        "wickets": "6",
+        "bowl avg": "41.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/78",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Khairpur": "1968\u201369 to 1973\u201374",
+        "Sind": "1973\u201374",
+        "Sukkur": "1974\u201375 to 1984\u201385",
+        "Pakistan Universities": "1975\u201376"
+    },
+    "birth_date": "1956-4-12"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Charles Wilson",
+    "fullname": "Charles Geldart Wilson",
+    "nickname": "Gillie",
+    "birth_place": "Carngham, Australia",
+    "death_date": "1952",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/16/16874/16874.html CricketArchive ",
+    "First-class": {
+        "matches": "32",
+        "runs": "1,490",
+        "bat avg": "25.68",
+        "100s/50s": "3/3",
+        "top score": "188",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1894/95\u20131897/98",
+        "Otago": "1905/06\u20131911/12",
+        "Wellington": "1912/13\u20131919/20"
+    },
+    "birth_date": "1869-1-9"
+}

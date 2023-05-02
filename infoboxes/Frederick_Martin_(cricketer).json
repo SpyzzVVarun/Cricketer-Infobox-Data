@@ -1,0 +1,52 @@
+{
+    "name": "Frederick Martin",
+    "country": "England",
+    "fullname": "Frederick Martin",
+    "nickname": "Nutty",
+    "birth_place": "Dartford, Kent",
+    "death_date": "1921",
+    "death_place": "Dartford, Kent",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "testdebutdate": "11 August",
+    "testdebutyear": "1890",
+    "testdebutagainst": "Australia",
+    "testcap": "70",
+    "lasttestdate": "22 March",
+    "lasttestyear": "1892",
+    "lasttestagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/england/content/player/16918.html CricInfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "410",
+        "wickets": "14",
+        "bowl avg": "10.07",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "6/50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "317",
+        "runs": "4,545",
+        "bat avg": "12.15",
+        "100s/50s": "0/8",
+        "top score": "90",
+        "deliveries": "67,794",
+        "wickets": "1,317",
+        "bowl avg": "17.38",
+        "fivefor": "95",
+        "tenfor": "23",
+        "best bowling": "8/45",
+        "catches/stumpings": "120/\u2013"
+    },
+    "clubs": {
+        "Kent": "1885\u20131899",
+        "MCC": "1886\u20131900"
+    },
+    "birth_date": "1861-10-12"
+}

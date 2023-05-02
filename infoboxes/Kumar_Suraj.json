@@ -1,0 +1,36 @@
+{
+    "name": "Kumar Suraj",
+    "fullname": "Kumar Suraj Prasad",
+    "birth_place": "Jamshedpur, Jharkhand, India",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/1206491.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "457",
+        "bat avg": "57.12",
+        "100s/50s": "2/2",
+        "top score": "107",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "India Emerging Team": "2019",
+        "Jharkhand": "2020-present"
+    },
+    "birth_date": "1997-3-16"
+}

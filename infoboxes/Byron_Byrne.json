@@ -1,0 +1,27 @@
+{
+    "country": "Australia",
+    "fullname": "Byron Walter Byrne",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/9340.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "1,048",
+        "bat avg": "26.87",
+        "100s/50s": "\u2013/3",
+        "top score": "94",
+        "deliveries": "2,239",
+        "wickets": "19",
+        "bowl avg": "71.15",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/69",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1997&ndash;2000",
+        "Oxford Universities": "2000"
+    },
+    "birth_date": "1972-2-15"
+}

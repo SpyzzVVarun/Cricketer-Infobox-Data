@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Henry John Torre",
+    "birth_place": "Doncaster, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Norton Lindsey, Warwickshire, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/22085.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "123",
+        "bat avg": "11.18",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1839",
+        "Oxford University": "1839&ndash;1841"
+    }
+}

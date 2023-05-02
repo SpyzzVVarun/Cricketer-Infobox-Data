@@ -1,0 +1,49 @@
+{
+    "name": "Gareth Roderick",
+    "country": "South Africa",
+    "fullname": "Gareth Hugh Roderick",
+    "birth_place": "Durban, Natal Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "24 March",
+    "debutyear1": "2011",
+    "debutfor1": "KZN",
+    "debutagainst1": "Free State",
+    "type2": "LA",
+    "debutdate2": "27 March",
+    "debutyear2": "2011",
+    "debutfor2": "KZN",
+    "debutagainst2": "Free State",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/436686.html ESPNcricinfo ",
+    "FC": {
+        "matches": "115",
+        "runs": "5,516",
+        "bat avg": "35.13",
+        "100s/50s": "8/33",
+        "catches/stumpings": "309/6"
+    },
+    "LA": {
+        "matches": "64",
+        "runs": "1,425",
+        "bat avg": "29.68",
+        "100s/50s": "2/9",
+        "top score": "104",
+        "catches/stumpings": "56/6"
+    },
+    "T20": {
+        "matches": "48",
+        "runs": "262",
+        "bat avg": "13.10",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "27/1"
+    },
+    "clubs": {
+        "KwaZulu-Natal": "2011\u20132012",
+        "Gloucestershire( 17 )": "2013\u20132020",
+        "Worcestershire( 9 )": "2021\u20132022"
+    },
+    "birth_date": "1991-8-29"
+}

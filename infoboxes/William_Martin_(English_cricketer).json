@@ -1,0 +1,28 @@
+{
+    "name": "William Martin",
+    "country": "England",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1871",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/16926.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1867"
+    },
+    "birth_date": "1844-2-19"
+}

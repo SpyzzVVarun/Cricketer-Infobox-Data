@@ -1,0 +1,27 @@
+{
+    "name": "Rusi Jeejeebhoy",
+    "country": "India",
+    "fullname": "Rusi Ardeshir Jeejeebhoy",
+    "birth_place": "Calcutta, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/29926.html Cricinfo ",
+    "First-class": {
+        "matches": "46",
+        "runs": "496",
+        "bat avg": "10.33",
+        "100s/50s": "0/0",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "31.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/22",
+        "catches/stumpings": "104/30"
+    },
+    "clubs": {
+        "Bengal": "1965-66 to 1972-73",
+        "East Zone": "1970-71 to 1973-74"
+    },
+    "birth_date": "1942-12-2"
+}

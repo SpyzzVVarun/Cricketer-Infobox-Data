@@ -1,0 +1,40 @@
+{
+    "name": "Jim Foat",
+    "fullname": "James Clive Foat",
+    "birth_place": "Salford Priors, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm Medium",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/13104.html Cricinfo ",
+    "FC": {
+        "matches": "91",
+        "runs": "2512",
+        "bat avg": "18.60",
+        "100s/50s": "5/6",
+        "top score": "126",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "39"
+    },
+    "List A": {
+        "matches": "129",
+        "runs": "1352",
+        "bat avg": "15.19",
+        "100s/50s": "0/3",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "35"
+    },
+    "clubs": {
+        "Gloucestershire": "1972\u20131979"
+    },
+    "birth_date": "1952-11-21"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Harold Jackson",
+    "country": "Ireland",
+    "birth_place": "Belfast, Ireland",
+    "death_date": "1979",
+    "death_place": "Belfast, Northern Ireland",
+    "family": "Finlay Jackson (brother)",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/24407.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "65",
+        "bat avg": "65.00",
+        "100s/50s": "0/1",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "35.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/35",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1923"
+    }
+}

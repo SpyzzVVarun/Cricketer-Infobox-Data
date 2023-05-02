@@ -1,0 +1,54 @@
+{
+    "name": "Richard Jones",
+    "country": "New Zealand",
+    "fullname": "Richard Andrew Jones",
+    "birth_place": "Auckland, New Zealand",
+    "onetest": "true",
+    "testdebutdate": "26 December",
+    "testdebutyear": "2003",
+    "testdebutagainst": "Pakistan",
+    "testcap": "223",
+    "odidebutdate": "29 November",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "131",
+    "lastodidate": "7 December",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Pakistan",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37494.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "168",
+        "bat avg": "33.60",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "124",
+        "runs": "7,254",
+        "bat avg": "35.73",
+        "100s/50s": "19/33",
+        "top score": "201",
+        "catches/stumpings": "106/\u2013"
+    },
+    "LA": {
+        "matches": "132",
+        "runs": "3,212",
+        "bat avg": "25.90",
+        "100s/50s": "1/16",
+        "top score": "108",
+        "catches/stumpings": "36/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1973-10-22"
+}

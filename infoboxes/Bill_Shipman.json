@@ -1,0 +1,38 @@
+{
+    "name": "Bill Shipman",
+    "country": "England",
+    "fullname": "William Shipman",
+    "birth_place": "Ratby, England",
+    "death_date": "1943",
+    "death_place": "Ratby, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "First-class",
+    "debutdate1": "13 July",
+    "debutyear1": "1908",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Essex",
+    "lastdate1": "30 July",
+    "lastyear1": "1921",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Northamptonshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32737/32737.html Cricket Archive ",
+    "FC": {
+        "matches": "111",
+        "runs": "2474",
+        "bat avg": "14.30",
+        "100s/50s": "0/6",
+        "top score": "69",
+        "deliveries": "16647",
+        "wickets": "366",
+        "bowl avg": "27.21",
+        "fivefor": "16",
+        "tenfor": "3",
+        "best bowling": "9/83",
+        "catches/stumpings": "82/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1908&ndash;1921"
+    },
+    "birth_date": "1886-3-1"
+}

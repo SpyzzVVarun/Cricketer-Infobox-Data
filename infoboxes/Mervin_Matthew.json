@@ -1,0 +1,54 @@
+{
+    "name": "Mervin Matthew",
+    "birth_place": "Dominica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/super50-2017/content/player/52621.html ",
+    "FC": {
+        "matches": "47",
+        "runs": "811",
+        "bat avg": "14.48",
+        "100s/50s": "0/1",
+        "top score": "73",
+        "deliveries": "6,711",
+        "wickets": "121",
+        "bowl avg": "20.38",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/81",
+        "catches/stumpings": "24/\u2013"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "200",
+        "bat avg": "9.52",
+        "100s/50s": "0/0",
+        "deliveries": "1,599",
+        "wickets": "51",
+        "bowl avg": "22.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/38",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "70",
+        "bat avg": "7.77",
+        "100s/50s": "0/0",
+        "deliveries": "330",
+        "wickets": "17",
+        "bowl avg": "24.23",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/15",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Windward Islands": "2005/06\u20132016/17",
+        "St Lucia Zouks": "2014",
+        "Leeward Islands": "2017/18"
+    },
+    "birth_date": "1985-9-23"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Prithvi Shaw",
+    "country": "India",
+    "fullname": "Prithvi Pankaj Shaw",
+    "birth_place": "Thane, Maharashtra, India",
+    "height": "5 ft 4 in",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Opening batter",
+    "internationalspan": "2018\u20132021",
+    "testdebutdate": "4 October",
+    "testdebutyear": "2018",
+    "testdebutagainst": "West Indies",
+    "testcap": "293",
+    "lasttestdate": "17 December",
+    "lasttestyear": "2020",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "5 February",
+    "odidebutyear": "2020",
+    "odidebutagainst": "New Zealand",
+    "odicap": "231",
+    "lastodidate": "23 July",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Sri Lanka",
+    "oneT20I": "true",
+    "T20Idebutdate": "25 July",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "87",
+    "lastT20Idate": "25 July",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/india/content/player/1070168.html ESPNcricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "339",
+        "bat avg": "42.37",
+        "100s/50s": "1/2",
+        "top score": "134",
+        "catches/stumpings": "2/\u2013"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "189",
+        "bat avg": "31.50",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20I": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "41",
+        "runs": "3623",
+        "bat avg": "51.76",
+        "100s/50s": "12/15",
+        "top score": "379",
+        "catches/stumpings": "28/-"
+    },
+    "clubs": {
+        "Mumbai": "2016/17\u2013present",
+        "Delhi Capitals": "2018\u2013present"
+    },
+    "birth_date": "1999-11-09"
+}

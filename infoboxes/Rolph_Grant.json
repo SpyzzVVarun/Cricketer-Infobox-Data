@@ -1,0 +1,51 @@
+{
+    "name": "Rolph Grant",
+    "fullname": "Rolph Stewart Grant",
+    "birth_place": "Port of Spain, Trinidad",
+    "death_date": "df=yes",
+    "death_place": "Oakville, Ontario, Canada",
+    "family": "Fred Grant (brother), Lindsay Grant (brother), Jackie Grant (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "country": "West Indies",
+    "testdebutagainst": "England",
+    "testdebutdate": "8 January",
+    "testdebutyear": "1935",
+    "lasttestdate": "19 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1939",
+    "source": "http://content.cricinfo.com/westindies/content/player/51897.html CricInfo",
+    "Test": {
+        "matches": "7",
+        "runs": "220",
+        "bat avg": "22.00",
+        "100s/50s": "0/1",
+        "top score": "77",
+        "deliveries": "353",
+        "wickets": "11",
+        "bowl avg": "32.09",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/68",
+        "catches/stumpings": "13/0"
+    },
+    "First-class": {
+        "matches": "48",
+        "runs": "1,883",
+        "bat avg": "28.53",
+        "100s/50s": "1/10",
+        "top score": "152",
+        "deliveries": "1,989",
+        "wickets": "79",
+        "bowl avg": "25.17",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/41",
+        "catches/stumpings": "66/0"
+    },
+    "clubs": {
+        "Cambridge University": "1932 to 1933",
+        "Trinidad": "1933\u201334 to 1938\u201339"
+    },
+    "birth_date": "1909-12-15"
+}

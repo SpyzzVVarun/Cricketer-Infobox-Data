@@ -1,0 +1,30 @@
+{
+    "name": "Swaranjit Singh",
+    "country": "India",
+    "birth_place": "Amritsar, Punjab, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/34/34200/34200.html CricketArchive ",
+    "First-class": {
+        "matches": "88",
+        "runs": "3,709",
+        "bat avg": "27.07",
+        "100s/50s": "4/19",
+        "top score": "145",
+        "deliveries": "13,525",
+        "wickets": "183",
+        "bowl avg": "29.89",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "6/20",
+        "catches/stumpings": "33/0"
+    },
+    "clubs": {
+        "Eastern Punjab": "1950-51 to 1958-59",
+        "North Zone": "1951-52 to 1958-59",
+        "Cambridge University": "1954 to 1956",
+        "Warwickshire": "1956 to 1958",
+        "Bengal": "1959-60 to 1961-62"
+    },
+    "birth_date": "1932-7-18"
+}

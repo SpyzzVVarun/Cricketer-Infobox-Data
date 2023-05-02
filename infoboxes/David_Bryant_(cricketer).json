@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "David John Bryant",
+    "birth_place": "Wandsworth, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/10110.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "624",
+        "wickets": "8",
+        "bowl avg": "52.87",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1970&ndash;1971"
+    },
+    "birth_date": "1950-10-29"
+}

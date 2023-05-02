@@ -1,0 +1,30 @@
+{
+    "name": "George Wenman",
+    "birth_place": "Benenden, Kent",
+    "death_date": "df=yes",
+    "death_place": "Brookland, Kent",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "family": "John Wenman (brother)",
+    "type1": "FC",
+    "debutdate1": "27 June",
+    "debutyear1": "1825",
+    "debutfor1": "Kent XI",
+    "debutagainst1": "Sussex XI",
+    "lastdate1": "12 August",
+    "lastyear1": "1834",
+    "lastfor1": "Kent XI",
+    "lastagainst1": "England XI",
+    "source": "https://www.espncricinfo.com/player/george-wenman-23364 CricInfo",
+    "First-class": {
+        "matches": "9",
+        "runs": "66",
+        "bat avg": "4.40",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Kent XI": "1825\u20131834"
+    },
+    "birth_date": "1805-10-27"
+}

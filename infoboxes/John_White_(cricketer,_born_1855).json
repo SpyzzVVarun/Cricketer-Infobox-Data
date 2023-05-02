@@ -1,0 +1,23 @@
+{
+    "fullname": "John White",
+    "birth_place": "Bulwell, Nottinghamshire,, England",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/22912.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "73",
+        "bat avg": "18.25",
+        "100s/50s": "&ndash;/1",
+        "top score": "62",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/2"
+    },
+    "clubs": {}
+}

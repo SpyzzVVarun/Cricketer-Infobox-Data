@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Gribben Hill",
+    "birth_place": "Kilmarnock, Ayrshire, Scotland",
+    "death_date": "2017",
+    "death_place": "Kilmarnock, Ayrshire, Scotland",
+    "batting": "Left-handed",
+    "source": "https://www.espncricinfo.com/player/robert-hills-14825 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "105",
+        "bat avg": "11.66",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1963&ndash;1969"
+    }
+}

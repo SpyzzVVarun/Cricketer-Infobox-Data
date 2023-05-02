@@ -1,0 +1,42 @@
+{
+    "name": "Frances Leonard  |fullname =  Frances Jane Leonard",
+    "country": "Australia",
+    "female": "true",
+    "batting": "Right-hand bat",
+    "bowling": "Right arm Medium Right arm Medium pace",
+    "oneodi": "true",
+    "odidebutdate": "23 January",
+    "odidebutyear": "1986",
+    "odidebutagainst": "New Zealand",
+    "odicap": "52",
+    "source": "http://www.espncricinfo.com/ci/content/player/53601.html Cricinfo  ",
+    "ODIs": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "80",
+        "bat avg": "8.88",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "762",
+        "wickets": "7",
+        "bowl avg": "45.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/45",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {}
+}

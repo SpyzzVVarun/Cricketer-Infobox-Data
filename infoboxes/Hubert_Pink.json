@@ -1,0 +1,37 @@
+{
+    "name": "Hubert Pink",
+    "country": "England",
+    "fullname": "Hubert Selwyn Pink",
+    "birth_place": "Chapel-en-le-Frith, Derbyshire, England",
+    "death_date": "1946",
+    "death_place": "Chapel-en-le-Frith, Derbyshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "10 May",
+    "debutyear1": "1900",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "21 May",
+    "lastyear1": "1900",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Players/32/32086/32086.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "24",
+        "bat avg": "4.80",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1900"
+    },
+    "birth_date": "1878-11-12"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Daisy Mullan",
+    "female": "true",
+    "fullname": "Daisy Elizabeth Mullan",
+    "birth_place": "Bolton, Greater Manchester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1860/1860410/1860410.html CricketArchive",
+    "WLA": {
+        "matches": "8",
+        "runs": "61",
+        "bat avg": "7.62",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "17",
+        "runs": "180",
+        "bat avg": "13.84",
+        "100s/50s": "0/0",
+        "deliveries": "150",
+        "wickets": "5",
+        "bowl avg": "32.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2020\u2013present",
+        "North West Thunder": "2020\u2013present",
+        "North Representative XI": "2021",
+        "Cumbria": "2022\u2013present",
+        "Manchester Originals": "2022\u2013present"
+    },
+    "birth_date": "2002-11-29"
+}

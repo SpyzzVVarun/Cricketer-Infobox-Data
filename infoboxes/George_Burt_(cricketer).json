@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "George Peter Burt",
+    "birth_place": "Dennistoun, Lanarkshire, Scotland",
+    "death_date": "1935",
+    "death_place": "Bieldside, Aberdeenshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/george-burt-25162 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1924&ndash;1925"
+    }
+}

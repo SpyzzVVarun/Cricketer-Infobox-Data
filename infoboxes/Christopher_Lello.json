@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Christopher Paul Lello",
+    "birth_place": "Penzance, Cornwall, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/16256.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "37",
+        "bat avg": "12.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "20",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "55.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/43",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Cornwall": "1994-2000"
+    },
+    "birth_date": "1971-3-23"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Daniel Redfern",
+    "country": "England",
+    "fullname": "Daniel James Redfern",
+    "birth_place": "Shrewsbury, Shropshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/119/119865/119865.html CricketArchive ",
+    "FC": {
+        "matches": "85",
+        "runs": "3,905",
+        "bat avg": "28.71",
+        "100s/50s": "2/29",
+        "top score": "133",
+        "deliveries": "1,364",
+        "wickets": "21",
+        "bowl avg": "38.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "41/\u2013"
+    },
+    "LA": {
+        "matches": "50",
+        "runs": "765",
+        "bat avg": "19.61",
+        "100s/50s": "0/3",
+        "deliveries": "424",
+        "wickets": "9",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "16",
+        "runs": "117",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "201",
+        "wickets": "10",
+        "bowl avg": "24.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/17",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Derbyshire( 19 )": "2006\u20132013",
+        "Leicestershire( 6 )": "2014\u20132015"
+    },
+    "birth_date": "1990-04-18"
+}

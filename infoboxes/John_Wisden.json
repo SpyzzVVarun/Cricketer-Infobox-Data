@@ -1,0 +1,34 @@
+{
+    "name": "John Wisden",
+    "country": "England",
+    "fullname": "John Wisden",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "1884",
+    "death_place": "Westminster, London, England",
+    "heightft": "5",
+    "heightinch": "4",
+    "batting": "Right-handed",
+    "bowling": "Underarm right arm Underarm right arm slow",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/34/34003/34003.html CricketArchive ",
+    "First-class": {
+        "matches": "187",
+        "runs": "4,140",
+        "bat avg": "14.12",
+        "100s/50s": "2/9",
+        "top score": "148",
+        "deliveries": "24,205",
+        "wickets": "1,109",
+        "bowl avg": "10.32",
+        "fivefor": "111",
+        "tenfor": "39",
+        "best bowling": "10/58",
+        "catches/stumpings": "169/1"
+    },
+    "clubs": {
+        "Sussex": "1845\u20131863",
+        "Kent": "1854",
+        "Middlesex": "1859\u20131863"
+    },
+    "birth_date": "1826-9-5"
+}

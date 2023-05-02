@@ -1,0 +1,29 @@
+{
+    "name": "Albert Atkins",
+    "nickname": "Rocco",
+    "birth_place": "Sydney, Australia",
+    "death_date": "1943",
+    "death_place": "Sydney, Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/3998.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "398",
+        "bat avg": "18.95",
+        "100s/50s": "0/3",
+        "top score": "82",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Queensland": "1895-96 to 1905-06",
+        "New South Wales": "1896-97"
+    },
+    "birth_date": "1867-3-26"
+}

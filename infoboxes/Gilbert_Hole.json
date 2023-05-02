@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Gilbert Lindsay Douglas Hole",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1967",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/gilbert-hole-25240 Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "260",
+        "bat avg": "17.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "1,013",
+        "wickets": "27",
+        "bowl avg": "16.66",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/20",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1910&ndash;1926"
+    }
+}

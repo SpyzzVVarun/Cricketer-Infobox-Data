@@ -1,0 +1,55 @@
+{
+    "name": "Abhimanyu Khod",
+    "country": "India",
+    "fullname": "Abhimanyu Anil Khod",
+    "height": "|birth_date     = birth_place    = Sirsa, Haryana, India |death_date     =  |death_place",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/australia/content/player/725439.html ESPNcricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "847",
+        "bat avg": "20.16",
+        "100s/50s": "0/3",
+        "top score": "74",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "LA": {
+        "matches": "8",
+        "runs": "110",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "71",
+        "bat avg": "14.20",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Haryana": "2011\u20132015"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Francis Lyndon Evelyn",
+    "birth_place": "Presteigne, Radnorshire, Wales",
+    "death_date": "df=yes",
+    "death_place": "Kinsham, Herefordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12699.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "3.30",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1880&ndash;1881"
+    }
+}

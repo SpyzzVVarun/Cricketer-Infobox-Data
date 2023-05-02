@@ -1,0 +1,27 @@
+{
+    "name": "Neil Ferreira",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "country": "Zimbabwe",
+    "onetest": "true",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "7 August",
+    "testdebutyear": "2005",
+    "source": "http://www.espncricinfo.com/ci/content/player/55421.html ESPNcricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "40",
+        "runs": "2515",
+        "bat avg": "34.93",
+        "100s/50s": "9/8",
+        "catches/stumpings": "84/8"
+    },
+    "clubs": {}
+}

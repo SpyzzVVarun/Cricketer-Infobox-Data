@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Matthew Robert Evans",
+    "birth_place": "Gravesend, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12539.html Cricinfo ",
+    "List A": {
+        "matches": "8",
+        "runs": "137",
+        "bat avg": "22.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "235",
+        "wickets": "8",
+        "bowl avg": "33.62",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/64",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "British Universities": "1996",
+        "Hertfordshire": "1993\u20132002"
+    },
+    "birth_date": "1974-11-27"
+}

@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "Dennis Frank Cox",
+    "birth_place": "Bermondsey, London, England",
+    "death_date": "2001",
+    "death_place": "Chislehurst, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11377.html Cricinfo ",
+    "First-class": {
+        "matches": "42",
+        "runs": "660",
+        "bat avg": "18.85",
+        "100s/50s": "\u2013/4",
+        "top score": "57",
+        "deliveries": "4,865",
+        "wickets": "68",
+        "bowl avg": "34.05",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/22",
+        "catches/stumpings": "39/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "78",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1961\u20131967",
+        "Surrey": "1949\u20131957"
+    },
+    "birth_date": "1925-12-21"
+}

@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Peter Henry Twizell",
+    "birth_place": "Rothbury, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21992.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "235",
+        "wickets": "2",
+        "bowl avg": "68.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/65",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "258",
+        "wickets": "8",
+        "bowl avg": "29.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/47",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Northumberland": "1978&ndash;1984",
+        "Gloucestershire": "1985&ndash;1986"
+    },
+    "birth_date": "1959-6-18"
+}

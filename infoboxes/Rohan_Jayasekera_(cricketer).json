@@ -1,0 +1,60 @@
+{
+    "name": "Rohan Jayasekera ,  \u0dbb\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0da2\u0dba\u0dc3\u0dda\u0d9a\u0dbb",
+    "country": "Sri Lanka",
+    "country2": "Canada",
+    "fullname": "Rohan Stanley Amarasiriwardene Jayasekera",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Shantha Jayasekera (brother)",
+    "internationalspan": "1982",
+    "onetest": "true",
+    "testdebutfor": "Sri Lanka",
+    "testdebutdate": "22 March",
+    "testdebutyear": "1982",
+    "testdebutagainst": "Pakistan",
+    "testcap": "13",
+    "odidebutfor": "Sri Lanka",
+    "odidebutdate": "13 February",
+    "odidebutyear": "1982",
+    "odidebutagainst": "England",
+    "odicap": "21",
+    "lastodifor": "Sri Lanka",
+    "lastodidate": "12 March",
+    "lastodiyear": "1982",
+    "lastodiagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/49206.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/0"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "8",
+        "runs": "356",
+        "bat avg": "29.66",
+        "100s/50s": "0/3",
+        "catches/stumpings": "6/2"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {},
+    "birth_date": "1957-12-7"
+}

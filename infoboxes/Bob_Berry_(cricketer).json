@@ -1,0 +1,50 @@
+{
+    "name": "Bob Berry",
+    "country": "England",
+    "fullname": "Robert Berry",
+    "birth_place": "Gorton, Manchester, Lancashire, England",
+    "death_date": "2006",
+    "death_place": "Manchester, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "8 June",
+    "testdebutyear": "1950",
+    "lasttestdate": "24 June",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1950",
+    "source": "https://cricketarchive.com/Archive/Players/0/870/870.html CricketArchive ",
+    "Test": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "deliveries": "653",
+        "wickets": "9",
+        "bowl avg": "25.33",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/63",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "273",
+        "runs": "1,463",
+        "bat avg": "7.58",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "50,680",
+        "wickets": "703",
+        "bowl avg": "24.73",
+        "fivefor": "34",
+        "tenfor": "5",
+        "best bowling": "10/102",
+        "catches/stumpings": "138/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1948\u20131964",
+        "Worcestershire": "1955\u20131958",
+        "Derbyshire": "1959\u20131962"
+    },
+    "birth_date": "1926-1-29"
+}

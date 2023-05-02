@@ -1,0 +1,61 @@
+{
+    "name": "Craig Simmons",
+    "fullname": "Craig Joseph Simmons",
+    "birth_place": "Paddington, New South Wales, Australia",
+    "nickname": "Simmo",
+    "heightm": "1.70",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "role": "Batsman",
+    "country": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/44/44276/44276.html CricketArchive",
+    "FC": {
+        "matches": "7",
+        "runs": "187",
+        "bat avg": "15.58",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "72.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/37",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "501",
+        "bat avg": "23.85",
+        "100s/50s": "0/3",
+        "top score": "98",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "29",
+        "runs": "711",
+        "bat avg": "25.39",
+        "100s/50s": "2/0",
+        "top score": "112",
+        "deliveries": "84",
+        "wickets": "3",
+        "bowl avg": "29.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/26",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2008/09\u20132014/15",
+        "New South Wales": "2005/06\u20132006/07",
+        "Perth Scorchers": "2013/14\u20132014/15",
+        "Adelaide Strikers": "2014/15\u20132015/16"
+    },
+    "birth_date": "1982-12-01"
+}

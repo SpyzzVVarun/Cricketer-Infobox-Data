@@ -1,0 +1,28 @@
+{
+    "name": "Lee Pollard",
+    "country": "England",
+    "fullname": "Lee Gordon Pollard",
+    "birth_place": "Kettering, Northamptonshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18558.html Cricinfo ",
+    "LA": {
+        "matches": "5",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "288",
+        "wickets": "8",
+        "bowl avg": "29.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/33",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Leicestershire Cricket Board": "1999\u20132001",
+        "Bedfordshire": "2003\u20132006"
+    },
+    "birth_date": "1979-5-26"
+}

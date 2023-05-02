@@ -1,0 +1,25 @@
+{
+    "name": "Surinder Khanna",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Wicketkeeper",
+    "source": "http://content-ind.cricinfo.com/ci/content/player/30077.html ",
+    "Tests": {
+        "matches": "0"
+    },
+    "ODIs": {
+        "matches": "10",
+        "runs": "176",
+        "bat avg": "22.00",
+        "100s/50s": "-/2",
+        "top score": "56",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "4/4"
+    },
+    "clubs": {}
+}

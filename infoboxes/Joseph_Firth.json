@@ -1,0 +1,24 @@
+{
+    "embed": "yes",
+    "height": "6",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/37044.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "199",
+        "bat avg": "19.90",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "wickets": "32",
+        "bowl avg": "8.06",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "8/13",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Nelson": "1880\u201381",
+        "Wellington": "1882\u201383 to 1885\u201386"
+    }
+}

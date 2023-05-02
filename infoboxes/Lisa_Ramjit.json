@@ -1,0 +1,32 @@
+{
+    "name": "Lisa Ramjit",
+    "female": "true",
+    "country": "United States",
+    "fullname": "Lisa Ramjit",
+    "birth_place": "Washington, D.C.",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "17 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "8",
+    "lastT20Idate": "18 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Scotland",
+    "source": "http://www.espncricinfo.com/ci/content/player/1184546.html Cricinfo ",
+    "WT20I": {
+        "matches": "14",
+        "runs": "137",
+        "bat avg": "27.40",
+        "100s/50s": "0/0",
+        "deliveries": "150",
+        "wickets": "7",
+        "bowl avg": "13.28",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/11",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2004-10-1"
+}

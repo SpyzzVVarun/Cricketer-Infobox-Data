@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "John Perkins",
+    "birth_place": "Sawston, Cambridgeshire, England",
+    "death_date": "1901",
+    "death_place": "East Hatley, Cambridgeshire, England",
+    "family": "Henry Perkins (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/18904.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "440",
+        "bat avg": "18.33",
+        "100s/50s": "\u2013/3",
+        "top score": "67",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1861&ndash;1867",
+        "Marylebone Cricket Club": "1863&ndash;1868"
+    }
+}

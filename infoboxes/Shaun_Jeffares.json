@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Alfred Shaun Jeffares",
+    "birth_place": "Komga, Cape Province, South Africa",
+    "death_date": "1997",
+    "death_place": "Drinagh, Munster, Ireland",
+    "family": "Edward Jeffares (brother)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24577.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "162",
+        "wickets": "2",
+        "bowl avg": "36.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/72",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dublin University": "1926"
+    }
+}

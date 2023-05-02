@@ -1,0 +1,29 @@
+{
+    "name": "Dwain Alan Winter",
+    "country": "England",
+    "fullname": "Dwain Alan Winter",
+    "birth_place": "Devizes, Wiltshire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/22483.html Cricinfo ",
+    "LA": {
+        "matches": "5",
+        "runs": "73",
+        "bat avg": "18.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wiltshire": "1994-2001"
+    },
+    "birth_date": "1964-3-28"
+}

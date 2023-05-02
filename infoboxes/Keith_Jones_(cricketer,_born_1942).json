@@ -1,0 +1,40 @@
+{
+    "name": "Keith Jones",
+    "country": "England",
+    "fullname": "Keith Vaughan Jones",
+    "birth_place": "Park Royal, Middlesex",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15730.html Cricinfo ",
+    "First-class": {
+        "matches": "118",
+        "runs": "2,064",
+        "bat avg": "17.20",
+        "100s/50s": "0/6",
+        "deliveries": "14,981",
+        "wickets": "242",
+        "bowl avg": "27.28",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "7/52",
+        "catches/stumpings": "49/\u2013"
+    },
+    "List A": {
+        "matches": "114",
+        "runs": "900",
+        "bat avg": "12.16",
+        "100s/50s": "0/0",
+        "deliveries": "5,250",
+        "wickets": "122",
+        "bowl avg": "25.94",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/28",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1967\u20131974",
+        "Bedfordshire": "1975\u20131989"
+    },
+    "birth_date": "1942-3-28"
+}

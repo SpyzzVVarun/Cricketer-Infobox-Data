@@ -1,0 +1,40 @@
+{
+    "country": "Scotland",
+    "fullname": "Thomas MacMillan Black",
+    "birth_place": "Greenock, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/player/25152.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "88",
+        "bat avg": "44.00",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "83",
+        "bat avg": "16.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "54",
+        "wickets": "2",
+        "bowl avg": "25.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/34",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1979&ndash;1985"
+    },
+    "birth_date": "1956-2-7"
+}

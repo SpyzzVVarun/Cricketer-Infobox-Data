@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Newman",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/18212.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {}
+}

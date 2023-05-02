@@ -1,0 +1,68 @@
+{
+    "name": "Adnan Akmal",
+    "fullname": "Adnan Akmal",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "heightm": "1.65",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "family": "Kamran Akmal (brother)",
+    "internationalspan": "2010\u20132013",
+    "country": "Pakistan",
+    "testcap": "203",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "12 November",
+    "testdebutyear": "2010",
+    "lasttestagainst": "South Africa",
+    "lasttestdate": "23 October",
+    "lasttestyear": "2013",
+    "odicap": "186",
+    "odidebutagainst": "Zimbabwe",
+    "odidebutdate": "8 September",
+    "odidebutyear": "2011",
+    "lastodiagainst": "England",
+    "lastodidate": "21 February",
+    "lastodiyear": "2012",
+    "source": "http://www.cricinfo.com/ci/content/player/39038.html ESPNcricinfo",
+    "Test": {
+        "matches": "21",
+        "runs": "591",
+        "bat avg": "24.62",
+        "100s/50s": "0/3",
+        "top score": "64",
+        "catches/stumpings": "66/11"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "62",
+        "bat avg": "20.66",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "3/0"
+    },
+    "FC": {
+        "matches": "170",
+        "runs": "6,519",
+        "bat avg": "29.10",
+        "100s/50s": "9/34",
+        "catches/stumpings": "546/32"
+    },
+    "LA": {
+        "matches": "101",
+        "runs": "1,629",
+        "bat avg": "23.60",
+        "100s/50s": "0/6",
+        "catches/stumpings": "112/33"
+    },
+    "clubs": {
+        "SNGPL": "2007\u2013present",
+        "Lahore Ravi": "2006\u20132007",
+        "ZTBL": "2003\u20132007",
+        "Multan": "2005\u20132006",
+        "Lahore Blues": "2004\u20132005",
+        "Lahore": "2003\u20132004",
+        "Lahore Eagles": "2005\u2013present",
+        "Southern Punjab": "2019\u2013present"
+    },
+    "birth_date": "1985-3-13"
+}

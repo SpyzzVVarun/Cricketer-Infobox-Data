@@ -1,0 +1,38 @@
+{
+    "name": "Mick Harvey",
+    "fullname": "Clarence Edgar Harvey",
+    "birth_place": "Newcastle, New South Wales, Australia",
+    "death_date": "2016",
+    "death_place": "Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "family": "Merv Harvey (brother)",
+    "country": "Australia",
+    "umpire": "true",
+    "testsumpired": "2",
+    "umptestdebutyr": "1979",
+    "umptestlastyr": "1979",
+    "odisumpired": "6",
+    "umpodidebutyr": "1979",
+    "umpodilastyr": "1980",
+    "fcumpired": "31",
+    "umpfcdebutyr": "1975",
+    "umpfclastyr": "1981",
+    "listaumpired": "13",
+    "umplistadebutyr": "1976",
+    "umplistalastyr": "1981",
+    "source": "https://cricketarchive.com/Archive/Players/16/16139/16139.html CricketArchive",
+    "FC": {
+        "matches": "37",
+        "runs": "1,716",
+        "bat avg": "27.23",
+        "100s/50s": "3/8",
+        "top score": "111",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1948/49",
+        "Queensland": "1949/50\u20131956/57"
+    },
+    "birth_date": "1921-3-17"
+}

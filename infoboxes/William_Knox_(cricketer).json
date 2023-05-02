@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "William Knox",
+    "birth_place": "Paisley, Renfrewshire, Scotland",
+    "death_date": "1954",
+    "death_place": "Paisley, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/william-knox-25261 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1938"
+    }
+}

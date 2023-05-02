@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "John Garnier",
+    "birth_place": "Bishopstoke, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "family": "Thomas Garnier junior (brother), Edward Garnier (nephew), Thomas Garnier (nephew), Godfrey Papillon (great-nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13877.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1832"
+    }
+}

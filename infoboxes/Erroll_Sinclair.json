@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Erroll Hamish Lindsay Graeme Sinclair",
+    "birth_place": "Goring-on-Thames, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "aboard Orion, off Marsa Alam, Egypt",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/20513.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "126",
+        "bat avg": "12.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "1,005",
+        "wickets": "19",
+        "bowl avg": "33.63",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/56",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1924",
+        "Ceylon": "1926/27"
+    }
+}

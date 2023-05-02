@@ -1,0 +1,35 @@
+{
+    "name": "Diviya G K",
+    "female": "true",
+    "fullname": "Diviya G K",
+    "nickname": "Div / GK",
+    "birth_place": "Singapore",
+    "heightm": "1.58",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "T20Idebutdate": "30 August",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Malaysia",
+    "lastT20Idate": "10 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Malaysia",
+    "source": "https://www.espncricinfo.com/player/gk-diviya-301718 Cricinfo ",
+    "WT20I": {
+        "matches": "19",
+        "runs": "307",
+        "bat avg": "21.92",
+        "100s/50s": "0/1",
+        "deliveries": "399",
+        "wickets": "15",
+        "bowl avg": "15.06",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/8",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Boland": "2013/14"
+    },
+    "birth_date": "1987-1-19"
+}

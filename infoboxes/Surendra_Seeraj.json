@@ -1,0 +1,34 @@
+{
+    "name": "Surendra Seeraj",
+    "country": "Canada",
+    "batting": "Right-hand bat",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/75/75761/75761.html  ",
+    "Tests": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {}
+}

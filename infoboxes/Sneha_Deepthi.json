@@ -1,0 +1,46 @@
+{
+    "name": "Sneha Deepthi",
+    "female": "yes",
+    "country": "India",
+    "fullname": "Vootala Sneha Deepthi",
+    "birth_place": "Varanasi, Uttar Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batter",
+    "internationalspan": "2013",
+    "oneodi": "true",
+    "odidebutdate": "12 April",
+    "odidebutyear": "2013",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "108",
+    "odishirt": "7",
+    "T20Idebutdate": "2 April",
+    "T20Idebutyear": "2013",
+    "T20Idebutagainst": "Bangladesh",
+    "T20Icap": "38",
+    "lastT20Idate": "5 April",
+    "lastT20Iyear": "2013",
+    "lastT20Iagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/627072.html Cricinfo ",
+    "WODI": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Andhra": "2021/22\u2013present",
+        "Delhi Capitals": "2023\u2013present"
+    },
+    "birth_date": "1996-9-10"
+}

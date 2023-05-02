@@ -1,0 +1,61 @@
+{
+    "name": "Sarah Illingworth",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1988\u20131996",
+    "fullname": "Sarah Louise Illingworth",
+    "birth_place": "Lancaster, Lancashire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "7 February",
+    "testdebutyear": "1995",
+    "testdebutagainst": "India",
+    "testcap": "103",
+    "lasttestdate": "12 July",
+    "lasttestyear": "1996",
+    "lasttestagainst": "England",
+    "odidebutdate": "29 November",
+    "odidebutyear": "1988",
+    "odidebutagainst": "Ireland",
+    "odicap": "49",
+    "lastodidate": "21 July",
+    "lastodiyear": "1996",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/17/17278/17278.html CricketArchive ",
+    "WTest": {
+        "matches": "6",
+        "runs": "120",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/5"
+    },
+    "WODI": {
+        "matches": "37",
+        "runs": "342",
+        "bat avg": "15.54",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "27/21"
+    },
+    "WFC": {
+        "matches": "28",
+        "runs": "699",
+        "bat avg": "26.88",
+        "100s/50s": "0/3",
+        "top score": "79",
+        "catches/stumpings": "34/24"
+    },
+    "WLA": {
+        "matches": "73",
+        "runs": "702",
+        "bat avg": "20.64",
+        "100s/50s": "0/3",
+        "top score": "62",
+        "catches/stumpings": "45/34"
+    },
+    "clubs": {
+        "Southern Districts": "1984/85\u20131985/86",
+        "Canterbury": "1986/87\u20131995/96"
+    },
+    "birth_date": "1963-9-9"
+}

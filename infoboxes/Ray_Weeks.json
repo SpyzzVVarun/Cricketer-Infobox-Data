@@ -1,0 +1,39 @@
+{
+    "name": "Ray Weeks",
+    "country": "England",
+    "fullname": "Raymond Thomas Weeks",
+    "birth_place": "Camborne, Cornwall, England",
+    "death_date": "2013",
+    "death_place": "Camborne, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "21 June",
+    "debutyear1": "1950",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "7 May",
+    "lastyear1": "1957",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/33/33718/33718.html CricketArchive ",
+    "FC": {
+        "matches": "107",
+        "runs": "1051",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/1",
+        "top score": "51",
+        "deliveries": "17476",
+        "wickets": "236",
+        "bowl avg": "26.26",
+        "fivefor": "8",
+        "tenfor": "\u2013",
+        "best bowling": "7/70",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1950\u201357"
+    },
+    "birth_date": "1930-4-30"
+}

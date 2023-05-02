@@ -1,0 +1,57 @@
+{
+    "name": "Sharmin Akhtersjatmin",
+    "female": "true",
+    "country": "Bangladesh",
+    "fullname": "Sharmin Akhter Supta",
+    "birth_place": "Gaibanda, Bangladesh",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "2011\u2013present",
+    "odidebutdate": "26 November",
+    "odidebutyear": "2011",
+    "odidebutagainst": "Ireland",
+    "odicap": "8",
+    "lastodidate": "14 December",
+    "lastodiyear": "2022",
+    "lastodiagainst": "New Zealand",
+    "T20Idebutdate": "28 August",
+    "T20Idebutyear": "2012",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "10",
+    "lastT20Idate": "7 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/535868.html ESPN Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "32",
+        "runs": "544",
+        "bat avg": "17.54",
+        "100s/50s": "0/3",
+        "top score": "74",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WT20I": {
+        "matches": "16",
+        "runs": "151",
+        "bat avg": "10.78",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Dhaka Division": "2017",
+        "Rangpur Division": "2017/18",
+        "Northern Zone": "2021/22\u2013present",
+        "Trailblazers": "2022"
+    },
+    "birth_date": "1995-12-31",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Silver Medal: 2014 Incheon Team"
+    ]
+}

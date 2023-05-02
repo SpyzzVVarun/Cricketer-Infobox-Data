@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Edward Gerald Fleming French",
+    "birth_place": "Woburn Sands, Buckinghamshire, England",
+    "death_date": "1970",
+    "death_place": "Hove, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/13206.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "114",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Devon": "1924\u20131927",
+        "Marylebone Cricket Club": "1922\u20131936"
+    },
+    "birth_date": "1883-12-11"
+}

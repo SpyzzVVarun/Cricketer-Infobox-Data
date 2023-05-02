@@ -1,0 +1,41 @@
+{
+    "name": "Modester Mupachikwa",
+    "female": "true",
+    "country": "Zimbabwe",
+    "fullname": "Modester Mupachikwa",
+    "batting": "Right-handed",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "5",
+    "lastodidate": "27 November",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "5 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Namibia",
+    "T20Icap": "4",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Thailand",
+    "source": "http://www.espncricinfo.com/ci/content/player/538591.html Cricinfo ",
+    "WODI": {
+        "matches": "8",
+        "runs": "101",
+        "bat avg": "12.62",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "5/0"
+    },
+    "WT20I": {
+        "matches": "31",
+        "runs": "696",
+        "bat avg": "30.26",
+        "100s/50s": "0/3",
+        "catches/stumpings": "12/7"
+    },
+    "clubs": {
+        "Eagles": "2020/21\u2013present"
+    },
+    "birth_date": "1997-1-19"
+}

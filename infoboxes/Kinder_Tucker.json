@@ -1,0 +1,30 @@
+{
+    "name": "Kinder Tucker",
+    "country": "New Zealand",
+    "fullname": "Kinder Houghton Tucker",
+    "birth_place": "Nelson, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Spencer Tucker (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/23/23005/23005.html Cricket Archive ",
+    "First-class": {
+        "matches": "40",
+        "runs": "1460",
+        "bat avg": "22.81",
+        "100s/50s": "0/9",
+        "top score": "86",
+        "deliveries": "3144",
+        "wickets": "97",
+        "bowl avg": "17.70",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "7/31",
+        "catches/stumpings": "24/0"
+    },
+    "clubs": {
+        "Wellington": "1895-96 to 1919-20"
+    },
+    "birth_date": "1875-8-25"
+}

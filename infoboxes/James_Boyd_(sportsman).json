@@ -1,0 +1,32 @@
+{
+    "country": "Scotland",
+    "fullname": "James Lawrence Boyd",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/9918.html Cricinfo",
+    "module": "embed=y",
+    "ru_position": "Fly-half",
+    "ru_amateurclubs": "United Services",
+    "ru_provinceyears": "1911",
+    "ru_province": "Anglo-Scots",
+    "ru_provincecaps": "1",
+    "ru_provincepoints": "(0)",
+    "ru_nationalteam": "Scotland",
+    "ru_nationalyears": "1912",
+    "ru_nationalcaps": "2",
+    "ru_nationalpoints": "(0)",
+    "First-class": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "56.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/30",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Robin Gardner",
+    "country": "England",
+    "fullname": "Leslie Robin Gardner",
+    "birth_place": "Ledbury, Herefordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13559.html Cricinfo ",
+    "First-class": {
+        "matches": "126",
+        "runs": "4,119",
+        "bat avg": "19.80",
+        "100s/50s": "2/15",
+        "deliveries": "334",
+        "wickets": "5",
+        "bowl avg": "39.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/54",
+        "catches/stumpings": "63/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1964\u20131966",
+        "Leicestershire": "1954\u20131962"
+    },
+    "birth_date": "1934-2-23"
+}

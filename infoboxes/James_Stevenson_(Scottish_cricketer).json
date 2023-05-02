@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "James Alexander Stevenson",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1993",
+    "death_place": "Gullane, East Lothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/james-stevenson-25361 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "127",
+        "bat avg": "21.16",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1937&ndash;1951"
+    }
+}

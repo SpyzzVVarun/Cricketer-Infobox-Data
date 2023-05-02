@@ -1,0 +1,61 @@
+{
+    "name": "Graham Wagg",
+    "country": "England",
+    "fullname": "Graham Grant Wagg",
+    "nickname": "Waggy",
+    "birth_place": "Rugby, Warwickshire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/22559.html Cricinfo  ",
+    "FC": {
+        "matches": "164",
+        "runs": "5,904",
+        "bat avg": "26.83",
+        "100s/50s": "5/33",
+        "top score": "200",
+        "deliveries": "27,594",
+        "wickets": "465",
+        "bowl avg": "34.48",
+        "fivefor": "12",
+        "tenfor": "1",
+        "best bowling": "6/29",
+        "catches/stumpings": "54/\u2013"
+    },
+    "LA": {
+        "matches": "140",
+        "runs": "2,060",
+        "bat avg": "20.39",
+        "100s/50s": "0/5",
+        "top score": "68",
+        "deliveries": "5,453",
+        "wickets": "156",
+        "bowl avg": "34.49",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/35",
+        "catches/stumpings": "45/\u2013"
+    },
+    "T20": {
+        "matches": "144",
+        "runs": "1,359",
+        "bat avg": "18.12",
+        "100s/50s": "0/4",
+        "top score": "62",
+        "deliveries": "2,415",
+        "wickets": "129",
+        "bowl avg": "26.00",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/14",
+        "catches/stumpings": "38/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "2000\u20132004",
+        "Derbyshire( 10 )": "2005\u20132010",
+        "Glamorgan( 8 )": "2011\u20132020",
+        "Shropshire": "2021"
+    },
+    "birth_date": "1983-04-28"
+}

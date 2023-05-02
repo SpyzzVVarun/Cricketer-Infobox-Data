@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Richard George Smalley",
+    "birth_place": "Newcastle upon Tyne, Northumberland, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/20214.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "341",
+        "bat avg": "31.00",
+        "100s/50s": "\u2013/2",
+        "top score": "83",
+        "catches/stumpings": "9/5"
+    },
+    "clubs": {
+        "Oxford University": "1999&ndash;2001",
+        "Oxford Universities": "2000"
+    },
+    "birth_date": "1979-3-20"
+}

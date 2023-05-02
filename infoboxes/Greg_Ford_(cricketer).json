@@ -1,0 +1,29 @@
+{
+    "name": "Greg Ford",
+    "birth_place": "Pietermaritzburg, Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "family": "Graham Ford (father), Matt Ford (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/1229938.html Cricinfo ",
+    "List A": {
+        "matches": "11",
+        "runs": "88",
+        "bat avg": "12.57",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "3/\u2013"
+    },
+    "Twenty20": {
+        "matches": "12",
+        "runs": "122",
+        "bat avg": "30.50",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Leinster Lightning": "2020, 2022",
+        "Munster Reds": "2021"
+    },
+    "birth_date": "1992-5-9"
+}

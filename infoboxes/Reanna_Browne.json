@@ -1,0 +1,27 @@
+{
+    "name": "Reanna Browne",
+    "female": "true",
+    "full_name": "Reanna Gail Browne",
+    "birth_place": "Longreach, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/45/45668/45668.html CricketArchive",
+    "WLA": {
+        "matches": "21",
+        "runs": "48",
+        "bat avg": "5.33",
+        "100s/50s": "0/0",
+        "deliveries": "383",
+        "wickets": "9",
+        "bowl avg": "32.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/9",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Queensland": "2002/03\u20132007/08"
+    },
+    "birth_date": "1983-12-01"
+}

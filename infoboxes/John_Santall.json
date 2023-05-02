@@ -1,0 +1,20 @@
+{
+    "name": "John Santall",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "source": "http://content-uk.cricinfo.com/england/content/player/20585.html CricInfo",
+    "First-class": {
+        "matches": "8",
+        "runs": "117",
+        "bat avg": "9.75",
+        "100s/50s": "0/0",
+        "deliveries": "180",
+        "wickets": "2",
+        "bowl avg": "62.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/29",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Neville Jelich",
+    "country": "Australia",
+    "fullname": "Nedelko Jelich",
+    "birth_place": "Belgrade, Yugoslavia",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/6020.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "490",
+        "bat avg": "27.22",
+        "100s/50s": "1/2",
+        "top score": "126",
+        "deliveries": "348",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "40",
+        "bat avg": "20.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "24",
+        "wickets": "2",
+        "bowl avg": "7.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/15",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1986/87&ndash;1987/88",
+        "Queensland": "1985/86"
+    },
+    "birth_date": "1962-3-11"
+}

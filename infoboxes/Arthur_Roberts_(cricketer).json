@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Arthur Wilson Roberts",
+    "birth_place": "Malegaon, Bombay Presidency, British Raj",
+    "death_date": "1961",
+    "death_place": "Hastings, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Francis Roberts (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/19731.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "807",
+        "bat avg": "18.76",
+        "100s/50s": "&ndash;/4",
+        "top score": "90",
+        "deliveries": "611",
+        "wickets": "12",
+        "bowl avg": "33.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/20",
+        "catches/stumpings": "17/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire": "1908&ndash;1913",
+        "Buckinghamshire": "1902",
+        "Oxfordshire": "1896&ndash;1897"
+    },
+    "birth_date": "1874-9-23"
+}

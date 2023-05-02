@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Adam Edward King",
+    "birth_place": "Aylesbury, Buckinghamshire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/1039501.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "53",
+        "bat avg": "17.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Loughborough MCCU": "2019"
+    },
+    "birth_date": "1999-9-14"
+}

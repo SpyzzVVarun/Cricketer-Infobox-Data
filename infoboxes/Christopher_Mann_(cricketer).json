@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Christopher Mann",
+    "nickname": "Norman, Woody",
+    "birth_place": "South Shields, Tyne and Wear, England",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening Batsman",
+    "source": "http://www.cricinfo.com/ci/content/player/17937.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Durham County Cricket Club( 18 )": "2001"
+    },
+    "birth_date": "1981-4-14"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Stuart Hunter Ferguson",
+    "birth_place": "Sonoma, California, United States",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/12831.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "158",
+        "wickets": "3",
+        "bowl avg": "47.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/82",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1998"
+    },
+    "birth_date": "1974-10-13"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "William Gratwicke Heasman",
+    "birth_place": "Angmering, Sussex, England",
+    "death_date": "1934",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Michael Earls-Davis (grandson)",
+    "source": "http://www.espncricinfo.com/ci/content/player/14699.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "566",
+        "bat avg": "21.76",
+        "100s/50s": "\u2013/2",
+        "top score": "66",
+        "deliveries": "115",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1896",
+        "Sussex": "1885\u20131895"
+    }
+}

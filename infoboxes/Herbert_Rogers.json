@@ -1,0 +1,28 @@
+{
+    "name": "Herbert Rogers",
+    "country": "England",
+    "fullname": "Herbert James Rogers",
+    "birth_place": "Frimley, Surrey, England",
+    "death_date": "1916",
+    "death_place": "near Le Transloy, Somme, France",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/19461.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "69",
+        "bat avg": "5.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "62.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/26",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1912\u20131914"
+    }
+}

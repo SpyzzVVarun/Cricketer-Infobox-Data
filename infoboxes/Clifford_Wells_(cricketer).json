@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Clifford Wells",
+    "birth_place": "St Pancras, London, England",
+    "death_date": "1952",
+    "death_place": "Crowthorne, Berkshire, England",
+    "family": "Cyril Wells (brother), Lionel Wells (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/22845.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "85",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1894"
+    }
+}

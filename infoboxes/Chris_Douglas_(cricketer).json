@@ -1,0 +1,49 @@
+{
+    "country": "Bermuda",
+    "fullname": "Chris Ryan McCallan Douglas",
+    "birth_place": "Bermuda",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "odidebutdate": "18 August",
+    "odidebutyear": "2008",
+    "odidebutagainst": "Canada",
+    "odicap": "35",
+    "lastodidate": "20 August",
+    "lastodiyear": "2008",
+    "lastodiagainst": "West Indies",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/307449.html Cricinfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "122",
+        "bat avg": "61.00",
+        "100s/50s": "\u2013/2",
+        "top score": "69",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "122",
+        "bat avg": "61.00",
+        "100s/50s": "\u2013/2",
+        "top score": "69",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1989-11-20"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Bill Ashdown",
+    "fullname": "William Henry Ashdown",
+    "birth_place": "Bromley, Kent",
+    "death_date": "1979",
+    "death_place": "Rugby, Warwickshire",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium-fast",
+    "umpire": "true",
+    "testsumpired": "3",
+    "umptestdebutyr": "1949",
+    "umptestlastyr": "1950",
+    "source": "http://www.espncricinfo.com/england/content/player/8793.html CricInfo ",
+    "First-class": {
+        "matches": "487",
+        "runs": "22,589",
+        "bat avg": "30.73",
+        "100s/50s": "39/105",
+        "top score": "332",
+        "deliveries": "44,212",
+        "wickets": "602",
+        "bowl avg": "32.47",
+        "fivefor": "13",
+        "tenfor": "0",
+        "best bowling": "6/23",
+        "catches/stumpings": "400/1"
+    },
+    "clubs": {
+        "Kent": "1920\u20131937"
+    },
+    "birth_date": "1898-12-27"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Ruturaj Gaikwad",
+    "country": "India",
+    "nickname": "Rutu",
+    "fullname": "Ruturaj Dashrat Gaikwad",
+    "birth_place": "Pune, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batter",
+    "internationalspan": "2021\u20132022",
+    "oneodi": "true",
+    "odidebutdate": "6 October",
+    "odidebutyear": "2022",
+    "odidebutagainst": "South Africa",
+    "odicap": "246",
+    "odishirt": "31",
+    "T20Idebutdate": "28 July",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "88",
+    "T20Ishirt": "31",
+    "lastT20Idate": "26 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Ireland",
+    "source": "http://www.espncricinfo.com/ci/content/player/1060380.html Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "19",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "0/0"
+    },
+    "T20I": {
+        "matches": "9",
+        "runs": "135",
+        "bat avg": "16.88",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "catches/stumpings": "5/0"
+    },
+    "FC": {
+        "matches": "24",
+        "runs": "1,577",
+        "bat avg": "40.43",
+        "100s/50s": "5/7",
+        "top score": "129",
+        "catches/stumpings": "18/0"
+    },
+    "LA": {
+        "matches": "71",
+        "runs": "3,926",
+        "bat avg": "60.40",
+        "100s/50s": "14/16",
+        "catches/stumpings": "20/0"
+    },
+    "clubs": {
+        "Maharashtra": "2016\u2013present",
+        "Chennai Super Kings( 31 )": "2019\u2013present"
+    },
+    "birth_date": "1997-1-31"
+}

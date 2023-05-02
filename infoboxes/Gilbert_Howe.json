@@ -1,0 +1,22 @@
+{
+    "name": "Gilbert Howe",
+    "country": "New Zealand",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Messines, West Flanders, Belgium",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37448.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "139",
+        "bat avg": "15.44",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "5/4"
+    },
+    "clubs": {
+        "Wellington": "1913-14"
+    },
+    "birth_date": "1891-8-6"
+}

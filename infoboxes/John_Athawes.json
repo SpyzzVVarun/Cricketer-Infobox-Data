@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Thomas Athawes",
+    "birth_place": "Loughton, Buckinghamshire, England",
+    "death_date": "1915",
+    "death_place": "Tenbury Wells, Worcestershire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/8895.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1860"
+    }
+}

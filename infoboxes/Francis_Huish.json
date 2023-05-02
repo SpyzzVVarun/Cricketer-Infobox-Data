@@ -1,0 +1,30 @@
+{
+    "name": "Francis Huish",
+    "country": "England",
+    "fullname": "Francis Edward Huish",
+    "birth_place": "Clapham, Surrey",
+    "death_date": "df=yes",
+    "death_place": "Los Angeles, California",
+    "batting": "Left-handed",
+    "bowling": "Left arm Left arm medium",
+    "family": "Fred Huish (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/15030.html CricInfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "32",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "745CricInfo and CricketArchive disagree as to the number of deliveries bowled by Huish. Given that 5-ball overs were standard in England in 1895, the CricketArchive figure of 747 deliveries matches the scorecard data on the same website. The CricInfo data would approximately match if 4 ball overs were standard. The CricketArchive data has been used for deliveries here.",
+        "wickets": "11",
+        "bowl avg": "39.36",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/52",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Kent": "1895"
+    },
+    "birth_date": "1867-12-9"
+}

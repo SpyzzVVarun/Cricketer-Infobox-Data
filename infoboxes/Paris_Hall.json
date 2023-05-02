@@ -1,0 +1,24 @@
+{
+    "name": "Paris Hall",
+    "female": "true",
+    "fullname": "Paris Hall",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2614/2614062/2614062.html CricketArchive",
+    "WLA": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "WT20": {
+        "100s/50s": "/",
+        "catches/stumpings": "/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2022/23\u2013present"
+    },
+    "birth_date": "2003-11-10"
+}

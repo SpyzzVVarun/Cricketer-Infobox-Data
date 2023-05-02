@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Jared Simon Gregory Norman",
+    "birth_place": "Barnet, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/18030.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cambridgeshire": "1997&ndash;2001"
+    },
+    "birth_date": "1974-11-28"
+}

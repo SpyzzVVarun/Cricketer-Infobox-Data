@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Hugh Wilson Scott",
+    "birth_place": "Belfast, Northern Ireland",
+    "death_date": "df=yes",
+    "death_place": "Belfast, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24514.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1958"
+    }
+}

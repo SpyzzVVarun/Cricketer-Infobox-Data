@@ -1,0 +1,48 @@
+{
+    "name": "Marie Kelly",
+    "female": "true",
+    "country": "England",
+    "fullname": "Marie Kelly",
+    "birth_place": "Birmingham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/501/501356/501356.html CricketArchive ",
+    "WLA": {
+        "matches": "76",
+        "runs": "1,479",
+        "bat avg": "22.75",
+        "100s/50s": "0/8",
+        "top score": "64",
+        "deliveries": "1,032",
+        "wickets": "29",
+        "bowl avg": "23.37",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/13",
+        "catches/stumpings": "23/\u2013"
+    },
+    "WT20": {
+        "matches": "79",
+        "runs": "1,415",
+        "bat avg": "23.58",
+        "100s/50s": "1/7",
+        "deliveries": "490",
+        "wickets": "27",
+        "bowl avg": "16.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/9",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "2011\u2013present",
+        "Loughborough Lightning": "2017",
+        "Southern Vipers": "2019",
+        "Central Sparks": "2020\u20132021",
+        "Birmingham Phoenix": "2021",
+        "The Blaze": "2022\u2013present",
+        "Trent Rockets": "2022\u2013present"
+    },
+    "birth_date": "1996-2-9"
+}

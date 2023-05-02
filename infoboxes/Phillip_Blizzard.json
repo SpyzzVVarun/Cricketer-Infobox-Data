@@ -1,0 +1,41 @@
+{
+    "name": "Phillip Blizzard",
+    "country": "Australia",
+    "fullname": "Phillip Ashley Blizzard",
+    "birth_place": "Burnie, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4163.html Cricinfo ",
+    "FC": {
+        "matches": "32",
+        "runs": "569",
+        "bat avg": "15.37",
+        "100s/50s": "&ndash;/1",
+        "top score": "51",
+        "deliveries": "4,913",
+        "wickets": "63",
+        "bowl avg": "40.44",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/62",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "39",
+        "bat avg": "9.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "978",
+        "wickets": "15",
+        "bowl avg": "37.13",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/28",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "New South Wales": "1985/86",
+        "Tasmania": "1979/80&ndash;1987/88"
+    },
+    "birth_date": "1958-2-6"
+}

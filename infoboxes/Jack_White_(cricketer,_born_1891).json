@@ -1,0 +1,52 @@
+{
+    "name": "Jack White",
+    "country": "England",
+    "fullname": "John Cornish White",
+    "birth_place": "Holford, Somerset, England",
+    "death_date": "1961",
+    "death_place": "Combe Florey, Somerset, England",
+    "nickname": "Farmer",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowling all-rounder",
+    "testdebutdate": "2 July",
+    "testdebutyear": "1921",
+    "testdebutagainst": "Australia",
+    "testcap": "202",
+    "lasttestdate": "21 February",
+    "lasttestyear": "1931",
+    "lasttestagainst": "South Africa",
+    "source": "http://www.cricinfo.com/ci/content/player/22408.html Cricinfo ",
+    "Test": {
+        "matches": "15",
+        "runs": "239",
+        "bat avg": "18.38",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "4801",
+        "wickets": "49",
+        "bowl avg": "32.26",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "8/126",
+        "catches/stumpings": "6/0"
+    },
+    "First-class": {
+        "matches": "472",
+        "runs": "12202",
+        "bat avg": "18.40",
+        "100s/50s": "6/41",
+        "top score": "192",
+        "deliveries": "129439",
+        "wickets": "2355",
+        "bowl avg": "18.58",
+        "fivefor": "193",
+        "tenfor": "58",
+        "best bowling": "10/76",
+        "catches/stumpings": "428/0"
+    },
+    "clubs": {
+        "Somerset": "1909\u20131937"
+    },
+    "birth_date": "1891-02-19"
+}

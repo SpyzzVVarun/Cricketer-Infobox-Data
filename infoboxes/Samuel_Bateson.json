@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "Samuel Stephen Bateson",
+    "birth_place": "Belfast, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dornoch, Sutherland, Scotland",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10390.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1844"
+    }
+}

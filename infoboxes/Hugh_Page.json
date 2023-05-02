@@ -1,0 +1,35 @@
+{
+    "name": "Hugh Page",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/3/3149/3149.html CricketArchive",
+    "First-class": {
+        "matches": "92",
+        "runs": "2,205",
+        "bat avg": "22.96",
+        "100s/50s": "0/9",
+        "top score": "95",
+        "deliveries": "13,993",
+        "wickets": "275",
+        "bowl avg": "25.18",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "7/38",
+        "catches/stumpings": "25/\u2013"
+    },
+    "List A": {
+        "matches": "121",
+        "runs": "1,020",
+        "bat avg": "17.58",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "5,994",
+        "wickets": "161",
+        "bowl avg": "25.44",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/45",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Henry Jenkins",
+    "birth_place": "Yeovil, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/526054.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "52",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "444",
+        "wickets": "5",
+        "bowl avg": "81.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Durham MCCU": "2014&ndash;2016"
+    },
+    "birth_date": "1994-7-4"
+}

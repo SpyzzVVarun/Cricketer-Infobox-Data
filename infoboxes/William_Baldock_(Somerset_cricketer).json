@@ -1,0 +1,30 @@
+{
+    "name": "William Baldock",
+    "country": "England",
+    "fullname": "William Frederick Baldock",
+    "birth_place": "Wellington, Somerset, England",
+    "death_date": "1941",
+    "death_place": "Terengganu, British Malaya",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "2 June",
+    "debutyear1": "1920",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "1 July",
+    "lastyear1": "1936",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Surrey",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3418/3418.html CricketArchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "238",
+        "bat avg": "17.00",
+        "100s/50s": "0/1",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1920\u20131936"
+    },
+    "birth_date": "1900-08-01"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Doug Armstrong",
+    "honorific_suffix": "country=NZL",
+    "birth_name": "Douglas Warwick Armstrong",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "2015",
+    "death_place": "Whanganui, New Zealand",
+    "order": "2nd Mayor of Rodney District",
+    "term_start": "1992",
+    "term_end": "2000",
+    "predecessor": "Gordon Mason",
+    "successor": "John Law",
+    "module": "embed = y",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "FC",
+    "debutdate1": "25 December",
+    "debutyear1": "1958",
+    "debutagainst1": "Northern Districts",
+    "lastdate1": "1 January",
+    "lastyear1": "1959",
+    "lastagainst1": "Canterbury",
+    "source": "https://cricketarchive.com/Archive/Players/21/21350/21350.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "deliveries": "234",
+        "wickets": "1",
+        "bowl avg": "123.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/47",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Central Districts": "1958/59"
+    },
+    "birth_date": "1931-04-13"
+}

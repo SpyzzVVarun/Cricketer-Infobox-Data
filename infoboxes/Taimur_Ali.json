@@ -1,0 +1,16 @@
+{
+    "name": "Taimur Ali",
+    "birth_place": "Usta Mohammad, Balochistan, Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/281384.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1991-6-1",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{PAK}}",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2010 Dhaka Team"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Johnny Arnold",
+    "country": "England",
+    "fullname": "John Arnold",
+    "birth_place": "Cowley, Oxfordshire, England",
+    "death_date": "1984",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "onetest": "true",
+    "testdebutdate": "27 June",
+    "testdebutyear": "1931",
+    "testdebutagainst": "New Zealand",
+    "testcap": "259",
+    "source": "http://www.cricinfo.com/ci/content/player/8567.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "FC": {
+        "matches": "402",
+        "runs": "21,831",
+        "bat avg": "32.82",
+        "100s/50s": "37/117",
+        "top score": "227",
+        "deliveries": "1,489",
+        "wickets": "17",
+        "bowl avg": "69.52",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/34",
+        "catches/stumpings": "184/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1929\u20131950"
+    },
+    "birth_date": "1907-11-30"
+}

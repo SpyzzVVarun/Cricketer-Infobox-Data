@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Orlando Spencer-Smith",
+    "birth_place": "Sarisbury, Hampshire, England",
+    "death_date": "1920",
+    "death_place": "Swanwick, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "family": "Joshua Spencer-Smith (twin brother), Cunliffe Gosling (nephew), Henry Wilder (uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/20301.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "354",
+        "bat avg": "35.40",
+        "100s/50s": "\u2013/2",
+        "top score": "98",
+        "deliveries": "329",
+        "wickets": "3",
+        "bowl avg": "43.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/53",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1866",
+        "Hampshire": "1866"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Jenni Irani",
+    "full_name": "Jamshed Khudadad Irani",
+    "birth_place": "Karachi, Bombay Presidency, British India",
+    "death_date": "1982",
+    "death_place": "Karachi, Sindh, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "testdebutagainst": "Australia",
+    "testcap": "37",
+    "testdebutdate": "28 November",
+    "testdebutyear": "1947",
+    "lasttestdate": "12 December",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1947",
+    "source": "https://cricketarchive.com/Archive/Players/0/793/793.html CricketArchive",
+    "Test": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/1"
+    },
+    "First-class": {
+        "matches": "22",
+        "runs": "430",
+        "bat avg": "17.20",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "23/6"
+    },
+    "clubs": {},
+    "birth_date": "1923-8-18"
+}

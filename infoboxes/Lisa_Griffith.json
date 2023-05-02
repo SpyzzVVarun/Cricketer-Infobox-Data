@@ -1,0 +1,48 @@
+{
+    "name": "Lisa Griffith",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Lisa Griffith",
+    "birth_place": "Bathurst, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/913/913873/913873.html CricketArchive ",
+    "WLA": {
+        "matches": "13",
+        "runs": "195",
+        "bat avg": "21.66",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "deliveries": "258",
+        "wickets": "5",
+        "bowl avg": "47.40",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "2/44",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20": {
+        "matches": "51",
+        "runs": "168",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "603",
+        "wickets": "20",
+        "bowl avg": "40.35",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/10",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "2017/18\u20132020/21",
+        "Sydney Thunder": "2017/18\u20132019/20",
+        "Otago": "2018/19\u20132019/20",
+        "Sydney Sixers": "2020/21",
+        "Western Australia": "2021/22\u2013present",
+        "Perth Scorchers": "2021/22"
+    },
+    "birth_date": "1992-08-28"
+}

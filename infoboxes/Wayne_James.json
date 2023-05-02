@@ -1,0 +1,60 @@
+{
+    "name": "Wayne James",
+    "country": "Zimbabwe",
+    "fullname": "Wayne Robert James",
+    "birth_place": "Bulawayo, Zimbabwe",
+    "batting": "Right-handed",
+    "role": "Batsman, Wicket-keeper",
+    "internationalspan": "1992\u20131996",
+    "testdebutdate": "16\u201321 December",
+    "testdebutyear": "1993",
+    "testdebutagainst": "Pakistan",
+    "testcap": "22",
+    "lasttestdate": "26\u201331 October",
+    "lasttestyear": "1994",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "23 February",
+    "odidebutyear": "1992",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "21",
+    "lastodidate": "3 September",
+    "lastodiyear": "1996",
+    "lastodiagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/ci/content/player/55524.html ESPNcricinfo ",
+    "Tests": {
+        "matches": "4",
+        "runs": "61",
+        "bat avg": "15.25",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "16/0"
+    },
+    "ODI": {
+        "matches": "11",
+        "runs": "101",
+        "bat avg": "14.42",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "6/0"
+    },
+    "FC": {
+        "matches": "40",
+        "runs": "2,442",
+        "bat avg": "38.15",
+        "100s/50s": "3/16",
+        "top score": "215",
+        "catches/stumpings": "101/7"
+    },
+    "LA": {
+        "matches": "36",
+        "runs": "468",
+        "bat avg": "15.09",
+        "100s/50s": "0/0",
+        "top score": "57",
+        "catches/stumpings": "22/1"
+    },
+    "clubs": {
+        "Matabeleland": "1992/93\u20131997/98"
+    },
+    "birth_date": "1965-8-27"
+}

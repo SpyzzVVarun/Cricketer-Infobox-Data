@@ -1,0 +1,21 @@
+{
+    "name": "Paul Kirsten",
+    "batting": "Right-handed",
+    "source": "http://cricinfo.com/southafrica/content/player/45816.html Cricinfo",
+    "First-class": {
+        "matches": "55",
+        "runs": "1,519",
+        "bat avg": "21.09",
+        "100s/50s": "0/7",
+        "catches/stumpings": "170/12"
+    },
+    "List A": {
+        "matches": "63",
+        "runs": "663",
+        "bat avg": "25.50",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "catches/stumpings": "76/6"
+    },
+    "clubs": {}
+}

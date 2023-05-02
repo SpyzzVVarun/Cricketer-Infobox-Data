@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Walter Hunter Thorburn",
+    "birth_place": "Innerleithen, Peeblesshire, Scotland",
+    "death_date": "1957",
+    "death_place": "Peebles, Peeblesshire, Scotland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/walter-thorburn-25380 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "183",
+        "bat avg": "30.50",
+        "100s/50s": "\u2013/1",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1909&ndash;1912"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "country": "Pakistan",
+    "fullname": "Salman Haider Khan",
+    "birth_place": "Rawalpindi, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/16111.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "266",
+        "bat avg": "19.00",
+        "100s/50s": "\u2013/1",
+        "top score": "87",
+        "deliveries": "2,668",
+        "wickets": "21",
+        "bowl avg": "70.71",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/70",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1998&ndash;2001",
+        "Oxford Universities": "2000",
+        "Oxford UCCE": "2001"
+    },
+    "birth_date": "1971-6-4"
+}

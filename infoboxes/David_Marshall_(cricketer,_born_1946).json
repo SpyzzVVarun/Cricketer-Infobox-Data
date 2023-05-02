@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "David Marshall",
+    "birth_place": "Flixborough, Lincolnshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/17768.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "9",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "288",
+        "wickets": "4",
+        "bowl avg": "53.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/34",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Lincolnshire": "1979&ndash;1991"
+    },
+    "birth_date": "1946-5-18"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Peter Davy",
+    "batting": "Right-handed",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/10/10614/10614.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "200",
+        "bat avg": "28.57",
+        "100s/50s": "0/2",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

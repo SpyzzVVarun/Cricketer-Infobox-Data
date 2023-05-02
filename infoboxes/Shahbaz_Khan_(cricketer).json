@@ -1,0 +1,39 @@
+{
+    "name": "Shahbaz Khan",
+    "birth_place": "Pishin, Balochistan, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Slow Slow left-arm",
+    "source": "http://espncricinfo.com/pakistan/content/player/483252.html Cricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "344",
+        "bat avg": "16.38",
+        "100s/50s": "\u2013/1",
+        "top score": "61",
+        "deliveries": "452",
+        "wickets": "2",
+        "bowl avg": "128.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/12",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "168",
+        "bat avg": "33.60",
+        "100s/50s": "\u2013",
+        "top score": "8",
+        "deliveries": "281",
+        "wickets": "5",
+        "bowl avg": "38.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Balochistan": "2019\u2013present"
+    },
+    "birth_date": "1991-7-9"
+}

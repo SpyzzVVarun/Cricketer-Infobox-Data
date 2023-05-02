@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Aidan Francis Baker",
+    "birth_place": "Blackburn, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/9395.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "97",
+        "wickets": "2",
+        "bowl avg": "54.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/67",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Surrey Cricket Board": "2002",
+        "Berkshire": "1996-1997",
+        "Suffolk": "1998-1999"
+    },
+    "birth_date": "1964-12-31"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Thomas Young Bramwell",
+    "birth_place": "North Shields, Northumberland, England",
+    "death_date": "1924",
+    "death_place": "Wetheral, Cumberland, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/9948.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "44",
+        "bat avg": "22.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1875"
+    }
+}

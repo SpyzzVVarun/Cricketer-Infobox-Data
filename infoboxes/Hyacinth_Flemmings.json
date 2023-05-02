@@ -1,0 +1,27 @@
+{
+    "name": "Hyacinth Flemmings",
+    "female": "true",
+    "country": "Jamaica",
+    "internationalspan": "1973",
+    "oneodi": "true",
+    "odidebutdate": "11 July",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Australia",
+    "odicap": "13",
+    "source": "http://www.espncricinfo.com/westindies/content/player/55127.html ESPNcricinfo",
+    "ODI": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "0/11",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

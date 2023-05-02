@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Nelson Hood",
+    "birth_place": "Westminster, Middlesex, England",
+    "death_date": "1921",
+    "death_place": "Fulham, London, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/14931.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "3.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1875&ndash;1880"
+    }
+}

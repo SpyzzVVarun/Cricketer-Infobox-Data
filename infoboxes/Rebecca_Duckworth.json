@@ -1,0 +1,30 @@
+{
+    "name": "Rebecca Duckworth",
+    "female": "true",
+    "fullname": "Rebecca E Duckworth",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1468/1468310/1468310.html CricketArchive",
+    "WLA": {
+        "matches": "15",
+        "runs": "203",
+        "bat avg": "20.30",
+        "100s/50s": "0/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "24",
+        "runs": "352",
+        "bat avg": "32.00",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2017\u2013present",
+        "Cumbria": "2019\u20132021",
+        "North West Thunder": "2020\u20132022",
+        "North Representative XI": "2022"
+    },
+    "birth_date": "2000-10-30"
+}

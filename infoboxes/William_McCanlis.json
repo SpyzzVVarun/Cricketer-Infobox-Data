@@ -1,0 +1,28 @@
+{
+    "name": "William McCanlis",
+    "country": "England",
+    "fullname": "William McCanlis",
+    "birth_place": "Woolwich, Kent",
+    "death_date": "df=yes",
+    "death_place": "Westcombe Park, London",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/17465.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "45",
+        "runs": "1,113",
+        "bat avg": "13.57",
+        "100s/50s": "0/3",
+        "top score": "67",
+        "deliveries": "875",
+        "wickets": "18",
+        "bowl avg": "27.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/67",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Kent": "1862\u20131877"
+    },
+    "birth_date": "1840-10-30"
+}

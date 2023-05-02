@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Bernard Wake",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "death_date": "1891",
+    "death_place": "Sheffield, Yorkshire, England",
+    "family": "William Wake (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22929.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "149",
+        "bat avg": "9.31",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "640",
+        "wickets": "25",
+        "bowl avg": "11.52",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "6/34",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1849&ndash;1851"
+    }
+}

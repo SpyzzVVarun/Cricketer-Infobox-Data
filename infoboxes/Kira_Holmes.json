@@ -1,0 +1,21 @@
+{
+    "name": "Kira Holmes",
+    "female": "true",
+    "fullname": "Kira Holmes",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/2629/2629048/2629048.html CricketArchive",
+    "WLA": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "catches/stumpings": "/"
+    },
+    "clubs": {
+        "Queensland": "2022/23\u2013present"
+    }
+}

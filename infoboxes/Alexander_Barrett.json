@@ -1,0 +1,30 @@
+{
+    "name": "Alexander Barrett",
+    "country": "England",
+    "fullname": "Alexander Barrett",
+    "birth_place": "Taunton, England",
+    "death_date": "1954",
+    "death_place": "Taunton, England",
+    "batting": "Unknown",
+    "onetype1": "true",
+    "type1": "First-class",
+    "debutdate1": "11 June",
+    "debutyear1": "1896",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Cambridge University",
+    "source": "http://www.espncricinfo.com/ci/content/player/9009.html ESPNcricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "0",
+        "wickets": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1896"
+    },
+    "birth_date": "1866-11-17"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Arthur William Dorman",
+    "birth_place": "Sydenham, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Hinton Charterhouse, Somerset, England",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/12223.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "31",
+        "bat avg": "4.42",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "1,551",
+        "wickets": "25",
+        "bowl avg": "26.20",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/55",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1886"
+    }
+}

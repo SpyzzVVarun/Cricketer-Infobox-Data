@@ -1,0 +1,38 @@
+{
+    "name": "Ray Dovey",
+    "fullname": "Raymond Randall Dovey",
+    "birth_place": "Chislehurst, Kent",
+    "death_date": "df=yes",
+    "death_place": "Tunbridge Wells, Kent",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "9 July",
+    "debutyear1": "1938",
+    "debutfor1": "Kent",
+    "debutagainst1": "Surrey",
+    "lastdate1": "25 August",
+    "lastyear1": "1954",
+    "lastfor1": "Kent",
+    "lastagainst1": "Pakistanis",
+    "source": "http://www.espncricinfo.com/ci/content/player/12238.html CricInfo",
+    "First-class": {
+        "matches": "263",
+        "runs": "3,481",
+        "bat avg": "11.63",
+        "100s/50s": "0/5",
+        "deliveries": "55,405",
+        "wickets": "777",
+        "bowl avg": "27.53",
+        "fivefor": "25",
+        "tenfor": "2",
+        "best bowling": "8/23",
+        "catches/stumpings": "79/\u2013"
+    },
+    "clubs": {
+        "Kent": "1938\u20131954",
+        "Dorset": "1955\u20131959"
+    },
+    "birth_date": "1920-07-18"
+}

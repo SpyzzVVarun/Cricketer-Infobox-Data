@@ -1,0 +1,40 @@
+{
+    "name": "Yawar Saeed",
+    "country": "Pakistan",
+    "fullname": "Mian Yawar Saeed",
+    "birth_place": "Lahore, Punjab, British India",
+    "death_date": "2015",
+    "death_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Mohammad Saeed (father)",
+    "type1": "FC",
+    "debutdate1": "22 August",
+    "debutyear1": "1953",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Australians",
+    "lastdate1": "27 February",
+    "lastyear1": "1959",
+    "lastfor1": "Central Zone",
+    "lastagainst1": "West Indians",
+    "source": "https://cricketarchive.com/Archive/Players/3/3911/3911.html CricketArchive ",
+    "First-class": {
+        "matches": "59",
+        "runs": "1,547",
+        "bat avg": "15.47",
+        "100s/50s": "0/6",
+        "top score": "64",
+        "deliveries": "5,891",
+        "wickets": "106",
+        "bowl avg": "34.05",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "30/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1953&ndash;1955",
+        "Punjab (Pakistan)": "1953/54&ndash;1957/58"
+    },
+    "birth_date": "1935-01-22"
+}

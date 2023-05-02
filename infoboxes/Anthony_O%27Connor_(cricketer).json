@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Anthony Philip O'Connor",
+    "birth_place": "Bradford, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18280.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "251",
+        "wickets": "5",
+        "bowl avg": "39.20",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/27",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Shropshire": "1999&ndash;present"
+    },
+    "birth_date": "1980-6-24"
+}

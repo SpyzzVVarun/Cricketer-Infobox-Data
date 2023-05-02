@@ -1,0 +1,37 @@
+{
+    "name": "William Blackman",
+    "country": "England",
+    "birth_place": "Arundel, Sussex, England",
+    "death_date": "1885",
+    "death_place": "Fitzroy, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "4 July",
+    "debutyear1": "1881",
+    "debutfor1": "Sussex",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "8 September",
+    "lastyear1": "1884",
+    "lastfor1": "Sussex",
+    "lastagainst1": "Surrey",
+    "source": "http://content-www.cricinfo.com/england/content/player/9790.html Cricinfo  ",
+    "First-class": {
+        "matches": "34",
+        "runs": "1,070",
+        "bat avg": "18.44",
+        "100s/50s": "0/5",
+        "top score": "89",
+        "deliveries": "4,438",
+        "wickets": "87",
+        "bowl avg": "21.63",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/86",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1881\u20131884"
+    },
+    "birth_date": "1862-11-27"
+}

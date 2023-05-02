@@ -1,0 +1,62 @@
+{
+    "name": "William McClintock",
+    "country": "Ireland",
+    "fullname": "William McClintock",
+    "birth_place": "Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "family": "Gary McClintock (brother)",
+    "T20Idebutdate": "1 September",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Zimbabwe",
+    "T20Icap": "52",
+    "lastT20Idate": "23 December",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "United States",
+    "source": "http://www.espncricinfo.com/ci/content/player/928073.html Cricinfo ",
+    "T20I": {
+        "matches": "5",
+        "runs": "34",
+        "bat avg": "11.33",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "144",
+        "bat avg": "20.57",
+        "100s/50s": "0/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "21",
+        "runs": "243",
+        "bat avg": "17.35",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "North West Warriors": "2014\u2013present"
+    },
+    "birth_date": "1997-1-1"
+}

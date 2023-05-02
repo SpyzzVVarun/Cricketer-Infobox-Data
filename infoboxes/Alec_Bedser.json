@@ -1,0 +1,53 @@
+{
+    "name": "85%,  Alec Bedser",
+    "fullname": "Alec Victor Bedser",
+    "birth_place": "Reading, Berkshire, England",
+    "death_date": "2010",
+    "death_place": "Woking, Surrey, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium-fast",
+    "family": "Eric Bedser (twin brother)",
+    "country": "England",
+    "testdebutdate": "22 June",
+    "testdebutyear": "1946",
+    "testdebutagainst": "India",
+    "testcap": "311",
+    "lasttestdate": "12 July",
+    "lasttestyear": "1955",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/0/746/746.html CricketArchive ",
+    "Tests": {
+        "matches": "51",
+        "runs": "714",
+        "bat avg": "12.75",
+        "100s/50s": "0/1",
+        "top score": "79",
+        "deliveries": "15,918",
+        "wickets": "236",
+        "bowl avg": "24.89",
+        "fivefor": "15",
+        "tenfor": "5",
+        "best bowling": "7/44",
+        "catches/stumpings": "26/\u2013"
+    },
+    "First-class": {
+        "matches": "485",
+        "runs": "5,735",
+        "bat avg": "14.51",
+        "100s/50s": "1/13",
+        "top score": "126",
+        "deliveries": "106,062",
+        "wickets": "1,924",
+        "bowl avg": "20.41",
+        "fivefor": "96",
+        "tenfor": "16",
+        "best bowling": "8/18",
+        "catches/stumpings": "289/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1939\u20131960"
+    },
+    "birth_date": "1918-7-4"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Reg Routledge",
+    "fullname": "Reginald Routledge",
+    "birth_place": "North Kensington, London, England",
+    "death_date": "2011 (aged 91)",
+    "death_place": "Gosport, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19839.html Cricinfo ",
+    "First-class": {
+        "matches": "65",
+        "runs": "1,331",
+        "bat avg": "16.63",
+        "100s/50s": "2/5",
+        "top score": "121",
+        "deliveries": "3,433",
+        "wickets": "38",
+        "bowl avg": "42.21",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/29",
+        "catches/stumpings": "38/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1946-1954",
+        "Devon": "1947",
+        "MCC": "1951"
+    }
+}

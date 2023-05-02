@@ -1,0 +1,42 @@
+{
+    "name": "Pandurang Salgaonkar",
+    "country": "India",
+    "fullname": "Pandurang Mahadev Salgaonkar",
+    "birth_place": "Malvan, Bombay State, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/40/40775/40775.html Cricket Archive ",
+    "First-class": {
+        "matches": "63",
+        "runs": "1,039",
+        "bat avg": "17.03",
+        "100s/50s": "1/1",
+        "top score": "103",
+        "deliveries": "10,242",
+        "wickets": "214",
+        "bowl avg": "26.70",
+        "fivefor": "11",
+        "tenfor": "1",
+        "best bowling": "7/72",
+        "catches/stumpings": "26/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "deliveries": "321",
+        "wickets": "6",
+        "bowl avg": "33.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/23",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "1972\u20131981"
+    },
+    "birth_date": "1949-10-15"
+}

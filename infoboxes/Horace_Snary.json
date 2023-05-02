@@ -1,0 +1,38 @@
+{
+    "name": "Horace Snary",
+    "country": "England",
+    "fullname": "Horace Charles Snary",
+    "birth_place": "Whissendine, Rutland, England",
+    "death_date": "1966",
+    "death_place": "Leicester, Leicestershire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm slow Right-arm slow medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "11 June",
+    "debutyear1": "1921",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "1 September",
+    "lastyear1": "1933",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/32/32915/32915.html CricketArchive ",
+    "First-class": {
+        "matches": "183",
+        "runs": "2156",
+        "bat avg": "15.97",
+        "100s/50s": "1/\u2013",
+        "deliveries": "35414",
+        "wickets": "419",
+        "bowl avg": "24.27",
+        "fivefor": "12",
+        "tenfor": "1",
+        "best bowling": "7/31",
+        "catches/stumpings": "115/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1921\u201333"
+    },
+    "birth_date": "1897-9-22"
+}

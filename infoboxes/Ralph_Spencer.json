@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Ralph Spencer",
+    "birth_place": "Newburn, Northumberland,, England",
+    "death_date": "df=yes",
+    "death_place": "Netherwitton, Northumberland, England",
+    "family": "Walter Trevelyan (great-uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/20957.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "181",
+        "bat avg": "11.20",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "deliveries": "1,028",
+        "wickets": "19",
+        "bowl avg": "24.26",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/19",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1881&ndash;1882",
+        "Northumberland": "1899"
+    }
+}

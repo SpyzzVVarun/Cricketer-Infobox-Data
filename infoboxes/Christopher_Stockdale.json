@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Christopher James Stockdale",
+    "birth_place": "Carlisle, Cumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/20548.html Cricinfo ",
+    "List A": {
+        "matches": "10",
+        "runs": "147",
+        "bat avg": "14.50",
+        "100s/50s": "&ndash;/1",
+        "top score": "51",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1988&ndash;1989",
+        "Cumberland": "1981&ndash;2000"
+    },
+    "birth_date": "1965-5-15"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Arthur Morris",
+    "fullname": "Arthur Robert Morris",
+    "birth_place": "Bondi, New South Wales, Australia",
+    "death_date": "2015",
+    "death_place": "Sydney, Australia",
+    "heightm": "1.75",
+    "batting": "Left-handed",
+    "bowling": "Left-arm unorthodox Left-arm unorthodox spin",
+    "role": "Batsman",
+    "country": "Australia",
+    "testdebutdate": "29 November",
+    "testdebutyear": "1946",
+    "testdebutagainst": "England",
+    "testcap": "171",
+    "lasttestdate": "11 June",
+    "lasttestyear": "1955",
+    "lasttestagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/0/760/760.html CricketArchive ",
+    "Test": {
+        "matches": "46",
+        "runs": "3,533",
+        "bat avg": "46.48",
+        "100s/50s": "12/12",
+        "top score": "206",
+        "deliveries": "111",
+        "wickets": "2",
+        "bowl avg": "25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "15/\u2013"
+    },
+    "First-class": {
+        "matches": "162",
+        "runs": "12,614",
+        "bat avg": "53.67",
+        "100s/50s": "46/46",
+        "top score": "290",
+        "deliveries": "860",
+        "wickets": "12",
+        "bowl avg": "49.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/36",
+        "catches/stumpings": "73/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1940/41\u20131954/55"
+    },
+    "birth_date": "1922-1-19"
+}

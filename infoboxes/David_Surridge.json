@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "David Surridge",
+    "birth_place": "Bishop's Stortford, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20551.html Cricinfo ",
+    "First-class": {
+        "matches": "35",
+        "runs": "104",
+        "bat avg": "8.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "5,695",
+        "wickets": "89",
+        "bowl avg": "29.88",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/78",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "List A": {
+        "matches": "53",
+        "runs": "40",
+        "bat avg": "3.07",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "2,745",
+        "wickets": "41",
+        "bowl avg": "42.87",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/26",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1983&ndash;1986",
+        "Hertfordshire": "1977&ndash;1979",
+        "Gloucestershire": "1980&ndash;1982",
+        "Cambridge University": "1979"
+    },
+    "birth_date": "1956-1-6"
+}

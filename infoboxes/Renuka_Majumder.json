@@ -1,0 +1,51 @@
+{
+    "name": "Renuka Majumder",
+    "female": "true",
+    "fullname": "Renuka Majumder",
+    "birth_place": "India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "internationalspan": "1982",
+    "country": "International XI",
+    "odidebutdate": "12 January",
+    "odidebutyear": "1982",
+    "odidebutagainst": "New Zealand",
+    "odicap": "20",
+    "lastodidate": "4 February",
+    "lastodiyear": "1982",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17164/17164.html CricketArchive ",
+    "WODI": {
+        "matches": "6",
+        "runs": "24",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "282",
+        "wickets": "3",
+        "bowl avg": "59.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WLA": {
+        "matches": "14",
+        "runs": "155",
+        "bat avg": "19.37",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "432",
+        "wickets": "12",
+        "bowl avg": "25.25",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/17",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Delhi": "1986/87"
+    },
+    "birth_date": "1962-9-15"
+}

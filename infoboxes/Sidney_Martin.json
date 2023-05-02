@@ -1,0 +1,31 @@
+{
+    "name": "Sidney Martin",
+    "country": "South Africa",
+    "fullname": "Sidney Hugh Martin",
+    "birth_place": "Durban, South Africa",
+    "death_date": "1988",
+    "death_place": "Frankston, Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/46180.html CricInfo ",
+    "First-class": {
+        "matches": "267",
+        "runs": "11,511",
+        "bat avg": "27.02",
+        "100s/50s": "13/68",
+        "deliveries": "36,939",
+        "wickets": "532",
+        "bowl avg": "28.31",
+        "fivefor": "21",
+        "tenfor": "6",
+        "best bowling": "8/24",
+        "catches/stumpings": "159/\u2013"
+    },
+    "clubs": {
+        "Natal": "1925/26\u20131946/47",
+        "MCC": "1929\u20131930",
+        "Worcestershire": "1931\u20131939",
+        "Rhodesia": "1947/48\u20131949/50"
+    },
+    "birth_date": "1909-1-11"
+}

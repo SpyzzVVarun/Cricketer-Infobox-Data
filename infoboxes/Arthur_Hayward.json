@@ -1,0 +1,25 @@
+{
+    "name": "Arthur Hayward",
+    "country": "England",
+    "fullname": "Arthur John Hayward",
+    "batting": "Right-handed",
+    "bowling": "Leg-break Leg-break googly",
+    "source": "http://www.cricinfo.com/ci/content/player/14115.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "17",
+        "bat avg": "4.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1925&ndash;1926"
+    }
+}

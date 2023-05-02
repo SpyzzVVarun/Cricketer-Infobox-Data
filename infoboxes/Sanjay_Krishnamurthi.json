@@ -1,0 +1,48 @@
+{
+    "name": "Sanjay Krishnamurthi",
+    "country": "United States",
+    "birth_place": "Corvallis, Oregon, United States",
+    "batting": "Right-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "role": "All-rounder",
+    "odidebutdate": "13 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Nepal",
+    "odicap": "35",
+    "lastodidate": "17 September",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/1277627.html Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "0/15",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "0/15",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Bay Blazers": "2021"
+    },
+    "birth_date": "2003-6-2"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Elisha Light",
+    "country": "England",
+    "fullname": "Elisha Edward Light",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "1952",
+    "death_place": "Llanelli, Carmarthenshire, Wales",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "William Light (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/16290.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "168",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "481",
+        "wickets": "5",
+        "bowl avg": "52.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/22",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1898&ndash;1900",
+        "Carmarthenshire": "1907"
+    }
+}

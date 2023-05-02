@@ -1,0 +1,24 @@
+{
+    "name": "Sainammin Saenya",
+    "female": "true",
+    "country": "Thailand",
+    "T20Idebutdate": "3 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "9",
+    "lastT20Idate": "27 February",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "UAE",
+    "source": "http://www.espncricinfo.com/ci/content/player/651191.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1998-8-30",
+    "medaltemplates": [
+        "Country: {{THA}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

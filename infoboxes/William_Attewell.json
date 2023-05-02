@@ -1,0 +1,42 @@
+{
+    "name": "William Attewell",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "birth_place": "Keyworth, Nottinghamshire, England",
+    "death_date": "11 June 1927 (aged 65)",
+    "death_place": "Long Eaton, Derbyshire, England",
+    "country": "England",
+    "testdebutdate": "12 December",
+    "testdebutyear": "1884",
+    "lasttestdate": "28 March",
+    "lasttestyear": "1892",
+    "source": "http://content.cricinfo.com/england/content/player/8588.html Cricinfo",
+    "Tests": {
+        "matches": "10",
+        "runs": "150",
+        "bat avg": "16.66",
+        "100s/50s": "0/0",
+        "deliveries": "2,850",
+        "wickets": "28",
+        "bowl avg": "22.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "9/0"
+    },
+    "First-class": {
+        "matches": "429",
+        "runs": "8,083",
+        "bat avg": "14.03",
+        "100s/50s": "1/27",
+        "top score": "102",
+        "deliveries": "108,264",
+        "wickets": "1,951",
+        "bowl avg": "15.32",
+        "fivefor": "134",
+        "tenfor": "27",
+        "best bowling": "9/23",
+        "catches/stumpings": "364/0"
+    },
+    "clubs": {}
+}

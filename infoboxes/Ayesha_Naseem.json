@@ -1,0 +1,43 @@
+{
+    "name": "Ayesha Naseem",
+    "female": "true",
+    "country": "Pakistan",
+    "birth_place": "Abbottabad, Pakistan",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "odidebutdate": "12 July",
+    "odidebutyear": "2021",
+    "odidebutagainst": "West Indies",
+    "odicap": "85",
+    "lastodidate": "21 January",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Australia",
+    "T20Idebutdate": "3 March",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "48",
+    "lastT20Idate": "15 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Ireland",
+    "source": "https://www.espncricinfo.com/player/ayesha-naseem-1214078 CricInfo ",
+    "WODI": {
+        "matches": "3",
+        "runs": "33",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20I": {
+        "matches": "25",
+        "runs": "286",
+        "bat avg": "17.87",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Abbottabad": "2016\u20132017"
+    },
+    "birth_date": "2004-8-7"
+}

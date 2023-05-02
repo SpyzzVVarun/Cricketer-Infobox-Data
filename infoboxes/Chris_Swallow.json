@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Christopher Andrew Swallow",
+    "birth_place": "Ipswich, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/20483.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "49",
+        "bat avg": "16.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "144",
+        "wickets": "1",
+        "bowl avg": "167.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/62",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Suffolk": "1999&ndash;present"
+    },
+    "birth_date": "1981-11-27"
+}

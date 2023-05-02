@@ -1,0 +1,47 @@
+{
+    "name": "Ali Orr",
+    "fullname": "Alistair Graham Hamilton Orr",
+    "birth_place": "Eastbourne, East Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Top order batsman, Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "3 June",
+    "debutyear1": "2021",
+    "debutfor1": "Sussex",
+    "debutagainst1": "Yorkshire",
+    "type2": "List A",
+    "debutdate2": "30 July",
+    "debutyear2": "2021",
+    "debutfor2": "Sussex",
+    "debutagainst2": "Kent",
+    "source": "http://www.espncricinfo.com/ci/content/player/1260069.html Cricinfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "1,635",
+        "bat avg": "43.02",
+        "100s/50s": "4/7",
+        "top score": "198",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "670",
+        "bat avg": "47.85",
+        "100s/50s": "2/3",
+        "top score": "206",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "166",
+        "bat avg": "20.75",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Sussex( 6 )": "2021\u2013present"
+    },
+    "birth_date": "2001-4-6"
+}

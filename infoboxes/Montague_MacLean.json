@@ -1,0 +1,29 @@
+{
+    "name": "Montague MacLean",
+    "country": "England",
+    "fullname": "Montague Francis MacLean",
+    "birth_place": "Kensington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Ross-on-Wye, Herefordshire,, England",
+    "family": "John MacLean (son)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17265.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "65",
+        "bat avg": "21.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "40",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1893"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Joseph Tucker",
+    "country": "England",
+    "fullname": "Joseph Peter Tucker",
+    "birth_place": "Bath, Somerset",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "First-class",
+    "debutdate1": "23 August",
+    "debutyear1": "2000",
+    "debutfor1": "Somerset",
+    "debutagainst1": "West Indians",
+    "lastdate1": "20 April",
+    "lastyear1": "2001",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.espncricinfo.com/ci/content/player/21525.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "168",
+        "wickets": "1",
+        "bowl avg": "129.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Somerset": "2000\u20131"
+    },
+    "birth_date": "1979-09-14"
+}

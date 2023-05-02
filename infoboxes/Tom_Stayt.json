@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Thomas Patrick Stayt",
+    "birth_place": "Salisbury, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/21446.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "45",
+        "bat avg": "15.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "36",
+        "deliveries": "558",
+        "wickets": "6",
+        "bowl avg": "49.16",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/51",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "113",
+        "wickets": "3",
+        "bowl avg": "43.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/51",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire": "2007&ndash;2009"
+    },
+    "birth_date": "1986-1-20"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Bridget Patterson",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Bridget Emma Patterson",
+    "birth_place": "Kingscote, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/955/955561/955561.html CricketArchive",
+    "WLA": {
+        "matches": "62",
+        "runs": "1,691",
+        "bat avg": "28.18",
+        "100s/50s": "4/8",
+        "top score": "113",
+        "catches/stumpings": "24/\u2013"
+    },
+    "WT20": {
+        "matches": "122",
+        "runs": "1,733",
+        "bat avg": "16.82",
+        "100s/50s": "0/4",
+        "top score": "60",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {
+        "South Australia( 21 )": "2012/13\u2013present",
+        "Adelaide Strikers( 21 )": "2015/16\u2013present"
+    },
+    "birth_date": "1994-4-12"
+}

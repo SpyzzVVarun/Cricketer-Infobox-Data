@@ -1,0 +1,38 @@
+{
+    "name": "Hannah Little",
+    "female": "true",
+    "country": "Ireland",
+    "family": "Josh Little (brother), Louise Little (sister)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "2019",
+    "T20Idebutdate": "29 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "45",
+    "lastT20Idate": "13 August",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Thailand",
+    "source": "http://www.espncricinfo.com/ci/content/player/1196961.html Cricinfo ",
+    "WT20I": {
+        "matches": "4",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Typhoons": "2015\u20132016",
+        "Dragons": "2015\u20132018",
+        "Scorchers": "2019\u2013present"
+    },
+    "birth_date": "2001-7-21"
+}

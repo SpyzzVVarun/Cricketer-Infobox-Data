@@ -1,0 +1,30 @@
+{
+    "name": "Gervase du Croz",
+    "country": "Australia",
+    "fullname": "Gervase Bedford du Croz",
+    "birth_place": "London, England",
+    "death_date": "19 February 1855 (aged 35)",
+    "death_place": "Launceston, Tasmania, Australia",
+    "type1": "FC",
+    "debutdate1": "11 February",
+    "debutyear1": "1851",
+    "debutfor1": "Tasmania",
+    "debutagainst1": "Victoria",
+    "lastdate1": "3 March",
+    "lastyear1": "1854",
+    "lastfor1": "Victoria",
+    "lastagainst1": "Tasmania",
+    "source": "http://www.espncricinfo.com/ci/content/player/4984.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "45",
+        "bat avg": "11.25",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1850/51",
+        "Victoria": "1853/54"
+    }
+}

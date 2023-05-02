@@ -1,0 +1,29 @@
+{
+    "name": "Harry Pickett",
+    "country": "England",
+    "birth_place": "Stratford, Essex, England",
+    "death_date": "1907",
+    "death_place": "Aberavon, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/7/7099/7099.html CricketArchive ",
+    "First-class": {
+        "matches": "62",
+        "runs": "450",
+        "bat avg": "8.03",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "7,271",
+        "wickets": "134",
+        "bowl avg": "24.39",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "10/32",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "MCC": "1884\u20131898",
+        "Essex": "1894\u20131897"
+    },
+    "birth_date": "1862-3-16"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "William Duff",
+    "country": "South Africa",
+    "fullname": "William Dick Duff",
+    "birth_place": "Pietermaritzburg, Natal",
+    "death_date": "1953",
+    "death_place": "Johannesburg, Transvaal, South Africa",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/44729.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "72",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "18 not out",
+        "deliveries": "1035",
+        "wickets": "24",
+        "bowl avg": "31.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/37",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1919-20 to 1924-25"
+    },
+    "birth_date": "1890-9-19"
+}

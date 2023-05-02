@@ -1,0 +1,27 @@
+{
+    "name": "Qamar Ahmed",
+    "country": "Pakistan",
+    "birth_place": "Mughal Serai, Uttar Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/42392.html Cricinfo",
+    "First-class": {
+        "matches": "17",
+        "runs": "371",
+        "bat avg": "12.79",
+        "100s/50s": "0/1",
+        "top score": "68 not out",
+        "deliveries": "2023",
+        "wickets": "36",
+        "bowl avg": "29.11",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/36",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Sind": "1956-57 to 1957-58",
+        "Hyderabad": "1958-59 to 1962-63"
+    },
+    "birth_date": "1937-10-23"
+}

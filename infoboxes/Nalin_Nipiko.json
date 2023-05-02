@@ -1,0 +1,52 @@
+{
+    "name": "Nalin Nipiko",
+    "country": "Vanuatu",
+    "T20Idebutdate": "22 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "PNG",
+    "T20Icap": "7",
+    "lastT20Idate": "16 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Fiji",
+    "source": "http://www.espncricinfo.com/ci/content/player/420513.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "T20I": {
+        "matches": "14",
+        "runs": "312",
+        "bat avg": "26.00",
+        "100s/50s": "0/2",
+        "top score": "62",
+        "deliveries": "236",
+        "wickets": "24",
+        "bowl avg": "12.95",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/19",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "133",
+        "bat avg": "26.60",
+        "100s/50s": "0/1",
+        "top score": "77",
+        "deliveries": "150",
+        "wickets": "2",
+        "bowl avg": "68.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-9-21",
+    "medaltemplates": [
+        "Country: {{VAN}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Gold Medal: 2015 Port Moresby 20 over cricket",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

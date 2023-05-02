@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Frederick Robert Harold John",
+    "birth_place": "Newport, Monmouthshire, Wales",
+    "heightft": "6",
+    "heightinch": "5",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/558747.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford MCCU": "2012"
+    },
+    "birth_date": "1991-9-6"
+}

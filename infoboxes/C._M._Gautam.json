@@ -1,0 +1,37 @@
+{
+    "name": "CM Gautam",
+    "country": "India",
+    "fullname": "Chidhambaram Muralidharen Gautam",
+    "birth_place": "Bangalore, Karnataka, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/india/content/player/302208.html Cricinfo ",
+    "FC": {
+        "matches": "94",
+        "runs": "4,716",
+        "bat avg": "41.36",
+        "100s/50s": "10/24",
+        "catches/stumpings": "296/21"
+    },
+    "LA": {
+        "matches": "58",
+        "runs": "1,212",
+        "bat avg": "31.89",
+        "100s/50s": "1/6",
+        "catches/stumpings": "62/16"
+    },
+    "T20": {
+        "matches": "48",
+        "runs": "511",
+        "bat avg": "17.03",
+        "100s/50s": "0/1",
+        "catches/stumpings": "40/14"
+    },
+    "clubs": {
+        "Karnataka": "2008\u20132019",
+        "Royal Challengers Bangalore": "2010\u20132013",
+        "Delhi Daredevils( 5 )": "2013; 2015",
+        "Mumbai Indians": "2014"
+    },
+    "birth_date": "1986-3-8"
+}

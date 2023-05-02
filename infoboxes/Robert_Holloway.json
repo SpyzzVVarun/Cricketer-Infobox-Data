@@ -1,0 +1,28 @@
+{
+    "name": "Bob Holloway",
+    "fullname": "Robert Alexander Holloway",
+    "birth_place": "Invercargill, New Zealand",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "type1": "FC",
+    "debutdate1": "25 December",
+    "debutyear1": "1961",
+    "debutfor1": "Otago",
+    "debutagainst1": "Wellington",
+    "lastdate1": "5 February",
+    "lastyear1": "1965",
+    "lastfor1": "Otago",
+    "lastagainst1": "Wellington",
+    "source": "https://www.espncricinfo.com/player/robert-holloway-37425 ESPN CricInfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "373",
+        "bat avg": "13.81",
+        "100s/50s": "0/2",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Otago": "1961/62\u20131964/65"
+    },
+    "birth_date": "1940-11-15"
+}

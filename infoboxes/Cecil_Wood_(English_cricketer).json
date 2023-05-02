@@ -1,0 +1,29 @@
+{
+    "name": "Cecil Wood",
+    "country": "England",
+    "fullname": "Cecil John Burditt Wood",
+    "birth_place": "Semilang, Northampton, England",
+    "death_date": "5 June 1960 (aged 84)",
+    "death_place": "Leicester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/23139.html CricInfo ",
+    "First-class": {
+        "matches": "456",
+        "runs": "23,879",
+        "bat avg": "31.05",
+        "100s/50s": "37/136",
+        "top score": "225",
+        "deliveries": "12,064",
+        "wickets": "172",
+        "bowl avg": "39.43",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/79",
+        "catches/stumpings": "180/\u2013"
+    },
+    "clubs": {
+        "Leicestershire County Cricket Club": "1896\u20131923",
+        "London County Cricket Club": "1896\u20131923"
+    }
+}

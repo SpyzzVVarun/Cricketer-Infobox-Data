@@ -1,0 +1,28 @@
+{
+    "name": "Andrew Labatt",
+    "fullname": "Andrew Brennan Mountjoye Labatt",
+    "birth_place": "Lambeth, England",
+    "death_date": "1922",
+    "death_place": "Auckland, New Zealand",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/37625.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "566",
+        "bat avg": "15.29",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "2,527",
+        "wickets": "41",
+        "bowl avg": "18.36",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/17",
+        "catches/stumpings": "30/0"
+    },
+    "clubs": {
+        "Canterbury": "1887-88 to 1895-96",
+        "Auckland": "1897-98"
+    },
+    "birth_date": "1869-3-1"
+}

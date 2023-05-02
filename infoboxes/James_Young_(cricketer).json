@@ -1,0 +1,29 @@
+{
+    "name": "James Young",
+    "country": "South Africa",
+    "fullname": "James Oswald Young",
+    "birth_place": "Port Elizabeth, Cape Province, South Africa",
+    "death_date": "1994",
+    "death_place": "Port Elizabeth",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/26/26155/26155.html Cricinfo ",
+    "First-class": {
+        "matches": "35",
+        "runs": "1097",
+        "bat avg": "21.94",
+        "100s/50s": "1/4",
+        "top score": "110 not out",
+        "deliveries": "7529",
+        "wickets": "80",
+        "bowl avg": "28.88",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "19/0"
+    },
+    "clubs": {
+        "Eastern Province": "1935-36 to 1952-53"
+    },
+    "birth_date": "1913-6-28"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Eris Paton",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1954\u20131961",
+    "fullname": "Eris Annie Paton",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "2004",
+    "death_place": "Invercargill, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "testdebutdate": "12 June",
+    "testdebutyear": "1954",
+    "testdebutagainst": "England",
+    "testcap": "28",
+    "lasttestdate": "17 March",
+    "lasttestyear": "1961",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17305/17305.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "180",
+        "bat avg": "25.71",
+        "100s/50s": "0/1",
+        "deliveries": "416",
+        "wickets": "9",
+        "bowl avg": "17.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/35",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WFC": {
+        "matches": "54",
+        "runs": "2,301",
+        "bat avg": "28.06",
+        "100s/50s": "3/13",
+        "top score": "113",
+        "deliveries": "5,708",
+        "wickets": "145",
+        "bowl avg": "14.63",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/17",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {
+        "Otago": "1948/49\u20131964/65"
+    },
+    "birth_date": "1928-10-9"
+}

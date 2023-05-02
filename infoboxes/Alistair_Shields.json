@@ -1,0 +1,40 @@
+{
+    "name": "Alistair Shields",
+    "country": "Ireland",
+    "fullname": "Alistair Ivan Shields",
+    "birth_place": "Newtownards, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "List A",
+    "onetype1": "true",
+    "debutdate1": "28 May",
+    "debutyear1": "2018",
+    "debutfor1": "Northern",
+    "debutagainst1": "North West",
+    "type2": "Twenty20",
+    "debutdate2": "18 May",
+    "debutyear2": "2018",
+    "debutfor2": "Northern",
+    "debutagainst2": "North West",
+    "source": "http://www.espncricinfo.com/ci/content/player/571708.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "87",
+        "bat avg": "21.75",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northern Knights": "2018\u2013present"
+    },
+    "birth_date": "1994-1-24"
+}

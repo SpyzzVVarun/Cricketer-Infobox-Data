@@ -1,0 +1,50 @@
+{
+    "name": "Joyce Powell",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Ivy Joyce Powell",
+    "birth_place": "Matamata, New Zealand",
+    "death_date": "2003",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "12 June",
+    "testdebutyear": "1954",
+    "testdebutagainst": "England",
+    "testcap": "29",
+    "lasttestdate": "17 March",
+    "lasttestyear": "1961",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17308/17308.html CricketArchive ",
+    "WTest": {
+        "matches": "7",
+        "runs": "272",
+        "bat avg": "24.72",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/1"
+    },
+    "WFC": {
+        "matches": "63",
+        "runs": "2,620",
+        "bat avg": "29.43",
+        "100s/50s": "1/18",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "34/31"
+    },
+    "clubs": {
+        "Auckland": "1945/46\u20131960/61"
+    },
+    "birth_date": "1922-5-25"
+}

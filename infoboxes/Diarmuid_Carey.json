@@ -1,0 +1,25 @@
+{
+    "country": "Ireland",
+    "fullname": "Diarmuid Carey",
+    "birth_place": "Cork, Munster, Ireland",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ireland/content/player/1147695.html Cricinfo ",
+    "Twenty20": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "78.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Munster Reds": "2018&ndash;2020"
+    },
+    "birth_date": "2000-9-28"
+}

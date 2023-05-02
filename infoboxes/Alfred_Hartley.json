@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Alfred Hartley",
+    "birth_place": "New Orleans, Louisiana,, United States",
+    "death_date": "1918",
+    "death_place": "Near Maissemy, Aisne, France",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/alfred-hartley-14598 Cricinfo ",
+    "First-class": {
+        "matches": "116",
+        "runs": "5,049",
+        "bat avg": "27.74",
+        "100s/50s": "6/26",
+        "top score": "234",
+        "deliveries": "75",
+        "wickets": "1",
+        "bowl avg": "61.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/39",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1907&ndash;1914"
+    }
+}

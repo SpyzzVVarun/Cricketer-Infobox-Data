@@ -1,0 +1,29 @@
+{
+    "name": "Alex Bowell",
+    "country": "England",
+    "fullname": "Horace Alexander William Bowell",
+    "birth_place": "Jericho, Oxfordshire, England",
+    "death_date": "1957",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Norman Bowell (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/9172.html Cricinfo ",
+    "First-class": {
+        "matches": "475",
+        "runs": "18,509",
+        "bat avg": "24.13",
+        "100s/50s": "25/90",
+        "top score": "204",
+        "deliveries": "2,973",
+        "wickets": "34",
+        "bowl avg": "51.94",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/20",
+        "catches/stumpings": "255/2"
+    },
+    "clubs": {
+        "Hampshire": "1902\u20131927"
+    }
+}

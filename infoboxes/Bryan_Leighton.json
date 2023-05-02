@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Bryan John Leighton",
+    "birth_place": "Hereford, Herefordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/1149914.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "156",
+        "wickets": "3",
+        "bowl avg": "26.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/42",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "2018"
+    },
+    "birth_date": "December 1996"
+}

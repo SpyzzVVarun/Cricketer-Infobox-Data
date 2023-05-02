@@ -1,0 +1,30 @@
+{
+    "name": "Alister Howden",
+    "country": "New Zealand",
+    "fullname": "Alister Macdonald Howden",
+    "birth_place": "Rothesay, Bute, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Takapuna, Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Charles Howden (brother), Peter Howden (nephew)",
+    "source": "http://www.espncricinfo.com/ci/content/player/37445.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "95",
+        "bat avg": "7.91",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "1888",
+        "wickets": "53",
+        "bowl avg": "18.00",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/87",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Auckland": "1906-07 to 1914-15"
+    },
+    "birth_date": "1877-8-20"
+}

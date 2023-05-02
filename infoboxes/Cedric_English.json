@@ -1,0 +1,36 @@
+{
+    "name": "Cedric English",
+    "birth_place": "Kimberley, Northern Cape",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/44968.html Cricinfo",
+    "First-class": {
+        "matches": "40",
+        "runs": "1,150",
+        "bat avg": "20.90",
+        "100s/50s": "1/5",
+        "top score": "108",
+        "deliveries": "4740",
+        "wickets": "67",
+        "bowl avg": "39.97",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/65",
+        "catches/stumpings": "14/\u2013"
+    },
+    "List A": {
+        "matches": "69",
+        "runs": "792",
+        "bat avg": "15.84",
+        "100s/50s": "0/3",
+        "deliveries": "1,497",
+        "wickets": "30",
+        "bowl avg": "44.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/24",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "13 September 1973"
+}

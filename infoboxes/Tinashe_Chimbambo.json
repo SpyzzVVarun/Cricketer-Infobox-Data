@@ -1,0 +1,31 @@
+{
+    "name": "Tinashe Chimbambo",
+    "country": "Zimbabwe",
+    "birth_place": "Chitungwiza, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Players/98/98054/98054.html CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "320",
+        "bat avg": "13.91",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "catches/stumpings": "13/\u2013"
+    },
+    "List A": {
+        "matches": "18",
+        "runs": "205",
+        "bat avg": "14.64",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "22/4"
+    },
+    "clubs": {
+        "Mashonaland": "2005/06",
+        "Northerns": "2007/08",
+        "Mountaineers": "2017/18\u20132020/21"
+    },
+    "birth_date": "1989-2-8"
+}

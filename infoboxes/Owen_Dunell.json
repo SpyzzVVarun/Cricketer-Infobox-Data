@@ -1,0 +1,27 @@
+{
+    "name": "Owen Dunell",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "12 March",
+    "testdebutyear": "1889",
+    "lasttestdate": "25 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1889",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/44732.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "3",
+        "runs": "79",
+        "bat avg": "15.80",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

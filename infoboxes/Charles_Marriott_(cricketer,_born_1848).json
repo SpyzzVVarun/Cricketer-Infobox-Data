@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Charles Marriott",
+    "birth_place": "Cotesbach, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Cotesbach, Leicestershire, England",
+    "family": "George Marriott (brother) Peter Scott (grandson) Robert Scott (grandson)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/17337.html Cricinfo ",
+    "First-class": {
+        "matches": "31",
+        "runs": "628",
+        "bat avg": "14.27",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "deliveries": "68",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1870&ndash;1871",
+        "Marylebone Cricket Club": "1870&ndash;1882"
+    }
+}

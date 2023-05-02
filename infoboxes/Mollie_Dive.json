@@ -1,0 +1,23 @@
+{
+    "name": "Mollie Dive",
+    "female": "true",
+    "testcap": "33",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/53495.html Cricinfo  ",
+    "Test": {
+        "matches": "7",
+        "runs": "177",
+        "bat avg": "16.09",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "22.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

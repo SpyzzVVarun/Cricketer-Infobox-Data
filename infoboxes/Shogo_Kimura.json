@@ -1,0 +1,31 @@
+{
+    "statyear": "2017 season",
+    "statleague": "NPB",
+    "stat1label": "Batting average",
+    "stat1value": ".261",
+    "stat2label": "Hits",
+    "stat2value": "294",
+    "stat3label": "RBIs",
+    "stat3value": "71",
+    "stat4label": "Home runs",
+    "stat4value": [
+        "Yokohama BayStars (2003\u20132007)",
+        "Hiroshima Toyo Carp (2008\u20132015)",
+        "Saitama Seibu Lions (2016\u20132017)"
+    ],
+    "module": "embed=y",
+    "country": "Japan",
+    "heightm": "1.82",
+    "batting": "Left-handed",
+    "role": "Batter",
+    "internationalspan": "2018-present",
+    "T20Idebutdate": "10 October",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Indonesia",
+    "T20Icap": "14",
+    "lastT20Idate": "18 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Indonesia",
+    "source": "http://www.espncricinfo.com/ci/content/player/1159147.html Cricinfo   ",
+    "clubs": {}
+}

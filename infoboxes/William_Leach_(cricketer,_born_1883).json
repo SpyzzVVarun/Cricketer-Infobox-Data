@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "William Robert Ronald Leach",
+    "birth_place": "Kensington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/16502.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "66",
+        "wickets": "3",
+        "bowl avg": "20.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/61",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

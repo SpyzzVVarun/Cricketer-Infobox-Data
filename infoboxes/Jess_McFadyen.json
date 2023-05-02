@@ -1,0 +1,66 @@
+{
+    "name": "Jess McFadyen",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Jessica Toihi McFadyen",
+    "birth_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "11 December",
+    "odidebutyear": "2022",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "147",
+    "lastodidate": "17 December",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Bangladesh",
+    "oneT20I": "true",
+    "T20Idebutdate": "2 December",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Bangladesh",
+    "T20Icap": "63",
+    "source": "https://cricketarchive.com/Archive/Players/1018/1018558/1018558.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "1/1"
+    },
+    "WT20I": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "WLA": {
+        "matches": "56",
+        "runs": "1,384",
+        "bat avg": "36.42",
+        "100s/50s": "2/6",
+        "catches/stumpings": "47/22"
+    },
+    "WT20": {
+        "matches": "50",
+        "runs": "180",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "catches/stumpings": "21/26"
+    },
+    "clubs": {
+        "Wellington": "2015/16\u2013present"
+    },
+    "birth_date": "1991-10-5",
+    "medaltemplates": [
+        "Country: {{NZL}}",
+        "Sport: Women's Cricket",
+        "Competition: Commonwealth Games",
+        "Bronze Medal: 2022 Birmingham Team"
+    ]
+}

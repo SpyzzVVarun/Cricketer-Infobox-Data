@@ -1,0 +1,40 @@
+{
+    "name": "Vernon van Oudtshoorn",
+    "full_name": "Vernon John van Oudtshoorn",
+    "birth_place": "Bindura, Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/vernon-van-oudtshoorn-55829 ESPNcricinfo",
+    "FC": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "222",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Mashonaland Country Districts": "1995/96"
+    },
+    "birth_date": "1976-05-29"
+}

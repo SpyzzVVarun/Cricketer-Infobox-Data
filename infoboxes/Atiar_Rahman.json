@@ -1,0 +1,31 @@
+{
+    "name": "Atiar Rahman",
+    "country": "Bangladesh",
+    "fullname": "Mohammad Atiar Rahman",
+    "nickname": "Atiar",
+    "birth_place": "Dhaka, Bangladesh",
+    "role": "Wicketkeeper",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/56242.html Cricinfo  ",
+    "FC": {
+        "matches": "6",
+        "runs": "83",
+        "bat avg": "16.60",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "12/1"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "212",
+        "bat avg": "23.55",
+        "100s/50s": "0/1",
+        "top score": "84",
+        "catches/stumpings": "17/2"
+    },
+    "clubs": {
+        "Bangladesh Cricket Board XI": "1996/97",
+        "Biman Bangladesh Airlines": "2000/01"
+    },
+    "birth_date": "1974-1-5"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Maurice Hallam",
+    "country": "England",
+    "fullname": "Maurice Raymond Hallam",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "2000",
+    "death_place": "Leicester, Leicestershire",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/10/10882/10882.html CricketArchive",
+    "First-class": {
+        "matches": "504",
+        "runs": "24,488",
+        "bat avg": "28.84",
+        "100s/50s": "32/122",
+        "deliveries": "204",
+        "wickets": "4",
+        "bowl avg": "35.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/12",
+        "catches/stumpings": "452/&ndash;"
+    },
+    "List A": {
+        "matches": "17",
+        "runs": "335",
+        "bat avg": "19.70",
+        "100s/50s": "1/&ndash;",
+        "top score": "106",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "n/a",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1931-9-10"
+}

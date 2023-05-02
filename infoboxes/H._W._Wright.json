@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "H. W. Wright",
+    "source": "http://www.cricinfo.com/ci/content/player/22537.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "140",
+        "wickets": "1",
+        "bowl avg": "70.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/70",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1885"
+    }
+}

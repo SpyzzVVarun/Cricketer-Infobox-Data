@@ -1,0 +1,28 @@
+{
+    "name": "Alfred Seal",
+    "country": "England",
+    "birth_place": "Millbrook, Hampshire, England",
+    "death_date": "1961",
+    "death_place": "Chailey, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/20643.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "30",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1904"
+    },
+    "birth_date": "1875-8-10"
+}

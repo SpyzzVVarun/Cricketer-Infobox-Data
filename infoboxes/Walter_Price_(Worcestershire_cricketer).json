@@ -1,0 +1,21 @@
+{
+    "name": "Walter Price",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://cricketarchive.co.uk/Archive/Players/32/32180/32180.html CricketArchive",
+    "First-class": {
+        "matches": "3",
+        "runs": "12",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "420",
+        "wickets": "8",
+        "bowl avg": "35.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/86",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {}
+}

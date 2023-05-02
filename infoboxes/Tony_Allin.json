@@ -1,0 +1,46 @@
+{
+    "name": "Tony Allin",
+    "country": "England",
+    "fullname": "Anthony William Allin",
+    "birth_place": "Raleigh Park, Barnstaple, Devon, England",
+    "family": "Tom Allin (son), Matthew Allin (son)",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "onetype1": "true",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/4/4282/4282.html CricketArchive ",
+    "FC": {
+        "matches": "13",
+        "runs": "108",
+        "bat avg": "13.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "2,001",
+        "wickets": "44",
+        "bowl avg": "22.97",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "8/63",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "19",
+        "runs": "50",
+        "bat avg": "5.55",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "1,150",
+        "wickets": "15",
+        "bowl avg": "50.73",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1980\u20131981",
+        "Devon": "1975",
+        "Glamorgan": "1976"
+    },
+    "birth_date": "1954-4-20"
+}

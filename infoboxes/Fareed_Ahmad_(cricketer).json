@@ -1,0 +1,38 @@
+{
+    "name": "Fareed Ahmad",
+    "country": "Afghanistan",
+    "fullname": "Fareed Ahmad Malik",
+    "birth_place": "Nangarhar, Afghanistan",
+    "batting": "Left-handed",
+    "bowling": "Left arm fast Left arm fast medium",
+    "role": "Bowler",
+    "internationalspan": "2014\u2013present",
+    "odidebutdate": "2 December",
+    "odidebutyear": "2014",
+    "odidebutagainst": "United Arab Emirates",
+    "odicap": "35",
+    "lastodidate": "9 June",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Zimbabwe",
+    "T20Idebutdate": "14 December",
+    "T20Idebutyear": "2016",
+    "T20Idebutagainst": "UAE",
+    "T20Icap": "33",
+    "lastT20Idate": "27 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/568136.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Amo Region": "2017"
+    },
+    "birth_date": "1994-8-10",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{Afghanistan}}",
+        "Competition: Asian Games",
+        "Silver Medal: 2014 Incheon Team"
+    ]
+}

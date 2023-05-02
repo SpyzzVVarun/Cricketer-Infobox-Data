@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Francis Capper Brooke",
+    "birth_place": "Ufford, Suffolk, England",
+    "death_date": "1886",
+    "death_place": "Ufford, Suffolk, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/10524.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1836"
+    }
+}

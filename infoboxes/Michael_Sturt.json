@@ -1,0 +1,28 @@
+{
+    "name": "Michael Sturt",
+    "fullname": "Michael Ormonde Cleasby Sturt",
+    "birth_place": "Wembley, Middlesex, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/mike-sturt-21108 Cricinfo ",
+    "FC": {
+        "matches": "33",
+        "runs": "202",
+        "bat avg": "7.76",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "64/8"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/1"
+    },
+    "clubs": {
+        "Middlesex": "1961\u20131978"
+    },
+    "birth_date": "1941-12-12"
+}

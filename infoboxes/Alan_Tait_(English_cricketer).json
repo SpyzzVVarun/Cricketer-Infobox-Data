@@ -1,0 +1,25 @@
+{
+    "name": "Alan Tait",
+    "birth_place": "Washington, County Durham, England",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/21688.html Cricinfo ",
+    "FC": {
+        "matches": "63",
+        "runs": "1897",
+        "bat avg": "18.41",
+        "100s/50s": "0/12",
+        "top score": "99"
+    },
+    "List A": {
+        "matches": "42",
+        "runs": "834",
+        "bat avg": "20.85",
+        "100s/50s": "1/1"
+    },
+    "clubs": {
+        "Northamptonshire": "1971\u20131975",
+        "Gloucestershire": "1978"
+    },
+    "birth_date": "1953-12-27"
+}

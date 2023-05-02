@@ -1,0 +1,33 @@
+{
+    "name": "Kamna Mirchandani",
+    "female": "true",
+    "fullname": "Kamna Niresh Mirchandani",
+    "birth_place": "Mumbai, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "country": "Canada",
+    "T20Idebutdate": "17 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "United States",
+    "T20Icap": "9",
+    "lastT20Idate": "25 October",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Brazil",
+    "source": "http://espncricinfo.com/srilanka/content/player/561537.html Cricinfo ",
+    "WT20I": {
+        "matches": "9",
+        "runs": "52",
+        "bat avg": "8.66",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "87.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1979-10-03"
+}

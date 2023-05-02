@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Barham Green",
+    "birth_place": "St Kilda, Victoria, Australia",
+    "death_date": "18 January 1924 (aged 71)",
+    "death_place": "North Chailey, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/13741.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "53",
+        "bat avg": "8.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1880&ndash;1884"
+    }
+}

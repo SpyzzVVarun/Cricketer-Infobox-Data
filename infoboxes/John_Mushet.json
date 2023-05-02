@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "John Mushet",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1965",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/player/john-mushet-25307 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1912"
+    }
+}

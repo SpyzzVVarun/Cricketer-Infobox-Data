@@ -1,0 +1,35 @@
+{
+    "name": "Bill Hawkins",
+    "birth_name": "William Henry Hawkins",
+    "birth_place": "Rylstone, New South Wales, Australia",
+    "death_date": "1930",
+    "death_place": "New Plymouth, New Zealand",
+    "constituency_MP": "Pahiatua",
+    "parliament": "New Zealand",
+    "predecessor": "John O'Meara",
+    "successor": "Robert Beatson Ross",
+    "term_start": "1904",
+    "term_end": "1905",
+    "module": "embed = y",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/22/22077/22077.html CricketArchive  ",
+    "First-class": {
+        "matches": "17",
+        "runs": "91",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "568",
+        "wickets": "13",
+        "bowl avg": "19.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/11",
+        "catches/stumpings": "13/4"
+    },
+    "clubs": {
+        "Auckland": "1886-87 \u2013 1896-97",
+        "Hawke's Bay": "1887-88 \u2013 1894-95"
+    }
+}

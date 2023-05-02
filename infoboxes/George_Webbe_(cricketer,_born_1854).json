@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "George Allan Webbe",
+    "birth_place": "Westminster, Middlesex, England",
+    "death_date": "1925",
+    "death_place": "Ascot, Berkshire, England",
+    "family": "A. J. Webbe (brother), Herbert Webbe (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/22814.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "37",
+        "bat avg": "18.50",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1878"
+    }
+}

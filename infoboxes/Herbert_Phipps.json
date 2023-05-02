@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Herbert Gould Phipps",
+    "birth_place": "Shepton Mallet, Somerset, England",
+    "death_date": "1899",
+    "death_place": "Tientsin, China",
+    "family": "Walter Phipps (twin brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18937.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1865"
+    }
+}

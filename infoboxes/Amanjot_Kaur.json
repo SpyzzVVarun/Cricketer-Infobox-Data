@@ -1,0 +1,37 @@
+{
+    "name": "Amanjot Kaur",
+    "female": "true",
+    "country": "India",
+    "fullname": "Amanjot Parminder Kaur",
+    "birth_place": "Mohali, Punjab, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "T20Idebutdate": "19 January",
+    "T20Idebutyear": "2023",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "73",
+    "lastT20Idate": "23 January",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "West Indies",
+    "source": "https://www.espncricinfo.com/cricketers/amanjot-kaur-1255411 ESPNcricinfo ",
+    "WT20I": {
+        "matches": "2",
+        "runs": "41",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Punjab": "2022/23\u2013present",
+        "Chandigarh": "2019/20\u20132021/22",
+        "Mumbai Indians": "2023\u2013present"
+    },
+    "birth_date": "2000-08-25"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Dick Pollard",
+    "country": "England",
+    "fullname": "Richard Pollard",
+    "birth_place": "Westhoughton, Lancashire, England",
+    "death_date": "1985",
+    "death_place": "Westhoughton, Greater Manchester, England",
+    "role": "Bowler",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "testdebutdate": "20 July",
+    "testdebutyear": "1946",
+    "testdebutagainst": "India",
+    "testcap": "314",
+    "lasttestdate": "27 July",
+    "lasttestyear": "1948",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/755/755.html CricketArchive ",
+    "Test": {
+        "matches": "4",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "deliveries": "1102",
+        "wickets": "15",
+        "bowl avg": "25.20",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/24",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "298",
+        "runs": "3,522",
+        "bat avg": "13.29",
+        "100s/50s": "0/7",
+        "top score": "63",
+        "deliveries": "62,484",
+        "wickets": "1,122",
+        "bowl avg": "22.56",
+        "fivefor": "60",
+        "tenfor": "10",
+        "best bowling": "8/33",
+        "catches/stumpings": "225/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1933\u20131950"
+    },
+    "birth_date": "1912-6-19"
+}

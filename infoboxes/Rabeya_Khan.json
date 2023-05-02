@@ -1,0 +1,47 @@
+{
+    "name": "Rabeya Khan",
+    "female": "true",
+    "fullname": "Rabeya Khan",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "country": "Bangladesh",
+    "oneodi": "true",
+    "odidebutdate": "11 December",
+    "odidebutyear": "2022",
+    "odidebutagainst": "New Zealand",
+    "odicap": "32",
+    "T20Idebutdate": "4 December",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nepal",
+    "T20Icap": "30",
+    "lastT20Idate": "7 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/2321/2321950/2321950.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "36",
+        "wickets": "4",
+        "bowl avg": "2.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Southern Zone": "2021/22\u2013present"
+    },
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

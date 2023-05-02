@@ -1,0 +1,29 @@
+{
+    "name": "William Crawshaw",
+    "fullname": "William Joseph Crawshaw",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "11 February 1938",
+    "death_place": "Caterham, England",
+    "batting": "Left-handed",
+    "source": "https://cricketarchive.com/Archive/Players/21/21714/21714.html CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "393",
+        "bat avg": "17.08",
+        "100s/50s": "1/0",
+        "top score": "106",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Otago": "1877-78 to 1883-84",
+        "Canterbury": "1885-86 to 1887-88",
+        "Wellington": "1891-92",
+        "Taranaki": "1896-97 to 1897-98"
+    }
+}

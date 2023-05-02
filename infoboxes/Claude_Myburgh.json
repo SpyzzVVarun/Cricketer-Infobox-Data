@@ -1,0 +1,29 @@
+{
+    "name": "Claude Myburgh",
+    "country": "England",
+    "fullname": "Claude John Myburgh",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "death_date": "1987",
+    "death_place": "Hartley Wintney, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17758.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "183",
+        "wickets": "1",
+        "bowl avg": "70.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Devon": "1933\u20131934",
+        "Army": "1933"
+    },
+    "birth_date": "1911-7-4"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Chappie Dwyer",
+    "country": "Australia",
+    "fullname": "Edmund Alfred Dwyer",
+    "birth_place": "Mosman, Sydney, New South Wales",
+    "death_date": "1975",
+    "death_place": "Mosman, Sydney, New South Wales",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "26 December",
+    "debutyear1": "1918",
+    "debutfor1": "New South Wales",
+    "debutagainst1": "Victoria",
+    "lastdate1": "8 February",
+    "lastyear1": "1929",
+    "lastfor1": "New South Wales",
+    "lastagainst1": "Tasmania",
+    "source": "http://content-uk.cricinfo.com/australia/content/player/4994.html CricInfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "65",
+        "bat avg": "16.25",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "New South Wales": "1918/19\u20131928/29"
+    },
+    "birth_date": "1894-10-19"
+}

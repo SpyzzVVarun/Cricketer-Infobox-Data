@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Edward Solly",
+    "birth_place": "West Heath, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Menton, Alpes-Maritimes, France",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/20928.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "228",
+        "wickets": "3",
+        "bowl avg": "19.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/44",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1877"
+    }
+}

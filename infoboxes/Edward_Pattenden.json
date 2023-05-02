@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edward Peter Pattenden",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "1879",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/18789.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "6",
+        "bat avg": "1.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "104",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1873&ndash;1875"
+    },
+    "birth_date": "1842-10-31"
+}

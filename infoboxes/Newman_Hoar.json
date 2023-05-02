@@ -1,0 +1,29 @@
+{
+    "name": "Newman Hoar",
+    "country": "New Zealand",
+    "fullname": "Newman Ronald Hoar",
+    "birth_place": "Masterton, New Zealand",
+    "death_date": "2017",
+    "death_place": "Masterton, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/22/22133/22133.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "264",
+        "bat avg": "33.00",
+        "100s/50s": "0/2",
+        "top score": "76",
+        "deliveries": "673",
+        "wickets": "10",
+        "bowl avg": "33.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/68",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Wellington": "1944\u201345"
+    },
+    "birth_date": "1920-9-4"
+}

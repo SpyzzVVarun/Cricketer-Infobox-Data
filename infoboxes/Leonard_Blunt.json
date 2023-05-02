@@ -1,0 +1,29 @@
+{
+    "name": "Leonard Blunt",
+    "country": "England",
+    "birth_place": "Worcester, England",
+    "death_date": "July 2005",
+    "death_place": "Evesham, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/12/12998/12998.html CricketArchive ",
+    "FC": {
+        "matches": "15",
+        "runs": "109",
+        "bat avg": "7.26",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "2,058",
+        "wickets": "37",
+        "bowl avg": "26.10",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5-60",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Europeans": "1942/43",
+        "Worcestershire": "1946\u20131948"
+    },
+    "birth_date": "1921-3-29"
+}

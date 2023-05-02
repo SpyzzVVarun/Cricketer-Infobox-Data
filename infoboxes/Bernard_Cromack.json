@@ -1,0 +1,37 @@
+{
+    "name": "Bernard Cromack",
+    "country": "England",
+    "fullname": "Bernard Cromack",
+    "birth_place": "Rothwell, Yorkshire",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "12 August",
+    "debutyear1": "1959",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Ireland",
+    "lastdate1": "24 June",
+    "lastyear1": "1968",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/28/28836/28836.html CricketArchive ",
+    "First-class": {
+        "matches": "34",
+        "runs": "626",
+        "bat avg": "11.81",
+        "100s/50s": "0/2",
+        "top score": "55",
+        "deliveries": "2272",
+        "wickets": "38",
+        "bowl avg": "26.47",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/48",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1959\u201368"
+    },
+    "birth_date": "1937-6-5"
+}

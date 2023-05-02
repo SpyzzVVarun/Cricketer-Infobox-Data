@@ -1,0 +1,47 @@
+{
+    "name": "Jaskaran Malhotra",
+    "country": "United States",
+    "birth_place": "Chandigarh, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicket-keeper",
+    "odidebutdate": "27 April",
+    "odidebutyear": "2019",
+    "odidebutagainst": "PNG",
+    "odicap": "18",
+    "lastodidate": "17 September",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Namibia",
+    "T20Idebutdate": "15 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "UAE",
+    "T20Icap": "4",
+    "lastT20Idate": "17 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "PNG",
+    "source": "http://www.espncricinfo.com/ci/content/player/430105.html Cricinfo ",
+    "ODI": {
+        "matches": "7",
+        "runs": "228",
+        "bat avg": "45.60",
+        "100s/50s": "1/0",
+        "catches/stumpings": "5/1"
+    },
+    "T20I": {
+        "matches": "6",
+        "runs": "112",
+        "bat avg": "18.66",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "2/3"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "646",
+        "bat avg": "26.91",
+        "100s/50s": "1/3",
+        "catches/stumpings": "18/3"
+    },
+    "clubs": {},
+    "birth_date": "1989-11-4"
+}

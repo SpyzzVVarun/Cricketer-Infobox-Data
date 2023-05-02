@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Morton",
+    "birth_place": "Coventry, Warwickshire, England",
+    "death_date": "1966",
+    "death_place": "Leamington Spa, Warwickshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/17707.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "162",
+        "bat avg": "11.57",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "38",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1929&ndash;1930"
+    }
+}

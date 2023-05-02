@@ -1,0 +1,31 @@
+{
+    "name": "Wal Walmsley",
+    "country": "Australia",
+    "fullname": "Walter Thomas Walmsley",
+    "birth_place": "Homebush, New South Wales",
+    "death_date": "1978",
+    "death_place": "Hamilton, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "source": "https://cricketarchive.com/Archive/Players/2/2762/2762.html Cricket Archive",
+    "First-class": {
+        "matches": "37",
+        "runs": "1064",
+        "bat avg": "27.28",
+        "100s/50s": "2/4",
+        "deliveries": "7916",
+        "wickets": "122",
+        "bowl avg": "31.64",
+        "fivefor": "3",
+        "tenfor": "&ndash;",
+        "best bowling": "6/56",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "New South Wales": "1945-46",
+        "Tasmania": "1947-48",
+        "Queensland": "1954-55 to 1958-59",
+        "Northern Districts": "1958-59 to 1959-60"
+    },
+    "birth_date": "1916-3-16"
+}

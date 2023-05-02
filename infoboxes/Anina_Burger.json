@@ -1,0 +1,44 @@
+{
+    "name": "Anina Burger",
+    "female": "true",
+    "fullname": "Anna Adrianna Burger",
+    "birth_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "1997\u20132000",
+    "country": "South Africa",
+    "odidebutdate": "5 August",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Ireland",
+    "odicap": "2",
+    "lastodidate": "18 December",
+    "lastodiyear": "2000",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/5/5606/5606.html CricketArchive ",
+    "WODI": {
+        "matches": "18",
+        "runs": "259",
+        "bat avg": "19.92",
+        "100s/50s": "0/1",
+        "catches/stumpings": "6/\u2013"
+    },
+    "WFC": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "22",
+        "runs": "278",
+        "bat avg": "16.35",
+        "100s/50s": "0/1",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Northerns": "1995/96\u20131998/99"
+    },
+    "birth_date": "1967-8-25"
+}

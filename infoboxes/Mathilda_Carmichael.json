@@ -1,0 +1,32 @@
+{
+    "name": "Mathilda Carmichael",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Mathilda Grace Carmichael",
+    "birth_place": "St Leonards, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/955/955532/955532.html CricketArchive",
+    "WLA": {
+        "matches": "32",
+        "runs": "756",
+        "bat avg": "29.07",
+        "100s/50s": "0/5",
+        "top score": "96",
+        "catches/stumpings": "8/\u2013"
+    },
+    "WT20": {
+        "matches": "18",
+        "runs": "130",
+        "bat avg": "14.44",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2016/17\u2013present",
+        "Perth Scorchers": "2016/17\u2013present"
+    },
+    "birth_date": "1994-4-4"
+}

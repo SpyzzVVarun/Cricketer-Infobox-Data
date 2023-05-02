@@ -1,0 +1,49 @@
+{
+    "name": "Ankit Kaushik",
+    "fullname": "Ankit Kapil Kaushik",
+    "birth_place": "Chandigarh, India",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "source": "http://www.espncricinfo.com/ci/content/player/604532.html ESPNcricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "270",
+        "bat avg": "135.00",
+        "100s/50s": "2/0",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "24",
+        "runs": "567",
+        "bat avg": "40.50",
+        "100s/50s": "0/6",
+        "deliveries": "209",
+        "wickets": "6",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "6/0"
+    },
+    "T20": {
+        "matches": "16",
+        "runs": "130",
+        "bat avg": "26.00",
+        "100s/50s": "0/1",
+        "deliveries": "18",
+        "wickets": "2",
+        "bowl avg": "19.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/13",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {},
+    "birth_date": "1991-9-5"
+}

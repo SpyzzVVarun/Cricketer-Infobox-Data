@@ -1,0 +1,46 @@
+{
+    "name": "Michael Hanna",
+    "country": "England",
+    "fullname": "Michael Hanna",
+    "birth_place": "Camberwell, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "19 May",
+    "debutyear1": "1951",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "25 June",
+    "lastyear1": "1954",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Northamptonshire",
+    "type2": "LA",
+    "debutdate2": "2 May",
+    "debutyear2": "1964",
+    "debutfor2": "Wiltshire",
+    "debutagainst2": "Hampshire",
+    "lastdate2": "1 May",
+    "lastyear2": "1965",
+    "lastfor2": "Wiltshire",
+    "lastagainst2": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3597/3597.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Somerset": "1951\u20131954"
+    },
+    "birth_date": "1926-6-6"
+}

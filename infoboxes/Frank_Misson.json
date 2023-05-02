@@ -1,0 +1,43 @@
+{
+    "name": "Frank Misson",
+    "fullname": "Francis Michael Misson",
+    "birth_place": "Darlinghurst, Sydney, New South Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Australia",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1960",
+    "lasttestdate": "22 June",
+    "lasttestyear": "1961",
+    "source": "https://cricketarchive.com/Archive/Players/1/1146/1146.html CricketArchive",
+    "Tests": {
+        "matches": "5",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "deliveries": "1197",
+        "wickets": "16",
+        "bowl avg": "38.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/58",
+        "catches/stumpings": "6/0"
+    },
+    "First-class": {
+        "matches": "71",
+        "runs": "1052",
+        "bat avg": "17.53",
+        "100s/50s": "0/2",
+        "deliveries": "12190",
+        "wickets": "177",
+        "bowl avg": "31.13",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/75",
+        "catches/stumpings": "58/0"
+    },
+    "clubs": {
+        "New South Wales": "1958-59 to 1963-64"
+    },
+    "birth_date": "1938-11-19"
+}

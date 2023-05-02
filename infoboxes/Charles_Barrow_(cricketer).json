@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Deans Barrow",
+    "birth_place": "Paddington, Middlesex, England",
+    "death_date": "1944",
+    "death_place": "Farmington, Gloucestershire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/9571.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1903"
+    }
+}

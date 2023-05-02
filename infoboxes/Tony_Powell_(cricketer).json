@@ -1,0 +1,28 @@
+{
+    "name": "Tony Powell",
+    "country": "West Indies",
+    "fullname": "Tony Orlando Powell",
+    "birth_place": "Saint Catherine, Jamaica",
+    "batting": "Left-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/10/10339/10339.html CricketArchive ",
+    "First-class": {
+        "matches": "42",
+        "runs": "2,062",
+        "bat avg": "30.32",
+        "100s/50s": "3/13",
+        "catches/stumpings": "52/\u2013"
+    },
+    "List A": {
+        "matches": "38",
+        "runs": "685",
+        "bat avg": "22.83",
+        "100s/50s": "0/3",
+        "top score": "76",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1991\u20132000"
+    },
+    "birth_date": "1972-12-22"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Laurie Hawkins",
+    "country": "England",
+    "fullname": "Laurence Cyril Hawkins",
+    "birth_place": "Solihull, Warwickshire, England",
+    "death_date": "2003",
+    "death_place": "Padstow, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "All-rounder",
+    "type1": "FC",
+    "debutdate1": "18 July",
+    "debutyear1": "1928",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "6 August",
+    "lastyear1": "1937",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Middlesex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3606/3606.html CricketArchive ",
+    "First-class": {
+        "matches": "46",
+        "runs": "1,252",
+        "bat avg": "17.15",
+        "100s/50s": "0/5",
+        "top score": "96",
+        "deliveries": "1,417",
+        "wickets": "22",
+        "bowl avg": "48.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/39",
+        "catches/stumpings": "23/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1928&ndash;1937"
+    },
+    "birth_date": "1907-5-15"
+}

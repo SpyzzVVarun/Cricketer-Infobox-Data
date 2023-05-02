@@ -1,0 +1,51 @@
+{
+    "name": "Johnny Wardle",
+    "fullname": "John Henry Wardle",
+    "country": "England",
+    "birth_place": "Ardsley, Barnsley, West Riding of Yorkshire, England",
+    "death_date": "1985",
+    "death_place": "Hatfield, Doncaster, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm orthodox Left-arm Slow left-arm orthodox Left-arm unorthodox",
+    "| columns": "2",
+    "testdebutdate": "11 February",
+    "testdebutyear": "1948",
+    "testdebutagainst": "West Indies",
+    "testcap": "333",
+    "lasttestdate": "20 June",
+    "lasttestyear": "1957",
+    "lasttestagainst": "West Indies",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/0/820/820.html CricketArchive",
+    "Test": {
+        "matches": "28",
+        "runs": "653",
+        "bat avg": "19.78",
+        "100s/50s": "0/2",
+        "top score": "66",
+        "deliveries": "6,597",
+        "wickets": "102",
+        "bowl avg": "20.39",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/36",
+        "catches/stumpings": "12/\u2013"
+    },
+    "First-class": {
+        "matches": "412",
+        "runs": "7,333",
+        "bat avg": "16.08",
+        "100s/50s": "0/18",
+        "top score": "79",
+        "deliveries": "102,626",
+        "wickets": "1,846",
+        "bowl avg": "18.97",
+        "fivefor": "134",
+        "tenfor": "29",
+        "best bowling": "9/25",
+        "catches/stumpings": "257/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1946\u20131958"
+    },
+    "birth_date": "1923-1-8"
+}

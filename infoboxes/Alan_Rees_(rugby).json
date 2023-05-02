@@ -1,0 +1,38 @@
+{
+    "module": "Infobox cricketer",
+    "embed": "yes",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/ci/content/player/19362.html Cricinfo",
+    "First-class": {
+        "matches": "216",
+        "runs": "7681",
+        "bat avg": "24.07",
+        "100s/50s": "2/36",
+        "top score": "111 not out",
+        "deliveries": "561",
+        "wickets": "6",
+        "bowl avg": "66.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/68",
+        "catches/stumpings": "113/\u2013"
+    },
+    "List A": {
+        "matches": "17",
+        "runs": "207",
+        "bat avg": "14.78",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1955\u20131971"
+    }
+}

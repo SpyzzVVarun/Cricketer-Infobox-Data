@@ -1,0 +1,54 @@
+{
+    "country": "Cayman Islands",
+    "fullname": "Ryan Devere Bovell",
+    "birth_place": "Saint Lucy, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "https://www.espncricinfo.com/ci/content/player/26068.html ESPN Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "97",
+        "bat avg": "32.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "44",
+        "deliveries": "255",
+        "wickets": "7",
+        "bowl avg": "17.85",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/62",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "11",
+        "bat avg": "3.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "171",
+        "wickets": "3",
+        "bowl avg": "49.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/29",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cayman Islands": "2001/01 & 2008"
+    },
+    "birth_date": "1974-1-24"
+}

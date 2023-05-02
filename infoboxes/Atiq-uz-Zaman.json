@@ -1,0 +1,40 @@
+{
+    "name": "Atiq-uz-Zaman",
+    "birth_place": "Karachi, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "5 March",
+    "testdebutyear": "2000",
+    "testdebutagainst": "Sri Lanka",
+    "testcap": "160",
+    "odidebutdate": "20 August",
+    "odidebutyear": "2000",
+    "odidebutagainst": "New Zealand",
+    "odicap": "134",
+    "lastodidate": "27 August",
+    "lastodiyear": "2000",
+    "lastodiagainst": "South Africa",
+    "coachclub1": "Germany",
+    "coachyear1": "2022\u2013present",
+    "source": "http://www.espncricinfo.com/ci/content/player/39019.html ESPNCricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "5/\u2013"
+    },
+    "ODI": {
+        "matches": "3",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {},
+    "birth_date": "November 30, 1975"
+}

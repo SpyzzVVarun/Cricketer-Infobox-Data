@@ -1,0 +1,37 @@
+{
+    "name": "Roy Harford",
+    "fullname": "Roy Ivan Harford",
+    "birth_place": "Fulham, London, England",
+    "internationalspan": "1968",
+    "country": "New Zealand",
+    "testdebutagainst": "India",
+    "testdebutdate": "15 February",
+    "testdebutyear": "1968",
+    "testcap": "113",
+    "lasttestdate": "29 February",
+    "lasttestagainst": "India",
+    "lasttestyear": "1968",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37230.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "11/0"
+    },
+    "First-class": {
+        "matches": "25",
+        "runs": "143",
+        "bat avg": "8.41",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "60/8"
+    },
+    "clubs": {
+        "Auckland": "1965\u201366 to 1967\u201368"
+    },
+    "birth_date": "1936-05-30"
+}

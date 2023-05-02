@@ -1,0 +1,39 @@
+{
+    "name": "Leonard Sutton",
+    "country": "England",
+    "fullname": "Leonard Cecil Leicester Sutton",
+    "birth_place": "Half Way Tree, Kingston, Jamaica",
+    "death_date": "1916",
+    "death_place": "Zillebeke, Belgium",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm slow",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "17 May",
+    "debutyear1": "1909",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "17 July",
+    "lastyear1": "1912",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3837/3837.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "171",
+        "bat avg": "7.12",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "6",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "0/6",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1909&ndash;12"
+    },
+    "birth_date": "1890-4-14"
+}

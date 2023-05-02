@@ -1,0 +1,37 @@
+{
+    "name": "Janardan Navle",
+    "fullname": "Janardan Gyanoba Navle",
+    "birth_place": "Fulgaon, British India",
+    "death_date": "1979",
+    "death_place": "Pune, Maharashtra, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "internationalspan": "1932\u20131933",
+    "testcap": "6",
+    "testdebutagainst": "England",
+    "testdebutdate": "25 June",
+    "testdebutyear": "1932",
+    "lasttestdate": "15 December",
+    "lasttestagainst": "England",
+    "lasttestyear": "1933",
+    "source": "http://www.espncricinfo.com/india/content/player/31806.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "65",
+        "runs": "1,976",
+        "bat avg": "19.18",
+        "100s/50s": "0/9",
+        "top score": "96",
+        "catches/stumpings": "100/36"
+    },
+    "clubs": {},
+    "birth_date": "1902-12-07"
+}

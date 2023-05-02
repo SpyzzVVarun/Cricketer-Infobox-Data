@@ -1,0 +1,31 @@
+{
+    "name": "Richard Watson",
+    "country": "England",
+    "fullname": "Richard Martin Watson",
+    "birth_place": "Bakewell, Derbyshire, England",
+    "death_date": "1987",
+    "death_place": "Penrhosgarnedd, Wales",
+    "batting": "Left-handed",
+    "bowling": "Leg-break",
+    "type1": "FC",
+    "debutdate1": "17 May",
+    "debutyear1": "1947",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Woecestershire",
+    "lastdate1": "16 July",
+    "lastyear1": "1947",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "South Africans",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/33/33673/33673.html Cricketarchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "68",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1947"
+    },
+    "birth_date": "1921-12-31"
+}

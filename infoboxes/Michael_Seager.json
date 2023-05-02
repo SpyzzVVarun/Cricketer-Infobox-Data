@@ -1,0 +1,29 @@
+{
+    "name": "Michael Seager",
+    "country": "Zimbabwe",
+    "fullname": "Michael Anthony John Seager",
+    "birth_place": "Salisbury, Southern Rhodesia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Christopher Seager (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/55746.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "48",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "41",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Rhodesia B": "1978/79",
+        "Berkshire": "1969&ndash;1970"
+    },
+    "birth_date": "1947-12-8"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Olivia Henry",
+    "female": "true",
+    "fullname": "Olivia Henry",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/2605/2605333/2605333.html CricketArchive",
+    "WLA": {
+        "matches": "6",
+        "runs": "162",
+        "bat avg": "27.00",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2022/23\u2013present",
+        "Melbourne Stars": "2022/23\u2013present"
+    },
+    "birth_date": "2004-1-27"
+}

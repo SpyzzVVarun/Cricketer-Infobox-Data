@@ -1,0 +1,30 @@
+{
+    "name": "Tony De Zorzi",
+    "country": "South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm Offbreak",
+    "role": "Batter",
+    "testdebutdate": "28 February",
+    "testdebutyear": "2023",
+    "testdebutagainst": "West Indies",
+    "testcap": "356",
+    "lasttestdate": "8 March",
+    "lasttestyear": "2023",
+    "lasttestagainst": "West Indies",
+    "odidebutdate": "18 March",
+    "odidebutyear": "2023",
+    "odidebutagainst": "West Indies",
+    "odicap": "146",
+    "lastodidate": "21 March",
+    "lastodiyear": "2023",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/697183.html ESPNcricinfo |nickname=de Zorzi",
+    "clubs": {
+        "Northerns": "2016\u20132020",
+        "Titans": "2016\u20132019",
+        "Tshwane Spartans": "2019",
+        "Cape Cobras": "2020/21",
+        "Western Province": "2020\u2013present"
+    },
+    "birth_date": "1997-8-28"
+}

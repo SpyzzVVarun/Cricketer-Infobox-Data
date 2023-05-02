@@ -1,0 +1,32 @@
+{
+    "name": "Shahnaz Sohail",
+    "female": "true",
+    "country": "Pakistan",
+    "fullname": "Shahnaz Sohail",
+    "role": "Batter",
+    "odidebutdate": "28 January",
+    "odidebutyear": "1997",
+    "odidebutagainst": "New Zealand",
+    "odicap": "8",
+    "lastodidate": "7 February",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17357/17357.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "5",
+        "runs": "32",
+        "bat avg": "6.40",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

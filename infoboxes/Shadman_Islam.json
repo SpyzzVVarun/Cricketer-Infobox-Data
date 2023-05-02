@@ -1,0 +1,49 @@
+{
+    "name": "Shadman Islam",
+    "country": "Bangladesh",
+    "fullname": "Shadman Islam Anik",
+    "birth_place": "Dhaka, Bangladesh",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "internationalspan": "2018\u2013present",
+    "testdebutdate": "30 November",
+    "testdebutyear": "2018",
+    "testdebutagainst": "West Indies",
+    "testcap": "94",
+    "lasttestdate": "31 March",
+    "lasttestyear": "2022",
+    "lasttestagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/629057.html ESPNcricinfo ",
+    "Test": {
+        "matches": "10",
+        "runs": "497",
+        "bat avg": "27.61",
+        "100s/50s": "1/2",
+        "catches/stumpings": "4/\u2013"
+    },
+    "FC": {
+        "matches": "62",
+        "runs": "4,294",
+        "bat avg": "46.17",
+        "100s/50s": "10/24",
+        "top score": "189",
+        "catches/stumpings": "34/\u2013"
+    },
+    "List A": {
+        "matches": "59",
+        "runs": "2,118",
+        "bat avg": "38.50",
+        "100s/50s": "2/13",
+        "catches/stumpings": "20/\u2013"
+    },
+    "T20": {
+        "matches": "11",
+        "runs": "166",
+        "bat avg": "15.09",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-5-18"
+}

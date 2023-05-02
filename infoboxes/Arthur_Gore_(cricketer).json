@@ -1,0 +1,28 @@
+{
+    "name": "Arthur Gore",
+    "fullname": "Arthur Hector Gore",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "29 September 1944",
+    "death_place": "Vancouver, Canada",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Charles Gore (brother), Ross Gore (brother)",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37176.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "443",
+        "bat avg": "10.54",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "3196",
+        "wickets": "89",
+        "bowl avg": "15.10",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/53",
+        "catches/stumpings": "18/0"
+    },
+    "clubs": {
+        "Wellington": "1885-86 to 1888-89",
+        "Hawke's Bay": "1891-92 to 1901-02"
+    }
+}

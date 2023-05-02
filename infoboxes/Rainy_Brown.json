@@ -1,0 +1,27 @@
+{
+    "name": "Rainy Brown",
+    "fullname": "George Rainy Reynolds Brown",
+    "birth_place": "Maldon, Essex, England",
+    "death_date": "2000",
+    "death_place": "Storrington, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/9257.html Cricinfo ",
+    "FC": {
+        "matches": "29",
+        "runs": "396",
+        "bat avg": "11.64",
+        "100s/50s": "0/0",
+        "wickets": "46",
+        "bowl avg": "29.52",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/55",
+        "catches/stumpings": "15/0"
+    },
+    "clubs": {
+        "Essex": "1924\u20131932"
+    },
+    "birth_date": "1905-12-8"
+}

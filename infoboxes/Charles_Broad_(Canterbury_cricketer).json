@@ -1,0 +1,28 @@
+{
+    "name": "Charles Broad",
+    "fullname": "Charles Lionel Broad",
+    "birth_place": "Epsom, England",
+    "death_date": "2019",
+    "death_place": "Burwood, Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/player/charles-broad-36515 Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "102",
+        "bat avg": "20.40",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "362",
+        "wickets": "8",
+        "bowl avg": "18.37",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/61",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1966\u201367"
+    },
+    "birth_date": "1945-12-1"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Richard Taylor Bellhouse",
+    "birth_place": "Manchester, Lancashire, England",
+    "death_date": "1906",
+    "death_place": "Lower Weston, Somerset, England",
+    "family": "Thomas Bellhouse (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10422.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "240",
+        "bat avg": "8.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "20",
+        "wickets": "1",
+        "bowl avg": "7.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/7",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1849&ndash;1851"
+    }
+}

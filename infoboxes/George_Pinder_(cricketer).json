@@ -1,0 +1,32 @@
+{
+    "name": "George Pinder",
+    "fullname": "George Pinder Hattersley",
+    "birth_place": "Ecclesfield, Sheffield, Yorkshire, England",
+    "death_date": "1903",
+    "death_place": "Hickleton, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Underarm (unknown hand) Underarm (unknown hand) slow",
+    "role": "Wicket-keeper",
+    "country": "England",
+    "testdebutdate": "23 May",
+    "testdebutyear": "1867",
+    "lasttestdate": "27 Aug",
+    "lasttestyear": "1881",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/32/32084/32084.html",
+    "First-class": {
+        "matches": "179",
+        "runs": "2,415",
+        "bat avg": "10.97",
+        "100s/50s": "&ndash;/3",
+        "top score": "78",
+        "deliveries": "1,144",
+        "wickets": "23",
+        "bowl avg": "20.91",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4-56",
+        "catches/stumpings": "221/136"
+    },
+    "clubs": {},
+    "birth_date": "1841-7-15"
+}

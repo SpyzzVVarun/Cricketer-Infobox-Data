@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Laurence John Champniss",
+    "death_date": "2017",
+    "birth_place": "Harrow, Middlesex, England",
+    "batting": "Left-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/ci/content/player/11082.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "32",
+        "wickets": "1",
+        "bowl avg": "4.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "144",
+        "wickets": "2",
+        "bowl avg": "42.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/32",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1973/74",
+        "Buckinghamshire": "1971\u20131977"
+    },
+    "birth_date": "1939-2-20"
+}

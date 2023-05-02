@@ -1,0 +1,41 @@
+{
+    "name": "Dick Pilling",
+    "country": "England",
+    "full_name": "Richard Pilling",
+    "birth_place": "Old Warden, Bedfordshire",
+    "death_date": "1891",
+    "death_place": "Old Trafford, Manchester",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1881",
+    "testdebutagainst": "Australia",
+    "testcap": "33",
+    "lasttestdate": "31 August",
+    "lasttestyear": "1888",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/60/60.html CricketArchive ",
+    "Test": {
+        "matches": "8",
+        "runs": "91",
+        "bat avg": "7.58",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "10/4"
+    },
+    "First-class": {
+        "matches": "250",
+        "runs": "2,572",
+        "bat avg": "9.85",
+        "100s/50s": "0/2",
+        "top score": "78",
+        "catches/stumpings": "459/208"
+    },
+    "clubs": {
+        "Lancashire": "1877-1889",
+        "MCC": "1879-1883",
+        "Players": "1879-1884",
+        "North": "1881\u20131888"
+    },
+    "birth_date": "1855-8-11"
+}

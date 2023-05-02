@@ -1,0 +1,57 @@
+{
+    "name": "Prenelan Subrayen",
+    "country": "South Africa",
+    "fullname": "Prenelan Subrayen",
+    "birth_place": "Tongaat, Natal Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/437438.html Cricinfo ",
+    "FC": {
+        "matches": "57",
+        "runs": "1,168",
+        "bat avg": "18.25",
+        "100s/50s": "1/4",
+        "deliveries": "10,030",
+        "wickets": "148",
+        "bowl avg": "30.62",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "5/35",
+        "catches/stumpings": "27/\u2013"
+    },
+    "LA": {
+        "matches": "81",
+        "runs": "770",
+        "bat avg": "20.26",
+        "100s/50s": "0/3",
+        "top score": "86",
+        "deliveries": "3,543",
+        "wickets": "75",
+        "bowl avg": "37.22",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/14",
+        "catches/stumpings": "23/\u2013"
+    },
+    "T20": {
+        "matches": "79",
+        "runs": "342",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "deliveries": "1,536",
+        "wickets": "69",
+        "bowl avg": "24.17",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "KwaZulu-Natal": "2010/11\u2013",
+        "Dolphins": "2011/12\u2013",
+        "Durban Heat": "2018/19\u20132019/20",
+        "Durban's Super Giants": "2022/23\u2013present"
+    },
+    "birth_date": "1993-09-23"
+}

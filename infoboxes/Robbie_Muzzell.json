@@ -1,0 +1,41 @@
+{
+    "name": "Robbie Muzzell",
+    "fullname": "Robert Kendal Muzzell",
+    "birth_place": "Stutterheim, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/46267.html Cricinfo ",
+    "First-class": {
+        "matches": "75",
+        "runs": "4052",
+        "bat avg": "34.93",
+        "100s/50s": "7/18",
+        "deliveries": "3960",
+        "wickets": "61",
+        "bowl avg": "33.24",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/69",
+        "catches/stumpings": "49/\u2013"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "137",
+        "bat avg": "15.22",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "72",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Western Province": "1964\u201365 to 1967\u201368",
+        "Transvaal": "1968\u201369 to 1973\u201374, 1975\u201376 to 1977\u201378",
+        "Eastern Province": "1974\u201375"
+    },
+    "birth_date": "1945-12-23"
+}

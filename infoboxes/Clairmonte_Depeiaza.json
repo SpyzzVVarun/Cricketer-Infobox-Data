@@ -1,0 +1,45 @@
+{
+    "name": "Clairmonte Depeiaza",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm unknown",
+    "country": "West Indies",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "26 April",
+    "testdebutyear": "1955",
+    "testcap": "88",
+    "lasttestdate": "18 February",
+    "lasttestagainst": "New Zealand",
+    "lasttestyear": "1956",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/51652.html",
+    "Test": {
+        "matches": "5",
+        "runs": "187",
+        "bat avg": "31.16",
+        "100s/50s": "1/-",
+        "top score": "122",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/4"
+    },
+    "First-class": {
+        "matches": "16",
+        "runs": "623",
+        "bat avg": "32.78",
+        "100s/50s": "1/4",
+        "top score": "122",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "31/9"
+    },
+    "clubs": {
+        "Barbados": "1951/52\u20131956/57"
+    }
+}

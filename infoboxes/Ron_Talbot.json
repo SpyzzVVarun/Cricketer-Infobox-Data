@@ -1,0 +1,26 @@
+{
+    "name": "Ron Talbot",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1983",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "country": "New Zealand",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38632.html ESPNCricinfo",
+    "First-class": {
+        "matches": "51",
+        "runs": "1946",
+        "bat avg": "24.63",
+        "100s/50s": "3/10",
+        "top score": "117",
+        "deliveries": "4201",
+        "wickets": "54",
+        "bowl avg": "37.12",
+        "fivefor": "1",
+        "tenfor": "-",
+        "best bowling": "5/106",
+        "catches/stumpings": "31/-"
+    },
+    "clubs": {},
+    "birth_date": "1903-11-26"
+}

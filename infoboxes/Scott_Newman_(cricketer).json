@@ -1,0 +1,60 @@
+{
+    "name": "Scott Newman",
+    "country": "England",
+    "fullname": "Scott Alexander Newman",
+    "birth_place": "Epsom, Surrey, England",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.cricinfo.com/ci/content/player/18051.html Cricinfo ",
+    "FC": {
+        "matches": "135",
+        "runs": "8,630",
+        "bat avg": "38.18",
+        "100s/50s": "16/51",
+        "top score": "219",
+        "deliveries": "120",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "99/\u2013"
+    },
+    "LA": {
+        "matches": "106",
+        "runs": "2,967",
+        "bat avg": "29.96",
+        "100s/50s": "4/17",
+        "top score": "177",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "25/\u2013"
+    },
+    "T20": {
+        "matches": "65",
+        "runs": "1,237",
+        "bat avg": "22.49",
+        "100s/50s": "0/5",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Surrey": "2002\u20132009",
+        "Middlesex": "2009\u20132012",
+        "\u2192 Nottinghamshire (loan)": "2009",
+        "\u2192 Kent (loan)": "2012"
+    },
+    "birth_date": "1979-11-3"
+}

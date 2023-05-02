@@ -1,0 +1,33 @@
+{
+    "name": "Lynette Cook",
+    "fullname": "Lynette Gai Cook",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Medium Right-arm Medium pace",
+    "odidebutdate": "19 January",
+    "odidebutyear": "1987",
+    "odidebutagainst": "New Zealand",
+    "odicap": "57",
+    "lastodidate": "21 January",
+    "lastodiyear": "1987",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/53595.html Cricinfo  ",
+    "ODI": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "ACT women's cricket team": "1982/83\u20131989/90"
+    }
+}

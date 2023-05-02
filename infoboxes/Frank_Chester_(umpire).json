@@ -1,0 +1,32 @@
+{
+    "name": "Frank Chester",
+    "fullname": "Frank Chester",
+    "birth_place": "Bushey, Hertfordshire, England",
+    "death_date": "1957",
+    "death_place": "Bushey, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Off Off breaks",
+    "role": "Umpire",
+    "umpire": "true",
+    "testsumpired": "48",
+    "umptestdebutyr": "1924",
+    "umptestlastyr": "1955",
+    "source": "http://www.cricinfo.com/ci/content/player/10906.html Cricinfo ",
+    "First-class": {
+        "matches": "55",
+        "runs": "1,773",
+        "bat avg": "23.95",
+        "100s/50s": "4/4",
+        "deliveries": "5,143",
+        "wickets": "81",
+        "bowl avg": "31.61",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1912\u20131914"
+    },
+    "birth_date": "1895-1-20"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Arthur Clive Pawson",
+    "birth_place": "Bramley, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Nynehead, Somerset, England",
+    "family": "Guy Pawson (brother), Tony Pawson (nephew), Arthur Sealy (son-in-law)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/18805.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "177",
+        "bat avg": "14.75",
+        "100s/50s": "\u2013/1",
+        "top score": "55",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1903"
+    }
+}

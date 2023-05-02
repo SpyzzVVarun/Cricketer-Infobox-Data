@@ -1,0 +1,32 @@
+{
+    "name": "Ailsa Lister",
+    "female": "true",
+    "country": "Scotland",
+    "birth_place": "Elgin, Moray, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "T20Idebutdate": "24 May",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "19",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Papua New Guinea",
+    "source": "http://www.espncricinfo.com/ci/content/player/1184173.html Cricinfo ",
+    "WT20I": {
+        "matches": "16",
+        "runs": "178",
+        "bat avg": "12.71",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2004-4-8"
+}

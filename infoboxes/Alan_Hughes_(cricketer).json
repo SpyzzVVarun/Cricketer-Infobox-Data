@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Alan John Hughes",
+    "birth_place": "Dublin, Ireland",
+    "family": "Patrick Hughes (cousin)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24554.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1980"
+    },
+    "birth_date": "1951-4-4"
+}

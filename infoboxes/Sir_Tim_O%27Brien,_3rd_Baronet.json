@@ -1,0 +1,53 @@
+{
+    "name": "Tim O'Brien",
+    "country": "England",
+    "fullname": "Timothy Carew O'Brien",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "1948",
+    "death_place": "Ramsey, Isle of Man",
+    "batting": "Right-handed",
+    "bowling": "Left arm, unknown Left arm, unknown style",
+    "family": "John O'Brien (brother)",
+    "testdebutdate": "10 July",
+    "testdebutyear": "1884",
+    "testdebutagainst": "Australia",
+    "testcap": "44",
+    "lasttestdate": "23 March",
+    "lasttestyear": "1896",
+    "lasttestagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/england/content/player/18251.html ESPN Cricinfo ",
+    "Tests": {
+        "matches": "5",
+        "runs": "59",
+        "bat avg": "7.37",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "266",
+        "runs": "11,397",
+        "bat avg": "27.00",
+        "100s/50s": "15/58",
+        "top score": "202",
+        "deliveries": "484",
+        "wickets": "4",
+        "bowl avg": "85.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/10",
+        "catches/stumpings": "173/2"
+    },
+    "clubs": {
+        "Ireland": "1902\u20131907",
+        "Middlesex": "1881\u20131898",
+        "Oxford University": "1884\u20131885"
+    },
+    "birth_date": "1861-11-5"
+}

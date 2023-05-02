@@ -1,0 +1,44 @@
+{
+    "name": "Franklyn Stephenson",
+    "birth_place": "Saint James, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/2/2294/2294.html CricketArchive ",
+    "First-class": {
+        "matches": "219",
+        "runs": "8,622",
+        "bat avg": "27.99",
+        "100s/50s": "12/43",
+        "top score": "166",
+        "deliveries": "40,297",
+        "wickets": "792",
+        "bowl avg": "24.26",
+        "fivefor": "44",
+        "tenfor": "10",
+        "best bowling": "8/47",
+        "catches/stumpings": "100/\u2013"
+    },
+    "List A": {
+        "matches": "282",
+        "runs": "4,717",
+        "bat avg": "22.67",
+        "100s/50s": "2/16",
+        "top score": "108",
+        "deliveries": "14,391",
+        "wickets": "448",
+        "bowl avg": "19.91",
+        "fivefor": "9",
+        "tenfor": "0",
+        "best bowling": "6/9",
+        "catches/stumpings": "61/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1981/82",
+        "Barbados": "1981/82\u20131989/90",
+        "Gloucestershire": "1982\u20131983",
+        "Nottinghamshire": "1988\u20131991",
+        "Orange Free State": "1991/92\u20131996/97",
+        "Sussex": "1992\u20131995"
+    },
+    "birth_date": "1959-04-08"
+}

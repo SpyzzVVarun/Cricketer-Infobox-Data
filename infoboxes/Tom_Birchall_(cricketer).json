@@ -1,0 +1,39 @@
+{
+    "name": "Tom Birchall",
+    "fullname": "James Thomas Wardlaw Birchall",
+    "birth_place": "Adelaide, Australia",
+    "batting": "Right-hand bat",
+    "role": "Wicket keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/4269.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "7/1"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/2"
+    },
+    "clubs": {
+        "South Australia": "1986/87"
+    },
+    "birth_date": "1962-11-23"
+}

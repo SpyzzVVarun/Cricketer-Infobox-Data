@@ -1,0 +1,34 @@
+{
+    "name": "Alfred Bowerman",
+    "country": "England",
+    "fullname": "Alfred James Bowerman",
+    "birth_place": "Broomfield, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Brisbane, Queensland, Australia",
+    "type1": "FC",
+    "debutdate1": "21 June",
+    "debutyear1": "1900",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "12 June",
+    "lastyear1": "1905",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Middlesex",
+    "First-class": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1900\u20131905"
+    },
+    "birth_date": "1873-11-22",
+    "medaltemplates": [
+        "Country: {{GBR}}",
+        "Sport: Men's Cricket",
+        "Gold Medal: 1900 Paris Two-day 12-man"
+    ]
+}

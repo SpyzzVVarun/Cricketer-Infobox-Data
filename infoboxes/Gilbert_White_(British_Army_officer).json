@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Gilbert William White",
+    "birth_place": "Farnham, Surrey, England",
+    "death_date": "df=y",
+    "death_place": "La Plaine, Saint Patrick, Dominica",
+    "family": "William White (father), Harold Austin (father-in-law)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22909.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

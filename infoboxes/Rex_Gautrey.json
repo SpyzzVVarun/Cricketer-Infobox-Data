@@ -1,0 +1,29 @@
+{
+    "name": "Rex Gautrey",
+    "country": "England",
+    "fullname": "Rex Alan Gautrey",
+    "birth_place": "Cottenham, Cambridgeshire, England",
+    "death_date": "2001",
+    "death_place": "Soham, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/13832.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "74",
+        "bat avg": "18.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1949\u20131972"
+    },
+    "birth_date": "1928-1-6"
+}

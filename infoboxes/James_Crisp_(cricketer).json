@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "James George Crisp",
+    "birth_place": "Newtown, Montgomeryshire, Wales",
+    "death_date": "df=yes",
+    "death_place": "Butleigh, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11428.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1951",
+        "Suffolk": "1957&ndash;1958"
+    }
+}

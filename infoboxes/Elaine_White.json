@@ -1,0 +1,52 @@
+{
+    "name": "Elaine White",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1972",
+    "fullname": "Elaine Grace White",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "testdebutdate": "5 February",
+    "testdebutyear": "1972",
+    "testdebutagainst": "Australia",
+    "testcap": "61",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1972",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/17/17334/17334.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "33",
+        "bat avg": "6.60",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "326",
+        "wickets": "2",
+        "bowl avg": "42.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "37",
+        "runs": "620",
+        "bat avg": "18.78",
+        "100s/50s": "0/4",
+        "top score": "68",
+        "deliveries": "2,647",
+        "wickets": "49",
+        "bowl avg": "17.91",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/1",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1964/65\u20131967/68",
+        "North Shore": "1968/69\u20131972/73"
+    },
+    "birth_date": "1944-7-9"
+}

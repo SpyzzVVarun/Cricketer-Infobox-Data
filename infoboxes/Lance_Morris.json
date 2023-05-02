@@ -1,0 +1,56 @@
+{
+    "name": "Lance Morris",
+    "nickname": "The Wild Thing",
+    "birth_place": "Busselton, Western Australia, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1125317.html Cricinfo ",
+    "FC": {
+        "matches": "15",
+        "runs": "40",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "deliveries": "1,888",
+        "wickets": "42",
+        "bowl avg": "27.92",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/36",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "162",
+        "wickets": "3",
+        "bowl avg": "52.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "13",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "171",
+        "wickets": "3",
+        "bowl avg": "93.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2018\u2013",
+        "Melbourne Stars": "2018\u201321",
+        "Perth Scorchers": "2022\u2013"
+    },
+    "birth_date": "1998-03-28"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Harry Foster",
+    "country": "England",
+    "fullname": "Henry Knollys Foster",
+    "birth_place": "Malvern, Worcestershire, England",
+    "death_date": "1950",
+    "death_place": "Kingsthorne, Herefordshire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "First-class",
+    "debutdate1": "21 May",
+    "debutyear1": "1894",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "AJ Webbe's XI",
+    "lastdate1": "19 August",
+    "lastyear1": "1925",
+    "lastfor1": "Worcestershire",
+    "lastagainst1": "Middlesex",
+    "source": "http://www.espncricinfo.com/ci/content/player/13153.html espncricinfo.com ",
+    "First-class": {
+        "matches": "289",
+        "runs": "17,154",
+        "bat avg": "34.10",
+        "100s/50s": "29/93",
+        "top score": "216",
+        "deliveries": "724",
+        "wickets": "15",
+        "bowl avg": "29.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/63",
+        "catches/stumpings": "208/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1894\u20131896",
+        "Marylebone Cricket Club": "1897\u20131909",
+        "Worcestershire": "1899\u20131925"
+    },
+    "birth_date": "1873-10-30"
+}

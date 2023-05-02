@@ -1,0 +1,40 @@
+{
+    "country": "Namibia",
+    "fullname": "Tiaan Louw",
+    "birth_place": "Namibia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/160/160451/160451.html CricketArchive subscription required ",
+    "List A": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "Twenty20": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "19.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "19",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2009/10"
+    },
+    "birth_date": "1988-6-10"
+}

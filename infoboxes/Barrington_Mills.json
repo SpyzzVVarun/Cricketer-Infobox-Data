@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Barrington Stopford Thomas Mills",
+    "birth_place": "Great Saxham, Suffolk, England",
+    "death_date": "df=yes",
+    "death_place": "Bury St Edmunds, Suffolk, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17884.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "39",
+        "bat avg": "2.78",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "?",
+        "wickets": "34",
+        "bowl avg": "?",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/?",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1841&ndash;1843"
+    }
+}

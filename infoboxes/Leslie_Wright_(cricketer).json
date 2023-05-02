@@ -1,0 +1,28 @@
+{
+    "name": "Leslie Wright",
+    "country": "England",
+    "birth_place": "Durham, England",
+    "death_date": "1956",
+    "death_place": "Mitcham, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/34/34105/34105.html ",
+    "FC": {
+        "matches": "193",
+        "runs": "6,593",
+        "bat avg": "19.97",
+        "100s/50s": "5/28",
+        "top score": "134",
+        "deliveries": "7,739",
+        "wickets": "76",
+        "bowl avg": "48.01",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3\u20136",
+        "catches/stumpings": "60/0"
+    },
+    "clubs": {
+        "Worcestershire": "1925\u20131933"
+    },
+    "birth_date": "1903-1-20"
+}

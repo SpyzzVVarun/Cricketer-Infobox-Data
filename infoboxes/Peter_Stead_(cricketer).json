@@ -1,0 +1,25 @@
+{
+    "country": "Canada",
+    "fullname": "Peter Stead",
+    "birth_place": "Middleton, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/33/33002/33002.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "401",
+        "wickets": "9",
+        "bowl avg": "19.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/52",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Canada": "1954"
+    },
+    "birth_date": "1930-9-22"
+}

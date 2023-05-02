@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Harold Gordon Jameson",
+    "birth_place": "Dundrum, Ireland",
+    "death_date": "1940",
+    "death_place": "Portsmouth, Hampshire, England",
+    "nickname": "Peter",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15651.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "300",
+        "wickets": "2",
+        "bowl avg": "102.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/68",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1938"
+    }
+}

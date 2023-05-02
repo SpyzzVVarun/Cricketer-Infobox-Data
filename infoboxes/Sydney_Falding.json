@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Sydney Wheatley Falding",
+    "birth_place": "Kirkstall, Yorkshire, England",
+    "death_date": "1959",
+    "death_place": "Leeds, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12993.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "2.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "240",
+        "wickets": "3",
+        "bowl avg": "56.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/49",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "West of England": "1927",
+        "Devon": "1925\u20131932",
+        "Northamptonshire": "1921",
+        "Lincolnshire": "1914"
+    },
+    "birth_date": "1891-5-5"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Colin Ingleby-Mackenzie",
+    "country": "England",
+    "fullname": "Alexander Colin David Ingleby-Mackenzie",
+    "birth_place": "Dartmouth, Devon, England",
+    "death_date": "df=yes",
+    "death_place": "England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/6/6680/6680.html Cricinfo ",
+    "FC": {
+        "matches": "343",
+        "runs": "12421",
+        "bat avg": "24.35",
+        "100s/50s": "11/55",
+        "deliveries": "50",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "205/1"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "190",
+        "bat avg": "27.14",
+        "100s/50s": "\u2013/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/2"
+    },
+    "clubs": {
+        "Hampshire": "1951\u20131966",
+        "Marylebone Cricket Club": "1956\u20131962"
+    },
+    "birth_date": "1933-9-15"
+}

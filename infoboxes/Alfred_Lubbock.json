@@ -1,0 +1,39 @@
+{
+    "name": "Alfred Lubbock",
+    "country": "England",
+    "fullname": "Alfred Lubbock",
+    "birth_place": "London",
+    "death_date": "df=yes",
+    "death_place": "Par, Cornwall",
+    "batting": "Right-handed",
+    "family": "John Lubbock (father) John Lubbock (brother) Nevile Lubbock (brother) Edgar Lubbock (brother)  Henry Lubbock (brother) Beaumont Lubbock (brother) Basil Lubbock (son)",
+    "type1": "FC",
+    "debutdate1": "10 August",
+    "debutyear1": "1863",
+    "debutfor1": "Kent",
+    "debutagainst1": "England",
+    "lastdate1": "19 July",
+    "lastyear1": "1875",
+    "lastfor1": "Kent",
+    "lastagainst1": "Derbyshire",
+    "source": "http://www.espncricinfo.com/england/content/player/16670.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "1,043",
+        "bat avg": "23.70",
+        "100s/50s": "2/3",
+        "top score": "129",
+        "deliveries": "252",
+        "wickets": "4",
+        "bowl avg": "23.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/62",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Kent": "1863\u20131875",
+        "Marylebone Cricket Club": "1866\u20131869"
+    },
+    "birth_date": "1845-10-31"
+}

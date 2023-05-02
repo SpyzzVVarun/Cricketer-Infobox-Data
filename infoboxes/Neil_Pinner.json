@@ -1,0 +1,56 @@
+{
+    "name": "Neil Pinner",
+    "country": "England",
+    "fullname": "Neil Douglas Pinner",
+    "birth_place": "Wordsley, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/224/224455/224455.html CricketArchive ",
+    "FC": {
+        "matches": "19",
+        "runs": "762",
+        "bat avg": "26.27",
+        "100s/50s": "1/4",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "22/\u2013"
+    },
+    "LA": {
+        "matches": "18",
+        "runs": "235",
+        "bat avg": "13.82",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "29",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Worcestershire( 20 )": "2011\u20132013",
+        "Leicestershire( 9 )": "2015",
+        "Herefordshire": "2014\u20132017"
+    },
+    "birth_date": "1990-9-28"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Michael Johnson",
+    "country": "Australia",
+    "fullname": "Michael Anthony Johnson",
+    "birth_place": "Perth, Western Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/96/96486/96486.html CricketArchive ",
+    "FC": {
+        "matches": "20",
+        "runs": "384",
+        "bat avg": "13.24",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "48/2"
+    },
+    "LA": {
+        "matches": "8",
+        "runs": "48",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/2"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Western Australia": "2008/09\u20132011/12",
+        "Worcestershire( 33 )": "2013"
+    },
+    "birth_date": "1988-7-11"
+}

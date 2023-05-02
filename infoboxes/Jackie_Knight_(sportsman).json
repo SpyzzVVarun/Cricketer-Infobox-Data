@@ -1,0 +1,19 @@
+{
+    "country": "Scotland",
+    "fullname": "John Dolan Knight",
+    "birth_place": "Broughty Ferry, Angus, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/john-knight-25421 Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "4/2"
+    },
+    "clubs": {
+        "Scotland": "1984&ndash;1987"
+    },
+    "birth_date": "1945-6-22"
+}

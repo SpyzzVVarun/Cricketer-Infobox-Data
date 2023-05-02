@@ -1,0 +1,51 @@
+{
+    "name": "Vijay Merchant",
+    "country": "India",
+    "fullname": "Vijay Singh Madhavji Merchant",
+    "birth_place": "Bombay, Bombay Presidency, British India",
+    "death_date": "1987",
+    "death_place": "Bombay, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "internationalspan": "1933\u20131951",
+    "testdebutdate": "15 December",
+    "testdebutyear": "1933",
+    "testdebutagainst": "England",
+    "testcap": "15",
+    "lasttestdate": "2 November",
+    "lasttestyear": "1951",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/30996.html ESPNcricinfo",
+    "Tests": {
+        "matches": "10",
+        "runs": "859",
+        "bat avg": "47.72",
+        "100s/50s": "3/3",
+        "top score": "154",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "First-class": {
+        "matches": "150",
+        "runs": "13470",
+        "bat avg": "71.64",
+        "100s/50s": "45/52",
+        "deliveries": "5,087",
+        "wickets": "65",
+        "bowl avg": "32.12",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/73",
+        "catches/stumpings": "115/\u2013"
+    },
+    "clubs": {
+        "Bombay": "1929\u20131951"
+    },
+    "birth_date": "1911-10-12"
+}

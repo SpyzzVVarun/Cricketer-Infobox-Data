@@ -1,0 +1,22 @@
+{
+    "name": "Arnold Harvey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26773/26773.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "113",
+        "bat avg": "28.25",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/67",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

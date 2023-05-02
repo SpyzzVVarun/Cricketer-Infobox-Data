@@ -1,0 +1,37 @@
+{
+    "name": "Frank Field",
+    "country": "England",
+    "birth_place": "Langley, Worcestershire, England",
+    "death_date": "1981",
+    "death_place": "Stourbridge, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "29 August",
+    "debutyear1": "1928",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "10 June",
+    "lastyear1": "1932",
+    "lastfor1": "MCC",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/29/29386/29386.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "26",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "258",
+        "wickets": "4",
+        "bowl avg": "48.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/60",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1928\u20131932"
+    },
+    "birth_date": "1908-2-29"
+}

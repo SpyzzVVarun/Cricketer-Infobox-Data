@@ -1,0 +1,38 @@
+{
+    "name": "Harry Austin",
+    "country": "England",
+    "birth_place": "Moseley, Birmingham, England",
+    "death_date": "1968",
+    "death_place": "Canterbury, Kent, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "type1": "First-class",
+    "debutdate1": "6 June",
+    "debutyear1": "1919",
+    "debutfor1": ", Worcestershire",
+    "debutagainst1": "Surrey",
+    "lastdate1": "24 August",
+    "lastyear1": "1928",
+    "lastfor1": ", Worcestershire",
+    "lastagainst1": "Somerset",
+    "source": "https://cricketarchive.com/Archive/Players/27/27574/27574.html cricketarchive.com  ",
+    "FC": {
+        "matches": "6",
+        "runs": "67",
+        "bat avg": "8.37",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "598",
+        "wickets": "3",
+        "bowl avg": "96.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1-41",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1919",
+        "Worcestershire": "1928"
+    },
+    "birth_date": "1892-4-17"
+}

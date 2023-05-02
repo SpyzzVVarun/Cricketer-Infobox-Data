@@ -1,0 +1,26 @@
+{
+    "country": "Denmark",
+    "fullname": "Mickey Lund",
+    "birth_place": "Frederiksberg, Denmark",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "https://cricketarchive.com/Archive/Players/5/5008/5008.html CricketArchive subscription required ",
+    "List A": {
+        "matches": "20",
+        "runs": "360",
+        "bat avg": "18.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "59",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Denmark": "2000&ndash;2005"
+    },
+    "birth_date": "1972-8-21"
+}

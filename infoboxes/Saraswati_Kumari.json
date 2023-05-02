@@ -1,0 +1,29 @@
+{
+    "name": "Saraswati Kumari",
+    "country": "Nepal",
+    "fullname": "Saraswati Chaudhary Kumari",
+    "female": "true",
+    "birth_place": "Nepal",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "2 December",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Maldives",
+    "T20Icap": "17",
+    "lastT20Idate": "22 November",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Hong Kong",
+    "source": "https://www.espncricinfo.com/player/saraswati-kumari-779625 Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {},
+    "clubs": {},
+    "birth_date": "1997-01-28",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

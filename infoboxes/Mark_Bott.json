@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Mark Daniel Bott",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/245709.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "84",
+        "bat avg": "8.40",
+        "100s/50s": "\u2013",
+        "top score": "27",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "2009",
+        "Cambridgeshire": "2007",
+        "Cambridge University": "2009\u20132009"
+    },
+    "birth_date": "1986-05-13"
+}

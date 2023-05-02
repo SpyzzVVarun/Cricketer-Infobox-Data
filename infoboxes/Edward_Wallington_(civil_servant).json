@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Edward William Wallington",
+    "birth_place": "Oakley, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Widcombe, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/22703.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "100",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1875&ndash;1877",
+        "Marylebone Cricket Club": "1885"
+    }
+}

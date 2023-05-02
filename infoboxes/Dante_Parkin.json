@@ -1,0 +1,48 @@
+{
+    "name": "Dante Parkin",
+    "fullname": "Durant Clifford Parkin",
+    "nickname": "Dante",
+    "birth_place": "Port Elizabeth, Cape Colony",
+    "death_date": "1936",
+    "death_place": "Sangster's Farm, Albany, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "South Africa",
+    "testdebutdate": "19 March",
+    "testdebutyear": "1892",
+    "lasttestdate": "19 March",
+    "lasttestyear": "1892",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/46729.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "130",
+        "wickets": "3",
+        "bowl avg": "27.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/82",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "12",
+        "runs": "334",
+        "bat avg": "15.18",
+        "100s/50s": "0/1",
+        "deliveries": "2089",
+        "wickets": "48",
+        "bowl avg": "20.29",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "6/25",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1890-91 to 1896-97",
+        "Griqualand West": "1902-03"
+    },
+    "birth_date": "1873-2-20"
+}

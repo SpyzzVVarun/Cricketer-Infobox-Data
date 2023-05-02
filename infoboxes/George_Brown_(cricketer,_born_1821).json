@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "George Grainger Brown",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "1875",
+    "death_place": "Battersea, Surrey, England",
+    "family": "George Brown (father), John Brown (brother)",
+    "batting": "Right-handed",
+    "bowling": "Underarm (unknown Underarm (unknown style)",
+    "source": "http://www.espncricinfo.com/ci/content/player/10055.html Cricinfo ",
+    "First-class": {
+        "matches": "46",
+        "runs": "898",
+        "bat avg": "13.20",
+        "100s/50s": "\u2013/4",
+        "top score": "86",
+        "deliveries": "700",
+        "wickets": "35",
+        "bowl avg": "14.51",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "5/25",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1851\u20131858"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "James Edward Poulson",
+    "birth_place": "Bury St Edmunds, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/576377.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "61",
+        "bat avg": "61.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "287",
+        "wickets": "5",
+        "bowl avg": "26.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/30",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "2012&ndash;2019",
+        "Oxford MCCU": "2014",
+        "Cambridge University": "2017"
+    },
+    "birth_date": "1995-2-20"
+}

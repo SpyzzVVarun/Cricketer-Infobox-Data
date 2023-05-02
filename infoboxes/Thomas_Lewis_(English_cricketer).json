@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Thomas Courtney Lewis",
+    "birth_place": "Holborn, London, England",
+    "death_date": "1 June 1882",
+    "death_place": "Sandown, Isle of Wight, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16796.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "?",
+        "wickets": "4",
+        "bowl avg": "?",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/?",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {}
+}

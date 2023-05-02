@@ -1,0 +1,29 @@
+{
+    "name": "Stanley Scott",
+    "fullname": "Stanley Winckworth Scott",
+    "birth_place": "Bombay, Maharashtra, British India",
+    "death_date": "df=y",
+    "death_place": "Beckenham, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/20634.html ESPNcricinfo",
+    "First-class": {
+        "matches": "104",
+        "runs": "4,432",
+        "bat avg": "25.61",
+        "100s/50s": "4/23",
+        "top score": "224",
+        "deliveries": "458",
+        "wickets": "3",
+        "bowl avg": "69.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/15",
+        "catches/stumpings": "61/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1878\u20131893"
+    },
+    "birth_date": "1854-03-24"
+}

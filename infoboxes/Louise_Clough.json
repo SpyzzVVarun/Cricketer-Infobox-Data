@@ -1,0 +1,50 @@
+{
+    "name": "Louise Clough",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1969",
+    "fullname": "Aletha Louise Clough",
+    "birth_place": "Waitangi, Chatham Islands, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "onetest": "true",
+    "testdebutdate": "15 February",
+    "testdebutyear": "1969",
+    "testdebutagainst": "England",
+    "testcap": "54",
+    "source": "https://cricketarchive.com/Archive/Players/17/17249/17249.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "132",
+        "wickets": "1",
+        "bowl avg": "70.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/70",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "67",
+        "runs": "1,453",
+        "bat avg": "14.10",
+        "100s/50s": "0/4",
+        "top score": "72",
+        "deliveries": "8,050",
+        "wickets": "184",
+        "bowl avg": "15.01",
+        "fivefor": "9",
+        "tenfor": "0",
+        "best bowling": "8/30",
+        "catches/stumpings": "41/4"
+    },
+    "clubs": {
+        "Otago": "1960/61\u20131973/74",
+        "Auckland": "1959/60"
+    },
+    "birth_date": "1937-7-24"
+}

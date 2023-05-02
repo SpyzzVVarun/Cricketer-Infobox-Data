@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Stephen Wright",
+    "birth_place": "Muswell Hill, Middlesex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/23239.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "277",
+        "bat avg": "14.57",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1973&ndash;1974"
+    },
+    "birth_date": "1952-2-4"
+}

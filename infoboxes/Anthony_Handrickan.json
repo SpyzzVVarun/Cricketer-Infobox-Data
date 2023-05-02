@@ -1,0 +1,40 @@
+{
+    "name": "Anthony Handrickan",
+    "fullname": "Anthony John Handrickan",
+    "birth_place": "Largs Bay, South Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/5754.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "448",
+        "bat avg": "29.86",
+        "100s/50s": "1/2",
+        "top score": "113",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1976/77&ndash;1983/84"
+    },
+    "birth_date": "1959-1-6"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Raju Basnyat",
+    "country": "Nepal",
+    "birth_place": "Nepal",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg spin",
+    "role": "Bowler",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/10/10307/10307.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "40",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "258",
+        "wickets": "5",
+        "bowl avg": "22.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "0/0"
+    },
+    "Youth ODI": {
+        "matches": "4",
+        "runs": "6",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "114",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "0/1",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Kathmandu  (National League)": "2004\u20132010"
+    },
+    "birth_date": "1980-1-9"
+}

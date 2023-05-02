@@ -1,0 +1,46 @@
+{
+    "name": "Feroze Khushi",
+    "fullname": "Feroze Isa Nazir Khushi",
+    "birth_place": "Whipps Cross, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "type1": "First-class",
+    "debutdate1": "1 August",
+    "debutyear1": "2020",
+    "debutfor1": "Essex",
+    "debutagainst1": "Kent",
+    "type2": "List A",
+    "debutdate2": "8 August",
+    "debutyear2": "2021",
+    "debutfor2": "Essex",
+    "debutagainst2": "Durham",
+    "source": "http://www.espncricinfo.com/ci/content/player/866505.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "375",
+        "bat avg": "25.00",
+        "100s/50s": "1/1",
+        "top score": "164",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "558",
+        "bat avg": "46.50",
+        "100s/50s": "3/1",
+        "top score": "118",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "171",
+        "bat avg": "19.00",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Essex( 23 )": "2020\u2013present"
+    },
+    "birth_date": "1999-6-23"
+}

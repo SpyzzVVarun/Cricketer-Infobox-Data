@@ -1,0 +1,48 @@
+{
+    "name": "Gloria Farrell",
+    "female": "true",
+    "country": "International XI",
+    "fullname": "Gloria Farrell",
+    "birth_place": "Port of Spain, Trinidad",
+    "role": "Bowler",
+    "internationalspan": "1973",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "England",
+    "odicap": "4",
+    "lastodidate": "18 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "Trinidad and Tobago",
+    "source": "https://cricketarchive.com/Archive/Players/17/17159/17159.html CricketArchive",
+    "WODI": {
+        "matches": "5",
+        "runs": "9",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "255",
+        "wickets": "6",
+        "bowl avg": "20.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "126",
+        "wickets": "3",
+        "bowl avg": "9.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1975/76"
+    },
+    "birth_date": "1954"
+}

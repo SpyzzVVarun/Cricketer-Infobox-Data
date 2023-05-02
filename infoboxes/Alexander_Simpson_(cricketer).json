@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Alexander Russell Simpson",
+    "birth_place": "Dunfermline, Fife, Scotland",
+    "death_date": "1975",
+    "death_place": "Weston-super-Mare, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/alexander-simpson-25346 Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "101",
+        "bat avg": "6.31",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "14/10"
+    },
+    "clubs": {
+        "Scotland": "1924&ndash;1934"
+    }
+}

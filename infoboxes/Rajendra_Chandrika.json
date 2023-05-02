@@ -1,0 +1,44 @@
+{
+    "name": "Rajendra Chandrika",
+    "country": "West Indies",
+    "birth_place": "Enterprise, Guyana",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Opening batsman",
+    "testdebutdate": "11 June",
+    "testdebutyear": "2015",
+    "testdebutagainst": "Australia",
+    "lasttestdate": "30 July",
+    "lasttestyear": "2016",
+    "lasttestagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/316153.html  ESPNCricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "140",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "60",
+        "runs": "2,682",
+        "bat avg": "25.30",
+        "100s/50s": "1/13",
+        "top score": "146",
+        "catches/stumpings": "35/\u2013"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "491",
+        "bat avg": "18.88",
+        "100s/50s": "0/3",
+        "top score": "52",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Guyana": "2008/09\u20132017/18",
+        "Leeward Islands": "2018/19"
+    },
+    "birth_date": "1989-8-8"
+}

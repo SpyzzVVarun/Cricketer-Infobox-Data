@@ -1,0 +1,30 @@
+{
+    "name": "Brian Poll",
+    "country": "England",
+    "fullname": "Brian William Poll",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "death_date": "1999",
+    "death_place": "England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/19112.html Cricinfo ",
+    "List A": {
+        "matches": "10",
+        "runs": "73",
+        "bat avg": "14.60",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/2"
+    },
+    "clubs": {
+        "Minor Counties South": "1972",
+        "Buckinghamshire": "1966&ndash;1980"
+    },
+    "birth_date": "1941-1-5"
+}

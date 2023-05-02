@@ -1,0 +1,22 @@
+{
+    "name": "Stewart Speed",
+    "fullname": "Stewart Raymond Speed",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "2020",
+    "death_place": "Whangarei, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/38539.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "904",
+        "bat avg": "25.11",
+        "100s/50s": "0/4",
+        "top score": "88",
+        "catches/stumpings": "61/12"
+    },
+    "clubs": {
+        "Auckland": "1962-63 to 1970-71"
+    },
+    "birth_date": "1942-9-13"
+}

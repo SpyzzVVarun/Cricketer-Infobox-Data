@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Thomas Christopher Williams",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Clonmel, Munster, Ireland",
+    "batting": "Left-handed",
+    "bowling": "Leg break Right-arm Leg break Right-arm medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24539.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "89",
+        "wickets": "1",
+        "bowl avg": "50.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/36",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1939"
+    }
+}

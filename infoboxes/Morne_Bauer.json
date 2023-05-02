@@ -1,0 +1,28 @@
+{
+    "name": "Morne Bauer",
+    "country": "Ireland",
+    "fullname": "Morne Bauer",
+    "type1": "Twenty20",
+    "debutdate1": "16 June",
+    "debutyear1": "2017",
+    "debutfor1": "Munster",
+    "debutagainst1": "Leinster",
+    "source": "http://www.espncricinfo.com/ci/content/player/1102235.html Cricinfo ",
+    "Twenty20": {
+        "matches": "4",
+        "runs": "26",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Munster Reds": "2017\u2013present"
+    }
+}

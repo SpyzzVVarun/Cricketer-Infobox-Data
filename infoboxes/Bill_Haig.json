@@ -1,0 +1,29 @@
+{
+    "name": "Bill Haig",
+    "fullname": "William Smith Haig",
+    "birth_place": "Prestonpans, Scotland",
+    "death_date": "1967",
+    "death_place": "Dunedin, New Zealand",
+    "family": "Laurie Haig (brother), Jimmy Haig (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/37293.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "31",
+        "runs": "1062",
+        "bat avg": "19.30",
+        "100s/50s": "1/6",
+        "top score": "102",
+        "deliveries": "1038",
+        "wickets": "15",
+        "bowl avg": "23.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/12",
+        "catches/stumpings": "18/0"
+    },
+    "clubs": {
+        "Otago": "1949/50\u20131957/58"
+    },
+    "birth_date": "1921-4-6"
+}

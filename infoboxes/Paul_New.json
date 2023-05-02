@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Paul Michael New",
+    "birth_place": "Wokingham, Berkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.cricinfo.com/ci/content/player/18184.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "25",
+        "bat avg": "6.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "280",
+        "wickets": "6",
+        "bowl avg": "25.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/58",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Berkshire": "1974-1987"
+    },
+    "birth_date": "1953-9-30"
+}

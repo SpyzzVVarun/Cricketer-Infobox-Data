@@ -1,0 +1,28 @@
+{
+    "name": "Robin Bilbie",
+    "country": "England",
+    "fullname": "Anthony Robin Bilbie",
+    "birth_place": "Sherwood, Nottinghamshire, England",
+    "death_date": "2015",
+    "death_place": "York, North Yorkshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/9749.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "291",
+        "bat avg": "11.19",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1960\u20131963"
+    },
+    "birth_date": "1942-4-29"
+}

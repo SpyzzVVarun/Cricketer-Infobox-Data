@@ -1,0 +1,59 @@
+{
+    "name": "Zane Green",
+    "country": "Namibia",
+    "fullname": "Zane Edward Green",
+    "birth_place": "Namibia",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2013\u2013present",
+    "odidebutdate": "27 April",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Oman",
+    "odicap": "20",
+    "lastodidate": "26 November",
+    "lastodiyear": "2022",
+    "lastodiagainst": "USA",
+    "odishirt": "48",
+    "T20Idebutdate": "20 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Ghana",
+    "T20Icap": "6",
+    "lastT20Idate": "20 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "UAE",
+    "source": "http://www.espncricinfo.com/ci/content/player/596664.html Cricinfo ",
+    "ODI": {
+        "matches": "14",
+        "runs": "319",
+        "bat avg": "26.58",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "catches/stumpings": "11/3"
+    },
+    "T20I": {
+        "matches": "35",
+        "runs": "245",
+        "bat avg": "11.13",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "25/6"
+    },
+    "FC": {
+        "matches": "25",
+        "runs": "664",
+        "bat avg": "14.75",
+        "100s/50s": "0/2",
+        "top score": "65",
+        "catches/stumpings": "38/7"
+    },
+    "LA": {
+        "matches": "50",
+        "runs": "969",
+        "bat avg": "22.02",
+        "100s/50s": "0/5",
+        "top score": "62",
+        "catches/stumpings": "41/6"
+    },
+    "clubs": {},
+    "birth_date": "1996-10-11"
+}

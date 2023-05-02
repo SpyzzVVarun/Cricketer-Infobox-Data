@@ -1,0 +1,39 @@
+{
+    "name": "Alfred Anthony",
+    "country": "England",
+    "fullname": "Alfred Anthony",
+    "birth_place": "Arnold, Nottinghamshire, England",
+    "death_date": "df=y",
+    "death_place": "Sheffield, Yorkshire, England",
+    "batting": "Right handed",
+    "role": "Wicket-keeper",
+    "family": "George Anthony (nephew), Henry Anthony (nephew)",
+    "type1": "First-class",
+    "debutdate1": "17 May",
+    "debutyear1": "1875",
+    "debutfor1": "Nottinghamshire",
+    "debutagainst1": "Derbyshire",
+    "lastdate1": "15 May",
+    "lastyear1": "1876",
+    "lastfor1": "Nottinghamshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/27/27495/27495.html CricketArchive ",
+    "FC": {
+        "matches": "3",
+        "runs": "14",
+        "bat avg": "2.33",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/2"
+    },
+    "clubs": {
+        "Nottinghamshire": "1875\u20131876"
+    },
+    "birth_date": "1841-5-22"
+}

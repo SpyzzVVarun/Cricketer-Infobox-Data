@@ -1,0 +1,28 @@
+{
+    "name": "Sydney Austin",
+    "fullname": "Sydney Walter Austin",
+    "birth_place": "Sydney, Australia",
+    "death_date": "1932",
+    "death_place": "Sydney, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/4000.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "176",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "1797",
+        "wickets": "53",
+        "bowl avg": "11.69",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "8/14",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "New South Wales": "1892\u20131894"
+    },
+    "birth_date": "1866-11-16"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Denesh Ramdin",
+    "country": "West Indies",
+    "fullname": "Denesh Ramdin",
+    "nickname": "Shotter",
+    "birth_place": "Couva, Trinidad and Tobago",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2005\u20132019",
+    "testdebutdate": "13 July",
+    "testdebutyear": "2005",
+    "testdebutagainst": "Sri Lanka",
+    "testcap": "263",
+    "lasttestdate": "3 January",
+    "lasttestyear": "2016",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "31 July",
+    "odidebutyear": "2005",
+    "odidebutagainst": "India",
+    "odicap": "127",
+    "lastodidate": "5 October",
+    "lastodiyear": "2016",
+    "lastodiagainst": "Pakistan",
+    "odishirt": "80",
+    "T20Idebutdate": "16 November",
+    "T20Idebutyear": "2006",
+    "T20Idebutagainst": "New Zealand",
+    "T20Icap": "9",
+    "lastT20Idate": "6 December",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "India",
+    "T20Ishirt": "80",
+    "source": "http://www.espncricinfo.com/westindies/content/player/52917.html ESPNcricinfo ",
+    "Test": {
+        "matches": "74",
+        "runs": "2,898",
+        "bat avg": "25.85",
+        "100s/50s": "4/15",
+        "top score": "166",
+        "catches/stumpings": "205/12"
+    },
+    "ODI": {
+        "matches": "139",
+        "runs": "2,200",
+        "bat avg": "25.00",
+        "100s/50s": "2/8",
+        "top score": "169",
+        "catches/stumpings": "181/7"
+    },
+    "FC": {
+        "matches": "161",
+        "runs": "7,115",
+        "bat avg": "30.02",
+        "100s/50s": "15/33",
+        "catches/stumpings": "393/40"
+    },
+    "LA": {
+        "matches": "225",
+        "runs": "4,260",
+        "bat avg": "28.78",
+        "100s/50s": "4/18",
+        "top score": "169",
+        "catches/stumpings": "292/28"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2004\u2013present",
+        "Guyana Amazon Warriors": "2013\u20132015",
+        "Trinbago Knight Riders": "2016\u20132019;2021\u2013present",
+        "Lahore Qalandars": "2018",
+        "St Kitts & Nevis Patriots": "2020"
+    },
+    "birth_date": "1985-3-13"
+}

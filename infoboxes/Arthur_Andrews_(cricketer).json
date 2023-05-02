@@ -1,0 +1,26 @@
+{
+    "name": "Arthur Andrews",
+    "country": "England",
+    "birth_place": "Southampton, England",
+    "death_date": "1943",
+    "death_place": "Aldershot, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/6/6449/6449.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "236",
+        "bat avg": "21.45",
+        "100s/50s": "0/2",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/2"
+    },
+    "clubs": {
+        "Hampshire": "1880"
+    },
+    "birth_date": "1856-8-26"
+}

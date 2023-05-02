@@ -1,0 +1,29 @@
+{
+    "name": "Harry Baldwin",
+    "country": "England",
+    "birth_place": "Wokingham, Berkshire, England",
+    "death_date": "1935",
+    "death_place": "Aldershot, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Herbert Baldwin (Son)",
+    "role": "Umpire",
+    "source": "http://www.cricinfo.com/ci/content/player/8967.html Cricinfo ",
+    "FC": {
+        "matches": "151",
+        "runs": "1,873",
+        "bat avg": "10.70",
+        "100s/50s": "\u2013/1",
+        "deliveries": "34,240",
+        "wickets": "580",
+        "bowl avg": "24.79",
+        "fivefor": "41",
+        "tenfor": "6",
+        "best bowling": "8/74",
+        "catches/stumpings": "54/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1877 and 1887\u20131905"
+    },
+    "birth_date": "1860-11-27"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Robert Jeffery",
+    "country": "Australia",
+    "fullname": "Robert Frederick Jeffery",
+    "birth_place": "Goulburn, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/6015.html Cricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "1,159",
+        "bat avg": "32.19",
+        "100s/50s": "2/3",
+        "top score": "198",
+        "deliveries": "1,286",
+        "wickets": "16",
+        "bowl avg": "46.43",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/37",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "280",
+        "bat avg": "31.11",
+        "100s/50s": "&ndash;/2",
+        "top score": "61",
+        "deliveries": "294",
+        "wickets": "8",
+        "bowl avg": "32.62",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/35",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1979/80&ndash;1981/82",
+        "New South Wales": "1978/79"
+    },
+    "birth_date": "1953-9-19"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "John Springall",
+    "country": "England",
+    "fullname": "John Denis Springall",
+    "birth_place": "Southwark, Surrey, England",
+    "death_date": "2020",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/20969.html Cricinfo ",
+    "First-class": {
+        "matches": "121",
+        "runs": "5176",
+        "bat avg": "25.88",
+        "100s/50s": "2/32",
+        "deliveries": "6352",
+        "wickets": "80",
+        "bowl avg": "41.40",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "51/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1955\u20131967"
+    },
+    "birth_date": "1932-9-19"
+}

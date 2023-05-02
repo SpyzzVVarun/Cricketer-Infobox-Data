@@ -1,0 +1,50 @@
+{
+    "name": "Matthew Mott",
+    "country": "Australia",
+    "fullname": "Matthew Peter Mott",
+    "birth_place": "Charleville, Queensland, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "coachclub1": "New South Wales",
+    "coachyear1": "2007/08\u20132010/11",
+    "coachclub2": "Glamorgan",
+    "coachyear2": "2011\u20132013",
+    "coachclub3": "Australia women",
+    "coachyear3": "2015\u20132022",
+    "coachclub4": "England",
+    "coachyear4": "2022\u2013present",
+    "source": "http://www.espncricinfo.com/australia/content/player/6657.html CricInfo",
+    "First-class": {
+        "matches": "66",
+        "runs": "3,723",
+        "bat avg": "33.84",
+        "100s/50s": "7/20",
+        "top score": "216",
+        "deliveries": "856",
+        "wickets": "7",
+        "bowl avg": "65.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/35",
+        "catches/stumpings": "55/\u2013"
+    },
+    "List A": {
+        "matches": "24",
+        "runs": "452",
+        "bat avg": "22.60",
+        "100s/50s": "0/2",
+        "deliveries": "165",
+        "wickets": "6",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/2",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1994/95\u20131997/98",
+        "Victoria": "1998/99\u20132003/04"
+    },
+    "birth_date": "1973-10-3"
+}

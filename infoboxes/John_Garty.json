@@ -1,0 +1,26 @@
+{
+    "name": "John Garty",
+    "birth_place": "Mount Grey, Canterbury, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Sydney, Australia",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/37131.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "217",
+        "wickets": "7",
+        "bowl avg": "10.00",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/41",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1886-87"
+    },
+    "birth_date": "1864-1-6"
+}

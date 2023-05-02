@@ -1,0 +1,38 @@
+{
+    "name": "Gerard Hodgkinson",
+    "country": "England",
+    "fullname": "Gerard William Hodgkinson",
+    "birth_place": "Clifton, Bristol, England",
+    "death_date": "1960",
+    "death_place": "Wookey Hole, Somerset, England",
+    "family": "C. Hodgkinson (son), R. Philpott (grandfather), W. Philpott (grand-uncle)",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "12 May",
+    "debutyear1": "1904",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "5 August",
+    "lastyear1": "1911",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/3/3628/3628.html CricketArchive ",
+    "First-class": {
+        "matches": "19",
+        "runs": "515",
+        "bat avg": "15.14",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1904&ndash;11"
+    },
+    "birth_date": "1883-2-19"
+}

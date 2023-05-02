@@ -1,0 +1,52 @@
+{
+    "name": "Taruwar Kohli",
+    "country": "India",
+    "fullname": "Taruwar Sushil Kohli",
+    "birth_place": "Jalandhar, Punjab, India",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "source": "http://www.espncricinfo.com/india/content/player/331855.html ESPNCricinfo ",
+    "FC": {
+        "matches": "54",
+        "runs": "4429",
+        "bat avg": "52.72",
+        "100s/50s": "13/18",
+        "deliveries": "4038",
+        "wickets": "71",
+        "bowl avg": "30.57",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/52",
+        "catches/stumpings": "34"
+    },
+    "LA": {
+        "matches": "72",
+        "runs": "1913",
+        "bat avg": "39.85",
+        "100s/50s": "3/11",
+        "top score": "127",
+        "deliveries": "1420",
+        "wickets": "41",
+        "bowl avg": "34.47",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/65",
+        "catches/stumpings": "24/\u2013"
+    },
+    "T20": {
+        "matches": "57",
+        "runs": "1057",
+        "bat avg": "24.58",
+        "100s/50s": "0/7",
+        "top score": "90",
+        "deliveries": "495",
+        "wickets": "18",
+        "bowl avg": "41.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/19",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1988-12-17"
+}

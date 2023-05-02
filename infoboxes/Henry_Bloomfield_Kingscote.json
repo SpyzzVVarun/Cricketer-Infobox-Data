@@ -1,0 +1,27 @@
+{
+    "name": "Henry Kingscote",
+    "country": "England",
+    "fullname": "Henry Bloomfield Kingscote",
+    "birth_place": "Kingscote, Gloucestershire",
+    "death_date": "1915",
+    "death_place": "Westminster, London",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Arthur Kingscote (cousin), Henry Kingscote (uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/16046.html CricInfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "91",
+        "bat avg": "5.68",
+        "100s/50s": "0/0",
+        "catches/stumpings": "12/8"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1864\u20131878",
+        "Royal Artillery": "1866\u20131881",
+        "Kent": "1867",
+        "Gloucestershire": "1877",
+        "Devon": "1880"
+    },
+    "birth_date": "1843-2-28"
+}

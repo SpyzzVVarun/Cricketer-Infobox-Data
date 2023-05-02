@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Alasdair Charles Dewhurst",
+    "birth_place": "Hammersmith, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/1108394.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "207",
+        "bat avg": "34.50",
+        "100s/50s": "\u2013/2",
+        "top score": "91",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "2017&ndash;2019"
+    },
+    "birth_date": "1996-11-5"
+}

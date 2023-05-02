@@ -1,0 +1,34 @@
+{
+    "name": "Joy Irwin",
+    "country": "South Africa",
+    "fullname": "Joy Irwin",
+    "female": "true",
+    "role": "Batter",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "England",
+    "testcap": "5",
+    "lasttestdate": "31 December",
+    "lasttestyear": "1960",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17372/17372.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "40",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Durban": "1951/52",
+        "Natal": "1952/53\u20131960/61"
+    }
+}

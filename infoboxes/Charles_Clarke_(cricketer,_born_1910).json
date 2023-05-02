@@ -1,0 +1,31 @@
+{
+    "name": "Charles Clarke",
+    "country": "England",
+    "fullname": "Charles Cyril Clarke",
+    "birth_place": "Burton-on-Trent, Staffordshire, England",
+    "death_date": "1997",
+    "death_place": "Carnforth, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "31 July",
+    "debutyear1": "1929",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "25 June",
+    "lastyear1": "1947",
+    "lastfor1": "Sussex",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Players/28/28557/28557.html CricketArchive ",
+    "First-class": {
+        "matches": "28",
+        "runs": "472",
+        "bat avg": "11.80",
+        "100s/50s": "0/0",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1929\u20131933",
+        "Sussex": "1947"
+    },
+    "birth_date": "1910-12-22"
+}

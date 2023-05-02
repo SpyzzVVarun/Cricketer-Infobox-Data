@@ -1,0 +1,37 @@
+{
+    "name": "Charlie Roebuck",
+    "country": "England",
+    "fullname": "Charles George Roebuck",
+    "birth_place": "Huddersfield, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-armed Right-armed medium-fast",
+    "type1": "FC",
+    "debutdate1": "5 June",
+    "debutyear1": "2010",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "India A",
+    "lastdate1": "7 April",
+    "lastyear1": "2014",
+    "lastfor1": "Leeds/Bradford MCCU",
+    "lastagainst1": "Somerset",
+    "source": "http://www.espncricinfo.com/ci/content/player/354258.html Cricinfo.com ",
+    "First-class": {
+        "matches": "3",
+        "runs": "54",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "27not out",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Yorkshire": "2010",
+        "Leeds/Bradford MCCU": "2012\u20132014"
+    },
+    "birth_date": "1991-8-14"
+}

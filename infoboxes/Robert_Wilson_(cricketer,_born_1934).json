@@ -1,0 +1,26 @@
+{
+    "name": "Robert Wilson",
+    "country": "England",
+    "fullname": "Robert Warley Wilson",
+    "birth_place": "Warley, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/england/content/player/23085.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "169",
+        "bat avg": "9.38",
+        "100s/50s": "0/0",
+        "deliveries": "2700",
+        "wickets": "34",
+        "bowl avg": "37.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1956\u20131957"
+    },
+    "birth_date": "1934-7-15"
+}

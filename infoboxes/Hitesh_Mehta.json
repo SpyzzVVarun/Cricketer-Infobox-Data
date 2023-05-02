@@ -1,0 +1,23 @@
+{
+    "country": "Kenya",
+    "fullname": "Hitesh Sukhlal Mehta",
+    "birth_place": "Nairobi, Kenya Colony",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/24766.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "56",
+        "bat avg": "28.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "162",
+        "wickets": "3",
+        "bowl avg": "31.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/72",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

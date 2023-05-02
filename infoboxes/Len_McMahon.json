@@ -1,0 +1,29 @@
+{
+    "name": "Len McMahon",
+    "country": "New Zealand",
+    "fullname": "Francis Leonard McMahon",
+    "birth_place": "North Sydney, New South Wales, Australia",
+    "death_date": "1968",
+    "death_place": "Porirua, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://cricketarchive.com/Archive/Players/22/22458/22458.html Cricket Archive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "83",
+        "bat avg": "23.75",
+        "100s/50s": "0/1",
+        "top score": "68",
+        "deliveries": "114",
+        "wickets": "2",
+        "bowl avg": "37.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/43",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Auckland": "1908-09"
+    },
+    "birth_date": "1887-10-9"
+}

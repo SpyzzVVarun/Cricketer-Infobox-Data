@@ -1,0 +1,26 @@
+{
+    "name": "Brad Davis",
+    "fullname": "Bradley R Davis",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper-batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/333828.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "196",
+        "bat avg": "19.60",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2018/19\u20132020/21"
+    },
+    "birth_date": "1990"
+}

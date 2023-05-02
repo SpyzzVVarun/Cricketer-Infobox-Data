@@ -1,0 +1,27 @@
+{
+    "fullname": "Gerald Howard-Smith",
+    "birth_place": "Earl's Court, Middlesex, England",
+    "death_date": "df=y",
+    "death_place": "Neuville-Saint-Vaast,, Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/14990.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "189",
+        "bat avg": "11.11",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,075",
+        "wickets": "29",
+        "bowl avg": "44.10",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/23",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "1908\u20131910",
+        "Cambridge University": "1901\u20131903",
+        "Marylebone Cricket Club": "1900\u20131902"
+    }
+}

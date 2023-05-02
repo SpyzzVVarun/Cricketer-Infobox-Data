@@ -1,0 +1,63 @@
+{
+    "name": "Arjan Kripal Singh",
+    "country": "India",
+    "birth_place": "Madras (now Chennai), Tamil Nadu, India",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "Batsman",
+    "family": "A. G. Ram Singh (grandfather) A. G. Kripal Singh (father) A. G. Milkha Singh (uncle)",
+    "type1": "FC",
+    "debutdate1": "19 November",
+    "debutyear1": "1988",
+    "debutfor1": "Tamil Nadu",
+    "debutagainst1": "New Zealanders",
+    "lastdate1": "15 February",
+    "lastyear1": "1995",
+    "lastfor1": "Tamil Nadu",
+    "lastagainst1": "Haryana",
+    "type2": "LA",
+    "debutdate2": "12 March",
+    "debutyear2": "1989",
+    "debutfor2": "Tamil Nadu",
+    "debutagainst2": "Delhi",
+    "lastdate2": "12 March",
+    "lastyear2": "1989",
+    "lastfor2": "Tamil Nadu",
+    "lastagainst2": "Kerala",
+    "source": "https://cricketarchive.com/Archive/Players/11/11297/11297.html CricketArchive ",
+    "FC": {
+        "matches": "31",
+        "runs": "1495",
+        "bat avg": "42.71",
+        "100s/50s": "4/6",
+        "catches/stumpings": "25/&ndash;"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "39",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "Youth Test": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "Youth ODI": {
+        "matches": "9",
+        "runs": "142",
+        "bat avg": "17.75",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Tamil Nadu": "1988/89&ndash;1994/95"
+    },
+    "birth_date": "1971-2-13"
+}

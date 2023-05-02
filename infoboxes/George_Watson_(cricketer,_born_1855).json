@@ -1,0 +1,27 @@
+{
+    "name": "George Watson",
+    "country": "New Zealand",
+    "birth_place": "Bombay, British India",
+    "death_date": "23 November 1884 (aged 29)",
+    "death_place": "Christchurch, New Zealand",
+    "family": "Francis Watson (brother)",
+    "batting": "Left-handed",
+    "source": "https://cricketarchive.com/Archive/Players/23/23067/23067.html Cricket Archive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "367",
+        "bat avg": "40.77",
+        "100s/50s": "1/2",
+        "top score": "175",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Canterbury": "1882-83 to 1883-84"
+    }
+}

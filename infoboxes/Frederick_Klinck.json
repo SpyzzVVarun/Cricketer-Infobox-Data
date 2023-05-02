@@ -1,0 +1,28 @@
+{
+    "name": "Frederick Klinck",
+    "fullname": "Frederick Gordon Klinck",
+    "birth_place": "Port Elizabeth, Cape Colony",
+    "death_date": "1893",
+    "death_place": "Doornfontein, Johannesburg, South African Republic",
+    "batting": "Left-handed",
+    "bowling": "Right-arm",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/45818.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "41",
+        "bat avg": "8.20",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "105",
+        "wickets": "2",
+        "bowl avg": "27.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1890-91 to 1892-93"
+    },
+    "birth_date": "1865-6-3"
+}

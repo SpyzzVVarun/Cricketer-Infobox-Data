@@ -1,0 +1,52 @@
+{
+    "name": "Charles Lee",
+    "country": "England",
+    "birth_place": "Rotherham, England",
+    "death_date": "1999",
+    "death_place": "Leicester, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "type1": "FC",
+    "debutdate1": "25 June",
+    "debutyear1": "1952",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Scotland",
+    "lastdate1": "25 July",
+    "lastyear1": "1964",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/30/30934/30934.html CricketArchive ",
+    "First-class": {
+        "matches": "271",
+        "runs": "12,129",
+        "bat avg": "26.59",
+        "100s/50s": "8/69",
+        "top score": "150",
+        "deliveries": "1,615",
+        "wickets": "21",
+        "bowl avg": "34.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/9",
+        "catches/stumpings": "202/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "21",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1952",
+        "Derbyshire": "1954\u20131964"
+    },
+    "birth_date": "1924-3-17"
+}

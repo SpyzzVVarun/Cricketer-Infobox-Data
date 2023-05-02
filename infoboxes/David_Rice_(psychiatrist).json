@@ -1,0 +1,29 @@
+{
+    "name": "David Rice",
+    "country": "England",
+    "birth_place": "Hellesdon, Norfolk, England",
+    "death_date": "1997",
+    "death_place": "Brighton, East Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/england/content/player/19664.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "32",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "150",
+        "wickets": "1",
+        "bowl avg": "84.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/37",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1946",
+        "Col. L. C. Stevens' XI": "1960 to 1961"
+    },
+    "birth_date": "1914-4-8"
+}

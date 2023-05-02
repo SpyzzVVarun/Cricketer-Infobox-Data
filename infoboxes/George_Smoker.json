@@ -1,0 +1,27 @@
+{
+    "name": "George Smoker",
+    "country": "England",
+    "birth_place": "Ovington, Hampshire, England",
+    "death_date": "1925",
+    "death_place": "Alresford, Hampshire, England",
+    "family": "Henry Smoker (Son)",
+    "source": "http://www.cricinfo.com/ci/content/player/20275.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1885"
+    },
+    "birth_date": "1856-12-30"
+}

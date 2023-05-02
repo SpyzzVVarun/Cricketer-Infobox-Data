@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Edward James Conway Donavon",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "Q4 1951 (aged 79)",
+    "death_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.cricketeurope.com/CSTATZ/irelandfirstclass/bio/d/donavon_ejc.html CricketEurope ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "36.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/36",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1907"
+    }
+}

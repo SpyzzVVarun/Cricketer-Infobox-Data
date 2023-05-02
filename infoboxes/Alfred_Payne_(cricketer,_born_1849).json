@@ -1,0 +1,27 @@
+{
+    "name": "Alfred Payne",
+    "fullname": "Alfred Ernest Payne",
+    "birth_place": "Oswestry, Shropshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ruabon, Denbighshire, Wales",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/18809.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "75",
+        "bat avg": "5.35",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "8",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1883\u20131884"
+    }
+}

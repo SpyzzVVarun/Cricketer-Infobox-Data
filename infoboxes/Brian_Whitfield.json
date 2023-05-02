@@ -1,0 +1,36 @@
+{
+    "name": "Brian Whitfield",
+    "birth_place": "Durban, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/14/14887/14887.html CricketArchive",
+    "First-class": {
+        "matches": "83",
+        "runs": "5,166",
+        "bat avg": "38.26",
+        "100s/50s": "11/33",
+        "top score": "161",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "58/1"
+    },
+    "List A": {
+        "matches": "62",
+        "runs": "1,403",
+        "bat avg": "28.06",
+        "100s/50s": "2/6",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "21/0"
+    },
+    "clubs": {},
+    "birth_date": "14 March 1959"
+}

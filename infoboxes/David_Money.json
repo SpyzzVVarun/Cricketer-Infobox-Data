@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "David Charles Money",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bedford, Bedfordshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/17639.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "27",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Oxfordshire": "1938&ndash;1946",
+        "Oxford University": "1947",
+        "Bedfordshire": "1950&ndash;1952"
+    }
+}

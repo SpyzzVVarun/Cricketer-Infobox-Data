@@ -1,0 +1,47 @@
+{
+    "name": "Brian Parsons",
+    "country": "England",
+    "fullname": "Arthur Brian Douglas Parsons",
+    "birth_place": "Guildford, Surrey",
+    "death_date": "df=yes",
+    "death_place": "Chippenham, Wiltshire",
+    "nickname": "Tich",
+    "heightft": "5",
+    "heightinch": "4",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/18779.html Cricinfo ",
+    "FC": {
+        "matches": "152",
+        "runs": "6376",
+        "bat avg": "26.45",
+        "100s/50s": "3/33",
+        "top score": "125",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "69/&ndash;"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "n/a",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cambridge University": "1954 to 1955",
+        "Combined Services": "1956 to 1957",
+        "Surrey": "1958 to 1963"
+    },
+    "birth_date": "1933-9-20"
+}

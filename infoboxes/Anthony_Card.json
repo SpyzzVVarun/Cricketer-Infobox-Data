@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Anthony John Card",
+    "birth_place": "Doncaster, Yorkshire, England",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/11007.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "51",
+        "bat avg": "25.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "148",
+        "wickets": "7",
+        "bowl avg": "12.42",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1955&ndash;1958"
+    },
+    "birth_date": "1929-9-13"
+}

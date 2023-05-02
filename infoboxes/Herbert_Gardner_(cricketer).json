@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Herbert Wilson Gardner",
+    "birth_place": "Rugeley, Staffordshire, England",
+    "death_date": "1924",
+    "death_place": "Armitage, Staffordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/13558.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882"
+    }
+}

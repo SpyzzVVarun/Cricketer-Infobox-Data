@@ -1,0 +1,51 @@
+{
+    "name": "Arthur McIntyre",
+    "country": "England",
+    "fullname": "Arthur John William McIntyre",
+    "birth_place": "Kennington, London, England",
+    "death_date": "2009",
+    "death_place": "Hordle, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Wicket-keeper",
+    "testdebutdate": "12 August",
+    "testdebutyear": "1950",
+    "testdebutagainst": "West Indies",
+    "testcap": "352",
+    "lasttestdate": "21 July",
+    "lasttestyear": "1955",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.co.uk/Archive/Players/0/878/878.html CricketArchive ",
+    "Test": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "3.16",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "FC": {
+        "matches": "390",
+        "runs": "11,145",
+        "bat avg": "22.83",
+        "100s/50s": "7/51",
+        "deliveries": "287",
+        "wickets": "4",
+        "bowl avg": "45.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "637/158"
+    },
+    "clubs": {
+        "Surrey": "1938\u20131963",
+        "Marylebone Cricket Club": "1950\u20131951"
+    },
+    "birth_date": "1918-5-14"
+}

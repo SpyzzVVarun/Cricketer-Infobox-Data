@@ -1,0 +1,32 @@
+{
+    "name": "Cuthbert Burnup",
+    "country": "England",
+    "fullname": "Cuthbert James Burnup",
+    "nickname": "Pinky",
+    "birth_place": "Blackheath, Kent",
+    "death_date": "1960",
+    "death_place": "Golders Green, Middlesex",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/10177.html CricInfo ",
+    "First-class": {
+        "matches": "228",
+        "runs": "13,614",
+        "bat avg": "36.79",
+        "100s/50s": "26/81",
+        "top score": "200",
+        "deliveries": "5,813",
+        "wickets": "98",
+        "bowl avg": "32.42",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/36",
+        "catches/stumpings": "107/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1895\u20131898",
+        "Kent": "1896\u20131907",
+        "Marylebone Cricket Club": "1899\u20131903",
+        "London County": "1901"
+    },
+    "birth_date": "1875-11-21"
+}

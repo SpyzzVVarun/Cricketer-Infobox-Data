@@ -1,0 +1,28 @@
+{
+    "name": "Gull Feroza",
+    "female": "true",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "Pakistan",
+    "T20Idebutdate": "24 May",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "49",
+    "lastT20Idate": "26 May",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/ci/content/player/1144870.html Cricinfo ",
+    "WT20I": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Multan": "2016\u20132017",
+        "Higher Education Commission": "2018\u20132018/19"
+    },
+    "birth_date": "1998-12-28"
+}

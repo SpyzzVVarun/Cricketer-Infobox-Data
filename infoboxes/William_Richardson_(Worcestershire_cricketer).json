@@ -1,0 +1,29 @@
+{
+    "name": "William Richardson",
+    "country": "England",
+    "fullname": "William Ethelbert Richardson",
+    "birth_place": "St Helens, Lancashire, England",
+    "death_date": "1971",
+    "death_place": "Hartlebury, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/32/32358/32358.html CricketArchive ",
+    "FC": {
+        "matches": "30",
+        "runs": "269",
+        "bat avg": "6.56",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "2,730",
+        "wickets": "44",
+        "bowl avg": "42.38",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/48",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Worcestershire": "1920&ndash;1928"
+    },
+    "birth_date": "1894-12-23"
+}

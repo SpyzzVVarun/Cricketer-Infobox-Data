@@ -1,0 +1,40 @@
+{
+    "name": "Maneer Mirza",
+    "fullname": "Maneer Mohammed Mirza",
+    "birth_place": "Birmingham, England",
+    "role": "Bowler",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/maneer-mirza-17039 ESPNcricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "916",
+        "wickets": "19",
+        "bowl avg": "32.63",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "141",
+        "deliveries": "\u2013",
+        "wickets": "1",
+        "bowl avg": "113.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/31",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1997"
+    },
+    "birth_date": "1978-4-1"
+}

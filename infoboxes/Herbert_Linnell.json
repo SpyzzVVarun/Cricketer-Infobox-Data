@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Herbert James Linnell",
+    "birth_place": "Paddington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Canterbury, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/16592.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "34",
+        "bat avg": "5.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "648",
+        "wickets": "8",
+        "bowl avg": "38.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/57",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1929&ndash;1932"
+    }
+}

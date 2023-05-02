@@ -1,0 +1,27 @@
+{
+    "name": "James Brodie",
+    "fullname": "James Charles Brodie",
+    "birth_place": "Perth, Scotland",
+    "death_date": "1912",
+    "death_place": "Balwyn, Victoria, Australia",
+    "clubnumber2": "|debutdate1=11-12 February |debutyear1=1851 |debutfor1=Victoria |debutagainst1=Tasmania |type1=First-class |lastdate1=14-16 Feb |lastyear1=1861 |lastfor1=Victoria |lastagainst1=New South Wales",
+    "source": "http://www.espncricinfo.com/australia/content/player/4390.html Cricinfo  ",
+    "First-class": {
+        "matches": "3",
+        "runs": "43",
+        "bat avg": "7.16",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "32",
+        "wickets": "1",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/13",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {
+        "Victoria": "1850/51-1860/61"
+    },
+    "birth_date": "1820-8-31"
+}

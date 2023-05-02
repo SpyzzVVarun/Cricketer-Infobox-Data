@@ -1,0 +1,26 @@
+{
+    "name": "John Ducker",
+    "country": "Australia",
+    "fullname": "John Robert Ducker",
+    "birth_place": "Prospect, South Australia, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/5063.html Cricinfo ",
+    "First-class": {
+        "matches": "30",
+        "runs": "1094",
+        "bat avg": "26.04",
+        "100s/50s": "0/6",
+        "top score": "76",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "48/12"
+    },
+    "clubs": {
+        "South Australia": "1952\u201353 to 1962\u201363"
+    },
+    "birth_date": "1934-6-12"
+}

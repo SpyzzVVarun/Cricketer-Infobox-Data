@@ -1,0 +1,38 @@
+{
+    "name": "Perry Rendell",
+    "country": "England",
+    "fullname": "Perry John Rendell",
+    "birth_place": "Weston-super-Mare, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "LA",
+    "debutdate1": "3 September",
+    "debutyear1": "1990",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Sri Lankans",
+    "lastdate1": "25 April",
+    "lastyear1": "1991",
+    "lastfor1": "Combined Universities",
+    "lastagainst1": "Derbyshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/34/34802/34802.html CricketArchive ",
+    "List A": {
+        "matches": "3",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "102",
+        "wickets": "3",
+        "bowl avg": "33.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/46",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1987\u20131995",
+        "Combined Universities": "1991",
+        "Herefordshire": "1994"
+    },
+    "birth_date": "1970-01-20"
+}

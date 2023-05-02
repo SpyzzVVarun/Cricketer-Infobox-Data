@@ -1,0 +1,57 @@
+{
+    "name": "TP Sudhindra",
+    "country": "India",
+    "fullname": "Taduri Prakash Chandra Sudhindra",
+    "birth_place": "Hindupur, Andhra Pradesh, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/wisdenalmanack/content/player/34139.html cricinfo ",
+    "FC": {
+        "matches": "27",
+        "runs": "369",
+        "bat avg": "16.04",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "5937",
+        "wickets": "108",
+        "bowl avg": "22.61",
+        "fivefor": "6",
+        "tenfor": "2",
+        "best bowling": "7/48",
+        "catches/stumpings": "8/0"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "78",
+        "bat avg": "9.75",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "985",
+        "wickets": "31",
+        "bowl avg": "24.45",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/53",
+        "catches/stumpings": "7/0"
+    },
+    "T20": {
+        "matches": "27",
+        "runs": "75",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "deliveries": "637",
+        "wickets": "35",
+        "bowl avg": "20.48",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/30",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Madhya Pradesh": "2005\u20132012",
+        "Delhi Giants": "2007\u20132008",
+        "Deccan Chargers": "2012"
+    },
+    "birth_date": "1984-4-24"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Wilfrid Timms",
+    "country": "England",
+    "fullname": "Wilfrid Walter Timms",
+    "birth_place": "Northampton, Northamptonshire, England",
+    "death_date": "1986",
+    "death_place": "Godalming, Surrey, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/21852.html Cricinfo ",
+    "FC": {
+        "matches": "106",
+        "runs": "4083",
+        "bat avg": "22.55",
+        "100s/50s": "4/22",
+        "deliveries": "179",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "25/0"
+    },
+    "clubs": {
+        "Northamptonshire": "1921&ndash;1932",
+        "Cambridge University": "1922&ndash;1925"
+    },
+    "birth_date": "1902-9-28"
+}

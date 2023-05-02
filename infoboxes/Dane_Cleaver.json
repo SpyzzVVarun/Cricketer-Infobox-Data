@@ -1,0 +1,60 @@
+{
+    "name": "Dane Cleaver",
+    "country": "New Zealand",
+    "fullname": "Dane Cleaver",
+    "birth_place": "Palmerston North, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Wicket-keeper-batter",
+    "family": "Kane Williamson (cousin)",
+    "internationalspan": "2022",
+    "oneodi": "true",
+    "odidebutdate": "31 July",
+    "odidebutyear": "2022",
+    "odidebutagainst": "Scotland",
+    "odicap": "206",
+    "odishirt": "15",
+    "T20Idebutdate": "18 July",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "93",
+    "lastT20Idate": "5 August",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Netherlands",
+    "T20Ishirt": "15",
+    "source": "http://www.espncricinfo.com/ci/content/player/440517.html Cricinfo",
+    "ODI": {
+        "matches": "1",
+        "runs": "32",
+        "bat avg": "32.00",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "2/0"
+    },
+    "T20I": {
+        "matches": "7",
+        "runs": "118",
+        "bat avg": "29.50",
+        "100s/50s": "0/1",
+        "catches/stumpings": "8/2"
+    },
+    "FC": {
+        "matches": "66",
+        "runs": "3,991",
+        "bat avg": "41.14",
+        "100s/50s": "7/26",
+        "top score": "201",
+        "catches/stumpings": "182/11"
+    },
+    "LA": {
+        "matches": "60",
+        "runs": "1,467",
+        "bat avg": "31.21",
+        "100s/50s": "2/8",
+        "catches/stumpings": "66/9"
+    },
+    "clubs": {
+        "Central Districts( 2 )": "2011\u2013present"
+    },
+    "birth_date": "1992-1-1"
+}

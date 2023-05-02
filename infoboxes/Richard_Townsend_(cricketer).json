@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Richard Bowdler Townsend",
+    "birth_place": "Chelsea, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Norwood, Surrey, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22092.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1850"
+    }
+}

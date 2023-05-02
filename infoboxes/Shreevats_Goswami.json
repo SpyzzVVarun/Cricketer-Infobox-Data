@@ -1,0 +1,40 @@
+{
+    "name": "Shreevats Goswami",
+    "country": "India",
+    "fullname": "Shreevats Pratyush Goswami",
+    "birth_place": "Liluah, Howrah, West Bengal, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper-batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/302579.html ESPNCricinfo ",
+    "FC": {
+        "matches": "47",
+        "runs": "2,162",
+        "bat avg": "30.88",
+        "100s/50s": "4/8",
+        "catches/stumpings": "110/1"
+    },
+    "LA": {
+        "matches": "85",
+        "runs": "3,076",
+        "bat avg": "39.43",
+        "100s/50s": "6/16",
+        "catches/stumpings": "68/8"
+    },
+    "T20": {
+        "matches": "96",
+        "runs": "2,131",
+        "bat avg": "27.32",
+        "100s/50s": "0/12",
+        "catches/stumpings": "42/9"
+    },
+    "clubs": {
+        "Bengal": "2009\u20132022",
+        "Royal Challengers Bangalore": "2008\u20132010",
+        "Kolkata Knight Riders": "2011",
+        "Rajasthan Royals( 63 )": "2012\u20132014",
+        "Sunrisers Hyderabad( 3 )": "2018\u20132021",
+        "Mizoram": "2022-present"
+    },
+    "birth_date": "1989-05-18"
+}

@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Albert Beresford Horsley",
+    "birth_place": "Hartlepool, County Durham, England",
+    "death_date": "1923",
+    "death_place": "West Hartlepool, County Durham, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "Rupert Horsley (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/14959.html Cricinfo |image=",
+    "First-class": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "30",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "London County": "1904",
+        "Durham": "1897&ndash;1914"
+    },
+    "birth_date": "1880-1-2"
+}

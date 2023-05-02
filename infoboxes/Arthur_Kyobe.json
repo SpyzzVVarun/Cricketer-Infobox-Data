@@ -1,0 +1,51 @@
+{
+    "name": "Arthur Kyobe",
+    "country": "Uganda",
+    "fullname": "Arthur Solomon Kyobe",
+    "birth_place": "Lira, Uganda",
+    "batting": "Left-handed",
+    "source": "https://cricketarchive.com/Archive/Players/62/62448/62448.html CricketArchive ",
+    "FC": {
+        "matches": "2",
+        "runs": "86",
+        "bat avg": "21.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "49",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "358",
+        "bat avg": "21.05",
+        "100s/50s": "&ndash;/2",
+        "top score": "57",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "113",
+        "bat avg": "22.60",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1988-11-29"
+}

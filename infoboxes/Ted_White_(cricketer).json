@@ -1,0 +1,30 @@
+{
+    "name": "Ted White",
+    "country": "Australia",
+    "fullname": "Edward Clive Stewart White",
+    "birth_place": "Mosman, New South Wales, Australia",
+    "death_date": "1999",
+    "death_place": "Hornsby, New South Wales, Australia",
+    "heightm": "1.88",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/6/6177/6177.html CricketArchive ",
+    "First-class": {
+        "matches": "56",
+        "runs": "1,316",
+        "bat avg": "22.30",
+        "100s/50s": "1/5",
+        "deliveries": "10,788",
+        "wickets": "115",
+        "bowl avg": "26.71",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "8/31",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1934&ndash;1938"
+    },
+    "birth_date": "1913-4-17"
+}

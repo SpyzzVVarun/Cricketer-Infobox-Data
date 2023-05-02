@@ -1,0 +1,25 @@
+{
+    "name": "Faruk Ochimi",
+    "birth_place": "Kampala, Uganda",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/473391.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "deliveries": "168",
+        "wickets": "4",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/58",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Uganda": "2013/14"
+    },
+    "birth_date": "1995-12-19"
+}

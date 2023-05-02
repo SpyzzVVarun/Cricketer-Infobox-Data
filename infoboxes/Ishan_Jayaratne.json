@@ -1,0 +1,31 @@
+{
+    "name": "Ishan Jayaratne",
+    "country": "Sri Lanka",
+    "fullname": "Hadigallage Ishan Anjana Jayaratne",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "oneodi": "true",
+    "lastodidate": "23 July",
+    "lastodiyear": "2021",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/301871.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Colts Cricket Club": "2009\u20132016",
+        "Basnahira": "2013",
+        "Ruhuna": "2013",
+        "Southern Express": "2014",
+        "Kurunegala Warriors": "2016",
+        "Kandy Warriors": "2021"
+    },
+    "birth_date": "1989-6-26",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{SRI}}",
+        "Competition: South Asian Games",
+        "Silver Medal: 2010 Dhaka Team"
+    ]
+}

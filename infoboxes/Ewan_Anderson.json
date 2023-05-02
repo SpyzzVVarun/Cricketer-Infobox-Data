@@ -1,0 +1,27 @@
+{
+    "name": "Ewan Anderson",
+    "country": "England",
+    "fullname": "Ewan William Anderson",
+    "birth_place": "Bromley, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "onetype1": "true",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27474/27474.html CricketArchive ",
+    "First-class": {
+        "matches": "12",
+        "runs": "38",
+        "bat avg": "3.80",
+        "100s/50s": "0/0",
+        "deliveries": "1,375",
+        "wickets": "18",
+        "bowl avg": "40.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/69",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University Cricket Club": "1961"
+    },
+    "birth_date": "1938-3-28"
+}

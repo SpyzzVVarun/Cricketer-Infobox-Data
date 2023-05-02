@@ -1,0 +1,21 @@
+{
+    "name": "Shirley Banfield",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "testdebutdate": "5 February",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "onetest": "true",
+    "source": "http://www.espncricinfo.com/australia/content/player/53478.html CricInfo  ",
+    "Tests": {
+        "matches": "1",
+        "runs": "41",
+        "bat avg": "20.50",
+        "100s/50s": "0/0",
+        "top score": "76",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "16 October 1937"
+}

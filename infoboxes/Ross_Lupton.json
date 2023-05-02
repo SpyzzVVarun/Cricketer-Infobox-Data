@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Ross David Lupton",
+    "birth_place": "Warwick, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16399.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "48",
+        "wickets": "2",
+        "bowl avg": "16.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/33",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Herefordshire": "2000"
+    },
+    "birth_date": "1975-1-6"
+}

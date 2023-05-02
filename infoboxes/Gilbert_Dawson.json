@@ -1,0 +1,27 @@
+{
+    "name": "Gilbert Dawson",
+    "country": "England",
+    "fullname": "Gilbert Wilkinson Dawson",
+    "birth_place": "Bradford, Yorkshire, England",
+    "death_date": "1969",
+    "death_place": "Paisley, Glasgow, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/11844.html Cricinfo ",
+    "FC": {
+        "matches": "60",
+        "runs": "2,643",
+        "bat avg": "26.43",
+        "100s/50s": "4/10",
+        "deliveries": "18",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "36/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1947\u20131949"
+    },
+    "birth_date": "1914-12-9"
+}

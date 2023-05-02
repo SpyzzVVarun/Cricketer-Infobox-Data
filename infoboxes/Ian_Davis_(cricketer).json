@@ -1,0 +1,56 @@
+{
+    "name": "Ian Davis",
+    "country": "Australia",
+    "fullname": "Ian Charles Davis",
+    "birth_place": "North Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "testdebutdate": "29 December",
+    "testdebutyear": "1973",
+    "testdebutagainst": "New Zealand",
+    "lasttestdate": "15 August",
+    "lasttestyear": "1977",
+    "lasttestagainst": "England",
+    "odidebutdate": "30 March",
+    "odidebutyear": "1974",
+    "odidebutagainst": "New Zealand",
+    "lastodidate": "4 June",
+    "lastodiyear": "1977",
+    "lastodiagainst": "England",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/4916.html Cricinfo ",
+    "Test": {
+        "matches": "15",
+        "runs": "692",
+        "bat avg": "26.61",
+        "100s/50s": "1/4",
+        "top score": "105",
+        "catches/stumpings": "9/\u2013"
+    },
+    "ODI": {
+        "matches": "3",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "88",
+        "runs": "4,609",
+        "bat avg": "33.39",
+        "100s/50s": "7/28",
+        "top score": "156",
+        "catches/stumpings": "48/\u2013"
+    },
+    "LA": {
+        "matches": "22",
+        "runs": "462",
+        "bat avg": "23.10",
+        "100s/50s": "0/4",
+        "top score": "84",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1976/77\u20131982/83",
+        "Queensland": "1975/76"
+    },
+    "birth_date": "1953-6-25"
+}

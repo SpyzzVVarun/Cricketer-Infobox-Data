@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Frederick Crowder",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11459.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1874"
+    }
+}

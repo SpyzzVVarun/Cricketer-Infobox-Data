@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Bertram Lennox Peel",
+    "birth_place": "Wavertree, Liverpool, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "family": "Denis Peel (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/25323.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "288",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/2",
+        "top score": "74",
+        "deliveries": "394",
+        "wickets": "10",
+        "bowl avg": "24.90",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/123",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1900&ndash;1914",
+        "Oxford University": "1903",
+        "Scotland": "1905&ndash;1912"
+    }
+}

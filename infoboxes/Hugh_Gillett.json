@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Hugh Hodgson Gillett",
+    "birth_place": "Waltham on the Wolds, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Thornbury, Gloucestershire, England",
+    "family": "Charles Gillett (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/13628.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "117",
+        "bat avg": "16.71",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "deliveries": "513",
+        "wickets": "17",
+        "bowl avg": "12.05",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/22",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1857&ndash;1858",
+        "Marylebone Cricket Club": "1868"
+    }
+}

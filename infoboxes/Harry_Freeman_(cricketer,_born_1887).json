@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harry Guy Vernon Meyrick Freeman",
+    "birth_place": "Holsworthy, Devon, England",
+    "death_date": "1926",
+    "death_place": "near Burrington, Devon, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/28689.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "186",
+        "wickets": "3",
+        "bowl avg": "21.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/35",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1910/11",
+        "Devon": "1911"
+    }
+}

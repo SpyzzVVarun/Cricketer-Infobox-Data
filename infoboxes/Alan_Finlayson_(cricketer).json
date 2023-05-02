@@ -1,0 +1,28 @@
+{
+    "name": "Alan Finlayson",
+    "fullname": "Alan Gordon Finlayson",
+    "birth_place": "Port Elizabeth, Cape Colony, (now South Africa)",
+    "death_date": "2001",
+    "death_place": "Port Elizabeth, South Africa",
+    "batting": "Right-handed",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/45165.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "40",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "19.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1921/22"
+    },
+    "birth_date": "1900-9-1"
+}

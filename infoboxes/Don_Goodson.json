@@ -1,0 +1,38 @@
+{
+    "name": "Don Goodson",
+    "country": "England",
+    "fullname": "Donald Goodson",
+    "birth_place": "Eastwell, Leicestershire, England",
+    "death_date": "2010",
+    "death_place": "Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "9 August",
+    "debutyear1": "1950",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Essex",
+    "lastdate1": "21 July",
+    "lastyear1": "1953",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Archive/Players/29/29696/29696.html CricketArchive ",
+    "First-class": {
+        "matches": "9",
+        "runs": "36",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "720",
+        "wickets": "7",
+        "bowl avg": "56.28",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/43",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1950\u201353"
+    },
+    "birth_date": "1932-10-15"
+}

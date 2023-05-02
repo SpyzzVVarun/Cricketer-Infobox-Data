@@ -1,0 +1,29 @@
+{
+    "name": "Henry Bethune",
+    "country": "England",
+    "fullname": "Henry Beauclerk Bethune",
+    "birth_place": "Horsham, Sussex, England",
+    "death_date": "1912",
+    "death_place": "Horsham, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow Slow bowler",
+    "source": "http://www.cricinfo.com/ci/content/player/9082.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "8.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "27.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1885, 1890\u20131893 and 1897"
+    },
+    "birth_date": "1844-11-16"
+}

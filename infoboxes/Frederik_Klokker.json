@@ -1,0 +1,57 @@
+{
+    "name": "Frederik Klokker",
+    "country": "Denmark",
+    "internationalspan": "2000\u2013present",
+    "fullname": "Frederik Andreas Klokker",
+    "nickname": "Freddie url=http://www.lords.org/mcc/young-cricketers/2005-player-profiles/frederik-klokker,549,AR.html",
+    "birth_place": "Odense, Funen County, Denmark",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Left-handed",
+    "role": "Wicket-Keeper",
+    "T20Idebutdate": "14 August",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Sweden",
+    "T20Icap": "21",
+    "lastT20Idate": "4 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Portugal",
+    "T20Ishirt": "30",
+    "source": "http://www.espncricinfo.com/ci/content/player/23928.html Cricinfo ",
+    "T20I": {
+        "matches": "13",
+        "runs": "59",
+        "bat avg": "29.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/2"
+    },
+    "FC": {
+        "matches": "9",
+        "runs": "424",
+        "bat avg": "32.16",
+        "100s/50s": "2/\u2013",
+        "catches/stumpings": "19/\u2013"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "898",
+        "bat avg": "34.53",
+        "100s/50s": "1/7",
+        "catches/stumpings": "29/6"
+    },
+    "T20": {
+        "matches": "28",
+        "runs": "374",
+        "bat avg": "22.00",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "8/9"
+    },
+    "clubs": {
+        "Warwickshire": "2006",
+        "Derbyshire( 71 )": "2007\u20132009",
+        "Suffolk": "2009\u20132010",
+        "Sylhet Royals": "2012"
+    },
+    "birth_date": "1983-3-13"
+}

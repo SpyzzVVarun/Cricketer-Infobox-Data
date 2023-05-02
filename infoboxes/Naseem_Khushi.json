@@ -1,0 +1,42 @@
+{
+    "name": "Naseem Khushi",
+    "country": "Oman",
+    "fullname": "Muhammad Naseem Khushi",
+    "birth_place": "Sialkot, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2017\u20132022",
+    "odidebutdate": "5 January",
+    "odidebutyear": "2020",
+    "odidebutagainst": "UAE",
+    "odicap": "16",
+    "lastodidate": "14 June",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Nepal",
+    "T20Idebutdate": "15 January",
+    "T20Idebutyear": "2017",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "20",
+    "lastT20Idate": "21 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Canada",
+    "source": "http://www.espncricinfo.com/ci/content/player/1077310.html Cricinfo ",
+    "ODI": {
+        "matches": "25",
+        "runs": "303",
+        "bat avg": "16.83",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "18/2"
+    },
+    "T20I": {
+        "matches": "24",
+        "runs": "189",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "7/2"
+    },
+    "clubs": {},
+    "birth_date": "1982-8-11"
+}

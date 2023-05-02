@@ -1,0 +1,31 @@
+{
+    "name": "Tom Reddick",
+    "fullname": "Tom Bokenham Reddick",
+    "birth_place": "Shanghai, China",
+    "death_date": "1982",
+    "death_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://cricketarchive.com/Archive/Players/14/14405/14405.html CricketArchive ",
+    "First-class": {
+        "matches": "62",
+        "runs": "2688",
+        "bat avg": "30.54",
+        "100s/50s": "2/16",
+        "top score": "139",
+        "deliveries": "782",
+        "wickets": "6",
+        "bowl avg": "78.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Middlesex": "1931",
+        "Sir Julien Cahn\u2019s XI": "1932 to 1938",
+        "Nottinghamshire": "1946 to 1947",
+        "Western Province": "1950\u201351"
+    },
+    "birth_date": "1912-2-17"
+}

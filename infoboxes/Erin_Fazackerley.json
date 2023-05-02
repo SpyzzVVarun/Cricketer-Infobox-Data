@@ -1,0 +1,16 @@
+{
+    "name": "Erin Fazackerley",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Erin Grace Fazackerley",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/australia/content/player/1123417.html Cricinfo ",
+    "clubs": {
+        "Hobart Hurricanes": "2016/17\u20132019/20",
+        "Tasmania": "2017/18\u20132019/20",
+        "Melbourne Renegades": "2020/21"
+    },
+    "birth_date": "1998-7-3"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Richard Mcllwaine",
+    "country": "England",
+    "fullname": "Richard Johnston Mcllwaine",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/16976.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "558",
+        "wickets": "4",
+        "bowl avg": "68.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1969&ndash;1970"
+    },
+    "birth_date": "1950-3-16"
+}

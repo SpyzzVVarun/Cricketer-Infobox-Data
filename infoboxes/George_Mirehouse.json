@@ -1,0 +1,40 @@
+{
+    "name": "George Mirehouse",
+    "country": "England",
+    "fullname": "George Tiernay Mirehouse",
+    "birth_place": "Easton-in-Gordano, Somerset, England",
+    "death_date": "1923",
+    "death_place": "Turramurra, Sydney, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "First-class",
+    "debutdate1": "2 June",
+    "debutyear1": "1884",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Gentlemen of England",
+    "lastdate1": "4 June",
+    "lastyear1": "1896",
+    "lastfor1": "Marylebone Cricket Club",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.espncricinfo.com/england/content/player/17038.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "74",
+        "bat avg": "4.11",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "1,445",
+        "wickets": "22",
+        "bowl avg": "27.54",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/51",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1884\u20131886",
+        "Somerset": "1884\u20131885",
+        "Marylebone Cricket Club": "1887\u20131896"
+    },
+    "birth_date": "1863-05-11"
+}

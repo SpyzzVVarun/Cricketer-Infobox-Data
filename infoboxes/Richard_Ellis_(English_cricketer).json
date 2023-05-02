@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "Richard Gary Peter Ellis",
+    "birth_place": "Paddington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Peter Ellis (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/12571.html Cricinfo ",
+    "First-class": {
+        "matches": "40",
+        "runs": "2,020",
+        "bat avg": "28.85",
+        "100s/50s": "2/11",
+        "deliveries": "516",
+        "wickets": "5",
+        "bowl avg": "54.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/40",
+        "catches/stumpings": "21/\u2013"
+    },
+    "List A": {
+        "matches": "26",
+        "runs": "310",
+        "bat avg": "12.91",
+        "100s/50s": "\u2013/1",
+        "top score": "52",
+        "deliveries": "5",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1993\u20131994",
+        "Gloucestershire": "1985",
+        "Middlesex": "1982\u20131984",
+        "Oxford University": "1981\u20131983"
+    },
+    "birth_date": "1960-12-20"
+}

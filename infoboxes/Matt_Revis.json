@@ -1,0 +1,62 @@
+{
+    "name": "Matt Revis",
+    "fullname": "Matthew Liam Revis",
+    "birth_place": "Steeton, West Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "16 September",
+    "debutyear1": "2019",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Kent",
+    "type2": "List A",
+    "debutdate2": "22 July",
+    "debutyear2": "2021",
+    "debutfor2": "Yorkshire",
+    "debutagainst2": "Surrey",
+    "source": "http://www.espncricinfo.com/ci/content/player/1150021.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "310",
+        "bat avg": "25.83",
+        "100s/50s": "0/2",
+        "deliveries": "1,033",
+        "wickets": "15",
+        "bowl avg": "45.26",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/43",
+        "catches/stumpings": "9/\u2013"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "279",
+        "bat avg": "21.46",
+        "100s/50s": "0/1",
+        "deliveries": "588",
+        "wickets": "17",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/77",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "18",
+        "runs": "36",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "deliveries": "246",
+        "wickets": "14",
+        "bowl avg": "29.07",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2019\u2013present"
+    },
+    "birth_date": "2001-11-15"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "George Liddell",
+    "country": "England",
+    "fullname": "George Augustus Frederick Liddell",
+    "birth_place": "London, England",
+    "death_date": "1888",
+    "death_place": "Eton, Berkshire, England",
+    "source": "http://www.cricinfo.com/ci/content/player/16798.html Cricinfo ",
+    "FC": {
+        "matches": "25",
+        "runs": "386",
+        "bat avg": "9.41",
+        "100s/50s": "&ndash;/1",
+        "top score": "52",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1844",
+        "Marylebone Cricket Club": "1840&ndash;1841 & 1846&ndash;1851"
+    },
+    "birth_date": "1812-7-28"
+}

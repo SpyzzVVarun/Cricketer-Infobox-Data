@@ -1,0 +1,22 @@
+{
+    "name": "Jack Bowden",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26706/26706.html CricketArchive",
+    "First-class": {
+        "matches": "6",
+        "runs": "52",
+        "bat avg": "5.77",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "1,006",
+        "wickets": "19",
+        "bowl avg": "19.42",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/23",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {}
+}

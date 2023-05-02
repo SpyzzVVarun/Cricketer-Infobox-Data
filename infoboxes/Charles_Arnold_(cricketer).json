@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Charles Arnold",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1873",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "family": "Mark Arnold (brother)",
+    "heightft": "5",
+    "heightinch": "7",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm roundarm Unknown-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/8786.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "203",
+        "bat avg": "6.76",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "deliveries": "1,106",
+        "wickets": "133",
+        "bowl avg": "9.55",
+        "fivefor": "13",
+        "tenfor": "5",
+        "best bowling": "8/?",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "1847",
+        "Cambridgeshire": "1857"
+    }
+}

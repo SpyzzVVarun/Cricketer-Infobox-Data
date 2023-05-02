@@ -1,0 +1,42 @@
+{
+    "name": "Ahmed Khan , \u0627\u062d\u0645\u062f \u062e\u0627\u0646",
+    "fullname": "Ahmed Khan",
+    "birth_place": "Swabi, Khyber Pakhtunkhwa, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "All rounder",
+    "source": "https://www.espncricinfo.com/player/ahmed-khan-1171138 Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "44",
+        "bat avg": "44.00",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/20",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "26",
+        "bat avg": "26.00",
+        "100s/50s": "0/0",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/9",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Khyber Pakhtunkhwa": "2021/22-present",
+        "Sebastianites Cricket and Athletic Club": "2022",
+        "Jammu Janbaz": "2022"
+    },
+    "birth_date": "2004-5-1"
+}

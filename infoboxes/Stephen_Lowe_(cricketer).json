@@ -1,0 +1,31 @@
+{
+    "name": "Stephen Lowe",
+    "fullname": "Stephen James Lowe",
+    "birth_place": "Stevenage, Hertfordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "role": "Wicket-keeper",
+    "family": "David Lowe (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16401.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "59",
+        "bat avg": "19.66",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "5/2"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {
+        "Hertfordshire": "1999\u20132006",
+        "Oxford UCCE": "2003"
+    },
+    "birth_date": "1981-5-7"
+}

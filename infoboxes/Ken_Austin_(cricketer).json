@@ -1,0 +1,28 @@
+{
+    "name": "Ken Austin",
+    "fullname": "Quentin Ahern Austin",
+    "birth_place": "Queenstown, Cape Colony",
+    "death_date": "2004",
+    "death_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://www.espncricinfo.com/player/ken-austin-55238 Cricinfo",
+    "First-class": {
+        "matches": "5",
+        "runs": "65",
+        "bat avg": "8.12",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "314",
+        "wickets": "4",
+        "bowl avg": "49.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/51",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Rhodesia": "1927-28 to 1946-47"
+    },
+    "birth_date": "1908-12-18"
+}

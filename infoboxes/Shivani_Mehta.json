@@ -1,0 +1,23 @@
+{
+    "name": "Shivani Mehta",
+    "female": "true",
+    "fullname": "Shivani Mehta",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1962/1962161/1962161.html CricketArchive",
+    "WLA": {
+        "matches": "2",
+        "runs": "44",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "catches/stumpings": "/"
+    },
+    "clubs": {
+        "New South Wales": "2022/23\u2013present"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Clifford John Smith",
+    "birth_place": "Shadwell, London, England",
+    "death_date": "1959",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/20839.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "132",
+        "wickets": "2",
+        "bowl avg": "19.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/18",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1937",
+        "Cambridgeshire": "1923&ndash;1950"
+    },
+    "birth_date": "1902-10-6"
+}

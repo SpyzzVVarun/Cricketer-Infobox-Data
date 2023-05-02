@@ -1,0 +1,33 @@
+{
+    "name": "Seren Smale",
+    "female": "true",
+    "fullname": "Seren Anna Smale",
+    "birth_place": "Wrexham, Wales",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2289/2289730/2289730.html CricketArchive",
+    "WLA": {
+        "matches": "5",
+        "runs": "82",
+        "bat avg": "16.40",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "14",
+        "runs": "125",
+        "bat avg": "17.85",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Cheshire": "2019",
+        "Lancashire": "2021\u2013present",
+        "North Representative XI": "2021",
+        "Cumbria": "2021",
+        "North West Thunder": "2021\u2013present"
+    },
+    "birth_date": "2004-12-13"
+}

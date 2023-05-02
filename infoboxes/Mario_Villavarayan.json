@@ -1,0 +1,35 @@
+{
+    "name": "Mario Villavarayan",
+    "fullname": "Mario Suresh Villavarayan",
+    "birth_place": "Colombo, Western Province, Sri Lanka",
+    "source": "http://content-www.cricinfo.com/ci/content/player/50462.html Cricinfo",
+    "FC": {
+        "matches": "116",
+        "runs": "1580",
+        "bat avg": "14.90",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "deliveries": "17603",
+        "wickets": "378",
+        "bowl avg": "22.38",
+        "fivefor": "17",
+        "tenfor": "1",
+        "best bowling": "9/15",
+        "catches/stumpings": "59/0"
+    },
+    "LA": {
+        "matches": "58",
+        "runs": "199",
+        "bat avg": "10.47",
+        "100s/50s": "0/0",
+        "deliveries": "2493",
+        "wickets": "71",
+        "bowl avg": "24.35",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/19",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {},
+    "birth_date": "1973-08-22"
+}

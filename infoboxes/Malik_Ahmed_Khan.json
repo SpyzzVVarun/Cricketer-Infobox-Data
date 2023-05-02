@@ -1,0 +1,29 @@
+{
+    "name": "Ahmed Khan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "umpire": "true",
+    "fcumpired": "10",
+    "umpfcdebutyr": "1953",
+    "umpfclastyr": "1973",
+    "source": "https://cricketarchive.com/Archive/Players/41/41588/41588.html CricketArchive ",
+    "FC": {
+        "matches": "8",
+        "runs": "133",
+        "bat avg": "11.08",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "1,006",
+        "wickets": "16",
+        "bowl avg": "26.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Patiala": "1932",
+        "Northern India": "1934\u20131944",
+        "Muslims": "1941"
+    }
+}

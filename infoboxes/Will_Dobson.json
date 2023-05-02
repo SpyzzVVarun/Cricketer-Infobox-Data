@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "William Thomas Dobson",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/245651.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "deliveries": "210",
+        "wickets": "1",
+        "bowl avg": "144.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/67",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Durham UCCE": "2006\u20132007"
+    },
+    "birth_date": "1986-3-11"
+}

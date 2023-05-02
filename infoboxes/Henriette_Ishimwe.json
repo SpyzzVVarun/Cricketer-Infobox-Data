@@ -1,0 +1,35 @@
+{
+    "name": "Henriette Ishimwe",
+    "female": "true",
+    "country": "Rwanda",
+    "fullname": "Henriette Therese Ishimwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "T20Idebutdate": "26 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nigeria",
+    "T20Icap": "6",
+    "lastT20Idate": "18 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "https://www.espncricinfo.com/player/henriette-ishimwe-1172634 Cricinfo ",
+    "WT20I": {
+        "matches": "44",
+        "runs": "389",
+        "bat avg": "11.78",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "696",
+        "wickets": "33",
+        "bowl avg": "16.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/2",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Indatwa Hampshire": ""
+    },
+    "birth_date": "2003-10-14"
+}

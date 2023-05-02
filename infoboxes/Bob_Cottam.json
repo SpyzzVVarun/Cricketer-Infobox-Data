@@ -1,0 +1,62 @@
+{
+    "name": "Bob Cottam",
+    "country": "England",
+    "fullname": "Robert Michael Henry Cottam",
+    "birth_place": "Cleethorpes, Lincolnshire, England",
+    "testdebutdate": "21 February",
+    "testdebutyear": "1969",
+    "testdebutagainst": "Pakistan",
+    "testcap": "441",
+    "lasttestdate": "30 December",
+    "lasttestyear": "1972",
+    "lasttestagainst": "India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10824.html ESPNcricinfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "903",
+        "wickets": "14",
+        "bowl avg": "23.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "289",
+        "runs": "1,278",
+        "bat avg": "6.98",
+        "100s/50s": "0/1",
+        "deliveries": "53,053",
+        "wickets": "1,010",
+        "bowl avg": "20.91",
+        "fivefor": "58",
+        "tenfor": "6",
+        "best bowling": "9/25",
+        "catches/stumpings": "153/\u2013"
+    },
+    "LA": {
+        "matches": "133",
+        "runs": "262",
+        "bat avg": "5.57",
+        "100s/50s": "0/0",
+        "deliveries": "6,605",
+        "wickets": "180",
+        "bowl avg": "22.55",
+        "fivefor": "8",
+        "tenfor": "0",
+        "best bowling": "4/9",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1963\u20131971",
+        "Northamptonshire": "1972\u20131976",
+        "Devon": "1978"
+    },
+    "birth_date": "1944-10-16"
+}

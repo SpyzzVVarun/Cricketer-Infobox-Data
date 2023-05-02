@@ -1,0 +1,29 @@
+{
+    "name": "Thomas Hollingworth",
+    "country": "England",
+    "fullname": "Thomas Vernon Hollingworth",
+    "birth_place": "United States of America",
+    "death_date": "1973",
+    "death_place": "Topsham, Devon, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/14241.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "58",
+        "bat avg": "9.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "252",
+        "wickets": "4",
+        "bowl avg": "30.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/92",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Europeans (India)": "1933&ndash;1934",
+        "Hampshire": "1929"
+    },
+    "birth_date": "1907-7-27"
+}

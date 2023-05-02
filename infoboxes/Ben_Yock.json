@@ -1,0 +1,39 @@
+{
+    "name": "Ben Yock",
+    "fullname": "Benjamin Arthur Yock",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/38934.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/0"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "n/a",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Canterbury": "1996/97 - 1997/98"
+    },
+    "birth_date": "1975-2-8"
+}

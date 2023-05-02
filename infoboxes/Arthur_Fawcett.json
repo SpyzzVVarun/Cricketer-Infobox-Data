@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Arthur Henry Fawcett",
+    "birth_place": "Sculcoates, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Stannington, Northumberland, England",
+    "batting": "Unknown",
+    "bowling": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/12691.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "29",
+        "bat avg": "5.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "6/1"
+    },
+    "clubs": {
+        "Europeans": "1917/18&ndash;1918/19"
+    }
+}

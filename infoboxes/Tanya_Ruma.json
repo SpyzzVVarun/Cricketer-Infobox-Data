@@ -1,0 +1,27 @@
+{
+    "name": "Tanya Ruma",
+    "female": "true",
+    "country": "Papua New Guinea",
+    "fullname": "Tanya Ruma",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "7 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Bangladesh",
+    "T20Icap": "7",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Samoa",
+    "source": "http://www.espncricinfo.com/ci/content/player/944345.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1993-5-25",
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Women's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

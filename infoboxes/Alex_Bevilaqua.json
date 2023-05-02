@@ -1,0 +1,28 @@
+{
+    "name": "Alex Bevilaqua",
+    "fullname": "Alex Attey Bevilaqua",
+    "birth_place": "Subiaco, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "heightm": "2.07",
+    "source": "http://www.espncricinfo.com/ci/content/player/959617.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "57",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "192",
+        "wickets": "2",
+        "bowl avg": "46.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/21",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2017/18\u20132018/19"
+    },
+    "birth_date": "1996-10-29"
+}

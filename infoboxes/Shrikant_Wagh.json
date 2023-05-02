@@ -1,0 +1,28 @@
+{
+    "name": "Shrikant Wagh",
+    "country": "India",
+    "fullname": "Shrikant Bhaskar Wagh",
+    "birth_place": "Chikhli, near Buldhana, Maharashtra, India",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/279552.html Cricinfo ",
+    "T20": {
+        "matches": "9",
+        "runs": "85",
+        "bat avg": "28.33",
+        "100s/50s": "0/0",
+        "deliveries": "240",
+        "wickets": "15",
+        "bowl avg": "21.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Rajasthan Royals": "2009\u20132010",
+        "Pune Warriors India": "2011"
+    },
+    "birth_date": "1988-10-09"
+}

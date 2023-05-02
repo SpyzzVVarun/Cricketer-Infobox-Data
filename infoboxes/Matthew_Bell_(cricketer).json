@@ -1,0 +1,70 @@
+{
+    "name": "Matthew Bell",
+    "country": "New Zealand",
+    "fullname": "Matthew David Bell",
+    "birth_place": "Dunedin, Otago, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Top order batsman",
+    "internationalspan": "1998\u20132008",
+    "testdebutdate": "26 December",
+    "testdebutyear": "1998",
+    "testdebutagainst": "India",
+    "testcap": "206",
+    "lasttestdate": "22 March",
+    "lasttestyear": "2008",
+    "lasttestagainst": "England",
+    "odidebutdate": "24 October",
+    "odidebutyear": "1998",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "107",
+    "lastodidate": "17 April",
+    "lastodiyear": "2001",
+    "lastodiagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36294.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "Test": {
+        "matches": "18",
+        "runs": "729",
+        "bat avg": "24.30",
+        "100s/50s": "2/3",
+        "top score": "107",
+        "catches/stumpings": "19/\u2013"
+    },
+    "ODI": {
+        "matches": "7",
+        "runs": "133",
+        "bat avg": "19.00",
+        "100s/50s": "0/1",
+        "top score": "66",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "171",
+        "runs": "9,881",
+        "bat avg": "35.93",
+        "100s/50s": "24/53",
+        "top score": "265",
+        "catches/stumpings": "140/\u2013"
+    },
+    "LA": {
+        "matches": "161",
+        "runs": "3,831",
+        "bat avg": "27.36",
+        "100s/50s": "4/22",
+        "top score": "124",
+        "catches/stumpings": "74/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "1993/94&ndash;1996/97",
+        "Wellington": "1997/98&ndash;2010/11"
+    },
+    "birth_date": "1977-2-25",
+    "medaltemplates": [
+        "Country: {{NZL}}",
+        "Sport: Men's Cricket",
+        "Competition: Commonwealth Games"
+    ]
+}

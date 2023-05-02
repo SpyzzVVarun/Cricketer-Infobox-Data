@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Rawdon Briggs",
+    "birth_place": "Warkworth, Northumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Bedford, Bedfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/9987.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "342",
+        "bat avg": "21.37",
+        "100s/50s": "\u2013/1",
+        "top score": "71",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1875&ndash;1876"
+    }
+}

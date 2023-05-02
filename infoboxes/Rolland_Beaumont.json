@@ -1,0 +1,30 @@
+{
+    "name": "Rolland Beaumont",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "27 May",
+    "testdebutyear": "1912",
+    "lasttestdate": "1 January",
+    "lasttestagainst": "England",
+    "lasttestyear": "1914",
+    "source": "http://www.espncricinfo.com/ci/content/player/44059.html Cricinfo",
+    "Test": {
+        "matches": "5",
+        "runs": "70",
+        "bat avg": "7.77",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "32",
+        "runs": "1,086",
+        "bat avg": "25.25",
+        "100s/50s": "1/5",
+        "top score": "121",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {}
+}

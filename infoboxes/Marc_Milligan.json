@@ -1,0 +1,29 @@
+{
+    "country": "South Africa",
+    "fullname": "Marc John Milligan",
+    "birth_place": "Pretoria, Transvaal, South Africa",
+    "heightft": "6",
+    "heightinch": "3",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/399331.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "35",
+        "bat avg": "5.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "919",
+        "wickets": "14",
+        "bowl avg": "42.35",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/31",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford UCCE/MCCU": "2009&ndash;2011",
+        "Hertfordshire": "2013"
+    },
+    "birth_date": "1987-8-1"
+}

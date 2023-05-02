@@ -1,0 +1,35 @@
+{
+    "name": "Alick Mackenzie",
+    "full_name": "Alexander Cecil Knox Mackenzie",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "1947",
+    "death_place": "Epping, New South Wales, Australia",
+    "nickname": "Big Alick",
+    "heightft": "6",
+    "heightinch": "3.5",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Stuart Mackenzie (grandson)",
+    "type1": "FC",
+    "debutdate1": "21 December",
+    "debutyear1": "1888",
+    "debutfor1": "New South Wales",
+    "debutagainst1": "Australian XI",
+    "lastdate1": "16 March",
+    "lastyear1": "1907",
+    "lastfor1": "New South Wales",
+    "lastagainst1": "Western Australia",
+    "source": "https://www.espncricinfo.com/player/alick-mackenzie-6447 CricInfo",
+    "First-class": {
+        "matches": "48",
+        "runs": "2,150",
+        "bat avg": "25.90",
+        "100s/50s": "1/17",
+        "top score": "130",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1888/89\u20131906/07",
+        "Rest of Australia": "1898/99\u20131899/1900"
+    }
+}

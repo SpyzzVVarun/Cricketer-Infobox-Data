@@ -1,0 +1,30 @@
+{
+    "name": "Graeme Hughes",
+    "fullname": "Graeme Christopher Hughes",
+    "birth_place": "Stanmore, New South Wales, Australia",
+    "batting": "Left-handed",
+    "family": "Noel Hughes (father)",
+    "source": "http://cricketarchive.co.uk/Archive/Players/5/5918/5918.html CricketArchive",
+    "module": "Infobox rugby league biography",
+    "embed": "yes |name     =  |image          =  |caption        =  |position       = birth_date    =  |birth_place   =  |height         =  |weight         =  |retired = yes |club1          = Canterbury Bulldogs |year1start     = 1974 |year1end       = 82 |appearances1   = 116 |tries1         = 16 |goals1         = 38 |fieldgoals1    = 0 |points1        = 124 |teamA          = New South Wales |yearAstart     = 1975 |yearAend       =  |appearancesA   = 1 |triesA         = 0 |goalsA         = 0 |fieldgoalsA    = 0 |pointsA        = 0 |updated        = 24 April 2014 |source         =     |new            = yes ",
+    "First-class": {
+        "matches": "20",
+        "runs": "604",
+        "bat avg": "22.37",
+        "100s/50s": "0/3",
+        "top score": "65",
+        "catches/stumpings": "19/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1975/76\u20131978/79"
+    },
+    "birth_date": "1955-12-6"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Guy Blaikie",
+    "country": "South Africa",
+    "fullname": "Kenneth Guy Blaikie",
+    "nickname": "Bill",
+    "birth_place": "Johannesburg, Transvaal, South Africa",
+    "death_date": "1968",
+    "death_place": "Lennoxville, Quebec, Canada",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium-pace or orthodox Left-arm medium-pace or orthodox spin",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "7 May",
+    "debutyear1": "1921",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Middlesex",
+    "lastdate1": "9 July",
+    "lastyear1": "1924",
+    "lastfor1": "Oxford University",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3445/3445.html CricketArchive ",
+    "First-class": {
+        "matches": "27",
+        "runs": "1080",
+        "bat avg": "22.97",
+        "100s/50s": "2/3",
+        "top score": "120",
+        "deliveries": "2672",
+        "wickets": "46",
+        "bowl avg": "26.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/14",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1921\u201324",
+        "Somerset": "1921\u201323"
+    },
+    "birth_date": "1897-5-8"
+}

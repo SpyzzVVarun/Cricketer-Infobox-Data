@@ -1,0 +1,56 @@
+{
+    "name": "Cameron Merchant",
+    "fullname": "Cameron James Merchant",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/6901.html ESPNCricinfo ",
+    "FC": {
+        "matches": "26",
+        "runs": "1,445",
+        "bat avg": "30.10",
+        "100s/50s": "2/8",
+        "top score": "108",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "21/\u2013"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "270",
+        "bat avg": "22.50",
+        "100s/50s": "0/1",
+        "top score": "94",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/0"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "144",
+        "bat avg": "20.57",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Northern Districts": "2007/08\u20132008/09",
+        "Wellington": "2009/10\u20132010/11"
+    },
+    "birth_date": "1984-1-4"
+}

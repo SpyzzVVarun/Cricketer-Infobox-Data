@@ -1,0 +1,16 @@
+{
+    "name": "Ali Asad",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "source": "https://www.espncricinfo.com/player/ali-asad-227744 Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1988-12-25",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{PAK}}",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2010 Dhaka Team"
+    ]
+}

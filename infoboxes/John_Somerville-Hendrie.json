@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John William Somerville-Hendrie",
+    "birth_place": "Hillingdon, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/21427.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "31",
+        "bat avg": "10.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "526",
+        "wickets": "8",
+        "bowl avg": "44.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/51",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Durham UCCE": "2003&ndash;2004"
+    },
+    "birth_date": "1983-06-22"
+}

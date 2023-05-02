@@ -1,0 +1,31 @@
+{
+    "name": "Edward Lee",
+    "country": "England",
+    "fullname": "Edward Cornwall Lee",
+    "birth_place": "Torquay, Devon, England",
+    "death_date": "1942",
+    "death_place": "Petersfield, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Arthur Lee (Son)",
+    "source": "http://www.cricinfo.com/ci/content/player/16244.html Cricinfo ",
+    "First-class": {
+        "matches": "85",
+        "runs": "1,764",
+        "bat avg": "14.22",
+        "100s/50s": "&ndash;/4",
+        "deliveries": "2,649",
+        "wickets": "39",
+        "bowl avg": "32.15",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "6/42",
+        "catches/stumpings": "59/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1901&ndash;1909",
+        "Oxford University": "1897&ndash;1900",
+        "Hampshire": "1896&ndash;1909"
+    },
+    "birth_date": "1877-6-18"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Michael Baer",
+    "birth_place": "Rhuddlan, Flintshire, Wales",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/302267.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "516",
+        "wickets": "3",
+        "bowl avg": "110.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/19",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cumberland": "2008&ndash;2010",
+        "Loughborough UCCE": "2008&ndash;2009"
+    },
+    "birth_date": "1987-3-31"
+}

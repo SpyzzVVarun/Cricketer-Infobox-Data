@@ -1,0 +1,31 @@
+{
+    "name": "Gayan de Silva",
+    "fullname": "Yakupiti Gayan Asanka de Silva",
+    "birth_place": "Balapitiya, Sri Lanka",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/srilanka/content/player/386380.html ESPN Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "450",
+        "bat avg": "23.68",
+        "100s/50s": "0/3",
+        "top score": "97",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "31",
+        "bat avg": "3.44",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Colombo Cricket Club": "2009",
+        "Antonians Sports Club": "2010\u20132011",
+        "Nondescripts Cricket Club": "2012",
+        "Badureliya Sports Club": "2012\u20132013"
+    },
+    "birth_date": "1988-1-12"
+}

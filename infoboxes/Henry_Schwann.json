@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry Sigismund Schwann",
+    "birth_place": "North Houghton, Hampshire,, England",
+    "death_date": "df=yes",
+    "death_place": "Meads, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/20613.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "204",
+        "bat avg": "18.54",
+        "100s/50s": "\u2013/1",
+        "top score": "70",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1890"
+    }
+}

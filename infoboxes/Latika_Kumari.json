@@ -1,0 +1,33 @@
+{
+    "name": "Latika Kumari",
+    "female": "true",
+    "country": "India",
+    "fullname": "Latika Kumari",
+    "birth_place": "India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "11 June",
+    "T20Idebutyear": "2009",
+    "T20Idebutagainst": "England",
+    "T20Icap": "17",
+    "lastT20Idate": "15 July",
+    "lastT20Iyear": "2015",
+    "lastT20Iagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/india/content/player/372404.html Cricinfo ",
+    "WT20I": {
+        "matches": "6",
+        "runs": "61",
+        "bat avg": "10.16",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {},
+    "birth_date": "1982-1-5"
+}

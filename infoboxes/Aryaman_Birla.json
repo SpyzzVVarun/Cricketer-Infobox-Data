@@ -1,0 +1,28 @@
+{
+    "name": "Aryaman Birla",
+    "country": "India",
+    "fullname": "Aryaman Vikram Birla",
+    "birth_place": "Mumbai, Maharashtra, India",
+    "family": "Birla family",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/1126227.html Cricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "414",
+        "bat avg": "27.60",
+        "100s/50s": "1/1",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Rajasthan Royals": "2018\u20132019",
+        "Madhya Pradesh": "2017\u2013present"
+    },
+    "birth_date": "1997-7-9"
+}

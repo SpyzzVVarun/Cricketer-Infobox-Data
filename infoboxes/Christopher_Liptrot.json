@@ -1,0 +1,37 @@
+{
+    "name": "Christopher Liptrot",
+    "fullname": "Christopher George Liptrot",
+    "birth_place": "Wigan, Greater Manchester",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-uk.cricinfo.com/ci/content/story/132415.html",
+    "First-class": {
+        "matches": "30",
+        "runs": "303",
+        "bat avg": "12.12",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "deliveries": "3,899",
+        "wickets": "69",
+        "bowl avg": "32.55",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/44",
+        "catches/stumpings": "11/\u2013"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "23",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "deliveries": "259",
+        "wickets": "8",
+        "bowl avg": "29.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/44",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "13 February 1980"
+}

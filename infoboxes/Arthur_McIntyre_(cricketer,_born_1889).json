@@ -1,0 +1,38 @@
+{
+    "name": "Arthur McIntyre",
+    "country": "England",
+    "fullname": "Arthur Seymour McIntyre",
+    "birth_place": "Hartley Wintney, Hampshire, England",
+    "death_date": "1945",
+    "death_place": "Nottingham, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "11 August",
+    "debutyear1": "1920",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "Essex",
+    "lastdate1": "13 June",
+    "lastyear1": "1923",
+    "lastfor1": "Hampshire",
+    "lastagainst1": "Middlesex",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/6/6761/6761.html CricketArchive ",
+    "FC": {
+        "matches": "28",
+        "runs": "493",
+        "bat avg": "11.46",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1920\u20131923"
+    },
+    "birth_date": "1889-5-29"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Edward Grant",
+    "fullname": "Edward Grant",
+    "birth_place": "Stockbridge, Hampshire",
+    "death_date": "df=yes",
+    "death_place": "Bath, Somerset",
+    "bowling": "Slow",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/13431.html ESPNcricinfo",
+    "First-class": {
+        "matches": "5",
+        "runs": "66",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "275",
+        "wickets": "4",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/19",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Somerset": "1899\u20131901"
+    },
+    "birth_date": "1874-06-16"
+}

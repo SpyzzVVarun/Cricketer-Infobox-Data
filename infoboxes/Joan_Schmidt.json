@@ -1,0 +1,32 @@
+{
+    "name": "Joan Schmidt",
+    "female": "true",
+    "country": "Australia",
+    "birth_place": "Maroona, Victoria, Australia",
+    "batting": "Left-handed",
+    "role": "Batter",
+    "testdebutdate": "20 March",
+    "testdebutyear": "1948",
+    "testdebutagainst": "New Zealand",
+    "lasttestdate": "28 July",
+    "lasttestyear": "1951",
+    "lasttestagainst": "England",
+    "testcap": "23",
+    "source": "death_date=2003",
+    "WTest": {
+        "matches": "7",
+        "runs": "210",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "8/-"
+    },
+    "clubs": {},
+    "birth_date": "1920-1-24"
+}

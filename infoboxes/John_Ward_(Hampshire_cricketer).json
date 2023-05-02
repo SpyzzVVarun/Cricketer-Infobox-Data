@@ -1,0 +1,23 @@
+{
+    "name": "John Ward",
+    "country": "England",
+    "bowling": "Roundarm Roundarm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/22302.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "152",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1877"
+    }
+}

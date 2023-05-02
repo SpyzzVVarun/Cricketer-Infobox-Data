@@ -1,0 +1,27 @@
+{
+    "name": "Charles Barstow",
+    "fullname": "Charles Banks Barstow",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "death_date": "1935",
+    "death_place": "Eagle Junction, Queensland, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium/Legbreak",
+    "source": "https://www.espncricinfo.com/australia/content/player/4330.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "187",
+        "bat avg": "6.44",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "78",
+        "bowl avg": "28.08",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "8/51",
+        "catches/stumpings": "10/-"
+    },
+    "clubs": {
+        "Queensland": "1906/07-1925/26"
+    },
+    "birth_date": "1883-3-14"
+}

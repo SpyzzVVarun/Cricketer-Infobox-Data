@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Edgar Cooper",
+    "birth_place": "Briton Ferry, Neath Port Talbot, Wales",
+    "death_date": "1959",
+    "death_place": "Kettering, Northamptonshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/10803.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "46",
+        "bat avg": "5.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "14",
+        "deliveries": "684",
+        "wickets": "10",
+        "bowl avg": "40.60",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/61",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1921"
+    },
+    "birth_date": "1891-11-12"
+}

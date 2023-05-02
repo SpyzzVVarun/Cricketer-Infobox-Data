@@ -1,0 +1,47 @@
+{
+    "country": "Zimbabwe",
+    "fullname": "Patrick Bernard Clift",
+    "birth_place": "Southern Rhodesia, Rhodesia",
+    "death_date": "1996",
+    "death_place": "Durban, KwaZulu-Natal, , South Africa",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/zimbabwe/content/player/55312.html Cricinfo ",
+    "First-class": {
+        "matches": "319",
+        "runs": "8,395",
+        "bat avg": "23.64",
+        "100s/50s": "2/31",
+        "top score": "106",
+        "deliveries": "51,972",
+        "wickets": "876",
+        "bowl avg": "24.66",
+        "fivefor": "26",
+        "tenfor": "2",
+        "best bowling": "8/17",
+        "catches/stumpings": "161/&ndash;"
+    },
+    "List A": {
+        "matches": "243",
+        "runs": "2,427",
+        "bat avg": "19.73",
+        "100s/50s": "&ndash;/4",
+        "top score": "91",
+        "deliveries": "11,712",
+        "wickets": "295",
+        "bowl avg": "25.45",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/13",
+        "catches/stumpings": "66/&ndash;"
+    },
+    "clubs": {
+        "Natal": "1980/81&ndash;1987/88",
+        "Zimbabwe": "1979/80",
+        "Leicestershire": "1975&ndash;1987",
+        "Rhodesia": "1971/72&ndash;1978/79"
+    },
+    "birth_date": "1953-7-12"
+}

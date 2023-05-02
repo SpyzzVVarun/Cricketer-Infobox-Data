@@ -1,0 +1,39 @@
+{
+    "name": "Gordon Minkley",
+    "fullname": "Gordon Andrew Minkley",
+    "birth_place": "King William's Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/46354.html Cricinfo",
+    "First-class": {
+        "matches": "23",
+        "runs": "697",
+        "bat avg": "19.91",
+        "100s/50s": "1/0",
+        "top score": "135",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "17/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "50",
+        "bat avg": "25.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Border": "1962\u201363 to 1970\u201371"
+    },
+    "birth_date": "1936-10-2"
+}

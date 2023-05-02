@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Frank Ward",
+    "birth_place": "Kensington, Middlesex, England",
+    "death_date": "1952",
+    "death_place": "Worthing, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22728.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "28",
+        "bat avg": "4.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "187",
+        "wickets": "2",
+        "bowl avg": "42.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Smitha Harikrishna",
+    "female": "true",
+    "country": "India",
+    "fullname": "Smitha Harikrishna",
+    "birth_place": "Bangalore, India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "odidebutdate": "12 February",
+    "odidebutyear": "1995",
+    "odidebutagainst": "New Zealand",
+    "odicap": "44",
+    "lastodidate": "20 December",
+    "lastodiyear": "2000",
+    "lastodiagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/26/26497/26497.html CricketArchive ",
+    "WODI": {
+        "matches": "22",
+        "runs": "231",
+        "bat avg": "17.76",
+        "100s/50s": "-/-",
+        "top score": "34",
+        "deliveries": "528",
+        "wickets": "8",
+        "bowl avg": "29.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1973-11-6"
+}

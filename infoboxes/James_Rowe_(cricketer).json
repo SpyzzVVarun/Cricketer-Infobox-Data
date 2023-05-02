@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "James George Castell Rowe",
+    "birth_place": "Farnborough, London, England",
+    "batting": "Left-handed",
+    "family": "Charles Rowe (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/19924.html CricInfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "128",
+        "bat avg": "42.66",
+        "100s/50s": "0/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Durham UCCE": "2001",
+        "Kent Cricket Board": "2002"
+    },
+    "birth_date": "1979-7-4"
+}

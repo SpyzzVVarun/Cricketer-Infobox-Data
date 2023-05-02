@@ -1,0 +1,28 @@
+{
+    "name": "William Robertson",
+    "nickname": "Pro",
+    "birth_place": "Invercargill, New Zealand",
+    "death_date": "1912",
+    "death_place": "Auckland, New Zealand",
+    "bowling": "Right-arm Right-arm off-spin",
+    "country": "New Zealand",
+    "source": "https://www.espncricinfo.com/player/william-robertson-38339 Cricinfo",
+    "First-class": {
+        "matches": "12",
+        "runs": "68",
+        "bat avg": "7.55",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "2880",
+        "wickets": "85",
+        "bowl avg": "14.44",
+        "fivefor": "10",
+        "tenfor": "4",
+        "best bowling": "9/98",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Canterbury": "1893-94 to 1900-01"
+    },
+    "birth_date": "1864-3-4"
+}

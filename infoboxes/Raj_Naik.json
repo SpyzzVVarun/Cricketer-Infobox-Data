@@ -1,0 +1,40 @@
+{
+    "country": "India",
+    "fullname": "Rajesh Rama Naik",
+    "birth_place": "Mapusa, Goa, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/india/content/player/31782.html Cricinfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "1,047",
+        "bat avg": "20.52",
+        "100s/50s": "1/4",
+        "top score": "133",
+        "deliveries": "779",
+        "wickets": "2",
+        "bowl avg": "227.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/75",
+        "catches/stumpings": "9/\u2013"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "326",
+        "bat avg": "23.28",
+        "100s/50s": "\u2013/1",
+        "deliveries": "399",
+        "wickets": "7",
+        "bowl avg": "45.57",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/13",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Goa": "1993/94\u20132003/04",
+        "Dorset": "2010"
+    },
+    "birth_date": "1974-12-20"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Ruth Symons",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1935",
+    "fullname": "Ruth Evelyn Symons",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "2004",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "onetest": "true",
+    "testdebutdate": "16 February",
+    "testdebutyear": "1935",
+    "testdebutagainst": "England",
+    "testcap": "10",
+    "source": "https://cricketarchive.com/Archive/Players/17/17327/17327.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "35.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/71",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WFC": {
+        "matches": "3",
+        "runs": "64",
+        "bat avg": "12.80",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "210",
+        "wickets": "6",
+        "bowl avg": "26.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/18",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1938/39\u20131939/40"
+    },
+    "birth_date": "1913-10-3"
+}

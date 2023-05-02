@@ -1,0 +1,47 @@
+{
+    "country": "England",
+    "fullname": "Neil Michael Kendrick",
+    "nickname": "Kendo, Rat, Merson",
+    "birth_place": "Bromley, Kent, England",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.cricinfo.com/ci/content/player/15854.html Cricinfo ",
+    "FC": {
+        "matches": "81",
+        "runs": "1,206",
+        "bat avg": "15.86",
+        "100s/50s": "\u2013/4",
+        "top score": "59",
+        "deliveries": "14,109",
+        "wickets": "179",
+        "bowl avg": "38.49",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/115",
+        "catches/stumpings": "58/\u2013"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "55",
+        "bat avg": "18.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "591",
+        "wickets": "12",
+        "bowl avg": "38.91",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/21",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Surrey Cricket Board": "1999",
+        "Berkshire": "1997\u20131998",
+        "Glamorgan": "1994/95-1996",
+        "Surrey": "1988\u20131994"
+    },
+    "birth_date": "1967-11-11"
+}

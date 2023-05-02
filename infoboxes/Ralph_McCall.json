@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Ralph Leycester McCall",
+    "birth_place": "Stroud, Gloucestershire, England",
+    "death_date": "1945",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/player/ralph-mccall-31147 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1913/14"
+    }
+}

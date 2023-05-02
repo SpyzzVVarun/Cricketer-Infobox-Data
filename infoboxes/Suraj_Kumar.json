@@ -1,0 +1,53 @@
+{
+    "name": "Suraj Kumar",
+    "country": "Oman",
+    "birth_place": "Jalandhar, Punjab, India",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "odidebutdate": "27 April",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Namibia",
+    "odicap": "10",
+    "lastodidate": "12 June",
+    "lastodiyear": "2022",
+    "lastodiagainst": "USA",
+    "T20Idebutdate": "5 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Hong Kong",
+    "T20Icap": "26",
+    "lastT20Idate": "21 October",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Scotland",
+    "source": "http://www.espncricinfo.com/ci/content/player/1156690.html Cricinfo ",
+    "ODI": {
+        "matches": "20",
+        "runs": "328",
+        "bat avg": "25.23",
+        "100s/50s": "0/2",
+        "catches/stumpings": "16/2"
+    },
+    "T20I": {
+        "matches": "17",
+        "runs": "109",
+        "bat avg": "12.11",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/2"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "524",
+        "bat avg": "27.57",
+        "100s/50s": "0/5",
+        "top score": "70",
+        "catches/stumpings": "26/4"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "109",
+        "bat avg": "12.22",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/2"
+    },
+    "clubs": {},
+    "birth_date": "1988-11-29"
+}

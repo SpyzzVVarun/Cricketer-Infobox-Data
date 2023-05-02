@@ -1,0 +1,33 @@
+{
+    "name": "Richard Baggallay",
+    "country": "England",
+    "fullname": "Richard Romer Claude Baggallay",
+    "birth_place": "Kensington, London",
+    "death_date": "1975",
+    "death_place": "Kensington, London",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Mervyn Baggallay (brother)",
+    "type1": "FC",
+    "debutdate1": "1 August",
+    "debutyear1": "1912",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Australians",
+    "lastdate1": "9 July",
+    "lastyear1": "1919",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Somerset",
+    "source": "https://cricketarchive.com/Archive/Players/27/27592/27592.html CricketArchive ",
+    "First-class": {
+        "matches": "31",
+        "runs": "688",
+        "bat avg": "11.86",
+        "100s/50s": "0/3",
+        "top score": "88",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1912\u20131919"
+    },
+    "birth_date": "1884-5-4"
+}

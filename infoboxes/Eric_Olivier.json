@@ -1,0 +1,30 @@
+{
+    "name": "Eric Olivier",
+    "country": "South Africa",
+    "birth_place": "Oudtshoorn, Cape Colony",
+    "death_date": "1925",
+    "death_place": "Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18258.html Cricinfo ",
+    "FC": {
+        "matches": "22",
+        "runs": "302",
+        "bat avg": "11.18",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "deliveries": "3,893",
+        "wickets": "90",
+        "bowl avg": "22.62",
+        "fivefor": "8",
+        "tenfor": "4",
+        "best bowling": "8/51",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "South Western Districts": "1913 and 1922",
+        "Hampshire": "1911",
+        "Cambridge University": "1908\u20131909"
+    },
+    "birth_date": "1888-11-24"
+}

@@ -1,0 +1,43 @@
+{
+    "country": "New Zealand",
+    "fullname": "Kassem Ben Khalid Ibadulla",
+    "birth_place": "Birmingham, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Billy Ibadulla (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/15407.html Cricinfo ",
+    "First-class": {
+        "matches": "31",
+        "runs": "1,131",
+        "bat avg": "26.92",
+        "100s/50s": "2/4",
+        "top score": "107",
+        "deliveries": "2,452",
+        "wickets": "29",
+        "bowl avg": "44.48",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/22",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "List A": {
+        "matches": "19",
+        "runs": "184",
+        "bat avg": "12.26",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "318",
+        "wickets": "5",
+        "bowl avg": "46.60",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/32",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire": "1987&ndash;1989",
+        "Cheshire": "1985",
+        "Otago": "1982/83&ndash;1990/91"
+    },
+    "birth_date": "1964-10-13"
+}

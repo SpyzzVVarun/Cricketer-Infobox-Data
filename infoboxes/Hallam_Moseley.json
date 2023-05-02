@@ -1,0 +1,52 @@
+{
+    "name": "Hallam Moseley",
+    "country": "West Indies",
+    "fullname": "Hallam Reynold Moseley",
+    "birth_place": "Christ Church, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "20 August",
+    "debutyear1": "1969",
+    "debutfor1": "Barbados",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "11 September",
+    "lastyear1": "1982",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3727/3727.html CricketArchive ",
+    "First-class": {
+        "matches": "213",
+        "runs": "1,533",
+        "bat avg": "12.46",
+        "100s/50s": "0/2",
+        "top score": "67",
+        "deliveries": "32,653",
+        "wickets": "557",
+        "bowl avg": "24.53",
+        "fivefor": "16",
+        "tenfor": "1",
+        "best bowling": "6/34",
+        "catches/stumpings": "78/\u2013"
+    },
+    "List A": {
+        "matches": "212",
+        "runs": "519",
+        "bat avg": "8.23",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "10,328",
+        "wickets": "313",
+        "bowl avg": "19.91",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "5/30",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1969\u20131972",
+        "Somerset": "1969\u20131982"
+    },
+    "birth_date": "1948-05-28"
+}

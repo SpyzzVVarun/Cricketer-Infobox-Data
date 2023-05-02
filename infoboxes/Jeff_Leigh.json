@@ -1,0 +1,23 @@
+{
+    "name": "Jeff Leigh",
+    "full_name": "Jeffrey Allan Leigh",
+    "birth_place": "Stratford, New Zealand",
+    "death_date": "2012",
+    "batting": "Left-handed",
+    "role": "Wicketkeeper",
+    "type1": "First-class",
+    "debutfor1": "Northern Districts",
+    "lastfor1": "Northern Districts",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/37648.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Northern Districts": "1977/78"
+    },
+    "birth_date": "1950-10-26"
+}

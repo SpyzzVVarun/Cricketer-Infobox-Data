@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "George Frederick Cooke",
+    "birth_place": "Manchester, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11672.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "356",
+        "bat avg": "10.47",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "92",
+        "wickets": "5",
+        "bowl avg": "8.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/12",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1849&ndash;1851",
+        "Marylebone Cricket Club": "1852&ndash;1853"
+    }
+}

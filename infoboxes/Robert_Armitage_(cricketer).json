@@ -1,0 +1,43 @@
+{
+    "country": "South Africa",
+    "fullname": "Robert Lawrence Sugden Armitage",
+    "birth_place": "Grahamstown,  Cape Province, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Grahamstown, Eastern Cape, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/43967.html Cricinfo ",
+    "First-class": {
+        "matches": "109",
+        "runs": "3,923",
+        "bat avg": "23.21",
+        "100s/50s": "4/15",
+        "deliveries": "14,749",
+        "wickets": "205",
+        "bowl avg": "31.65",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "7/97",
+        "catches/stumpings": "47/\u2013"
+    },
+    "List A": {
+        "matches": "55",
+        "runs": "969",
+        "bat avg": "25.50",
+        "100s/50s": "\u2013/5",
+        "top score": "73",
+        "deliveries": "1,466",
+        "wickets": "35",
+        "bowl avg": "27.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/18",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1973/74&ndash;1987/88",
+        "Northern Transvaal": "1976/77&ndash;1977/78",
+        "Eastern Province B": "1979/80&ndash;1987/88",
+        "Cambridgeshire": "1980"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Charlie Peach",
+    "fullname": "Charles William Peach",
+    "birth_place": "Egerton, Kent",
+    "death_date": "df=yes",
+    "death_place": "Coxheath, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "family": "Alan Peach (cousin)",
+    "type1": "FC",
+    "debutdate1": "24 May",
+    "debutyear1": "1930",
+    "debutfor1": "Kent",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "8 July",
+    "lastyear1": "1931",
+    "lastfor1": "Kent",
+    "lastagainst1": "Hampshire",
+    "source": "http://www.espncricinfo.com/england/content/player/18831.html CricInfo",
+    "First-class": {
+        "matches": "19",
+        "runs": "108",
+        "bat avg": "7.20",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "2,561",
+        "wickets": "30",
+        "bowl avg": "27.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/38",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Kent": "1930\u20131931"
+    },
+    "birth_date": "1900-01-03"
+}

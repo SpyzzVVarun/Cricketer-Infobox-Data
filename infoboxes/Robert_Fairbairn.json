@@ -1,0 +1,22 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Duncan Fairbairn",
+    "birth_place": "Longhirst, Northumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Guildford, Surrey, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/scotland/content/player/25455.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "4.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1938&ndash;1939",
+        "Scotland": "1938",
+        "Europeans": "1944/45"
+    }
+}

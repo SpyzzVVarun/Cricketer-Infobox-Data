@@ -1,0 +1,25 @@
+{
+    "country": "Australia",
+    "fullname": "George Maddox",
+    "birth_place": "Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/6458.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "29",
+        "bat avg": "4.83",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "14",
+        "deliveries": "73",
+        "wickets": "2",
+        "bowl avg": "20.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/16",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1850/51&ndash;1857/58"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "George Sparkes",
+    "birth_place": "Westbourne, Sussex, England",
+    "death_date": "1908",
+    "death_place": "Old Fishbourne, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/20942.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1875"
+    }
+}

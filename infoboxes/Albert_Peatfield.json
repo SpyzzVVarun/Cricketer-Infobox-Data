@@ -1,0 +1,20 @@
+{
+    "name": "Albert Peatfield",
+    "fullname": "Albert Edward Peatfield",
+    "birth_place": "Retford, Nottinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Retford, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/18864.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1903"
+    }
+}

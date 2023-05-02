@@ -1,0 +1,29 @@
+{
+    "name": "Oliver Bocking",
+    "birth_place": "Colchester, Essex",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "First-class",
+    "debutdate1": "28 March",
+    "debutyear1": "2017",
+    "debutfor1": "Leeds/Bradford MCCU",
+    "debutagainst1": "Kent",
+    "source": "http://www.espncricinfo.com/ci/content/player/668071.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.33",
+        "100s/50s": "0/0",
+        "deliveries": "348",
+        "wickets": "7",
+        "bowl avg": "31.85",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/52",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Leeds/Bradford MCCU": "2017"
+    },
+    "birth_date": "1996-4-25"
+}

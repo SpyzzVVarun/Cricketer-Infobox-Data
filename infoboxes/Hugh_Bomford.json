@@ -1,0 +1,23 @@
+{
+    "honorific_prefix": "Sir",
+    "name": "Hugh Bomford",
+    "honorific_suffix": "country=GBR",
+    "country": "England",
+    "fullname": "Hugh Bomford",
+    "birth_place": "Fort William, Bengal Presidency, British India",
+    "death_date": "df=yes",
+    "death_place": "Meerut, United Provinces,, British India",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/9845.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "52",
+        "bat avg": "7.42",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "19/9"
+    },
+    "clubs": {
+        "Oxford University": "1901&ndash;1904"
+    }
+}

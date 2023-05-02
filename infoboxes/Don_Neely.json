@@ -1,0 +1,35 @@
+{
+    "name": "Don Neely",
+    "honorific_suffix": "country=NZL",
+    "birth_name": "Donald Owen Neely",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "2022",
+    "death_place": "Wellington, New Zealand",
+    "order": "President of New Zealand Cricket",
+    "term_start": "2006",
+    "term_end": "2009",
+    "predecessor": "John R. Reid",
+    "successor": "Denis Currie",
+    "module": "embed = y",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://archive.blackcaps.co.nz/Players/22/22560/22560.html Blackcaps.co.nz  ",
+    "First-class": {
+        "matches": "34",
+        "runs": "1,301",
+        "bat avg": "28.91",
+        "100s/50s": "1/7",
+        "deliveries": "121",
+        "wickets": "1",
+        "bowl avg": "29.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1964/65\u20131967/68",
+        "Auckland": "1968/69\u20131970/71"
+    },
+    "birth_date": "1935-12-21"
+}

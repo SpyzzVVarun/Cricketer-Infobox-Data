@@ -1,0 +1,40 @@
+{
+    "name": "Mick Newell",
+    "fullname": "Michael Newell",
+    "birth_place": "Blackburn, Lancashire, England",
+    "heightft": "5",
+    "heightinch": "8",
+    "batting": "Right-hand bat",
+    "bowling": "Right arm Right arm leg-break",
+    "source": "https://cricketarchive.com/Archive/Players/4/4566/4566.html ",
+    "FC": {
+        "matches": "102",
+        "runs": "4,636",
+        "bat avg": "30.50",
+        "100s/50s": "6/24",
+        "deliveries": "363",
+        "wickets": "7",
+        "bowl avg": "40.28",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "2/38",
+        "catches/stumpings": "93/1"
+    },
+    "LA": {
+        "matches": "40",
+        "runs": "962",
+        "bat avg": "30.06",
+        "100s/50s": "2/18",
+        "deliveries": "6",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "2/10",
+        "catches/stumpings": "13/0"
+    },
+    "clubs": {
+        "Nottinghamshire": "1984\u20131992"
+    },
+    "birth_date": "1965-2-25"
+}

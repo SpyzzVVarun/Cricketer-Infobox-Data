@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "David John Fell",
+    "birth_place": "Stafford, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/12959.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "974",
+        "bat avg": "23.19",
+        "100s/50s": "2/2",
+        "top score": "114",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "112",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "deliveries": "8",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1985&ndash;1987"
+    },
+    "birth_date": "1964-10-25"
+}

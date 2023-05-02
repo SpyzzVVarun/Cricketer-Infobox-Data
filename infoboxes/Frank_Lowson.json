@@ -1,0 +1,34 @@
+{
+    "name": "Frank Lowson",
+    "fullname": "Frank Anderson Lowson",
+    "birth_place": "Bradford, Yorkshire, England",
+    "death_date": "1984",
+    "death_place": "Pool-in-Wharfedale, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "26 July",
+    "testdebutyear": "1951",
+    "lasttestdate": "21 July",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1955",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/16360.html CricInfo",
+    "Test": {
+        "matches": "7",
+        "runs": "245",
+        "bat avg": "18.84",
+        "100s/50s": "0/2",
+        "top score": "68",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "277",
+        "runs": "15,321",
+        "bat avg": "37.18",
+        "100s/50s": "31/72",
+        "catches/stumpings": "190/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1925-7-1"
+}

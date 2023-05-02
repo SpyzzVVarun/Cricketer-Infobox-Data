@@ -1,0 +1,33 @@
+{
+    "name": "Gitansh Khera",
+    "birth_place": "Ludhiana, India",
+    "batting": "Right-hand bat",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/482312.html Cricinfo",
+    "FC": {
+        "matches": "48",
+        "runs": "2,183",
+        "bat avg": "34.10",
+        "100s/50s": "3/12",
+        "top score": "164",
+        "catches/stumpings": "129/19"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "577",
+        "bat avg": "33.94",
+        "100s/50s": "1/2",
+        "catches/stumpings": "47/9"
+    },
+    "T20": {
+        "matches": "11",
+        "runs": "96",
+        "bat avg": "19.20",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/7"
+    },
+    "clubs": {
+        "Punjab": "2010-present"
+    },
+    "birth_date": "1991-6-4"
+}

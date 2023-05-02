@@ -1,0 +1,18 @@
+{
+    "name": "Abdullah Adil",
+    "country": "Afghanistan",
+    "birth_place": "Momand, Islamic State of Afghanistan",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/533954.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1994-2-7",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{Afghanistan}}",
+        "Competition: Asian Games",
+        "Silver Medal: 2014 Incheon Team"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Claude Rock",
+    "country": "Australia",
+    "fullname": "Claude William Rock",
+    "birth_place": "Deloraine, Tasmania, Australia",
+    "death_date": "1950",
+    "death_place": "Longford, Tasmania, Australia",
+    "family": "Owen Rock (son) Norman Rock (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm round-arm Right-arm round-arm medium-pace",
+    "source": "https://www.espncricinfo.com/australia/content/player/7381.html Cricinfo",
+    "FC": {
+        "matches": "31",
+        "runs": "809",
+        "bat avg": "16.18",
+        "100s/50s": "1/2",
+        "top score": "102",
+        "deliveries": "7222",
+        "wickets": "142",
+        "bowl avg": "16.54",
+        "fivefor": "13",
+        "tenfor": "5",
+        "best bowling": "8/36",
+        "catches/stumpings": "38/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1884\u20131886",
+        "Tasmania": "1888-89 to 1892-93"
+    },
+    "birth_date": "1863-6-9"
+}

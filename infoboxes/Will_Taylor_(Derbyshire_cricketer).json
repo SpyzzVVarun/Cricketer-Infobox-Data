@@ -1,0 +1,39 @@
+{
+    "name": "Will Taylor",
+    "country": "England",
+    "fullname": "William Thomas Taylor",
+    "birth_place": "Wirksworth, Derbyshire, England",
+    "death_date": "1976",
+    "death_place": "Breadsall, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Francis Taylor (brother)",
+    "type1": "FC",
+    "debutdate1": "6 July",
+    "debutyear1": "1905",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "9 June",
+    "lastyear1": "1910",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Players/33/33231/33231.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "53",
+        "bat avg": "7.57",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "77",
+        "wickets": "2",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1905\u20131910"
+    },
+    "birth_date": "1885-4-14"
+}

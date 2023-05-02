@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Donald Clark Johnston",
+    "birth_place": "Shanghai, China",
+    "death_date": "df=yes",
+    "death_place": "Beugneux, Aisne, France",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15714.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "174",
+        "wickets": "2",
+        "bowl avg": "35.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1914"
+    }
+}

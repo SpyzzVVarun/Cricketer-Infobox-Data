@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Richard Hugh Downend",
+    "birth_place": "Stoke-on-Trent, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12242.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "71.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/71",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "84",
+        "bat avg": "9.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "408",
+        "wickets": "13",
+        "bowl avg": "20.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Minor Counties North": "1971\u20131972",
+        "Minor Counties": "1972",
+        "Staffordshire": "1964\u20131977"
+    },
+    "birth_date": "1945-1-19"
+}

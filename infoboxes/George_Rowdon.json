@@ -1,0 +1,30 @@
+{
+    "name": "George Rowdon",
+    "country": "England",
+    "fullname": "George Henry Rowdon",
+    "birth_place": "Midsomer Norton, Somerset, England",
+    "death_date": "1987",
+    "death_place": "Bath, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-breaks",
+    "role": "Batsman (in FC cricket)",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "8 July",
+    "debutyear1": "1936",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Essex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3799/3799.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1936"
+    },
+    "birth_date": "1914-10-6"
+}

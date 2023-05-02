@@ -1,0 +1,27 @@
+{
+    "name": "George Gill",
+    "country": "England",
+    "fullname": "George Cooper Gill",
+    "birth_place": "Mountsorrel, Leicestershire, England",
+    "death_date": "1937",
+    "death_place": "Leicester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/3/3570/3570.html CricketArchive ",
+    "First-class": {
+        "matches": "171",
+        "runs": "4,160",
+        "bat avg": "16.06",
+        "100s/50s": "1/19",
+        "top score": "100",
+        "deliveries": "21,928",
+        "wickets": "465",
+        "bowl avg": "25.36",
+        "fivefor": "26",
+        "tenfor": "3",
+        "best bowling": "9/89",
+        "catches/stumpings": "74/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1876-4-18"
+}

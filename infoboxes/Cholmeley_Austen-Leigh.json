@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Cholmeley Austen-Leigh",
+    "birth_place": "Tring, Hertfordshire, England",
+    "death_date": "df=y",
+    "death_place": "Kingston, Surrey, England",
+    "family": "Arthur Austen-Leigh (brother), Charles Austen-Leigh (brother), Spencer Austen-Leigh (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16783.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1862"
+    }
+}

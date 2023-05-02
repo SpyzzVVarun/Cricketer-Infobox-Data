@@ -1,0 +1,40 @@
+{
+    "name": "Zulqarnain",
+    "country": "Pakistan",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1985\u20131989",
+    "testdebutdate": "23 February",
+    "testdebutyear": "1986",
+    "testdebutagainst": "Sri Lanka",
+    "testcap": "103",
+    "lasttestdate": "22 March",
+    "lasttestyear": "1986",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "4 December",
+    "odidebutyear": "1985",
+    "odidebutagainst": "West Indies",
+    "odicap": "57",
+    "lastodidate": "20 December",
+    "lastodiyear": "1989",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/43707.html ESPNCricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "24",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "8/2"
+    },
+    "ODI": {
+        "matches": "16",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "18/5"
+    },
+    "clubs": {},
+    "birth_date": "1962-5-25"
+}

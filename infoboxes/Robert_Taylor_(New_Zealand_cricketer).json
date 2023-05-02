@@ -1,0 +1,25 @@
+{
+    "name": "Robert Taylor",
+    "country": "New Zealand",
+    "death_date": "30 October 1901",
+    "death_place": "Sefton, Canterbury, New Zealand",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/22/22971/22971.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "246",
+        "wickets": "9",
+        "bowl avg": "7.88",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/21",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1863-64 to 1868-69"
+    }
+}

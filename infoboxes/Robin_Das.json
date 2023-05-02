@@ -1,0 +1,39 @@
+{
+    "name": "Robin Das",
+    "fullname": "Robin James Das",
+    "birth_place": "Leytonstone, London, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "LA",
+    "debutdate1": "5 August",
+    "debutyear1": "2022",
+    "debutfor1": "Essex",
+    "debutagainst1": "Derbyshire",
+    "type2": "T20",
+    "debutdate2": "20 September",
+    "debutyear2": "2020",
+    "debutfor2": "Essex",
+    "debutagainst2": "Sussex",
+    "source": "http://www.espncricinfo.com/ci/content/player/1149211.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "202",
+        "bat avg": "28.85",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "catches/stumpings": "1/\u2013"
+    },
+    "Twenty20": {
+        "matches": "3",
+        "runs": "45",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Essex( 47 )": "2020\u2013present",
+        "Dhaka Dominators": "2023"
+    },
+    "birth_date": "2002-2-27"
+}

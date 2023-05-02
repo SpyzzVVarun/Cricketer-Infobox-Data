@@ -1,0 +1,27 @@
+{
+    "name": "John Sedgley",
+    "country": "England",
+    "fullname": "John Brian Sedgley",
+    "birth_place": "West Bromwich, England",
+    "death_date": "2020",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/32/32654/32654.html CricketArchive ",
+    "FC": {
+        "matches": "15",
+        "runs": "389",
+        "bat avg": "15.56",
+        "100s/50s": "0/2",
+        "top score": "95",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Worcestershire": "1959&ndash;1961"
+    },
+    "birth_date": "1939-2-17"
+}

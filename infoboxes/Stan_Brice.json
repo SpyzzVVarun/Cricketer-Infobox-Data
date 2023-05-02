@@ -1,0 +1,29 @@
+{
+    "name": "Stan Brice",
+    "country": "New Zealand",
+    "fullname": "Alfred William Stanley Brice",
+    "birth_place": "South Rakaia, Canterbury, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Maraekakaho, near Hastings, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36509.html Cricinfo ",
+    "First-class": {
+        "matches": "61",
+        "runs": "1575",
+        "bat avg": "17.11",
+        "100s/50s": "0/8",
+        "top score": "87",
+        "deliveries": "11,123",
+        "wickets": "247",
+        "bowl avg": "21.29",
+        "fivefor": "19",
+        "tenfor": "7",
+        "best bowling": "9/67",
+        "catches/stumpings": "43/0"
+    },
+    "clubs": {
+        "Wellington": "1902-03 to 1927-28"
+    },
+    "birth_date": "1880-11-14"
+}

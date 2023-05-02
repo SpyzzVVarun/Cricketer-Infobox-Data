@@ -1,0 +1,29 @@
+{
+    "name": "Roy Middleton",
+    "country": "Australia",
+    "fullname": "Roy Foster Middleton",
+    "birth_place": "Kent Town, South Australia, Australia",
+    "death_date": "1975",
+    "death_place": "Adelaide, Australia",
+    "batting": "Right-handed",
+    "role": "Batsman/Administrator",
+    "source": "http://www.espncricinfo.com/australia/content/player/6790.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "151",
+        "bat avg": "16.77",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "34",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1912/13&ndash;1914/15"
+    },
+    "birth_date": "1889-9-18"
+}

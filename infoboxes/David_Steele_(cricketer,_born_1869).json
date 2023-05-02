@@ -1,0 +1,30 @@
+{
+    "name": "David Steele",
+    "country": "England",
+    "fullname": "David Aubrey Steele",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1935",
+    "death_place": "Caterham, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/20343.html Cricinfo ",
+    "FC": {
+        "matches": "164",
+        "runs": "3,448",
+        "bat avg": "14.01",
+        "100s/50s": "&ndash;/6",
+        "top score": "80",
+        "deliveries": "8,573",
+        "wickets": "135",
+        "bowl avg": "34.28",
+        "fivefor": "4",
+        "tenfor": "&ndash;",
+        "best bowling": "5/32",
+        "catches/stumpings": "132/5"
+    },
+    "clubs": {
+        "Hampshire": "1886&ndash;1906"
+    },
+    "birth_date": "1869-6-3"
+}

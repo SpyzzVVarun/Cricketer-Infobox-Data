@@ -1,0 +1,25 @@
+{
+    "name": "Robert Hills",
+    "country": "England",
+    "fullname": "Robert Hills",
+    "birth_place": "Ash-Next-Ridley, Kent",
+    "death_date": "25 July 1884 (aged 70)",
+    "death_place": "Gravesend, Kent",
+    "source": "http://www.espncricinfo.com/ci/content/player/15242.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "51",
+        "bat avg": "5.66",
+        "100s/50s": "0/0",
+        "deliveries": "240",
+        "wickets": "13",
+        "bowl avg": "?",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/?",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Kent": "1836\u20131838"
+    }
+}

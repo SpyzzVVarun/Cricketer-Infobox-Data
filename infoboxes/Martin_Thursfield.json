@@ -1,0 +1,43 @@
+{
+    "name": "Martin Thursfield",
+    "country": "England",
+    "fullname": "Martin John Thursfield",
+    "birth_place": "South Shields, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/21541.html Cricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "309",
+        "bat avg": "15.45",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "47",
+        "deliveries": "2.844",
+        "wickets": "38",
+        "bowl avg": "40.50",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/130",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "60",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "19",
+        "deliveries": "1,434",
+        "wickets": "25",
+        "bowl avg": "46.96",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/31",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1997",
+        "Hampshire": "1992&ndash;1996",
+        "Middlesex": "1990"
+    },
+    "birth_date": "1971-12-14"
+}

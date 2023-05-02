@@ -1,0 +1,25 @@
+{
+    "name": "John Clay",
+    "fullname": "John Desmond Clay",
+    "birth_place": "West Bridgford, Nottingham",
+    "death_date": "2011",
+    "death_place": "West Bridgford, Nottingham",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/28/28571/28571.html CricketArchive",
+    "First-class": {
+        "matches": "236",
+        "runs": "9,991",
+        "bat avg": "26.08",
+        "100s/50s": "11/49",
+        "top score": "192",
+        "deliveries": "223",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "165/0"
+    },
+    "clubs": {},
+    "birth_date": "1924-10-25"
+}

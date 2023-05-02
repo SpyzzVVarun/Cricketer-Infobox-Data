@@ -1,0 +1,42 @@
+{
+    "name": "Bryan Timms",
+    "country": "England",
+    "fullname": "Bryan Stanley Valentine Timms",
+    "birth_place": "Ropley, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/21543.html Cricinfo ",
+    "FC": {
+        "matches": "232",
+        "runs": "3,657",
+        "bat avg": "15.76",
+        "100s/50s": "1/8",
+        "top score": "120",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "456/70"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "152",
+        "bat avg": "19.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "55",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "12/2"
+    },
+    "clubs": {
+        "Warwickshire": "1969&ndash;1971",
+        "Hampshire": "1959&ndash;1968"
+    },
+    "birth_date": "1940-12-17"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Agha Saadat Ali",
+    "batting": "Right-hand bat",
+    "country": "Pakistan",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "7 November",
+    "testdebutyear": "1955",
+    "onetest": "true",
+    "testcap": "22",
+    "source": "http://www.espncricinfo.com/ci/content/player/38981.html ESPNCricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "3/-"
+    },
+    "First-class": {
+        "matches": "17",
+        "runs": "325",
+        "bat avg": "13.54",
+        "100s/50s": "-/-",
+        "top score": "56",
+        "deliveries": "152",
+        "wickets": "1",
+        "bowl avg": "62.00",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/46",
+        "catches/stumpings": "8/-"
+    },
+    "clubs": {}
+}

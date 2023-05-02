@@ -1,0 +1,21 @@
+{
+    "name": "Molly Healy",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Molly B Healy",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1962/1962136/1962136.html CricketArchive",
+    "WLA": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2019/20\u20132021/22"
+    }
+}

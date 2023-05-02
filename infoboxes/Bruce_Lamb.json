@@ -1,0 +1,27 @@
+{
+    "name": "Bruce Lamb",
+    "country": "England",
+    "birth_place": "Andover, Hampshire, England",
+    "death_date": "1932",
+    "death_place": "Andover, Hampshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/16179.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "29",
+        "bat avg": "4.14",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1898 and 1901"
+    },
+    "birth_date": "1878-8-25"
+}

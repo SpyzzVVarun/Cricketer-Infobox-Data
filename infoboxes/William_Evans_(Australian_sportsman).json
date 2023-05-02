@@ -1,0 +1,30 @@
+{
+    "name": "William Evans",
+    "nickname": "Poley",
+    "country": "Australia",
+    "fullname": "William Thomas Evans url=http://www.scrum.com/australia/rugby/player/1353.html",
+    "birth_place": "Indooroopilly, Queensland,  Australia",
+    "death_date": "1964",
+    "death_place": "Buranda, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm bowler",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/16/16007/16007.html CricketArchive ",
+    "First-class": {
+        "matches": "30",
+        "runs": "1,132",
+        "bat avg": "22.64",
+        "100s/50s": "1/6",
+        "deliveries": "193",
+        "wickets": "8",
+        "bowl avg": "15.25",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/70",
+        "catches/stumpings": "24/16"
+    },
+    "clubs": {
+        "Queensland": "1898/99\u20131913/14"
+    },
+    "birth_date": "1876-4-9"
+}

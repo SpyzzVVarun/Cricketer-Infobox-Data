@@ -1,0 +1,40 @@
+{
+    "name": "Josh Dell",
+    "country": "England",
+    "fullname": "Joshua Jamie Dell",
+    "birth_place": "Tenbury Wells, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "14 May",
+    "debutyear1": "2019",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Durham",
+    "type2": "LA",
+    "debutdate2": "19 June",
+    "debutyear2": "2018",
+    "debutfor2": "Worcestershire",
+    "debutagainst2": "West Indies A",
+    "source": "http://www.espncricinfo.com/ci/content/player/857985.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "158",
+        "bat avg": "13.16",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "catches/stumpings": "5/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "136",
+        "bat avg": "27.20",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Worcestershire( 52 )": "2018\u20132022"
+    },
+    "birth_date": "1997-9-26"
+}

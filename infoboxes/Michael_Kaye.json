@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Michael Arthur Chadwick Porter Kaye",
+    "birth_place": "Kensington, London, England",
+    "death_date": "df=y",
+    "death_place": "Charing Cross, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/15953.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "395",
+        "bat avg": "17.95",
+        "100s/50s": "\u2013/2",
+        "top score": "78",
+        "deliveries": "2,175",
+        "wickets": "31",
+        "bowl avg": "40.12",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/89",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1937\u20131938"
+    }
+}

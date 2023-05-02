@@ -1,0 +1,27 @@
+{
+    "name": "William Neilson",
+    "fullname": "William Francis Neilson",
+    "birth_place": "Liverpool, England",
+    "death_date": "1880",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/22/22563/22563.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "123",
+        "bat avg": "13.66",
+        "100s/50s": "0/1",
+        "top score": "57 not out",
+        "deliveries": "122",
+        "wickets": "8",
+        "bowl avg": "8.37",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/19",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Canterbury": "1874\u201375 to 1878\u201379"
+    },
+    "birth_date": "1850-9-24"
+}

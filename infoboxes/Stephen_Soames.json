@@ -1,0 +1,27 @@
+{
+    "name": "Stephen Soames",
+    "fullname": "Stephen Soames",
+    "birth_place": "Stoke Newington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Kensington, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21338.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "57",
+        "bat avg": "4.38",
+        "100s/50s": "0/0",
+        "deliveries": "76",
+        "wickets": "28",
+        "bowl avg": "?",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "8/?",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1846\u20131850",
+        "Marylebone Cricket Club": "1850\u20131853"
+    }
+}

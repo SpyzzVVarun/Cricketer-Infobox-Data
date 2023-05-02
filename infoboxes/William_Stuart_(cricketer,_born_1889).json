@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "William Grant Spruell Stuart",
+    "birth_place": "Gartly, Aberdeenshire, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Gu\u00e9mappe, Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/25369.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "27",
+        "bat avg": "13.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1914"
+    }
+}

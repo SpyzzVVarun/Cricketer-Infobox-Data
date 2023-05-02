@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "James Ashley Stuart Spires",
+    "birth_place": "Solihull, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow Slow left-arm",
+    "source": "http://www.cricinfo.com/ci/content/player/20459.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "70",
+        "bat avg": "17.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1,330",
+        "wickets": "20",
+        "bowl avg": "38.40",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/165",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "33.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/33",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1999-2005",
+        "Warwickshire Cricket Board": "2001"
+    },
+    "birth_date": "1979-11-12"
+}

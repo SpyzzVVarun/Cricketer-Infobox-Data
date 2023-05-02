@@ -1,0 +1,17 @@
+{
+    "name": "Michael Rindel",
+    "country": "South Africa",
+    "batting": "Left-handed",
+    "bowling": "Orthodox left-arm Orthodox left-arm spin",
+    "source": "http://content.cricinfo.com/player/46987.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "medaltemplates": [
+        "Country: {{RSA}}",
+        "Sport: Men's Cricket",
+        "Competition: Commonwealth Games",
+        "Gold Medal: 1998 Kuala Lumpur List-A cricket"
+    ]
+}

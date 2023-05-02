@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "William McNab",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1989",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/william-mcnab-25293 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1947"
+    }
+}

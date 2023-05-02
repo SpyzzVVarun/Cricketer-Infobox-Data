@@ -1,0 +1,48 @@
+{
+    "name": "Chandu Borde",
+    "country": "India",
+    "fullname": "Chandrakant Gulabrao Borde",
+    "birth_place": "Pune, Bombay Presidency, British India",
+    "batting": "Right-handed",
+    "bowling": "Right arm leg Right arm leg break",
+    "testdebutdate": "28 November",
+    "testdebutyear": "1958",
+    "testdebutagainst": "West Indies",
+    "testcap": "83",
+    "lasttestdate": "9 November",
+    "lasttestyear": "1969",
+    "lasttestagainst": "Australia",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/26962.html Cricinfo |family=Ramesh Borde (brother)",
+    "Test": {
+        "matches": "55",
+        "runs": "3,061",
+        "bat avg": "35.59",
+        "100s/50s": "5/18",
+        "deliveries": "5,695",
+        "wickets": "52",
+        "bowl avg": "46.48",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/88",
+        "catches/stumpings": "37/\u2013"
+    },
+    "First-class": {
+        "matches": "251",
+        "runs": "12,805",
+        "bat avg": "40.91",
+        "100s/50s": "30/72",
+        "deliveries": "20,304",
+        "wickets": "331",
+        "bowl avg": "27.32",
+        "fivefor": "14",
+        "tenfor": "3",
+        "best bowling": "8/52",
+        "catches/stumpings": "160/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "1952\u20131973",
+        "Bombay": "1954\u20131955",
+        "Baroda": "1954\u20131963"
+    },
+    "birth_date": "1934-7-21"
+}

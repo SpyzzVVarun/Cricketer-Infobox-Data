@@ -1,0 +1,38 @@
+{
+    "name": "Joseph Flint",
+    "country": "England",
+    "fullname": "Joseph Flint",
+    "birth_place": "Wirksworth, Derbyshire",
+    "death_date": "1912",
+    "death_place": "Wirksworth, Derbyshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "type1": "FC",
+    "debutdate1": "28 June",
+    "debutyear1": "1872",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "23 June",
+    "lastyear1": "1879",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/29/29441/29441.html CricketArchive ",
+    "First-class": {
+        "matches": "14",
+        "runs": "143",
+        "bat avg": "6.80",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "1,400",
+        "wickets": "44",
+        "bowl avg": "13.65",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "6/28",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1872\u20131879"
+    },
+    "birth_date": "1840-4-23"
+}

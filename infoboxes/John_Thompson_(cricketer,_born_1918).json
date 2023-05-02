@@ -1,0 +1,31 @@
+{
+    "name": "John Thompson",
+    "country": "England",
+    "fullname": "John Ross Thompson",
+    "birth_place": "Berkhamsted, Hertfordshire, England",
+    "death_date": "2010",
+    "death_place": "Marlborough, Wiltshire, England",
+    "role": "Batsman",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://www.espncricinfo.com/player/john-thompson-21796 Cricinfo ",
+    "FC": {
+        "matches": "68",
+        "runs": "3,455",
+        "bat avg": "31.12",
+        "100s/50s": "6/19",
+        "top score": "191",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "32/0"
+    },
+    "clubs": {
+        "Cambridge University": "1938 to 1939",
+        "Warwickshire": "1938 to 1954"
+    },
+    "birth_date": "1918-5-10"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "William Thomas Payne-Gallwey",
+    "birth_place": "Blackrock, Ireland",
+    "death_date": "1914",
+    "death_place": "Vendresse-Beaulne, Aisne, France",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/18826.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "37",
+        "bat avg": "18.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "90",
+        "wickets": "2",
+        "bowl avg": "27.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1912"
+    }
+}

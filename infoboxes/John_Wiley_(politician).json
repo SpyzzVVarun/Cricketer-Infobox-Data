@@ -1,0 +1,19 @@
+{
+    "module": "child=yes   |embed=yes",
+    "family": "William Wiley (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "id=47973   ",
+    "First-class": {
+        "matches": "12",
+        "runs": "410",
+        "bat avg": "18.63",
+        "100s/50s": "\u2013/2",
+        "top score": "70",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Western Province": "1947/48",
+        "Oxford University": "1949\u20131951"
+    }
+}

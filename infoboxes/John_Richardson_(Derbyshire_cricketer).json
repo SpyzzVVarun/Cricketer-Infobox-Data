@@ -1,0 +1,38 @@
+{
+    "name": "John Richardson",
+    "country": "England",
+    "fullname": "John Richardson",
+    "birth_place": "Duckmanton, Derbyshire, England",
+    "death_date": "1940",
+    "death_place": "Brimington, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "1 July",
+    "debutyear1": "1878",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "All England Eleven",
+    "lastdate1": "6 August",
+    "lastyear1": "1883",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Players/32/32349/32349.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "117",
+        "bat avg": "6.88",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "1,168",
+        "wickets": "32",
+        "bowl avg": "16.15",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/76",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1878\u20131883"
+    },
+    "birth_date": "1856-3-17"
+}

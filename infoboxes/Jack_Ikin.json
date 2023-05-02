@@ -1,0 +1,52 @@
+{
+    "name": "Jack Ikin",
+    "country": "England",
+    "fullname": "John Thomas Ikin",
+    "birth_place": "Bignall End, Newcastle-under-Lyme, Staffordshire",
+    "death_date": "1984",
+    "death_place": "Bignall End",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg break and Right-arm leg break and googly",
+    "internationalspan": "1946\u20131955",
+    "testdebutdate": "22 June",
+    "testdebutyear": "1946",
+    "testdebutagainst": "India",
+    "testcap": "312",
+    "lasttestdate": "17 August",
+    "lasttestyear": "1955",
+    "lasttestagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/england/content/player/15381.html Cricinfo ",
+    "Test": {
+        "matches": "18",
+        "runs": "606",
+        "bat avg": "20.89",
+        "100s/50s": "0/3",
+        "top score": "60",
+        "deliveries": "572",
+        "wickets": "3",
+        "bowl avg": "118.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/38",
+        "catches/stumpings": "31/\u2013"
+    },
+    "FC": {
+        "matches": "365",
+        "runs": "17,968",
+        "bat avg": "36.81",
+        "100s/50s": "27/108",
+        "top score": "192",
+        "deliveries": "22,618",
+        "wickets": "339",
+        "bowl avg": "30.27",
+        "fivefor": "11",
+        "tenfor": "1",
+        "best bowling": "6/21",
+        "catches/stumpings": "419/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "1934\u20131968",
+        "Lancashire": "1939\u20131957"
+    },
+    "birth_date": "1918-3-7"
+}

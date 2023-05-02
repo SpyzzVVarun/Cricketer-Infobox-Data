@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Thomas Watson",
+    "birth_place": "Larkhall, Lanarkshire, Scotland",
+    "death_date": "1974",
+    "death_place": "Stonehouse, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/thomas-watson-25388 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "60",
+        "bat avg": "15.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "816",
+        "wickets": "13",
+        "bowl avg": "22.92",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/54",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1928&ndash;1931"
+    }
+}

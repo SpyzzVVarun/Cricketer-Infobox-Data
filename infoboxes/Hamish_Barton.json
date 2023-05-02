@@ -1,0 +1,38 @@
+{
+    "name": "Hamish Barton",
+    "fullname": "Hamish Dymock Barton",
+    "birth_place": "Gisborne, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Peter Barton (father) Hugh Barton (uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/36320.html CricInfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "572",
+        "bat avg": "23.83",
+        "100s/50s": "0/5",
+        "deliveries": "1,601",
+        "wickets": "16",
+        "bowl avg": "55.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/60",
+        "catches/stumpings": "6/\u2013"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "253",
+        "bat avg": "18.07",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "534",
+        "wickets": "7",
+        "bowl avg": "72.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/47",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1976-07-16"
+}

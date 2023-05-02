@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Cyril Ross Browne",
+    "birth_place": "Kings Norton, Worcestershire, England",
+    "death_date": "1948",
+    "death_place": "Eastbourne, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Francis Browne (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/10081.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "146",
+        "bat avg": "8.11",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "464",
+        "wickets": "11",
+        "bowl avg": "29.90",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/8",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1913\u20131919",
+        "Cambridge University": "1913\u20131919"
+    }
+}

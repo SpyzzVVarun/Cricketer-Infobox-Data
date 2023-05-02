@@ -1,0 +1,21 @@
+{
+    "name": "Martin Robinson",
+    "country": "England",
+    "fullname": "Martin John Robinson",
+    "birth_place": "Tholthorpe, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/19780.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "19",
+        "100s/50s": "0/0",
+        "top score": "6.66",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1988\u20131989"
+    },
+    "birth_date": "1962-9-12"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Arthur Thomas",
+    "country": "New Zealand",
+    "fullname": "Arthur Ward Thomas",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38653.html Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "801",
+        "bat avg": "28.60",
+        "100s/50s": "0/6",
+        "top score": "83 not out",
+        "deliveries": "2256",
+        "wickets": "35",
+        "bowl avg": "26.62",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "8/99",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Canterbury": "1911-12 to 1922-23"
+    },
+    "birth_date": "1881-1-25"
+}

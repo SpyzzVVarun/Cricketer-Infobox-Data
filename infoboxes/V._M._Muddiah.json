@@ -1,0 +1,52 @@
+{
+    "name": "V. M. Muddiah",
+    "country": "India",
+    "fullname": "Venkatappa Musandra Muddiah",
+    "birth_place": "Bangalore, British India",
+    "death_date": "2009",
+    "death_place": "Bangalore, Karnataka, India",
+    "batting": "Right-handed",
+    "bowling": "Right arm off break / Right arm off break / medium",
+    "testdebutdate": "12 December",
+    "testdebutyear": "1959",
+    "testdebutagainst": "Australia",
+    "testcap": "94",
+    "lasttestdate": "21 December",
+    "lasttestyear": "1960",
+    "lasttestagainst": "Pakistan",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/31045.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "318",
+        "wickets": "3",
+        "bowl avg": "44.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/40",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "61",
+        "runs": "805",
+        "bat avg": "13.87",
+        "100s/50s": "0/4",
+        "top score": "67",
+        "deliveries": "9,918",
+        "wickets": "175",
+        "bowl avg": "23.76",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "8/54",
+        "catches/stumpings": "62/\u2013"
+    },
+    "clubs": {
+        "Services": "1949&ndash;1962",
+        "Mysore": "1951\u20131952",
+        "Hyderabad": "1953\u20131954"
+    },
+    "birth_date": "1929-6-8"
+}

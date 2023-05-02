@@ -1,0 +1,51 @@
+{
+    "name": "Lindsay Weir",
+    "fullname": "Gordon Lindsay Weir",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "2003",
+    "death_place": "Auckland, New Zealand",
+    "nickname": "Dad",
+    "internationalspan": "1930\u20131937",
+    "country": "New Zealand",
+    "testdebutagainst": "England",
+    "testdebutdate": "24 January",
+    "testdebutyear": "1930",
+    "testcap": "14",
+    "lasttestdate": "14 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1937",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38747.html Cricinfo ",
+    "Test": {
+        "matches": "11",
+        "runs": "416",
+        "bat avg": "29.71",
+        "100s/50s": "0/3",
+        "deliveries": "342",
+        "wickets": "7",
+        "bowl avg": "29.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/38",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "107",
+        "runs": "5,022",
+        "bat avg": "32.19",
+        "100s/50s": "10/26",
+        "top score": "191",
+        "deliveries": "9,395",
+        "wickets": "107",
+        "bowl avg": "37.35",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/56",
+        "catches/stumpings": "70/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1927/28\u20131946/47"
+    },
+    "birth_date": "1908-6-2"
+}

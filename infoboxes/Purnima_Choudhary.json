@@ -1,0 +1,33 @@
+{
+    "name": "Purnima Choudhary",
+    "female": "true",
+    "country": "India",
+    "fullname": "Purnima Choudhary",
+    "nickname": "Purni",
+    "birth_place": "Calcutta, India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "odidebutdate": "13 December",
+    "odidebutyear": "1997",
+    "odidebutagainst": "West Indies",
+    "odicap": "53",
+    "lastodidate": "24 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/10/10519/10519.html CricketArchive ",
+    "WODI": {
+        "matches": "5",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "deliveries": "150",
+        "wickets": "6",
+        "bowl avg": "10.66",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "5/21",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1971-10-15"
+}

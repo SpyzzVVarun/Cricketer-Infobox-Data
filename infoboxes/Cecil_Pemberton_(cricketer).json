@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "William Cecil Pemberton",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Leinster, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24489.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "55",
+        "bat avg": "13.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "666",
+        "wickets": "5",
+        "bowl avg": "52.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1923&ndash;1928"
+    }
+}

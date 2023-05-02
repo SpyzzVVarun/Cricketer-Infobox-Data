@@ -1,0 +1,21 @@
+{
+    "name": "Edmund Crosse",
+    "country": "England",
+    "fullname": "Edmund Mitchell Crosse",
+    "birth_place": "Camberwell, London, England",
+    "death_date": "28 June 1963 (aged 80)",
+    "death_place": "Putney, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/11452.html CricInfo ",
+    "First-class": {
+        "matches": "48",
+        "runs": "1,168",
+        "bat avg": "13.58",
+        "100s/50s": "0/3",
+        "top score": "65",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "1903\u20131910"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Austin Matthews",
+    "birth_place": "Penarth, Wales",
+    "death_date": "df=y",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "England",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "14 August",
+    "testdebutyear": "1937",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/16942.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "180",
+        "wickets": "2",
+        "bowl avg": "32.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/13",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "281",
+        "runs": "5,919",
+        "bat avg": "15.70",
+        "100s/50s": "2/14",
+        "top score": "116",
+        "deliveries": "47,983",
+        "wickets": "816",
+        "bowl avg": "23.40",
+        "fivefor": "45",
+        "tenfor": "6",
+        "best bowling": "7/12",
+        "catches/stumpings": "124/\u2013"
+    },
+    "clubs": {}
+}

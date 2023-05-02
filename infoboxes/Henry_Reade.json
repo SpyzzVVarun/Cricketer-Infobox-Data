@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Henry St John Reade",
+    "birth_place": "Streatley, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Shepherd's Bush, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19949.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "166",
+        "bat avg": "16.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "49",
+        "deliveries": "316",
+        "wickets": "13",
+        "bowl avg": "11.69",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/22",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1861&ndash;1862"
+    }
+}

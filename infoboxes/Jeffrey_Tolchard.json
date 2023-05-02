@@ -1,0 +1,33 @@
+{
+    "name": "Jeffrey Tolchard",
+    "country": "England",
+    "fullname": "Jeffrey Graham Tolchard",
+    "birth_place": "Torquay, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Occasional wicket-keeper",
+    "family": "Roger Tolchard (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/21875.html Cricinfo ",
+    "First-class": {
+        "matches": "78",
+        "runs": "1,865",
+        "bat avg": "20.27",
+        "100s/50s": "0/9",
+        "top score": "78",
+        "catches/stumpings": "24/\u2013"
+    },
+    "List A": {
+        "matches": "57",
+        "runs": "657",
+        "bat avg": "19.32",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Devon": "1979\u20131983",
+        "Leicestershire": "1970\u20131977",
+        "Minor Counties": "1980\u20131983"
+    },
+    "birth_date": "1944-3-7"
+}

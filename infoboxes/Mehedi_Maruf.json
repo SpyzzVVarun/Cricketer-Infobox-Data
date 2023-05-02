@@ -1,0 +1,45 @@
+{
+    "name": "Mehedi Maruf",
+    "country": "Bangladesh",
+    "fullname": "Mehedi Hasan Siddiqui Maruf",
+    "birth_place": "Tangail, Bangladesh",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Batsman",
+    "source": "year6=2023",
+    "FC": {
+        "matches": "15",
+        "runs": "599",
+        "bat avg": "22.18",
+        "100s/50s": "2/-",
+        "top score": "141",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "17/-"
+    },
+    "LA": {
+        "matches": "31",
+        "runs": "994",
+        "bat avg": "33.13",
+        "100s/50s": "2/6",
+        "deliveries": "-",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "25/-"
+    },
+    "clubs": {
+        "Abahani Limited": "",
+        "Barisal Division": "",
+        "Prime Bank": "",
+        "Dhaka Dynamites": "2016-2018",
+        "Rangpur Riders": "2019"
+    },
+    "birth_date": "1988-04-04"
+}

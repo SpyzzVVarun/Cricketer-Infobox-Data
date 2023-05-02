@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Douglas Monro Fyfe",
+    "birth_place": "Tanjore, Madras Presidency,, British India",
+    "death_date": "1871",
+    "death_place": "Westminster, London, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/13229.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "60",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1866&ndash;1869"
+    }
+}

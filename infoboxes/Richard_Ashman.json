@@ -1,0 +1,37 @@
+{
+    "name": "Richard Ashman",
+    "country": "South Africa",
+    "fullname": "Richard Gerald Alfred Ashman",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=yes",
+    "death_place": "Bloemfontein, South Africa",
+    "role": "Umpire",
+    "type1": "FC",
+    "debutdate1": "21 December",
+    "debutyear1": "1931",
+    "debutfor1": "Orange Free State",
+    "debutagainst1": "Rhodesia",
+    "lastdate1": "16 December",
+    "lastyear1": "1932",
+    "lastfor1": "Orange Free State",
+    "lastagainst1": "Griqualand West",
+    "umpire": "true",
+    "testsumpired": "14",
+    "umptestdebutyr": "1935",
+    "umptestlastyr": "1949",
+    "fcumpired": "24",
+    "umpfcdebutyr": "1931",
+    "umpfclastyr": "1949",
+    "source": "http://www.espncricinfo.com/ci/content/player/44003.html CricInfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "29",
+        "bat avg": "5.80",
+        "100s/50s": "0/0",
+        "catches/stumpings": "8/2"
+    },
+    "clubs": {
+        "Orange Free State": "1931\u20131932"
+    },
+    "birth_date": "1899-11-24"
+}

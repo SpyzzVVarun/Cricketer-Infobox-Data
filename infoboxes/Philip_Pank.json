@@ -1,0 +1,40 @@
+{
+    "name": "Philip Pank",
+    "country": "England",
+    "fullname": "Philip Esmond Durrell Pank",
+    "birth_place": "Jaypore, Rajasthan, India",
+    "death_date": "1966",
+    "death_place": "Colchester, Essex, England",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "9 September",
+    "debutyear1": "1918",
+    "debutfor1": "Europeans (India)",
+    "debutagainst1": "Hindus",
+    "lastdate1": "3 June",
+    "lastyear1": "1925",
+    "lastfor1": "Army",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/14/14259/14259.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "79",
+        "bat avg": "13.16",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "217",
+        "wickets": "9",
+        "bowl avg": "12.55",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/12",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Army": "1925",
+        "England": "1918",
+        "Europeans (India)": "1918"
+    },
+    "birth_date": "1892-4-22"
+}

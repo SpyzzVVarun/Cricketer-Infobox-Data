@@ -1,0 +1,29 @@
+{
+    "name": "Bruce Massey",
+    "country": "New Zealand",
+    "fullname": "Harold Bruce Massey",
+    "birth_place": "Gisborne, New Zealand",
+    "death_date": "1994",
+    "death_place": "Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/22/22395/22395.html CricketArchive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "331",
+        "bat avg": "22.06",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "deliveries": "2504",
+        "wickets": "32",
+        "bowl avg": "32.18",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/56",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1926-27 to 1932-33"
+    },
+    "birth_date": "1906-4-13"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Richard Sladdin",
+    "fullname": "Richard William Sladdin",
+    "birth_place": "Halifax, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/4/4641/4641.html CricketArchive ",
+    "FC": {
+        "matches": "34",
+        "runs": "372",
+        "bat avg": "11.27",
+        "100s/50s": "0/1",
+        "deliveries": "8090",
+        "wickets": "99",
+        "bowl avg": "39.49",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/58",
+        "catches/stumpings": "15/&ndash;"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "456",
+        "wickets": "8",
+        "bowl avg": "47.25",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/26",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Derbyshire": "1991&ndash;1994",
+        "Somerset": "1997"
+    },
+    "birth_date": "1969-1-8"
+}

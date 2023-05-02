@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Richard Lynch",
+    "birth_place": "Banbury, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/16837.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "60",
+        "bat avg": "30.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "39",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "90.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/49",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Oxfordshire": "2002&ndash;2005"
+    },
+    "birth_date": "1967-3-26"
+}

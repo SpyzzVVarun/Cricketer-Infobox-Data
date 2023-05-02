@@ -1,0 +1,46 @@
+{
+    "name": "Ria Fackrell",
+    "female": "true",
+    "fullname": "Ria Ashleigh Fackrell",
+    "birth_place": "Coventry, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1307/1307862/1307862.html CricketArchive",
+    "WLA": {
+        "matches": "23",
+        "runs": "260",
+        "bat avg": "13.00",
+        "100s/50s": "0/1",
+        "deliveries": "384",
+        "wickets": "13",
+        "bowl avg": "26.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/34",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "44",
+        "runs": "419",
+        "bat avg": "14.44",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "263",
+        "wickets": "7",
+        "bowl avg": "37.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/27",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "2017\u2013present",
+        "\u2192 Shropshire (on loan)": "2017",
+        "Lancashire Thunder": "2019",
+        "Lightning": "2020",
+        "Central Sparks": "2021\u2013present",
+        "Birmingham Phoenix": "2021\u2013present"
+    },
+    "birth_date": "1999-9-16"
+}

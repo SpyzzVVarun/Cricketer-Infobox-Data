@@ -1,0 +1,29 @@
+{
+    "name": "Jack Ledward",
+    "fullname": "John Allan Ledward",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "1997",
+    "death_place": "Melbourne, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/australia/content/player/6362.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "1252",
+        "bat avg": "39.12",
+        "100s/50s": "2/6",
+        "top score": "154",
+        "deliveries": "256",
+        "wickets": "1",
+        "bowl avg": "116.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Victoria": "1935-1939"
+    },
+    "birth_date": "1909-4-22"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "William Richard Brann",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "23 December",
+    "testdebutyear": "1922",
+    "lasttestdate": "18 January",
+    "lasttestagainst": "England",
+    "lasttestyear": "1923",
+    "source": "https://cricketarchive.com/Archive/Players/0/415/415.html CricketArchive",
+    "Test": {
+        "matches": "3",
+        "runs": "71",
+        "bat avg": "14.19",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "25",
+        "runs": "1,045",
+        "bat avg": "22.23",
+        "100s/50s": "0/8",
+        "top score": "97",
+        "deliveries": "195",
+        "wickets": "4",
+        "bowl avg": "35.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Peg Batty",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1949\u20131954",
+    "fullname": "Kathleen Elaine Batty",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "2008",
+    "death_place": "North Shore, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "testdebutdate": "26 March",
+    "testdebutyear": "1949",
+    "testdebutagainst": "England",
+    "testcap": "23",
+    "lasttestdate": "24 July",
+    "lasttestyear": "1954",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17232/17232.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "67",
+        "bat avg": "11.16",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "198",
+        "wickets": "2",
+        "bowl avg": "39.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/18",
+        "catches/stumpings": "6/\u2013"
+    },
+    "WFC": {
+        "matches": "32",
+        "runs": "742",
+        "bat avg": "17.66",
+        "100s/50s": "0/3",
+        "top score": "65",
+        "deliveries": "3,422",
+        "wickets": "89",
+        "bowl avg": "14.61",
+        "fivefor": "6",
+        "tenfor": "2",
+        "best bowling": "6/17",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1939/40\u20131954/55"
+    },
+    "birth_date": "1920-12-15"
+}

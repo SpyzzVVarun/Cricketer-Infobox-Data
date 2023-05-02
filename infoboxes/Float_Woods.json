@@ -1,0 +1,26 @@
+{
+    "country": "West Indies",
+    "fullname": "Joseph 'Float' Woods",
+    "birth_place": "Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/24/24313/24313.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "155",
+        "bat avg": "11.07",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "deliveries": "3,320",
+        "wickets": "107",
+        "bowl avg": "11.57",
+        "fivefor": "10",
+        "tenfor": "2",
+        "best bowling": "7/38",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "British Guiana": "1901/02\u20131904/05",
+        "Trinidad": "1893/94\u20131900/01"
+    }
+}

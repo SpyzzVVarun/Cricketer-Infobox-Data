@@ -1,0 +1,32 @@
+{
+    "name": "Jack Moroney",
+    "birth_place": "Macksville, New South Wales, Australia",
+    "death_date": "1 July 1999 (aged 81)",
+    "death_place": "Orange, New South Wales, Australia",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1949",
+    "lasttestdate": "31 December",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1951",
+    "source": "http://www.espncricinfo.com/australia/content/player/6639.html Cricinfo",
+    "Test": {
+        "matches": "7",
+        "runs": "383",
+        "bat avg": "34.81",
+        "100s/50s": "2/1",
+        "top score": "118",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "57",
+        "runs": "4,023",
+        "bat avg": "52.24",
+        "100s/50s": "12/22",
+        "top score": "217",
+        "catches/stumpings": "19/1"
+    },
+    "clubs": {}
+}

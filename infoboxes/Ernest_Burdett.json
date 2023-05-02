@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Ernest Wyndham Burdett",
+    "birth_place": "Roorkee, North-Western Provinces, , British India",
+    "death_date": "1962",
+    "death_place": "Monks Risborough, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/27083.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "49",
+        "bat avg": "12.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/2"
+    },
+    "clubs": {
+        "Hyderabad": "1932/33",
+        "Nizam's State Railway A": "1931/32",
+        "Devon": "1911"
+    },
+    "birth_date": "1887-9-5"
+}

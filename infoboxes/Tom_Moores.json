@@ -1,0 +1,52 @@
+{
+    "name": "Tom Moores",
+    "country": "England",
+    "fullname": "Thomas James Moores",
+    "birth_place": "Brighton, East Sussex, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "family": "Peter Moores (father)",
+    "type1": "First-class",
+    "debutdate1": "16 July",
+    "debutyear1": "2016",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Durham",
+    "type2": "List A",
+    "debutdate2": "26 July",
+    "debutyear2": "2016",
+    "debutfor2": "Lancashire",
+    "debutagainst2": "Leicestershire",
+    "source": "http://www.espncricinfo.com/england/content/player/788101.html CricInfo ",
+    "FC": {
+        "matches": "64",
+        "runs": "2,243",
+        "bat avg": "23.36",
+        "100s/50s": "2/6",
+        "top score": "106",
+        "catches/stumpings": "181/5"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "566",
+        "bat avg": "35.37",
+        "100s/50s": "0/5",
+        "top score": "76",
+        "catches/stumpings": "18/5"
+    },
+    "T20": {
+        "matches": "112",
+        "runs": "1,700",
+        "bat avg": "22.97",
+        "100s/50s": "0/6",
+        "catches/stumpings": "61/21"
+    },
+    "clubs": {
+        "Nottinghamshire( 23 )": "2014\u2013present",
+        "\u2192 Lancashire (on loan)": "2016",
+        "Jaffna Stallions": "2020",
+        "Kandy Warriors": "2021",
+        "Trent Rockets": "2021",
+        "Sylhet Strikers": "2023\u2013present"
+    },
+    "birth_date": "1996-9-4"
+}

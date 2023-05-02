@@ -1,0 +1,47 @@
+{
+    "name": "Tom Bevan",
+    "full_name": "Thomas Rhys Bevan",
+    "birth_place": "Cardiff, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "Batter",
+    "type1": "FC",
+    "debutdate1": "20 September",
+    "debutyear1": "2022",
+    "debutfor1": "Glamorgan",
+    "debutagainst1": "Derbyshire",
+    "type2": "LA",
+    "debutdate2": "14 August",
+    "debutyear2": "2022",
+    "debutfor2": "Glamorgan",
+    "debutagainst2": "Essex",
+    "source": "https://www.espncricinfo.com/player/thomas-bevan-1104894 ESPNcricinfo",
+    "FC": {
+        "matches": "1",
+        "runs": "48",
+        "bat avg": "48.00",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "158",
+        "bat avg": "39.50",
+        "100s/50s": "1/0",
+        "top score": "134",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Glamorgan( 13 )": "2022\u2013present"
+    },
+    "birth_date": "1999-9-9"
+}

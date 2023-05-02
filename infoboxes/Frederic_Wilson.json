@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Frederic Bonhote Wilson",
+    "birth_place": "Bayswater, Middlesex, England",
+    "death_date": "1932",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/23059.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "1,130",
+        "bat avg": "26.90",
+        "100s/50s": "\u2013/8",
+        "top score": "76",
+        "deliveries": "268",
+        "wickets": "4",
+        "bowl avg": "45.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/64",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1902&ndash;1904"
+    }
+}

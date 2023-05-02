@@ -1,0 +1,25 @@
+{
+    "country": "Netherlands",
+    "fullname": "Ben D. Goedegebuur",
+    "birth_place": "Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/25010.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "198",
+        "wickets": "4",
+        "bowl avg": "45.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/31",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Netherlands": "2000"
+    },
+    "birth_date": "1979-5-29"
+}

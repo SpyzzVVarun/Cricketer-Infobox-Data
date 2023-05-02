@@ -1,0 +1,18 @@
+{
+    "country": "England",
+    "fullname": "John Baskervyle-Glegg",
+    "birth_place": "Windsor, Berkshire, England",
+    "death_date": "df=y",
+    "death_place": "Somerset, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/9586.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "43",
+        "bat avg": "21.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

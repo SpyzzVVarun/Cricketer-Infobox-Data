@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Ernest Leith Tomkins",
+    "birth_place": "Rangoon, British Burma",
+    "death_date": "df=yes",
+    "death_place": "Dieppe, Normandy, France",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/ernest-tomkins-35376 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "67",
+        "bat avg": "22.33",
+        "100s/50s": "\u2013/1",
+        "top score": "65",
+        "catches/stumpings": "3/2"
+    },
+    "clubs": {
+        "Europeans": "1899/00\u20131900/01"
+    }
+}

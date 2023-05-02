@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Richard Ian Trotman",
+    "birth_place": "Keynsham, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/21591.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "48",
+        "wickets": "2",
+        "bowl avg": "15.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/30",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Somerset Cricket Board": "1999"
+    },
+    "birth_date": "1972-1-8"
+}

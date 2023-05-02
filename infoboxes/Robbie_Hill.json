@@ -1,0 +1,40 @@
+{
+    "name": "Robbie Hill",
+    "fullname": "Robert John Hill",
+    "birth_place": "Gore, New Zealand",
+    "family": "John Hill (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "https://www.espncricinfo.com/player/robert-hill-37399 ESPNcricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "93",
+        "bat avg": "9.30",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "644",
+        "wickets": "7",
+        "bowl avg": "35.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/55",
+        "catches/stumpings": "5/0"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "deliveries": "171",
+        "wickets": "5",
+        "bowl avg": "28.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/23",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Otago": "1976\u201377 to 1989\u201390"
+    },
+    "birth_date": "1954-2-1"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Puja Chakraborty",
+    "female": "true",
+    "fullname": "Puja Chakraborty",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "internationalspan": "2019",
+    "country": "Bangladesh",
+    "oneT20I": "true",
+    "T20Idebutdate": "5 December",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Maldives",
+    "T20Icap": "31",
+    "source": "https://www.espncricinfo.com/player/puja-chakraborty-1208916 CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "12",
+        "wickets": "1",
+        "bowl avg": "1.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Barisal Division": "2017"
+    },
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

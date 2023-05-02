@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Henry George John Veitch",
+    "birth_place": "Sopley, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Sanquhar, Dumfriesshire, Scotland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22240.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "177",
+        "bat avg": "16.09",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "203",
+        "wickets": "7",
+        "bowl avg": "14.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/?",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1854&ndash;1856",
+        "Marylebone Cricket Club": "1856"
+    }
+}

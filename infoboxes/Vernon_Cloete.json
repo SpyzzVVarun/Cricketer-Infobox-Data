@@ -1,0 +1,41 @@
+{
+    "country": "Namibia",
+    "fullname": "Vernon Ricardo Cloete",
+    "birth_place": "Rehoboth, Hardap, Namibia",
+    "nickname": "verney",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/539474.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "30",
+        "bat avg": "3.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "400",
+        "wickets": "5",
+        "bowl avg": "61.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/76",
+        "catches/stumpings": "4/\u2013"
+    },
+    "Twenty20": {
+        "matches": "6",
+        "runs": "35",
+        "bat avg": "8.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "54",
+        "wickets": "5",
+        "bowl avg": "17.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/23",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Namibia": "2011/12&ndash;2014/15"
+    },
+    "birth_date": "1985-9-20"
+}

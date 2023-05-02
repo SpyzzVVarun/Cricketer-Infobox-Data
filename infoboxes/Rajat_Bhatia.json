@@ -1,0 +1,58 @@
+{
+    "name": "Rajat Bhatia",
+    "country": "India",
+    "birth_place": "Delhi, India",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium-fast",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/26907.html Cricinfo ",
+    "FC": {
+        "matches": "112",
+        "runs": "6,482",
+        "bat avg": "49.10",
+        "100s/50s": "17/30",
+        "deliveries": "9,989",
+        "wickets": "137",
+        "bowl avg": "27.97",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/29",
+        "catches/stumpings": "41/\u2013"
+    },
+    "LA": {
+        "matches": "119",
+        "runs": "3,038",
+        "bat avg": "41.05",
+        "100s/50s": "3/19",
+        "deliveries": "3,931",
+        "wickets": "93",
+        "bowl avg": "31.66",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/17",
+        "catches/stumpings": "45/\u2013"
+    },
+    "T20": {
+        "matches": "146",
+        "runs": "1,251",
+        "bat avg": "21.56",
+        "100s/50s": "1/1",
+        "deliveries": "2,520",
+        "wickets": "111",
+        "bowl avg": "27.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/15",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {
+        "Tamil Nadu": "1999/00\u20132005/06",
+        "Delhi": "2005/06\u20132015",
+        "Delhi Daredevils": "2008\u20132010",
+        "Kolkata Knight Riders": "2011\u20132013",
+        "Rajasthan Royals": "2014\u20132015",
+        "Rising Pune Supergiants( 29 )": "2016\u20132017",
+        "Uttarakhand": "2018\u20132019"
+    },
+    "birth_date": "1979-10-22"
+}

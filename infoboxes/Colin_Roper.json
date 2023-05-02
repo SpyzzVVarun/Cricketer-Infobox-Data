@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Colin Roper",
+    "birth_place": "Litton Cheney, Dorset, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricinfo.com/ci/content/player/19472.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1957",
+        "Dorset": "1959&ndash;1969"
+    },
+    "birth_date": "1936-7-25"
+}

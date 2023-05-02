@@ -1,0 +1,32 @@
+{
+    "name": "Thomas Gregg",
+    "fullname": "Thomas Gregg",
+    "birth_place": "Wilford, Nottinghamshire",
+    "death_date": "df=yes",
+    "death_place": "Wotton Vill, Gloucestershire",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/3/3581/3581.html CricketArchive",
+    "First-class": {
+        "matches": "35",
+        "runs": "494",
+        "bat avg": "8.98",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "3,575",
+        "wickets": "55",
+        "bowl avg": "28.00",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/47",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1883",
+        "Gloucestershire": "1884\u201389"
+    },
+    "birth_date": "1859-04-18"
+}

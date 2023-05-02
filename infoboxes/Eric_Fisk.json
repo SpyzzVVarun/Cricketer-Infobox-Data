@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Eric Fisk",
+    "birth_place": "East Ardsley, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/13069.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "37",
+        "bat avg": "7.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "289",
+        "wickets": "2",
+        "bowl avg": "61.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/19",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1931-3-27"
+}

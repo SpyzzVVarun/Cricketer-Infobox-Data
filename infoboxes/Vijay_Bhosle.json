@@ -1,0 +1,29 @@
+{
+    "name": "Vijay Bhosle",
+    "fullname": "Vijay Hanumantrao Bhosle",
+    "country": "India",
+    "birth_place": "Sangli, Bombay Presidency, British India",
+    "batting": "Right-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "source": "https://cricketarchive.com/Archive/Players/38/38400.html CricketArchive",
+    "First-class": {
+        "matches": "110",
+        "runs": "5,729",
+        "bat avg": "41.81",
+        "100s/50s": "17/29",
+        "top score": "208",
+        "deliveries": "3,132",
+        "wickets": "58",
+        "bowl avg": "30.46",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/77",
+        "catches/stumpings": "54/1"
+    },
+    "clubs": {
+        "Maharashtra": "1955-56 to 1966-67",
+        "Baroda": "1957-58 to 1958-59",
+        "Bombay": "1967-68 to 1970-71"
+    },
+    "birth_date": "1937-10-1"
+}

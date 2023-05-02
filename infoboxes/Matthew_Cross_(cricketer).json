@@ -1,0 +1,61 @@
+{
+    "name": "Matty Cross",
+    "country": "Scotland",
+    "fullname": "Matthew Henry Cross",
+    "birth_place": "Aberdeen, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2013\u2013present",
+    "odidebutdate": "23 January",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Canada",
+    "odicap": "55",
+    "lastodidate": "4 December",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Nepal",
+    "T20Idebutdate": "4 July",
+    "T20Idebutyear": "2013",
+    "T20Idebutagainst": "Kenya",
+    "T20Icap": "34",
+    "lastT20Idate": "21 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Zimbabwe",
+    "source": "http://espncricinfo.com/scotland/content/player/417268.html Cricinfo  ",
+    "ODI": {
+        "matches": "83",
+        "runs": "1,778",
+        "bat avg": "23.70",
+        "100s/50s": "2/9",
+        "top score": "114",
+        "catches/stumpings": "114/7"
+    },
+    "T20I": {
+        "matches": "61",
+        "runs": "993",
+        "bat avg": "22.56",
+        "100s/50s": "0/5",
+        "catches/stumpings": "35/15"
+    },
+    "FC": {
+        "matches": "9",
+        "runs": "161",
+        "bat avg": "14.63",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "21/0"
+    },
+    "LA": {
+        "matches": "102",
+        "runs": "2,216",
+        "bat avg": "24.35",
+        "100s/50s": "2/12",
+        "top score": "114",
+        "catches/stumpings": "130/14"
+    },
+    "clubs": {
+        "Nottinghamshire": "2013\u20132014",
+        "Loughborough MCCU": "2013",
+        "Essex": "2016"
+    },
+    "birth_date": "1992-10-15"
+}

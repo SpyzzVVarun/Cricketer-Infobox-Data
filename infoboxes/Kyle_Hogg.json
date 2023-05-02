@@ -1,0 +1,60 @@
+{
+    "name": "Kyle Hogg",
+    "country": "England",
+    "fullname": "Kyle William Hogg",
+    "nickname": "Boss, Hoggy",
+    "birth_place": "Birmingham, West Midlands, England",
+    "height": "193 cm",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All rounder",
+    "source": "https://www.espncricinfo.com/cricketers/kyle-hogg-15099 ESPNcricinfo ",
+    "FC": {
+        "matches": "114",
+        "runs": "2,708",
+        "bat avg": "23.34",
+        "100s/50s": "0/16",
+        "top score": "88",
+        "deliveries": "15,968",
+        "wickets": "280",
+        "bowl avg": "28.22",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "7/27",
+        "catches/stumpings": "21/\u2013"
+    },
+    "LA": {
+        "matches": "140",
+        "runs": "967",
+        "bat avg": "15.85",
+        "100s/50s": "0/1",
+        "deliveries": "5,334",
+        "wickets": "141",
+        "bowl avg": "30.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/20",
+        "catches/stumpings": "24/\u2013"
+    },
+    "T20": {
+        "matches": "28",
+        "runs": "226",
+        "bat avg": "16.14",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "378",
+        "wickets": "16",
+        "bowl avg": "35.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2001\u20132014",
+        "Otago": "2006/07",
+        "\u2192 Worcestershire  (on loan)": "2007",
+        "\u2192 Nottinghamshire  (on loan)": "2007"
+    },
+    "birth_date": "1983-07-02"
+}

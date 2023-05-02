@@ -1,0 +1,30 @@
+{
+    "name": "David Gray",
+    "fullname": "David Anthony Athelstan Gray",
+    "birth_place": "Kensington, London, England",
+    "death_date": "2003",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/13438.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "22",
+        "bat avg": "4.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "482",
+        "wickets": "3",
+        "bowl avg": "60.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/67",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1947",
+        "Essex": "1947"
+    },
+    "birth_date": "1922-6-19"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Mike Frost",
+    "fullname": "Michael Frost",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1218283.html Cricinfo ",
+    "List A": {
+        "matches": "9",
+        "runs": "7",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "462",
+        "wickets": "18",
+        "bowl avg": "20.55",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/42",
+        "catches/stumpings": "3/\u2013"
+    },
+    "Twenty20": {
+        "matches": "11",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "216",
+        "wickets": "9",
+        "bowl avg": "29.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Munster Reds": "2021\u20132022"
+    },
+    "birth_date": "2001-5-29"
+}

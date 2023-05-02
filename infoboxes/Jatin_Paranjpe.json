@@ -1,0 +1,32 @@
+{
+    "name": "Jatin Paranjpe",
+    "fullname": "Jatin Vasudeo Paranjape",
+    "country": "India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/india/content/player/32192.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "4",
+        "runs": "54",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "62",
+        "runs": "3,964",
+        "bat avg": "46.09",
+        "100s/50s": "13/15",
+        "top score": "218",
+        "catches/stumpings": "54/\u2013"
+    },
+    "LA": {
+        "matches": "44",
+        "runs": "1,040",
+        "bat avg": "35.86",
+        "100s/50s": "2/3",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {}
+}

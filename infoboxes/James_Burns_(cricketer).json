@@ -1,0 +1,27 @@
+{
+    "name": "James Burns",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1957",
+    "death_place": "Hampstead, London, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/9303.html Cricinfo ",
+    "FC": {
+        "matches": "41",
+        "runs": "1134",
+        "bat avg": "17.18",
+        "100s/50s": "1/-",
+        "top score": "114",
+        "deliveries": "894",
+        "wickets": "15",
+        "bowl avg": "30.66",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/41",
+        "catches/stumpings": "15/0"
+    },
+    "clubs": {
+        "Essex": "1890\u20131901"
+    },
+    "birth_date": "1866-6-20"
+}

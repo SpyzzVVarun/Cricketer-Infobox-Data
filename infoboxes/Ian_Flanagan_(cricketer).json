@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Ian Nicholas Flanagan",
+    "birth_place": "Colchester, Essex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/12847.html Cricinfo ",
+    "FC": {
+        "matches": "18",
+        "runs": "580",
+        "bat avg": "18.70",
+        "100s/50s": "\u2013/3",
+        "top score": "61",
+        "deliveries": "93",
+        "wickets": "1",
+        "bowl avg": "51.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/50",
+        "catches/stumpings": "19/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "86",
+        "bat avg": "28.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "48",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "2002-2006",
+        "Essex Cricket Board": "2001",
+        "Essex": "1997-2000"
+    },
+    "birth_date": "1980-6-5"
+}

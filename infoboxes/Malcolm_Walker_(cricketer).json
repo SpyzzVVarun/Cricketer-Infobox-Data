@@ -1,0 +1,38 @@
+{
+    "name": "Malcolm Walker",
+    "country": "England",
+    "birth_place": "Mexborough, Yorkshire, England",
+    "death_date": "1986",
+    "death_place": "Retford, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "All-rounder",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1952",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Indians",
+    "lastdate1": "23 May",
+    "lastyear1": "1958",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3875/3875.html CricketArchive ",
+    "First-class": {
+        "matches": "29",
+        "runs": "574",
+        "bat avg": "11.71",
+        "100s/50s": "1/1",
+        "top score": "100",
+        "deliveries": "1,542",
+        "wickets": "28",
+        "bowl avg": "34.85",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/45",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1952\u20131958"
+    },
+    "birth_date": "1933-10-14"
+}

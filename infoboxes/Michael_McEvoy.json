@@ -1,0 +1,42 @@
+{
+    "name": "Michael McEvoy",
+    "country": "England",
+    "fullname": "Michael Stephen Anthony McEvoy",
+    "birth_place": "Jorhat, Assam, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "year4": "1985\u20131990",
+    "source": "https://cricketarchive.com/Archive/Players/4/4948/4948.html CricketArchive ",
+    "FC": {
+        "matches": "69",
+        "runs": "2,128",
+        "bat avg": "19.17",
+        "100s/50s": "1/10",
+        "top score": "103",
+        "deliveries": "180",
+        "wickets": "3",
+        "bowl avg": "34.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/20",
+        "catches/stumpings": "70/0"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "514",
+        "bat avg": "22.34",
+        "100s/50s": "0/3",
+        "top score": "61",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Essex": "1976\u20131981 |club2 = Cambridgeshire |year2 = 1982 |club3 = Worcestershire |year3 = 1983\u20131984 |club4 = Suffolk"
+    },
+    "birth_date": "1956-1-25"
+}

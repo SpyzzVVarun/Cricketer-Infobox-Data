@@ -1,0 +1,27 @@
+{
+    "name": "Robert Paterson",
+    "fullname": "Robert Fraser Troutbeck Paterson",
+    "birth_place": "Stansted, Essex, England",
+    "death_date": "1980",
+    "death_place": "Edinburgh, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/england/content/player/18462.html Cricinfo ",
+    "FC": {
+        "matches": "28",
+        "runs": "884",
+        "bat avg": "22.10",
+        "100s/50s": "0/6",
+        "top score": "88",
+        "wickets": "13",
+        "bowl avg": "35.69",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/98",
+        "catches/stumpings": "16/3"
+    },
+    "clubs": {
+        "Essex": "1946\u20131958"
+    },
+    "birth_date": "1916-9-8"
+}

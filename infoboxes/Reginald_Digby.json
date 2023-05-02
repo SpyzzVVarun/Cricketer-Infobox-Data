@@ -1,0 +1,21 @@
+{
+    "name": "Reginald Digby",
+    "country": "England",
+    "birth_place": "Tittleshall, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Colehill, Dorset, England",
+    "family": "Kenelm Digby (brother), Cyril Buxton (nephew), Arthur Watson (nephew), Hubert Watson (nephew)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12172.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "429",
+        "bat avg": "18.65",
+        "100s/50s": "\u2013/1",
+        "top score": "88",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1867&ndash;1869"
+    }
+}

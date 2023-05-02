@@ -1,0 +1,46 @@
+{
+    "name": "Rashmi Parida",
+    "country": "India",
+    "fullname": "Rashmi Ranjan Parida",
+    "birth_place": "Bhubaneswar, Odisha, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/india/content/player/32197.html Cricinfo ",
+    "FC": {
+        "matches": "130",
+        "runs": "8,005",
+        "bat avg": "42.80",
+        "100s/50s": "16/47",
+        "top score": "220",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "110/-"
+    },
+    "LA": {
+        "matches": "65",
+        "runs": "2050",
+        "bat avg": "37.96",
+        "100s/50s": "2/15",
+        "top score": "122",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "25/-"
+    },
+    "clubs": {
+        "Odisha": "1994\u20132008",
+        "Assam": "2008\u20132009",
+        "Rajasthan": "2010\u20132013",
+        "Vidarbha": "2013-2014",
+        "Himachal Pradesh": "2014-2015"
+    },
+    "birth_date": "1977-07-07"
+}

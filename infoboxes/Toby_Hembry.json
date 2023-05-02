@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Tobias Digby Charles Hembry",
+    "birth_place": "Ipswich, Suffolk, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/15365.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "128",
+        "bat avg": "25.60",
+        "100s/50s": "\u2013/1",
+        "top score": "72",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge UCCE": "2004",
+        "Suffolk": "2004&ndash;2007"
+    },
+    "birth_date": "1983-11-16"
+}

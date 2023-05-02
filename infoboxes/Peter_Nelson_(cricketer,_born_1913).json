@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Peter Maurice Nelson",
+    "birth_place": "Bradfield, Berkshire, England",
+    "death_date": "1998",
+    "death_place": "Newbury, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/18090.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "62",
+        "bat avg": "62.00",
+        "100s/50s": "\u2013/1",
+        "top score": "62",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "63.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/63",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1931"
+    }
+}

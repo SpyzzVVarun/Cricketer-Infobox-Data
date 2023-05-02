@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Arthur Henry Faber",
+    "birth_place": "Fort St. George, Madras Presidency,, British India",
+    "death_date": "df=yes",
+    "death_place": "Warmsworth, Yorkshire, England",
+    "nickname": "St. Fabian",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13252.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "101",
+        "bat avg": "33.66",
+        "100s/50s": "1/\u2013",
+        "top score": "100",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1853"
+    }
+}

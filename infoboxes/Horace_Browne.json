@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Horace James Browne",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1896",
+    "death_place": "Byfleet, Surrey, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/10087.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "111",
+        "bat avg": "10.09",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1865&ndash;1869"
+    }
+}

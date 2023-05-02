@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Gregory Knight",
+    "birth_place": "Kilby, Leicestershire, England",
+    "death_date": "1898",
+    "death_place": "Leamington Spa, Warwickshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16147.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1853"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Uzma Gondal",
+    "female": "true",
+    "fullname": "Uzma Naseer Gondal",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "Pakistan",
+    "internationalspan": "2000\u20132002",
+    "onetest": "true",
+    "testdebutdate": "30 July",
+    "testdebutyear": "2000",
+    "testdebutagainst": "Ireland",
+    "testcap": "13",
+    "odidebutdate": "23 July",
+    "odidebutyear": "2000",
+    "odidebutagainst": "Ireland",
+    "odicap": "25",
+    "lastodidate": "30 January",
+    "lastodiyear": "2002",
+    "lastodiagainst": "Sri Lanka",
+    "source": "https://cricketarchive.com/Archive/Players/17/17362/17362.html CricketArchive",
+    "WTest": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/1"
+    },
+    "WODI": {
+        "matches": "17",
+        "runs": "18",
+        "bat avg": "1.80",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "8/9"
+    },
+    "WLA": {
+        "matches": "20",
+        "runs": "32",
+        "bat avg": "2.46",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "9/9"
+    },
+    "clubs": {
+        "Sialkot": "2005/06"
+    },
+    "birth_date": "1978-01-01"
+}

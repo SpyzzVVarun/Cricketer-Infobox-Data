@@ -1,0 +1,27 @@
+{
+    "name": "Harry Smith",
+    "batting": "Right-handed",
+    "country": "England",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "23 June",
+    "testdebutyear": "1928",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/20251.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "402",
+        "runs": "13,413",
+        "bat avg": "22.35",
+        "100s/50s": "10/75",
+        "top score": "149",
+        "catches/stumpings": "457/265"
+    },
+    "clubs": {}
+}

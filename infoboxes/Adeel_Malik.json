@@ -1,0 +1,56 @@
+{
+    "name": "Adeel Malik",
+    "country": "Pakistan",
+    "birth_place": "Sialkot, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Leg Right-arm Leg break",
+    "family": "Shoaib Malik (brother)",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/39905.html Cricinfo ",
+    "FC": {
+        "matches": "17",
+        "runs": "534",
+        "bat avg": "18.41",
+        "100s/50s": "\u2013/3",
+        "top score": "79",
+        "deliveries": "791",
+        "wickets": "12",
+        "bowl avg": "47.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/39",
+        "catches/stumpings": "15/\u2013"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "677",
+        "bat avg": "32.23",
+        "100s/50s": "\u2013/4",
+        "top score": "70",
+        "deliveries": "1,200",
+        "wickets": "22",
+        "bowl avg": "46.95",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/39",
+        "catches/stumpings": "13/\u2013"
+    },
+    "T20": {
+        "matches": "49",
+        "runs": "352",
+        "bat avg": "15.30",
+        "100s/50s": "\u2013/1",
+        "deliveries": "680",
+        "wickets": "39",
+        "bowl avg": "19.17",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/15",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Essex": "2015",
+        "Sialkot Stallions": "2002&ndash;present",
+        "Pakistan International Airlines": "2005&ndash;present"
+    },
+    "birth_date": "1985-10-17"
+}

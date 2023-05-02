@@ -1,0 +1,42 @@
+{
+    "name": "Mohammad Ghazanfar",
+    "country": "Hong Kong",
+    "birth_place": "Islamabad,Pakistan",
+    "role": "Bowler",
+    "T20Idebutdate": "6 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nepal",
+    "T20Icap": "30",
+    "lastT20Idate": "2 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/633428.html Cricinfo ",
+    "T20I": {
+        "matches": "15",
+        "runs": "15",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "deliveries": "300",
+        "wickets": "14",
+        "bowl avg": "22.92",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/22",
+        "catches/stumpings": "2/-"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "deliveries": "395",
+        "wickets": "10",
+        "bowl avg": "33.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/30",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {},
+    "birth_date": "1994-12-28"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Bill Proud",
+    "country": "England",
+    "fullname": "Roland Barton Proud",
+    "birth_place": "Bishop Auckland, County Durham, England",
+    "death_date": "1961",
+    "death_place": "Bishop Auckland, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/18634.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "681",
+        "bat avg": "21.28",
+        "100s/50s": "&ndash;/4",
+        "top score": "87",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1938&ndash;1939",
+        "Oxford University": "1939",
+        "Durham": "1946&ndash;1955",
+        "Minor Counties": "1950"
+    },
+    "birth_date": "1919-9-29"
+}

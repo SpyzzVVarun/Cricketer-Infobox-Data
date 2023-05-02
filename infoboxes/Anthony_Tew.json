@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Anthony Martin Tew",
+    "birth_place": "Wigginton, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Okus, Wiltshire, England",
+    "family": "John Tew (brother), Lord Hawke (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/21763.html Profile, espncricinfo.com ",
+    "First-class": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "264",
+        "wickets": "3",
+        "bowl avg": "73.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/80",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1928"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Roger Cox",
+    "country": "England",
+    "fullname": "Roger Cox",
+    "birth_place": "Luton, Bedfordshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11386.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "23",
+        "bat avg": "7.66",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1967\u20131975",
+        "Minor Counties": "1971"
+    },
+    "birth_date": "1947-4-27"
+}

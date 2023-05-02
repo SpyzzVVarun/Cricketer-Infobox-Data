@@ -1,0 +1,49 @@
+{
+    "name": "Bharat Chipli",
+    "country": "India",
+    "fullname": "Bharat Chipli",
+    "birth_place": "Sagara, Karnataka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "debutdate1": "23 November",
+    "debutyear1": "2005",
+    "debutfor1": "Karnataka",
+    "debutagainst1": "Railways",
+    "debutdate2": "28 April",
+    "debutyear2": "2008",
+    "debutfor2": "Bangalore Royal Challengers",
+    "source": "http://content-uk.cricinfo.com/india/content/player/27685.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "750",
+        "bat avg": "39.47",
+        "100s/50s": "2/3",
+        "deliveries": "126",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "20",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013"
+    },
+    "clubs": {
+        "Karnataka": "2006\u20132012",
+        "Royal Challengers Bangalore": "2008\u20132010",
+        "Deccan Chargers": "2011\u20132012",
+        "Delhi Daredevils( 25 )": "2013"
+    },
+    "birth_date": "1983-1-27"
+}

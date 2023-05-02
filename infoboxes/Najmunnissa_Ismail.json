@@ -1,0 +1,33 @@
+{
+    "name": "Najmunnissa Ismail",
+    "female": "true",
+    "fullname": "Najmunnissa Ismail",
+    "role": "Wicket-keeper",
+    "internationalspan": "1997",
+    "country": "Pakistan",
+    "odidebutdate": "28 January",
+    "odidebutyear": "1997",
+    "odidebutagainst": "New Zealand",
+    "odicap": "6",
+    "lastodidate": "29 January",
+    "lastodiyear": "1997",
+    "lastodiagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17349/17349.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/0"
+    },
+    "WLA": {
+        "matches": "3",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,20 @@
+{
+    "country": "South Africa",
+    "fullname": "Conan Doyle",
+    "birth_place": "Aberdeen, Cape Province,, South Africa",
+    "death_date": "1942",
+    "death_place": "El Alamein, Kingdom of Egypt",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/44906.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "41",
+        "bat avg": "10.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Orange Free State": "1937/38"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "James Bradshaw",
+    "country": "England",
+    "fullname": "James William Montgomery Bradshaw",
+    "birth_place": "Oakham, Rutland, England",
+    "death_date": "1938",
+    "death_place": "Oakham, Rutland, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm",
+    "family": "James Bradshaw (cousin), Walter Bradshaw (cousin)",
+    "source": "http://www.espncricinfo.com/ci/content/player/9942.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "95",
+        "bat avg": "31.66",
+        "100s/50s": "0/1",
+        "top score": "82",
+        "deliveries": "192",
+        "wickets": "1",
+        "bowl avg": "103.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1935\u20131938"
+    },
+    "birth_date": "1906-11-23"
+}

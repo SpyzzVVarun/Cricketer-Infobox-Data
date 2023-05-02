@@ -1,0 +1,29 @@
+{
+    "name": "Azmat Rana",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "death_date": "2015",
+    "death_place": "Lahore, Punjab, Pakistan",
+    "country": "Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "family": "Shafqat Rana (brother)",
+    "odicap": "28",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/39026.html CricInfo  ",
+    "Test": {
+        "matches": "1",
+        "runs": "49",
+        "bat avg": "49.00",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "42.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1951-11-3"
+}

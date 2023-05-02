@@ -1,0 +1,49 @@
+{
+    "name": "Jean Clark",
+    "female": "true",
+    "country": "England",
+    "fullname": "Jean Edith Clark",
+    "birth_place": "London, England",
+    "death_date": "df=yes",
+    "death_place": "City of London, England",
+    "role": "Bowler",
+    "internationalspan": "1968",
+    "onetest": "true",
+    "testdebutdate": "27 December",
+    "testdebutyear": "1968",
+    "testdebutagainst": "Australia",
+    "testcap": "71",
+    "source": "https://cricketarchive.com/Archive/Players/16/16988/16988.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "128",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "17",
+        "runs": "221",
+        "bat avg": "12.27",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "1,278",
+        "wickets": "9",
+        "bowl avg": "50.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1955\u20131968"
+    },
+    "birth_date": "1936-09-26"
+}

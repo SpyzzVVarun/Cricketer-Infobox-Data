@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harold Ben Fawcus",
+    "birth_place": "South Charlton, Northumberland, England",
+    "death_date": "df=y",
+    "death_place": "Hillingdon, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12978.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "276",
+        "bat avg": "18.40",
+        "100s/50s": "\u2013/1",
+        "top score": "56",
+        "deliveries": "1,579",
+        "wickets": "45",
+        "bowl avg": "13.75",
+        "fivefor": "3",
+        "tenfor": "2",
+        "best bowling": "7/19",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1898\u20131906",
+        "Orange Free State": "1910/11"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Digby Jepson",
+    "country": "England",
+    "fullname": "Digby Loder Armroid Jephson",
+    "birth_place": "Brixton, London, England",
+    "death_date": "19 January 1926 (aged 54)",
+    "death_place": "Cambridge, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/15684.html CricInfo ",
+    "First-class": {
+        "matches": "207",
+        "runs": "7,973",
+        "bat avg": "30.66",
+        "100s/50s": "11/40",
+        "top score": "213",
+        "deliveries": "14,263",
+        "wickets": "297",
+        "bowl avg": "25.10",
+        "fivefor": "14",
+        "tenfor": "2",
+        "best bowling": "7/51",
+        "catches/stumpings": "104/\u2013"
+    },
+    "clubs": {
+        "Cambridge University Cricket Club": "1890\u20131892",
+        "Surrey County Cricket Club": "1894\u20131904"
+    }
+}

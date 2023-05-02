@@ -1,0 +1,29 @@
+{
+    "name": "Frank Sibbles",
+    "country": "England",
+    "fullname": "Frank Marshall Sibbles",
+    "birth_place": "Werneth, Oldham, England",
+    "death_date": "1973",
+    "death_place": "Bramhall, Stockport, England",
+    "role": "Bowler",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://content-uk.cricinfo.com/england/content/player/20761.html Cricinfo ",
+    "First-class": {
+        "matches": "315",
+        "runs": "3,478",
+        "bat avg": "14.46",
+        "100s/50s": "0/12",
+        "deliveries": "21,087",
+        "wickets": "940",
+        "bowl avg": "22.43",
+        "fivefor": "41",
+        "tenfor": "4",
+        "best bowling": "8/24",
+        "catches/stumpings": "181/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1925&ndash;1937"
+    },
+    "birth_date": "1904-3-15"
+}

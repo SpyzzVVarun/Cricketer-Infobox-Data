@@ -1,0 +1,28 @@
+{
+    "name": "Peter Harvey",
+    "fullname": "Peter Fairfield Harvey",
+    "birth_place": "Linby, Nottinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Oadby, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://www.espncricinfo.com/player/peter-harvey-14610 Cricinfo ",
+    "First-class": {
+        "matches": "175",
+        "runs": "3645",
+        "bat avg": "18.40",
+        "100s/50s": "2/9",
+        "top score": "150",
+        "deliveries": "26,411",
+        "wickets": "335",
+        "bowl avg": "35.54",
+        "fivefor": "13",
+        "tenfor": "3",
+        "best bowling": "8/122",
+        "catches/stumpings": "116/0"
+    },
+    "clubs": {
+        "Nottinghamshire": "1947\u20131958"
+    },
+    "birth_date": "1923-1-15"
+}

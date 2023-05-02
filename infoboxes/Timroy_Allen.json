@@ -1,0 +1,49 @@
+{
+    "name": "Timroy Allen",
+    "fullname": "Timroy Patrick Allen",
+    "birth_place": "Westmoreland, Cornwall, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast-medium/ Right-arm Right-arm fast-medium/ Right-arm offbreak",
+    "country": "United States",
+    "T20Idebutdate": "18 August",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Bermuda",
+    "T20Icap": "12",
+    "lastT20Idate": "24 August",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Cayman Islands",
+    "source": "http://www.cricinfo.com/ci/content/player/378282.html Cricinfo ",
+    "LA": {
+        "matches": "15",
+        "runs": "270",
+        "bat avg": "22.50",
+        "100s/50s": "0/1",
+        "top score": "69",
+        "deliveries": "426",
+        "wickets": "8",
+        "bowl avg": "48.87",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/36",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "16",
+        "runs": "166",
+        "bat avg": "12.76",
+        "100s/50s": "0/1",
+        "deliveries": "150",
+        "wickets": "7",
+        "bowl avg": "35.14",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/27",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "USA": "2008-present",
+        "Jamaica Tallawahs": "2016-present",
+        "ICC Americas": "2015-present"
+    },
+    "birth_date": "1987-1-22"
+}

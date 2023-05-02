@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Gerald Charles Wilson",
+    "birth_place": "Hayes, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23067.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "378",
+        "wickets": "3",
+        "bowl avg": "70.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/85",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1957"
+    },
+    "birth_date": "1936-12-25"
+}

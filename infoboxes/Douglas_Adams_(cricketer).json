@@ -1,0 +1,26 @@
+{
+    "name": "Douglas Howe Adams",
+    "country": "United States",
+    "fullname": "Douglas Howe Adams",
+    "birth_place": "Cape May, New Jersey",
+    "death_date": "1931",
+    "death_place": "Somers Point, New Jersey",
+    "bowling": "Right arm medium Right arm medium pace",
+    "source": "http://www.espncricinfo.com/usa/content/player/25852.html ",
+    "First class": {
+        "matches": "4",
+        "runs": "101",
+        "bat avg": "14.42",
+        "100s/50s": "0/1",
+        "top score": "74",
+        "deliveries": "84",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/12",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {},
+    "birth_date": "1876-8-2"
+}

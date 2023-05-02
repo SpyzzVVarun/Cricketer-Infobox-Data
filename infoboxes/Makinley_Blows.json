@@ -1,0 +1,46 @@
+{
+    "name": "Makinley Blows",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Makinley Anne Blows",
+    "birth_place": "Broken Hill, New South Wales, Australia",
+    "nickname": "Makka",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1232/1232594/1232594.html CricketArchive",
+    "WLA": {
+        "matches": "27",
+        "runs": "502",
+        "bat avg": "29.52",
+        "100s/50s": "1/2",
+        "top score": "105",
+        "deliveries": "621",
+        "wickets": "13",
+        "bowl avg": "45.76",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/7",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WT20": {
+        "matches": "28",
+        "runs": "35",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "211",
+        "wickets": "8",
+        "bowl avg": "34.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2016/17\u2013present",
+        "Melbourne Stars": "2016/17\u20132018/19",
+        "Melbourne Renegades": "2019/20\u20132021/22"
+    },
+    "birth_date": "1997-12-12"
+}

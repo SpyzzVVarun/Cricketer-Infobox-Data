@@ -1,0 +1,29 @@
+{
+    "name": "Raymond Pitman",
+    "country": "England",
+    "fullname": "Raymond Walter Charles Pitman",
+    "birth_place": "Bartley, Hampshire, England",
+    "death_date": "1998",
+    "death_place": "Rhos-on-Sea, Denbighshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.cricinfo.com/ci/content/player/18546.html Cricinfo ",
+    "FC": {
+        "matches": "50",
+        "runs": "926",
+        "bat avg": "13.61",
+        "100s/50s": "&ndash;/1",
+        "top score": "77",
+        "deliveries": "95",
+        "wickets": "1",
+        "bowl avg": "68.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/4",
+        "catches/stumpings": "42/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1954&ndash;1959"
+    },
+    "birth_date": "1933-2-21"
+}

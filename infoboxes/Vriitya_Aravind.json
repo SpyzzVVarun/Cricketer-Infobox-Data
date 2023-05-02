@@ -1,0 +1,39 @@
+{
+    "name": "Vriitya Aravind",
+    "country": "United Arab Emirates",
+    "birth_place": "Chennai, Tamil Nadu, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsman",
+    "odidebutdate": "8 December",
+    "odidebutyear": "2019",
+    "odidebutagainst": "United States",
+    "odicap": "79",
+    "lastodidate": "1 May",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Nepal",
+    "T20Idebutdate": "23 February",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "Iran",
+    "T20Icap": "49",
+    "lastT20Iagainst": "Afghanistan",
+    "lastT20Idate": "19 February",
+    "lastT20Iyear": "2023",
+    "source": "http://www.espncricinfo.com/ci/content/player/1178586.html Cricinfo ",
+    "ODI": {
+        "matches": "26",
+        "runs": "836",
+        "bat avg": "34.83",
+        "100s/50s": "2/4",
+        "top score": "185",
+        "catches/stumpings": "25/3"
+    },
+    "T20I": {
+        "matches": "25",
+        "runs": "536",
+        "bat avg": "28.21",
+        "100s/50s": "0/3",
+        "catches/stumpings": "12/3"
+    },
+    "clubs": {},
+    "birth_date": "2002-6-11"
+}

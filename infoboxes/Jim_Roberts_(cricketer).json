@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "James Brown Roberts",
+    "birth_place": "Dundee, Angus, Scotland",
+    "death_date": "2021",
+    "death_place": "Strathaven, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/james-roberts-25333 Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "154",
+        "bat avg": "12.83",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,119",
+        "wickets": "13",
+        "bowl avg": "33.38",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/70",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1956&ndash;1959"
+    }
+}

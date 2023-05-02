@@ -1,0 +1,27 @@
+{
+    "name": "Sidney Kitcat",
+    "fullname": "Sidney Austyn Paul Kitcat",
+    "birth_place": "Tetbury, Gloucestershire",
+    "death_date": "1942",
+    "death_place": "Esher, Surrey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/england/content/player/16072.html Cricinfo ",
+    "First-class": {
+        "matches": "54",
+        "runs": "1899",
+        "bat avg": "21.82",
+        "100s/50s": "0/10",
+        "deliveries": "725",
+        "wickets": "14",
+        "bowl avg": "34.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/0",
+        "catches/stumpings": "38/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1890-1904"
+    },
+    "birth_date": "1868-7-20"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Mugdha Joshi",
+    "female": "true",
+    "country": "India",
+    "fullname": "Mugdha Vilas Joshi",
+    "birth_place": "Ahmednagar, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/895/895424/895424.html CricketArchive",
+    "WFC": {
+        "matches": "11",
+        "runs": "424",
+        "bat avg": "26.50",
+        "100s/50s": "0/3",
+        "top score": "73",
+        "deliveries": "16",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "WLA": {
+        "matches": "47",
+        "runs": "648",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "WT20": {
+        "matches": "35",
+        "runs": "346",
+        "bat avg": "18.21",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Mumbai": "2012/13\u20132019/20",
+        "Pondicherry": "2020/21\u2013present"
+    },
+    "birth_date": "1993-11-10"
+}

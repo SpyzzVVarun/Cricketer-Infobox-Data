@@ -1,0 +1,53 @@
+{
+    "name": "Frank Sugg",
+    "country": "England",
+    "fullname": "Frank Howe Sugg",
+    "heightft": "6",
+    "heightinch": "0",
+    "birth_place": "Ilkeston, Derbyshire, England",
+    "death_date": "1933",
+    "death_place": "Waterloo, Liverpool, England",
+    "batting": "Right-handed",
+    "role": "Occasional wicket-keeper",
+    "testdebutdate": "13 August",
+    "testdebutyear": "1888",
+    "testdebutagainst": "Australia",
+    "lasttestdate": "3 September",
+    "lasttestyear": "1888",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/20407.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "305",
+        "runs": "11,859",
+        "bat avg": "24.45",
+        "100s/50s": "16/50",
+        "top score": "220",
+        "deliveries": "397",
+        "wickets": "10",
+        "bowl avg": "27.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/12",
+        "catches/stumpings": "167/1"
+    },
+    "clubs": {
+        "Yorkshire": "1883",
+        "Derbyshire": "1884\u20131886",
+        "Lancashire": "1887\u20131899"
+    },
+    "birth_date": "1862-1-11"
+}

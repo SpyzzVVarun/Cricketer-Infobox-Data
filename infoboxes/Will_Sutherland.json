@@ -1,0 +1,55 @@
+{
+    "name": "Will Sutherland",
+    "family": "James Sutherland (father), Annabel Sutherland (sister)",
+    "batting": "Right handed",
+    "bowling": "Right arm Right arm medium-fast",
+    "height": "1.95 m",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/1076722.html Cricinfo",
+    "FC": {
+        "matches": "27",
+        "runs": "619",
+        "bat avg": "19.96",
+        "100s/50s": "1/1",
+        "top score": "100",
+        "deliveries": "4,931",
+        "wickets": "89",
+        "bowl avg": "24.86",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/67",
+        "catches/stumpings": "19/\u2013"
+    },
+    "LA": {
+        "matches": "24",
+        "runs": "255",
+        "bat avg": "14.16",
+        "100s/50s": "0/2",
+        "top score": "66",
+        "deliveries": "1,238",
+        "wickets": "39",
+        "bowl avg": "30.66",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/45",
+        "catches/stumpings": "13/\u2013"
+    },
+    "T20": {
+        "matches": "44",
+        "runs": "327",
+        "bat avg": "14.86",
+        "100s/50s": "0/0",
+        "deliveries": "589",
+        "wickets": "20",
+        "bowl avg": "44.65",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/30",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2017/18\u2013",
+        "Melbourne Renegades": "2018/19\u2013"
+    },
+    "birth_date": "1999-10-27"
+}

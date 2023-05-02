@@ -1,0 +1,33 @@
+{
+    "name": "Yvonne van Mentz",
+    "country": "South Africa",
+    "fullname": "Yvonne van Mentz",
+    "female": "true",
+    "role": "All-rounder",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "England",
+    "testcap": "10",
+    "lasttestdate": "13 January",
+    "lasttestyear": "1961",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17386/17386.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "186",
+        "bat avg": "31.00",
+        "100s/50s": "1/0",
+        "deliveries": "565",
+        "wickets": "8",
+        "bowl avg": "31.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/95",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Southern Transvaal": "1957/58\u20131960/61",
+        "Natal": "1962/63\u20131964/65"
+    }
+}

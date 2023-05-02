@@ -1,0 +1,26 @@
+{
+    "name": "Stephen Amherst",
+    "death_date": "6 May 1814",
+    "death_place": "West Farleigh, Kent",
+    "type1": "FC",
+    "debutdate1": "25 June",
+    "debutyear1": "1783",
+    "debutfor1": "East Kent",
+    "debutagainst1": "West Kent",
+    "lastdate1": "31 August",
+    "lastyear1": "1795",
+    "lastfor1": "Kent",
+    "lastagainst1": "England XI",
+    "source": "https://www.espncricinfo.com/player/stephen-amherst-535347 CricInfo",
+    "First-class": {
+        "matches": "31",
+        "runs": "479",
+        "bat avg": "8.87",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "28/2"
+    },
+    "clubs": {
+        "Kent": "1786\u20131795"
+    }
+}

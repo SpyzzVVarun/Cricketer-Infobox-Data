@@ -1,0 +1,52 @@
+{
+    "name": "Brun Smith",
+    "fullname": "Frank Brunton Smith",
+    "birth_place": "Rangiora, Canterbury, New Zealand",
+    "death_date": "1997",
+    "death_place": "Christchurch, Canterbury, New Zealand",
+    "family": "Frank Smith (father), Geoff Smith (son)",
+    "internationalspan": "1947-1952",
+    "country": "New Zealand",
+    "testdebutagainst": "England",
+    "testdebutdate": "21 March",
+    "testdebutyear": "1947",
+    "testcap": "42",
+    "lasttestdate": "8 February",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1952",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38394.html Cricinfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "237",
+        "bat avg": "47.40",
+        "100s/50s": "0/2",
+        "top score": "96",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "49",
+        "runs": "2643",
+        "bat avg": "33.03",
+        "100s/50s": "4/14",
+        "top score": "153",
+        "deliveries": "117",
+        "wickets": "1",
+        "bowl avg": "76.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1946/47\u20131952/53"
+    },
+    "birth_date": "1922-3-13"
+}

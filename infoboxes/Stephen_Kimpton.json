@@ -1,0 +1,28 @@
+{
+    "country": "Australia",
+    "fullname": "Stephen MacDonald Kimpton",
+    "birth_place": "Toorak, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Melbourne, Victoria, Australia",
+    "family": "Roger Kimpton (brother)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/16024.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "112",
+        "bat avg": "18.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "678",
+        "wickets": "9",
+        "bowl avg": "42.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/65",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1935"
+    }
+}

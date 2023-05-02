@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Sydney Halliley",
+    "birth_place": "British Ceylon",
+    "death_date": "1963",
+    "death_place": "Pembury, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/william-halliley-29328 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "20",
+        "bat avg": "3.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "315",
+        "wickets": "7",
+        "bowl avg": "18.71",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/70",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1911/12&ndash;1912/13"
+    }
+}

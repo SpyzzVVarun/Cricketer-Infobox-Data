@@ -1,0 +1,34 @@
+{
+    "name": "Jehan Daniel",
+    "fullname": "Jehan Keeth Cion Daniel",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "country": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/927631.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "LA": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1999-04-13",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

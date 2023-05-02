@@ -1,0 +1,41 @@
+{
+    "name": "Mervyn Hill",
+    "country": "England",
+    "fullname": "Mervyn Llewellyn Hill",
+    "birth_place": "Llandaff, Glamorgan, Wales",
+    "death_date": "1948",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "family": "Father Vernon, brother Evelyn",
+    "type1": "First-class",
+    "debutdate1": "21 August",
+    "debutyear1": "1920",
+    "debutfor1": "Gentlemen of England",
+    "debutagainst1": "Combined Services",
+    "lastdate1": "12 August",
+    "lastyear1": "1932",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Indians",
+    "source": "https://cricketarchive.com/Archive/Players/3/3623/3623.html CricketArchive ",
+    "First-class": {
+        "matches": "64",
+        "runs": "864",
+        "bat avg": "13.09",
+        "100s/50s": "\u2013/3",
+        "top score": "60",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "57/32"
+    },
+    "clubs": {
+        "Somerset": "1921\u201332",
+        "Cambridge University": "1923\u201324",
+        "Glamorgan": "1923"
+    },
+    "birth_date": "1902-6-23"
+}

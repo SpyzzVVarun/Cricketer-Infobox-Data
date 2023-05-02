@@ -1,0 +1,44 @@
+{
+    "name": "George Rowe",
+    "fullname": "George Alexander Rowe",
+    "birth_place": "Grahamstown, Cape Colony",
+    "death_date": "1950",
+    "death_place": "Pinelands, Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "South Africa",
+    "testdebutdate": "2 March",
+    "testdebutyear": "1896",
+    "lasttestdate": "11 October",
+    "lasttestyear": "1902",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/47006.html Cricinfo",
+    "Tests": {
+        "matches": "5",
+        "runs": "26",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "deliveries": "998",
+        "wickets": "15",
+        "bowl avg": "30.39",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/115",
+        "catches/stumpings": "4/0"
+    },
+    "First-class": {
+        "matches": "36",
+        "runs": "303",
+        "bat avg": "7.04",
+        "100s/50s": "0/0",
+        "deliveries": "8093",
+        "wickets": "170",
+        "bowl avg": "21.12",
+        "fivefor": "13",
+        "tenfor": "5",
+        "best bowling": "8/25",
+        "catches/stumpings": "22/0"
+    },
+    "clubs": {
+        "Western Province": "1893-94 to 1906-07"
+    }
+}

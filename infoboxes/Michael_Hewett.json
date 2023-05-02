@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Michael John Hewett",
+    "birth_place": "Hampstead, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15130.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "4",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "152",
+        "wickets": "2",
+        "bowl avg": "53.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/14",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1972&ndash;1973",
+        "Berkshire": "1981&ndash;1982"
+    },
+    "birth_date": "1950-8-26"
+}

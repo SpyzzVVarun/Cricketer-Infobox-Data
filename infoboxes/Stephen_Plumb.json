@@ -1,0 +1,44 @@
+{
+    "country": "England",
+    "fullname": "Stephen George Plumb",
+    "nickname": "Plummy",
+    "birth_place": "Wimbish, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break, Right-arm Right-arm off break, Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18553.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "216",
+        "bat avg": "30.85",
+        "100s/50s": "&ndash;/1",
+        "top score": "69",
+        "deliveries": "228",
+        "wickets": "3",
+        "bowl avg": "41.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/47",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "List A": {
+        "matches": "64",
+        "runs": "1,109",
+        "bat avg": "19.80",
+        "100s/50s": "&ndash;/4",
+        "top score": "63",
+        "deliveries": "2,059",
+        "wickets": "26",
+        "bowl avg": "54.26",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/16",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Lincolnshire": "1997&ndash;2002",
+        "Minor Counties": "1980&ndash;1992",
+        "Norfolk": "1978&ndash;1995",
+        "Essex": "1975&ndash;1977"
+    },
+    "birth_date": "1954-1-17"
+}

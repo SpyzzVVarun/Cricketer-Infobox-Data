@@ -1,0 +1,51 @@
+{
+    "name": "Joy Liebert",
+    "female": "true",
+    "country": "England",
+    "fullname": "Joyce Liebert",
+    "birth_place": "Fylde, Lancashire, England",
+    "death_date": "1999",
+    "death_place": "Dorset, England",
+    "role": "All-rounder",
+    "internationalspan": "1934\u20131935",
+    "testdebutdate": "26 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "Australia",
+    "testcap": "4",
+    "lasttestdate": "18 February",
+    "lasttestyear": "1935",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17040/17040.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "14",
+        "bat avg": "4.66",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "9",
+        "runs": "67",
+        "bat avg": "7.44",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "52",
+        "wickets": "1",
+        "bowl avg": "35.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1937"
+    },
+    "birth_date": "1914-5-16"
+}

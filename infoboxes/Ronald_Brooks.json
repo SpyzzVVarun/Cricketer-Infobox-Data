@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Ronald Clifton Brooks",
+    "birth_place": "East Molesey, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Chelsea, London, England",
+    "family": "Meyrick Payne (father-in-law)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/10033.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "99",
+        "bat avg": "24.75",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "1/2"
+    },
+    "clubs": {
+        "Cambridge University": "1919",
+        "Marylebone Cricket Club": "1921"
+    }
+}

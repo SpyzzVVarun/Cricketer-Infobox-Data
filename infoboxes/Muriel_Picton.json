@@ -1,0 +1,30 @@
+{
+    "name": "Muriel Picton",
+    "country": "Australia",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "testcap": "53",
+    "testdebutdate": "17 March",
+    "testdebutyear": "1961",
+    "testdebutagainst": "New Zealand",
+    "lasttestdate": "25 January",
+    "lasttestyear": "1969",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53556.html Cricinfo  ",
+    "Test": {
+        "matches": "7",
+        "runs": "111",
+        "bat avg": "18.50",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "818",
+        "wickets": "8",
+        "bowl avg": "38.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/40",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Steven Crook",
+    "country": "Australia",
+    "fullname": "Steven Paul Crook",
+    "nickname": "Crooky, Margaret",
+    "birth_place": "Adelaide, South Australia",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "family": "Andrew Crook (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/26/26581/26581.html CricketArchive ",
+    "FC": {
+        "matches": "107",
+        "runs": "4,043",
+        "bat avg": "31.83",
+        "100s/50s": "5/22",
+        "top score": "145",
+        "deliveries": "12,492",
+        "wickets": "207",
+        "bowl avg": "39.66",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/48",
+        "catches/stumpings": "36/\u2013"
+    },
+    "LA": {
+        "matches": "91",
+        "runs": "1,244",
+        "bat avg": "21.44",
+        "100s/50s": "1/5",
+        "top score": "100",
+        "deliveries": "3,001",
+        "wickets": "84",
+        "bowl avg": "34.36",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/36",
+        "catches/stumpings": "18/\u2013"
+    },
+    "T20": {
+        "matches": "133",
+        "runs": "1,388",
+        "bat avg": "18.50",
+        "100s/50s": "0/3",
+        "top score": "63",
+        "deliveries": "1,537",
+        "wickets": "73",
+        "bowl avg": "29.79",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/19",
+        "catches/stumpings": "39/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2001\u20132005",
+        "Northamptonshire": "2013\u20132018",
+        "Middlesex": "2011\u20132012"
+    },
+    "birth_date": "1983-5-28"
+}

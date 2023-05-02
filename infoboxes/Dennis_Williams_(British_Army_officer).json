@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Dennis Stanley Williams",
+    "birth_place": "Sutton, London, England",
+    "death_date": "df=yes",
+    "death_place": "England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/23015.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "225",
+        "bat avg": "16.07",
+        "100s/50s": "\u2013/1",
+        "top score": "82",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1958"
+    }
+}

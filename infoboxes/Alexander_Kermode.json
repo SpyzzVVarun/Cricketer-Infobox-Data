@@ -1,0 +1,29 @@
+{
+    "name": "Alexander Kermode",
+    "birth_place": "Sydney, Australia",
+    "death_date": "17 July 1934 (aged 58)",
+    "death_place": "Sydney, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/australia/content/player/6144.html Cricinfo  ",
+    "First-class": {
+        "matches": "80",
+        "runs": "681",
+        "bat avg": "8.01",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "deliveries": "7825",
+        "wickets": "340",
+        "bowl avg": "23.01",
+        "fivefor": "21",
+        "tenfor": "3",
+        "best bowling": "7/44",
+        "catches/stumpings": "33/0"
+    },
+    "clubs": {
+        "New South Wales": "1901-02",
+        "Lancashire": "1902 to 1908",
+        "London County": "1903"
+    }
+}

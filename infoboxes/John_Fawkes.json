@@ -1,0 +1,18 @@
+{
+    "country": "England",
+    "fullname": "John Fawkes",
+    "birth_place": "Brampton, Derbyshire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/13013.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "117",
+        "bat avg": "19.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {},
+    "birth_date": "1933-10-9"
+}

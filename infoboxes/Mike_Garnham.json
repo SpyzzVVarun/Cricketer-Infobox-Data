@@ -1,0 +1,42 @@
+{
+    "name": "Mike Garnham",
+    "fullname": "Michael Anthony Garnham",
+    "birth_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "https://www.espncricinfo.com/player/mike-garnham-13334 Cricinfo",
+    "FC": {
+        "matches": "207",
+        "runs": "6240",
+        "bat avg": "27.48",
+        "100s/50s": "5/33",
+        "top score": "123",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "429/41"
+    },
+    "List A": {
+        "matches": "256",
+        "runs": "2640",
+        "bat avg": "18.72",
+        "100s/50s": "1/4",
+        "top score": "110",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "217/37"
+    },
+    "clubs": {
+        "Gloucestershire": "1978\u20131979",
+        "Leicestershire": "1980\u20131988",
+        "Essex": "1989\u20131995"
+    },
+    "birth_date": "1960-8-20"
+}

@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Arthur Stanley Cantrell",
+    "birth_place": "British Ceylon",
+    "death_date": "df=y",
+    "death_place": "Black Notley, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/11001.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "308",
+        "bat avg": "23.69",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,385",
+        "wickets": "49",
+        "bowl avg": "25.63",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/58",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Chris Read",
+    "country": "England",
+    "fullname": "Christopher Mark Wells Read",
+    "nickname": "Reados",
+    "birth_place": "Paignton, England",
+    "heightft": "5",
+    "heightinch": "8",
+    "role": "Wicket-keeper",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "internationalspan": "1999\u20132007",
+    "testdebutdate": "1 July",
+    "testdebutyear": "1999",
+    "testdebutagainst": "New Zealand",
+    "testcap": "595",
+    "lasttestdate": "5 January",
+    "lasttestyear": "2007",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "23 January",
+    "odidebutyear": "2000",
+    "odidebutagainst": "South Africa",
+    "odicap": "155",
+    "lastodidate": "28 October",
+    "lastodiyear": "2006",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/19346.html Cricinfo ",
+    "Test": {
+        "matches": "15",
+        "runs": "360",
+        "bat avg": "18.94",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "catches/stumpings": "48/6"
+    },
+    "ODI": {
+        "matches": "36",
+        "runs": "300",
+        "bat avg": "17.64",
+        "100s/50s": "0/0",
+        "catches/stumpings": "41/2"
+    },
+    "FC": {
+        "matches": "350",
+        "runs": "16,483",
+        "bat avg": "37.46",
+        "100s/50s": "27/92",
+        "top score": "240",
+        "catches/stumpings": "1056/53"
+    },
+    "LA": {
+        "matches": "333",
+        "runs": "5,564",
+        "bat avg": "29.13",
+        "100s/50s": "2/24",
+        "top score": "135",
+        "catches/stumpings": "319/73"
+    },
+    "clubs": {
+        "Devon": "1995\u20131997",
+        "Gloucestershire": "1997",
+        "Nottinghamshire( 7 )": "1998\u20132017"
+    },
+    "birth_date": "1978-8-10"
+}

@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Hugh Basil Hollington",
+    "birth_place": "Harpenden, Hertfordshire, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/14906.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "193",
+        "bat avg": "27.57",
+        "100s/50s": "&ndash;/2",
+        "top score": "78",
+        "deliveries": "1",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1972",
+        "Minor Counties South": "1972&ndash;1974",
+        "Hertfordshire": "1966&ndash;1974"
+    },
+    "birth_date": "1949-8-14"
+}

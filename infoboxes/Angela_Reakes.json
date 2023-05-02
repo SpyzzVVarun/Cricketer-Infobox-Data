@@ -1,0 +1,46 @@
+{
+    "name": "Angela Reakes",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Angela Rose Reakes",
+    "birth_place": "Byron Bay, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/373/373383/373383.html CricketArchive ",
+    "WLA": {
+        "matches": "88",
+        "runs": "967",
+        "bat avg": "24.17",
+        "100s/50s": "0/5",
+        "top score": "76",
+        "deliveries": "2,138",
+        "wickets": "63",
+        "bowl avg": "27.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/10",
+        "catches/stumpings": "34/\u2013"
+    },
+    "WT20": {
+        "matches": "156",
+        "runs": "650",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "1,074",
+        "wickets": "51",
+        "bowl avg": "22.56",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/19",
+        "catches/stumpings": "45/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "2009/10\u20132014/15",
+        "Australian Capital Territory": "2015/16\u20132022/23",
+        "Sydney Sixers": "2020/21\u20132022/23",
+        "Melbourne Stars": "2018/19\u20132019/20"
+    },
+    "birth_date": "1990-12-27"
+}

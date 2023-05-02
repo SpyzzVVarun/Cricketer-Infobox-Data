@@ -1,0 +1,40 @@
+{
+    "name": "Fletcha Middleton",
+    "fullname": "Fletcha Scott Middleton",
+    "birth_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "family": "Tony Middleton (father)",
+    "type1": "First-class",
+    "debutdate1": "13 May",
+    "debutyear1": "2022",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "SLC Development XI",
+    "type2": "List A",
+    "debutdate2": "12 August",
+    "debutyear2": "2021",
+    "debutfor2": "Hampshire",
+    "debutagainst2": "Durham",
+    "source": "http://www.espncricinfo.com/ci/content/player/1148476.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "188",
+        "bat avg": "62.66",
+        "100s/50s": "0/3",
+        "top score": "65",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "235",
+        "bat avg": "26.11",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Hampshire( 19 )": "2021\u20132023"
+    },
+    "birth_date": "2002-1-21"
+}

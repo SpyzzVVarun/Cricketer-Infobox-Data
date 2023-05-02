@@ -1,0 +1,43 @@
+{
+    "name": "Rodney Cass",
+    "country": "England",
+    "fullname": "George Rodney Cass",
+    "death_date": "2018",
+    "birth_place": "Overton, Wakefield, Yorkshire, England",
+    "role": "wicket-keeper",
+    "batting": "Left-handed",
+    "source": "https://cricketarchive.com/Archive/Players/2/2805/2805.html CricketArchive ",
+    "FC": {
+        "matches": "155",
+        "runs": "4,304",
+        "bat avg": "21.84",
+        "100s/50s": "2/16",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "213/28"
+    },
+    "LA": {
+        "matches": "98",
+        "runs": "1,439",
+        "bat avg": "21.16",
+        "100s/50s": "0/5",
+        "top score": "77",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "79/13"
+    },
+    "clubs": {
+        "Essex": "1964\u20131967",
+        "Worcestershire": "1969\u20131975",
+        "Tasmania": "1970/71\u20131972/73"
+    },
+    "birth_date": "1940-4-23"
+}

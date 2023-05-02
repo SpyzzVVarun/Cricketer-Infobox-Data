@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Malcolm Graeme Wright",
+    "birth_place": "Kandy, Central Province, British Ceylon",
+    "death_date": "1996",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/23231.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "8.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1950"
+    },
+    "birth_date": "1926-6-2"
+}

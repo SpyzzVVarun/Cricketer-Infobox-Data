@@ -1,0 +1,39 @@
+{
+    "name": "Haydon Smith",
+    "country": "England",
+    "fullname": "Haydon Arthur Smith",
+    "birth_place": "Groby, Leicestershire, England",
+    "death_date": "1948",
+    "death_place": "Groby, Leicestershire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "family": "Terry Spencer, nephew",
+    "type1": "First-class",
+    "debutdate1": "20 May",
+    "debutyear1": "1925",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "29 August",
+    "lastyear1": "1939",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Glamorgan",
+    "source": "https://cricketarchive.com/Archive/Players/32/32862/32862.html CricketArchive ",
+    "First-class": {
+        "matches": "341",
+        "runs": "4603",
+        "bat avg": "11.01",
+        "100s/50s": "1/6",
+        "deliveries": "65900",
+        "wickets": "1076",
+        "bowl avg": "25.99",
+        "fivefor": "66",
+        "tenfor": "11",
+        "best bowling": "8/40",
+        "catches/stumpings": "257/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1925\u201339"
+    },
+    "birth_date": "1901-3-29"
+}

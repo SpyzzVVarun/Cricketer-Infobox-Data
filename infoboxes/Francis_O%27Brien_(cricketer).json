@@ -1,0 +1,30 @@
+{
+    "name": "Francis O'Brien",
+    "country": "New Zealand",
+    "fullname": "Francis Patrick O'Brien",
+    "birth_place": "Christchurch, Canterbury, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Christchurch, Canterbury, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/38077.html Cricinfo ",
+    "First-class": {
+        "matches": "66",
+        "runs": "2649",
+        "bat avg": "24.52",
+        "100s/50s": "4/10",
+        "top score": "164",
+        "deliveries": "1160",
+        "wickets": "14",
+        "bowl avg": "46.78",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "34/0"
+    },
+    "clubs": {
+        "Canterbury": "1932\u201333 to 1945\u201346",
+        "Northamptonshire": "1938 to 1939"
+    },
+    "birth_date": "1911-2-11"
+}

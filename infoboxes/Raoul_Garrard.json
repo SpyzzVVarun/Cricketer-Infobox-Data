@@ -1,0 +1,30 @@
+{
+    "name": "Raoul Garrard",
+    "country": "New Zealand",
+    "fullname": "Derwent Raoul Garrard",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Charles Garrard (father), Wilson Garrard (brother), William George Garrard (uncle)",
+    "source": "https://cricketarchive.com/Archive/Players/21/21929/21929.html Cricket Archive ",
+    "First-class": {
+        "matches": "32",
+        "runs": "960",
+        "bat avg": "24.61",
+        "100s/50s": "0/5",
+        "top score": "67 not out",
+        "deliveries": "5255",
+        "wickets": "92",
+        "bowl avg": "25.63",
+        "fivefor": "6",
+        "tenfor": "2",
+        "best bowling": "8/51",
+        "catches/stumpings": "18/0"
+    },
+    "clubs": {
+        "Auckland": "1917-18 to 1941-42"
+    },
+    "birth_date": "1897-10-6"
+}

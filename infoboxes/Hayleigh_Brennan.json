@@ -1,0 +1,44 @@
+{
+    "name": "Hayleigh Brennan",
+    "female": "true",
+    "full_name": "Hayleigh Maree Brennan",
+    "birth_place": "Dandenong, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1381/1381147/1381147.html CricketArchive",
+    "WLA": {
+        "matches": "14",
+        "runs": "33",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "552",
+        "wickets": "8",
+        "bowl avg": "44.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20": {
+        "matches": "19",
+        "runs": "34",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "deliveries": "306",
+        "wickets": "12",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/14",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2016/17\u20132017/18",
+        "Melbourne Stars": "2017/18",
+        "Middlesex": "2018",
+        "Perth Scorchers": "2018/19"
+    },
+    "birth_date": "1999-03-05"
+}

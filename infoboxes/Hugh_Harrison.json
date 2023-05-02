@@ -1,0 +1,27 @@
+{
+    "country": "Wales",
+    "fullname": "Hugh Robert Edward Harrison",
+    "birth_place": "Forden, Montgomeryshire, Wales",
+    "death_date": "1912",
+    "death_place": "Folkestone, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/14577.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "123",
+        "bat avg": "17.57",
+        "100s/50s": "\u2013/1",
+        "top score": "55",
+        "deliveries": "110",
+        "wickets": "2",
+        "bowl avg": "36.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/47",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1896&ndash;1897"
+    }
+}

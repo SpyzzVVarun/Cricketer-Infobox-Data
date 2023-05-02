@@ -1,0 +1,31 @@
+{
+    "name": "Sidney Castle",
+    "birth_place": "Westminster, London",
+    "death_date": "1937",
+    "death_place": "Furzehatt, Plymstock, Devon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm spin",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "3 July",
+    "debutyear1": "1890",
+    "debutfor1": "Kent",
+    "debutagainst1": "Sussex",
+    "lastdate1": "22 June",
+    "lastyear1": "1893",
+    "lastfor1": "Kent",
+    "lastagainst1": "Australians",
+    "source": "http://www.espncricinfo.com/ci/content/player/11058.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "25",
+        "bat avg": "4.16",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Kent": "1890\u20131893"
+    },
+    "birth_date": "1864-1-21"
+}

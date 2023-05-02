@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Hugh Mervyn Winfield",
+    "birth_place": "Gainsborough, Lincolnshire, England",
+    "death_date": "18 October 2014 (aged 81)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/23102.html Cricinfo ",
+    "First-class": {
+        "matches": "172",
+        "runs": "6,799",
+        "bat avg": "23.04",
+        "100s/50s": "7/30",
+        "top score": "134",
+        "deliveries": "4",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "133/&ndash;"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "37",
+        "bat avg": "18.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Lincolnshire": "1970&ndash;1971",
+        "Shropshire": "1967&ndash;1969",
+        "Nottinghamshire": "1954&ndash;1966"
+    }
+}

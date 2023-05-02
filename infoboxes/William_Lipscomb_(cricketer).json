@@ -1,0 +1,30 @@
+{
+    "name": "William Lipscomb",
+    "country": "England",
+    "fullname": "William Henry Lipscomb",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "1918",
+    "death_place": "Clapham, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/16304.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "154",
+        "bat avg": "14.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "34",
+        "deliveries": "176",
+        "wickets": "3",
+        "bowl avg": "33.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/26",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1868",
+        "Hampshire": "1866&ndash;1867"
+    },
+    "birth_date": "1846-11-20"
+}

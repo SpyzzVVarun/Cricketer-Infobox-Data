@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Richard Alexander Bennett",
+    "birth_place": "Holdenhurst, Hampshire, England",
+    "death_date": "1953",
+    "death_place": "Thornbury, Gloucestershire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/cricketers/arthur-ward-23332 Cricinfo ",
+    "First-class": {
+        "matches": "37",
+        "runs": "683",
+        "bat avg": "12.64",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "catches/stumpings": "44/29"
+    },
+    "clubs": {
+        "Hampshire": "1896\u20131899",
+        "Marylebone Cricket Club": "1899"
+    }
+}

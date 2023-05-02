@@ -1,0 +1,38 @@
+{
+    "name": "Dennis Bulli",
+    "fullname": "Dennis Bulli",
+    "source": "http://www.espncricinfo.com/ci/content/player/820333.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "245",
+        "bat avg": "11.13",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "1767",
+        "wickets": "33",
+        "bowl avg": "36.12",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "5/54",
+        "catches/stumpings": "5/0"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "37",
+        "bat avg": "12.33",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "450",
+        "wickets": "15",
+        "bowl avg": "29.26",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/40",
+        "catches/stumpings": "3/0"
+    },
+    "T20": {},
+    "clubs": {
+        "Jamaica": "2015-present"
+    },
+    "birth_date": "1987-3-26"
+}

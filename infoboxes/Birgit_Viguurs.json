@@ -1,0 +1,22 @@
+{
+    "name": "Birgit Viguurs",
+    "female": "true",
+    "birth_place": "Vught, Netherlands",
+    "country": "Netherlands",
+    "source": "http://espncricinfo.com/netherlands/content/player/54676.html Cricinfo",
+    "WODI": {
+        "matches": "13",
+        "runs": "108",
+        "bat avg": "9.81",
+        "100s/50s": "0/1",
+        "deliveries": "316",
+        "wickets": "10",
+        "bowl avg": "19.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/7",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1972-06-24"
+}

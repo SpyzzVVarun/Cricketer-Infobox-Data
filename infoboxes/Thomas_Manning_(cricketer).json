@@ -1,0 +1,28 @@
+{
+    "name": "Thomas Manning",
+    "country": "England",
+    "fullname": "Thomas Edgar Manning",
+    "birth_place": "Northampton, England",
+    "death_date": "1975",
+    "death_place": "Dallington, Northamptonshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/17311.html Cricinfo ",
+    "First-class": {
+        "matches": "53",
+        "runs": "1026",
+        "bat avg": "13.15",
+        "100s/50s": "0/3",
+        "top score": "57",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "29/3"
+    },
+    "clubs": {
+        "Northamptonshire": "1906 to 1922"
+    },
+    "birth_date": "1884-9-2"
+}

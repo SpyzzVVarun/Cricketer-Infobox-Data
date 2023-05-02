@@ -1,0 +1,28 @@
+{
+    "name": "Ray Reynolds",
+    "country": "Australia",
+    "fullname": "George Raymond Reynolds",
+    "birth_place": "Bundaberg, Queensland",
+    "heightft": "5",
+    "heightinch": "6",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/16/16608/16608.html Cricket Archive",
+    "First-class": {
+        "matches": "54",
+        "runs": "3693",
+        "bat avg": "46.16",
+        "100s/50s": "12/14",
+        "top score": "203 not out",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "19/1"
+    },
+    "clubs": {
+        "Queensland": "1955-56 to 1963-64"
+    },
+    "birth_date": "1936-8-24"
+}

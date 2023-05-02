@@ -1,0 +1,47 @@
+{
+    "name": "Lauren Down",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Lauren Renee Down",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "odidebutdate": "4 March",
+    "odidebutyear": "2018",
+    "odidebutagainst": "West Indies",
+    "odicap": "136",
+    "lastodidate": "17 December",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Bangladesh",
+    "T20Idebutdate": "9 February",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "55",
+    "lastT20Idate": "7 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/543466.html Cricinfo ",
+    "WODI": {
+        "matches": "25",
+        "runs": "442",
+        "bat avg": "19.21",
+        "100s/50s": "0/3",
+        "top score": "90",
+        "catches/stumpings": "8/\u2013"
+    },
+    "WT20I": {
+        "matches": "10",
+        "runs": "87",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Auckland": "2011/12\u2013present",
+        "Oxfordshire": "2016",
+        "Perth Scorchers": "2020/21"
+    },
+    "birth_date": "1995-5-7"
+}

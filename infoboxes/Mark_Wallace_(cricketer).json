@@ -1,0 +1,56 @@
+{
+    "name": "Mark Wallace",
+    "country": "England",
+    "fullname": "Mark Alexander Wallace",
+    "birth_place": "Abergavenny, Monmouthshire, Wales",
+    "nickname": "Gromit, Wally",
+    "heightft": "5",
+    "heightinch": "9",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "2 September",
+    "debutyear1": "1999",
+    "debutfor1": "Glamorgan",
+    "debutagainst1": "Somerset",
+    "lastdate1": "20 September",
+    "lastyear1": "2016",
+    "lastfor1": "Glamorgan",
+    "lastagainst1": "Leicestershire",
+    "type2": "LA",
+    "debutdate2": "6 September",
+    "debutyear2": "1999",
+    "debutfor2": "Glamorgan",
+    "debutagainst2": "Somerset",
+    "lastdate2": "1 August",
+    "lastyear2": "2016",
+    "lastfor2": "Glamorgan",
+    "lastagainst2": "Surrey",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/7/7426/7426.html CricketArchive ",
+    "FC": {
+        "matches": "264",
+        "runs": "11,159",
+        "bat avg": "28.90",
+        "100s/50s": "15/55",
+        "top score": "139",
+        "catches/stumpings": "707/56"
+    },
+    "LA": {
+        "matches": "205",
+        "runs": "2,736",
+        "bat avg": "20.41",
+        "100s/50s": "2/7",
+        "catches/stumpings": "184/45"
+    },
+    "T20": {
+        "matches": "136",
+        "runs": "1,534",
+        "bat avg": "18.48",
+        "100s/50s": "0/2",
+        "catches/stumpings": "53/30"
+    },
+    "clubs": {
+        "Glamorgan( 18 )": "1999\u20132017"
+    },
+    "birth_date": "1981-11-19"
+}

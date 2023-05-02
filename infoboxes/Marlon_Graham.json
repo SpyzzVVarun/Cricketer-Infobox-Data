@@ -1,0 +1,61 @@
+{
+    "name": "Marlon Graham",
+    "birth_place": "Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Bahamas",
+    "T20Idebutdate": "7 November",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "3",
+    "lastT20Idate": "13 November",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Panama",
+    "source": "http://www.espncricinfo.com/ci/content/player/52039.html Cricinfo ",
+    "T20I": {
+        "matches": "6",
+        "runs": "20",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "59.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "47.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/25",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "20",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "59.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Barbados": "2010/11"
+    },
+    "birth_date": "1978-9-27"
+}

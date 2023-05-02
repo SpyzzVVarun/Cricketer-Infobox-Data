@@ -1,0 +1,55 @@
+{
+    "name": "Jean-Pierre Kotze",
+    "country": "Namibia",
+    "birth_place": "Namibia",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "27 April",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Oman",
+    "odicap": "21",
+    "lastodidate": "9 January",
+    "lastodiyear": "2020",
+    "lastodiagainst": "UAE",
+    "T20Idebutdate": "22 August",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Botswana",
+    "T20Icap": "15",
+    "lastT20Idate": "10 April",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/541991.html Cricinfo ",
+    "ODI": {
+        "matches": "8",
+        "runs": "299",
+        "bat avg": "37.37",
+        "100s/50s": "1/0",
+        "top score": "136",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20I": {
+        "matches": "15",
+        "runs": "286",
+        "bat avg": "20.42",
+        "100s/50s": "1/0",
+        "catches/stumpings": "7/2"
+    },
+    "FC": {
+        "matches": "39",
+        "runs": "1,416",
+        "bat avg": "20.22",
+        "100s/50s": "1/5",
+        "top score": "102",
+        "catches/stumpings": "68/5"
+    },
+    "LA": {
+        "matches": "70",
+        "runs": "1,520",
+        "bat avg": "25.33",
+        "100s/50s": "2/4",
+        "top score": "148",
+        "catches/stumpings": "50/4"
+    },
+    "clubs": {},
+    "birth_date": "1994-4-23"
+}

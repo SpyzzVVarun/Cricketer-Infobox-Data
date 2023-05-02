@@ -1,0 +1,37 @@
+{
+    "name": "Barry Archer",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/8/8803/8803.html CricketArchive",
+    "First-class": {
+        "matches": "3",
+        "runs": "52",
+        "bat avg": "8.66",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "84",
+        "wickets": "2",
+        "bowl avg": "14.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "3/0"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "4",
+        "bat avg": "1.33",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "54",
+        "wickets": "2",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/42",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "21 June 1977"
+}

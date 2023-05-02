@@ -1,0 +1,41 @@
+{
+    "name": "Peter Robinson",
+    "country": "England",
+    "fullname": "Peter James Robinson",
+    "birth_place": "St John's, Worcester, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/3/3789/3789.html CricketArchive ",
+    "FC": {
+        "matches": "185",
+        "runs": "4,936",
+        "bat avg": "21.27",
+        "100s/50s": "3/21",
+        "top score": "140",
+        "deliveries": "18,048",
+        "wickets": "297",
+        "bowl avg": "27.27",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "7/10",
+        "catches/stumpings": "170/0"
+    },
+    "LA": {
+        "matches": "63",
+        "runs": "964",
+        "bat avg": "22.41",
+        "100s/50s": "0/3",
+        "deliveries": "210",
+        "wickets": "8",
+        "bowl avg": "12.87",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "3/17",
+        "catches/stumpings": "25/0"
+    },
+    "clubs": {
+        "Worcestershire": "1963\u20131964",
+        "Somerset": "1965\u20131978"
+    },
+    "birth_date": "1943-2-9"
+}

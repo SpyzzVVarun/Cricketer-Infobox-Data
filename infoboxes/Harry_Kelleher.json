@@ -1,0 +1,39 @@
+{
+    "name": "Harry Kelleher",
+    "country": "England",
+    "fullname": "Henry Robert Albert Kelleher",
+    "birth_place": "Bermondsey, London",
+    "batting": "Left-handed",
+    "bowling": "Righft-arm Righft-arm fast-medium",
+    "role": "Bowler",
+    "family": "Danny Kelleher (nephew)",
+    "type1": "FC",
+    "debutdate1": "29 June",
+    "debutyear1": "1955",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "30 May",
+    "lastyear1": "1958",
+    "lastfor1": "Northamptonshire",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/30/30710/30710.html CricketArchive ",
+    "First-class": {
+        "matches": "55",
+        "runs": "256",
+        "bat avg": "7.52",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "6,064",
+        "wickets": "112",
+        "bowl avg": "27.65",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "5/23",
+        "catches/stumpings": "45/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1955",
+        "Northamptonshire": "1956\u20131958"
+    },
+    "birth_date": "1929-3-3"
+}

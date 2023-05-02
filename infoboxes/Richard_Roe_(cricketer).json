@@ -1,0 +1,23 @@
+{
+    "name": "Richard Roe",
+    "country": "Australia",
+    "fullname": "Richard Roe",
+    "birth_place": "Geraldton, Western Australia",
+    "death_date": "2008",
+    "death_place": "Auchenflower, Brisbane, Queensland",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/16/16627/16627.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "136",
+        "bat avg": "34.00",
+        "100s/50s": "0/1",
+        "top score": "58",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1934/35"
+    },
+    "birth_date": "1913-1-22"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Carrington Burke",
+    "birth_place": "Bayswater, Middlesex, England",
+    "death_date": "1904",
+    "death_place": "Shackleford, Surrey, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/10159.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882"
+    }
+}

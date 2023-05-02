@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Arthur Lamb",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "death_date": "1908",
+    "death_place": "Cliftonville, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16436.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "24",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "20",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1957"
+    },
+    "birth_date": "1868-12-17"
+}

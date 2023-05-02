@@ -1,0 +1,26 @@
+{
+    "name": "Augustus Ricardo",
+    "country": "England",
+    "fullname": "Augustus Louis Ricardo",
+    "birth_place": "Chelsea, London, England",
+    "death_date": "1871",
+    "death_place": "Cologne, Rhine Province, German Empire",
+    "source": "http://www.cricinfo.com/ci/content/player/19961.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "224",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1861"
+    },
+    "birth_date": "1843-3-28"
+}

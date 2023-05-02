@@ -1,0 +1,51 @@
+{
+    "name": "Sunny Sohal",
+    "country": "United States",
+    "fullname": "Sunny Sohal",
+    "birth_place": "Mohali, Punjab, India",
+    "batting": "Right handed",
+    "bowling": "Legbreak",
+    "role": "Batsman",
+    "T20Idebutdate": "22 August",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Bermuda",
+    "T20Icap": "16",
+    "lastT20Idate": "25 August",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Canada",
+    "source": "http://www.espncricinfo.com/india/content/player/228943.html Cricinfo ",
+    "T20": {
+        "matches": "34",
+        "runs": "550",
+        "bat avg": "18.96",
+        "100s/50s": "0/2",
+        "top score": "62",
+        "catches/stumpings": "6/-"
+    },
+    "FC": {
+        "matches": "21",
+        "runs": "1202",
+        "bat avg": "36.42",
+        "100s/50s": "3/7",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "13",
+        "best bowling": "1/8",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "25",
+        "runs": "439",
+        "bat avg": "19.08",
+        "100s/50s": "0/3",
+        "top score": "65",
+        "catches/stumpings": "7/-"
+    },
+    "clubs": {
+        "Punjab": "2005/06\u20132009/10",
+        "Kings XI Punjab": "2008\u20132010",
+        "Deccan Chargers": "2011",
+        "Barbados Tridents( 19 )": "2018-present"
+    },
+    "birth_date": "1987-11-10"
+}

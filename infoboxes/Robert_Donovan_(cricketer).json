@@ -1,0 +1,22 @@
+{
+    "country": "Ireland",
+    "fullname": "Robert Leo Donovan",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "1932",
+    "death_place": "Dublin, Ireland",
+    "family": "Edward Donavon (father)",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24358.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1921"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Colin Blythe",
+    "fullname": "Colin Blythe",
+    "nickname": "Charlie",
+    "birth_place": "Deptford, Kent, England",
+    "death_date": "1917",
+    "death_place": "near Passendale, Belgium",
+    "batting": "Right-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "role": "Bowler",
+    "country": "England",
+    "testdebutdate": "13 December",
+    "testdebutyear": "1901",
+    "testdebutagainst": "Australia",
+    "testcap": "130",
+    "lasttestdate": "11 March",
+    "lasttestyear": "1910",
+    "lasttestagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/england/content/player/9134.html CricInfo ",
+    "Test": {
+        "matches": "19",
+        "runs": "183",
+        "bat avg": "9.63",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "4,546",
+        "wickets": "100",
+        "bowl avg": "18.63",
+        "fivefor": "9",
+        "tenfor": "4",
+        "best bowling": "8/59",
+        "catches/stumpings": "6/\u2013"
+    },
+    "First-class": {
+        "matches": "439",
+        "runs": "4,443",
+        "bat avg": "9.87",
+        "100s/50s": "0/5",
+        "deliveries": "103,546",
+        "wickets": "2,503One match during Blythe's career, against The Reef in South Africa in December 1909, is sometimes given first-class status. The official status of this match is that it was not given retrospective first-class status by the South African Cricket Board of Control, although until 1931 it was generally considered first-class. Blythe took three wickets in the match and some sources, including ''Wisden Cricketers' Almanack'', give him credit for 2,506 first-class wickets taken during his career. Croudy, p. 4.  Caine S (1931) http://www.espncricinfo.com/wisdenalmanack/content/story/151736.html Notes by the Editor, ''Wisden Cricketers' Almanack'', 1931. London: John Wisden & Co. Retrieved 29 December 2018. ",
+        "bowl avg": "16.81",
+        "fivefor": "218",
+        "tenfor": "71",
+        "best bowling": "10/30",
+        "catches/stumpings": "206/\u2013"
+    },
+    "clubs": {
+        "Kent": "1899\u20131914"
+    },
+    "birth_date": "1879-5-30"
+}

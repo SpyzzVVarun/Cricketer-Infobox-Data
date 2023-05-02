@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Ludovic Heathcoat-Amory",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=yes",
+    "death_place": "Bayonvillers, Somme, France",
+    "family": "Sir John Heathcoat-Amory (brother), Henry Stanley (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/14712.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "76",
+        "bat avg": "6.90",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "426",
+        "wickets": "9",
+        "bowl avg": "18.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/55",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1902&ndash;1903",
+        "Devon": "1902&ndash;1910"
+    }
+}

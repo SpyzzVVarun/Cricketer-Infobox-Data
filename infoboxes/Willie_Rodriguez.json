@@ -1,0 +1,63 @@
+{
+    "name": "Willie Rodriguez",
+    "country": "West Indies",
+    "fullname": "William Vicente Rodriguez",
+    "birth_place": "St Clair, Port of Spain, Trinidad and Tobago",
+    "batting": "Right-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "role": "All-rounder",
+    "testdebutdate": "7 March",
+    "testdebutyear": "1962",
+    "testdebutagainst": "India",
+    "testcap": "117",
+    "lasttestdate": "19 March",
+    "lasttestyear": "1968",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/1/1186/1186.html CricketArchive ",
+    "Test": {
+        "matches": "5",
+        "runs": "96",
+        "bat avg": "13.71",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "573",
+        "wickets": "7",
+        "bowl avg": "53.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/51",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "64",
+        "runs": "2,061",
+        "bat avg": "24.83",
+        "100s/50s": "1/9",
+        "top score": "105",
+        "deliveries": "5,787",
+        "wickets": "119",
+        "bowl avg": "28.08",
+        "fivefor": "8",
+        "tenfor": "0",
+        "best bowling": "7/90",
+        "catches/stumpings": "36/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1953/54\u20131969/70"
+    },
+    "birth_date": "1934-6-25"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Walter Brooks",
+    "country": "England",
+    "fullname": "Walter Tyrrell Brooks",
+    "birth_place": "Kensington, London, England",
+    "death_date": "df=y",
+    "death_place": "Tunbridge Wells, Kent, England",
+    "family": "John Tonge (father-in-law)",
+    "source": "http://www.espncricinfo.com/england/content/player/10034.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "2",
+        "bowl avg": "23.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1902\u20131904"
+    }
+}

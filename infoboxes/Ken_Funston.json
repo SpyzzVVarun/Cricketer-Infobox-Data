@@ -1,0 +1,43 @@
+{
+    "name": "Ken Funston",
+    "death_date": "2005",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "5 December",
+    "testdebutyear": "1952",
+    "lasttestdate": "28 February",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1958",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/45081.html Cricinfo",
+    "Test": {
+        "matches": "19",
+        "runs": "824",
+        "bat avg": "25.75",
+        "100s/50s": "0/5",
+        "top score": "92",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "First-class": {
+        "matches": "84",
+        "runs": "4,164",
+        "bat avg": "30.39",
+        "100s/50s": "5/23",
+        "top score": "160",
+        "deliveries": "48",
+        "wickets": "2",
+        "bowl avg": "21.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/32",
+        "catches/stumpings": "36/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1925-12-3"
+}

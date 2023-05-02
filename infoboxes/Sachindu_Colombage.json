@@ -1,0 +1,22 @@
+{
+    "name": "Sachindu Colombage",
+    "fullname": "Sachindu Maduwantha Colombage",
+    "birth_place": "Negombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm legbreak",
+    "source": "http://www.espncricinfo.com/ci/content/player/1175296.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Dambulla Viiking": "2020",
+        "Kandy Warriors": "2021"
+    },
+    "birth_date": "1998-2-21",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

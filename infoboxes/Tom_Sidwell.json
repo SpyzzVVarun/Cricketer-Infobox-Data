@@ -1,0 +1,32 @@
+{
+    "name": "Tom Sidwell",
+    "country": "England",
+    "fullname": "Thomas Edgar Sidwell",
+    "birth_place": "Belgrave, Leicester, England",
+    "death_date": "1958",
+    "death_place": "Braunstone Frith, Leicestershire, England",
+    "batting": "Right-hand bat",
+    "role": "Wicketkeeper",
+    "type1": "First-class",
+    "debutdate1": "12 July",
+    "debutyear1": "1913",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "30 August",
+    "lastyear1": "1933",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Surrey|",
+    "source": "https://cricketarchive.com/Archive/Players/32/32766/32766.html Cricket Archive ",
+    "First-class cricket": {
+        "matches": "392",
+        "runs": "7,929",
+        "bat avg": "15.30",
+        "100s/50s": "3/19",
+        "top score": "105",
+        "catches/stumpings": "584/136"
+    },
+    "clubs": {
+        "Leicestershire": "1913-1933"
+    },
+    "birth_date": "1888-1-30"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Arthur Blunden",
+    "country": "England",
+    "fullname": "Arthur Blunden",
+    "birth_place": "East Malling, Kent",
+    "death_date": "1984",
+    "death_place": "Skinburness, Cumbria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9826.html CricInfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "33",
+        "bat avg": "4.12",
+        "100s/50s": "0/0",
+        "deliveries": "1,589",
+        "wickets": "18",
+        "bowl avg": "32.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/31",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Kent": "1931\u20131933",
+        "Durham": "1938\u20131939"
+    },
+    "birth_date": "1906-9-5"
+}

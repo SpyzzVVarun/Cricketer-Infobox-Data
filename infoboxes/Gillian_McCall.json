@@ -1,0 +1,22 @@
+{
+    "name": "Gillian McCall",
+    "female": "true",
+    "fullname": "Gillian McCall",
+    "country": "Ireland",
+    "source": "http://espncricinfo.com/ireland/content/player/54923.html Cricinfo",
+    "WODI": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

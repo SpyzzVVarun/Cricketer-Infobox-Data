@@ -1,0 +1,38 @@
+{
+    "name": "Arthur Wood",
+    "country": "England",
+    "fullname": "Arthur John Wood",
+    "birth_place": "Derby, England",
+    "death_date": "1951",
+    "death_place": "Norwood, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "FC",
+    "debutdate1": "29 July",
+    "debutyear1": "1911",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "25 July",
+    "lastyear1": "1912",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Leicestershire",
+    "source": "https://cricketarchive.com/Archive/Players/34/34014/34014.html CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "264",
+        "bat avg": "14.66",
+        "100s/50s": "0/2",
+        "top score": "52",
+        "deliveries": "72",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1911\u20131912"
+    },
+    "birth_date": "1892-2-7"
+}

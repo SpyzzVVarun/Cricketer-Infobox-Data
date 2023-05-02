@@ -1,0 +1,30 @@
+{
+    "name": "John Godfrey",
+    "country": "England",
+    "fullname": "John Frederick Godfrey",
+    "birth_place": "Garsington, Oxfordshire, England",
+    "death_date": "October 1995 (aged 78)",
+    "death_place": "Newton Abbot, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/13387.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "61",
+        "bat avg": "4.35",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,462",
+        "wickets": "15",
+        "bowl avg": "50.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/116",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1939\u20131947",
+        "Oxfordshire": "1939\u20131949",
+        "Cambridgeshire": "1950\u20131954"
+    },
+    "birth_date": "1917-8-18"
+}

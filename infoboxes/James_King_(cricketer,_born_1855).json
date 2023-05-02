@@ -1,0 +1,26 @@
+{
+    "name": "James King",
+    "country": "England",
+    "fullname": "James King",
+    "birth_place": "Southampton, Hampshire",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/15890.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "39",
+        "bat avg": "9.75",
+        "100s/50s": "0/0",
+        "deliveries": "404",
+        "wickets": "10",
+        "bowl avg": "22.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/64",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Kent": "1881",
+        "Hampshire": "1882"
+    }
+}

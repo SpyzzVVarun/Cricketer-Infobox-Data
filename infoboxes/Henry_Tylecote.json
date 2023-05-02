@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Henry Grey Tylecote",
+    "birth_place": "Marston Moreteyne,, Bedfordshire, England",
+    "death_date": "df=y",
+    "death_place": "Summertown, Oxfordshire,, England",
+    "family": "Edward Tylecote (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/21998.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "442",
+        "bat avg": "11.94",
+        "100s/50s": "\u2013/1",
+        "top score": "54",
+        "deliveries": "1,839",
+        "wickets": "45",
+        "bowl avg": "17.24",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "8/51",
+        "catches/stumpings": "25/5"
+    },
+    "clubs": {
+        "Oxford University": "1874\u20131877",
+        "Marylebone Cricket Club": "1879\u20131886",
+        "Hertfordshire": "1900"
+    }
+}

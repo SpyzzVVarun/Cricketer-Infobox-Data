@@ -1,0 +1,52 @@
+{
+    "name": "Dilip Sardesai",
+    "fullname": "Dilip Narayan Sardesai",
+    "birth_place": "Margao, Goa, Portuguese India",
+    "death_date": "2007",
+    "death_place": "Mumbai, India",
+    "family": "Rajdeep Sardesai (son),  Sagarika Ghose (daughter-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "year2": "1961\u20131965",
+    "country": "India",
+    "testcap": "103",
+    "testdebutagainst": "England",
+    "testdebutdate": "1 December",
+    "testdebutyear": "1961",
+    "lasttestdate": "20 December",
+    "lasttestagainst": "England",
+    "lasttestyear": "1972",
+    "source": "http://www.espncricinfo.com/ci/content/player/33850.html ESPNcricinfo",
+    "Tests": {
+        "matches": "30",
+        "runs": "2,001",
+        "bat avg": "39.23",
+        "100s/50s": "5/9",
+        "top score": "212",
+        "deliveries": "59",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "179",
+        "runs": "10,230",
+        "bat avg": "41.75",
+        "100s/50s": "25/56",
+        "top score": "222",
+        "deliveries": "791",
+        "wickets": "8",
+        "bowl avg": "69.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/15",
+        "catches/stumpings": "85/\u2013"
+    },
+    "clubs": {
+        "Bombay": "1961\u20131973 || club2 = Associated Cement Company"
+    },
+    "birth_date": "1940-8-8"
+}

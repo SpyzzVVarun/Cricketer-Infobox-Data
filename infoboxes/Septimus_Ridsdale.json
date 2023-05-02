@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Septimus Otter Barnes Ridsdale",
+    "birth_place": "Crowcombe, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Fatehpur, North-Western Provinces, British India",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19972.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1862"
+    }
+}

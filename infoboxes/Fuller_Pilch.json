@@ -1,0 +1,36 @@
+{
+    "name": "Fuller Pilch",
+    "country": "England",
+    "fullname": "Fuller Pilch",
+    "birth_place": "Horningtoft, Norfolk, England",
+    "death_date": "1870",
+    "death_place": "Canterbury, Kent, England",
+    "heightft": "6",
+    "heightinch": "1/2",
+    "batting": "Right-handed",
+    "bowling": "Right arm slow Right arm slow (roundarm)",
+    "source": "https://cricketarchive.com/Archive/Players/32/32076/32076.html Cricket Archive ",
+    "First-class": {
+        "matches": "229",
+        "runs": "7147",
+        "bat avg": "18.61",
+        "100s/50s": "3/24",
+        "deliveries": "670",
+        "wickets": "142",
+        "bowl avg": "21.33",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/?",
+        "catches/stumpings": "122/\u2013"
+    },
+    "clubs": {
+        "Kent": "1836\u20131854",
+        "Suffolk": "1830\u20131847",
+        "Hampshire": "1842\u20131845",
+        "Marylebone Cricket Club": "1831\u20131845",
+        "Surrey": "1830\u20131844",
+        "Sussex": "1837\u20131842",
+        "Norfolk": "1820\u20131836"
+    },
+    "birth_date": "1804-3-17"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "Wales",
+    "fullname": "Clifford Tamplin",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "death_date": "2006",
+    "death_place": "Leominster, Herefordshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/21452.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "56",
+        "bat avg": "18.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "8/2"
+    },
+    "clubs": {
+        "Glamorgan": "1947",
+        "Bengal": "1942/43"
+    },
+    "birth_date": "1920-5-14"
+}

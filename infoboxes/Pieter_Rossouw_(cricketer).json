@@ -1,0 +1,39 @@
+{
+    "country": "Namibia",
+    "fullname": "Pieter Rossouw",
+    "birth_place": "Keetmanshoop, South-West Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Occasional wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/48/48456/48456.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "35",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "357",
+        "wickets": "5",
+        "bowl avg": "37.80",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/35",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "44",
+        "bat avg": "44.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "156",
+        "wickets": "3",
+        "bowl avg": "52.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/17",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2009/10&ndash;"
+    },
+    "birth_date": "1980-6-19"
+}

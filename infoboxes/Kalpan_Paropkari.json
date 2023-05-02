@@ -1,0 +1,26 @@
+{
+    "name": "Kalpan Paropkari",
+    "country": "India",
+    "fullname": "Kalpan Paropkari",
+    "birth_place": "India",
+    "female": "true",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "odidebutdate": "1 January",
+    "odidebutyear": "1978",
+    "odidebutagainst": "England",
+    "odicap": "10",
+    "lastodidate": "8 January",
+    "lastodiyear": "1978",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17147/17147.html CricketArchive ",
+    "WODI": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "7.66",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {}
+}

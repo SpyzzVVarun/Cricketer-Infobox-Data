@@ -1,0 +1,51 @@
+{
+    "name": "Swapnil Patil",
+    "country": "United Arab Emirates",
+    "fullname": "Swapnil Prakash Patil",
+    "birth_place": "Thane, Maharashtra, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsman",
+    "odidebutdate": "2 February",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Scotland",
+    "odicap": "44",
+    "lastodidate": "18 November",
+    "lastodiyear": "2015",
+    "lastodiagainst": "Hong Kong",
+    "T20Idebutdate": "17 March",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "7",
+    "lastT20Idate": "21 March",
+    "lastT20Iyear": "2014",
+    "lastT20Iagainst": "Zimbabwe",
+    "source": "http://www.espncricinfo.com/ci/content/player/447458.html Cricinfo ",
+    "ODI": {
+        "matches": "10",
+        "runs": "241",
+        "bat avg": "34.42",
+        "100s/50s": "0/2",
+        "catches/stumpings": "3/1"
+    },
+    "FC": {
+        "matches": "7",
+        "runs": "532",
+        "bat avg": "59.11",
+        "100s/50s": "0/5",
+        "top score": "94",
+        "catches/stumpings": "9/3"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "862",
+        "bat avg": "31.92",
+        "100s/50s": "0/5",
+        "catches/stumpings": "31/8"
+    },
+    "clubs": {
+        "United Arab Emirates": "2010\u2013present",
+        "Mumbai under-19": "2004/05\u20132005/06",
+        "Chittagong Vikings": "2015"
+    },
+    "birth_date": "1985-4-15"
+}

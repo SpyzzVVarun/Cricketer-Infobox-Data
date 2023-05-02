@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Bernard John Willson",
+    "birth_place": "Strood, Kent, England",
+    "death_date": "df=yes",
+    "nickname": "Tug",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/23045.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "87",
+        "bat avg": "21.75",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "deliveries": "405",
+        "wickets": "7",
+        "bowl avg": "28.14",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/87",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1935-6-20"
+}

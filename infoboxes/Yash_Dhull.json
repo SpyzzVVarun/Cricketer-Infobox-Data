@@ -1,0 +1,46 @@
+{
+    "name": "Yash Dhull",
+    "country": "India",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "full_name": "Yash Vijay Dhull",
+    "birth_place": "New Delhi, India",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "17 February",
+    "debutyear1": "2022",
+    "debutfor1": "Delhi",
+    "debutagainst1": "Tamil Nadu",
+    "source": "year2=2022/23",
+    "FC": {
+        "matches": "10",
+        "runs": "939",
+        "bat avg": "67.07",
+        "100s/50s": "4/12",
+        "deliveries": "78",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "363",
+        "bat avg": "72.60",
+        "100s/50s": "0/3",
+        "top score": "73",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Delhi": "2021/22\u2013present"
+    },
+    "birth_date": "2002-11-11"
+}

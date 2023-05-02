@@ -1,0 +1,39 @@
+{
+    "country": "Namibia",
+    "fullname": "Wian van Vuuren",
+    "birth_place": "Windhoek, Khomas Region, Namibia",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/908/908528/908528.html CricketArchive subscription required ",
+    "First-class": {
+        "matches": "9",
+        "runs": "339",
+        "bat avg": "18.83",
+        "100s/50s": "&ndash;/1",
+        "top score": "55",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "122",
+        "bat avg": "11.09",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "26",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2009/10&ndash;"
+    },
+    "birth_date": "1993-3-31"
+}

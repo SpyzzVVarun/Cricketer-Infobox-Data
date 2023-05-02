@@ -1,0 +1,38 @@
+{
+    "name": "Zeeshan Ashraf",
+    "country": "Pakistan",
+    "fullname": "Zeeshan Ali Ashraf",
+    "birth_place": "Okara, Punjab, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Wicket-keeper-batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/520183.html Cricinfo ",
+    "FC": {
+        "matches": "34",
+        "runs": "1,794",
+        "bat avg": "29.40",
+        "100s/50s": "6/5",
+        "top score": "141",
+        "catches/stumpings": "16/0"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "928",
+        "bat avg": "32.00",
+        "100s/50s": "1/6",
+        "catches/stumpings": "13/0"
+    },
+    "T20": {
+        "matches": "66",
+        "runs": "986",
+        "bat avg": "17.29",
+        "100s/50s": "0/5",
+        "top score": "73",
+        "catches/stumpings": "22/2"
+    },
+    "clubs": {
+        "Southern Punjab": "2019\u2013present",
+        "Multan Sultans( 60 )": "2020"
+    },
+    "birth_date": "1992-5-11"
+}

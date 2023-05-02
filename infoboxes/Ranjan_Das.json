@@ -1,0 +1,43 @@
+{
+    "name": "Ranjan Das",
+    "birth_place": "Dhaka, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "testcap": "10",
+    "country": "Bangladesh",
+    "onetest": "true",
+    "testdebutagainst": "India",
+    "testdebutdate": "10 November",
+    "testdebutyear": "2000",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/56068.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "132",
+        "wickets": "1",
+        "bowl avg": "72.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/64",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "19",
+        "runs": "133",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "2,834",
+        "wickets": "36",
+        "bowl avg": "41.25",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/88",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "July 14, 1982"
+}

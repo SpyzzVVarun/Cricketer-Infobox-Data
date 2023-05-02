@@ -1,0 +1,27 @@
+{
+    "name": "Anantha Krishna",
+    "country": "Singapore",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "T20Idebutdate": "22 July",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Qatar",
+    "T20Icap": "6",
+    "lastT20Idate": "17 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Jersey",
+    "source": "http://www.espncricinfo.com/ci/content/player/775019.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1991-2-1",
+    "medaltemplates": [
+        "Country: {{SGP}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20",
+        "Silver Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

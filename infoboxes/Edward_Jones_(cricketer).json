@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Edward Cyril Jones",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "death_date": "1978",
+    "death_place": "Cardiff, Glamorgan, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15540.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1926"
+    },
+    "birth_date": "1896-3-11"
+}

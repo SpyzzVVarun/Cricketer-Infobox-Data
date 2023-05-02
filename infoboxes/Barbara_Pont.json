@@ -1,0 +1,37 @@
+{
+    "name": "Barbara Pont",
+    "female": "true",
+    "country": "England",
+    "fullname": "Barbara Grace Pont",
+    "birth_place": "Hastings, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "17 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "South Africa",
+    "testcap": "58",
+    "lasttestdate": "31 December",
+    "lasttestyear": "1960",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/17/17069/17069.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1955\u20131968"
+    },
+    "birth_date": "1933-12-20"
+}

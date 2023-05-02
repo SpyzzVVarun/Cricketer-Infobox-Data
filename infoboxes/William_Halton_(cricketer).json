@@ -1,0 +1,17 @@
+{
+    "country": "England",
+    "fullname": "William Halton",
+    "birth_place": "Yarm, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17159.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "112",
+        "bat avg": "10.18",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1861&ndash;1862"
+    }
+}

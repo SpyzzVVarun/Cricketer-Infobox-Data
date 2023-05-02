@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Brian George James",
+    "birth_place": "Wolverhampton, Staffordshire, England",
+    "death_date": "2002",
+    "death_place": "Wolverhampton, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15611.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "19",
+        "deliveries": "110",
+        "wickets": "3",
+        "bowl avg": "16.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/35",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1962&ndash;1973"
+    },
+    "birth_date": "1941-3-21"
+}

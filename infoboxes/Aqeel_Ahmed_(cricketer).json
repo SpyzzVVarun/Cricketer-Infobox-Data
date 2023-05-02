@@ -1,0 +1,44 @@
+{
+    "country": "Pakistan",
+    "fullname": "Aqeel Ahmed",
+    "birth_place": "Faisalabad, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/39199.html Cricinfo",
+    "FC": {
+        "matches": "51",
+        "runs": "444",
+        "bat avg": "9.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "61",
+        "deliveries": "9,227",
+        "wickets": "194",
+        "bowl avg": "26.26",
+        "fivefor": "14",
+        "tenfor": "5",
+        "best bowling": "7/98",
+        "catches/stumpings": "32/&ndash;"
+    },
+    "LA": {
+        "matches": "47",
+        "runs": "60",
+        "bat avg": "5.45",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "deliveries": "2,437",
+        "wickets": "71",
+        "bowl avg": "24.23",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/12",
+        "catches/stumpings": "15/&ndash;"
+    },
+    "clubs": {
+        "Faisalabad Wolves": "2009/10&ndash;present",
+        "Devon": "2003\u20132004",
+        "Water and Power Development Authority": "2000/01&ndash;2008/09",
+        "Faisalabad": "1999/00&ndash;present",
+        "Pontymister Cricket Club": "2010&ndash;present"
+    },
+    "birth_date": "1982-10-1"
+}

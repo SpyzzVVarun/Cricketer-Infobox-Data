@@ -1,0 +1,47 @@
+{
+    "name": "Sammy-Jo Johnson",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Sammy-Jo Johnson",
+    "birth_place": "Lismore, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/959/959560/959560.html CricketArchive ",
+    "WLA": {
+        "matches": "59",
+        "runs": "807",
+        "bat avg": "20.69",
+        "100s/50s": "0/3",
+        "top score": "67",
+        "deliveries": "2,349",
+        "wickets": "62",
+        "bowl avg": "25.82",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/20",
+        "catches/stumpings": "10/\u2013"
+    },
+    "WT20": {
+        "matches": "100",
+        "runs": "735",
+        "bat avg": "14.41",
+        "100s/50s": "0/2",
+        "deliveries": "1,695",
+        "wickets": "90",
+        "bowl avg": "20.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/26",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Cumbria": "2010",
+        "Queensland( 58 )": "2011/12\u20132019/20",
+        "Brisbane Heat( 58 )": "2015/16\u20132019/20",
+        "Sydney Thunder": "2020/21\u2013present",
+        "New South Wales": "2020/21\u2013present",
+        "Trent Rockets": "2021"
+    },
+    "birth_date": "1992-11-5"
+}

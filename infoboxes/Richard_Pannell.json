@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Richard James Pannell",
+    "birth_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/19125.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "60",
+        "wickets": "3",
+        "bowl avg": "7.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/21",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Somerset Cricket Board": "2001"
+    },
+    "birth_date": "1973-6-2"
+}

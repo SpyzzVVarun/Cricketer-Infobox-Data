@@ -1,0 +1,53 @@
+{
+    "name": "A. G. Steel",
+    "country": "England",
+    "fullname": "Allan Gibson Steel",
+    "birth_place": "West Derby, Liverpool",
+    "death_date": "1914",
+    "death_place": "Paddington, Middlesex",
+    "family": "Allan Ivo Steel (son)",
+    "batting": "Right-handed",
+    "bowling": "Right arm fast/slow-medium, off break, leg Right arm fast/slow-medium, off break, leg break",
+    "testdebutdate": "6 September",
+    "testdebutyear": "1880",
+    "testdebutagainst": "Australia",
+    "testcap": "28",
+    "lasttestdate": "17 July",
+    "lasttestyear": "1888",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/52/52.html CricketArchive ",
+    "Tests": {
+        "matches": "13",
+        "runs": "600",
+        "bat avg": "35.29",
+        "100s/50s": "2/0",
+        "top score": "148",
+        "deliveries": "1360",
+        "wickets": "29",
+        "bowl avg": "20.86",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "162",
+        "runs": "7,000",
+        "bat avg": "29.41",
+        "100s/50s": "8/36",
+        "top score": "171",
+        "deliveries": "31,137",
+        "wickets": "789",
+        "bowl avg": "14.78",
+        "fivefor": "64",
+        "tenfor": "20",
+        "best bowling": "9/63",
+        "catches/stumpings": "141/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1877\u20131893",
+        "Marylebone Cricket Club (MCC)": "1880\u20131890",
+        "Cambridge University": "1878\u20131881"
+    },
+    "birth_date": "1858-9-24"
+}

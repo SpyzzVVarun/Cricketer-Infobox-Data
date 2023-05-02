@@ -1,0 +1,30 @@
+{
+    "name": "Charles Richardson",
+    "country": "New Zealand",
+    "fullname": "Charles Augustus Richardson",
+    "birth_place": "Sydney, Australia",
+    "death_date": "1949",
+    "death_place": "Waipara, Canterbury, New Zealand",
+    "batting": "Right-handed",
+    "family": "William Richardson (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/6/6075/6075.html Cricket Archive ",
+    "First-class": {
+        "matches": "30",
+        "runs": "1079",
+        "bat avg": "25.09",
+        "100s/50s": "1/5",
+        "top score": "113",
+        "deliveries": "347",
+        "wickets": "3",
+        "bowl avg": "64.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/12",
+        "catches/stumpings": "22/0"
+    },
+    "clubs": {
+        "New South Wales": "1886-87 to 1894-95",
+        "Wellington": "1897-98 to 1906-07"
+    },
+    "birth_date": "1864-2-22"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Shannon Cunneen",
+    "fullname": "Shannon Brooke Cunneen",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "11 February",
+    "odidebutyear": "2004",
+    "odidebutagainst": "New Zealand",
+    "odicap": "100",
+    "lastodidate": "27 February",
+    "lastodiyear": "2004",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/53683.html CricInfo ",
+    "ODI": {
+        "matches": "4",
+        "runs": "49",
+        "bat avg": "16.33",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "WNCL": {
+        "matches": "41",
+        "runs": "911",
+        "bat avg": "28.46",
+        "100s/50s": "0/5",
+        "top score": "72",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "16/1"
+    },
+    "clubs": {
+        "New South Wales Breakers": "2000/01-2004/05"
+    }
+}

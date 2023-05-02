@@ -1,0 +1,35 @@
+{
+    "country": "England",
+    "fullname": "George Parr",
+    "birth_place": "Radcliffe-on-Trent, Nottinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Radcliffe-on-Trent, Nottinghamshire, England",
+    "nickname": "Lion of the North",
+    "heightft": "5",
+    "heightinch": "9",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/18439.html CricInfo ",
+    "First-class": {
+        "matches": "207",
+        "runs": "6,626",
+        "bat avg": "20.20",
+        "100s/50s": "1/31",
+        "top score": "130",
+        "deliveries": "694",
+        "wickets": "29",
+        "bowl avg": "15.34",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "126/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1845\u20131870",
+        "Surrey": "1853\u20131854",
+        "Sussex": "1853\u20131854",
+        "Kent": "1854\u20131858",
+        "MCC": "1863"
+    },
+    "birth_date": "1826-05-22"
+}

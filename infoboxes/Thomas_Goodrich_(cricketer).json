@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Thomas Cooper Goodrich",
+    "birth_place": "Stamford, Lincolnshire, England",
+    "death_date": "10 March 1885 (aged 61/62)",
+    "death_place": "Stamford, Lincolnshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13910.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "27",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "124",
+        "wickets": "16",
+        "bowl avg": "11.85",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "7/83",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

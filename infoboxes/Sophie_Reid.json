@@ -1,0 +1,30 @@
+{
+    "name": "Sophie Reid",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Sophie Reid",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2510/2510369/2510369.html CricketArchive",
+    "WLA": {
+        "matches": "12",
+        "runs": "232",
+        "bat avg": "19.33",
+        "100s/50s": "0/1",
+        "top score": "73",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WT20": {
+        "matches": "14",
+        "runs": "77",
+        "bat avg": "12.83",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2021/22\u2013present",
+        "Melbourne Stars": "2022/23\u2013present"
+    },
+    "birth_date": "1997-08-28"
+}

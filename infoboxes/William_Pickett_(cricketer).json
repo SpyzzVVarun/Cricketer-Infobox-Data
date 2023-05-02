@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Pickett",
+    "birth_place": "Streatham, Surrey, England",
+    "death_date": "7 December 1849",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19195.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "148",
+        "bat avg": "4.62",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "31",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1828&ndash;1838"
+    }
+}

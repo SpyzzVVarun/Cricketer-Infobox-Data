@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Eric Clarence Puttock",
+    "birth_place": "Billingshurst, Sussex, England",
+    "death_date": "1969",
+    "death_place": "Slinfold, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19092.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "2.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1921"
+    },
+    "birth_date": "1900-3-2"
+}

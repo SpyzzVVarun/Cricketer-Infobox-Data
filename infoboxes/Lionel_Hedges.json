@@ -1,0 +1,40 @@
+{
+    "name": "Lionel Hedges",
+    "country": "England",
+    "fullname": "Lionel Paget Hedges",
+    "birth_place": "Streatham, London",
+    "death_date": "1933",
+    "death_place": "Cheltenham, Gloucestershire",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "30 July",
+    "debutyear1": "1919",
+    "debutfor1": "Kent",
+    "debutagainst1": "Middlesex",
+    "lastdate1": "28 August",
+    "lastyear1": "1929",
+    "lastfor1": "Gloucestershire",
+    "lastagainst1": "Hampshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/14715.html CricInfo ",
+    "First-class": {
+        "matches": "120",
+        "runs": "4,219",
+        "bat avg": "22.20",
+        "100s/50s": "4/20",
+        "top score": "130",
+        "deliveries": "47",
+        "wickets": "1",
+        "bowl avg": "60.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "69/\u2013"
+    },
+    "clubs": {
+        "Kent": "1919\u20131924",
+        "Oxford University": "1920\u20131923",
+        "Gloucestershire": "1926\u20131929"
+    },
+    "birth_date": "1900-7-13"
+}

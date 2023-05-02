@@ -1,0 +1,27 @@
+{
+    "name": "Andrew Sheridan",
+    "country": "Ireland",
+    "fullname": "Andrew Sheridan",
+    "type1": "Twenty20",
+    "debutdate1": "16 June",
+    "debutyear1": "2017",
+    "debutfor1": "Leinster",
+    "debutagainst1": "Munster",
+    "source": "http://www.espncricinfo.com/ci/content/player/1102233.html ESPNcricinfo ",
+    "Twenty20": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "26.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/26",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Leinster Lightning": "2017\u2013present"
+    }
+}

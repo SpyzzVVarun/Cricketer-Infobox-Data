@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Norman Martin Mischler",
+    "birth_place": "Paddington, London, England",
+    "death_date": "df=y",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/17207.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "76",
+        "bat avg": "15.35",
+        "100s/50s": "\u2013/2",
+        "top score": "76",
+        "catches/stumpings": "35/10"
+    },
+    "clubs": {
+        "Europeans": "1941/42\u20131943/44",
+        "Cambridge University": "1946\u20131947"
+    }
+}

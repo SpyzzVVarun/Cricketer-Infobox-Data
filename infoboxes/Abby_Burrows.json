@@ -1,0 +1,63 @@
+{
+    "name": "Abby Burrows",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Abby Kirstyn Burrows",
+    "birth_place": "Whakat\u0101ne, Bay of Plenty, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "2009\u20132010",
+    "odidebutdate": "1 February",
+    "odidebutyear": "2009",
+    "odidebutagainst": "Australia",
+    "odicap": "111",
+    "lastodidate": "6 March",
+    "lastodiyear": "2010",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/44/44567/44567.html CricketArchive",
+    "WODI": {
+        "matches": "9",
+        "runs": "5",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "337",
+        "wickets": "7",
+        "bowl avg": "38.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WLA": {
+        "matches": "122",
+        "runs": "285",
+        "bat avg": "8.14",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "5,318",
+        "wickets": "120",
+        "bowl avg": "27.13",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/39",
+        "catches/stumpings": "20/\u2013"
+    },
+    "WT20": {
+        "matches": "33",
+        "runs": "13",
+        "bat avg": "4.33",
+        "100s/50s": "0/0",
+        "deliveries": "628",
+        "wickets": "27",
+        "bowl avg": "21.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/3",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Central Districts": "1997/98\u20132014/15"
+    },
+    "birth_date": "1977-01-29"
+}

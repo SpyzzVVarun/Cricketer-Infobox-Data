@@ -1,0 +1,55 @@
+{
+    "name": "Vani Morea",
+    "country": "Papua New Guinea",
+    "fullname": "Vani Vagi Morea",
+    "birth_place": "Port Moresby, Papua New Guinea",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "odidebutdate": "8 November",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Hong Kong",
+    "odicap": "9",
+    "lastodidate": "8 March",
+    "lastodiyear": "2018",
+    "lastodiagainst": "West Indies",
+    "T20Idebutdate": "23 July",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "Afghanistan",
+    "T20Icap": "12",
+    "lastT20Idate": "12 April",
+    "lastT20Iyear": "2017",
+    "lastT20Iagainst": "UAE",
+    "source": "http://www.espncricinfo.com/ci/content/player/387435.html Cricinfo ",
+    "ODI": {
+        "matches": "13",
+        "runs": "313",
+        "bat avg": "26.08",
+        "100s/50s": "0/3",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20I": {
+        "matches": "5",
+        "runs": "35",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "6",
+        "runs": "249",
+        "bat avg": "20.75",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "778",
+        "bat avg": "35.36",
+        "100s/50s": "1/7",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1983-3-13"
+}

@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Walter Hulatt Bradshaw",
+    "birth_place": "Adelaide, South Australia, Australia",
+    "death_date": "1986",
+    "death_place": "Adderbury, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9404.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "330",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/1",
+        "top score": "81",
+        "deliveries": "4,460",
+        "wickets": "76",
+        "bowl avg": "26.32",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "8/68",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1948",
+        "Europeans (India)": "1936/37\u20131937/38",
+        "Rajputana": "1935/36\u20131939/40",
+        "Oxford University": "1929\u20131931"
+    },
+    "birth_date": "1909-1-22"
+}

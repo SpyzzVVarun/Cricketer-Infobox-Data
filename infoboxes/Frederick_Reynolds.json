@@ -1,0 +1,38 @@
+{
+    "name": "Frederick Reynolds",
+    "country": "England",
+    "fullname": "Frederick Reginald Reynolds",
+    "birth_place": "Bottisham, Cambridgeshire, England",
+    "death_date": "1915",
+    "death_place": "Chorlton-cum-Hardy, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "17 May",
+    "debutyear1": "1854",
+    "debutfor1": "Cambridge Town Club",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "3 August",
+    "lastyear1": "1874",
+    "lastfor1": "Lancashire",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32318/32318.html CricketArchive ",
+    "First-class": {
+        "matches": "65",
+        "runs": "444",
+        "bat avg": "5.55",
+        "100s/50s": "0/0",
+        "deliveries": "8,514",
+        "wickets": "208",
+        "bowl avg": "17.58",
+        "fivefor": "11",
+        "tenfor": "0",
+        "best bowling": "6/58",
+        "catches/stumpings": "52/\u2013"
+    },
+    "clubs": {
+        "Cambridge Town Club": "1854\u20131867",
+        "Lancashire": "1865\u20131874"
+    },
+    "birth_date": "1833-8-7"
+}

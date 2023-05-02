@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Francis Trower",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Kensington, London, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22099.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "116",
+        "bat avg": "19.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1838&ndash;1840"
+    }
+}

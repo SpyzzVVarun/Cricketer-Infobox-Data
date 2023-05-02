@@ -1,0 +1,29 @@
+{
+    "name": "Norman Humphries",
+    "country": "England",
+    "fullname": "Norman Hampton Humphries",
+    "birth_place": "Kidderminster, Worcestershire, England",
+    "death_date": "2000",
+    "death_place": "Seaton, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "source": "https://cricketarchive.com/Archive/Players/30/30479/30479.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "137",
+        "bat avg": "13.70",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1946"
+    },
+    "birth_date": "1917-5-19"
+}

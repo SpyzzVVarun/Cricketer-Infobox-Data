@@ -1,0 +1,27 @@
+{
+    "name": "Brian Hall",
+    "country": "England",
+    "fullname": "Brian Charles Hall",
+    "birth_place": "Marylebone, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/29/29879/29879.html CricketArchive ",
+    "FC": {
+        "matches": "3",
+        "runs": "34",
+        "bat avg": "11.33",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "228",
+        "wickets": "3",
+        "bowl avg": "32.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Worcestershire": "1956&ndash;1957"
+    },
+    "birth_date": "1934-3-2"
+}

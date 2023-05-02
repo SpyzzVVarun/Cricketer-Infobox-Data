@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "James Preston",
+    "birth_place": "England",
+    "death_date": "9 1842",
+    "death_place": "Kingston, Surrey County, Jamaica",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19241.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "46",
+        "bat avg": "46.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1828"
+    }
+}

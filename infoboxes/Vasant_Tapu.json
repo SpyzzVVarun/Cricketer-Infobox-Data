@@ -1,0 +1,37 @@
+{
+    "name": "Vasant Tapu",
+    "country": "Tanzania",
+    "fullname": "Vasant Tapu Harji Chavda",
+    "birth_place": "Tanganyika",
+    "death_date": "August 1988",
+    "batting": "Left-handed",
+    "bowling": "Left-arm fast-medium/Left-arm orthodox Left-arm fast-medium/Left-arm orthodox spin",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "19 August",
+    "debutyear1": "1967",
+    "debutfor1": "East Africa",
+    "debutagainst1": "India",
+    "lastdate1": "18 January",
+    "lastyear1": "1974",
+    "lastfor1": "East Africa",
+    "lastagainst1": "MCC",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26676/26676.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "96",
+        "bat avg": "24.00",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "246",
+        "wickets": "8",
+        "bowl avg": "21.12",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/72",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "East Africa": "1967-1974"
+    }
+}

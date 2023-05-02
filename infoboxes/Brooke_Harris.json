@@ -1,0 +1,29 @@
+{
+    "name": "Brooke Harris",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Brooke Lee Harris",
+    "birth_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1165/1165021/1165021.html CricketArchive ",
+    "WLA": {
+        "matches": "7",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "232",
+        "wickets": "9",
+        "bowl avg": "21.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/41",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "South Australian Scorpions": "2016\u2013"
+    },
+    "birth_date": "1997-8-27"
+}

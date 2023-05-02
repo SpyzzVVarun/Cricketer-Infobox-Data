@@ -1,0 +1,61 @@
+{
+    "name": "Elaine Cunningham",
+    "female": "true",
+    "fullname": "Elaine Cunningham",
+    "role": "All-rounder",
+    "internationalspan": "1993",
+    "country": "West Indies",
+    "odidebutdate": "24 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "Australia",
+    "odicap": "26",
+    "lastodidate": "29 July",
+    "lastodiyear": "1993",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/17/17407/17407.html CricketArchive ",
+    "WODI": {
+        "matches": "5",
+        "runs": "18",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "167",
+        "wickets": "4",
+        "bowl avg": "19.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "6",
+        "runs": "82",
+        "bat avg": "11.71",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "12",
+        "wickets": "2",
+        "bowl avg": "20.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WLA": {
+        "matches": "17",
+        "runs": "211",
+        "bat avg": "15.07",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "263",
+        "wickets": "7",
+        "bowl avg": "23.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1975/76\u20131999"
+    }
+}

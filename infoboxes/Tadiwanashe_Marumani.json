@@ -1,0 +1,42 @@
+{
+    "name": "Tadiwanashe Marumani",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Wicket-keeper batter",
+    "country": "Zimbabwe",
+    "internationalspan": "2021\u2013present",
+    "odidebutdate": "16 July",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "143",
+    "lastodidate": "23 January",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Ireland",
+    "odishirt": "49",
+    "T20Idebutdate": "21 April",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "64",
+    "lastT20Idate": "15 January",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Ireland",
+    "source": "http://www.espncricinfo.com/ci/content/player/946507.html Cricinfo ",
+    "ODI": {
+        "matches": "11",
+        "runs": "139",
+        "bat avg": "13.90",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "1/0"
+    },
+    "T20I": {
+        "matches": "16",
+        "runs": "170",
+        "bat avg": "10.62",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2002-1-2"
+}

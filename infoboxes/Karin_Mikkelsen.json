@@ -1,0 +1,29 @@
+{
+    "name": "Karin Mikkelsen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Karin Mikkelsen",
+    "role": "Batsman",
+    "odidebutdate": "20 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "England",
+    "odicap": "21",
+    "lastodidate": "21 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54968.html Cricinfo ",
+    "WODI": {
+        "matches": "20",
+        "runs": "297",
+        "bat avg": "17.47",
+        "100s/50s": "0/0",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "83.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/53",
+        "catches/stumpings": "4/-"
+    },
+    "clubs": {}
+}

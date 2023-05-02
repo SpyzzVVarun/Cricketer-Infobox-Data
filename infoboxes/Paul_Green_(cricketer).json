@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Paul Green",
+    "birth_place": "Salford, Greater Manchester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13455.html Cricinfo ",
+    "LA": {
+        "matches": "6",
+        "runs": "107",
+        "bat avg": "21.40",
+        "100s/50s": "\u2013/1",
+        "top score": "63",
+        "deliveries": "50",
+        "wickets": "1",
+        "bowl avg": "47.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/32",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Lancashire Cricket Board": "1999\u20132002"
+    },
+    "birth_date": "1976-6-1"
+}

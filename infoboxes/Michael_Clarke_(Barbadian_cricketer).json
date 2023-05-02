@@ -1,0 +1,39 @@
+{
+    "name": "Michael Clarke",
+    "country": "West Indies",
+    "fullname": "Michael Ian Coleridge Clarke",
+    "birth_place": "Strathclyde, St Michael, Barbados",
+    "death_date": "1982",
+    "death_place": "Bay Street, St Michael, Barbados",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "1 February",
+    "debutyear1": "1941",
+    "debutfor1": "Barbados",
+    "debutagainst1": "Trinidad and Tobago",
+    "lastdate1": "12 February",
+    "lastyear1": "1941",
+    "lastfor1": "Barbados",
+    "lastagainst1": "Trinidad and Tobago",
+    "source": "https://cricketarchive.com/Archive/Players/23/23407/23407.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "212",
+        "bat avg": "53.00",
+        "100s/50s": "1/0",
+        "top score": "153",
+        "deliveries": "232",
+        "wickets": "1",
+        "bowl avg": "73.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/29",
+        "catches/stumpings": "2"
+    },
+    "clubs": {
+        "Barbados": "1941"
+    },
+    "birth_date": "1913-9-21"
+}

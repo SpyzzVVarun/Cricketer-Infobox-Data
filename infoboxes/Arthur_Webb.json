@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Webb",
+    "country": "England",
+    "fullname": "Arthur Stuart Webb",
+    "birth_place": "Bridge, Kent, England",
+    "death_date": "1952",
+    "death_place": "Briton Ferry, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "George Webb (Brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/22350.html Cricinfo ",
+    "FC": {
+        "matches": "151",
+        "runs": "5,515",
+        "bat avg": "21.54",
+        "100s/50s": "2/28",
+        "deliveries": "1,821",
+        "wickets": "22",
+        "bowl avg": "46.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/18",
+        "catches/stumpings": "83/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1912",
+        "Hampshire": "1895&ndash;1904"
+    },
+    "birth_date": "1868-8-6"
+}

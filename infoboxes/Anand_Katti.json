@@ -1,0 +1,41 @@
+{
+    "name": "Anand Katti",
+    "country": "India",
+    "fullname": "Anand Katti",
+    "birth_place": "Belgaum, Karnataka, India",
+    "batting": "Right-handed",
+    "bowling": "Slow Left-arm Slow Left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/30050.html Cricinfo ",
+    "FC": {
+        "matches": "46",
+        "runs": "799",
+        "bat avg": "17.75",
+        "100s/50s": "1/2",
+        "deliveries": "9479",
+        "wickets": "141",
+        "bowl avg": "25.85",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/93",
+        "catches/stumpings": "23/\u2013"
+    },
+    "List A": {
+        "matches": "28",
+        "runs": "81",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "736",
+        "wickets": "18",
+        "bowl avg": "40.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/23",
+        "catches/stumpings": "-/\u2013"
+    },
+    "clubs": {
+        "Karnataka": "1996\u20132009"
+    },
+    "birth_date": "1972-7-11"
+}

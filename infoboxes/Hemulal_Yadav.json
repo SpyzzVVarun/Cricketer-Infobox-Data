@@ -1,0 +1,36 @@
+{
+    "name": "Hemulal Yadav",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/india/content/player/36100.html Cricinfo",
+    "List A": {
+        "matches": "7",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;",
+        "deliveries": "333",
+        "wickets": "10",
+        "bowl avg": "28.40",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/39",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "First-class": {
+        "matches": "8",
+        "runs": "11",
+        "bat avg": "1.37",
+        "100s/50s": "&ndash;",
+        "top score": "5",
+        "deliveries": "1,586",
+        "wickets": "24",
+        "bowl avg": "35.12",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "7/80",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Tripura": "1996-98"
+    }
+}

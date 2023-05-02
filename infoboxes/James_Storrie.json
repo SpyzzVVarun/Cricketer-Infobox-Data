@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "James Storrie",
+    "birth_place": "Hawick, Roxburghshire, Scotland",
+    "death_date": "1951",
+    "death_place": "Hawick, Roxburghshire, Scotland",
+    "family": "Walter Storrie (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/player/james-storrie-25365 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "53",
+        "bat avg": "17.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "216",
+        "wickets": "1",
+        "bowl avg": "86.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/10",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1911"
+    }
+}

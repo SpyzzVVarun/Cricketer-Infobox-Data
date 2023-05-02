@@ -1,0 +1,30 @@
+{
+    "name": "Cecil Currie",
+    "country": "England",
+    "fullname": "Cecil Edmund Currie",
+    "birth_place": "Brightwalton, Berkshire, England",
+    "death_date": "1937",
+    "death_place": "Staines, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "family": "Sir Frederick Currie (father), Frederick Currie (cousin), Fendall Currie (uncle), Robert Currie (uncle), William Currie (uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/10895.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "300",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "3,318",
+        "wickets": "64",
+        "bowl avg": "22.28",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "8/57",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1881\u20131885",
+        "Cambridge University": "1883"
+    }
+}

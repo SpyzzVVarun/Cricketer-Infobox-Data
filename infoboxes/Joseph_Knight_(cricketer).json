@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Joseph William Knight",
+    "birth_place": "Highworth, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Childrey, Oxfordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/16084.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "114",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1920&ndash;1923",
+        "Cambridge University": "1921"
+    }
+}

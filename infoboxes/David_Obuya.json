@@ -1,0 +1,61 @@
+{
+    "name": "David Obuya",
+    "country": "Kenya",
+    "fullname": "David Oluoch Obuya",
+    "nickname": "Oloo, Terenge, Lion",
+    "birth_place": "Nairobi, Kenya",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Collins Obuya (brother)",
+    "internationalspan": "2001\u20132012",
+    "odidebutdate": "15 August",
+    "odidebutyear": "2001",
+    "odidebutagainst": "West Indies",
+    "odicap": "24",
+    "lastodidate": "20 February",
+    "lastodiyear": "2012",
+    "lastodiagainst": "Ireland",
+    "T20Idebutdate": "1 September",
+    "T20Idebutyear": "2007",
+    "T20Idebutagainst": "Bangladesh",
+    "T20Icap": "6",
+    "lastT20Idate": "14 March",
+    "lastT20Iyear": "2012",
+    "lastT20Iagainst": "Ireland",
+    "source": "http://www.espncricinfo.com/kenya/content/player/24760.html Cricinfo ",
+    "ODI": {
+        "matches": "74",
+        "runs": "1,355",
+        "bat avg": "19.35",
+        "100s/50s": "0/6",
+        "top score": "93",
+        "catches/stumpings": "39/5"
+    },
+    "T20I": {
+        "matches": "10",
+        "runs": "216",
+        "bat avg": "27.00",
+        "100s/50s": "0/2",
+        "catches/stumpings": "2/1"
+    },
+    "FC": {
+        "matches": "23",
+        "runs": "1,196",
+        "bat avg": "29.17",
+        "100s/50s": "2/6",
+        "top score": "105",
+        "catches/stumpings": "32/3"
+    },
+    "LA": {
+        "matches": "97",
+        "runs": "1,883",
+        "bat avg": "21.15",
+        "100s/50s": "0/10",
+        "top score": "93",
+        "catches/stumpings": "56/14"
+    },
+    "clubs": {
+        "Kenya Select": "2006/07"
+    },
+    "birth_date": "1979-8-14"
+}

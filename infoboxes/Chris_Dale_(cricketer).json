@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Christopher Stephen Dale",
+    "birth_place": "Canterbury, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/12021.html CricInfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "118",
+        "bat avg": "14.75",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "955",
+        "wickets": "7",
+        "bowl avg": "87.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "69.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/35",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1984",
+        "Kent": "1986"
+    },
+    "birth_date": "1961-9-15"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Harold Hale",
+    "birth_place": "Perth, Colony of Western Australia",
+    "death_date": "1947",
+    "death_place": "Melbourne, Victoria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off-spin Right-arm Right-arm off-spin Right-arm medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/5563.html Cricinfo ",
+    "First-class": {
+        "matches": "57",
+        "runs": "1,067",
+        "bat avg": "12.12",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "4,983",
+        "wickets": "99",
+        "bowl avg": "23.18",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "7/42",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1883/84\u20131910/11",
+        "Gloucestershire": "1886\u20131887",
+        "Cambridge University": "1887\u20131890"
+    },
+    "birth_date": "1867-3-27"
+}

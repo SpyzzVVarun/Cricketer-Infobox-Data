@@ -1,0 +1,42 @@
+{
+    "name": "Charles Leslie",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1882",
+    "lasttestdate": "21 February",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1883",
+    "source": "https://cricketarchive.com/Archive/Players/0/68/68.html CricketArchive",
+    "Test": {
+        "matches": "4",
+        "runs": "106",
+        "bat avg": "15.14",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "96",
+        "wickets": "4",
+        "bowl avg": "11.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "48",
+        "runs": "1,860",
+        "bat avg": "22.96",
+        "100s/50s": "4/10",
+        "top score": "144",
+        "deliveries": "332",
+        "wickets": "8",
+        "bowl avg": "20.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/31",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {}
+}

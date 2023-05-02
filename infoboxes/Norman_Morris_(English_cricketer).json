@@ -1,0 +1,37 @@
+{
+    "name": "Norman Morris",
+    "fullname": "Norman Morris",
+    "birth_place": "Peckham, Surrey",
+    "death_date": "20 January 1874 (aged 25)",
+    "death_place": "Ford, Lingfield, Surrey",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "21 July",
+    "debutyear1": "1870",
+    "debutfor1": "Kent",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "11 August",
+    "lastyear1": "1873",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.espncricinfo.com/england/content/player/17694.html CricInfo",
+    "First-class": {
+        "matches": "17",
+        "runs": "473",
+        "bat avg": "14.33",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/4"
+    },
+    "clubs": {
+        "Kent": "1870\u20131872",
+        "Surrey": "1873"
+    }
+}

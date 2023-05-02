@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Anthony John Anstruther Wilkinson",
+    "birth_place": "Durham, County Durham, England",
+    "death_date": "1905",
+    "death_place": "Anerley, Kent, England",
+    "family": "Cyril Wilkinson (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "https://www.espncricinfo.com/player/anthony-wilkinson-22985 Cricinfo ",
+    "First-class": {
+        "matches": "61",
+        "runs": "1,351",
+        "bat avg": "13.64",
+        "100s/50s": "\u2013/5",
+        "deliveries": "2,799",
+        "wickets": "53",
+        "bowl avg": "22.62",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/52",
+        "catches/stumpings": "43/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1864&ndash;1874",
+        "Yorkshire": "1865&ndash;1868",
+        "Marylebone Cricket Club": "1867&ndash;1871"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Tiana Atkinson",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Tiana Atkinson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/2512/2512544/2512544.html CricketArchive",
+    "WLA": {
+        "matches": "5",
+        "runs": "63",
+        "bat avg": "12.60",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2021/22\u2013present"
+    },
+    "birth_date": "2002-4-30"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Allnutt Haywood",
+    "birth_place": "Eltham, Kent, England",
+    "death_date": "1942",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "family": "Robert Haywood (father), Robert Haywood (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/robert-haywood-14669 Cricinfo ",
+    "First-class": {
+        "matches": "172",
+        "runs": "8,373",
+        "bat avg": "28.77",
+        "100s/50s": "20/34",
+        "top score": "198",
+        "deliveries": "2,013",
+        "wickets": "34",
+        "bowl avg": "43.11",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/73",
+        "catches/stumpings": "85/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "1908&ndash;1924"
+    }
+}

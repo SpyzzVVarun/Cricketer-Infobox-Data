@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas Hare",
+    "birth_place": "Westminster, London, England",
+    "death_date": "df=yes",
+    "death_place": "King's Lynn, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14535.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "218",
+        "bat avg": "13.62",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "deliveries": "1,512",
+        "wickets": "19",
+        "bowl avg": "39.68",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/35",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1947&ndash;1954",
+        "Cambridge University": "1953"
+    }
+}

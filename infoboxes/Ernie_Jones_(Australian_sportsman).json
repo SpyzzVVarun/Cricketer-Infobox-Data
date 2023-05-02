@@ -1,0 +1,42 @@
+{
+    "name": "Ernie Jones",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "14 December",
+    "testdebutyear": "1894",
+    "lasttestdate": "11 October",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1902",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6046.html Cricinfo",
+    "Test": {
+        "matches": "19",
+        "runs": "126",
+        "bat avg": "5.04",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "3,754",
+        "wickets": "64",
+        "bowl avg": "29.01",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/88",
+        "catches/stumpings": "21/\u2013"
+    },
+    "First-class": {
+        "matches": "144",
+        "runs": "2,390",
+        "bat avg": "13.13",
+        "100s/50s": "0/7",
+        "top score": "82",
+        "deliveries": "31,755",
+        "wickets": "641",
+        "bowl avg": "22.83",
+        "fivefor": "47",
+        "tenfor": "9",
+        "best bowling": "8/39",
+        "catches/stumpings": "107/\u2013"
+    },
+    "clubs": {}
+}

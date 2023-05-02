@@ -1,0 +1,40 @@
+{
+    "name": "M. P. Bajana",
+    "country": "India",
+    "fullname": "Manek Pallon Bajana",
+    "birth_place": "India",
+    "death_date": "1927",
+    "death_place": "London, England",
+    "nickname": "Pyjamas editor-first=Scyld ",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "type1": "First-class",
+    "debutdate1": "29 June",
+    "debutyear1": "1911",
+    "debutfor1": "Indians",
+    "debutagainst1": "Surrey",
+    "lastdate1": "18 August",
+    "lastyear1": "1920",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Middlesex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3415/3415.html CricketArchive ",
+    "First-class": {
+        "matches": "55",
+        "runs": "1975",
+        "bat avg": "20.78",
+        "100s/50s": "3/7",
+        "top score": "115",
+        "deliveries": "233",
+        "wickets": "4",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "36/\u2013"
+    },
+    "clubs": {
+        "Indians": "1911",
+        "Somerset": "1912\u20131920"
+    },
+    "birth_date": "1886-09-14"
+}

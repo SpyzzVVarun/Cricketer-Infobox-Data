@@ -1,0 +1,42 @@
+{
+    "name": "Randall Lyon",
+    "fullname": "John Randall Lyon",
+    "birth_place": "Trinidad",
+    "country": "West Indies",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/23/23853/23853.html Cricket Archive",
+    "First-class": {
+        "matches": "40",
+        "runs": "616",
+        "bat avg": "13.10",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "22.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/31",
+        "catches/stumpings": "62/24"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "40",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "n/a",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "7/4"
+    },
+    "clubs": {
+        "North Trinidad": "1973-74 to 1977-78",
+        "Trinidad": "1975-76 to 1982-83"
+    },
+    "birth_date": "1952-3-4"
+}

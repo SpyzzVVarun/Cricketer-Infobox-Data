@@ -1,0 +1,49 @@
+{
+    "name": "Roy Kilner",
+    "country": "England",
+    "fullname": "Roy Kilner",
+    "birth_place": "Wombwell, Yorkshire, England",
+    "death_date": "1928",
+    "death_place": "Kendray, Barnsley, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "testdebutdate": "14 June",
+    "testdebutyear": "1924",
+    "testdebutagainst": "South Africa",
+    "testcap": "214",
+    "lasttestdate": "27 July",
+    "lasttestyear": "1926",
+    "lasttestagainst": "Australia",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/0/433/433.html CricketArchive",
+    "Test": {
+        "matches": "9",
+        "runs": "233",
+        "bat avg": "33.28",
+        "100s/50s": "0/2",
+        "top score": "74",
+        "deliveries": "2,368",
+        "wickets": "24",
+        "bowl avg": "30.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/58",
+        "catches/stumpings": "6/0"
+    },
+    "First-class": {
+        "matches": "416",
+        "runs": "14,707",
+        "bat avg": "30.01",
+        "100s/50s": "18/82",
+        "deliveries": "58,678",
+        "wickets": "1,003",
+        "bowl avg": "18.45",
+        "fivefor": "48",
+        "tenfor": "10",
+        "best bowling": "8/26",
+        "catches/stumpings": "266/0"
+    },
+    "clubs": {
+        "Yorkshire": "1911\u20131927"
+    },
+    "birth_date": "1890-10-17"
+}

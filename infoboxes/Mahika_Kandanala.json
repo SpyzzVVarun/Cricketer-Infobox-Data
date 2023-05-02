@@ -1,0 +1,33 @@
+{
+    "name": "Mahika Kandanala",
+    "female": "true",
+    "country": "United States",
+    "fullname": "Mahika Kandanala",
+    "birth_place": "Carrollton, Texas",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "5 September",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "15",
+    "lastT20Idate": "18 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Scotland",
+    "source": "http://www.espncricinfo.com/ci/content/player/1057352.html Cricinfo ",
+    "WT20I": {
+        "matches": "6",
+        "runs": "47",
+        "bat avg": "11.75",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "4",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2001-8-6"
+}

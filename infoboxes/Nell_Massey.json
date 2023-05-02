@@ -1,0 +1,23 @@
+{
+    "name": "Nell Massey",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "21 February",
+    "testdebutyear": "1958",
+    "testdebutagainst": "England",
+    "testcap": "46",
+    "lasttestdate": "21 March",
+    "lasttestyear": "1958",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53537.html CricInfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "98",
+        "bat avg": "19.60",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/6"
+    },
+    "clubs": {}
+}

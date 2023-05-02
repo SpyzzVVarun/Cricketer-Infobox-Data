@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Richard Moore Bell",
+    "birth_place": "Wigton, Cumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/9664.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "225",
+        "bat avg": "11.25",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,107",
+        "wickets": "31",
+        "bowl avg": "28.67",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/88",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "London County": "1902&ndash;1904"
+    }
+}

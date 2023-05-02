@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Arthur Augustus Farmer",
+    "birth_place": "London, England",
+    "death_date": "1897",
+    "death_place": "Buffalo, New York, United States",
+    "family": "Charles Farmer (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/13256.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "37",
+        "bat avg": "2.46",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "25",
+        "bowl avg": "?",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/?",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1834&ndash;1836",
+        "Marylebone Cricket Club": "1839",
+        "Surrey": "1839"
+    }
+}

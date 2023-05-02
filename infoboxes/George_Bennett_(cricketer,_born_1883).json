@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "George Guy Marsland Bennett",
+    "birth_place": "Chorlton-on-Medlock, Lancashire, England",
+    "death_date": "df=y",
+    "death_place": "Sunningdale, Berkshire, England",
+    "family": "John Bennett (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/9686.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "380",
+        "bat avg": "23.75",
+        "100s/50s": "1/1",
+        "top score": "131",
+        "deliveries": "66",
+        "wickets": "2",
+        "bowl avg": "24.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/20",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1902\u20131927",
+        "Oxford University": "1903\u20131905"
+    }
+}

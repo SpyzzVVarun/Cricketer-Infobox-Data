@@ -1,0 +1,25 @@
+{
+    "name": "Simon Stanway",
+    "fullname": "Simon Francis Stanway",
+    "birth_place": "Aylesbury, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20335.html Cricinfo ",
+    "List A": {
+        "matches": "12",
+        "runs": "6",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "582",
+        "wickets": "9",
+        "bowl avg": "37.11",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/30",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1989\u20132015"
+    },
+    "birth_date": "1966-4-22"
+}

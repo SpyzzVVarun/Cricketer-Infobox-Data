@@ -1,0 +1,33 @@
+{
+    "name": "Joseph Arthur Gibbs",
+    "country": "England",
+    "fullname": "Joseph Arthur Gibbs",
+    "birth_place": "London, England",
+    "death_date": "1899",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "9 July",
+    "debutyear1": "1891",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "4 June",
+    "lastyear1": "1896",
+    "lastfor1": "Marylebone Cricket Club (MCC)",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3568/3568.html CricketArchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "162",
+        "bat avg": "9.52",
+        "100s/50s": "0/1",
+        "top score": "75",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1890\u20131894",
+        "Marylebone Cricket Club (MCC)": "1894\u20131896"
+    },
+    "birth_date": "1867-11-25"
+}

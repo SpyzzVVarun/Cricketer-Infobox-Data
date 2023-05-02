@@ -1,0 +1,27 @@
+{
+    "name": "Malhotra Chamanlal",
+    "birth_place": "Ludhiana, Punjab, India",
+    "death_date": "2020",
+    "death_place": "Ludhiana, Punjab, India",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/27854.html Cricinfo ",
+    "First-class": {
+        "matches": "46",
+        "runs": "2418",
+        "bat avg": "37.78",
+        "100s/50s": "4/12",
+        "top score": "141 not out",
+        "wickets": "42",
+        "bowl avg": "38.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/46",
+        "catches/stumpings": "32/0"
+    },
+    "clubs": {
+        "Eastern Punjab": "1952-53 to 1957-58",
+        "Northern Punjab": "1962-63 to 1967-68",
+        "Punjab": "1968-69 to 1970-71"
+    },
+    "birth_date": "1935-9-5"
+}

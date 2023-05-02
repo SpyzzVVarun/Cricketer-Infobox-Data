@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Gwyn Hughes",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/14292.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "457",
+        "bat avg": "12.35",
+        "100s/50s": "&ndash;/1",
+        "top score": "92",
+        "deliveries": "3,263",
+        "wickets": "31",
+        "bowl avg": "44.12",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/31",
+        "catches/stumpings": "22/&ndash;"
+    },
+    "clubs": {
+        "Cambridge University": "1965",
+        "Glamorgan": "1962&ndash;1964"
+    },
+    "birth_date": "1941-3-26"
+}

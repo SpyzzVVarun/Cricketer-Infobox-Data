@@ -1,0 +1,32 @@
+{
+    "name": "Leonard Dudman",
+    "country": "Scotland",
+    "fullname": "Leonard Charles Dudman",
+    "birth_place": "Dundee, Scotland",
+    "death_date": "2004",
+    "death_place": "Dundee, Scotland",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "23 July",
+    "debutyear1": "1955",
+    "debutfor1": "Scotland",
+    "debutagainst1": "Ireland",
+    "lastdate1": "14 August",
+    "lastyear1": "1968",
+    "lastfor1": "Scotland",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/26/26993/26993.html CricketArchive ",
+    "FC": {
+        "matches": "35",
+        "runs": "1286",
+        "bat avg": "22.17",
+        "100s/50s": "1/5",
+        "top score": "161",
+        "catches/stumpings": "20/0"
+    },
+    "clubs": {
+        "Scotland": "1955\u20131968"
+    },
+    "birth_date": "1933-8-4"
+}

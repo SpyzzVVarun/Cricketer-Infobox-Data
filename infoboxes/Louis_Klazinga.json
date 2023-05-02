@@ -1,0 +1,53 @@
+{
+    "country": "Namibia",
+    "fullname": "Louis Klazinga",
+    "birth_place": "Pretoria, Transvaal Province, , South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/137/137570/137570.html CricketArchive ",
+    "FC": {
+        "matches": "57",
+        "runs": "896",
+        "bat avg": "16.29",
+        "100s/50s": "&ndash;/1",
+        "top score": "51",
+        "deliveries": "7,398",
+        "wickets": "171",
+        "bowl avg": "24.26",
+        "fivefor": "8",
+        "tenfor": "&ndash;",
+        "best bowling": "6/70",
+        "catches/stumpings": "26/&ndash;"
+    },
+    "LA": {
+        "matches": "66",
+        "runs": "326",
+        "bat avg": "12.53",
+        "100s/50s": "&ndash;/1",
+        "top score": "64",
+        "deliveries": "2,850",
+        "wickets": "106",
+        "bowl avg": "24.20",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/50",
+        "catches/stumpings": "19/&ndash;"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "85",
+        "bat avg": "28.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "205",
+        "wickets": "13",
+        "bowl avg": "18.23",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/18",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2006/07&ndash;"
+    },
+    "birth_date": "1985-12-4"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "John Gunner",
+    "country": "England",
+    "fullname": "John Hugh Gunner",
+    "birth_place": "Bishops Waltham, Hampshire, England",
+    "death_date": "1918",
+    "death_place": "Kemmel, Flanders, Belgium",
+    "family": "Charles Gunner (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/13487.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "65",
+        "bat avg": "8.12",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1906&ndash;1907"
+    }
+}

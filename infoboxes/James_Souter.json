@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "James Stewart Souter",
+    "birth_place": "Kanpur, United Provinces,, British India",
+    "death_date": "df=yes",
+    "death_place": "St Leonards-on-Sea, East Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/20936.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "47",
+        "bat avg": "23.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1948"
+    },
+    "birth_date": "1923-2-13"
+}

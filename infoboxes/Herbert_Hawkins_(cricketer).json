@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Herbert Hervey Baines Hawkins",
+    "birth_place": "Streatham Hill, Surrey, England",
+    "death_date": "1933",
+    "death_place": "Trincomalee, British Ceylon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/herbert-hawkins-14636 Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "159",
+        "bat avg": "7.95",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,402",
+        "wickets": "48",
+        "bowl avg": "23.81",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "7/45",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1896&ndash;1899"
+    }
+}

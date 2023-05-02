@@ -1,0 +1,33 @@
+{
+    "name": "George Raikes",
+    "country": "England",
+    "fullname": "George Barkley Raikes",
+    "birth_place": "Carleton Forehoe, Norfolk, England",
+    "death_date": "1966",
+    "death_place": "Lamyatt, Shepton Mallet, Somerset, England",
+    "family": "Ernest Raikes (brother) Thomas Raikes (nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/6/6813/6813.html CricketArchive ",
+    "First-class": {
+        "matches": "30",
+        "runs": "816",
+        "bat avg": "17.00",
+        "100s/50s": "0/3",
+        "top score": "77",
+        "deliveries": "3,418",
+        "wickets": "71",
+        "bowl avg": "24.40",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/62",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1904\u20131913",
+        "Oxford University": "1893\u20131896",
+        "Hampshire": "1900\u20131902"
+    },
+    "birth_date": "1873-3-14"
+}

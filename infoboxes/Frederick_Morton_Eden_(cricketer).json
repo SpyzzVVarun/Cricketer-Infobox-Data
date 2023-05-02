@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Frederick Morton Eden",
+    "birth_place": "Messing, Essex, England",
+    "death_date": "df=yes",
+    "death_place": "South Kensington, London,, England",
+    "family": "Frederick Eden (cousin), Sidney Olivier (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12748.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "232",
+        "bat avg": "17.84",
+        "100s/50s": "\u2013/3",
+        "top score": "51",
+        "deliveries": "?",
+        "wickets": "2",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/?",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1849&ndash;1851",
+        "Marylebone Cricket Club": "1852"
+    }
+}

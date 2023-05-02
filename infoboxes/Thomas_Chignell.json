@@ -1,0 +1,28 @@
+{
+    "name": "Thomas Chignell",
+    "country": "England",
+    "fullname": "Thomas Alexander Chignell",
+    "birth_place": "Havant, Hampshire, England",
+    "death_date": "1965",
+    "death_place": "Portsmouth, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/10720.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "181",
+        "bat avg": "10.05",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,858",
+        "wickets": "33",
+        "bowl avg": "33.57",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/68",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1901\u20131904"
+    },
+    "birth_date": "1880-10-31"
+}

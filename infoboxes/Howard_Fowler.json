@@ -1,0 +1,24 @@
+{
+    "name": "Howard Fowler",
+    "country": "England",
+    "fullname": "Howard Fowler",
+    "birth_place": "Tottenham, Middlesex, England",
+    "death_date": "1934",
+    "death_place": "Burnham-on-Sea, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Players/29/29508/29508.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "471",
+        "bat avg": "16.24",
+        "100s/50s": "0/2",
+        "top score": "63",
+        "catches/stumpings": "13/7"
+    },
+    "clubs": {
+        "Oxford University": "1877\u20131880",
+        "MCC": "1884"
+    },
+    "birth_date": "1857-10-20"
+}

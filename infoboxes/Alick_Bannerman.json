@@ -1,0 +1,53 @@
+{
+    "name": "Alick Bannerman",
+    "country": "Australia",
+    "fullname": "Alexander Chalmers Bannerman",
+    "birth_place": "Paddington, New South Wales",
+    "death_date": "1924",
+    "death_place": "Paddington, New South Wales",
+    "nickname": "Little Alec",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium roundarm",
+    "role": "Batsman",
+    "family": "Charles Bannerman (brother)",
+    "testdebutdate": "2 January",
+    "testdebutyear": "1879",
+    "testdebutagainst": "England",
+    "testcap": "16",
+    "lasttestdate": "24 August",
+    "lasttestyear": "1893",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/4089.html Cricinfo ",
+    "Test": {
+        "matches": "28",
+        "runs": "1,108",
+        "bat avg": "23.08",
+        "100s/50s": "0/8",
+        "top score": "94",
+        "deliveries": "292",
+        "wickets": "4",
+        "bowl avg": "40.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/111",
+        "catches/stumpings": "21/\u2013"
+    },
+    "First-class": {
+        "matches": "219",
+        "runs": "7,816",
+        "bat avg": "22.14",
+        "100s/50s": "5/30",
+        "top score": "134",
+        "deliveries": "1,295",
+        "wickets": "22",
+        "bowl avg": "29.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "154/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1876/77\u20131893/94"
+    },
+    "birth_date": "1854-3-21"
+}

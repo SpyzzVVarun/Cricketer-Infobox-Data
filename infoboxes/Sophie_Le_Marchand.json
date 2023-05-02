@@ -1,0 +1,31 @@
+{
+    "name": "Sophie Le Marchand",
+    "country": "England",
+    "fullname": "Sophie Jane Le Marchand",
+    "birth_place": "Worcester, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "EE Le Marchand  (Sister) , Lewis Jaques (husband)",
+    "source": "https://cricketarchive.com/Archive/Players/113/113028/113028.html CricketArchive ",
+    "List A": {
+        "matches": "45",
+        "runs": "592",
+        "bat avg": "19.09",
+        "100s/50s": "0/3",
+        "top score": "69",
+        "catches/stumpings": "20/20"
+    },
+    "Twenty20": {
+        "matches": "8",
+        "runs": "34",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "2/10"
+    },
+    "clubs": {
+        "Worcestershire": "2004\u20132007",
+        "Somerset": "2008\u20132014"
+    },
+    "birth_date": "1988-10-02"
+}

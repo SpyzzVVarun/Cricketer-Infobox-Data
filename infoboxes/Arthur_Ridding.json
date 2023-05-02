@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Arthur Ridding",
+    "birth_place": "Winchester, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "family": "William Ridding (brother), Charles Ridding (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19971.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "265",
+        "bat avg": "13.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1846&ndash;1850"
+    }
+}

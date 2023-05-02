@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Muzaffar Mahmood",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/player/muzaffar-mahmood-25279 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "deliveries": "186",
+        "wickets": "4",
+        "bowl avg": "25.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/63",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1990"
+    },
+    "birth_date": "1963-6-13"
+}

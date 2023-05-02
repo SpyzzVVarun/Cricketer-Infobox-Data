@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Nicholas John Lamb",
+    "birth_place": "St Albans, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Tim Lamb (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16847.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "220",
+        "bat avg": "14.66",
+        "100s/50s": "&ndash;/1",
+        "top score": "62",
+        "deliveries": "1,221",
+        "wickets": "17",
+        "bowl avg": "41.64",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/92",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Durham UCCE": "2005&ndash;2007",
+        "Hertfordshire": "2003&ndash;present"
+    },
+    "birth_date": "1985-11-9"
+}

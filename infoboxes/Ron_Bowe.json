@@ -1,0 +1,21 @@
+{
+    "name": "Ron Bowe",
+    "country": "Australia",
+    "fullname": "Ronald Doig Bowe",
+    "birth_place": "Beaconsfield, Western Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/15/15780/15780.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "110",
+        "bat avg": "22.00",
+        "100s/50s": "0/1",
+        "top score": "86",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1967/68\u20131968/69"
+    },
+    "birth_date": "1939-12-10"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Harcourt Dowsley",
+    "birth_place": "Essendon, Victoria",
+    "death_date": "df=yes",
+    "death_place": "Melbourne, Victoria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Opening batsman",
+    "source": "https://cricketarchive.com/Archive/Players/15/15956/15956.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "336",
+        "bat avg": "56.00",
+        "100s/50s": "0/3",
+        "deliveries": "152",
+        "wickets": "2",
+        "bowl avg": "37.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1937/38\u20131946/47"
+    },
+    "birth_date": "1919-7-15"
+}

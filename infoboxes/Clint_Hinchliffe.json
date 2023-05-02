@@ -1,0 +1,62 @@
+{
+    "name": "Clint Hinchliffe",
+    "fullname": "Clinton Desmond Hinchliffe",
+    "birth_place": "Duncraig, Western Australia",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm unorthodox",
+    "role": "All-rounder",
+    "type1": "List A",
+    "debutdate1": "16 August",
+    "debutyear1": "2016",
+    "debutfor1": "National Performance Squad",
+    "debutagainst1": "Australia A",
+    "source": "http://www.espncricinfo.com/ci/content/player/774217.html ESPNcricinfo",
+    "FC": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "14.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "228",
+        "bat avg": "25.33",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "198",
+        "wickets": "6",
+        "bowl avg": "35.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/71",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "89",
+        "bat avg": "8.90",
+        "100s/50s": "0/0",
+        "deliveries": "294",
+        "wickets": "15",
+        "bowl avg": "27.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/19",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2017/18",
+        "Cricket Australia XI( 2 )": "2017/18",
+        "Perth Scorchers( 23 )": "2018/19",
+        "Melbourne Stars( 23 )": "2019/20\u2013"
+    },
+    "birth_date": "1996-10-23"
+}

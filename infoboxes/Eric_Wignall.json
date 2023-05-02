@@ -1,0 +1,28 @@
+{
+    "name": "Eric Wignall",
+    "fullname": "Eric William Edward Wignall",
+    "birth_place": "Harrow, Middlesex, England",
+    "death_date": "1991",
+    "death_place": "Oxhey, Hertfordshire, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/22970.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "24",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "126",
+        "wickets": "2",
+        "bowl avg": "31.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/50",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1952\u20131953"
+    },
+    "birth_date": "1932-12-25"
+}

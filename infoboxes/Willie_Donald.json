@@ -1,0 +1,42 @@
+{
+    "country": "Scotland",
+    "fullname": "William Alexander Donald",
+    "birth_place": "Huntly, Aberdeenshire, Scotland",
+    "death_date": "2022",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/william-donald-25188 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "221",
+        "bat avg": "20.09",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "474",
+        "wickets": "5",
+        "bowl avg": "32.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/17",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "32",
+        "runs": "492",
+        "bat avg": "15.37",
+        "100s/50s": "\u2013/2",
+        "top score": "59",
+        "deliveries": "960",
+        "wickets": "14",
+        "bowl avg": "39.71",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/30",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1978&ndash;1987"
+    },
+    "birth_date": "1953-7-29"
+}

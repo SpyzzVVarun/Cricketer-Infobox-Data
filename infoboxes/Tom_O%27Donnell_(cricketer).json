@@ -1,0 +1,28 @@
+{
+    "name": "Tom O'Donnell",
+    "fullname": "Thomas James O'Donnell",
+    "birth_place": "Malvern, Victoria, Australia",
+    "batting": "Right handed",
+    "bowling": "Left arm Left arm medium",
+    "role": "Bowler",
+    "family": "Simon O'Donnell (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/959831.html ESPNcricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "38",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "deliveries": "298",
+        "wickets": "9",
+        "bowl avg": "39.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Australian National Performance Squad": "2016",
+        "Cricket Australia XI": "2016"
+    },
+    "birth_date": "1996-10-23"
+}

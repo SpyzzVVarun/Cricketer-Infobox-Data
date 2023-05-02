@@ -1,0 +1,28 @@
+{
+    "name": "Lance Pellew",
+    "country": "Australia",
+    "fullname": "Lancelot Vivian Pellew",
+    "birth_place": "Port Elliot, South Australia",
+    "death_date": "1970",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "family": "Nip Pellew (brother)",
+    "source": "http://www.espncricinfo.com/australia/content/player/7196.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "656",
+        "bat avg": "27.33",
+        "100s/50s": "0/5",
+        "top score": "81",
+        "wickets": "1",
+        "bowl avg": "119.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "South Australia": "1919/20\u20131922/23"
+    },
+    "birth_date": "1899-12-15"
+}

@@ -1,0 +1,39 @@
+{
+    "country": "Scotland",
+    "fullname": "Peter Gordon Duthie",
+    "birth_place": "Greenock, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/peter-duthie-25453 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "122",
+        "bat avg": "24.40",
+        "100s/50s": "\u2013/1",
+        "deliveries": "1,032",
+        "wickets": "11",
+        "bowl avg": "40.72",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/99",
+        "catches/stumpings": "5/\u2013"
+    },
+    "List A": {
+        "matches": "29",
+        "runs": "163",
+        "bat avg": "10.18",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "1,643",
+        "wickets": "27",
+        "bowl avg": "41.77",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/31",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1984&ndash;1994"
+    },
+    "birth_date": "1959-4-16"
+}

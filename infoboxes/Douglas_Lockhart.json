@@ -1,0 +1,33 @@
+{
+    "name": "Douglas Lockhart",
+    "fullname": "Douglas Ross Lockhart",
+    "birth_place": "Glasgow, Scotland",
+    "country": "Scotland",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/4/4961/4961.html CricketArchive ",
+    "ODIs": {
+        "matches": "14",
+        "runs": "218",
+        "bat avg": "24.22",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "11/\u2013"
+    },
+    "FC": {
+        "matches": "24",
+        "runs": "849",
+        "bat avg": "22.94",
+        "100s/50s": "1/4",
+        "top score": "151",
+        "catches/stumpings": "34/1"
+    },
+    "LA": {
+        "matches": "105",
+        "runs": "1,484",
+        "bat avg": "17.87",
+        "100s/50s": "0/5",
+        "catches/stumpings": "59/9"
+    },
+    "clubs": {},
+    "birth_date": "19 January 1976"
+}

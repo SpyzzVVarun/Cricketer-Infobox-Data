@@ -1,0 +1,27 @@
+{
+    "name": "Richard Bodle",
+    "country": "England",
+    "birth_place": "Alfriston, Sussex, England",
+    "death_date": "1869",
+    "death_place": "Southampton, Hampshire, England",
+    "source": "http://www.cricinfo.com/ci/content/player/10472.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "342",
+        "bat avg": "12.66",
+        "100s/50s": "0/1",
+        "top score": "70",
+        "deliveries": "388",
+        "wickets": "15",
+        "bowl avg": "12.37",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1842\u20131849",
+        "Sussex": "1838"
+    },
+    "birth_date": "1816-12-23"
+}

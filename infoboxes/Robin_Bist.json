@@ -1,0 +1,60 @@
+{
+    "name": "Robin Bist",
+    "country": "India",
+    "fullname": "Robin Bist",
+    "birth_place": "Delhi, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Opening Batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/262464.html Cricinfo ",
+    "FC": {
+        "matches": "104",
+        "runs": "6,810",
+        "bat avg": "46.01",
+        "100s/50s": "15/34",
+        "deliveries": "483",
+        "wickets": "7",
+        "bowl avg": "108.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "48/\u2013"
+    },
+    "LA": {
+        "matches": "56",
+        "runs": "1,638",
+        "bat avg": "34.12",
+        "100s/50s": "2/11",
+        "top score": "120",
+        "deliveries": "59",
+        "wickets": "1",
+        "bowl avg": "77.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/46",
+        "catches/stumpings": "26/\u2013"
+    },
+    "T20": {
+        "matches": "38",
+        "runs": "476",
+        "bat avg": "15.86",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "60",
+        "wickets": "5",
+        "bowl avg": "14.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/19",
+        "catches/stumpings": "7/-"
+    },
+    "clubs": {
+        "Rajasthan": "2017/18-2019/20",
+        "Delhi Daredevils": "2012",
+        "Himachal Pradesh": "2015/16-2016/17",
+        "Victoria Sporting Club": "2017",
+        "Sikkim": "2020/21",
+        "Uttarakhand": "2021/22-present"
+    },
+    "birth_date": "1987-11-2"
+}

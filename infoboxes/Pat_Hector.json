@@ -1,0 +1,27 @@
+{
+    "name": "Pat Hector",
+    "country": "England",
+    "fullname": "Patrick Anthony Hector",
+    "birth_place": "Islington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14144.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "75",
+        "bat avg": "18.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "40",
+        "deliveries": "336",
+        "wickets": "7",
+        "bowl avg": "33.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/56",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Essex": "1977"
+    },
+    "birth_date": "1958-7-29"
+}

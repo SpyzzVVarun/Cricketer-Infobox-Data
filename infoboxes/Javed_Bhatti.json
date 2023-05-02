@@ -1,0 +1,24 @@
+{
+    "name": "Javed Bhatti",
+    "country": "Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/40980.html Cricinfo",
+    "First-class": {
+        "matches": "55",
+        "runs": "3530",
+        "bat avg": "40.57",
+        "100s/50s": "8/18",
+        "top score": "145",
+        "deliveries": "5394",
+        "wickets": "111",
+        "bowl avg": "24.49",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "6/77",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Bahawalpur": "1958\u201359 to 1975\u201376"
+    }
+}

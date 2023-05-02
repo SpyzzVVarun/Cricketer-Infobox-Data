@@ -1,0 +1,21 @@
+{
+    "name": "John Fox",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/13174.html Cricinfo",
+    "First-class": {
+        "matches": "140",
+        "runs": "2,907",
+        "bat avg": "16.70",
+        "100s/50s": "0/8",
+        "top score": "73",
+        "deliveries": "5,743",
+        "wickets": "46",
+        "bowl avg": "47.67",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "30/0"
+    },
+    "clubs": {}
+}

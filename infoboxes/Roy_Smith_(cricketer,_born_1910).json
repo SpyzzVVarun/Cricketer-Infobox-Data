@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Roy Smith",
+    "birth_place": "Stoke-on-Trent, Staffordshire, England",
+    "death_date": "1971",
+    "death_place": "Great Chell, Staffordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/20885.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1949",
+        "Staffordshire": "1931&ndash;1954"
+    },
+    "birth_date": "1910-1-20"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Arthur Thomas",
+    "birth_place": "London, England",
+    "death_date": "1895",
+    "death_place": "Malvern, Worcestershire, England",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/cricketers/arthur-thomas-22064 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "31",
+        "bat avg": "6.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1837\u20131838"
+    }
+}

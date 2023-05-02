@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Bryan",
+    "birth_place": "Kimberley, Nottinghamshire,, England",
+    "death_date": "1933",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/10109.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1897&ndash;1903"
+    }
+}

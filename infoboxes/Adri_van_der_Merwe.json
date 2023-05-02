@@ -1,0 +1,28 @@
+{
+    "name": "Adri van der Merwe",
+    "female": "true",
+    "country": "Namibia",
+    "fullname": "Adri van der Merwe",
+    "birth_place": "Swakopmund, Namibia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening batsmen",
+    "T20Idebutdate": "20 August",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Malawi",
+    "T20Icap": "10",
+    "lastT20Idate": "3 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Germany",
+    "source": "http://www.espncricinfo.com/ci/content/player/1119572.html Cricinfo ",
+    "WT20I": {
+        "matches": "44",
+        "runs": "750",
+        "bat avg": "21.42",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2002-6-6"
+}

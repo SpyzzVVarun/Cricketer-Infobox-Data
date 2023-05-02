@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Ian Anthony Hawtin",
+    "birth_place": "Bicester, Oxfordshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/14103.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "46",
+        "bat avg": "15.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "clubs": {
+        "Oxfordshire": "1995&ndash;present"
+    },
+    "birth_date": "1966-10-10"
+}

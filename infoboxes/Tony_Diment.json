@@ -1,0 +1,39 @@
+{
+    "name": "Tony Diment",
+    "country": "England",
+    "fullname": "Robert Anthony Diment",
+    "birth_place": "Tortworth, Gloucestershire, England",
+    "death_date": "2005",
+    "death_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "23 July",
+    "debutyear1": "1952",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Essex",
+    "lastdate1": "30 August",
+    "lastyear1": "1958",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/29/29075/29075.html CricketArchive ",
+    "FC": {
+        "matches": "60",
+        "runs": "1595",
+        "bat avg": "16.44",
+        "100s/50s": "\u2013/6",
+        "top score": "71",
+        "deliveries": "6",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "0/4",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1952",
+        "Leicestershire": "1955\u201358"
+    },
+    "birth_date": "1927-2-9"
+}

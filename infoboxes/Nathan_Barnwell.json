@@ -1,0 +1,50 @@
+{
+    "name": "Nathan Barnwell",
+    "fullname": "Nathan Andr\u00e9 Barnwell",
+    "birth_place": "Ashford, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "debutdate1": "20 May",
+    "debutyear1": "2022",
+    "debutfor1": "Surrey",
+    "debutagainst1": "SLC Development XI",
+    "type2": "List A",
+    "debutdate2": "10 August",
+    "debutyear2": "2022",
+    "debutfor2": "Surrey",
+    "debutagainst2": "Middlesex",
+    "source": "https://www.espncricinfo.com/player/nathan-barnwell-1150573 ESPNcricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "138",
+        "wickets": "1",
+        "bowl avg": "100.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/68",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "32",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Surrey( 29 )": "2022"
+    },
+    "birth_date": "2003-2-3"
+}

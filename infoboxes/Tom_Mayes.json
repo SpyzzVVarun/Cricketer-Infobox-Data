@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas William Mayes",
+    "birth_place": "Whitby, Yorkshire, England",
+    "death_date": "March 1931 (aged 71/72)",
+    "death_place": "Pontypool, Monmouthshire, , Wales",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/17457.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "51",
+        "bat avg": "5.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "20",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "11/3"
+    },
+    "clubs": {
+        "Monmouthshire": "1897&ndash;1904",
+        "Sussex": "1889"
+    }
+}

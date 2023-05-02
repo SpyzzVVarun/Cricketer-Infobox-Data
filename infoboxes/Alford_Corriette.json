@@ -1,0 +1,41 @@
+{
+    "country": "West Indies",
+    "fullname": "Alford Corriette",
+    "birth_place": "Montserrat",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/51602.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "851",
+        "bat avg": "25.78",
+        "100s/50s": "1/6",
+        "deliveries": "3,185",
+        "wickets": "44",
+        "bowl avg": "30.61",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/33",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "deliveries": "108",
+        "wickets": "1",
+        "bowl avg": "81.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/31",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Combined Leeward and Windward Island": "1972/73&ndash;1975/76",
+        "Leeward Islands": "1972/73&ndash;1975/76",
+        "Montserrat": "1970&ndash;1976"
+    },
+    "birth_date": "1948-8-23"
+}

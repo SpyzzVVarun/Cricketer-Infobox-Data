@@ -1,0 +1,38 @@
+{
+    "name": "David Christmas",
+    "country": "England",
+    "fullname": "David Anthony Christmas",
+    "birth_place": "Bourne, Lincolnshire, England",
+    "nickname": "Father",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "type1": "LA",
+    "debutdate1": "26 June",
+    "debutyear1": "1991",
+    "debutfor1": "Lincolnshire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "5 May",
+    "lastyear1": "2004",
+    "lastfor1": "Lincolnshire",
+    "lastagainst1": "Glamorgan",
+    "source": "https://cricketarchive.com/Archive/Players/9/9093/9093.html CricketArchive ",
+    "List A": {
+        "matches": "14",
+        "runs": "153",
+        "bat avg": "15.30",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "710",
+        "wickets": "10",
+        "bowl avg": "57.10",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/48",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "1989\u20132005"
+    },
+    "birth_date": "1969-04-01"
+}

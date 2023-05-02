@@ -1,0 +1,49 @@
+{
+    "name": "Percie Charlton",
+    "fullname": "Percie Chater Charlton",
+    "birth_place": "Surry Hills, Sydney, Australia",
+    "death_date": "df=yes",
+    "death_place": "Pymble, Sydney, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "21 July",
+    "testdebutyear": "1890",
+    "lasttestdate": "11 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1890",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/4563.html Cricinfo",
+    "Tests": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "45",
+        "wickets": "3",
+        "bowl avg": "8.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/18",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "40",
+        "runs": "648",
+        "bat avg": "12.46",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "5291",
+        "wickets": "97",
+        "bowl avg": "19.96",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/44",
+        "catches/stumpings": "39/0"
+    },
+    "clubs": {
+        "New South Wales": "1888/89-1897/98"
+    },
+    "birth_date": "1867-4-9"
+}

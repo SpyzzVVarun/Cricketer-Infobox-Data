@@ -1,0 +1,25 @@
+{
+    "name": "Prashant Vaidya",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Fast Medium Fast Medium bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/35627.html ",
+    "Tests": {
+        "matches": "0"
+    },
+    "ODIs": {
+        "matches": "4",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "-/-",
+        "top score": "12",
+        "deliveries": "30.4",
+        "wickets": "4",
+        "bowl avg": "43.50",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "2/41",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Kenneth Jackson",
+    "country": "Scotland",
+    "fullname": "Kenneth Leslie Tattersall Jackson",
+    "birth_place": "Shanghai, Jiangsu,, Republic of China",
+    "death_date": "df=yes",
+    "death_place": "Hinton St George, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15628.html Cricinfo |module= embed=y",
+    "ru_position": "Fly Half",
+    "ru_amateurclubs": "Oxford University",
+    "ru_provinceyears": "1934",
+    "ru_province": [
+        "Scotland Probables"
+    ],
+    "ru_nationalteam": "Scotland",
+    "ru_nationalyears": "1933-34",
+    "ru_nationalcaps": "4",
+    "ru_nationalpoints": "(0)",
+    "First-class": {
+        "matches": "9",
+        "runs": "181",
+        "bat avg": "12.92",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "1,852",
+        "wickets": "29",
+        "bowl avg": "30.13",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/66",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1934-35",
+        "Berkshire": "1938-46"
+    }
+}

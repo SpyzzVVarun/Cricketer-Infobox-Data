@@ -1,0 +1,27 @@
+{
+    "fullname": "Richard Blackstock",
+    "birth_place": "Oxton, Birkenhead, Cheshire, England",
+    "death_date": "1893",
+    "death_place": "Oxton, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/9792.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "154",
+        "bat avg": "22.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "11.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/11",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {
+        "Lancashire": "1865"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Horace Wilson",
+    "country": "Australia",
+    "birth_place": "Kadina, South Australia",
+    "death_date": "1923",
+    "death_place": "West Perth, Western Australia",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/australia/content/player/8361.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/2"
+    },
+    "clubs": {
+        "Western Australia": "1892/93"
+    },
+    "birth_date": "1864-6-28"
+}

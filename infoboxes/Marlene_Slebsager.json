@@ -1,0 +1,30 @@
+{
+    "name": "Marlene Slebsager",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Marlene Slebsager",
+    "birth_place": "Denmark",
+    "role": "All-rounder",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Ireland",
+    "odicap": "10",
+    "lastodidate": "21 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54974.html Cricinfo ",
+    "WODI": {
+        "matches": "21",
+        "runs": "114",
+        "bat avg": "11.40",
+        "100s/50s": "0/0",
+        "deliveries": "906",
+        "wickets": "12",
+        "bowl avg": "42.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

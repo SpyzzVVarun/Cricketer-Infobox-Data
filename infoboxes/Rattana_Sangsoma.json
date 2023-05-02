@@ -1,0 +1,17 @@
+{
+    "name": "Rattana Sangsoma",
+    "female": "true",
+    "country": "Thailand",
+    "source": "http://www.espncricinfo.com/ci/content/player/486937.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1989-6-2",
+    "medaltemplates": [
+        "Country: {{THA}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

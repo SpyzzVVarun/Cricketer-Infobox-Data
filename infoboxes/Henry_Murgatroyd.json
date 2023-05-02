@@ -1,0 +1,27 @@
+{
+    "name": "Henry Murgatroyd",
+    "country": "England",
+    "birth_place": "Swindon, Wiltshire, England",
+    "death_date": "1905",
+    "death_place": "Portsmouth, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/17127.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1883"
+    },
+    "birth_date": "1853-9-19"
+}

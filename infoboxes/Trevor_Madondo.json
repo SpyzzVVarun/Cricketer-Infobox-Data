@@ -1,0 +1,53 @@
+{
+    "name": "Trevor Madondo",
+    "fullname": "Trevor Nyasha Madondo",
+    "country": "Zimbabwe",
+    "birth_place": "Mount Darwin, Mashonaland, Zimbabwe",
+    "death_date": "2001",
+    "death_place": "Parirenyatwa Hospital, Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/55571.html Cricinfo  ",
+    "Test": {
+        "matches": "3",
+        "runs": "90",
+        "bat avg": "30.00",
+        "100s/50s": "0/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "13",
+        "runs": "191",
+        "bat avg": "15.91",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "21",
+        "runs": "653",
+        "bat avg": "21.06",
+        "100s/50s": "0/4",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1976-11-22"
+}

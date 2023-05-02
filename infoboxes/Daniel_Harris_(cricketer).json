@@ -1,0 +1,63 @@
+{
+    "name": "Daniel Harris",
+    "country": "Australia",
+    "fullname": "Daniel Joseph Harris",
+    "birth_place": "North Adelaide, Australia",
+    "heightft": "5",
+    "heightinch": "7",
+    "heightm": "1.75",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/player/daniel-harris-5583 ESPNcricinfo ",
+    "FC": {
+        "matches": "58",
+        "runs": "3329",
+        "bat avg": "31.11",
+        "100s/50s": "5/21",
+        "deliveries": "1226",
+        "wickets": "13",
+        "bowl avg": "44/.15",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/71",
+        "catches/stumpings": "55/\u2013"
+    },
+    "List A": {
+        "matches": "49",
+        "runs": "1195",
+        "bat avg": "24.89",
+        "100s/50s": "0/9",
+        "top score": "79",
+        "deliveries": "110",
+        "wickets": "1",
+        "bowl avg": "121.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/24",
+        "catches/stumpings": "17/\u2013"
+    },
+    "T20": {
+        "matches": "78",
+        "runs": "1,965",
+        "bat avg": "29.77",
+        "100s/50s": "1/9",
+        "deliveries": "400",
+        "wickets": "21",
+        "bowl avg": "24.61",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/18",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1999/00\u20132011/12",
+        "Adelaide Strikers": "2011\u20132012",
+        "Deccan Chargers": "2012",
+        "Ruhuna Royals": "2012",
+        "Melbourne Renegades": "2012/13\u20132013/14",
+        "Khulna Royal Bengals": "2013",
+        "Northern Districts": "2013/14\u20132014/15"
+    },
+    "birth_date": "1979-12-31"
+}

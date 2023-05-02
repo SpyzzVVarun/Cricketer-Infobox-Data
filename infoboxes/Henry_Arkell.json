@@ -1,0 +1,31 @@
+{
+    "name": "Henry Arkell",
+    "country": "England",
+    "fullname": "Henry John Denham Arkell",
+    "birth_place": "Edmonton, Middlesex, England",
+    "death_date": "1982",
+    "death_place": "Oxford, England",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "9 July",
+    "debutyear1": "1921",
+    "debutfor1": "Northamptonshire",
+    "debutagainst1": "Derbyshire",
+    "lastdate1": "10 August",
+    "lastyear1": "1921",
+    "lastfor1": "Northamptonshire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27514/27514.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "1921"
+    },
+    "birth_date": "1898-6-26"
+}

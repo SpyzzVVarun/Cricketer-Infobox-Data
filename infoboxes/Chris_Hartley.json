@@ -1,0 +1,58 @@
+{
+    "name": "Chris Hartley",
+    "country": "Australia",
+    "fullname": "Christopher Desmond Hartley",
+    "nickname": "Harts, Hannibal",
+    "birth_place": "Nambour, Queensland, Australia",
+    "heightm": "1.69",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "19 December",
+    "debutyear1": "2003",
+    "debutfor1": "Queensland",
+    "debutagainst1": "South Australia",
+    "lastdate1": "16 March",
+    "lastyear1": "2017",
+    "lastfor1": "Queensland",
+    "lastagainst1": "Victoria",
+    "type2": "LA",
+    "debutdate2": "29 February",
+    "debutyear2": "2004",
+    "debutfor2": "Queensland",
+    "debutagainst2": "Western Australia",
+    "lastdate2": "21 October",
+    "lastyear2": "2015",
+    "lastfor2": "Queensland",
+    "lastagainst2": "Western Australia",
+    "source": "http://www.espncricinfo.com/australia-domestic-2012/content/player/5742.html ESPNcricinfo ",
+    "FC": {
+        "matches": "131",
+        "runs": "6,138",
+        "bat avg": "34.48",
+        "100s/50s": "10/33",
+        "catches/stumpings": "547/17"
+    },
+    "LA": {
+        "matches": "96",
+        "runs": "2,077",
+        "bat avg": "31.46",
+        "100s/50s": "1/13",
+        "top score": "142",
+        "catches/stumpings": "115/14"
+    },
+    "T20": {
+        "matches": "55",
+        "runs": "312",
+        "bat avg": "17.33",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "34/8"
+    },
+    "clubs": {
+        "Queensland": "2003/04\u20132016/17",
+        "Brisbane Heat": "2011/12\u20132013/14",
+        "Sydney Thunder": "2014/15\u20132015/16"
+    },
+    "birth_date": "1982-5-24"
+}

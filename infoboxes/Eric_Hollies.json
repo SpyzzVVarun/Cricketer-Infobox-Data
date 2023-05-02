@@ -1,0 +1,49 @@
+{
+    "name": "Eric Hollies",
+    "country": "England",
+    "fullname": "William Eric Hollies",
+    "birth_place": "Old Hill, Staffordshire, England",
+    "death_date": "1981",
+    "death_place": "Chinley, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm leg Right arm leg spin",
+    "testdebutdate": "8 January",
+    "testdebutyear": "1935",
+    "testdebutagainst": "West Indies",
+    "testcap": "277",
+    "lasttestdate": "25 July",
+    "lasttestyear": "1950",
+    "lasttestagainst": "West Indies",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/14240.html Cricinfo ",
+    "Test": {
+        "matches": "13",
+        "runs": "37",
+        "bat avg": "5.28",
+        "100s/50s": "0/0",
+        "deliveries": "3,554",
+        "wickets": "44",
+        "bowl avg": "30.27",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "7/50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "515",
+        "runs": "1,673",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "130,625",
+        "wickets": "2,323",
+        "bowl avg": "20.94",
+        "fivefor": "182",
+        "tenfor": "40",
+        "best bowling": "10/49",
+        "catches/stumpings": "179/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1932\u20131957"
+    },
+    "birth_date": "1912-6-5"
+}

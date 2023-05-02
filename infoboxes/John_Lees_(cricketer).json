@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John Lees",
+    "birth_place": "Ashton-under-Lyne, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Brenchley, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/16532.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "8",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1881",
+        "Cambridgeshire": "1897&ndash;1899"
+    }
+}

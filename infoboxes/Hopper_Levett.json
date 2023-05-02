@@ -1,0 +1,48 @@
+{
+    "name": "Hopper Levett",
+    "country": "England",
+    "fullname": "William Howard Vincent Levett",
+    "birth_place": "Goudhurst, Kent",
+    "death_date": "1995",
+    "death_place": "Hastings, East Sussex",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "5 January",
+    "testdebutyear": "1934",
+    "testdebutagainst": "India",
+    "testcap": "273",
+    "source": "http://www.espncricinfo.com/ci/content/player/16265.html CricInfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "First-class": {
+        "matches": "175",
+        "runs": "2,524",
+        "bat avg": "12.25",
+        "100s/50s": "0/2",
+        "top score": "76",
+        "deliveries": "3",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "283/195"
+    },
+    "clubs": {
+        "Kent": "1930\u20131947"
+    },
+    "birth_date": "1908-1-25"
+}

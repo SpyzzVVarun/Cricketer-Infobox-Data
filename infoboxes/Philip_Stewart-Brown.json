@@ -1,0 +1,40 @@
+{
+    "name": "Philip Stewart-Brown",
+    "country": "England",
+    "fullname": "Philip Harman Stewart-Brown",
+    "birth_place": "Bromborough, Cheshire, England",
+    "death_date": "1960",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "role": "Batsman, occasional wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "7 May",
+    "debutyear1": "1924",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "25 June",
+    "lastyear1": "1927",
+    "lastfor1": "HDG Leveson-Gower's XI",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/33/33040/33040.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "845",
+        "bat avg": "28.16",
+        "100s/50s": "0/5",
+        "top score": "99",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "HDG Leveson-Gower's XI": "1927",
+        "Harlequins": "1927",
+        "Oxford University": "1924-1926"
+    },
+    "birth_date": "1904-4-30"
+}

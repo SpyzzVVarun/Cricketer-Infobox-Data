@@ -1,0 +1,43 @@
+{
+    "name": "Neville Knox",
+    "fullname": "Neville Alexander Knox",
+    "birth_place": "Clapham, London, England",
+    "death_date": "1935",
+    "death_place": "Surbiton, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "England",
+    "testdebutdate": "29 July",
+    "testdebutyear": "1907",
+    "lasttestdate": "19 August",
+    "lasttestyear": "1907",
+    "source": "https://www.espncricinfo.com/england/content/player/15921.html Cricinfo",
+    "Tests": {
+        "matches": "2",
+        "runs": "24",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "126",
+        "wickets": "3",
+        "bowl avg": "35.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/39",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "First-class": {
+        "matches": "88",
+        "runs": "905",
+        "bat avg": "10.16",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "14570",
+        "wickets": "411",
+        "bowl avg": "21.55",
+        "fivefor": "38",
+        "tenfor": "9",
+        "best bowling": "8/48",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1884-10-10"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Robert Lyttelton",
+    "country": "England",
+    "fullname": "The Hon Robert Henry Lyttelton",
+    "birth_place": "Westminster, London, England",
+    "death_date": "1939",
+    "death_place": "North Berwick, East Lothian, Scotland",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Underarm",
+    "type1": "First-class",
+    "debutdate1": "19 May",
+    "debutyear1": "1873",
+    "debutfor1": "England XI",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "2 September",
+    "lastyear1": "1880",
+    "lastfor1": "I Zingari",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/31/31127/31127.html ",
+    "First-class": {
+        "matches": "7",
+        "runs": "67",
+        "bat avg": "6.09",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "31.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Gentlemen of Worcestershire": "1871\u20131881",
+        "Marylebone Cricket Club": "1873\u20131874"
+    },
+    "birth_date": "1854-01-18"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Ernest Blamires",
+    "country": "New Zealand",
+    "fullname": "Ernest Oswald Blamires",
+    "birth_place": "Warrnambool, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Slow",
+    "family": "Pat Evison (daughter), Edgar Blamires (brother), Henry Blamires (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/21/21476/21476.html Cricket Archive ",
+    "First-class": {
+        "matches": "20",
+        "runs": "1,015",
+        "bat avg": "26.71",
+        "100s/50s": "2/5",
+        "top score": "133",
+        "deliveries": "1,508",
+        "wickets": "15",
+        "bowl avg": "49.53",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/56",
+        "catches/stumpings": "20/0"
+    },
+    "clubs": {
+        "Wellington": "1911/12\u20131912/13",
+        "Otago": "1923/24\u20131926/27"
+    },
+    "birth_date": "1881-6-11"
+}

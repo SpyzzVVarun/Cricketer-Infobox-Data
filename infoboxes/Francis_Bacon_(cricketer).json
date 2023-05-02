@@ -1,0 +1,29 @@
+{
+    "name": "Francis Bacon",
+    "country": "England",
+    "fullname": "Francis Hugh Bacon",
+    "birth_place": "Colombo, British Ceylon",
+    "death_date": "1915",
+    "death_place": "English Channel, off Calais, France",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.cricinfo.com/england/content/player/8931.html Cricinfo ",
+    "First-class": {
+        "matches": "75",
+        "runs": "1,909",
+        "bat avg": "15.77",
+        "100s/50s": "1/5",
+        "top score": "110",
+        "deliveries": "217",
+        "wickets": "6",
+        "bowl avg": "31.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/23",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1895\u20131911"
+    },
+    "birth_date": "1869-6-24"
+}

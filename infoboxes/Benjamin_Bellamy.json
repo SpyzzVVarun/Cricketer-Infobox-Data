@@ -1,0 +1,31 @@
+{
+    "name": "Benjamin Bellamy",
+    "country": "England",
+    "fullname": "Benjamin Walter Bellamy",
+    "birth_place": "Wollaston, Northamptonshire, England",
+    "death_date": "1985",
+    "death_place": "Wellingborough, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricinfo.com/india/content/player/9668.html Cricinfo ",
+    "First-class": {
+        "matches": "354",
+        "runs": "9,247",
+        "bat avg": "16.54",
+        "100s/50s": "4/37",
+        "top score": "168",
+        "deliveries": "90",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "529/125"
+    },
+    "clubs": {
+        "Northamptonshire": "1920\u20131937"
+    },
+    "birth_date": "1891-4-22"
+}

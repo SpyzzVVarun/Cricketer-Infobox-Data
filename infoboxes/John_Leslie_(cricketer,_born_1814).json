@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "John Leslie",
+    "birth_place": "Dromore, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Albury, Surrey, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16792.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "46",
+        "bat avg": "15.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1836",
+        "Oxford University": "1836"
+    }
+}

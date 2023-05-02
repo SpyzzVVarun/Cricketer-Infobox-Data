@@ -1,0 +1,45 @@
+{
+    "name": "Gordon Rorke",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "30 January",
+    "testdebutyear": "1959",
+    "testcap": "213",
+    "lasttestdate": "19 December",
+    "lasttestagainst": "India",
+    "lasttestyear": "1959",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7395.html Cricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "703",
+        "wickets": "10",
+        "bowl avg": "20.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "36",
+        "runs": "248",
+        "bat avg": "10.78",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "5,742",
+        "wickets": "88",
+        "bowl avg": "24.60",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/52",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1957/58\u20131963/64"
+    }
+}

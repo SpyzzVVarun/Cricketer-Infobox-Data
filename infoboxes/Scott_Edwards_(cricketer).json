@@ -1,0 +1,59 @@
+{
+    "name": "Scott Edwards",
+    "country": "Netherlands",
+    "fullname": "Scott Andrew Edwards",
+    "birth_place": "Tonga",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2017\u2013present",
+    "odidebutdate": "1 August",
+    "odidebutyear": "2018",
+    "odidebutagainst": "Nepal",
+    "odicap": "62",
+    "lastodidate": "2 April",
+    "lastodiyear": "2023",
+    "lastodiagainst": "South Africa",
+    "odishirt": "35",
+    "T20Idebutdate": "12 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "39",
+    "lastT20Idate": "6 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "South Africa",
+    "T20Ishirt": "35",
+    "source": "http://www.espncricinfo.com/ci/content/player/1127317.html Cricinfo ",
+    "ODI": {
+        "matches": "25",
+        "runs": "774",
+        "bat avg": "38.70",
+        "100s/50s": "0/9",
+        "top score": "86",
+        "catches/stumpings": "19/3"
+    },
+    "T20I": {
+        "matches": "51",
+        "runs": "614",
+        "bat avg": "21.17",
+        "100s/50s": "0/0",
+        "catches/stumpings": "41/6"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "5/1"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "938",
+        "bat avg": "33.50",
+        "100s/50s": "0/9",
+        "top score": "86",
+        "catches/stumpings": "32/4"
+    },
+    "clubs": {},
+    "birth_date": "1996-8-23"
+}

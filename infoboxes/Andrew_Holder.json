@@ -1,0 +1,29 @@
+{
+    "name": "Andrew Holder",
+    "fullname": "Andrew Brian Holder",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "13 November",
+    "debutyear1": "2017",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "South Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/1124285.html Cricinfo",
+    "First-class": {
+        "matches": "3",
+        "runs": "48",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "deliveries": "461",
+        "wickets": "8",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/45",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2017/18"
+    }
+}

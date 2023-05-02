@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Jack Pershke",
+    "birth_place": "Richmond, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "at sea",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18912.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "58",
+        "bat avg": "11.40",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,494",
+        "wickets": "28",
+        "bowl avg": "26.85",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/46",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1938"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Christian Charles Tyler Doll",
+    "birth_place": "Kensington, London, England",
+    "death_date": "df=y",
+    "death_place": "Meldreth, Cambridgeshire, England",
+    "family": "Mordaunt Doll (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12216.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "774",
+        "bat avg": "21.50",
+        "100s/50s": "2/1",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1900&ndash;1904",
+        "Cambridge University": "1901",
+        "Hertfordshire": "1901&ndash;1909"
+    }
+}

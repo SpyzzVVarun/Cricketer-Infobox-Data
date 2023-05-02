@@ -1,0 +1,29 @@
+{
+    "name": "Ainslie Caterer",
+    "country": "Australia",
+    "fullname": "Thomas Ainslie Caterer",
+    "birth_place": "Woodville, South Australia",
+    "death_date": "1924",
+    "death_place": "Walkerville, South Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/15/15849/15849.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "124",
+        "wickets": "1",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/42",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1884/85"
+    },
+    "birth_date": "1858-5-16"
+}

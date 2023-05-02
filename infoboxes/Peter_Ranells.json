@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Peter Laurence Ranells",
+    "birth_place": "Bramhall, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19705.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "136",
+        "wickets": "3",
+        "bowl avg": "35.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/38",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Shropshire": "1974&ndash;1986"
+    },
+    "birth_date": "1954-12-26"
+}

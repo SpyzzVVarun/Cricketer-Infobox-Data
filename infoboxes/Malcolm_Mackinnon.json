@@ -1,0 +1,21 @@
+{
+    "name": "Malcolm Mackinnon",
+    "birth_place": "Argyll, Scotland",
+    "death_date": "1975",
+    "death_place": "Sunningdale, Berkshire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/16868.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "122",
+        "bat avg": "12.20",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Essex": "1927\u20131935"
+    },
+    "birth_date": "1891-5-11"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Christopher Mark Bagshaw Tetley",
+    "nickname": "Badger",
+    "birth_place": "Worcester, Worcestershire, England",
+    "batting": "Left-handed",
+    "bowling": "Leg-break",
+    "source": "http://www.espncricinfo.com/ci/content/player/22110.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "60",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Middlesex Cricket Board": "2001"
+    },
+    "birth_date": "1974-9-13"
+}

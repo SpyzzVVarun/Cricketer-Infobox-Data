@@ -1,0 +1,27 @@
+{
+    "name": "Donald Steele",
+    "country": "Australia",
+    "fullname": "Donald Macdonald Steele",
+    "birth_place": "Adelaide, South Australia",
+    "death_date": "1962",
+    "death_place": "Adelaide",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/australia/content/player/7829.html Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "1142",
+        "bat avg": "35.68",
+        "100s/50s": "3/7",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "South Australia": "1911-12 to 1920-21"
+    },
+    "birth_date": "1892-8-17"
+}

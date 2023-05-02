@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Stephen Richard St Leger Blakeney",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "1984",
+    "death_place": "Melbourne, Victoria, Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/27050.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "7.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "19.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/19",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Sind": "1934/35",
+        "Europeans (India)": "1926\u20131927",
+        "Devon": "1924\u20131927"
+    },
+    "birth_date": "1897-3-31"
+}

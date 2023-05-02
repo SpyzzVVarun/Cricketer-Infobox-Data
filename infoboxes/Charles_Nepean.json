@@ -1,0 +1,35 @@
+{
+    "name": "Charles Nepean",
+    "fullname": "Charles Edward Burroughs Nepean",
+    "birth_place": "Mayfair, London, England",
+    "death_date": "1903",
+    "death_place": "Lenham, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Underarm Underarm slow",
+    "role": "Wicket-keeper",
+    "family": "A. A. Nepean (brother),, E. A. Nepean (nephew)",
+    "type1": "First-class",
+    "debutdate1": "26 May",
+    "debutyear1": "1870",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "M.C.C.",
+    "lastdate1": "18 June",
+    "lastyear1": "1874",
+    "lastfor1": "Middlesex",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.cricketarchive.co.uk/Middlesex/Players/31/31684/First-Class_Matches.html cricketarchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "290",
+        "bat avg": "18.12",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "6/7"
+    },
+    "clubs": {
+        "Oxford University": "1870\u20131873",
+        "Middlesex": "1873\u20131874",
+        "Gentlemen": "1873"
+    },
+    "birth_date": "1851-2-5"
+}

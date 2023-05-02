@@ -1,0 +1,43 @@
+{
+    "name": "Madeline Penna",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Madeline Penna",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1806/1806555/1806555.html CricketArchive ",
+    "WLA": {
+        "matches": "13",
+        "runs": "334",
+        "bat avg": "30.36",
+        "100s/50s": "1/0",
+        "deliveries": "306",
+        "wickets": "6",
+        "bowl avg": "46.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/41",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "24",
+        "runs": "176",
+        "bat avg": "14.66",
+        "100s/50s": "0/1",
+        "deliveries": "193",
+        "wickets": "13",
+        "bowl avg": "20.69",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/20",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Australian Capital Territory": "2019/20\u20132021/22",
+        "Melbourne Stars": "2019/20",
+        "Adelaide Strikers": "2020/21\u2013present",
+        "South Australia": "2022/23\u2013present"
+    },
+    "birth_date": "2000-08-30"
+}

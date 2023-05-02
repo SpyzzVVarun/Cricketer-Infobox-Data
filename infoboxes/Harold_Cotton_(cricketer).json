@@ -1,0 +1,36 @@
+{
+    "name": "Harold Cotton",
+    "country": "Australia",
+    "fullname": "Harold Norman Jack Cotton",
+    "birth_place": "Prospect, South Australia, Australia",
+    "death_date": "1966",
+    "death_place": "Malvern, South Australia, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "29 February",
+    "debutyear1": "1936",
+    "debutagainst1": "Tasmania",
+    "lastdate1": "21 February",
+    "lastyear1": "1941",
+    "lastagainst1": "New South Wales",
+    "source": "https://cricketarchive.com/Players/15/15898/15898.html CricketArchive ",
+    "First-class": {
+        "matches": "25",
+        "runs": "165",
+        "bat avg": "11.78",
+        "100s/50s": "0/0",
+        "deliveries": "4695",
+        "wickets": "76",
+        "bowl avg": "27.28",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/49",
+        "catches/stumpings": "21/0"
+    },
+    "clubs": {
+        "South Australia": "1935/36\u20131940/41"
+    },
+    "birth_date": "1914-12-3"
+}

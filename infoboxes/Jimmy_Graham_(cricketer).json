@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "James Graham",
+    "birth_place": "Kilmarnock, Ayrshire, Scotland",
+    "death_date": "1942",
+    "death_place": "Clackmannan, Clackmannanshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "https://www.espncricinfo.com/player/james-graham-25221 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "132",
+        "wickets": "1",
+        "bowl avg": "89.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/89",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1924"
+    }
+}

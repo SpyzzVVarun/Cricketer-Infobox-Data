@@ -1,0 +1,29 @@
+{
+    "name": "Reginald Hargreaves",
+    "country": "England",
+    "fullname": "Reginald Gervis Hargreaves",
+    "birth_place": "Oakhill Park, Accrington, Lancashire, England",
+    "death_date": "1926",
+    "death_place": "Cuffnell's, Lyndhurst, Hampshire, England",
+    "family": "Alice Liddell (wife)",
+    "batting": "Right-handed",
+    "bowling": "underarm",
+    "type1": "First-class",
+    "source": "https://cricketarchive.com/Archive/Players/6/6640/6640.html CricketArchive ",
+    "FC": {
+        "matches": "25",
+        "runs": "544",
+        "bat avg": "13.94",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "612",
+        "wickets": "15",
+        "bowl avg": "28.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/55",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {},
+    "birth_date": "1852-10-13"
+}

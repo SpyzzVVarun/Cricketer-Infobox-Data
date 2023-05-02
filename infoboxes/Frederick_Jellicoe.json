@@ -1,0 +1,30 @@
+{
+    "name": "Frederick Jellicoe",
+    "country": "England",
+    "fullname": "Frederick Gilbert Gardiner Jellicoe",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1927",
+    "death_place": "Southwark, London, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm roundarm Left-arm roundarm slow-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15491.html Cricinfo ",
+    "FC": {
+        "matches": "18",
+        "runs": "58",
+        "bat avg": "2.90",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "3,474",
+        "wickets": "78",
+        "bowl avg": "14.92",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "8/36",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1877&ndash;1880",
+        "Oxford University": "1877&ndash;1880"
+    },
+    "birth_date": "1858-2-24"
+}

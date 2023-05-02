@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Nicholas Darnell",
+    "birth_place": "Stockton-on-Tees,, County Durham, England",
+    "death_date": "df=yes",
+    "death_place": "Clifton, Bristol, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12349.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "25",
+        "bat avg": "2.27",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "?",
+        "wickets": "28",
+        "bowl avg": "?",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/?",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1837&ndash;1840"
+    }
+}

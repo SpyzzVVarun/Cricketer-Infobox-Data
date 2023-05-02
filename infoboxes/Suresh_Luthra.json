@@ -1,0 +1,43 @@
+{
+    "name": "Suresh Luthra",
+    "country": "India",
+    "death_date": "2019",
+    "death_place": "Faridabad, Haryana, India",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "source": "https://cricketarchive.com/Archive/Players/39/39651/39651.html CricketArchive",
+    "FC": {
+        "matches": "67",
+        "runs": "1014",
+        "bat avg": "16.35",
+        "100s/50s": "1/4",
+        "top score": "101",
+        "deliveries": "12,047",
+        "wickets": "262",
+        "bowl avg": "16.92",
+        "fivefor": "14",
+        "tenfor": "2",
+        "best bowling": "9/70",
+        "catches/stumpings": "61/&ndash;"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "216",
+        "wickets": "3",
+        "bowl avg": "35.33",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/32",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Northern Punjab": "1965-66",
+        "Delhi": "1967-68 to 1979-80",
+        "Punjab": "1980-81"
+    },
+    "birth_date": "1944-11-27"
+}

@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Frederic James Stevenson Moore",
+    "birth_place": "Leominster, Herefordshire, England",
+    "death_date": "1947",
+    "death_place": "Sherborne, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/frederic-moore-17654 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "61",
+        "bat avg": "61.00",
+        "100s/50s": "\u2013/1",
+        "top score": "61",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1896",
+        "Dorset": "1902"
+    }
+}

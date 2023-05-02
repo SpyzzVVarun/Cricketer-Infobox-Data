@@ -1,0 +1,37 @@
+{
+    "name": "Henry Shaw",
+    "country": "England",
+    "birth_place": "Mansfield, Nottinghamshire, England",
+    "death_date": "1932",
+    "death_place": "Derby, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "19 July",
+    "debutyear1": "1875",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Kent",
+    "lastdate1": "4 August",
+    "lastyear1": "1884",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Players/32/32705/32705.html CricketArchive ",
+    "First-class": {
+        "matches": "14",
+        "runs": "121",
+        "bat avg": "6.72",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "288",
+        "wickets": "10",
+        "bowl avg": "15.80",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/34",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1875\u20131884"
+    },
+    "birth_date": "1854-5-21"
+}

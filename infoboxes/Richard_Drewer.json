@@ -1,0 +1,40 @@
+{
+    "name": "Rick Drewer",
+    "fullname": "Richard Harris Drewer",
+    "birth_place": "Adelaide, Australia",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/5007.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "659",
+        "bat avg": "26.36",
+        "100s/50s": "-/7",
+        "top score": "90",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "12/-"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "49",
+        "bat avg": "24.50",
+        "100s/50s": "-/-",
+        "top score": "39",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {
+        "South Australia": "1974/75-1975/76"
+    },
+    "birth_date": "1946-6-12"
+}

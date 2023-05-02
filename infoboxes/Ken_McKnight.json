@@ -1,0 +1,21 @@
+{
+    "name": "Ken McKnight",
+    "fullname": "Kenneth James McKnight",
+    "birth_place": "Ranfurly, New Zealand",
+    "family": "Stewart McKnight (father)",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "source": "http://www.espncricinfo.com/ci/content/player/37772.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "172",
+        "bat avg": "15.63",
+        "100s/50s": "0/1",
+        "catches/stumpings": "15/3"
+    },
+    "clubs": {
+        "Otago": "1987/88\u20131991/92"
+    },
+    "birth_date": "1964-4-8"
+}

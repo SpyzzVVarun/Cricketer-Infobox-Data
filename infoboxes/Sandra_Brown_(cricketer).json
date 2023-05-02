@@ -1,0 +1,47 @@
+{
+    "name": "Sandra Brown",
+    "female": "true",
+    "country": "England",
+    "fullname": "Sandra Brown",
+    "birth_place": "Sutton, Surrey, England",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "internationalspan": "1963",
+    "testdebutdate": "15 June",
+    "testdebutyear": "1963",
+    "testdebutagainst": "Australia",
+    "testcap": "61",
+    "lasttestdate": "20 July",
+    "lasttestyear": "1963",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/16/16984/16984.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "148",
+        "bat avg": "37.00",
+        "100s/50s": "0/1",
+        "deliveries": "252",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "8",
+        "runs": "238",
+        "bat avg": "23.80",
+        "100s/50s": "0/1",
+        "deliveries": "486",
+        "wickets": "9",
+        "bowl avg": "18.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/11",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1955\u20131968"
+    }
+}

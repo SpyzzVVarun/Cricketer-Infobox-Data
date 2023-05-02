@@ -1,0 +1,52 @@
+{
+    "name": "Barry Jarman",
+    "country": "Australia",
+    "fullname": "Barrington Noel Jarman",
+    "birth_place": "Hindmarsh, South Australia",
+    "death_date": "2020",
+    "death_place": "Adelaide, South Australia url=https://www.cricket.com.au/news/barry-jarman-dies-passed-away-australia-list-of-test-captains-wicketkeepers-south-australia/2020-07-18 ",
+    "heightm": "1.74",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1959\u20131969",
+    "testdebutdate": "19 December",
+    "testdebutyear": "1959",
+    "testdebutagainst": "India",
+    "testcap": "215",
+    "lasttestdate": "24 January",
+    "lasttestyear": "1969",
+    "lasttestagainst": "West Indies",
+    "source": "https://www.espncricinfo.com/australia/content/player/6013.html CricInfo ",
+    "Test": {
+        "matches": "19",
+        "runs": "400",
+        "bat avg": "14.81",
+        "100s/50s": "0/2",
+        "top score": "78",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "50/4"
+    },
+    "First-class": {
+        "matches": "191",
+        "runs": "5,615",
+        "bat avg": "22.73",
+        "100s/50s": "5/26",
+        "top score": "196",
+        "deliveries": "167",
+        "wickets": "3",
+        "bowl avg": "32.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/17",
+        "catches/stumpings": "431/129"
+    },
+    "clubs": {
+        "South Australia": "1955/56\u20131968/69"
+    },
+    "birth_date": "1936-2-17"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Fitz Hinds",
+    "country": "West Indies",
+    "fullname": "Delmont Cameron St Clair Hinds",
+    "birth_place": "Westbury Road, St Michael, Barbados",
+    "nickname": "Fitzy Lilly",
+    "role": "all-rounder",
+    "type1": "First-class",
+    "debutdate1": "10 January",
+    "debutyear1": "1901",
+    "debutfor1": "Trinidad",
+    "debutagainst1": "AB St Hill's XI",
+    "lastdate1": "31 March",
+    "lastyear1": "1905",
+    "lastfor1": "West Indies",
+    "lastagainst1": "Lord Brackley's XI",
+    "source": "https://cricketarchive.com/Archive/Players/23/23708/23708.html CricketArchive ",
+    "First-class": {
+        "matches": "12",
+        "runs": "366",
+        "bat avg": "20.33",
+        "100s/50s": "&ndash;/1",
+        "top score": "55",
+        "deliveries": "987",
+        "wickets": "29",
+        "bowl avg": "15.00",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "10/36",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Barbados": "1901/02-1904/05"
+    },
+    "birth_date": "1880-06-01"
+}

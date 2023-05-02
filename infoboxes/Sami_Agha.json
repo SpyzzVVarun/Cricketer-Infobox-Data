@@ -1,0 +1,50 @@
+{
+    "country": "Afghanistan",
+    "fullname": "Mohammad Sami Agha",
+    "nickname": "Samiullah Aga",
+    "birth_place": "Kandahar, Kandahar Province, Afghanistan",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/485750.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "T20": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "FC": {
+        "matches": "5",
+        "runs": "208",
+        "bat avg": "23.11",
+        "100s/50s": "&ndash;/2",
+        "top score": "75",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Afghan Cheetahs": "2011/12",
+        "Boost Region": "2017/18"
+    },
+    "birth_date": "1989-6-17",
+    "medaltemplates": [
+        "Country: {{Afghanistan}}",
+        "Sport: Men's Cricket",
+        "Competition: Asian Games",
+        "Silver Medal: 2010 Guangzhou Team"
+    ]
+}

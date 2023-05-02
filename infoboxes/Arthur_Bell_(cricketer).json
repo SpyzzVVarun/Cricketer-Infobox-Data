@@ -1,0 +1,29 @@
+{
+    "name": "Arthur Bell",
+    "fullname": "Arthur George Bell",
+    "birth_place": "Waimea Plains, Southland, New Zealand",
+    "death_date": "1946",
+    "death_place": "Sydney, New South Wales, Australia",
+    "type1": "FC",
+    "debutdate1": "25 January",
+    "debutyear1": "1889",
+    "debutfor1": "Otago",
+    "debutagainst1": "Canterbury",
+    "lastdate1": "3 March",
+    "lastyear1": "1894",
+    "lastfor1": "Otago",
+    "lastagainst1": "Canterbury",
+    "source": "http://www.espncricinfo.com/ci/content/player/36415.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "184",
+        "bat avg": "9.20",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Otago": "1888/89\u20131893/94"
+    },
+    "birth_date": "1869-05-02"
+}

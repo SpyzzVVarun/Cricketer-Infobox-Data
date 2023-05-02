@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Daniel Alexander Mackay",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "death_date": "1951",
+    "death_place": "Glasgow, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/daniel-mackay-25275 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "203",
+        "bat avg": "14.50",
+        "100s/50s": "\u2013/1",
+        "top score": "68",
+        "deliveries": "90",
+        "wickets": "3",
+        "bowl avg": "13.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/35",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1923&ndash;1930"
+    }
+}

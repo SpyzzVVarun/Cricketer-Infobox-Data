@@ -1,0 +1,63 @@
+{
+    "name": "Andrew Hudson",
+    "fullname": "Andrew Charles Hudson",
+    "birth_place": "Eshowe, KwaZulu-Natal",
+    "country": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening Batsman",
+    "testdebutdate": "18\u201323 April",
+    "testdebutyear": "1992",
+    "testdebutagainst": "West Indies",
+    "lasttestdate": "6\u201310 March",
+    "lasttestyear": "1998",
+    "lasttestagainst": "Pakistan",
+    "odidebutdate": "10 November",
+    "odidebutyear": "1991",
+    "odidebutagainst": "India",
+    "lastodidate": "8 November",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/ci/content/player/45458.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "Test": {
+        "matches": "35",
+        "runs": "2,007",
+        "bat avg": "33.45",
+        "100s/50s": "4/13",
+        "top score": "163",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "36/\u2013"
+    },
+    "ODI": {
+        "matches": "89",
+        "runs": "2,559",
+        "bat avg": "29.41",
+        "100s/50s": "2/18",
+        "top score": "161",
+        "deliveries": "6",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Natal/KwaZulu-Natal": "1984\u20132000"
+    },
+    "birth_date": "1965-3-17",
+    "medaltemplates": [
+        "Country: {{RSA}}",
+        "Sport: Men's Cricket",
+        "Competition: Commonwealth Games",
+        "Gold Medal: 1998 Kuala Lumpur List-A cricket"
+    ]
+}

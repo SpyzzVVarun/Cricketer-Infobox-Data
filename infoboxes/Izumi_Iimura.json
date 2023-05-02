@@ -1,0 +1,28 @@
+{
+    "name": "Izumi Iimura",
+    "female": "true",
+    "country": "Japan",
+    "fullname": "Izumi Iimura",
+    "birth_place": "Japan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Wicket-keeper",
+    "odidebutdate": "21 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "3",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/55225.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "1.66",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "0/1"
+    },
+    "clubs": {},
+    "birth_date": "1980-12-2"
+}

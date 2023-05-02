@@ -1,0 +1,32 @@
+{
+    "name": "Mujahid Jamshed",
+    "country": "Pakistan",
+    "fullname": "Mujahid Jamshed",
+    "birth_place": "Muridke, Punjab, Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "odidebutdate": "7 January",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Australia",
+    "odicap": "116",
+    "lastodidate": "18 January",
+    "lastodiyear": "1997",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/41310.html ESPNCricinfo  ",
+    "ODIs": {
+        "matches": "4",
+        "runs": "27",
+        "bat avg": "13.50",
+        "100s/50s": "-/-",
+        "top score": "23",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "6.00",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "1/6",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {},
+    "birth_date": "1971-12-1"
+}

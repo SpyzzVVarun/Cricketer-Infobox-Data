@@ -1,0 +1,31 @@
+{
+    "country": "Africa",
+    "fullname": "Richard John Skone",
+    "nickname": "Scoony",
+    "birth_place": "Penarth, Glamorgan, Wales",
+    "heightft": "5",
+    "heightinch": "2",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Anchor",
+    "family": "Rhys Morgan",
+    "source": "http://www.espncricinfo.com/ci/content/player/21249.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "60",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wales Minor Counties": "1996&ndash;2002"
+    },
+    "birth_date": "1944-6-7"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Harry Siedeberg",
+    "fullname": "Henry George Siedeberg",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "1945",
+    "death_place": "Dunedin, New Zealand",
+    "batting": "Right-handed",
+    "family": "Emily Siedeberg (sister)",
+    "source": "http://www.espncricinfo.com/ci/content/player/38486.html Cricinfo",
+    "First-class": {
+        "matches": "46",
+        "runs": "1420",
+        "bat avg": "17.31",
+        "100s/50s": "0/5",
+        "top score": "90",
+        "wickets": "26",
+        "bowl avg": "21.84",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/30",
+        "catches/stumpings": "22/0"
+    },
+    "clubs": {
+        "Otago": "1898\u201399 to 1921\u201322"
+    },
+    "birth_date": "1877-7-13"
+}

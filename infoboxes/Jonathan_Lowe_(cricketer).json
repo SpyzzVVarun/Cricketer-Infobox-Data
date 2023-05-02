@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Jonathan Paul Lowe",
+    "birth_place": "Pontefract, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16355.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "20",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,350",
+        "wickets": "8",
+        "bowl avg": "81.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/42",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1998&ndash;2000"
+    },
+    "birth_date": "1977-11-13"
+}

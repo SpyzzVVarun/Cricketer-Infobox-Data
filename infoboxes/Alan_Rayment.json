@@ -1,0 +1,31 @@
+{
+    "name": "Alan Rayment",
+    "country": "England",
+    "fullname": "Alan William Harrington Rayment",
+    "nickname": "Punchy",
+    "birth_place": "Finchley, Middlesex, England",
+    "death_date": "2020",
+    "death_place": "Lymington, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/6/6816/6816.html Cricket Archive  ",
+    "FC": {
+        "matches": "199",
+        "runs": "6,338",
+        "bat avg": "20.31",
+        "100s/50s": "4/23",
+        "top score": "126",
+        "deliveries": "1,205",
+        "wickets": "19",
+        "bowl avg": "40.63",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/75",
+        "catches/stumpings": "86/&ndash;"
+    },
+    "clubs": {
+        "Combined Services": "1947",
+        "Hampshire": "1949&ndash;1958"
+    },
+    "birth_date": "1928-5-29"
+}

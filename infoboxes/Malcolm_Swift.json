@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Malcolm Swift",
+    "nickname": "Swifty",
+    "birth_place": "Southport, Lancashire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "1 Son (Caden Thomas Swift) & 1 Daughter (Lilly-Mai Swift)",
+    "source": "http://www.cricinfo.com/ci/content/player/20437.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "60",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wiltshire": "1998-1999"
+    },
+    "birth_date": "1974-4-21"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harold White",
+    "birth_place": "Kirkstall, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/22907.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "77",
+        "bat avg": "8.55",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "1,662",
+        "wickets": "31",
+        "bowl avg": "23.38",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/10",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1900&ndash;1901",
+        "Northumberland": "1909&ndash;1913"
+    }
+}

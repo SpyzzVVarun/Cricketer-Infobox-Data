@@ -1,0 +1,30 @@
+{
+    "name": "Alan Dowding",
+    "country": "Australia",
+    "fullname": "Alan Lorimer Dowding",
+    "birth_place": "Unley, South Australia, Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Players/29/29137/29137.html CricketArchive ",
+    "FC": {
+        "matches": "43",
+        "runs": "1950",
+        "bat avg": "28.67",
+        "100s/50s": "2/13",
+        "top score": "105",
+        "deliveries": "195",
+        "wickets": "1",
+        "bowl avg": "116.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1\u20134",
+        "catches/stumpings": "27/0"
+    },
+    "clubs": {
+        "Oxford University": "1951\u20131953",
+        "Commonwealth XI": "1952\u20131953",
+        "Free Foresters": "1954\u20131956",
+        "Marylebone Cricket Club": "1955\u20131956"
+    },
+    "birth_date": "1929-4-4"
+}

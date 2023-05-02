@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Barney Ernest Willford McCall",
+    "birth_place": "Clifton, Bristol, England",
+    "death_date": "df=yes",
+    "death_place": "Cardiff, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm (unknown Right-arm (unknown style)",
+    "source": "http://www.espncricinfo.com/ci/content/player/17463.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "56",
+        "bat avg": "9.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "49",
+        "wickets": "1",
+        "bowl avg": "35.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/34",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1937",
+        "Dorset": "1931\u20131936"
+    }
+}

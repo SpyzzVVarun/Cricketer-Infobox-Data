@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Thomas Parnham",
+    "birth_place": "Bottesford, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Church, Lancashire, England",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/18767.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "178",
+        "bat avg": "19.77",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "457",
+        "wickets": "16",
+        "bowl avg": "18.37",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/25",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1883&ndash;1889"
+    }
+}

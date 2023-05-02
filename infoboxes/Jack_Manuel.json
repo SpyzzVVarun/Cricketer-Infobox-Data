@@ -1,0 +1,56 @@
+{
+    "country": "England",
+    "fullname": "Jack Kenneth Manuel",
+    "birth_place": "Sutton Coldfield, Warwickshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/353896.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "142",
+        "bat avg": "20.28",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "48",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "T20": {
+        "matches": "13",
+        "runs": "111",
+        "bat avg": "11.10",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "31",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Worcestershire( 26 )": "2010\u20132012",
+        "Staffordshire": "2009&ndash;2010",
+        "Halls Head Cricket Club( 195 )": "2015&ndash;present"
+    },
+    "birth_date": "1991-2-13"
+}

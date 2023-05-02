@@ -1,0 +1,42 @@
+{
+    "name": "Jim Sims",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "13 July",
+    "testdebutyear": "1935",
+    "lasttestdate": "1 January",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1937",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/20200.html CricInfo",
+    "Test": {
+        "matches": "4",
+        "runs": "16",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "887",
+        "wickets": "11",
+        "bowl avg": "43.63",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/73",
+        "catches/stumpings": "6/\u2013"
+    },
+    "First-class": {
+        "matches": "462",
+        "runs": "8,983",
+        "bat avg": "17.30",
+        "100s/50s": "4/21",
+        "top score": "123",
+        "deliveries": "77,035",
+        "wickets": "1,581",
+        "bowl avg": "24.92",
+        "fivefor": "98",
+        "tenfor": "21",
+        "best bowling": "10/90",
+        "catches/stumpings": "252/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Frank Stephens",
+    "country": "England",
+    "fullname": "Frank Garfield Stephens",
+    "birth_place": "Edgbaston, Birmingham, Warwickshire, England",
+    "death_date": "1970",
+    "death_place": "Moseley, Warwickshire",
+    "family": "George Stephens (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/21014.html Cricinfo ",
+    "First-class": {
+        "matches": "32",
+        "runs": "1102",
+        "bat avg": "25.62",
+        "100s/50s": "1/7",
+        "top score": "144 not out",
+        "deliveries": "314",
+        "wickets": "3",
+        "bowl avg": "68.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1907 \u2013 1912"
+    },
+    "birth_date": "1889-4-26"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Edmund Calverley",
+    "birth_place": "Oulton, Yorkshire, England",
+    "death_date": "1897",
+    "death_place": "Oulton, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11581.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "365",
+        "bat avg": "10.73",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1846&ndash;1849",
+        "Marylebone Cricket Club": "1849&ndash;1855"
+    }
+}

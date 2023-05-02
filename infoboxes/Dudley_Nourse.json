@@ -1,0 +1,51 @@
+{
+    "name": "Dudley Nourse",
+    "country": "South Africa",
+    "fullname": "Arthur Dudley Nourse",
+    "birth_place": "Durban, Natal, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Durban, Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "role": "Batsman",
+    "family": "Dave Nourse (Father)",
+    "testdebutdate": "15 June",
+    "testdebutyear": "1935",
+    "testdebutagainst": "England",
+    "testcap": "140",
+    "lasttestdate": "16 August",
+    "lasttestyear": "1951",
+    "lasttestagainst": "England",
+    "source": "http://cricketarchive.co.uk/Archive/Players/0/659/659.html CricketArchive ",
+    "Test": {
+        "matches": "34",
+        "runs": "2,960",
+        "bat avg": "53.81",
+        "100s/50s": "9/14",
+        "top score": "231",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "12/0"
+    },
+    "First-class": {
+        "matches": "175",
+        "runs": "12,472",
+        "bat avg": "51.53",
+        "100s/50s": "41/54",
+        "deliveries": "250",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "135/0"
+    },
+    "clubs": {
+        "Natal": "1931\u20131953"
+    },
+    "birth_date": "1910-11-12"
+}

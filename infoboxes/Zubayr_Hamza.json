@@ -1,0 +1,59 @@
+{
+    "name": "Zubayr Hamza",
+    "country": "South Africa",
+    "fullname": "Mohammad Zubayr Hamza",
+    "birth_place": "Cape Town, Western Cape, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batsman",
+    "testdebutdate": "11 January",
+    "testdebutyear": "2019",
+    "testdebutagainst": "Pakistan",
+    "testcap": "335",
+    "lasttestdate": "17 February",
+    "lasttestyear": "2022",
+    "lasttestagainst": "New Zealand",
+    "oneodi": "true",
+    "odidebutdate": "26 November",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Netherlands",
+    "odicap": "142",
+    "source": "http://www.espncricinfo.com/ci/content/player/550187.html Cricinfo ",
+    "Test": {
+        "matches": "6",
+        "runs": "212",
+        "bat avg": "17.66",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "catches/stumpings": "5/\u2013"
+    },
+    "FC": {
+        "matches": "78",
+        "runs": "5,271",
+        "bat avg": "46.23",
+        "100s/50s": "13/26",
+        "catches/stumpings": "70/\u2013"
+    },
+    "LA": {
+        "matches": "55",
+        "runs": "1,807",
+        "bat avg": "38.44",
+        "100s/50s": "2/12",
+        "top score": "156",
+        "catches/stumpings": "26/\u2013"
+    },
+    "T20": {
+        "matches": "28",
+        "runs": "649",
+        "bat avg": "30.90",
+        "100s/50s": "1/4",
+        "top score": "106",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Western Province": "2013/14\u2013",
+        "Cape Cobras": "2015/16\u2013",
+        "South Western Districts": "2018/19"
+    },
+    "birth_date": "1995-6-19"
+}

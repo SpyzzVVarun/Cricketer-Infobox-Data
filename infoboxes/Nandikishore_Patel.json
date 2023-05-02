@@ -1,0 +1,36 @@
+{
+    "name": "Nandikishore Patel",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "country": "Uganda",
+    "source": "https://cricketarchive.com/Archive/Players/78/78884/78884.html CricketArchive",
+    "First-class": {
+        "matches": "4",
+        "runs": "178",
+        "bat avg": "29.66",
+        "100s/50s": "0/1",
+        "top score": "74",
+        "deliveries": "162",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "41",
+        "bat avg": "10.25",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

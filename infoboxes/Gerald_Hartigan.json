@@ -1,0 +1,41 @@
+{
+    "name": "Gerald Hartigan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "27 May",
+    "testdebutyear": "1912",
+    "lasttestdate": "1 January",
+    "lasttestagainst": "England",
+    "lasttestyear": "1914",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/45415.html Cricinfo",
+    "Test": {
+        "matches": "5",
+        "runs": "114",
+        "bat avg": "11.40",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "252",
+        "wickets": "1",
+        "bowl avg": "141.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/72",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "37",
+        "runs": "1,535",
+        "bat avg": "29.51",
+        "100s/50s": "3/8",
+        "deliveries": "3,924",
+        "wickets": "92",
+        "bowl avg": "21.08",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/44",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {}
+}

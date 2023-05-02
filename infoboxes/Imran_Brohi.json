@@ -1,0 +1,43 @@
+{
+    "name": "Imran Brohi",
+    "fullname": "Imran Ahmed Brohi",
+    "birth_place": "Hyderabad, Pakistan",
+    "country": "East and Central Africa",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "internationalspan": "1994\u20131997",
+    "source": "https://cricketarchive.com/Archive/Players/5/5451/5451.html CricketArchive ",
+    "List A": {
+        "matches": "4",
+        "runs": "53",
+        "bat avg": "13.25",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "18",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ICCT": {
+        "matches": "13",
+        "runs": "291",
+        "bat avg": "24.25",
+        "100s/50s": "1/0",
+        "top score": "141",
+        "deliveries": "174",
+        "wickets": "6",
+        "bowl avg": "17.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/6",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "South Zone": "1982",
+        "Hyderabad": "1985"
+    },
+    "birth_date": "1963-10-1"
+}

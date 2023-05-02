@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Boris Charles Gregory Wilenkin",
+    "birth_place": "Belgravia, London, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm (unknown)",
+    "source": "http://www.espncricinfo.com/england/content/player/22981.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "661",
+        "bat avg": "24.48",
+        "100s/50s": "1/5",
+        "top score": "105",
+        "deliveries": "3",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1951&ndash;1956",
+        "Cambridge University": "1956"
+    }
+}

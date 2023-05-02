@@ -1,0 +1,32 @@
+{
+    "name": "Tom Hinley",
+    "fullname": "Tom Ian Hinley",
+    "birth_place": "Frimley, Surrey, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "12 September",
+    "debutyear1": "2021",
+    "debutfor1": "Sussex",
+    "debutagainst1": "Leicestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1264774.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Sussex( 42 )": "2021"
+    },
+    "birth_date": "2003-2-5"
+}

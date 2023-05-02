@@ -1,0 +1,39 @@
+{
+    "name": "Edwin Barlow",
+    "fullname": "Edwin Alan Barlow",
+    "birth_place": "Ashton-under-Lyne, England",
+    "death_date": "1980",
+    "death_place": "Gretton, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium pace; right-arm off Right-arm medium pace; right-arm off break",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "4 May",
+    "debutyear1": "1932",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "9 July",
+    "lastyear1": "1934",
+    "lastfor1": "Oxford University",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/27/27691/27691.html CricketArchive",
+    "First-class": {
+        "matches": "36",
+        "runs": "582",
+        "bat avg": "13.85",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "7838",
+        "wickets": "102",
+        "bowl avg": "27.38",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6\u201344",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1932\u20131934",
+        "Lancashire": "1932"
+    },
+    "birth_date": "1912-2-24"
+}

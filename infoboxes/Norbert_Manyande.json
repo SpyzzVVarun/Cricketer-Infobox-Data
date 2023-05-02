@@ -1,0 +1,58 @@
+{
+    "name": "Norbert Manyande",
+    "country": "Namibia",
+    "fullname": "Rangarirai Norbert Manyande",
+    "birth_place": "Bikita, Victoria Province, Zimbabwe-Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "internationalspan": "2009\u20132011",
+    "source": "https://cricketarchive.com/Archive/Players/35/35323/35323.html CricketArchive ",
+    "FC": {
+        "matches": "28",
+        "runs": "991",
+        "bat avg": "21.54",
+        "100s/50s": "1/2",
+        "top score": "148",
+        "deliveries": "1,377",
+        "wickets": "13",
+        "bowl avg": "56.92",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/29",
+        "catches/stumpings": "13/\u2013"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "183",
+        "bat avg": "13.07",
+        "100s/50s": "0/0",
+        "deliveries": "164",
+        "wickets": "7",
+        "bowl avg": "19.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/34",
+        "catches/stumpings": "6/\u2013"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "81",
+        "bat avg": "13.50",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Mashonaland": "2000/01",
+        "Mashonaland A": "2001/02",
+        "Manicaland": "2003/04\u20132005/06"
+    },
+    "birth_date": "1979-8-29"
+}

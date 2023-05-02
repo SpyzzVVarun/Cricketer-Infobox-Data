@@ -1,0 +1,29 @@
+{
+    "name": "William Wilkinson",
+    "country": "England",
+    "fullname": "William Herbert Wilkinson",
+    "birth_place": "Thorpe Hesley, Yorkshire, England",
+    "death_date": "1961",
+    "death_place": "Winson Green, Warwickshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/33/33883/33883.html CricketArchive ",
+    "First-class": {
+        "matches": "127",
+        "runs": "3,912",
+        "bat avg": "21.73",
+        "100s/50s": "1/18",
+        "top score": "103",
+        "deliveries": "1,961",
+        "wickets": "31",
+        "bowl avg": "31.32",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "93/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1903\u20131910"
+    },
+    "birth_date": "1881-3-12"
+}

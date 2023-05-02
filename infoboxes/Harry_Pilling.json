@@ -1,0 +1,44 @@
+{
+    "name": "Harry Pilling",
+    "country": "England",
+    "birth_place": "Ashton-under-Lyne, Lancashire",
+    "death_date": "2012",
+    "death_place": "Little Lever, Lancashire",
+    "heightft": "5",
+    "heightinch": "3",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "George Harry Pilling",
+    "source": "http://www.espncricinfo.com/ci/content/player/18962.html Cricinfo ",
+    "First-class": {
+        "matches": "333",
+        "runs": "15,279",
+        "bat avg": "32.23",
+        "100s/50s": "25/81",
+        "deliveries": "336",
+        "wickets": "1",
+        "bowl avg": "195.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/42",
+        "catches/stumpings": "89/\u2013"
+    },
+    "List A": {
+        "matches": "173",
+        "runs": "3,807",
+        "bat avg": "26.07",
+        "100s/50s": "1/22",
+        "deliveries": "13",
+        "wickets": "2",
+        "bowl avg": "8.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1969\u20131974",
+        "Lancashire": "1962\u20131982"
+    },
+    "birth_date": "1943-2-23"
+}

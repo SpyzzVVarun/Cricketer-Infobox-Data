@@ -1,0 +1,29 @@
+{
+    "name": "John Powell",
+    "fullname": "John Llewellyn Powell",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1959",
+    "death_place": "Prebbleton, Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "country": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/22/22684/22684.html CricketArchive",
+    "First-class": {
+        "matches": "10",
+        "runs": "406",
+        "bat avg": "36.90",
+        "100s/50s": "1/1",
+        "top score": "164",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1928\u201329 to 1932\u201333"
+    },
+    "birth_date": "1904-3-21"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Leslie Maynard Ward",
+    "birth_place": "Coventry, Warwickshire, England",
+    "death_date": "1981",
+    "death_place": "Bideford, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium, Right-arm off Right-arm medium, Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/22735.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "29.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/29",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1930"
+    }
+}

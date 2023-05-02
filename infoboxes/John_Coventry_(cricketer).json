@@ -1,0 +1,27 @@
+{
+    "name": "John Coventry",
+    "country": "England",
+    "fullname": "John Bonynge Coventry",
+    "birth_place": "Westminster, London, England",
+    "death_date": "1969",
+    "death_place": "Pirton Court, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/28/28763/28763.html CricketArchive ",
+    "FC": {
+        "matches": "75",
+        "runs": "1,774",
+        "bat avg": "14.78",
+        "100s/50s": "0/5",
+        "top score": "86",
+        "deliveries": "1,154",
+        "wickets": "16",
+        "bowl avg": "45.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18",
+        "catches/stumpings": "28/0"
+    },
+    "clubs": {},
+    "birth_date": "1903-1-9"
+}

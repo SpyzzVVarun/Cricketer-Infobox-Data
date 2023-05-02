@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Thomas Edwin Drakes",
+    "birth_place": "Bardney, Lincolnshire, England",
+    "death_date": "df=yes",
+    "death_place": "Hainault, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12252.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "140",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,213",
+        "wickets": "20",
+        "bowl avg": "32.40",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/70",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "1926&ndash;1933",
+        "Cambridge University": "1929"
+    }
+}

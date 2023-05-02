@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Derek Francis Mendl",
+    "birth_place": "Hurlingham, Buenos Aires, Argentina",
+    "death_date": "2001",
+    "death_place": "North Ryde, New South Wales, Australia",
+    "family": "Jack Mendl (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/17536.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "59",
+        "bat avg": "14.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1951"
+    }
+}

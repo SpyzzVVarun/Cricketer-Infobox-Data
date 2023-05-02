@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Henry Warner",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/23342.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "3.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1826&ndash;1830"
+    }
+}

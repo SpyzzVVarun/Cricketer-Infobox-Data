@@ -1,0 +1,46 @@
+{
+    "name": "James Rew",
+    "fullname": "James Edward Kenneth Rew",
+    "birth_place": "Lambeth, London, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "20 July",
+    "debutyear1": "2021",
+    "debutfor1": "County Select XI",
+    "debutagainst1": "Indians",
+    "type2": "List A",
+    "debutdate2": "1 August",
+    "debutyear2": "2021",
+    "debutfor2": "Somerset",
+    "debutagainst2": "Yorkshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1184436.html Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "566",
+        "bat avg": "35.37",
+        "100s/50s": "2/1",
+        "top score": "117",
+        "catches/stumpings": "28/1"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "403",
+        "bat avg": "31.00",
+        "100s/50s": "1/1",
+        "top score": "114",
+        "catches/stumpings": "8/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "47",
+        "bat avg": "47.00",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Somerset( 55 )": "2021\u2013present"
+    },
+    "birth_date": "2004-1-11"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Dave Nourse",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "11 October",
+    "testdebutyear": "1902",
+    "lasttestdate": "19 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1924",
+    "source": "http://www.espncricinfo.com/ci/content/player/46590.html ESPNcricinfo",
+    "Test": {
+        "matches": "45",
+        "runs": "2,234",
+        "bat avg": "29.78",
+        "100s/50s": "1/15",
+        "top score": "111",
+        "deliveries": "3,234",
+        "wickets": "41",
+        "bowl avg": "37.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/25",
+        "catches/stumpings": "43/\u2013"
+    },
+    "First-class": {
+        "matches": "228",
+        "runs": "14,216",
+        "bat avg": "42.81",
+        "100s/50s": "38/60",
+        "deliveries": "17,683",
+        "wickets": "305",
+        "bowl avg": "23.36",
+        "fivefor": "13",
+        "tenfor": "1",
+        "best bowling": "6/33",
+        "catches/stumpings": "172/\u2013"
+    },
+    "clubs": {}
+}

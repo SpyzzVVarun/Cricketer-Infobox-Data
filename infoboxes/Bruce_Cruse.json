@@ -1,0 +1,41 @@
+{
+    "name": "Bruce Cruse",
+    "country": "Australia",
+    "fullname": "Bruce Andrew Cruse",
+    "birth_place": "Launceston, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/2/2466/2466.html CricketArchive ",
+    "First-class": {
+        "matches": "25",
+        "runs": "1,040",
+        "bat avg": "26.66",
+        "100s/50s": "2/4",
+        "top score": "120",
+        "deliveries": "930",
+        "wickets": "4",
+        "bowl avg": "129.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "43",
+        "bat avg": "43.00",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1985/86\u20131992/93"
+    },
+    "birth_date": "1967-4-26"
+}

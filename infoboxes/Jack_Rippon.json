@@ -1,0 +1,29 @@
+{
+    "name": "Jack Rippon",
+    "country": "Wales",
+    "fullname": "Thomas John Rippon",
+    "birth_place": "Swansea, Glamorgan, Wales",
+    "death_date": "1994",
+    "death_place": "Swansea, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/19419.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/3"
+    },
+    "clubs": {
+        "Glamorgan": "1947&ndash;1948"
+    },
+    "birth_date": "1918-7-6"
+}

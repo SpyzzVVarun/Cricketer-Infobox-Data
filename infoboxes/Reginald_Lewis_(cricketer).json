@@ -1,0 +1,28 @@
+{
+    "country": "South Africa",
+    "fullname": "Reginald Chester Vale Lewis",
+    "birth_place": "Cape Town, Cape Province, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/south-africa/content/player/16569.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "65",
+        "bat avg": "16.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "474",
+        "wickets": "8",
+        "bowl avg": "27.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/31",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1949&ndash;1950",
+        "Oxfordshire": "1949"
+    }
+}

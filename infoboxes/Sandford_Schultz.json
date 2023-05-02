@@ -1,0 +1,43 @@
+{
+    "name": "Sandford Schultz",
+    "birth_place": "Birkenhead, Cheshire, England",
+    "death_date": "18 December 1937 (aged 80)",
+    "death_place": "Brompton, Kensington, England",
+    "batting": "Right-handed",
+    "bowling": "Round-arm right-arm Round-arm right-arm fast",
+    "country": "England",
+    "testdebutdate": "2 January",
+    "testdebutyear": "1879",
+    "lasttestdate": "4 January",
+    "lasttestyear": "1879",
+    "source": "http://content.cricinfo.com/england/content/player/20074.html Cricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "34",
+        "wickets": "1",
+        "bowl avg": "26.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/16",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "42",
+        "runs": "1,046",
+        "bat avg": "17.14",
+        "100s/50s": "0/5",
+        "top score": "90",
+        "deliveries": "2,236",
+        "wickets": "28",
+        "bowl avg": "40.82",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/37",
+        "catches/stumpings": "29/0"
+    },
+    "clubs": {}
+}

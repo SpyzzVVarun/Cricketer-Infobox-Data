@@ -1,0 +1,26 @@
+{
+    "name": "Yusrina Yaakop",
+    "female": "true",
+    "country": "Malaysia",
+    "fullname": "Yusrina Yaakop",
+    "batting": "Right-handed",
+    "T20Idebutdate": "3 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "India",
+    "T20Icap": "10",
+    "lastT20Idate": "19 January",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Scotland",
+    "source": "http://www.espncricinfo.com/ci/content/player/779601.html ESPNCricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1993-9-24",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Bronze Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

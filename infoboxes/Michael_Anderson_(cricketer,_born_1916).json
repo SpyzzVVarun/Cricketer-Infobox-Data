@@ -1,0 +1,23 @@
+{
+    "name": "Michael Anderson",
+    "country": "England",
+    "fullname": "Michael Hebert Anderson",
+    "birth_place": "Devonport, Devon, England",
+    "death_date": "1940",
+    "death_place": "near Hoogvliet, Netherlands",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/england/content/player/8735.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "92",
+        "bat avg": "18.40",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "catches/stumpings": "3/3"
+    },
+    "clubs": {
+        "Cambridge University": "1937"
+    },
+    "birth_date": "1916-12-11"
+}

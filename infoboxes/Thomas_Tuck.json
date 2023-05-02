@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Thomas Ridout Tuck",
+    "birth_place": "Witton, Norfolk, England",
+    "death_date": "7 March 1885 (aged 72)",
+    "death_place": "Epping, Essex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/22101.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "77",
+        "bat avg": "5.92",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1832&ndash;1842"
+    }
+}

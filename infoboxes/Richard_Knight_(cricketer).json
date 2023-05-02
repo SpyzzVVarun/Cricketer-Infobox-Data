@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Richard Knight",
+    "birth_place": "South Molton, Devon, England",
+    "death_date": "df=yes",
+    "death_place": "Kewstoke, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16088.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "101",
+        "bat avg": "16.83",
+        "100s/50s": "\u2013/1",
+        "top score": "66",
+        "deliveries": "334",
+        "wickets": "8",
+        "bowl avg": "22.12",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/23",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Devon": "1910&ndash;1913",
+        "Cambridge University": "1912"
+    }
+}

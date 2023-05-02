@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "George Woodrouffe Harris",
+    "birth_place": "Chelsea, London, England",
+    "death_date": "1954",
+    "death_place": "Chorleywood, Hertfordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/14071.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1899"
+    }
+}

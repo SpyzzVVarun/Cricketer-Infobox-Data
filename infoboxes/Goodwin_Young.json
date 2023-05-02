@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Goodwin Young",
+    "birth_place": "Carrigrohane, Ireland",
+    "death_date": "9 January 1915",
+    "death_place": "Cork, Ireland",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ireland/content/player/23565.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "649",
+        "wickets": "16",
+        "bowl avg": "15.87",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "5/24",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1873"
+    }
+}

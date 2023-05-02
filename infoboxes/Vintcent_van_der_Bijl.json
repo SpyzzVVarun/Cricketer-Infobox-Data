@@ -1,0 +1,45 @@
+{
+    "name": "Vince van der Bijl",
+    "country": "South Africa",
+    "fullname": "Vintcent Adriaan Pieter van der Bijl",
+    "birth_place": "Rondebosch, Cape Town, South Africa",
+    "heightft": "6",
+    "heightinch": "7+1/2",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/47683.html ",
+    "First-class": {
+        "matches": "156",
+        "runs": "2269",
+        "bat avg": "16.20",
+        "100s/50s": "&ndash;/1",
+        "top score": "87",
+        "wickets": "767",
+        "bowl avg": "16.54",
+        "fivefor": "46",
+        "tenfor": "12",
+        "best bowling": "8/35",
+        "catches/stumpings": "51/&ndash;"
+    },
+    "List A": {
+        "matches": "92",
+        "runs": "517",
+        "bat avg": "15.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "47",
+        "deliveries": "5237",
+        "wickets": "132",
+        "bowl avg": "18.06",
+        "fivefor": "4",
+        "tenfor": "&ndash;",
+        "best bowling": "5/12",
+        "catches/stumpings": "21/&ndash;"
+    },
+    "clubs": {
+        "Natal": "1967&ndash;1980",
+        "Middlesex": "1980",
+        "Transvaal": "1983"
+    },
+    "birth_date": "1949-3-19"
+}

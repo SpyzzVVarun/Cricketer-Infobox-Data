@@ -1,0 +1,51 @@
+{
+    "name": "Helen Sharpe",
+    "female": "true",
+    "country": "England",
+    "fullname": "Helen Margaret Sharpe",
+    "birth_place": "Huddersfield, Yorkshire, England",
+    "death_date": "df=yes",
+    "role": "Batter",
+    "internationalspan": "1957\u20131961",
+    "testdebutdate": "27 December",
+    "testdebutyear": "1957",
+    "testdebutagainst": "New Zealand",
+    "testcap": "49",
+    "lasttestdate": "13 January",
+    "lasttestyear": "1961",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/17/17081/17081.html CricketArchive ",
+    "WTest": {
+        "matches": "5",
+        "runs": "296",
+        "bat avg": "37.00",
+        "100s/50s": "1/1",
+        "top score": "126",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/1"
+    },
+    "WFC": {
+        "matches": "19",
+        "runs": "497",
+        "bat avg": "21.60",
+        "100s/50s": "1/2",
+        "top score": "126",
+        "deliveries": "63",
+        "wickets": "1",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "21/12"
+    },
+    "clubs": {
+        "Yorkshire": "1947\u20131949",
+        "Middlesex": "1951\u20131963"
+    },
+    "birth_date": "1927-2-23"
+}

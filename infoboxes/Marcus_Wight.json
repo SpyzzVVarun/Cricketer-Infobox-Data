@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Robert Marcus Wight",
+    "birth_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/22585.html Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "593",
+        "bat avg": "22.80",
+        "100s/50s": "&ndash;/3",
+        "deliveries": "2,807",
+        "wickets": "33",
+        "bowl avg": "44.12",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/65",
+        "catches/stumpings": "11/&ndash;"
+    },
+    "List A": {
+        "matches": "12",
+        "runs": "51",
+        "bat avg": "7.28",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "426",
+        "wickets": "9",
+        "bowl avg": "31.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/28",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire": "1993&ndash;1994",
+        "Cambridge University": "1992"
+    },
+    "birth_date": "1969-9-12"
+}

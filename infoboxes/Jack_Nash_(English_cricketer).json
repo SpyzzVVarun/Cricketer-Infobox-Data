@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Albert Nash",
+    "birth_place": "Blean, Kent, England",
+    "death_date": "1956",
+    "death_place": "Battersea, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off-break, Right-arm Right-arm off-break, Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/jack-nash-17992 Cricinfo ",
+    "First-class": {
+        "matches": "36",
+        "runs": "315",
+        "bat avg": "5.62",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "7,270",
+        "wickets": "133",
+        "bowl avg": "21.81",
+        "fivefor": "11",
+        "tenfor": "2",
+        "best bowling": "9/93",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1902&ndash;1922"
+    }
+}

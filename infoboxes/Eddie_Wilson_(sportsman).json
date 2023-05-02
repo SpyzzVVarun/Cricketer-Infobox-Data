@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Edward Wardlaw Wilson",
+    "birth_place": "Burntisland, Fife, Scotland",
+    "death_date": "1982",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Left-handed",
+    "source": "https://www.espncricinfo.com/player/edward-wilson-25396 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1936"
+    }
+}

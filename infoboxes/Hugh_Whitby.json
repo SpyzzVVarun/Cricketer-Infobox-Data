@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Hugh Owen Whitby",
+    "birth_place": "Ottery St Mary, Devon, England",
+    "death_date": "df=yes",
+    "death_place": "Tonbridge, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/22895.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "224",
+        "bat avg": "6.58",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "5,110",
+        "wickets": "119",
+        "bowl avg": "19.67",
+        "fivefor": "10",
+        "tenfor": "2",
+        "best bowling": "8/82",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1884&ndash;1887"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Albert Edwin Freethy",
+    "birth_place": "Swansea, Glamorgan, Wales",
+    "death_date": "1966",
+    "death_place": "Cimla, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/12922.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "79",
+        "bat avg": "26.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "31",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1908&ndash;1921"
+    },
+    "birth_date": "1885-4-27"
+}

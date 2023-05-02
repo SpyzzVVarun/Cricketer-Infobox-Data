@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Reginald Arthur Lord",
+    "birth_place": "Beckenham, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Willingdon, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/16644.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "57",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1924&ndash;1925"
+    }
+}

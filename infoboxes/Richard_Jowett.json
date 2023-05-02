@@ -1,0 +1,27 @@
+{
+    "name": "Richard Jowett",
+    "country": "England",
+    "fullname": "Richard Lund Jowett",
+    "birth_place": "Rawdon, Leeds, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/england/content/player/14482.html Cricinfo ",
+    "First-class": {
+        "matches": "43",
+        "runs": "1499",
+        "bat avg": "20.53",
+        "100s/50s": "2/6",
+        "top score": "122",
+        "deliveries": "1550",
+        "wickets": "20",
+        "bowl avg": "40.10",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/67",
+        "catches/stumpings": "44/0"
+    },
+    "clubs": {
+        "Oxford University": "1957 \u2013 1960"
+    },
+    "birth_date": "1937-4-29"
+}

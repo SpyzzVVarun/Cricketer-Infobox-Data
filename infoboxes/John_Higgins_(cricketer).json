@@ -1,0 +1,39 @@
+{
+    "name": "John Higgins",
+    "country": "England",
+    "fullname": "John Bernard Higgins",
+    "birth_place": "Harborne, Birmingham, England",
+    "death_date": "1970",
+    "death_place": "Malvern, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "type1": "FC",
+    "debutdate1": "10 June",
+    "debutyear1": "1912",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "27 May",
+    "lastyear1": "1930",
+    "lastfor1": "Worcestershire",
+    "lastagainst1": "Gloucestershire",
+    "source": "http://cricketarchive.co.uk/Archive/Players/13/13689/13689.html cricketarchive.com  ",
+    "First-class": {
+        "matches": "121",
+        "runs": "4,149",
+        "bat avg": "19.57",
+        "100s/50s": "3/11",
+        "top score": "123",
+        "deliveries": "2,824",
+        "wickets": "30",
+        "bowl avg": "53.46",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/72",
+        "catches/stumpings": "59/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1912\u20131930",
+        "Europeans (India)": "1922/23\u20131928/29"
+    },
+    "birth_date": "1885-12-31"
+}

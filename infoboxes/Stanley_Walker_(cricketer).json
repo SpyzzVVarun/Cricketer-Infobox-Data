@@ -1,0 +1,35 @@
+{
+    "name": "Stanley Walker",
+    "country": "England",
+    "fullname": "Stanley George Walker",
+    "birth_place": "Pinxton, Derbyshire, England",
+    "death_date": "1993",
+    "death_place": "Edinburgh, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "type1": "FC",
+    "debutdate1": "27 August",
+    "debutyear1": "1932",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/33/33573/33573.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "6.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1932"
+    },
+    "birth_date": "1908-5-18"
+}

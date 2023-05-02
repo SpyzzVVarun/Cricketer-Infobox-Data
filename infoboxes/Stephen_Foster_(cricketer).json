@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Stephen John Foster",
+    "birth_place": "Rotherham, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/12882.html Cricinfo ",
+    "LA": {
+        "matches": "9",
+        "runs": "133",
+        "bat avg": "16.62",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "deliveries": "498",
+        "wickets": "25",
+        "bowl avg": "10.24",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/52",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cumberland": "2006",
+        "Yorkshire Cricket Board": "1999",
+        "Northumberland": "2000"
+    },
+    "birth_date": "1968-2-21"
+}

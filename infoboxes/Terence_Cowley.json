@@ -1,0 +1,30 @@
+{
+    "name": "Terence Cowley",
+    "country": "Australia",
+    "fullname": "Terence John Cowley",
+    "birth_place": "Evandale, Tasmania",
+    "death_date": "2012",
+    "death_place": "Launceston, Tasmania",
+    "role": "Bowler",
+    "batting": "Left-handed",
+    "bowling": "Right-arm medium Right-arm medium fast",
+    "source": "http://content-aus.cricinfo.com/australia/content/player/4642.html  cricinfo.com ",
+    "FC": {
+        "matches": "30",
+        "runs": "660",
+        "bat avg": "12.94",
+        "100s/50s": "\u2013/4",
+        "top score": "59",
+        "deliveries": "5738",
+        "wickets": "94",
+        "bowl avg": "31.51",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "6/55",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1948-49 \u2013 1961-62"
+    },
+    "birth_date": "1928-7-17"
+}

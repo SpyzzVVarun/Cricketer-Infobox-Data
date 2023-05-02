@@ -1,0 +1,40 @@
+{
+    "name": "Yudhvir Singh",
+    "fullname": "Yudhvir Singh Charak",
+    "birth_place": "Jammu, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/1206052.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "36",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "216",
+        "wickets": "2",
+        "bowl avg": "66.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/60",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "53.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "2019\u20132019",
+        "Jammu and Kashmir": "2019\u2013present",
+        "Mumbai Indians": "2021\u20132021",
+        "Lucknow Super Giants": "2023\u2013present"
+    },
+    "birth_date": "1997-9-13"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Ernest Powell",
+    "country": "England",
+    "fullname": "Ernest Ormsby Powell",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1928",
+    "death_place": "Stafford, Staffordshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/18587.html Cricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "1,024",
+        "bat avg": "27.67",
+        "100s/50s": "1/6",
+        "top score": "140",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1888 & 1895",
+        "Hampshire": "1884&ndash;1885",
+        "Cambridge University": "1883&ndash;1884",
+        "Surrey": "1882"
+    },
+    "birth_date": "1861-1-19"
+}

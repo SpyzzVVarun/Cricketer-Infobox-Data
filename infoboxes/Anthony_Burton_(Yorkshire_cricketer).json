@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Anthony William Burton",
+    "birth_place": "Ripon, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/9317.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "54",
+        "wickets": "3",
+        "bowl avg": "10.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/30",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Yorkshire Cricket Board": "1999"
+    },
+    "birth_date": "1975-4-15"
+}

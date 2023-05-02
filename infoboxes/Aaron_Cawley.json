@@ -1,0 +1,51 @@
+{
+    "country": "Ireland",
+    "fullname": "Aaron Cawley",
+    "birth_place": "Horse and Jockey, Munster, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "List A",
+    "debutdate1": "6 May",
+    "debutyear1": "2021",
+    "debutfor1": "Munster Reds",
+    "debutagainst1": "North West Warriors",
+    "type2": "Twenty20",
+    "debutdate2": "26 May",
+    "debutyear2": "2017",
+    "debutfor2": "Munster Reds",
+    "debutagainst2": "Northern Knights",
+    "source": "http://www.espncricinfo.com/ci/content/player/1112205.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "deliveries": "222",
+        "wickets": "7",
+        "bowl avg": "30.42",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/60",
+        "catches/stumpings": "1/\u2013"
+    },
+    "Twenty20": {
+        "matches": "12",
+        "runs": "42",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "198",
+        "wickets": "8",
+        "bowl avg": "34.12",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/15",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Munster Reds": "2017&ndash;2021"
+    },
+    "birth_date": "1999-10-15"
+}

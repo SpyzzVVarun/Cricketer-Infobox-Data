@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "John Reginald Bean",
+    "birth_place": "Bangalore, Kingdom of Mysore,, British India",
+    "death_date": "2005",
+    "death_place": "Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/9624.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

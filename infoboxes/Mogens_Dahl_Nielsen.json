@@ -1,0 +1,25 @@
+{
+    "country": "Denmark",
+    "fullname": "Mogens Dahl Nielsen",
+    "birth_place": "Nyk\u00f8bing Mors, Viborg County, Denmark",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/23915.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "58",
+        "bat avg": "19.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "84",
+        "wickets": "2",
+        "bowl avg": "42.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/16",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Denmark": "1999-2000"
+    },
+    "birth_date": "1972-5-12"
+}

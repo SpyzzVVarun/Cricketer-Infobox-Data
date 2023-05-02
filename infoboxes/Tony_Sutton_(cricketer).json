@@ -1,0 +1,39 @@
+{
+    "name": "Tony Sutton",
+    "country": "England",
+    "fullname": "Michael Antony Sutton",
+    "birth_place": "Weymouth, Dorset, England",
+    "death_date": "2019",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "22 May",
+    "debutyear1": "1946",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "25 June",
+    "lastyear1": "1948",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3838/3838.html CricketArchive ",
+    "First-class": {
+        "matches": "19",
+        "runs": "144",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "2678",
+        "wickets": "47",
+        "bowl avg": "25.91",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/63",
+        "catches/stumpings": "23/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1946&ndash;47",
+        "Somerset": "1948"
+    },
+    "birth_date": "1921-3-29"
+}

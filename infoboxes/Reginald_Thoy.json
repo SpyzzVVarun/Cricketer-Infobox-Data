@@ -1,0 +1,37 @@
+{
+    "name": "Reginald Thoy",
+    "country": "England",
+    "fullname": "Reginald Ernest Thoy",
+    "birth_place": "Singapore",
+    "death_date": "1993",
+    "death_place": "Maidstone, Kent, England",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "29 June",
+    "debutyear1": "1955",
+    "debutfor1": "DR Jardine's XI",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "3 July",
+    "lastyear1": "1957",
+    "lastfor1": "DR Jardine's XI",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/33/33311/33311.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "24",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "DR Jardine's XI": "1955-1957"
+    },
+    "birth_date": "1921-5-12"
+}

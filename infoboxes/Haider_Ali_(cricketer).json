@@ -1,0 +1,66 @@
+{
+    "name": "Haider Ali",
+    "country": "Pakistan",
+    "birth_place": "Attock, Punjab, Pakistan",
+    "height": "6ft",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "2020\u20132022",
+    "odidebutdate": "1 November",
+    "odidebutyear": "2020",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "226",
+    "lastodidate": "3 November",
+    "lastodiyear": "2020",
+    "lastodiagainst": "Zimbabwe",
+    "T20Idebutdate": "1 September",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "England",
+    "T20Icap": "87",
+    "lastT20Idate": "27 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Zimbabwe",
+    "ODI": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "1/\u2014"
+    },
+    "T20I": {
+        "matches": "31",
+        "runs": "497",
+        "bat avg": "19.88",
+        "100s/50s": "0/3",
+        "top score": "68",
+        "catches/stumpings": "7/\u2014"
+    },
+    "FC": {
+        "matches": "11",
+        "runs": "978",
+        "bat avg": "54.33",
+        "100s/50s": "3/4",
+        "top score": "206",
+        "catches/stumpings": "6/\u2014"
+    },
+    "LA": {
+        "matches": "21",
+        "runs": "708",
+        "bat avg": "33.71",
+        "100s/50s": "1/4",
+        "top score": "118",
+        "catches/stumpings": "10/\u2014"
+    },
+    "clubs": {
+        "Northern": "2019\u2013present",
+        "Peshawar Zalmi": "2020\u20132022"
+    },
+    "birth_date": "2000-10-2",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{PAK}}",
+        "Competition: Asia Cup",
+        "Competition: T20 World Cup"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Gwen Smith",
+    "female": "true",
+    "fullname": "Gwendolyn Smith",
+    "birth_place": "Trinidad",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "internationalspan": "1997",
+    "country": "West Indies",
+    "odidebutdate": "11 December",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "31",
+    "lastodidate": "20 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Archive/Players/17/17443/17443.html CricketArchive ",
+    "WODI": {
+        "matches": "4",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "156",
+        "wickets": "4",
+        "bowl avg": "21.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WFC": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "27.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/54",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1994"
+    }
+}

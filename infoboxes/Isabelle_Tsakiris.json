@@ -1,0 +1,62 @@
+{
+    "name": "Isabelle Tsakiris",
+    "female": "true",
+    "fullname": "Isabelle Tsakiris",
+    "birth_place": "Adelaide, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "internationalspan": "1992",
+    "country": "Australia",
+    "onetest": "true",
+    "testdebutdate": "19 February",
+    "testdebutyear": "1992",
+    "testdebutagainst": "England",
+    "testcap": "125",
+    "source": "https://cricketarchive.com/Archive/Players/11/11063/11063.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "300",
+        "wickets": "7",
+        "bowl avg": "6.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "17",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "0/0",
+        "deliveries": "1,911",
+        "wickets": "34",
+        "bowl avg": "14.61",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WLA": {
+        "matches": "25",
+        "runs": "29",
+        "bat avg": "3.22",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "1,512",
+        "wickets": "21",
+        "bowl avg": "25.47",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/1",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1982/83\u20131992/93"
+    },
+    "birth_date": "1960-11-19"
+}

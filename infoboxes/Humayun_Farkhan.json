@@ -1,0 +1,28 @@
+{
+    "name": "Humayun Farkhan",
+    "country": "Pakistan",
+    "birth_place": "Lyallpur, British India",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/40520.html Cricinfo",
+    "First-class": {
+        "matches": "38",
+        "runs": "638",
+        "bat avg": "13.02",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "8682",
+        "wickets": "147",
+        "bowl avg": "21.19",
+        "fivefor": "9",
+        "tenfor": "1",
+        "best bowling": "6/23",
+        "catches/stumpings": "28/&ndash;"
+    },
+    "clubs": {
+        "Sargodha": "1964-65 to 1977-78",
+        "Punjab University": "1968-69 to 1969-70",
+        "Faisalabad": "1984-85 to 1985-86"
+    },
+    "birth_date": "1947-4-5"
+}

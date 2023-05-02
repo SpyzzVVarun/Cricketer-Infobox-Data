@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Charles Windham Foley",
+    "birth_place": "Wadhurst, Sussex, England",
+    "death_date": "1933",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/13106.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "51",
+        "bat avg": "4.63",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "7/12"
+    },
+    "clubs": {
+        "Cambridge University": "1880",
+        "Marylebone Cricket Club": "1891"
+    }
+}

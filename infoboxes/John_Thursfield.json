@@ -1,0 +1,28 @@
+{
+    "name": "John Thursfield",
+    "country": "England",
+    "fullname": "John Hunt Thursfield",
+    "birth_place": "Alvechurch, Worcestershire, England",
+    "death_date": "1951",
+    "death_place": "Shenstone, Staffordshire, England",
+    "batting": "Right-handed",
+    "source": "http://cricketarchive.co.uk/Archive/Players/33/33316/33316.html  ",
+    "FC": {
+        "matches": "3",
+        "runs": "70",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Worcestershire": "1922&mdash;1925"
+    },
+    "birth_date": "1892-6-16"
+}

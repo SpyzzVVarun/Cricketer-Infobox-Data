@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Henry Davies",
+    "birth_place": "Hampton, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "at sea, off South Africa",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12357.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "114",
+        "bat avg": "16.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "40",
+        "wickets": "4",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/?",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1846&ndash;1848"
+    }
+}

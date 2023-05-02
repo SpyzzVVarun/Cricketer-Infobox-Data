@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Harrison Dalton",
+    "birth_place": "Stowmarket, Suffolk, England",
+    "death_date": "14 July 1881 (aged 57/58)",
+    "death_place": "Bradford, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/12341.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1846"
+    }
+}

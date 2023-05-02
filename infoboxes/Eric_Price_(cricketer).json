@@ -1,0 +1,29 @@
+{
+    "name": "Eric Price",
+    "fullname": "Eric James Price",
+    "birth_place": "Middleton, Lancashire, England",
+    "death_date": "2002",
+    "death_place": "Rochdale, Lancashire, England",
+    "batting": "Left-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/18614.html Cricinfo ",
+    "FC": {
+        "matches": "80",
+        "runs": "558",
+        "bat avg": "8.71",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "12432",
+        "wickets": "215",
+        "bowl avg": "26.61",
+        "fivefor": "10",
+        "tenfor": "2",
+        "best bowling": "8/125",
+        "catches/stumpings": "40/0"
+    },
+    "clubs": {
+        "Lancashire": "1946\u20131947",
+        "Essex": "1948\u20131949"
+    },
+    "birth_date": "1918-10-27"
+}

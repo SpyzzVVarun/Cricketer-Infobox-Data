@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "George Bennett",
+    "birth_place": "Naples, Italy",
+    "death_date": "df=yes",
+    "death_place": "Southbourne, Hampshire,, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/10427.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1852&ndash;1856"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Arthur Knight",
+    "fullname": "Arthur Egerton Knight",
+    "birth_place": "Godalming, Surrey, England",
+    "death_date": "1956",
+    "death_place": "Southsea, Hampshire, England",
+    "position": "Left-back",
+    "youthclubs1": "Godalming",
+    "years1": "1908\u20131922",
+    "clubs1": "Portsmouth",
+    "years2": "1921\u20131931",
+    "clubs2": "Corinthians",
+    "nationalyears1": "1911-1920| nationalteam1 = England Amateur| nationalcaps1 = 30| nationalgoals1 =",
+    "nationalyears2": "1919| nationalteam2 = England",
+    "nationalcaps2": "1| nationalgoals2 = 0",
+    "module": "Infobox cricketer",
+    "child": "yes",
+    "type1": "First-class",
+    "debutyear1": "1913",
+    "debutfor1": "Hampshire",
+    "source": "https://cricketarchive.com/Archive/Players/6/6707/6707.html CricketArchive |medaltemplates = ",
+    "FC": {
+        "matches": "4",
+        "runs": "17",
+        "bat avg": "5.85",
+        "100s/50s": "0",
+        "top score": "29",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "17.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1-17",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Hampshire": "1913\u20131923"
+    },
+    "birth_date": "1887-9-7"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Francis Thomas O'Byrne",
+    "birth_place": "Bromley, Kent, England",
+    "death_date": "1951",
+    "death_place": "St Leonards-on-Sea, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/18302.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "26",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1935"
+    },
+    "birth_date": "1908-4-30"
+}

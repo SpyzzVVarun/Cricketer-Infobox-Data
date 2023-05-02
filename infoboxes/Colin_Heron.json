@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Colin Hubert Heron",
+    "birth_place": "Mandeville, Middlesex County, Jamaica",
+    "death_date": "df=yes",
+    "death_place": "Kingston, Ontario, Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/52119.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "204",
+        "wickets": "2",
+        "bowl avg": "50.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/54",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1958&ndash;1960",
+        "British Guiana": "1961/62"
+    }
+}

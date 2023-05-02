@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Cyril Francis Stewart Buckley",
+    "birth_place": "Chelsea, London, England",
+    "death_date": "df=yes",
+    "death_place": "Chelsea, London, England",
+    "family": "Alfred Buckley (great-uncle)",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/10120.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "53",
+        "bat avg": "10.60",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1924&ndash;1935"
+    }
+}

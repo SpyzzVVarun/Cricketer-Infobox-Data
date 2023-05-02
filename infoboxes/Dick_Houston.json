@@ -1,0 +1,28 @@
+{
+    "name": "Dick Houston",
+    "fullname": "Richard Shinnock Houston",
+    "birth_place": "Brighton, Victoria, Australia",
+    "death_date": "1921",
+    "death_place": "Williamstown, Victoria, Australia",
+    "batting": "Right-handed",
+    "role": "Batsman, occasional wicket-keeper, occasional bowler",
+    "source": "http://www.espncricinfo.com/australia/content/player/5881.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "762",
+        "bat avg": "20.05",
+        "100s/50s": "0/4",
+        "top score": "72",
+        "deliveries": "200",
+        "wickets": "2",
+        "bowl avg": "57.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/13",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "Victoria": "1885-1898"
+    },
+    "birth_date": "1863-6-30"
+}

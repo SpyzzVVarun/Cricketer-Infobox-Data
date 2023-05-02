@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Howard Guerin le Peton",
+    "birth_place": "Pwllheli, Caernarvonshire, Wales",
+    "death_date": "1981",
+    "death_place": "Wisbech, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/24424.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1921"
+    }
+}

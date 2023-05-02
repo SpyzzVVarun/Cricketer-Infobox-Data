@@ -1,0 +1,39 @@
+{
+    "name": "Albert North",
+    "country": "England",
+    "fullname": "Albert Edward Charles North",
+    "birth_place": "Bedminster, Bristol, England",
+    "death_date": "1933",
+    "death_place": "Bristol, England",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "21 May",
+    "debutyear1": "1903",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "19 June",
+    "lastyear1": "1912",
+    "lastfor1": "Gloucestershire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3735/3735.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "182",
+        "bat avg": "12.13",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1392",
+        "wickets": "25",
+        "bowl avg": "37.16",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/47",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1903&ndash;09",
+        "Gloucestershire": "1912"
+    },
+    "birth_date": "1877-12-20"
+}

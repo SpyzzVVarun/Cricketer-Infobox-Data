@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "William Henry Goudge",
+    "birth_place": "Highworth, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Cheltenham, Gloucestershire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/13690.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "191",
+        "bat avg": "19.10",
+        "100s/50s": "\u2013/2",
+        "top score": "58",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1896&ndash;1899"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Niranjan Godbole",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Top-order batsman",
+    "full_name": "Niranjan Ajit Godbole",
+    "source": "https://www.espncricinfo.com/india/content/player/28831.html ESPNcricinfo",
+    "birth_place": "Nagpur, Maharashtra",
+    "country": "India",
+    "FC": {
+        "matches": "24",
+        "runs": "994",
+        "bat avg": "26.15",
+        "100s/50s": "1/5",
+        "top score": "186",
+        "deliveries": "180",
+        "wickets": "1",
+        "bowl avg": "71.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/26",
+        "catches/stumpings": "17/\u2013"
+    },
+    "LA": {
+        "matches": "23",
+        "runs": "805",
+        "bat avg": "36.59",
+        "100s/50s": "1/4",
+        "deliveries": "222",
+        "wickets": "5",
+        "bowl avg": "27.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "2/26",
+        "catches/stumpings": "16/\u2013 "
+    },
+    "clubs": {
+        "Maharashtra cricket team": "1995-2004"
+    }
+}

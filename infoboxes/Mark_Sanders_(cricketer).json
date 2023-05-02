@@ -1,0 +1,42 @@
+{
+    "name": "Mark Sanders",
+    "fullname": "Mark David Sanders",
+    "birth_place": "Durban, South Africa",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/20/20149/20149.html CricketArchive ",
+    "First-class": {
+        "matches": "21",
+        "runs": "1,188",
+        "bat avg": "34.94",
+        "100s/50s": "1/8",
+        "top score": "103",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "163",
+        "bat avg": "18.11",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "KwaZulu-Natal B": "1998/99",
+        "KwaZulu-Natal": "2002/03\u20132005/06",
+        "Boland": "2003/04"
+    },
+    "birth_date": "1979-07-10"
+}

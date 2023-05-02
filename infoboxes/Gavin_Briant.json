@@ -1,0 +1,54 @@
+{
+    "name": "Gavin Briant",
+    "country": "Zimbabwe",
+    "fullname": "Gavin Aubrey Briant",
+    "birth_place": "Salisbury, Rhodesia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm off-break",
+    "onetest": "true",
+    "testdebutdate": "13 March",
+    "testdebutyear": "1993",
+    "testdebutagainst": "India",
+    "testcap": "14",
+    "odidebutdate": "1 February",
+    "odidebutyear": "1993",
+    "odidebutagainst": "Pakistan",
+    "odicap": "32",
+    "lastodidate": "25 March",
+    "lastodiyear": "1993",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/55271.html ESPNcricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/0"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "39",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "11",
+        "runs": "447",
+        "bat avg": "24.83",
+        "100s/50s": "0/3",
+        "top score": "69",
+        "catches/stumpings": "10/0"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "152",
+        "bat avg": "16.88",
+        "100s/50s": "0/1",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {},
+    "birth_date": "1969-4-11"
+}

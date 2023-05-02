@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Matthew John Laidman",
+    "birth_place": "Sutton, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/527479.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "55",
+        "bat avg": "18.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Oxford MCCU": "2016"
+    },
+    "birth_date": "1992-10-20"
+}

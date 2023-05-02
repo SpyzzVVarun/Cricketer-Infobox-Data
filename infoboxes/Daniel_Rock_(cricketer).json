@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Daniel John Rock",
+    "birth_place": "Ipswich, Suffolk, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/19511.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Suffolk": "1998&ndash;2000"
+    },
+    "birth_date": "1981-10-26"
+}

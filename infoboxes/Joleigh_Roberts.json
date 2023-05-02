@@ -1,0 +1,40 @@
+{
+    "name": "Joleigh Roberts",
+    "female": "true",
+    "fullname": "Joleigh L Roberts",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1664/1664415/1664415.html CricketArchive",
+    "WLA": {
+        "matches": "15",
+        "runs": "132",
+        "bat avg": "22.00",
+        "100s/50s": "0/1",
+        "deliveries": "619",
+        "wickets": "16",
+        "bowl avg": "23.68",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/37",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WT20": {
+        "matches": "34",
+        "runs": "145",
+        "bat avg": "16.11",
+        "100s/50s": "0/0",
+        "deliveries": "468",
+        "wickets": "12",
+        "bowl avg": "41.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "2017\u20132019",
+        "Somerset": "2019\u2013present",
+        "Western Storm": "2021"
+    }
+}

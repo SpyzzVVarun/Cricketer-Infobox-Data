@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "George Smith",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1876",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "family": "John Smith (brother)",
+    "heightft": "5",
+    "heightinch": "9 title=Frederick Lillywhite's Cricket scores and Biographies",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/20857.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "23",
+        "bat avg": "3.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "1,096",
+        "wickets": "23",
+        "bowl avg": "16.69",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1868&ndash;1871"
+    }
+}

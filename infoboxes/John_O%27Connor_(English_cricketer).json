@@ -1,0 +1,38 @@
+{
+    "name": "John O'Connor",
+    "country": "England",
+    "birth_place": "Pinxton, Derbyshire, England",
+    "death_date": "1936",
+    "death_place": "Cambridge, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "family": "Jack O'Connor (son)",
+    "type1": "FC",
+    "debutdate1": "10 May",
+    "debutyear1": "1900",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "21 June",
+    "lastyear1": "1900",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Players/31/31784/31784.html CricketArchive ",
+    "First-class": {
+        "matches": "9",
+        "runs": "55",
+        "bat avg": "6.11",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "1,259",
+        "wickets": "24",
+        "bowl avg": "25.79",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "5/56",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1900"
+    },
+    "birth_date": "1867-2-23"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Claire Cowan",
+    "female": "true",
+    "fullname": "Claire Sheena Cowan",
+    "birth_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2003",
+    "country": "South Africa",
+    "testdebutdate": "7 August",
+    "testdebutyear": "2003",
+    "testdebutagainst": "England",
+    "testcap": "37",
+    "lasttestdate": "20 August",
+    "lasttestyear": "2003",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/60/60248/60248.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "54",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WLA": {
+        "matches": "14",
+        "runs": "369",
+        "bat avg": "28.38",
+        "100s/50s": "0/3",
+        "top score": "85/",
+        "catches/stumpings": "9/6"
+    },
+    "clubs": {
+        "Western Province": "2003/04\u20132004/05"
+    },
+    "birth_date": "1981-9-18"
+}

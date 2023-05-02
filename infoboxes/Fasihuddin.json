@@ -1,0 +1,23 @@
+{
+    "name": "Fasihuddin",
+    "country": "Pakistan",
+    "fullname": "Syed Fasihuddin",
+    "birth_place": "Delhi, British India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/42597.html Cricinfo",
+    "First-class": {
+        "matches": "51",
+        "runs": "2286",
+        "bat avg": "29.30",
+        "100s/50s": "6/8",
+        "top score": "237",
+        "catches/stumpings": "80/36"
+    },
+    "clubs": {
+        "Karachi": "1957\u201358 to 1959\u201360, 1961\u201362",
+        "Quetta": "1960\u201361, 1962\u201363 to 1974\u201375",
+        "Baluchistan": "1972\u201373 to 1973\u201374"
+    },
+    "birth_date": "1938-9-18"
+}

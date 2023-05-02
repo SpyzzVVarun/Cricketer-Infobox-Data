@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John George March",
+    "birth_place": "Ushaw Moor, County Durham, England",
+    "death_date": "2017",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/17229.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "91",
+        "bat avg": "22.75",
+        "100s/50s": "&ndash;/1",
+        "top score": "78",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "18.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/18",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Durham": "1963&ndash;1975"
+    },
+    "birth_date": "1932-11-25"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harry Turner",
+    "birth_place": "Birkenshaw, Yorkshire, England",
+    "death_date": "1939",
+    "death_place": "Shrewsbury, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/harry-turner-25383 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "32",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "157",
+        "wickets": "1",
+        "bowl avg": "89.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/14",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1913",
+        "Durham": "1923&ndash;1925"
+    }
+}

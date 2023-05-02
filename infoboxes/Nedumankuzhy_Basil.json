@@ -1,0 +1,39 @@
+{
+    "name": "Nedumankuzhy Basil",
+    "fullname": "Nedumankuzhy Poulose Basil",
+    "birth_place": "Perumbavoor, Kerala, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1214015.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "281",
+        "wickets": "4",
+        "bowl avg": "21.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/54",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "12",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "249",
+        "wickets": "5",
+        "bowl avg": "58.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/57",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Kerala": "2019-present"
+    },
+    "birth_date": "1996-10-20"
+}

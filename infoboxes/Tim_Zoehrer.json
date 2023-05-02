@@ -1,0 +1,25 @@
+{
+    "name": "Tim Zoehrer",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/8468.html Cricinfo  ",
+    "Test": {
+        "matches": "10",
+        "runs": "246",
+        "bat avg": "20.50",
+        "100s/50s": "0/1",
+        "catches/stumpings": "18/1"
+    },
+    "ODI": {
+        "matches": "22",
+        "runs": "130",
+        "bat avg": "10.83",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "21/2"
+    },
+    "clubs": {
+        "Western Australia": "1980/81\u20131993/94"
+    }
+}

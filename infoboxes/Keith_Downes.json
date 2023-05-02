@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Keith Drummond Downes",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "df=y",
+    "death_place": "Sheffield, Yorkshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/12243.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "102",
+        "bat avg": "9.27",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "6/1"
+    },
+    "clubs": {
+        "Cambridge University": "1939"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Cody Chetty",
+    "birth_place": "Durban, South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/322815.html Cricinfo ",
+    "FC": {
+        "matches": "99",
+        "runs": "4,919",
+        "bat avg": "36.16",
+        "100s/50s": "10/24",
+        "catches/stumpings": "50/\u2013"
+    },
+    "LA": {
+        "matches": "98",
+        "runs": "2,035",
+        "bat avg": "27.50",
+        "100s/50s": "1/15",
+        "top score": "123",
+        "catches/stumpings": "33/\u2013"
+    },
+    "T20": {
+        "matches": "80",
+        "runs": "1,663",
+        "bat avg": "27.71",
+        "100s/50s": "0/9",
+        "catches/stumpings": "22/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1991-6-28"
+}

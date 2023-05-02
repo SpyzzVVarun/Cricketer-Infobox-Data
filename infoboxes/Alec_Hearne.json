@@ -1,0 +1,49 @@
+{
+    "name": "Alec Hearne",
+    "country": "England",
+    "fullname": "Alec Hearne",
+    "birth_place": "Ealing, Middlesex",
+    "death_date": "1952",
+    "death_place": "Beckenham, Kent",
+    "family": "George Hearne (father)  George Gibbons Hearne (brother) Frank Hearne (brother) Other family",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "onetest": "true",
+    "testdebutdate": "19 March",
+    "testdebutyear": "1892",
+    "testdebutagainst": "South Africa",
+    "testcap": "76",
+    "source": "http://www.espncricinfo.com/ci/content/player/14129.html CricInfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "488",
+        "runs": "16,346",
+        "bat avg": "21.65",
+        "100s/50s": "15/71",
+        "top score": "194",
+        "deliveries": "61,070",
+        "wickets": "1,160",
+        "bowl avg": "19.93",
+        "fivefor": "52",
+        "tenfor": "9",
+        "best bowling": "8/15",
+        "catches/stumpings": "404/\u2013"
+    },
+    "clubs": {
+        "Kent": "1884\u20131906"
+    },
+    "birth_date": "1863-7-22"
+}

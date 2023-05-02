@@ -1,0 +1,51 @@
+{
+    "name": "Collie Smith",
+    "country": "West Indies",
+    "fullname": "O'Neil Gordon Smith",
+    "birth_place": "Boys Town, Kingston, Jamaica",
+    "death_date": "1959",
+    "death_place": "Stoke-on-Trent, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "All-rounder",
+    "testdebutdate": "26 March",
+    "testdebutyear": "1955",
+    "testdebutagainst": "Australia",
+    "testcap": "86",
+    "lasttestdate": "31 March",
+    "lasttestyear": "1959",
+    "lasttestagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Archive/Players/1/1012/1012.html CricketArchive ",
+    "Test": {
+        "matches": "26",
+        "runs": "1,331",
+        "bat avg": "31.69",
+        "100s/50s": "4/6",
+        "top score": "168",
+        "deliveries": "4,431",
+        "wickets": "48",
+        "bowl avg": "33.85",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/90",
+        "catches/stumpings": "9/\u2013"
+    },
+    "First-class": {
+        "matches": "70",
+        "runs": "4,031",
+        "bat avg": "40.31",
+        "100s/50s": "10/20",
+        "top score": "169",
+        "deliveries": "9,635",
+        "wickets": "121",
+        "bowl avg": "31.02",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/63",
+        "catches/stumpings": "39/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1954/55\u20131957/58"
+    },
+    "birth_date": "1933-5-5"
+}

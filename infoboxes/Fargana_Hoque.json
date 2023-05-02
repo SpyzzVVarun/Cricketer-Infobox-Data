@@ -1,0 +1,62 @@
+{
+    "name": "Fargana Hoque",
+    "female": "true",
+    "country": "Bangladesh",
+    "fullname": "Fargana Hoque Pinky",
+    "birth_place": "Gaibandha, Bangladesh",
+    "heightft": "5",
+    "heightinch": "3",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "role": "Batter",
+    "internationalspan": "2011\u2013present",
+    "odidebutdate": "26 November",
+    "odidebutyear": "2011",
+    "odidebutagainst": "Ireland",
+    "odicap": "1",
+    "lastodidate": "17 December",
+    "lastodiyear": "2022",
+    "lastodiagainst": "New Zealand",
+    "T20Idebutdate": "28 August",
+    "T20Idebutyear": "2012",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "1",
+    "lastT20Idate": "21 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/486995.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "49",
+        "runs": "1,015",
+        "bat avg": "23.60",
+        "100s/50s": "0/9",
+        "top score": "71",
+        "catches/stumpings": "12/\u2013"
+    },
+    "WT20I": {
+        "matches": "82",
+        "runs": "1,236",
+        "bat avg": "19.01",
+        "100s/50s": "1/3",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Rajshahi Division": "2008/09\u20132010/11",
+        "Rangpur Division": "2012/13",
+        "Barisal Division": "2017\u20132017/18",
+        "Southern Zone": "2021/22\u2013present"
+    },
+    "birth_date": "1993-03-19",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Silver Medal: 2010 Guangzhou Team",
+        "Silver Medal: 2014 Incheon Team",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

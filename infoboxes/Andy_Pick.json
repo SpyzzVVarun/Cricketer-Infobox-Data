@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Robert Andrew Pick",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/andy-pick-18529 Cricinfo ",
+    "First-class": {
+        "matches": "195",
+        "runs": "2,259",
+        "bat avg": "14.96",
+        "100s/50s": "\u2013/5",
+        "deliveries": "30,238",
+        "wickets": "495",
+        "bowl avg": "33.24",
+        "fivefor": "16",
+        "tenfor": "3",
+        "best bowling": "7/128",
+        "catches/stumpings": "50/\u2013"
+    },
+    "List A": {
+        "matches": "204",
+        "runs": "631",
+        "bat avg": "17.05",
+        "100s/50s": "\u2013/1",
+        "deliveries": "10,219",
+        "wickets": "242",
+        "bowl avg": "31.92",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/22",
+        "catches/stumpings": "39/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1983&ndash;1997",
+        "Wellington": "1989/90",
+        "Cambridgeshire": "1998",
+        "Huntingdonshire": "1999"
+    },
+    "birth_date": "1963-11-19"
+}

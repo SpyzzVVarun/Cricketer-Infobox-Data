@@ -1,0 +1,43 @@
+{
+    "name": "Mark Ray",
+    "country": "Australia",
+    "fullname": "Mark Ray",
+    "birth_place": "Surry Hills, New South Wales, Australia",
+    "role": "All-rounder",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/australia/content/player/7311.html cricinfo.com ",
+    "First-class": {
+        "matches": "44",
+        "runs": "1948",
+        "bat avg": "27.05",
+        "100s/50s": "0/10",
+        "top score": "94",
+        "deliveries": "4576",
+        "wickets": "41",
+        "bowl avg": "49.65",
+        "fivefor": "1",
+        "tenfor": "-",
+        "best bowling": "5/79",
+        "catches/stumpings": "41/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "93",
+        "bat avg": "23.25",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "150",
+        "wickets": "2",
+        "bowl avg": "64.50",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/35",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "New South Wales": "1981&ndash;1982",
+        "Tasmania": "1982&ndash;1986"
+    },
+    "birth_date": "1952-10-2"
+}

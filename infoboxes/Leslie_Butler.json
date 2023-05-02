@@ -1,0 +1,38 @@
+{
+    "name": "Leslie Butler",
+    "country": "New Zealand",
+    "fullname": "Leslie Charles Butler",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "2006",
+    "death_place": "Clear Island Waters, Queensland, Australia",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All-rounder",
+    "type1": "First class",
+    "debutdate1": "1 February",
+    "debutyear1": "1952",
+    "debutfor1": "Wellington",
+    "debutagainst1": "Auckland",
+    "lastdate1": "1 January",
+    "lastyear1": "1968",
+    "lastfor1": "Wellington",
+    "lastagainst1": "Canterbury",
+    "source": "https://cricketarchive.com/Archive/Players/21/21578/21578.html Cricket Archive ",
+    "FC": {
+        "matches": "53",
+        "runs": "1396",
+        "bat avg": "19.12",
+        "100s/50s": "1/6",
+        "deliveries": "9291",
+        "wickets": "120",
+        "bowl avg": "24.28",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "8/50",
+        "catches/stumpings": "47/0"
+    },
+    "clubs": {
+        "Wellington": "1951\u20131968"
+    },
+    "birth_date": "1934-9-2"
+}

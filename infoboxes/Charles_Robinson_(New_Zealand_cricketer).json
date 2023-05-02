@@ -1,0 +1,29 @@
+{
+    "name": "Charles Robinson",
+    "country": "New Zealand",
+    "fullname": "Charles Walter Robinson",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1947",
+    "death_place": "Lower Hutt, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/16/16935/16935.html Cricket Archive ",
+    "First-class": {
+        "matches": "14",
+        "runs": "376",
+        "bat avg": "16.34",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "1846",
+        "wickets": "53",
+        "bowl avg": "24.30",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/63",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Wellington": "1911-12 to 1914-15"
+    },
+    "birth_date": "1892-3-28"
+}

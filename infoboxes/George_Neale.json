@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "George Henry Neale",
+    "birth_place": "Reigate, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Loos-en-Gohelle, Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/18076.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1902"
+    }
+}

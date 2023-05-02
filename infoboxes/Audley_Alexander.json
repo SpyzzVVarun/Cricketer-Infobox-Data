@@ -1,0 +1,48 @@
+{
+    "name": "Audley Alexander",
+    "birth_place": "Saint Lucia",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "FC",
+    "debutdate1": "16 December",
+    "debutyear1": "2016",
+    "debutfor1": "Windward Islands",
+    "debutagainst1": "Barbados",
+    "type2": "LA",
+    "debutdate2": "8 February",
+    "debutyear2": "2017",
+    "debutfor2": "Windward Islands",
+    "debutagainst2": "Leeward Islands",
+    "source": "http://www.espncricinfo.com/ci/content/player/1072980.html ESPNcricinfo ",
+    "First Class": {
+        "matches": "1",
+        "runs": "n/a",
+        "bat avg": "n/a",
+        "100s/50s": "n/a",
+        "top score": "n/a",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "n/a",
+        "100s/50s": "0/0",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "n/a",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Windward Islands": "2016\u2013present"
+    },
+    "birth_date": "1991-10-10"
+}

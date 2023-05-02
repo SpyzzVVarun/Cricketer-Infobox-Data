@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Cecil William Edward U'ren",
+    "birth_place": "Devonport, Devon, England",
+    "death_date": "1971",
+    "death_place": "Sutton, Surrey, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/cecil-u-ren-35588 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "4.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "282",
+        "wickets": "1",
+        "bowl avg": "181.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/93",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1941/42\u20131943/44"
+    }
+}

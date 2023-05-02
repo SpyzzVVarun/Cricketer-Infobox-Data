@@ -1,0 +1,37 @@
+{
+    "name": "Barto Bartlett",
+    "country": "West Indies",
+    "fullname": "Edward Lawson Bartlett",
+    "birth_place": "Flint Hall, Saint Michael, Barbados",
+    "death_date": "1976",
+    "death_place": "Bayville, Saint Michael, Barbados",
+    "nickname": "Barto",
+    "batting": "Right-handed",
+    "testdebutdate": "11 August",
+    "testdebutyear": "1928",
+    "testdebutagainst": "England",
+    "lasttestdate": "27 February",
+    "lasttestyear": "1931",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/489/489.html Cricket Archive ",
+    "Tests": {
+        "matches": "5",
+        "runs": "131",
+        "bat avg": "18.71",
+        "100s/50s": "0/1",
+        "top score": "84",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "42",
+        "runs": "1,581",
+        "bat avg": "23.25",
+        "100s/50s": "1/8",
+        "top score": "109",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1923\u20131939"
+    },
+    "birth_date": "1906-3-10"
+}

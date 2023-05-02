@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Henry Hendley Bond",
+    "death_date": "df=y",
+    "death_place": "Glasnevin, Ireland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ireland/content/player/27055.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "107",
+        "bat avg": "15.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Europeans (India)": "1898/99\u20131900/01"
+    }
+}

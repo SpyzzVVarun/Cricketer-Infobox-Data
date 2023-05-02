@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Edward Heneage Wynne-Finch",
+    "birth_place": "Pentrefoelas, Denbighshire, Wales",
+    "death_date": "1914",
+    "death_place": "Stokesley, Yorkshire, England",
+    "nickname": "Charles Wynne (father), John Wynne (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/23257.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "24",
+        "bat avg": "4.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "deliveries": "164",
+        "wickets": "2",
+        "bowl avg": "38.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/68",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1864&ndash;1866"
+    }
+}

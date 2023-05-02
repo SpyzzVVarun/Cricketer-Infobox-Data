@@ -1,0 +1,31 @@
+{
+    "name": "Ravi Kalpana",
+    "female": "true",
+    "country": "India",
+    "fullname": "Ravi Venkateswarlu Kalpana",
+    "birth_place": "Krishna, Andhra Pradesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Wicket-keeper",
+    "odidebutdate": "28 June",
+    "odidebutyear": "2015",
+    "odidebutagainst": "New Zealand",
+    "odicap": "115",
+    "lastodidate": "19 February",
+    "lastodiyear": "2016",
+    "lastodiagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/india/content/player/597820.html Cricinfo ",
+    "WODI": {
+        "matches": "7",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Andhra Pradesh": "2010/11\u20132015/16",
+        "Trailblazers": "2019"
+    },
+    "birth_date": "1996-5-5"
+}

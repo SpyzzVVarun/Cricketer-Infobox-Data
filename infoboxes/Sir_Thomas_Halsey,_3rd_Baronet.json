@@ -1,0 +1,39 @@
+{
+    "name": "Sir Thomas Halsey, Bt",
+    "country": "England",
+    "fullname": "Thomas Edgar Halsey",
+    "birth_place": "South Mimms, Hertfordshire, England",
+    "death_date": "1970",
+    "death_place": "Hemel Hempstead, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "20 May",
+    "debutyear1": "1920",
+    "debutfor1": "Royal Navy",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "25 August",
+    "lastyear1": "1928",
+    "lastfor1": "Royal Navy",
+    "lastagainst1": "Royal Air Force",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/29/29909/29909.html CricketArchive ",
+    "First-class": {
+        "matches": "12",
+        "runs": "685",
+        "bat avg": "38.05",
+        "100s/50s": "1/4",
+        "deliveries": "565",
+        "wickets": "7",
+        "bowl avg": "55.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/78",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Royal Navy": "1920\u20131928",
+        "Cambridge University": "1920"
+    },
+    "birth_date": "1898-11-28"
+}

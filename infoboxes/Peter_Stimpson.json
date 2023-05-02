@@ -1,0 +1,41 @@
+{
+    "name": "Peter Stimpson",
+    "country": "Wales",
+    "fullname": "Peter John Stimpson",
+    "birth_place": "Aberfan, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/33/33043/33043.html CricketArchive ",
+    "FC": {
+        "matches": "30",
+        "runs": "1,327",
+        "bat avg": "26.01",
+        "100s/50s": "1/9",
+        "top score": "103",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "8/0"
+    },
+    "LA": {
+        "matches": "24",
+        "runs": "236",
+        "bat avg": "11.23",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Worcestershire": "1971&ndash;1972"
+    },
+    "birth_date": "1947-5-25"
+}

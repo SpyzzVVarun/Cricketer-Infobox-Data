@@ -1,0 +1,37 @@
+{
+    "name": "Jean McNaughton",
+    "country": "South Africa",
+    "fullname": "Jean Fay McNaughton",
+    "birth_place": "Johannesburg, South Africa",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "England",
+    "testcap": "8",
+    "lasttestdate": "13 January",
+    "lasttestyear": "1961",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17379/17379.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "45",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "276",
+        "wickets": "6",
+        "bowl avg": "19.33",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/39",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Southern Transvaal": "1954/55\u20131960/61"
+    },
+    "birth_date": "1936-04-10"
+}

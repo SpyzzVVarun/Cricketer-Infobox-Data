@@ -1,0 +1,28 @@
+{
+    "name": "Dennis Lillie",
+    "country": "Australia",
+    "fullname": "Dennis John Lillie",
+    "death_date": "2022           birth_place = Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/3/3394/3394.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "135",
+        "bat avg": "8.43",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "2,674",
+        "wickets": "33",
+        "bowl avg": "51.06",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/48",
+        "catches/stumpings": "6/-"
+    },
+    "clubs": {
+        "Queensland": "1965/66\u20131981/82"
+    },
+    "birth_date": "1945-10-28"
+}

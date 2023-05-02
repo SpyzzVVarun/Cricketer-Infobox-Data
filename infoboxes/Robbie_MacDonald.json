@@ -1,0 +1,30 @@
+{
+    "name": "Robbie MacDonald",
+    "country": "Australia",
+    "fullname": "Robert MacDonald",
+    "birth_place": "Clunes, Victoria, Australia",
+    "death_date": "1946",
+    "death_place": "Victoria, British Columbia, Canada",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/australia/content/player/6463.html Cricinfo ",
+    "First-class": {
+        "matches": "48",
+        "runs": "2069",
+        "bat avg": "31.83",
+        "100s/50s": "4/8",
+        "top score": "147 not out",
+        "deliveries": "284",
+        "wickets": "3",
+        "bowl avg": "60.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/49",
+        "catches/stumpings": "34/0"
+    },
+    "clubs": {
+        "Queensland": "1893-94 to 1903-04",
+        "Leicestershire": "1899 to 1902"
+    },
+    "birth_date": "1870-2-14"
+}

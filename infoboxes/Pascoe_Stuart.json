@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "Pascoe William Grenfell Stuart",
+    "birth_place": "Woolwich, Kent, England",
+    "death_date": "1954",
+    "death_place": "Cobh, Munster, Ireland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/21094.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "67",
+        "bat avg": "13.40",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "London County": "1904",
+        "Marylebone Cricket Club": "1906"
+    }
+}

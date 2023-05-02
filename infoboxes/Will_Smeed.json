@@ -1,0 +1,41 @@
+{
+    "name": "Will Smeed",
+    "fullname": "William Conrad Francis Smeed",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "type1": "List A",
+    "onetype1": "true",
+    "debutdate1": "14 July",
+    "debutyear1": "2022",
+    "debutfor1": "England Lions",
+    "debutagainst1": "South Africa",
+    "type2": "Twenty20",
+    "debutdate2": "11 September",
+    "debutyear2": "2020",
+    "debutfor2": "Somerset",
+    "debutagainst2": "Worcestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1099224.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "59",
+        "runs": "1,546",
+        "bat avg": "28.62",
+        "100s/50s": "1/8",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Somerset( 23 )": "2020\u2013present",
+        "Birmingham Phoenix": "2021\u2013present",
+        "Quetta Gladiators": "2022\u20132023"
+    },
+    "birth_date": "2001-10-26"
+}

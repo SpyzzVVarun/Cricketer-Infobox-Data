@@ -1,0 +1,21 @@
+{
+    "name": "John Aston",
+    "country": "Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26690/26690.html CricketArchive",
+    "First-class": {
+        "matches": "4",
+        "runs": "73",
+        "bat avg": "10.42",
+        "100s/50s": "0/1",
+        "deliveries": "366",
+        "wickets": "9",
+        "bowl avg": "11.22",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/58",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Godfrey Bryan",
+    "country": "England",
+    "fullname": "Godfrey James Bryan",
+    "birth_place": "Beckenham, Kent",
+    "death_date": "1991",
+    "death_place": "Canterbury, Kent",
+    "family": "Jack Bryan (brother) Ronnie Bryan (brother)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "30 August",
+    "debutyear1": "1920",
+    "debutfor1": "Kent",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "1 June",
+    "lastyear1": "1935",
+    "lastfor1": "Army",
+    "lastagainst1": "Cambridge University",
+    "source": "http://www.espncricinfo.com/ci/content/player/10105.html CricInfo ",
+    "First-class": {
+        "matches": "70",
+        "runs": "3,192",
+        "bat avg": "30.11",
+        "100s/50s": "6/16",
+        "top score": "229",
+        "deliveries": "2,879",
+        "wickets": "35",
+        "bowl avg": "50.08",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/148",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {
+        "Kent": "1920\u20131933",
+        "Army": "1923\u20131951",
+        "Combined Services": "1924"
+    },
+    "birth_date": "1902-12-29"
+}

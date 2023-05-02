@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Turner",
+    "birth_place": "Bloomsbury, London, England",
+    "death_date": "30 July 1858 (aged 41/42)",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22104.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "64",
+        "bat avg": "21.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "?",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1837"
+    }
+}

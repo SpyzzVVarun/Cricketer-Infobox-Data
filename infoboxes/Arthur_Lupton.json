@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Lupton",
+    "country": "England",
+    "fullname": "Arthur William Lupton",
+    "birth_place": "Little Horton, Bradford, Yorkshire, England",
+    "death_date": "1944",
+    "death_place": "Carlton Manor, Guiseley, Yorkshire",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Captain",
+    "source": "http://www.espncricinfo.com/england/content/player/16690.html Cricinfo ",
+    "First-class": {
+        "matches": "109",
+        "runs": "724",
+        "bat avg": "10.34",
+        "100s/50s": "0/0",
+        "top score": "43 not out",
+        "deliveries": "834",
+        "wickets": "14",
+        "bowl avg": "32.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/109",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1908 to 1927"
+    },
+    "birth_date": "1879-2-23"
+}

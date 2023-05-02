@@ -1,0 +1,34 @@
+{
+    "name": "Amir Jangoo",
+    "birth_place": "St. James, Trinidad",
+    "source": "http://www.espncricinfo.com/ci/content/player/820681.html ESPNcricinfo ",
+    "FC": {
+        "matches": "26",
+        "runs": "1,204",
+        "bat avg": "26.75",
+        "100s/50s": "0/8",
+        "top score": "96",
+        "catches/stumpings": "34/1"
+    },
+    "LA": {
+        "matches": "39",
+        "runs": "843",
+        "bat avg": "22.18",
+        "100s/50s": "0/5",
+        "top score": "69",
+        "catches/stumpings": "35/1"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2016\u2013present",
+        "Combined Campuses and Colleges": "2016\u2013present"
+    },
+    "birth_date": "1997-7-14"
+}

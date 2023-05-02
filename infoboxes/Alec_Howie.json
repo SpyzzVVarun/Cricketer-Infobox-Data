@@ -1,0 +1,29 @@
+{
+    "name": "Alec Howie",
+    "country": "England",
+    "fullname": "Alec Douglas Howie",
+    "birth_place": "Saharanpur, United Provinces, British India",
+    "death_date": "1940",
+    "death_place": "Escaut, Belgium",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "https://www.espncricinfo.com/india/content/player/29365.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "49",
+        "bat avg": "24.50",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Army (India)": "1934\u20131935"
+    },
+    "birth_date": "1913-9-3"
+}

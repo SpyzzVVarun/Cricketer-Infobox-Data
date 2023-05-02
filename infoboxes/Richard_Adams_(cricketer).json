@@ -1,0 +1,27 @@
+{
+    "name": "Richard Adams",
+    "fullname": "Richard Leonard Adams",
+    "birth_place": "Bath, Somerset, England",
+    "death_date": "1897",
+    "death_place": "Cockington, Devon, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/8866.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "?",
+        "wickets": "2",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1859"
+    }
+}

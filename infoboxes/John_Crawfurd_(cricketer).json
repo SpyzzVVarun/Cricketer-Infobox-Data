@@ -1,0 +1,27 @@
+{
+    "name": "John Crawfurd",
+    "full_name": "John William Frederick Arthur Crawfurd",
+    "birth_place": "London, England",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Ireland",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26727/26727.html CricketArchive",
+    "First-class": {
+        "matches": "19",
+        "runs": "644",
+        "bat avg": "23.00",
+        "100s/50s": "0/4",
+        "top score": "72",
+        "deliveries": "759",
+        "wickets": "13",
+        "bowl avg": "31.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/30",
+        "catches/stumpings": "15/0"
+    },
+    "clubs": {},
+    "birth_date": "1878-11-15"
+}

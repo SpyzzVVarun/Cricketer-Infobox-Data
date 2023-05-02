@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "David Arthur Stripp",
+    "birth_place": "Crawley Down, Sussex, , England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21091.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "183",
+        "bat avg": "10.76",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "509",
+        "wickets": "6",
+        "bowl avg": "49.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/12",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1956&ndash;1957"
+    },
+    "birth_date": "1935-4-4"
+}

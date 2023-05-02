@@ -1,0 +1,21 @@
+{
+    "name": "James Hodgson",
+    "country": "England",
+    "fullname": "James Hodgson",
+    "birth_place": "Reading, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/14417.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "104",
+        "bat avg": "104.00",
+        "100s/50s": "&ndash;/1",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Berkshire": "1993\u20131998",
+        "Kent Cricket Board": "2000\u20132002"
+    },
+    "birth_date": "1972-3-28"
+}

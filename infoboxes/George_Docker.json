@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Arthur Murray Docker",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "1914",
+    "death_place": "Touquet, Hainaut, Belgium",
+    "family": "Joseph Docker (grandfather), Arthur Docker (father), Ernest Docker (uncle), Cyril Docker (cousin), Keith Docker (cousin), Phillip Docker (cousin)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/12203.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "185",
+        "bat avg": "11.56",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "210",
+        "wickets": "5",
+        "bowl avg": "33.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/66",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1911&ndash;1914"
+    }
+}

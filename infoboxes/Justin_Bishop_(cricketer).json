@@ -1,0 +1,44 @@
+{
+    "country": "England",
+    "fullname": "Justin Edward Bishop",
+    "nickname": "Bish",
+    "birth_place": "Bury St Edmunds, Suffolk, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "family": "Keith Bishop (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/9112.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "433",
+        "bat avg": "15.46",
+        "100s/50s": "\u2013/4",
+        "top score": "66",
+        "deliveries": "3,432",
+        "wickets": "57",
+        "bowl avg": "39.43",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/148",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "23",
+        "runs": "58",
+        "bat avg": "5.80",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "828",
+        "wickets": "26",
+        "bowl avg": "28.61",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/33",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "2000",
+        "British Universities": "2003",
+        "Durham UCCE": "2002\u20132004",
+        "Essex": "1999\u20132005"
+    },
+    "birth_date": "1982-1-4"
+}

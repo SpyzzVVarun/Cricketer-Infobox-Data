@@ -1,0 +1,45 @@
+{
+    "name": "Abdul Wasi",
+    "full_name": "Abdul Wasi Noori",
+    "batting": "Right-hand bat",
+    "bowling": "Legbreak",
+    "country": "Afghanistan",
+    "onetest": "true",
+    "testdebutdate": "2 March",
+    "testdebutyear": "2021",
+    "testdebutagainst": "Zimbabwe",
+    "testcap": "21",
+    "source": "http://www.espncricinfo.com/afghanistan/content/player/974173.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "823",
+        "bat avg": "32.92",
+        "100s/50s": "0/6",
+        "top score": "89",
+        "deliveries": "3,603",
+        "wickets": "80",
+        "bowl avg": "27.61",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/91",
+        "catches/stumpings": "6/\u2013"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "45",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "493",
+        "wickets": "9",
+        "bowl avg": "45.44",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/50",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Amo Region": "2017\u2013present"
+    },
+    "birth_date": "2002-7-6"
+}

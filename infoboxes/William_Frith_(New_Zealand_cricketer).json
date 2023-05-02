@@ -1,0 +1,33 @@
+{
+    "name": "William Frith",
+    "country": "New Zealand",
+    "fullname": "William Frith",
+    "birth_place": "Edmonton, Middlesex, England",
+    "death_date": "1949",
+    "death_place": "Ashburton, Canterbury, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "family": "Charlie Frith (brother)",
+    "source": "https://www.espncricinfo.com/player/william-frith-37077 Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "243",
+        "bat avg": "12.15",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "2,501",
+        "wickets": "79",
+        "bowl avg": "10.18",
+        "fivefor": "6",
+        "tenfor": "3",
+        "best bowling": "8/18",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1882/83\u20131888/89",
+        "Otago": "1881/1882",
+        "Wellington": "1889/90\u20131893/94"
+    },
+    "birth_date": "1856-6-26"
+}

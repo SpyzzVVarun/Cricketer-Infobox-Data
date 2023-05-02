@@ -1,0 +1,24 @@
+{
+    "module": "embed=y",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "6 March",
+    "debutyear1": "1954",
+    "debutagainst1": "Fiji",
+    "lastdate1": "24 January",
+    "lastyear1": "1959",
+    "lastagainst1": "Northern Districts",
+    "source": "https://cricketarchive.com/Archive/Players/21/21432/21432.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "105",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "13/4"
+    },
+    "clubs": {
+        "Auckland": "1953/54\u20131958/59"
+    }
+}

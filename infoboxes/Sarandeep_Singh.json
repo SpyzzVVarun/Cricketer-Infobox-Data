@@ -1,0 +1,37 @@
+{
+    "name": "Sarandeep Singh",
+    "birth_place": "Amritsar, Punjab, India",
+    "country": "India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/34211.html ESPNcricinfo |role=Bowler",
+    "Test": {
+        "matches": "3",
+        "runs": "43",
+        "bat avg": "43.00",
+        "100s/50s": "0/0",
+        "deliveries": "678",
+        "wickets": "10",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/136",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "47",
+        "bat avg": "15.66",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "258",
+        "wickets": "3",
+        "bowl avg": "60.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/34",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1979-10-21"
+}

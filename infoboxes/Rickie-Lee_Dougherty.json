@@ -1,0 +1,46 @@
+{
+    "name": "Rickie-Lee Dougherty",
+    "country": "Ireland",
+    "fullname": "Rickie-Lee Dougherty",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "30 May",
+    "debutyear1": "2017",
+    "debutfor1": "North West",
+    "debutagainst1": "Northern",
+    "type2": "List A",
+    "debutdate2": "1 May",
+    "debutyear2": "2017",
+    "debutfor2": "North West",
+    "debutagainst2": "Leinster",
+    "source": "http://www.espncricinfo.com/ci/content/player/364306.html ESPNcricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "6/0"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "46",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "2/1"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "46",
+        "bat avg": "23.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "11/1"
+    },
+    "clubs": {
+        "North West Warriors": "2013\u2013present"
+    },
+    "birth_date": "1991-3-6"
+}

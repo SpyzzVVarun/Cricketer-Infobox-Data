@@ -1,0 +1,52 @@
+{
+    "name": "John Turner",
+    "fullname": "John Andrew Turner",
+    "birth_place": "Johannesburg, Gauteng, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "13 May",
+    "debutyear1": "2022",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "SLC Development XI",
+    "type2": "List A",
+    "debutdate2": "22 July",
+    "debutyear2": "2021",
+    "debutfor2": "Hampshire",
+    "debutagainst2": "Essex",
+    "source": "http://www.espncricinfo.com/ci/content/player/1261866.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "96",
+        "wickets": "5",
+        "bowl avg": "6.20",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "15",
+        "runs": "34",
+        "bat avg": "11.33",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "612",
+        "wickets": "27",
+        "bowl avg": "19.59",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/25",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hampshire( 6 )": "2021\u20132022"
+    },
+    "birth_date": "2001-4-10"
+}

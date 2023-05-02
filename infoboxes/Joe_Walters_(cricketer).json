@@ -1,0 +1,27 @@
+{
+    "name": "Joe Walters",
+    "fullname": "Joseph Arthur Walters",
+    "birth_place": "Bolsover, Derbyshire, England",
+    "death_date": "2021",
+    "death_place": "Worksop, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://www.espncricinfo.com/player/joseph-walters-22715 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "64",
+        "bat avg": "64.00",
+        "100s/50s": "0/0",
+        "deliveries": "712",
+        "wickets": "10",
+        "bowl avg": "46.40",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/139",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1958\u20131959"
+    },
+    "birth_date": "1940-2-12"
+}

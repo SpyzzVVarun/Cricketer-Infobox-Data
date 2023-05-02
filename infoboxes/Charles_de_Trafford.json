@@ -1,0 +1,32 @@
+{
+    "name": "Charles de Trafford",
+    "country": "England",
+    "fullname": "Charles Edmund de Trafford",
+    "birth_place": "Trafford Park, Stretford, England",
+    "death_date": "1951",
+    "death_place": "Rothley, Leicestershire, England",
+    "batting": "Right-handed",
+    "role": "Batsman, captain",
+    "family": "Sir Humphrey de Trafford (father), Sir Tim O'Brien (brother-in-law)",
+    "source": "http://www.cricinfo.com/ci/content/player/12118.html Cricinfo ",
+    "FC": {
+        "matches": "292",
+        "runs": "9581",
+        "bat avg": "18.67",
+        "100s/50s": "6/36",
+        "top score": "137",
+        "deliveries": "70",
+        "wickets": "2",
+        "bowl avg": "47.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/47",
+        "catches/stumpings": "98/0"
+    },
+    "clubs": {
+        "Lancashire County Cricket Club": "1884",
+        "Marylebone Cricket Club": "1885\u20131911/12",
+        "Leicestershire County Cricket Club": "1894\u20131920"
+    },
+    "birth_date": "1864-5-21"
+}

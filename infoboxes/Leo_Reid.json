@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Leonard John Reid",
+    "birth_place": "Chesterton, Cambridgeshire, England",
+    "death_date": "df=yes",
+    "death_place": "New York City, New York,, United States",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/19633.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1906&ndash;1914",
+        "Marylebone Cricket Club": "1913",
+        "Hertfordshire": "1920&ndash;1931"
+    }
+}

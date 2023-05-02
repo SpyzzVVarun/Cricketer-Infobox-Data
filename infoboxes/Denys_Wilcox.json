@@ -1,0 +1,29 @@
+{
+    "name": "Denys Wilcox",
+    "fullname": "Denys Robert Wilcox",
+    "birth_place": "Westcliff-on-Sea, Essex, England",
+    "death_date": "1953",
+    "death_place": "Westcliff-on-Sea, Essex, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "John Wilcox (son)",
+    "source": "http://www.espncricinfo.com/england/content/player/22426.html Cricinfo ",
+    "FC": {
+        "matches": "179",
+        "runs": "8399",
+        "bat avg": "29.47",
+        "100s/50s": "15/42",
+        "top score": "157",
+        "deliveries": "173",
+        "wickets": "3",
+        "bowl avg": "45.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "130/0"
+    },
+    "clubs": {
+        "Essex": "1928\u20131951"
+    },
+    "birth_date": "1910-6-4"
+}

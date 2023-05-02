@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Cecil Brownlow Twisleton Wykeham Fiennes",
+    "birth_place": "Adlestrop, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Torquay, Devon, England",
+    "family": "Wingfield Fiennes (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13270.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "72",
+        "bat avg": "4.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "316",
+        "wickets": "7",
+        "bowl avg": "21.42",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1856&ndash;1858"
+    }
+}

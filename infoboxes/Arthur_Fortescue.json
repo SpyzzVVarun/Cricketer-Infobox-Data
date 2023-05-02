@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Arthur Trosse Fortescue",
+    "birth_place": "Fallapit, Devon, England",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13144.html Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "480",
+        "bat avg": "15.00",
+        "100s/50s": "\u2013/1",
+        "top score": "68",
+        "deliveries": "686",
+        "wickets": "15",
+        "bowl avg": "19.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/28",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1868&ndash;1871"
+    }
+}

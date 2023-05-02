@@ -1,0 +1,44 @@
+{
+    "name": "Tazmin Brits",
+    "female": "true",
+    "fullname": "Tazmin Brits",
+    "birth_place": "Klerksdorp, North West, South Africa",
+    "batting": "Right-handed",
+    "role": "Batter; occasional wicket-keeper",
+    "country": "South Africa",
+    "internationalspan": "2018\u2013present",
+    "odidebutdate": "26 January",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Pakistan",
+    "odicap": "87",
+    "lastodidate": "24 March",
+    "lastodiyear": "2022",
+    "lastodiagainst": "West Indies",
+    "T20Idebutdate": "19 May",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Bangladesh",
+    "T20Icap": "47",
+    "lastT20Idate": "26 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Australia",
+    "source": "https://www.espncricinfo.com/player/tazmin-brits-600731 ESPNcricinfo ",
+    "WODI": {
+        "matches": "12",
+        "runs": "229",
+        "bat avg": "19.08",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20I": {
+        "matches": "27",
+        "runs": "549",
+        "bat avg": "26.14",
+        "100s/50s": "0/4",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "North West": "2004/05\u2013present"
+    },
+    "birth_date": "1991-1-8"
+}

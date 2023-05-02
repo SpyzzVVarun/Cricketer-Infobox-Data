@@ -1,0 +1,19 @@
+{
+    "name": "Tom Taylor",
+    "fullname": "Tom Launcelot Taylor",
+    "birth_place": "Headingley, Leeds, Yorkshire, England",
+    "death_date": "1960",
+    "death_place": "Leeds, Yorkshire, England",
+    "batting": "Right-handed",
+    "source": "https://www.cricketarchive.co.uk/Archive/Players/33/33228/33228.html CricketArchive",
+    "First-class": {
+        "matches": "130",
+        "runs": "5,968",
+        "bat avg": "32.08",
+        "100s/50s": "13/33",
+        "top score": "156",
+        "catches/stumpings": "86/6"
+    },
+    "clubs": {},
+    "birth_date": "1878-5-25"
+}

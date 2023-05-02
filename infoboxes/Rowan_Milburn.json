@@ -1,0 +1,68 @@
+{
+    "name": "Rowan Milburn",
+    "female": "true",
+    "country": "Netherlands",
+    "country2": "New Zealand",
+    "fullname": "Rowan Claire Milburn",
+    "birth_place": "Mosgiel, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Barry Milburn (father)",
+    "internationalspan": "2000",
+    "internationalspan2": "2007",
+    "odidebutdate": "30 November",
+    "odidebutyear": "2000",
+    "odidebutagainst": "England",
+    "odidebutfor": "Netherlands",
+    "odicap": "54",
+    "odicap2": "105",
+    "lastodidate": "30 August",
+    "lastodiyear": "2007",
+    "lastodiagainst": "England",
+    "lastodifor": "New Zealand",
+    "T20Idebutdate": "10 August",
+    "T20Idebutyear": "2007",
+    "T20Idebutagainst": "South Africa",
+    "T20Idebutfor": "New Zealand",
+    "T20Icap2": "22",
+    "lastT20Idate": "16 August",
+    "lastT20Iyear": "2007",
+    "lastT20Iagainst": "England",
+    "lastT20Ifor": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/12/12282/12282.html CricketArchive",
+    "WODI": {
+        "matches": "15",
+        "runs": "237",
+        "bat avg": "18.23",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "catches/stumpings": "7/5"
+    },
+    "WT20I": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/1"
+    },
+    "WLA": {
+        "matches": "128",
+        "runs": "1,586",
+        "bat avg": "17.05",
+        "100s/50s": "0/3",
+        "top score": "82",
+        "catches/stumpings": "85/42"
+    },
+    "WT20": {
+        "matches": "11",
+        "runs": "41",
+        "bat avg": "20.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/5"
+    },
+    "clubs": {
+        "Otago": "1996/97\u20132001/02",
+        "Canterbury": "2002/03\u20132008/09"
+    },
+    "birth_date": "1977-6-18"
+}

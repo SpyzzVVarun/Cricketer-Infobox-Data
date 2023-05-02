@@ -1,0 +1,49 @@
+{
+    "name": "Andrew Peter Richardson",
+    "birth_place": "Kingston, Jamaica",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/10/10119/10119.html CricketArchive",
+    "FC": {
+        "matches": "68",
+        "runs": "711",
+        "bat avg": "9.73",
+        "100s/50s": "0/0",
+        "deliveries": "8,490",
+        "wickets": "192",
+        "bowl avg": "23.96",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "24/\u2013"
+    },
+    "LA": {
+        "matches": "36",
+        "runs": "98",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "deliveries": "1,430",
+        "wickets": "29",
+        "bowl avg": "41.89",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "deliveries": "36",
+        "wickets": "3",
+        "bowl avg": "12.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1982-9-6"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "James G. Manger",
+    "birth_place": "Headington, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17228.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Oxfordshire": "1977&ndash;1984"
+    },
+    "birth_date": "1958-1-10"
+}

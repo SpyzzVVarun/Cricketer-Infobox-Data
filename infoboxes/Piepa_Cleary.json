@@ -1,0 +1,48 @@
+{
+    "name": "Piepa Cleary",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Piepa May Cleary",
+    "birth_place": "Subiaco, Perth, Western Australia",
+    "heightm": "1.79",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1077/1077476/1077476.html CricketArchive",
+    "WLA": {
+        "matches": "56",
+        "runs": "526",
+        "bat avg": "15.93",
+        "100s/50s": "0/1",
+        "top score": "79",
+        "deliveries": "2,439",
+        "wickets": "52",
+        "bowl avg": "39.32",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/50",
+        "catches/stumpings": "16/\u2013"
+    },
+    "WT20": {
+        "matches": "94",
+        "runs": "184",
+        "bat avg": "9.68",
+        "100s/50s": "0/0",
+        "deliveries": "1,410",
+        "wickets": "62",
+        "bowl avg": "25.41",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2012/13\u2013present",
+        "Perth Scorchers": "2015/16\u2013present",
+        "Lancashire": "2021",
+        "North West Thunder": "2021",
+        "Welsh Fire": "2021",
+        "Lightning": "2022"
+    },
+    "birth_date": "1996-7-17"
+}

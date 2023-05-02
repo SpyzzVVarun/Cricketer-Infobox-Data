@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "William Magee Crozier",
+    "birth_place": "Dundrum, Ireland",
+    "death_date": "1916",
+    "death_place": "Thiepval, Somme, France",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/24344.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "75",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dublin University": "1895"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Natasha Ambo",
+    "female": "true",
+    "country": "Papua New Guinea",
+    "fullname": "Natasha Ambo",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "6 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Vanuatu",
+    "T20Icap": "13",
+    "lastT20Idate": "5 September",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Thailand",
+    "source": "http://www.espncricinfo.com/ci/content/player/1093307.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1997-11-9",
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Women's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Alfred Bailey",
+    "country": "England",
+    "fullname": "Alfred Edward Bailey",
+    "birth_place": "West Norwood, Surrey",
+    "death_date": "1950",
+    "death_place": "Borden, Kent",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "28 June",
+    "debutyear1": "1900",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "12 August",
+    "lastyear1": "1911",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3412/3412.html CricketArchive ",
+    "First-class": {
+        "matches": "43",
+        "runs": "322",
+        "bat avg": "7.48",
+        "100s/50s": "0/0",
+        "deliveries": "7,008",
+        "wickets": "133",
+        "bowl avg": "26.62",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "8/46",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1900\u20131911"
+    },
+    "birth_date": "1871-03-14"
+}

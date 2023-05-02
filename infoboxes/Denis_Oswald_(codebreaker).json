@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Denis Geoffrey Oswald",
+    "birth_place": "Stanley, Falkland Islands",
+    "death_date": "df=yes",
+    "death_place": "Uppingham, Rutland, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/18344.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1931",
+        "Hertfordshire": "1931&ndash;1932"
+    }
+}

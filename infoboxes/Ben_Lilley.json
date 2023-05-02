@@ -1,0 +1,26 @@
+{
+    "name": "Ben Lilley",
+    "country": "England",
+    "birth_place": "Kimberley, Nottinghamshire, England",
+    "death_date": "1950",
+    "death_place": "Forest Fields, Nottingham, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/england/content/player/16579.html Cricinfo ",
+    "First-class": {
+        "matches": "373",
+        "runs": "10,496",
+        "bat avg": "24.18",
+        "100s/50s": "7/43",
+        "top score": "124",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "657/132"
+    },
+    "clubs": {},
+    "birth_date": "1894-2-11"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Joe Sukhdev Edwin Ellis-Grewal",
+    "birth_place": "Walthamstow, Essex, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/740187.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "44",
+        "bat avg": "22.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "42",
+        "deliveries": "338",
+        "wickets": "6",
+        "bowl avg": "33.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/118",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "2014",
+        "Leeds/Bradford MCCU": "2015"
+    },
+    "birth_date": "1992-2-18"
+}

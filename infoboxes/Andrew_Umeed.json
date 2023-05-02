@@ -1,0 +1,46 @@
+{
+    "name": "Andrew Umeed",
+    "country": "Scotland",
+    "fullname": "Andrew Robert Isaac Umeed",
+    "birth_place": "Glasgow, Scotland",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batsman",
+    "internationalspan": "2015",
+    "source": "https://cricketarchive.com/Archive/Players/130/130378/130378.html CricketArchive ",
+    "FC": {
+        "matches": "16",
+        "runs": "504",
+        "bat avg": "19.38",
+        "100s/50s": "2/0",
+        "top score": "113",
+        "deliveries": "84",
+        "wickets": "2",
+        "bowl avg": "36.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/19",
+        "catches/stumpings": "13/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "132",
+        "bat avg": "22.00",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Warwickshire( 23 )": "2016\u20132018",
+        "Somerset( 1 )": "2022"
+    },
+    "birth_date": "1996-4-19"
+}

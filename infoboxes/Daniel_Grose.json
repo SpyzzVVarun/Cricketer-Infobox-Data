@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Daniel Charles Evans Grose",
+    "birth_place": "South Stoneham, Hampshire,, England",
+    "death_date": "df=y",
+    "death_place": "Tonbridge, Kent, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/13805.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "113",
+        "bat avg": "14.12",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1923"
+    }
+}

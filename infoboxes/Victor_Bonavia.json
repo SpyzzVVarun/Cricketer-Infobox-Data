@@ -1,0 +1,27 @@
+{
+    "country": "Malta",
+    "fullname": "Victor Joseph Bonavia",
+    "birth_place": "British Malta",
+    "death_date": "1948",
+    "death_place": "Hamburg, British Occupied Germany",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/27054.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "104",
+        "bat avg": "20.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1925/26&ndash;1928/29"
+    }
+}

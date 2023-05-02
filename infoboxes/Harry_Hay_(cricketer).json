@@ -1,0 +1,29 @@
+{
+    "name": "Harry Hay",
+    "country": "Australia",
+    "fullname": "Henry Hay",
+    "birth_place": "Adelaide, South Australia",
+    "death_date": "df=yes",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/5815.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "54",
+        "bat avg": "10.80",
+        "100s/50s": "0/0",
+        "top score": "18 not out",
+        "deliveries": "794",
+        "wickets": "16",
+        "bowl avg": "27.31",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "9/67",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "South Australia": "1902\u201303 to 1903\u201304"
+    },
+    "birth_date": "1874-3-30"
+}

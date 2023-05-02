@@ -1,0 +1,41 @@
+{
+    "name": "Jaswick Taylor",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "West Indies",
+    "testdebutagainst": "Pakistan",
+    "testdebutdate": "26 March",
+    "testdebutyear": "1958",
+    "lasttestdate": "20 February",
+    "lasttestyear": "1959",
+    "lasttestagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/westindies/content/player/53152.html CricInfo",
+    "Test": {
+        "matches": "3",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "deliveries": "672",
+        "wickets": "10",
+        "bowl avg": "27.30",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/109",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "18",
+        "runs": "62",
+        "bat avg": "5.63",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "2,879",
+        "wickets": "50",
+        "bowl avg": "26.21",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/36",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {}
+}

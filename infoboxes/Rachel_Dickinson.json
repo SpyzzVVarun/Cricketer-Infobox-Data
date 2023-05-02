@@ -1,0 +1,42 @@
+{
+    "name": "Rachel Dickinson",
+    "female": "true",
+    "fullname": "Rachel Angela Dickinson",
+    "birth_place": "Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/991/991010/991010.html CricketArchive",
+    "WLA": {
+        "matches": "19",
+        "runs": "36",
+        "bat avg": "9.83",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "282",
+        "wickets": "9",
+        "bowl avg": "22.77",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/22",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20": {
+        "matches": "27",
+        "runs": "65",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "deliveries": "230",
+        "wickets": "13",
+        "bowl avg": "17.46",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/6",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2012\u20132018",
+        "Lancashire Thunder": "2017\u20132018"
+    },
+    "birth_date": "1998-5-6"
+}

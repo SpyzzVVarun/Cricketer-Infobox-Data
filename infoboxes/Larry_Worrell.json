@@ -1,0 +1,42 @@
+{
+    "name": "Larry Worrell",
+    "fullname": "Lawrence Roosevelt Worrell",
+    "birth_place": "Saint Thomas, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "country": "England",
+    "source": "http://www.cricinfo.com/ci/content/player/22523.html Cricinfo",
+    "FC": {
+        "matches": "32",
+        "runs": "289",
+        "bat avg": "11.56",
+        "100s/50s": "&ndash;/1",
+        "top score": "50",
+        "deliveries": "4965",
+        "wickets": "65",
+        "bowl avg": "32.55",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/67",
+        "catches/stumpings": "21/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1969 and 1971&ndash;1972",
+        "Dorset": "1969"
+    },
+    "birth_date": "1943-8-28"
+}

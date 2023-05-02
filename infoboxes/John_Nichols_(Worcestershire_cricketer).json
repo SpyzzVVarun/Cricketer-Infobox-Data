@@ -1,0 +1,37 @@
+{
+    "name": "John Nichols",
+    "full_name": "John Ernest Nichols",
+    "birth_place": "Acle, Norfolk",
+    "death_date": "df=yes",
+    "death_place": "Thorpe Hamlet, Norwich, Norfolk",
+    "type1": "FC",
+    "debutdate1": "21 July",
+    "debutyear1": "1902",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Sussex",
+    "lastdate1": "29 July",
+    "lastyear1": "1912",
+    "lastfor1": "Minor Counties",
+    "lastagainst1": "South Africans",
+    "source": "https://www.espncricinfo.com/player/john-nichols-18134 Cricinfo",
+    "First-class": {
+        "matches": "6",
+        "runs": "45",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1921\u20131931",
+        "Worcestershire": "1902\u20131904",
+        "Staffordshire": "1907\u20131914"
+    },
+    "birth_date": "1878-04-20"
+}

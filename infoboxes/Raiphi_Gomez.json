@@ -1,0 +1,58 @@
+{
+    "name": "Raiphi Gomez",
+    "country": "India",
+    "fullname": "Raiphi Vincent Gomez",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Allrounder",
+    "source": "http://www.espncricinfo.com/india/content/player/28846.html Cricinfo ",
+    "FC": {
+        "matches": "41",
+        "runs": "1,258",
+        "bat avg": "21.68",
+        "100s/50s": "2/5",
+        "top score": "108",
+        "deliveries": "2,853",
+        "wickets": "40",
+        "bowl avg": "31.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/58",
+        "catches/stumpings": "21/\u2013"
+    },
+    "LA": {
+        "matches": "51",
+        "runs": "1,261",
+        "bat avg": "30.02",
+        "100s/50s": "1/9",
+        "top score": "105",
+        "deliveries": "1,179",
+        "wickets": "19",
+        "bowl avg": "51.73",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/51",
+        "catches/stumpings": "9/\u2013"
+    },
+    "T20": {
+        "matches": "62",
+        "runs": "774",
+        "bat avg": "21.50",
+        "100s/50s": "0/2",
+        "deliveries": "588",
+        "wickets": "20",
+        "bowl avg": "38.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/8",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Kerala": "2005\u20132017",
+        "Rajasthan Royals": "2009\u20132010",
+        "Kochi Tuskers Kerala": "2011",
+        "Pune Warriors India": "2012\u20132013",
+        "Puducherry": "2018\u20132019"
+    },
+    "birth_date": "1985-10-16"
+}

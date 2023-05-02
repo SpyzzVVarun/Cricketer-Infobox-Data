@@ -1,0 +1,33 @@
+{
+    "name": "Jo Day",
+    "fullname": "Joanna Christine Day",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "Ireland",
+    "internationalspan": "2004\u20132006",
+    "odidebutdate": "22 July",
+    "odidebutyear": "2004",
+    "odidebutagainst": "New Zealand",
+    "odicap": "50",
+    "lastodidate": "23 August",
+    "lastodiyear": "2006",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Archive/Players/66/66692/66692.html CricketArchive ",
+    "WODI": {
+        "matches": "6",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/1"
+    },
+    "WLA": {
+        "matches": "9",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/1"
+    },
+    "clubs": {},
+    "birth_date": "1975-9-4"
+}

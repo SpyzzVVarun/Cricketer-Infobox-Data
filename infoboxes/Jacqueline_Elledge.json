@@ -1,0 +1,49 @@
+{
+    "name": "Jacqueline Elledge",
+    "female": "true",
+    "country": "England",
+    "fullname": "Jacqueline Lucienne Marie-Louise Marguerite Elledge",
+    "birth_place": "Wolverhampton, Staffordshire, England",
+    "role": "Batter",
+    "internationalspan": "1963",
+    "testdebutdate": "15 June",
+    "testdebutyear": "1963",
+    "testdebutagainst": "Australia",
+    "testcap": "62",
+    "lasttestdate": "20 July",
+    "lasttestyear": "1963",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17007/17007.html CricketArchive ",
+    "WTests": {
+        "matches": "3",
+        "runs": "147",
+        "bat avg": "29.40",
+        "100s/50s": "0/2",
+        "top score": "59",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "7",
+        "runs": "287",
+        "bat avg": "23.91",
+        "100s/50s": "0/3",
+        "top score": "59",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Kent": "1957\u20131964"
+    },
+    "birth_date": "1937-01-08"
+}

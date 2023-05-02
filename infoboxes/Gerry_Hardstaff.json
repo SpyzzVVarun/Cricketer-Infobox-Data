@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Gerald Charles Hardstaff",
+    "birth_place": "Crewe, Cheshire, England",
+    "death_date": "2015",
+    "death_place": "Winsford, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15114.html Cricinfo ",
+    "List A": {
+        "matches": "6",
+        "runs": "64",
+        "bat avg": "10.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "45",
+        "deliveries": "304",
+        "wickets": "9",
+        "bowl avg": "19.44",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/31",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties North": "1972",
+        "Cheshire": "1960&ndash;1978"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Barry Cooper",
+    "country": "New Zealand",
+    "fullname": "Barry George Cooper",
+    "birth_place": "Whangarei, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "family": "Henry Cooper (son)",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/36612.html Cricinfo ",
+    "First-class": {
+        "matches": "62",
+        "runs": "2,982",
+        "bat avg": "28.13",
+        "100s/50s": "4/18",
+        "deliveries": "1,705",
+        "wickets": "26",
+        "bowl avg": "30.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/40",
+        "catches/stumpings": "38/\u2013"
+    },
+    "List A": {
+        "matches": "80",
+        "runs": "2,009",
+        "bat avg": "27.52",
+        "100s/50s": "1/9",
+        "top score": "102",
+        "deliveries": "1,650",
+        "wickets": "34",
+        "bowl avg": "30.23",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "1981/82\u20131995/96"
+    },
+    "birth_date": "1958-11-30"
+}

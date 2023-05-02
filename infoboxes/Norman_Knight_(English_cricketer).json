@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Norman Spencer Knight",
+    "birth_place": "Eltham, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Berea, KwaZulu-Natal,, South Africa",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/16085.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "189",
+        "bat avg": "13.50",
+        "100s/50s": "\u2013/1",
+        "top score": "87",
+        "catches/stumpings": "18/5"
+    },
+    "clubs": {
+        "Oxford University": "1933&ndash;1935"
+    }
+}

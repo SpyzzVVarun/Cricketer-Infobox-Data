@@ -1,0 +1,23 @@
+{
+    "name": "Percy Baker",
+    "country": "England",
+    "fullname": "Percy Charles Baker",
+    "birth_place": "Bromley, Kent",
+    "death_date": "df=yes",
+    "death_place": "Northwood, London",
+    "batting": "Right-handed",
+    "family": "Herbert Baker (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/9486.html CricInfo ",
+    "First-class": {
+        "matches": "41",
+        "runs": "1,600",
+        "bat avg": "24.61",
+        "100s/50s": "2/10",
+        "top score": "130",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Kent": "1900\u20131902"
+    },
+    "birth_date": "1874-5-2"
+}

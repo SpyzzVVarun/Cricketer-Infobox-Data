@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Paul Michael Marsh",
+    "birth_place": "Bradford-on-Avon, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/17216.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "63.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/35",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wiltshire": "1992&ndash;2002"
+    },
+    "birth_date": "1966-12-20"
+}

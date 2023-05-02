@@ -1,0 +1,33 @@
+{
+    "name": "Corey Kelly",
+    "birth_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "family": "Thomas Kelly (twin brother)",
+    "type1": "List A",
+    "onetype1": "true",
+    "debutdate1": "2 March",
+    "debutyear1": "2021",
+    "debutfor1": "SA",
+    "debutagainst1": "WA",
+    "source": "https://www.espncricinfo.com/australia/content/player/1193526.html ESPNCricinfo",
+    "LA": {
+        "matches": "6",
+        "runs": "81",
+        "bat avg": "13.50",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "204",
+        "wickets": "2",
+        "bowl avg": "107.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/63",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "South Australia( 42 )": "2020/21&ndash;2021/22"
+    },
+    "birth_date": "2000-12-14"
+}

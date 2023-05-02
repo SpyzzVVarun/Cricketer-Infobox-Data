@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "William Russell Hennessy Dippie",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1997",
+    "death_place": "Dudley, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/william-dippie-25187 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "200",
+        "wickets": "3",
+        "bowl avg": "23.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/41",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1939"
+    }
+}

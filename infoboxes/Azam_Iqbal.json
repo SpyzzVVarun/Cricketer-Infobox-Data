@@ -1,0 +1,39 @@
+{
+    "country": "Bangladesh",
+    "fullname": "Azam Iqbal",
+    "birth_place": "Chittagong, Chittagong Division, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Occasional wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/17/17578/17578.html CricketArchive ",
+    "FC": {
+        "matches": "35",
+        "runs": "1,275",
+        "bat avg": "29.65",
+        "100s/50s": "1/10",
+        "deliveries": "174",
+        "wickets": "1",
+        "bowl avg": "80.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/1",
+        "catches/stumpings": "24/&ndash;"
+    },
+    "LA": {
+        "matches": "39",
+        "runs": "843",
+        "bat avg": "24.79",
+        "100s/50s": "1/4",
+        "deliveries": "96",
+        "wickets": "4",
+        "bowl avg": "20.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/38",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "clubs": {
+        "Chittagong Division": "2000/01&ndash;2004/05"
+    },
+    "birth_date": "1973-2-2"
+}

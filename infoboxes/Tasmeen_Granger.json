@@ -1,0 +1,41 @@
+{
+    "name": "Tasmeen Granger",
+    "country": "Zimbabwe",
+    "female": "true",
+    "fullname": "Tasmeen Granger",
+    "birth_place": "Bulawayo, Matabeleland",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "role": "All-rounder",
+    "odidebutdate": "9 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "12",
+    "lastodidate": "15 November",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Bangladesh",
+    "T20Idebutdate": "6 April",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Kenya",
+    "T20Icap": "15",
+    "lastT20Idate": "19 September",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Namibia",
+    "source": "http://www.espncricinfo.com/India/content/player/638251.html Cricinfo  ",
+    "WT20I": {
+        "matches": "14",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "deliveries": "210",
+        "wickets": "21",
+        "bowl avg": "4.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/11",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Tuskers": "2020/21\u2013present"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "William Dudney",
+    "country": "England",
+    "fullname": "William Hudson Dudney",
+    "birth_place": "Portslade, Sussex, England",
+    "death_date": "16 June 1922 (age 62)",
+    "death_place": "Aldrington, Sussex, England",
+    "batting": "Right-handed",
+    "role": "Batsman, wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/11887.html Cricinfo ",
+    "First-class": {
+        "matches": "36",
+        "runs": "912",
+        "bat avg": "14.47",
+        "100s/50s": "0/2",
+        "top score": "97",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "38/6"
+    },
+    "clubs": {
+        "Canterbury": "1883-84",
+        "Sussex": "1887 to 1893"
+    }
+}

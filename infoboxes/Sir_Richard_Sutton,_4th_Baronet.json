@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Richard Sutton",
+    "birth_place": "Sudbrooke, Lincolnshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ryde, Isle of Wight, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21387.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "25",
+        "bat avg": "3.12",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1850&ndash;1851"
+    }
+}

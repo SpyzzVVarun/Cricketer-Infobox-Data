@@ -1,0 +1,59 @@
+{
+    "name": "Delano Potgieter",
+    "country": "South Africa",
+    "fullname": "Delano Potgieter",
+    "birth_place": "Port Elizabeth, Eastern Cape, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "All-rounder",
+    "source": "https://www.espncricinfo.com/player/delano-potgieter-596442 ESPNcricinfo ",
+    "FC": {
+        "matches": "30",
+        "runs": "1,445",
+        "bat avg": "36.12",
+        "100s/50s": "3/4",
+        "top score": "145",
+        "deliveries": "4,139",
+        "wickets": "95",
+        "bowl avg": "21.92",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/33",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "53",
+        "runs": "1,117",
+        "bat avg": "32.85",
+        "100s/50s": "0/8",
+        "deliveries": "1,753",
+        "wickets": "44",
+        "bowl avg": "30.27",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "35",
+        "runs": "695",
+        "bat avg": "27.80",
+        "100s/50s": "0/3",
+        "top score": "71",
+        "deliveries": "318",
+        "wickets": "24",
+        "bowl avg": "16.70",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/22",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Gauteng": "2015/16\u20132019/20",
+        "Lions": "2018/19\u20132020/21",
+        "Jozi Stars": "2019",
+        "North West": "2021/22\u2013present",
+        "MI Cape Town": "2023"
+    },
+    "birth_date": "1996-8-5"
+}

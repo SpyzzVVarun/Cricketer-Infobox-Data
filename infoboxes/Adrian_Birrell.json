@@ -1,0 +1,43 @@
+{
+    "name": "Adrian Birrell",
+    "country": "South Africa",
+    "fullname": "Adrian Victor Birrell",
+    "birth_place": "Grahamstown, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "family": "Harry Birrell (father)",
+    "source": "http://www.cricinfo.com/ci/content/player/44280.html Cricinfo ",
+    "FC": {
+        "matches": "45",
+        "runs": "1,460",
+        "bat avg": "21.15",
+        "100s/50s": "1/8",
+        "top score": "105",
+        "deliveries": "4,127",
+        "wickets": "75",
+        "bowl avg": "30.16",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "8/134",
+        "catches/stumpings": "35/&ndash;"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "69",
+        "bat avg": "17.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "66",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Country Districts": "1990",
+        "Eastern Province": "1985&ndash;1997",
+        "Eastern Province B": "1984&ndash;1997"
+    },
+    "birth_date": "1960-12-8"
+}

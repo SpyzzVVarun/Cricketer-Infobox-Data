@@ -1,0 +1,38 @@
+{
+    "country": "Argentina",
+    "fullname": "Ricardo Mart\u00edn Siri",
+    "birth_place": "Buenos Aires, Argentina",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "T20Idebutdate": "4 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Peru",
+    "T20Icap": "12",
+    "lastT20Idate": "14 November",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Bermuda",
+    "source": "https://www.espncricinfo.com/ci/content/player/23603.html Cricinfo ",
+    "T20I": {
+        "matches": "10",
+        "runs": "206",
+        "bat avg": "25.75",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "111",
+        "bat avg": "22.20",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "206",
+        "bat avg": "25.75",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1979-4-20"
+}

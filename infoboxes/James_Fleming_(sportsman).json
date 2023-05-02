@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "James Millar Fleming",
+    "birth_place": "Philpstoun, West Lothian, Scotland",
+    "death_date": "1962",
+    "death_place": "Murrayfield, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/jimmy-fleming-25207 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "51",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {
+        "Scotland": "1926"
+    }
+}

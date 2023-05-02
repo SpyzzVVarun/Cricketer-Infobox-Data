@@ -1,0 +1,39 @@
+{
+    "name": "Charles Deane",
+    "country": "England",
+    "fullname": "Charles Gerrard Deane",
+    "birth_place": "Oakhill, Somerset, England",
+    "death_date": "1914",
+    "death_place": "Multan, Pakistan (then India)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "27 May",
+    "debutyear1": "1907",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Sussex",
+    "lastdate1": "1 July",
+    "lastyear1": "1913",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3517/3517.html CricketArchive ",
+    "First-class": {
+        "matches": "36",
+        "runs": "753",
+        "bat avg": "11.95",
+        "100s/50s": "\u2013/2",
+        "top score": "78",
+        "deliveries": "284",
+        "wickets": "8",
+        "bowl avg": "25.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/36",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1907\u201313"
+    },
+    "birth_date": "1885-3-8"
+}

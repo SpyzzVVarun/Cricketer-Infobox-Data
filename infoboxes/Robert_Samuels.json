@@ -1,0 +1,38 @@
+{
+    "name": "Robert Samuels",
+    "fullname": "Robert George Samuels",
+    "birth_place": "Kingston, Jamaica",
+    "country": "West Indies",
+    "batting": "Left-handed",
+    "family": "Marlon Samuels (brother)",
+    "source": "testcap=211|testdebutyear=1996|testdebutfor=West Indies|lasttestdate=1 February|lasttestyear=1997|lasttestagainst=Australia|lasttestfor=West Indies|testdebutagainst=New Zealand|international=True|odidebutdate=6 December|odidebutyear=1996|odidebutagainst=Australia|lastodidate=18 January|lastodiyear=1997|odidebutfor=West Indies|lastodifor=West Indies|lastodiagainst=Pakistan|odicap=79|internationalspan=1996-1997|role=Opening batsman",
+    "Tests": {
+        "matches": "6",
+        "runs": "372",
+        "bat avg": "37.20",
+        "100s/50s": "1/1",
+        "top score": "125",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/-"
+    },
+    "ODIs": {
+        "matches": "8",
+        "runs": "54",
+        "bat avg": "18.00",
+        "100s/50s": "-/-",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {},
+    "birth_date": "1971-3-13"
+}

@@ -1,0 +1,42 @@
+{
+    "country": "Kenya",
+    "fullname": "Ashok Sitaram Patel",
+    "birth_place": "Nairobi, Kenya",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/31/31911/31911.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "93",
+        "bat avg": "23.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "30",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "48.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/55",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "List A": {
+        "matches": "17",
+        "runs": "334",
+        "bat avg": "27.83",
+        "100s/50s": "&ndash;/1",
+        "top score": "59",
+        "deliveries": "270",
+        "wickets": "6",
+        "bowl avg": "35.16",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/26",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1986",
+        "Durham": "1981&ndash;1991",
+        "Middlesex": "1977&ndash;1978"
+    },
+    "birth_date": "1956-9-23"
+}

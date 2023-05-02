@@ -1,0 +1,42 @@
+{
+    "name": "Bob Newson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1930",
+    "lasttestdate": "3 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1939",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46577.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "30",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "874",
+        "wickets": "4",
+        "bowl avg": "66.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/58",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "24",
+        "runs": "553",
+        "bat avg": "17.83",
+        "100s/50s": "1/2",
+        "top score": "114",
+        "deliveries": "4,142",
+        "wickets": "60",
+        "bowl avg": "26.03",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/54",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Lynes",
+    "birth_place": "Coleshill, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16696.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "79",
+        "bat avg": "9.87",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "26",
+        "deliveries": "933",
+        "wickets": "15",
+        "bowl avg": "38.40",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/54",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1897&ndash;1905"
+    },
+    "birth_date": "1872-6-6"
+}

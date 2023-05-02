@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "William Henry Garforth",
+    "birth_place": "Otterington, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Malton, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13561.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

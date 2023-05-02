@@ -1,0 +1,28 @@
+{
+    "name": "Imran Khan",
+    "country": "Pakistan",
+    "birth_place": "Quetta, Balochistan,, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/40750.html ESPNCricinfo  ",
+    "FC": {
+        "matches": "5",
+        "runs": "255",
+        "bat avg": "31.87",
+        "100s/50s": "0/1",
+        "top score": "66",
+        "catches/stumpings": "6/3"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "0/1"
+    },
+    "clubs": {
+        "Quetta": "1984\u20131987"
+    },
+    "birth_date": "1963-7-27"
+}

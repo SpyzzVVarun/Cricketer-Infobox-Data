@@ -1,0 +1,19 @@
+{
+    "name": "Shammu Ashan",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right handed",
+    "bowling": "Right arm offbreak Right arm offbreak bowler",
+    "role": "Top-order batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/786645.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1998-1-9",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

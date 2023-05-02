@@ -1,0 +1,42 @@
+{
+    "name": "Sheeno Berridge",
+    "country": "St Kitts & Nevis",
+    "fullname": "Sheeno Berridge",
+    "birth_place": "St Kitts",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/775411.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "22",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "3,472",
+        "wickets": "81",
+        "bowl avg": "24.49",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/22",
+        "catches/stumpings": "11/\u2013"
+    },
+    "List A": {
+        "matches": "25",
+        "runs": "22",
+        "bat avg": "4.40",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "1,050",
+        "wickets": "36",
+        "bowl avg": "26.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Leeward Islands": "2017\u2013present"
+    },
+    "birth_date": "1990-9-27"
+}

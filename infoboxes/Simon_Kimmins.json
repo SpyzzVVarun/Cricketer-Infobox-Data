@@ -1,0 +1,37 @@
+{
+    "name": "Simon Kimmins",
+    "country": "England",
+    "fullname": "Simon Edward Anthony Kimmins",
+    "birth_place": "Westminster, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Anthony Kimmins (father) CW Kimmins (grandfather) Grace Kimmins (grandmother)",
+    "type1": "FC",
+    "debutdate1": "7 June",
+    "debutyear1": "1950",
+    "debutfor1": "Combined Services",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "8 July",
+    "lastyear1": "1959",
+    "lastfor1": "MCC",
+    "lastagainst1": "Cambridge University",
+    "source": "http://www.espncricinfo.com/ci/content/player/16023.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "563",
+        "bat avg": "21.65",
+        "100s/50s": "0/3",
+        "top score": "81",
+        "deliveries": "1,981",
+        "wickets": "24",
+        "bowl avg": "41.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/42",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Kent": "1950\u20131953"
+    },
+    "birth_date": "1930-5-26"
+}

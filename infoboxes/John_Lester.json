@@ -1,0 +1,28 @@
+{
+    "name": "John Lester",
+    "fullname": "John Ashby Lester",
+    "birth_place": "Penrith, Cumberland, England",
+    "death_date": "1969",
+    "death_place": "Haverford, Philadelphia, Pennsylvania",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/usa/content/player/25762.html CricInfo",
+    "First-class": {
+        "matches": "47",
+        "runs": "2,552",
+        "bat avg": "33.14",
+        "100s/50s": "2/18",
+        "deliveries": "2,314",
+        "wickets": "57",
+        "bowl avg": "22.22",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/31",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Merion": "1894\u20131906",
+        "Gentlemen of Philadelphia": "1896\u20131908"
+    },
+    "birth_date": "1871-08-01"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Taniya Bhatia",
+    "female": "true",
+    "country": "India",
+    "fullname": "Taniya Bhatia",
+    "birth_place": "Chandigarh, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "16 June",
+    "testdebutyear": "2021",
+    "testdebutagainst": "England",
+    "testcap": "84",
+    "lasttestdate": "30 September",
+    "lasttestyear": "2021",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "11 September",
+    "odidebutyear": "2018",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "124",
+    "lastodidate": "18 February",
+    "lastodiyear": "2022",
+    "lastodiagainst": "New Zealand",
+    "T20Idebutdate": "13 February",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "55",
+    "lastT20Idate": "7 August",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/883423.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WTest": {
+        "matches": "2",
+        "runs": "66",
+        "bat avg": "33.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/0"
+    },
+    "WODI": {
+        "matches": "19",
+        "runs": "138",
+        "bat avg": "15.33",
+        "100s/50s": "0/1",
+        "top score": "68",
+        "catches/stumpings": "18/9"
+    },
+    "WT20I": {
+        "matches": "53",
+        "runs": "172",
+        "bat avg": "9.05",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "23/45"
+    },
+    "clubs": {
+        "Punjab": "2011/12\u2013present",
+        "Supernovas": "2018\u20132022",
+        "Delhi Capitals": "2023\u2013present"
+    },
+    "birth_date": "1997-11-28",
+    "medaltemplates": [
+        "Country: {{IND}}",
+        "Sport: Women's Cricket",
+        "Competition: Commonwealth Games",
+        "Silver Medal: 2022 Birmingham Team"
+    ]
+}

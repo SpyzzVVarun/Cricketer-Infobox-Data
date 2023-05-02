@@ -1,0 +1,31 @@
+{
+    "name": "Patricia Thomson",
+    "female": "true",
+    "nickname": "Pat url=https://cricketarchive.com/Players/11/11060/11060.html",
+    "country": "Australia",
+    "fullname": "Patricia Ann Thomson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm Off-spin",
+    "testdebutdate": "17 March",
+    "testdebutyear": "1961",
+    "testdebutagainst": "New Zealand",
+    "testcap": "55",
+    "lasttestdate": "20 July",
+    "lasttestyear": "1963",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53574.html CricInfo ",
+    "Test cricket": {
+        "matches": "4",
+        "runs": "107",
+        "bat avg": "26.75",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "420",
+        "wickets": "2",
+        "bowl avg": "73.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

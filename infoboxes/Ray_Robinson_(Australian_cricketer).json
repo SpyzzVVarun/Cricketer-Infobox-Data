@@ -1,0 +1,40 @@
+{
+    "name": "Ray Robinson",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "4 December",
+    "testdebutyear": "1936",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7377.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "46",
+        "runs": "2,441",
+        "bat avg": "31.70",
+        "100s/50s": "4/13",
+        "top score": "163",
+        "deliveries": "3,500",
+        "wickets": "44",
+        "bowl avg": "37.59",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/45",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Ted Pickett",
+    "country": "Australia",
+    "fullname": "Edward Arthur Pickett",
+    "birth_place": "Ulverstone, Tasmania, Australia",
+    "death_date": "2009",
+    "death_place": "Launceston, Tasmania, Australia",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "19 February",
+    "debutyear1": "1929",
+    "debutfor1": "Tasmania",
+    "debutagainst1": "Victoria",
+    "lastdate1": "2 January",
+    "lastyear1": "1936",
+    "lastfor1": "Tasmania",
+    "lastagainst1": "Victoria",
+    "source": "https://cricketarchive.com/Archive/Players/2/2672/2672.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "86",
+        "bat avg": "7.16",
+        "100s/50s": "0/0",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "7/5"
+    },
+    "clubs": {
+        "Tasmania": ""
+    },
+    "birth_date": "1909-4-2"
+}

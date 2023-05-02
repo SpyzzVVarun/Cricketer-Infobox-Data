@@ -1,0 +1,30 @@
+{
+    "name": "Barry Fisher",
+    "country": "Australia",
+    "fullname": "Barry Fisher",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "death_date": "1980",
+    "death_place": "Inverell, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowling all-rounder",
+    "source": "http://content-www.cricinfo.com/baggygreen/content/player/5295.html cricinfo.com ",
+    "First-class": {
+        "matches": "56",
+        "runs": "1,369",
+        "bat avg": "21.06",
+        "100s/50s": "1/5",
+        "top score": "103",
+        "deliveries": "9,515",
+        "wickets": "126",
+        "bowl avg": "32.15",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/41",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1954/55\u20131967/68"
+    },
+    "birth_date": "1934-01-20"
+}

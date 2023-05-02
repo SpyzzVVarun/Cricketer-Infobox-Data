@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "George Harris Hodgson",
+    "birth_place": "Thanet, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Hythe, Kent, England",
+    "batting": "Unknown",
+    "bowling": "Unknown arm roundarm Unknown arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/15258.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "74",
+        "bat avg": "18.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "68",
+        "wickets": "2",
+        "bowl avg": "11.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,20 @@
+{
+    "country": "South Africa",
+    "fullname": "Peter Gregory Morgan",
+    "birth_place": "Johannesburg, Transvaal,, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/17211.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "444",
+        "bat avg": "26.11",
+        "100s/50s": "\u2013/2",
+        "top score": "63",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1997"
+    },
+    "birth_date": "1972-9-29"
+}

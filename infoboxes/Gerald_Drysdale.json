@@ -1,0 +1,25 @@
+{
+    "country": "Argentina",
+    "fullname": "Gerald Carr Drysdale",
+    "birth_place": "Buenos Aires, Argentina",
+    "death_date": "1969",
+    "death_place": "Argentina",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/23623.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "66",
+        "bat avg": "16.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

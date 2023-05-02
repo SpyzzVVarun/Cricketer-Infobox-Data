@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Hubert Bassett",
+    "birth_place": "Stanton St John, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9590.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "292",
+        "bat avg": "8.84",
+        "100s/50s": "\u2013/1",
+        "deliveries": "4,589",
+        "wickets": "78",
+        "bowl avg": "22.07",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "6/50",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1888&ndash;1891",
+        "Oxfordshire": "1895&ndash;1906",
+        "Suffolk": "1908&ndash;1914"
+    }
+}

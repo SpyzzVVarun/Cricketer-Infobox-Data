@@ -1,0 +1,55 @@
+{
+    "name": "Tonito Willett",
+    "fullname": "Tonito Akanni Willett",
+    "birth_place": "Nevis",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All rounder",
+    "source": "http://www.espncricinfo.com/westindies/content/player/53276.html CricInfo  ",
+    "FC": {
+        "matches": "76",
+        "runs": "3,132",
+        "bat avg": "25.05",
+        "100s/50s": "0/20",
+        "top score": "93",
+        "deliveries": "5,528",
+        "wickets": "86",
+        "bowl avg": "33.66",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/31",
+        "catches/stumpings": "30/\u2013"
+    },
+    "LA": {
+        "matches": "39",
+        "runs": "612",
+        "bat avg": "19.74",
+        "100s/50s": "0/4",
+        "deliveries": "1,117",
+        "wickets": "28",
+        "bowl avg": "32.28",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/19",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "22",
+        "runs": "383",
+        "bat avg": "22.52",
+        "100s/50s": "0/2",
+        "deliveries": "198",
+        "wickets": "8",
+        "bowl avg": "30.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/18",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Nevis": "",
+        "Leeward Islands": "2001\u20132016",
+        "St Lucia Zouks": "2014"
+    },
+    "birth_date": "1983-02-06"
+}

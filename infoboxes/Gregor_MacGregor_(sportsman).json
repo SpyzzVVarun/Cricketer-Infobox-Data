@@ -1,0 +1,43 @@
+{
+    "name": "Gregor MacGregor",
+    "birth_place": "Merchiston, Edinburgh, Scotland",
+    "death_date": "1919",
+    "death_place": "Marylebone, London, England",
+    "role": "Wicketkeeper",
+    "batting": "Right-handed",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "21 July",
+    "testdebutyear": "1890",
+    "lasttestdate": "26 August",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1893",
+    "source": "http://www.espncricinfo.com/england/content/player/16862.html Cricinfo",
+    "ru_position": "Three Quarters",
+    "ru_amateuryears": "-",
+    "ru_amateurclubs": "Cambridge University London Scottish Barbarians",
+    "ru_provinceyears": "1891, 1893",
+    "ru_province": "West of Scotland District, Middlesex",
+    "ru_nationalteam": "Scotland",
+    "ru_nationalyears": "1890-96",
+    "ru_nationalcaps": "13",
+    "ru_nationalpoints": "(5)",
+    "Test": {
+        "matches": "8",
+        "runs": "96",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "14/3"
+    },
+    "First-class": {
+        "matches": "265",
+        "runs": "6,381",
+        "bat avg": "18.02",
+        "100s/50s": "3/20",
+        "top score": "141",
+        "catches/stumpings": "411/148"
+    },
+    "clubs": {},
+    "birth_date": "1869-8-31"
+}

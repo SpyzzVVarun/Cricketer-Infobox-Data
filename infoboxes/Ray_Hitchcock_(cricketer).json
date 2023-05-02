@@ -1,0 +1,41 @@
+{
+    "name": "Ray Hitchcock",
+    "fullname": "Raymond Edward Hitchcock",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "2019",
+    "death_place": "Solihull, England",
+    "batting": "Left-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "source": "https://cricketarchive.com/Archive/Players/22/22130/22130.html CricketArchive",
+    "First-class": {
+        "matches": "323",
+        "runs": "12473",
+        "bat avg": "27.84",
+        "100s/50s": "13/65",
+        "deliveries": "12561",
+        "wickets": "196",
+        "bowl avg": "29.82",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "7/76",
+        "catches/stumpings": "116/0"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "91",
+        "bat avg": "30.33",
+        "100s/50s": "0/0",
+        "deliveries": "155",
+        "wickets": "5",
+        "bowl avg": "13.80",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "2/15",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Canterbury": "1947\u201348",
+        "Warwickshire": "1949 to 1964"
+    },
+    "birth_date": "1929-11-28"
+}

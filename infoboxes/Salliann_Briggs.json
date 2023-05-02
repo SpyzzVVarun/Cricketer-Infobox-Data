@@ -1,0 +1,43 @@
+{
+    "name": "Salliann Briggs",
+    "female": "true",
+    "country": "England",
+    "fullname": "Salliann Briggs",
+    "birth_place": "Grimsby, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/115/115588/115588.html CricketArchive ",
+    "WLA": {
+        "matches": "121",
+        "runs": "2,355",
+        "bat avg": "21.80",
+        "100s/50s": "1/8",
+        "top score": "177",
+        "deliveries": "23",
+        "wickets": "1",
+        "bowl avg": "30.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "33/\u2013"
+    },
+    "WT20": {
+        "matches": "30",
+        "runs": "395",
+        "bat avg": "17.17",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2001\u20132013"
+    },
+    "birth_date": "1984-2-3"
+}

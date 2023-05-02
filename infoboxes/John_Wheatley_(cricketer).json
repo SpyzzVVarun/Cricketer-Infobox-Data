@@ -1,0 +1,24 @@
+{
+    "name": "John Wheatley",
+    "birth_place": "Singleton, New South Wales, Australia",
+    "death_date": "1962",
+    "death_place": "Waimate, Canterbury, New Zealand",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38824.html Cricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "254",
+        "bat avg": "13.36",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "wickets": "3",
+        "bowl avg": "18.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/27",
+        "catches/stumpings": "3/2"
+    },
+    "clubs": {
+        "Canterbury": "1882\u20131904"
+    },
+    "birth_date": "1860-1-8"
+}

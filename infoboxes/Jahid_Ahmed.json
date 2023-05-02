@@ -1,0 +1,56 @@
+{
+    "name": "Jahid Ahmed",
+    "country": "England",
+    "fullname": "Jahid Sheikh Ahmed",
+    "birth_place": "Chelmsford, Essex, England",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/64/64423/64423.html CricketArchive ",
+    "FC": {
+        "matches": "7",
+        "runs": "49",
+        "bat avg": "24.50",
+        "100s/50s": "0/0",
+        "deliveries": "733",
+        "wickets": "13",
+        "bowl avg": "41.69",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/42",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "deliveries": "270",
+        "wickets": "10",
+        "bowl avg": "24.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "36",
+        "wickets": "2",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/25",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Essex": "2005\u20132009",
+        "Unicorns": "2010"
+    },
+    "birth_date": "1986-2-20"
+}

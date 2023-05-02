@@ -1,0 +1,26 @@
+{
+    "name": "Bill Hayward",
+    "fullname": "William Irvine Dudley Hayward",
+    "birth_place": "Glenelg, Adelaide, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "https://www.espncricinfo.com/england/content/player/14665.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "309",
+        "bat avg": "10.65",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "deliveries": "4418",
+        "wickets": "68",
+        "bowl avg": "28.64",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/89",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1950\u20131953"
+    },
+    "birth_date": "1930-4-15"
+}

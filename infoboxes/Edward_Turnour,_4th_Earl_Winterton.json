@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "Edward Turnour",
+    "birth_place": "Sunbury, Middlesex, England",
+    "death_date": "1879",
+    "death_place": "Plaistow, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.cricinfo.com/ci/content/player/23414.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "110",
+        "bat avg": "2.68",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1834&ndash;1856"
+    }
+}

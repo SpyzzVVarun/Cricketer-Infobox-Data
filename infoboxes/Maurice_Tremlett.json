@@ -1,0 +1,50 @@
+{
+    "name": "Maurice Tremlett",
+    "country": "England",
+    "fullname": "Maurice Fletcher Tremlett",
+    "birth_place": "Stockport, Cheshire, England",
+    "death_date": "1984",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Tim Tremlett (son)",
+    "testdebutdate": "21 January",
+    "testdebutyear": "1948",
+    "testdebutagainst": "West Indies",
+    "testcap": "331",
+    "lasttestdate": "27 March",
+    "lasttestyear": "1948",
+    "lasttestagainst": "West Indies",
+    "source": "http://www.cricinfo.com/ci/content/player/21579.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "20",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "deliveries": "492",
+        "wickets": "4",
+        "bowl avg": "56.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/98",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "389",
+        "runs": "16,038",
+        "bat avg": "25.37",
+        "100s/50s": "16/83",
+        "top score": "185",
+        "deliveries": "22,093",
+        "wickets": "351",
+        "bowl avg": "30.70",
+        "fivefor": "11",
+        "tenfor": "0",
+        "best bowling": "8/31",
+        "catches/stumpings": "257/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1947\u20131960"
+    },
+    "birth_date": "1923-7-5"
+}

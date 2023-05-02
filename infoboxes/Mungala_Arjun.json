@@ -1,0 +1,51 @@
+{
+    "name": "Mungala Arjun",
+    "fullname": "Munagala Praneet Arjun",
+    "birth_place": "Hyderabad, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/26283.html Cricinfo ",
+    "FC": {
+        "matches": "23",
+        "runs": "477",
+        "bat avg": "14.02",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "deliveries": "3,878",
+        "wickets": "57",
+        "bowl avg": "32.47",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/56",
+        "catches/stumpings": "4/0"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "138",
+        "bat avg": "13.80",
+        "100s/50s": "0/0",
+        "deliveries": "938",
+        "wickets": "15",
+        "bowl avg": "47.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/19",
+        "catches/stumpings": "3/0"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "18",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "121",
+        "wickets": "2",
+        "bowl avg": "78.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Hyderabad": "2006-2013"
+    },
+    "birth_date": "1986-1-11"
+}

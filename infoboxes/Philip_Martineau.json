@@ -1,0 +1,37 @@
+{
+    "name": "Philip Martineau",
+    "country": "England",
+    "fullname": "Philip Hubert Martineau",
+    "birth_place": "St Pancras, London, England",
+    "death_date": "1944",
+    "death_place": "Sunningdale, Berkshire, England",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "type1": "First-class",
+    "debutdate1": "9 July",
+    "debutyear1": "1883",
+    "debutfor1": "MCC",
+    "debutagainst1": "Derbyshire",
+    "lastdate1": "30 July",
+    "lastyear1": "1883",
+    "lastfor1": "MCC",
+    "lastagainst1": "Somerset",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/31/31292/31292.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Marylebone Cricket Club (MCC)": "1883"
+    },
+    "birth_date": "1862-10-28"
+}

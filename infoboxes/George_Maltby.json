@@ -1,0 +1,35 @@
+{
+    "name": "George Maltby",
+    "country": "England",
+    "birth_place": "South Normanton. Derbyshire, England",
+    "death_date": "1924",
+    "death_place": "Huthwaite, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "24 July",
+    "debutyear1": "1905",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "10 August",
+    "lastyear1": "1905",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/31/31187/31187.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "22",
+        "bat avg": "4.40",
+        "100s/50s": "0/0",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1905"
+    },
+    "birth_date": "1876-10-1"
+}

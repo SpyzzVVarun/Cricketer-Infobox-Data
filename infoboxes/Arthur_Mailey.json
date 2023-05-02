@@ -1,0 +1,51 @@
+{
+    "name": "Arthur Mailey",
+    "country": "Australia",
+    "fullname": "Alfred Arthur Mailey",
+    "birth_place": "Zetland, New South Wales, Australia",
+    "death_date": "df=yes",
+    "death_place": "Kirrawee, New South Wales, Australia",
+    "heightcm": "174",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg break and Right-arm leg break and googly",
+    "role": "Bowler",
+    "testdebutdate": "17 December",
+    "testdebutyear": "1920",
+    "testdebutagainst": "England",
+    "testcap": "108",
+    "lasttestdate": "14 August",
+    "lasttestyear": "1926",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/6465.html ESPNcricinfo ",
+    "Test": {
+        "matches": "21",
+        "runs": "222",
+        "bat avg": "11.10",
+        "100s/50s": "0/0",
+        "deliveries": "6,119",
+        "wickets": "99",
+        "bowl avg": "33.91",
+        "fivefor": "6",
+        "tenfor": "2",
+        "best bowling": "9/121",
+        "catches/stumpings": "14/\u2013"
+    },
+    "First-class": {
+        "matches": "158",
+        "runs": "1,530",
+        "bat avg": "12.33",
+        "100s/50s": "0/3",
+        "top score": "66",
+        "deliveries": "36,285",
+        "wickets": "779",
+        "bowl avg": "24.09",
+        "fivefor": "61",
+        "tenfor": "16",
+        "best bowling": "10/66",
+        "catches/stumpings": "157/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1912/13\u20131929/30"
+    },
+    "birth_date": "1886-01-03"
+}

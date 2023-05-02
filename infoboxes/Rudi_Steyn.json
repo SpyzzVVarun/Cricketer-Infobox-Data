@@ -1,0 +1,54 @@
+{
+    "name": "Rudi Steyn",
+    "country": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "internationalspan": "1995",
+    "testdebutdate": "2 January",
+    "testdebutyear": "1995",
+    "testdebutagainst": "New Zealand",
+    "testcap": "260",
+    "lasttestdate": "4 March",
+    "lasttestyear": "1995",
+    "lasttestagainst": "New Zealand",
+    "oneodi": "yes",
+    "odidebutdate": "22 October",
+    "odidebutyear": "1995",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "36",
+    "source": "http://cricinfo.com/ci/content/player/47242.html Cricinfo",
+    "birth_place": "Kimberley, South Africa",
+    "full_name": "Philippus Jeremia Rudolf Steyn ",
+    "Test": {
+        "matches": "3",
+        "runs": "127",
+        "bat avg": "21.16",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "129",
+        "runs": "6,858",
+        "bat avg": "31.17",
+        "100s/50s": "11/30",
+        "catches/stumpings": "64/1"
+    },
+    "LA": {
+        "matches": "157",
+        "runs": "3,941",
+        "bat avg": "30.78",
+        "100s/50s": "5/22",
+        "catches/stumpings": "32/0"
+    },
+    "clubs": {},
+    "birth_date": "1967-6-30"
+}

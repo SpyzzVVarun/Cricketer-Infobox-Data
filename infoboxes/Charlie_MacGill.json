@@ -1,0 +1,40 @@
+{
+    "name": "Charlie MacGill",
+    "country": "Australia",
+    "fullname": "Charles William Terry MacGill",
+    "birth_place": "Perth, Western Australia",
+    "death_date": "1999",
+    "death_place": "Perth, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "family": "Terry MacGill (son) Stuart MacGill (grandson)",
+    "type1": "First-class",
+    "debutdate1": "4 March",
+    "debutyear1": "1939",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "Victoria",
+    "lastdate1": "23 February",
+    "lastyear1": "1951",
+    "lastfor1": "Western Australia",
+    "lastagainst1": "South Australia",
+    "source": "https://cricketarchive.com/Archive/Players/7/7060/7060.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "250",
+        "bat avg": "25.00",
+        "100s/50s": "0/1",
+        "top score": "78",
+        "deliveries": "1,220",
+        "wickets": "19",
+        "bowl avg": "29.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1938/39\u20131950/51"
+    },
+    "birth_date": "1916-6-16"
+}

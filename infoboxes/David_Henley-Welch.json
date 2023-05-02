@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "David Francis Henley-Welch",
+    "birth_place": "Melton, Suffolk, England",
+    "death_date": "2006",
+    "death_place": "San Rafael, Ibiza, Spain",
+    "family": "Anthony Henley (grandfather) Robert Henley (great-uncle) Francis Henley (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14735.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "558",
+        "bat avg": "21.46",
+        "100s/50s": "&ndash;/3",
+        "top score": "58",
+        "deliveries": "1,627",
+        "wickets": "23",
+        "bowl avg": "40.47",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/28",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1949",
+        "Oxford University": "1946&ndash;1948",
+        "Suffolk": "1946&ndash;1957"
+    }
+}

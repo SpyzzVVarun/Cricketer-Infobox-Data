@@ -1,0 +1,30 @@
+{
+    "name": "Bimal Bose",
+    "country": "India",
+    "fullname": "Bimal Krishna Bose",
+    "birth_place": "Calcutta, British India",
+    "death_date": "df=y",
+    "death_place": "Jamshedpur, Bihar, India",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/6/6203/6203.html Cricket Archive",
+    "First-class": {
+        "matches": "45",
+        "runs": "619",
+        "bat avg": "12.38",
+        "100s/50s": "0/3",
+        "top score": "66",
+        "deliveries": "9466",
+        "wickets": "209",
+        "bowl avg": "18.26",
+        "fivefor": "15",
+        "tenfor": "6",
+        "best bowling": "8/43",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "clubs": {
+        "Bihar": "1940-41 to 1963-64",
+        "East Zone": "1949-50 to 1960-61"
+    },
+    "birth_date": "1918-6-16"
+}

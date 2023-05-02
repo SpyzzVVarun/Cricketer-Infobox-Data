@@ -1,0 +1,24 @@
+{
+    "name": "Philo Wallace",
+    "country": "West Indies",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/53214.html Cricinfo ",
+    "Test": {
+        "matches": "7",
+        "runs": "279",
+        "bat avg": "21.46",
+        "100s/50s": "0/2",
+        "top score": "92",
+        "catches/stumpings": "9/\u2013"
+    },
+    "ODI": {
+        "matches": "33",
+        "runs": "701",
+        "bat avg": "21.24",
+        "100s/50s": "1/2",
+        "top score": "103",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {}
+}

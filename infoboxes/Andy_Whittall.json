@@ -1,0 +1,59 @@
+{
+    "name": "Andy Whittall",
+    "fullname": "Andrew Richard Whittall",
+    "birth_place": "Umtali, Rhodesia",
+    "family": "GJ Whittall (cousin)",
+    "country": "Zimbabwe",
+    "testdebutdate": "11 September",
+    "testdebutyear": "1996",
+    "testdebutagainst": "Sri Lanka",
+    "lasttestdate": "18 November",
+    "lasttestyear": "1999",
+    "lasttestagainst": "Sri Lanka",
+    "testcap": "31",
+    "odidebutdate": "3 September",
+    "odidebutyear": "1996",
+    "odidebutagainst": "Sri Lanka",
+    "lastodidate": "30 January",
+    "lastodiyear": "2000",
+    "lastodiagainst": "England",
+    "odicap": "45",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "Test": {
+        "matches": "10",
+        "runs": "114",
+        "bat avg": "7.59",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "1,562",
+        "wickets": "7",
+        "bowl avg": "105.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/73",
+        "catches/stumpings": "8/\u2013"
+    },
+    "ODI": {
+        "matches": "63",
+        "runs": "168",
+        "bat avg": "7.63",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "3,085",
+        "wickets": "45",
+        "bowl avg": "50.02",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/23",
+        "catches/stumpings": [
+            "|deliveries3 = 12,400    |wickets3 = 134 |bowl avg3 = 49.35 |fivefor3 = 5 |tenfor3 = 1 |best bowling3 = 6/46 |catches/stumpings3 = 41/\u2013 |column4 = LA |matches4 = 87   |runs4 = 318 |bat avg4 = 9.35 |100s/50s4 = 0/0 |top score4 = 29 |deliveries4 = 4,105  |wickets4 = 68 |bowl avg4 = 44.13 |fivefor4 = 0 |tenfor4 = 0 |best bowling4 = 3/23 |catches/stumpings4 = 32/\u2013 |date = 12 April |year = 2019 |source = http://www.espncricinfo.com/zimbabwe/content/player/55846.html Cricinfo"
+        ]
+    },
+    "clubs": {
+        "Cambridge University": "1993\u20131996",
+        "Matabeleland": "1996/97\u20131998/99",
+        "Manicaland": "1999/00"
+    },
+    "birth_date": "1973-03-19"
+}

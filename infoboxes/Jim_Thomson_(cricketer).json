@@ -1,0 +1,28 @@
+{
+    "name": "Jim Thomson",
+    "fullname": "James Cecil Alexander Thomson",
+    "birth_place": "Napier, New Zealand",
+    "death_date": "2022",
+    "death_place": "Nelson, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/38662.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "73",
+        "bat avg": "7.30",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "886",
+        "wickets": "8",
+        "bowl avg": "51.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/93",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1953/54"
+    },
+    "birth_date": "1933-4-17"
+}

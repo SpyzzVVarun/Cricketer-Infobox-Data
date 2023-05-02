@@ -1,0 +1,41 @@
+{
+    "name": "Tom Killick",
+    "batting": "Right-handed",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "15 June",
+    "testdebutyear": "1929",
+    "lasttestdate": "29 June",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1929",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/15882.html CricInfo",
+    "Test": {
+        "matches": "2",
+        "runs": "81",
+        "bat avg": "20.25",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "92",
+        "runs": "5,730",
+        "bat avg": "40.35",
+        "100s/50s": "15/26",
+        "top score": "206",
+        "deliveries": "293",
+        "wickets": "3",
+        "bowl avg": "76.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "50/\u2013"
+    },
+    "clubs": {}
+}

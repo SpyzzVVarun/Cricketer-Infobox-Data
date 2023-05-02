@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Gerald Seymour Tuck",
+    "birth_place": "Hartley Wintney, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Chichester, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/21950.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "314",
+        "bat avg": "31.40",
+        "100s/50s": "1/2",
+        "top score": "125",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1928"
+    }
+}

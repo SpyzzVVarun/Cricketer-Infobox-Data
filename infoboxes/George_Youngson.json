@@ -1,0 +1,33 @@
+{
+    "name": "George Youngson",
+    "birth_place": "Aberdeen, Scotland",
+    "death_date": "df=y",
+    "country": "Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "31 May",
+    "debutyear1": "1947",
+    "debutfor1": "Scotland",
+    "debutagainst1": "Ireland",
+    "lastdate1": "21 May",
+    "lastyear1": "1955",
+    "lastfor1": "Scotland",
+    "lastagainst1": "Worcestershire",
+    "source": "http://www.espncricinfo.com/scotland/content/player/25406.html ESPNCricinfo",
+    "First-class": {
+        "matches": "19",
+        "runs": "64",
+        "bat avg": "3.76",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "5,027",
+        "wickets": "75",
+        "bowl avg": "24.81",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/42",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {}
+}

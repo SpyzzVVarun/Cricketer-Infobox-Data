@@ -1,0 +1,23 @@
+{
+    "name": "Sir Carl Berendsen",
+    "honorific_suffix": "country=NZL",
+    "country": "New Zealand",
+    "fullname": "Carl August Berendsen",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "df=yes",
+    "death_place": "Dunedin, New Zealand",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36430.html Cricinfo",
+    "First-class": {
+        "matches": "4",
+        "runs": "19",
+        "bat avg": "3.16",
+        "100s/50s": "0/0",
+        "fivefor": "|hidedeliveries=true",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1911/12"
+    },
+    "birth_date": "1890-08-16"
+}

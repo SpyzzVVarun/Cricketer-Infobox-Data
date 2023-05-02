@@ -1,0 +1,41 @@
+{
+    "name": "Finty Trussler",
+    "female": "true",
+    "fullname": "Finty May Trussler",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1704/1704728/1704728.html CricketArchive",
+    "WLA": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "98",
+        "wickets": "4",
+        "bowl avg": "17.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/12",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "9",
+        "runs": "47",
+        "bat avg": "15.66",
+        "100s/50s": "0/0",
+        "deliveries": "186",
+        "wickets": "17",
+        "bowl avg": "8.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/12",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "2021\u2013present",
+        "Southern Vipers": "2021\u2013present",
+        "Oxfordshire": "2022"
+    },
+    "birth_date": "2003-5-8"
+}

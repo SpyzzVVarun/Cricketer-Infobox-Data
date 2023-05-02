@@ -1,0 +1,28 @@
+{
+    "name": "Fred Scoulding",
+    "fullname": "Frederick John Scoulding",
+    "birth_place": "Bow, London, England",
+    "death_date": "1928",
+    "death_place": "Whitechapel, London, England",
+    "batting": "Left-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/20090.html Cricinfo ",
+    "FC": {
+        "matches": "22",
+        "runs": "92",
+        "bat avg": "5.41",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "2465",
+        "wickets": "32",
+        "bowl avg": "39.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/50",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Essex": "1912\u20131920"
+    },
+    "birth_date": "1887-8-26"
+}

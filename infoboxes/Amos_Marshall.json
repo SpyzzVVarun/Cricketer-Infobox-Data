@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Amos Marshall",
+    "birth_place": "Yeadon, Yorkshire, England",
+    "death_date": "1891",
+    "death_place": "Yeadon, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "https://www.espncricinfo.com/player/amos-marshall-17356 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "47",
+        "wickets": "1",
+        "bowl avg": "18.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/7",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1874"
+    }
+}

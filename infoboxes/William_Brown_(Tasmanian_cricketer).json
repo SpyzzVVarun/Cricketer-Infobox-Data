@@ -1,0 +1,26 @@
+{
+    "name": "William Brown",
+    "country": "Australia",
+    "birth_place": "England",
+    "death_date": "1859",
+    "death_place": "Hobart, Tasmania, Australia",
+    "role": "Bowler (underarm)",
+    "type1": "First-class",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Archive/Players/2/2425/2425.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "top score": "7",
+        "wickets": "15",
+        "bowl avg": "4.86",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "8/31",
+        "catches/stumpings": "4"
+    },
+    "clubs": {
+        "Tasmania": "1852"
+    }
+}

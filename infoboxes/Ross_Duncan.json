@@ -1,0 +1,43 @@
+{
+    "name": "Ross Duncan",
+    "fullname": "John Ross Frederick Duncan",
+    "birth_place": "Herston, Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Australia",
+    "testdebutdate": "21 January",
+    "testdebutyear": "1971",
+    "lasttestdate": "21 January",
+    "lasttestyear": "1971",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/4992.html Cricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "112",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/-"
+    },
+    "First-class": {
+        "matches": "71",
+        "runs": "649",
+        "bat avg": "8.42",
+        "100s/50s": "-/1",
+        "top score": "52",
+        "deliveries": "15,910",
+        "wickets": "218",
+        "bowl avg": "31.19",
+        "fivefor": "9",
+        "tenfor": "1",
+        "best bowling": "8/55",
+        "catches/stumpings": "33/-"
+    },
+    "clubs": {},
+    "birth_date": "1944-3-25"
+}

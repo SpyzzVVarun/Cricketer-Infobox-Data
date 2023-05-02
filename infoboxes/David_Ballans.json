@@ -1,0 +1,26 @@
+{
+    "name": "David Ballans",
+    "birth_place": "at sea",
+    "death_date": "1957",
+    "death_place": "Goodwood Park, Australia",
+    "batting": "Right-hand bat",
+    "source": "http://www.espncricinfo.com/ci/content/player/4319.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "-",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "-",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {
+        "South Australia": "1889/90-1892/93"
+    },
+    "birth_date": "1868-6-30"
+}

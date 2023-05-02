@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Charles Turnbull Mannes",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "death_date": "1937",
+    "death_place": "Airdrie, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/charles-mannes-25281 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "129",
+        "bat avg": "21.50",
+        "100s/50s": "\u2013/1",
+        "top score": "62",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1906&ndash;1908"
+    }
+}

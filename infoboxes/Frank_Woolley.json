@@ -1,0 +1,53 @@
+{
+    "name": "Frank Woolley",
+    "country": "England",
+    "fullname": "Frank Edward Woolley",
+    "birth_place": "Tonbridge, Kent",
+    "death_date": "1978",
+    "death_place": "Chester, Nova Scotia, Canada",
+    "heightft": "6",
+    "heightinch": "3 Ellis & Pennell, p. 17.",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium Slow left-arm Left-arm medium Slow left-arm orthodox",
+    "role": "All-rounder",
+    "family": "Claud Woolley (brother)",
+    "testdebutdate": "9 August",
+    "testdebutyear": "1909",
+    "testdebutagainst": "Australia",
+    "testcap": "163",
+    "lasttestdate": "22 August",
+    "lasttestyear": "1934",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/england/content/player/22518.html CricInfo ",
+    "Test": {
+        "matches": "64",
+        "runs": "3,283",
+        "bat avg": "36.07",
+        "100s/50s": "5/23",
+        "top score": "154",
+        "deliveries": "6,495",
+        "wickets": "83",
+        "bowl avg": "33.91",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/76",
+        "catches/stumpings": "64/\u2013"
+    },
+    "First-class": {
+        "matches": "978name=reef",
+        "runs": "58,959",
+        "bat avg": "40.77",
+        "100s/50s": "145/295",
+        "deliveries": "94,949CricInfo gives a figure of 94,949 for the number of balls Woolley bowled during his career. https://www.espncricinfo.com/player/frank-woolley-22518 Frank Woolley, CricInfo. Retrieved 28 September 2010.  CricketArchive gives an alternative figure of 94,794, https://cricketarchive.com/Archive/Players/0/316/316.html Frank Woolley, CricketArchive. Retrieved 27 December 2021. subscription  whilst Derek Carlaw gives a figure of 94,824. Carlaw, p. 602.  Howard Milton, in his statistical analysis for the Association of Cricket Statisticians and Historians, gives a figure of 15,511 six-ball overs and 235 eight-ball overs, equating to a total of 94,946 balls. Milton 1998, p. 106. ",
+        "wickets": "2,066",
+        "bowl avg": "19.87",
+        "fivefor": "132",
+        "tenfor": "28",
+        "best bowling": "8/22",
+        "catches/stumpings": "1,018/\u2013"
+    },
+    "clubs": {
+        "Kent": "1906\u20131938"
+    },
+    "birth_date": "1887-5-27"
+}

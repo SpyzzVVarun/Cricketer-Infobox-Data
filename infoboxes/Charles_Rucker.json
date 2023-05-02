@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Edward Sigismund Rucker",
+    "birth_place": "Chislehurst, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Blandford Forum, Dorset, England",
+    "family": "Patrick Rucker (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/19860.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "66",
+        "bat avg": "13.20",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "633",
+        "wickets": "13",
+        "bowl avg": "22.33",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/69",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1914"
+    }
+}

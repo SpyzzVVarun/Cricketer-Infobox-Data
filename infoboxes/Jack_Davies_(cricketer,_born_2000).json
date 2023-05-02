@@ -1,0 +1,46 @@
+{
+    "name": "Jack Davies",
+    "fullname": "Jack Leo Benjamin Davies",
+    "birth_place": "Reading, Berkshire, England",
+    "batting": "Left-handed",
+    "role": "Wicketkeeper-batsman",
+    "type1": "First-class",
+    "debutdate1": "22 August",
+    "debutyear1": "2020",
+    "debutfor1": "Middlesex",
+    "debutagainst1": "Sussex",
+    "type2": "List A",
+    "debutdate2": "25 July",
+    "debutyear2": "2021",
+    "debutfor2": "Middlesex",
+    "debutagainst2": "Essex",
+    "source": "http://www.espncricinfo.com/ci/content/player/1095879.html ESPNcricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "87",
+        "bat avg": "9.66",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "4/0"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "164",
+        "bat avg": "32.79",
+        "100s/50s": "0/2",
+        "top score": "70",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "250",
+        "bat avg": "19.23",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Middlesex( 23 )": "2020\u2013present"
+    },
+    "birth_date": "2000-3-30"
+}

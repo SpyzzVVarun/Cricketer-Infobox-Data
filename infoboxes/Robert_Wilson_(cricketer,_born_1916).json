@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Wilson",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "2004",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/robert-wilson-25399 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "420",
+        "wickets": "8",
+        "bowl avg": "20.87",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/16",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1952"
+    }
+}

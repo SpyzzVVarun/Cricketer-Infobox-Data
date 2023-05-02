@@ -1,0 +1,42 @@
+{
+    "name": "Terry Hunte",
+    "country": "West Indies",
+    "fullname": "Terence Anderson Hunte",
+    "birth_place": "Saint Philip, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/52114.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "585",
+        "bat avg": "23.40",
+        "100s/50s": "&ndash;/5",
+        "top score": "72",
+        "deliveries": "88",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "354",
+        "bat avg": "50.57",
+        "100s/50s": "1/2",
+        "top score": "114",
+        "deliveries": "25",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Barbados": "1983/84&ndash;1987/88",
+        "Cumberland": "1992&ndash;2001"
+    },
+    "birth_date": "1962-4-4"
+}

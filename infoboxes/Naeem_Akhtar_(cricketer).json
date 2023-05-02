@@ -1,0 +1,44 @@
+{
+    "country": "Pakistan",
+    "fullname": "Naeem Akhtar",
+    "birth_place": "Faisalabad, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/42050.html Cricinfo ",
+    "FC": {
+        "matches": "101",
+        "runs": "3,013",
+        "bat avg": "21.99",
+        "100s/50s": "2/10",
+        "deliveries": "15,274",
+        "wickets": "322",
+        "bowl avg": "21.46",
+        "fivefor": "17",
+        "tenfor": "2",
+        "best bowling": "10/28",
+        "catches/stumpings": "52/&ndash;"
+    },
+    "LA": {
+        "matches": "99",
+        "runs": "1,430",
+        "bat avg": "21.34",
+        "100s/50s": "0/6",
+        "top score": "81",
+        "deliveries": "4,411",
+        "wickets": "123",
+        "bowl avg": "23.83",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "5/20",
+        "catches/stumpings": "21/&ndash;"
+    },
+    "clubs": {
+        "Derbyshire Cricket Board": "2002",
+        "Cornwall": "1999",
+        "Khan Research Laboratories": "1997/98-2002/03",
+        "Rawalpindi B": "1995/96",
+        "Rawalpindi A": "1994/95-1995/96",
+        "Rawalpindi": "1990/91-2003/04"
+    },
+    "birth_date": "1967-12-2"
+}

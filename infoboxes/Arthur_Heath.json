@@ -1,0 +1,32 @@
+{
+    "name": "Arthur Heath",
+    "country": "England",
+    "fullname": "Arthur Howard Heath",
+    "birth_place": "Titterton, Newcastle-under-Lyme, Staffordshire, England",
+    "death_date": "1930",
+    "death_place": "Marylebone, London, England",
+    "batting": "Right-hand bat",
+    "bowling": "Round-arm right-arm Round-arm right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/30/30126/30126.html CricketArchive ",
+    "FC": {
+        "matches": "44",
+        "runs": "969",
+        "bat avg": "13.27",
+        "100s/50s": "0/4",
+        "top score": "71",
+        "deliveries": "659",
+        "wickets": "26",
+        "bowl avg": "14.65",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/11",
+        "catches/stumpings": "26/-"
+    },
+    "clubs": {
+        "Gloucestershire": "1875",
+        "Oxford University": "1876\u20131879",
+        "MCC": "1876\u20131894",
+        "Middlesex": "1878"
+    },
+    "birth_date": "1856-5-29"
+}

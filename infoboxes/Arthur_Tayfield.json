@@ -1,0 +1,31 @@
+{
+    "name": "Arthur Tayfield",
+    "country": "South Africa",
+    "birth_place": "Durban, Natal, South Africa",
+    "death_date": "2022",
+    "death_place": "Ballito, KwaZulu-Natal, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "family": "Hugh Tayfield (brother)",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/47528.html Cricinfo ",
+    "First-class": {
+        "matches": "50",
+        "runs": "1483",
+        "bat avg": "22.13",
+        "100s/50s": "2/4",
+        "top score": "205",
+        "deliveries": "7283",
+        "wickets": "85",
+        "bowl avg": "29.90",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "6/75",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {
+        "Natal": "1948-49 to 1949-50",
+        "Transvaal": "1950-51 to 1951-52, 1953-54 to 1962-63",
+        "North Eastern Transvaal": "1952-53"
+    },
+    "birth_date": "1931-6-21"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Charles Vernon Oxenden",
+    "birth_place": "England",
+    "death_date": "df=yes",
+    "death_place": "Barham, Kent, England",
+    "family": "Charles Oxenden (father)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/18385.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "149",
+        "bat avg": "11.46",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "1",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {}
+}

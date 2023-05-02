@@ -1,0 +1,35 @@
+{
+    "name": "Cameron McAuslan",
+    "fullname": "Cameron Lachlan McAuslan",
+    "birth_place": "Hong Kong",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Batsman",
+    "country": "Hong Kong",
+    "odidebutdate": "22 January",
+    "odidebutyear": "2017",
+    "odidebutagainst": "Scotland",
+    "odicap": "39",
+    "lastodidate": "26 January",
+    "lastodiyear": "2017",
+    "lastodiagainst": "United Arab Emirates",
+    "source": "http://www.espncricinfo.com/ci/content/player/919527.html ESPNcricinfo",
+    "ODI": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "53",
+        "bat avg": "13.25",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1998-06-1"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Jack Doig",
+    "country": "New Zealand",
+    "fullname": "John Allen Doig",
+    "birth_place": "Beechworth, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Invercargill, New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/21/21782/21782.html Cricket Archive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "118",
+        "bat avg": "9.07",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "1469",
+        "wickets": "38",
+        "bowl avg": "15.78",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/46",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Southland": "1914\u201315 to 1920\u201321"
+    },
+    "birth_date": "1872-3-24"
+}

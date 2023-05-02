@@ -1,0 +1,26 @@
+{
+    "name": "Dhivendran Mogan",
+    "country": "Malaysia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "23 February",
+    "T20Idebutyear": "2020",
+    "T20Idebutagainst": "Hong Kong",
+    "T20Icap": "24",
+    "lastT20Idate": "22 April",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/633647.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1994-8-9",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

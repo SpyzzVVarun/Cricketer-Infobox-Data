@@ -1,0 +1,29 @@
+{
+    "name": "Munawwar Hussain",
+    "country": "Pakistan",
+    "fullname": "Munawwar Hussain Agha",
+    "birth_place": "Hyderabad, Sind, British India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/41897.html Cricinfo",
+    "First-class": {
+        "matches": "48",
+        "runs": "466",
+        "bat avg": "12.26",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "10,516",
+        "wickets": "207",
+        "bowl avg": "21.74",
+        "fivefor": "13",
+        "tenfor": "3",
+        "best bowling": "8/163",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Karachi": "1961-62 to 1965-66",
+        "Public Works Department": "1964-65",
+        "Pakistan International Airlines": "1967-68 to 1974-75"
+    },
+    "birth_date": "1943-10-17"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Mithu Mukherjee",
+    "country": "India",
+    "female": "true",
+    "birth_place": "India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "testdebutdate": "23 February",
+    "testdebutyear": "1985",
+    "testdebutagainst": "New Zealand",
+    "testcap": "26",
+    "lasttestdate": "9 February",
+    "lasttestyear": "1991",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17143/17143.html CricetArchive ",
+    "Test": {
+        "matches": "4",
+        "runs": "76",
+        "bat avg": "10.85",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "322",
+        "wickets": "2",
+        "bowl avg": "84.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

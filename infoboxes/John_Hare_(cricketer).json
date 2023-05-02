@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Hugh Montague Hare",
+    "birth_place": "Docking, Norfolk, England",
+    "death_date": "df=yes",
+    "death_place": "Docking, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14533.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "126",
+        "bat avg": "11.45",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "28",
+        "wickets": "1",
+        "bowl avg": "12.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/5",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1879&ndash;1880"
+    }
+}

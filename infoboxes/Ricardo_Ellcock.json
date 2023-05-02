@@ -1,0 +1,43 @@
+{
+    "name": "Ricardo Ellcock",
+    "country": "England",
+    "fullname": "Ricardo McDonald Ellcock",
+    "nickname": "Ricky",
+    "birth_place": "Redmans Village, St Thomas, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/12/12152/12152.html CricketArchive ",
+    "FC": {
+        "matches": "46",
+        "runs": "424",
+        "bat avg": "12.47",
+        "100s/50s": "0/0",
+        "deliveries": "5,652",
+        "wickets": "117",
+        "bowl avg": "29.01",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/35",
+        "catches/stumpings": "9/0"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "57",
+        "bat avg": "6.33",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "1,377",
+        "wickets": "38",
+        "bowl avg": "25.65",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "4/43",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Worcestershire": "1982\u20131988",
+        "Barbados": "1983/84\u20131984/85",
+        "Middlesex": "1989\u20131991"
+    },
+    "birth_date": "1965-6-17"
+}

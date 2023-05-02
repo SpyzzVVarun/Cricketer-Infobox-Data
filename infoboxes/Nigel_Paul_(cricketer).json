@@ -1,0 +1,30 @@
+{
+    "name": "Nigel Paul",
+    "country": "England",
+    "fullname": "Nigel Aldridge Paul",
+    "birth_place": "Surbiton, Surrey, England",
+    "death_date": "2022",
+    "heightft": "6",
+    "heightinch": "5",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18798.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "157",
+        "bat avg": "15.70",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "419",
+        "wickets": "3",
+        "bowl avg": "65.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1954\u20131955"
+    },
+    "birth_date": "1933-3-31"
+}

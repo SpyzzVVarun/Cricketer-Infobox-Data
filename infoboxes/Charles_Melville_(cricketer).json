@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Charles Melville",
+    "birth_place": "Falkirk, Stirlingshire, Scotland",
+    "death_date": "1954",
+    "death_place": "Dumfries, Dumfriesshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/charles-melville-25298 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "50",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "294",
+        "wickets": "3",
+        "bowl avg": "50.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/72",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1928&ndash;1929"
+    }
+}

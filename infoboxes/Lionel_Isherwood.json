@@ -1,0 +1,30 @@
+{
+    "name": "Lionel Isherwood",
+    "country": "England",
+    "fullname": "Lionel Charlie Ramsbottom-Isherwood",
+    "birth_place": "Southsea, Hampshire, England",
+    "death_date": "1970",
+    "death_place": "Merrow, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/england/content/player/15405.html Cricinfo ",
+    "FC": {
+        "matches": "60",
+        "runs": "1,529",
+        "bat avg": "16.44",
+        "100s/50s": "&ndash;/6",
+        "deliveries": "63",
+        "wickets": "1",
+        "bowl avg": "24.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/16",
+        "catches/stumpings": "25/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1925&ndash;1927",
+        "Marylebone Cricket Club": "1923&ndash;1927",
+        "Hampshire": "1919&ndash;1923"
+    },
+    "birth_date": "1891-4-13"
+}

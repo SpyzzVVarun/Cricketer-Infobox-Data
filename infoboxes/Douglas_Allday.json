@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Douglas Charles Allday",
+    "birth_place": "Knowle, Warwickshire, England",
+    "death_date": "1945",
+    "death_place": "Wolverhampton, Staffordshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/26404.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "4.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1920/21&ndash;1923/24"
+    }
+}

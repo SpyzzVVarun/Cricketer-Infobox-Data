@@ -1,0 +1,31 @@
+{
+    "name": "Sydney Day",
+    "country": "England",
+    "fullname": "Sydney Ernest Day",
+    "birth_place": "Blackheath, Kent",
+    "death_date": "1970",
+    "death_place": "West Malling, Kent",
+    "family": "Samuel Day (brother) Arthur Day (brother), David Day (nephew)",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "5 July",
+    "debutyear1": "1922",
+    "debutfor1": "Kent",
+    "debutagainst1": "Notts",
+    "lastdate1": "15 July",
+    "lastyear1": "1925",
+    "lastfor1": "Kent",
+    "lastagainst1": "Gloucestershire",
+    "source": "http://www.espncricinfo.com/england/content/player/12106.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "245",
+        "bat avg": "18.84",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Kent": "1922\u20131925"
+    },
+    "birth_date": "1884-2-9"
+}

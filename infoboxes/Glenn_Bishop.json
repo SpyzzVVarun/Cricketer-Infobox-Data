@@ -1,0 +1,60 @@
+{
+    "name": "Glenn Bishop",
+    "country": "Australia",
+    "fullname": "Glenn Andrew Bishop",
+    "birth_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "odidebutdate": "2 January",
+    "odidebutyear": "1987",
+    "odidebutagainst": "Pakistan",
+    "odicap": "95",
+    "lastodidate": "4 January",
+    "lastodiyear": "1987",
+    "lastodiagainst": "West Indies",
+    "source": "http://content.cricinfo.com/ci/content/current/player/4151.html Cricinfo  ",
+    "ODI": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013 /-"
+    },
+    "FC": {
+        "matches": "96",
+        "runs": "6,206",
+        "bat avg": "37.38",
+        "100s/50s": "13/29",
+        "deliveries": "91",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "66/\u2013"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "885",
+        "bat avg": "24.58",
+        "100s/50s": "2/2",
+        "deliveries": "6",
+        "wickets": "1",
+        "bowl avg": "5.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1982/83\u20131992/93"
+    },
+    "birth_date": "1960-2-25"
+}

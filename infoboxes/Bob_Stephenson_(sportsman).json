@@ -1,0 +1,41 @@
+{
+    "name": "Bob Stephenson",
+    "country": "England",
+    "fullname": "George Robert Stephenson",
+    "birth_place": "Derby, Derbyshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/20356.html Cricinfo ",
+    "FC": {
+        "matches": "272",
+        "runs": "4,781",
+        "bat avg": "16.42",
+        "100s/50s": "1/10",
+        "deliveries": "55",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "584/77"
+    },
+    "LA": {
+        "matches": "237",
+        "runs": "1,111",
+        "bat avg": "9.91",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "191/58"
+    },
+    "clubs": {
+        "Derbyshire": "1967-1968",
+        "Hampshire": "1969-1980"
+    },
+    "birth_date": "1942-11-19"
+}

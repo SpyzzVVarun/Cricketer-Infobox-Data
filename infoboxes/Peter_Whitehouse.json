@@ -1,0 +1,39 @@
+{
+    "name": "Peter Whitehouse",
+    "fullname": "Peter Michael William Whitehouse",
+    "birth_place": "Birchington, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Archi, Abruzzo, Italy",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "type1": "FC",
+    "debutdate1": "10 June",
+    "debutyear1": "1936",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Minor Counties",
+    "lastdate1": "6 August",
+    "lastyear1": "1938",
+    "lastfor1": "Kent",
+    "lastagainst1": "Sussex",
+    "source": "http://www.espncricinfo.com/england/content/player/22936.html CricInfo",
+    "First-class": {
+        "matches": "24",
+        "runs": "927",
+        "bat avg": "28.96",
+        "100s/50s": "0/7",
+        "deliveries": "2,815",
+        "wickets": "43",
+        "bowl avg": "29.46",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/33",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1935",
+        "Oxford University": "1936\u20131938",
+        "Kent": "1937\u20131938"
+    },
+    "birth_date": "1917-04-27"
+}

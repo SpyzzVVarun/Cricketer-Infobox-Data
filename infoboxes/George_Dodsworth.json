@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "George Edward Dodsworth",
+    "birth_place": "York, Yorkshire, England",
+    "death_date": "1876",
+    "death_place": "Gwalior, Central Provinces,, British India",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/12208.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1868"
+    }
+}

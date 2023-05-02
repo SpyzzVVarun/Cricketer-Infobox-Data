@@ -1,0 +1,58 @@
+{
+    "name": "Abu Nechim",
+    "country": "India",
+    "fullname": "Abu Nechim Ahmed",
+    "birth_place": "Guwahati, Assam, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.cricinfo.com/india/content/player/228430.html Cricinfo ",
+    "FC": {
+        "matches": "64",
+        "runs": "1,114",
+        "bat avg": "13.75",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "10,810",
+        "wickets": "167",
+        "bowl avg": "32.04",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/68",
+        "catches/stumpings": "23/\u2013"
+    },
+    "LA": {
+        "matches": "56",
+        "runs": "421",
+        "bat avg": "14.03",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "2,378",
+        "wickets": "59",
+        "bowl avg": "34.88",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "13/\u2013"
+    },
+    "T20": {
+        "matches": "75",
+        "runs": "239",
+        "bat avg": "9.19",
+        "100s/50s": "0/0",
+        "deliveries": "1,435",
+        "wickets": "75",
+        "bowl avg": "24.29",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/21",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Assam": "2005\u20132021",
+        "Mumbai Indians": "2010\u20132013",
+        "Royal Challengers Bangalore": "2014\u20132016",
+        "Nagaland": "2021\u2013Present"
+    },
+    "birth_date": "1988-11-5"
+}

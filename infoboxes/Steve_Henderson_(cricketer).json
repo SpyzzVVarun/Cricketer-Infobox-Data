@@ -1,0 +1,44 @@
+{
+    "name": "Stephen Henderson",
+    "country": "England",
+    "fullname": "Stephen Peter Henderson",
+    "nickname": "Hendo",
+    "birth_place": "Headington, Oxfordshire, England",
+    "family": "Derek Henderson (father)",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://cricketarchive.co.uk/Archive/Players/4/4447/4447.html CricketArchive ",
+    "FC": {
+        "matches": "71",
+        "runs": "2,628",
+        "bat avg": "26.01",
+        "100s/50s": "4/12",
+        "deliveries": "268",
+        "wickets": "3",
+        "bowl avg": "72.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2\u201348",
+        "catches/stumpings": "47/0"
+    },
+    "LA": {
+        "matches": "62",
+        "runs": "829",
+        "bat avg": "18.02",
+        "100s/50s": "0/4",
+        "top score": "82",
+        "deliveries": "82",
+        "wickets": "4",
+        "bowl avg": "21.50",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "2\u201316",
+        "catches/stumpings": "15/0"
+    },
+    "clubs": {
+        "Worcestershire": "1977\u20131981",
+        "Cambridge University": "1982\u20131983",
+        "Glamorgan": "1983\u20131985"
+    },
+    "birth_date": "1958-9-24"
+}

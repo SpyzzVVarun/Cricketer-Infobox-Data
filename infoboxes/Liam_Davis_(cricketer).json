@@ -1,0 +1,57 @@
+{
+    "name": "Liam Davis",
+    "country": "Australia",
+    "fullname": "Liam Murray Davis",
+    "birth_place": "Perth, Western Australia",
+    "nickname": "Buff http://www.espncricinfo.com/australia/content/player/5102.html Liam Davis profile \u2013 espncricinfo.com. Retrieved 19 November 2011.",
+    "heightm": "1.75",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/45/45732/45732.html CricketArchive ",
+    "FC": {
+        "matches": "40",
+        "runs": "2,373",
+        "bat avg": "31.22",
+        "100s/50s": "4/8",
+        "deliveries": "6",
+        "wickets": "1",
+        "bowl avg": "6.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "31/\u2013"
+    },
+    "LA": {
+        "matches": "26",
+        "runs": "854",
+        "bat avg": "34.16",
+        "100s/50s": "2/2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "122",
+        "bat avg": "15.25",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2005/06\u20132012/13",
+        "Perth Scorchers": "2013/14"
+    },
+    "birth_date": "1984-8-2"
+}

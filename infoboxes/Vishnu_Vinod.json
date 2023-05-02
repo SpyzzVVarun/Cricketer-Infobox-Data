@@ -1,0 +1,35 @@
+{
+    "name": "Vishnu Vinod",
+    "birth_place": "Kallissery, Thiruvalla, Pathanamthitta, India",
+    "batting": "Right-handed",
+    "bowling": "Right arm medium Right arm medium fast",
+    "role": "Wicket-keeper-batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/732293.html Cricinfo ",
+    "FC": {
+        "matches": "23",
+        "runs": "842",
+        "bat avg": "24.05",
+        "100s/50s": "2/1",
+        "catches/stumpings": "40/2"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "1499",
+        "bat avg": "42.82",
+        "100s/50s": "5/4",
+        "top score": "139",
+        "catches/stumpings": "22/1"
+    },
+    "T20": {
+        "matches": "42",
+        "runs": "1051",
+        "bat avg": "33.90",
+        "100s/50s": "0/7",
+        "catches/stumpings": "12/5"
+    },
+    "clubs": {
+        "Kerala( 4 )": "2014\u2014present",
+        "Royal Challengers Bangalore( 4 )": "2017"
+    },
+    "birth_date": "1993-12-2"
+}

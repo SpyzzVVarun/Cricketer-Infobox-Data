@@ -1,0 +1,32 @@
+{
+    "name": "Rhianna Southby",
+    "female": "true",
+    "fullname": "Rhianna Mae Southby",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1325/1325091/1325091.html CricketArchive",
+    "WLA": {
+        "matches": "35",
+        "runs": "177",
+        "bat avg": "8.85",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "16/9"
+    },
+    "WT20": {
+        "matches": "38",
+        "runs": "224",
+        "bat avg": "14.00",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "8/17"
+    },
+    "clubs": {
+        "Surrey": "2016\u2013present",
+        "Surrey Stars": "2018\u20132019",
+        "South East Stars": "2020\u20132022",
+        "Oval Invincibles": "2021",
+        "Southern Vipers": "2023\u2013present"
+    },
+    "birth_date": "2000-10-16"
+}

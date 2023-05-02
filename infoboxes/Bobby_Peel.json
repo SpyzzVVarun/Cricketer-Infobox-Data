@@ -1,0 +1,47 @@
+{
+    "name": "Bobby Peel",
+    "birth_place": "Churwell, Yorkshire, England",
+    "death_date": "1941",
+    "death_place": "Morley, West Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "12 December",
+    "testdebutyear": "1884",
+    "lasttestdate": "12 August",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1896",
+    "source": "http://www.espncricinfo.com/england/content/player/18489.html Cricinfo",
+    "Tests": {
+        "matches": "20",
+        "runs": "427",
+        "bat avg": "14.72",
+        "100s/50s": "0/3",
+        "top score": "83",
+        "deliveries": "5,216",
+        "wickets": "101",
+        "bowl avg": "16.98",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/31",
+        "catches/stumpings": "17/0"
+    },
+    "First-class": {
+        "matches": "436",
+        "runs": "12,191",
+        "bat avg": "19.44",
+        "100s/50s": "7/48",
+        "deliveries": "88,721",
+        "wickets": "1,775",
+        "bowl avg": "16.20",
+        "fivefor": "123",
+        "tenfor": "33",
+        "best bowling": "9/22",
+        "catches/stumpings": "214/0"
+    },
+    "clubs": {
+        "Yorkshire": "1883\u20131897"
+    },
+    "birth_date": "1857-2-12"
+}

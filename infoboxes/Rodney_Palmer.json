@@ -1,0 +1,40 @@
+{
+    "name": "Rodney Palmer",
+    "country": "England",
+    "fullname": "Rodney Howell Palmer",
+    "birth_place": "Sherfield-on-Loddon, Hampshire, England",
+    "death_date": "1987",
+    "death_place": "Newbury, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "22 May",
+    "debutyear1": "1929",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Essex",
+    "lastdate1": "5 August",
+    "lastyear1": "1933",
+    "lastfor1": "Hampshire",
+    "lastagainst1": "Kent",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/6/6785/6785.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "554",
+        "wickets": "9",
+        "bowl avg": "32.44",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/93",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Hampshire": "1930-1933",
+        "Cambridge University": "1929"
+    },
+    "birth_date": "1907-11-24"
+}

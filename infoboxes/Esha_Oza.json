@@ -1,0 +1,36 @@
+{
+    "name": "Esha Oza",
+    "female": "true",
+    "country": "United Arab Emirates",
+    "fullname": "Esha Rohit Oza",
+    "birth_place": "Mumbai, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "All-rounder",
+    "T20Idebutdate": "7 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "7",
+    "lastT20Idate": "25 April",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/1126416.html Cricinfo ",
+    "WT20I": {
+        "matches": "46",
+        "runs": "1138",
+        "bat avg": "29.17",
+        "100s/50s": "2/4",
+        "deliveries": "540",
+        "wickets": "30",
+        "bowl avg": "13.06",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/0",
+        "catches/stumpings": "10/1"
+    },
+    "clubs": {
+        "Desert Cubs Cricket Academy": "2017/18",
+        "Mumbai Women": "2019\u2013present"
+    },
+    "birth_date": "1998-8-1"
+}

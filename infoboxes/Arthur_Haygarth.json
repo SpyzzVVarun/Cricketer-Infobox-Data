@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Haygarth",
+    "country": "England",
+    "birth_place": "Hastings, Sussex, England",
+    "death_date": "df=yes",
+    "death_place": "Pimlico, Westminster, London, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "John Haygarth (second cousin)",
+    "source": "https://cricketarchive.com/Players/4/4187/4187.html CricketArchive ",
+    "First-class": {
+        "matches": "136",
+        "runs": "3,042",
+        "bat avg": "13.05",
+        "100s/50s": "0/7",
+        "top score": "97",
+        "deliveries": "295",
+        "wickets": "19",
+        "bowl avg": "7.68",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "6/37",
+        "catches/stumpings": "65/\u2013"
+    },
+    "clubs": {
+        "MCC": "1844\u20131861",
+        "Sussex": "1848\u20131860"
+    },
+    "birth_date": "1825-08-04"
+}

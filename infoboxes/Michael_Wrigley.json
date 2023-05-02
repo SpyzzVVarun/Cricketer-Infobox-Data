@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Michael Harold Wrigley",
+    "birth_place": "Rostherne, Cheshire, England",
+    "death_date": "df=y",
+    "death_place": "Leeds, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/23246.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "71",
+        "bat avg": "5.91",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "2,548",
+        "wickets": "48",
+        "bowl avg": "22.41",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/57",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1948\u20131950",
+        "Marylebone Cricket Club": "1948"
+    }
+}

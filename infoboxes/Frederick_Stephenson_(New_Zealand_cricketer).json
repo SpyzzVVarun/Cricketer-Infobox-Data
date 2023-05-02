@@ -1,0 +1,29 @@
+{
+    "name": "Frederick Stephenson",
+    "fullname": "Frederick Charles Stephenson",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "21 April 1944",
+    "death_place": "Wellington, New Zealand",
+    "bowling": "Right-arm Right-arm off-spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/38557.html Cricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "155",
+        "bat avg": "7.38",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "1521",
+        "wickets": "27",
+        "bowl avg": "25.37",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/58",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Otago": "1890-91",
+        "Wellington": "1891-92, 1897-98 to 1904-05",
+        "Canterbury": "1895-95 to 1896-97"
+    }
+}

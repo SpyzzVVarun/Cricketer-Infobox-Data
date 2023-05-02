@@ -1,0 +1,54 @@
+{
+    "name": "Sudesh Dhaniram",
+    "country": "United States",
+    "birth_place": "Port Mourant, Berbice, Guyana",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "https://cricketarchive.com/Archive/Players/8/8124/8124.html CricketArchive ",
+    "FC": {
+        "matches": "46",
+        "runs": "2,040",
+        "bat avg": "29.14",
+        "100s/50s": "4/10",
+        "top score": "131",
+        "deliveries": "398",
+        "wickets": "4",
+        "bowl avg": "60.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/55",
+        "catches/stumpings": "22/\u2013"
+    },
+    "LA": {
+        "matches": "37",
+        "runs": "667",
+        "bat avg": "19.61",
+        "100s/50s": "0/2",
+        "deliveries": "233",
+        "wickets": "8",
+        "bowl avg": "21.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "62.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Guyana": "1986/87&ndash;1996/97",
+        "Berbice": "1986/87&ndash;1988/89"
+    },
+    "birth_date": "1967-1-14"
+}

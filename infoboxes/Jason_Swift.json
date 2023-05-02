@@ -1,0 +1,20 @@
+{
+    "name": "Jason Swift",
+    "fullname": "Jason John Swift",
+    "birth_place": "Muswellbrook, New South Wales",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/7/7068/7068.html CricketArchive ",
+    "List A": {
+        "matches": "9",
+        "runs": "97",
+        "bat avg": "12.12",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "3/-"
+    },
+    "clubs": {
+        "ACT Comets": "1998-1999"
+    },
+    "birth_date": "1970-10-30"
+}

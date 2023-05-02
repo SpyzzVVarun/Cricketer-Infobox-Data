@@ -1,0 +1,32 @@
+{
+    "name": "Bill Dow",
+    "fullname": "William David Fraser Dow",
+    "country": "Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "30 June",
+    "debutyear1": "1956",
+    "debutfor1": "Scotland",
+    "debutagainst1": "Ireland",
+    "lastdate1": "29 July",
+    "lastyear1": "1967",
+    "lastfor1": "Scotland",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.espncricinfo.com/scotland/content/player/25437.html ESPNCricinfo",
+    "First-class": {
+        "matches": "13",
+        "runs": "107",
+        "bat avg": "8.91",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "2,144",
+        "wickets": "38",
+        "bowl avg": "26.71",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "6/56",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

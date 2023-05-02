@@ -1,0 +1,29 @@
+{
+    "name": "Douglas Greasley",
+    "country": "England",
+    "fullname": "Douglas George Greasley",
+    "birth_place": "East Hull, Yorkshire, England",
+    "death_date": "2011",
+    "death_place": "Kettering, Northamptonshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/29/29754/29754.html CricketArchive ",
+    "FC": {
+        "matches": "55",
+        "runs": "1,659",
+        "bat avg": "22.41",
+        "100s/50s": "1/7",
+        "deliveries": "1,180",
+        "wickets": "16",
+        "bowl avg": "35.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "22/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "1950\u20131955"
+    },
+    "birth_date": "1926-1-20"
+}

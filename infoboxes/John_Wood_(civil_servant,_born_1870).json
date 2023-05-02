@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Barry Wood",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Virginia Water, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm underarm Right-arm underarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/23150.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "384",
+        "bat avg": "14.22",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "deliveries": "2,052",
+        "wickets": "53",
+        "bowl avg": "26.39",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/68",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1891&ndash;1893"
+    }
+}

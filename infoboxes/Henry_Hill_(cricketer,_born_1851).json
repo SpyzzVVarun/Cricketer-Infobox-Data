@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Henry James Hill",
+    "birth_place": "Edmonton, Middlesex, England",
+    "death_date": "1905",
+    "death_place": "Bayswater, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14812.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "31",
+        "bat avg": "4.42",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1880&ndash;1883"
+    }
+}

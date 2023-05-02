@@ -1,0 +1,51 @@
+{
+    "name": "Bob Wyatt",
+    "country": "England",
+    "fullname": "Robert Elliott Storey Wyatt",
+    "birth_place": "Milford, Surrey, England",
+    "death_date": "1995",
+    "death_place": "Truro, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1927",
+    "testdebutagainst": "South Africa",
+    "testcap": "231",
+    "lasttestdate": "3 March",
+    "lasttestyear": "1937",
+    "lasttestagainst": "Australia",
+    "source": "https://www.espncricinfo.com/player/bob-wyatt-22545 Cricinfo ",
+    "Test": {
+        "matches": "40",
+        "runs": "1,839",
+        "bat avg": "31.70",
+        "100s/50s": "2/12",
+        "top score": "149",
+        "deliveries": "1,395",
+        "wickets": "18",
+        "bowl avg": "35.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/4",
+        "catches/stumpings": "16/\u2013"
+    },
+    "First-class": {
+        "matches": "739",
+        "runs": "39,405",
+        "bat avg": "40.04",
+        "100s/50s": "85/208",
+        "top score": "232",
+        "deliveries": "65,382",
+        "wickets": "901",
+        "bowl avg": "32.84",
+        "fivefor": "31",
+        "tenfor": "2",
+        "best bowling": "7/43",
+        "catches/stumpings": "415/1"
+    },
+    "clubs": {
+        "Warwickshire": "1923\u20131939",
+        "Worcestershire": "1946\u20131951"
+    },
+    "birth_date": "1901-5-2"
+}

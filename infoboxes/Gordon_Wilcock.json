@@ -1,0 +1,41 @@
+{
+    "name": "Gordon Wilcock",
+    "country": "England",
+    "fullname": "Howard Gordon Wilcock",
+    "birth_place": "New Malden, Surrey, England",
+    "role": "Wicket-keeper",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/33/33855/33855.html CricketArchive ",
+    "FC": {
+        "matches": "99",
+        "runs": "1,697",
+        "bat avg": "16.00",
+        "100s/50s": "0/1",
+        "top score": "74",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "177/17"
+    },
+    "LA": {
+        "matches": "84",
+        "runs": "462",
+        "bat avg": "12.83",
+        "100s/50s": "0/0",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "\u2013",
+        "catches/stumpings": "54/9"
+    },
+    "clubs": {
+        "Worcestershire": "1971\u20131978"
+    },
+    "birth_date": "1950-2-26"
+}

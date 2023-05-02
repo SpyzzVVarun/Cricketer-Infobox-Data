@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Brodhurst",
+    "full_name": "Arthur Hugh Brodhurst",
+    "birth_place": "Buenos Aires, Argentina",
+    "death_date": "df=yes",
+    "death_place": "Winchester, England",
+    "nickname": "Podge",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "family": "Harry Altham (father-in-law)",
+    "source": "https://cricketarchive.com/Archive/Players/28/28153/28153.html CricketArchive",
+    "FC": {
+        "matches": "20",
+        "runs": "658",
+        "bat avg": "21.22",
+        "100s/50s": "2/1",
+        "top score": "111",
+        "deliveries": "614",
+        "wickets": "6",
+        "bowl avg": "53.50",
+        "best bowling": "4 for 83",
+        "catches/stumpings": "8"
+    },
+    "clubs": {
+        "Cambridge University": "1937\u201339",
+        "Gloucestershire": "1939\u201346",
+        "Marylebone Cricket Club (MCC)": "1951"
+    },
+    "birth_date": "1916-7-21"
+}

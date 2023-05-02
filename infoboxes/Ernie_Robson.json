@@ -1,0 +1,40 @@
+{
+    "name": "Ernie Robson",
+    "country": "England",
+    "fullname": "Ernest Robson",
+    "birth_place": "Leeds, Yorkshire, England",
+    "death_date": "1924",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "13 May",
+    "debutyear1": "1895",
+    "debutfor1": "Cr team Somerset",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "11 July",
+    "lastyear1": "1923",
+    "lastfor1": "Cr team Somerset",
+    "lastagainst1": "Cr team Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3792/3792.html CricketArchive ",
+    "First-class": {
+        "matches": "432",
+        "runs": "12620",
+        "bat avg": "17.62",
+        "100s/50s": "5/48",
+        "deliveries": "64133",
+        "wickets": "1147",
+        "bowl avg": "26.43",
+        "fivefor": "58",
+        "tenfor": "5",
+        "best bowling": "8/35",
+        "catches/stumpings": "258/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1891\u20131893",
+        "Cr team Somerset": "1895\u20131923",
+        "London County": "1900\u20131903"
+    },
+    "birth_date": "1870-05-01"
+}

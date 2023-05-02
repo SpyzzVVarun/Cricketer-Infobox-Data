@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Felix Donovan Jenner",
+    "birth_place": "Hastings, Sussex, England",
+    "death_date": "1953",
+    "death_place": "Hampstead, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium, Right-arm off Right-arm medium, Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/15676.html Cricinfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "595",
+        "bat avg": "12.14",
+        "100s/50s": "&ndash;/1",
+        "top score": "55",
+        "deliveries": "126",
+        "wickets": "2",
+        "bowl avg": "33.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/34",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Durham": "1924",
+        "Sussex": "1919&ndash;1921"
+    },
+    "birth_date": "1892-11-15"
+}

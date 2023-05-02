@@ -1,0 +1,40 @@
+{
+    "name": "Javelle Glen",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/1152716.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "22",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013/\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "13",
+        "runs": "133",
+        "bat avg": "16.62",
+        "100s/50s": "0/0",
+        "deliveries": "60",
+        "wickets": "7",
+        "bowl avg": "8.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Jamaica Tallawahs": "2019",
+        "St Lucia Zouks( 31 )": "2020-present",
+        "Jamaica": "2021-"
+    },
+    "birth_date": "1998-2-26"
+}

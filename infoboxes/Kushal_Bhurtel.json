@@ -1,0 +1,58 @@
+{
+    "name": "Kushal Bhurtel",
+    "country": "Nepal",
+    "fullname": "Kushal Bhurtel",
+    "birth_place": "Butwal,  Rupandehi Nepal",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening batter",
+    "odidebutdate": "7 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "PNG",
+    "odicap": "25",
+    "lastodidate": "1 May",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "T20Idebutdate": "17 April",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "33",
+    "lastT20Idate": "4 April",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "PNG",
+    "source": "http://www.espncricinfo.com/ci/content/player/794713.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "ODI": {
+        "matches": "26",
+        "runs": "557",
+        "bat avg": "22.28",
+        "100s/50s": "1/3",
+        "top score": "115",
+        "catches/stumpings": "22/\u2013"
+    },
+    "T20I": {
+        "matches": "11",
+        "runs": "498",
+        "bat avg": "71.14",
+        "100s/50s": "1/5",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "32",
+        "runs": "699",
+        "bat avg": "23.30",
+        "100s/50s": "1/4",
+        "top score": "115",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1997-1-22",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

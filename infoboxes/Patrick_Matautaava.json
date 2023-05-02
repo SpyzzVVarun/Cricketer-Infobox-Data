@@ -1,0 +1,24 @@
+{
+    "name": "Patrick Matautaava",
+    "country": "Vanuatu",
+    "T20Idebutdate": "9 July",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "PNG",
+    "T20Icap": "15",
+    "lastT20Idate": "16 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Fiji",
+    "source": "http://www.espncricinfo.com/ci/content/player/352286.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1991-9-27",
+    "medaltemplates": [
+        "Country: {{VAN}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Gold Medal: 2015 Port Moresby 20 over cricket",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

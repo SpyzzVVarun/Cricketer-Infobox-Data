@@ -1,0 +1,31 @@
+{
+    "name": "Sam Wisniewski",
+    "fullname": "Sam Alex Wisniewski",
+    "birth_place": "Huddersfield, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm unorthodox",
+    "type1": "Twenty20",
+    "debutdate1": "17 September",
+    "debutyear1": "2020",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Lancashire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1232547.html Cricinfo ",
+    "Twenty20": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2020\u2013present"
+    },
+    "birth_date": "2001-10-2"
+}

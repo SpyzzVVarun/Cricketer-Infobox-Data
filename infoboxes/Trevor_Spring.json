@@ -1,0 +1,39 @@
+{
+    "name": "Trevor Spring",
+    "country": "England",
+    "fullname": "Trevor Coleridge Spring",
+    "birth_place": "Kidderpore, Bengal, India",
+    "death_date": "1926",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "bowling": "Not Not known",
+    "type1": "First-class",
+    "debutdate1": "20 May",
+    "debutyear1": "1909",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "29 May",
+    "lastyear1": "1919",
+    "lastfor1": "Army",
+    "lastagainst1": "Cambridge University",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3825/3825.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "324",
+        "bat avg": "18.00",
+        "100s/50s": "1/0",
+        "top score": "117",
+        "deliveries": "84",
+        "wickets": "3",
+        "bowl avg": "23.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/59",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Army": "1912\u20131919",
+        "Somerset": "1909\u20131910"
+    },
+    "birth_date": "1882-3-6"
+}

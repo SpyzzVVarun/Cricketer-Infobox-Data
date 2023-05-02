@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Henry Royston",
+    "birth_place": "Harrow on the Hill, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "St John's Wood, London, England",
+    "heightft": "5",
+    "heightinch": "6",
+    "nickname": "Cocky",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/19858.html Cricinfo ",
+    "First-class": {
+        "matches": "68",
+        "runs": "1,065",
+        "bat avg": "10.44",
+        "100s/50s": "\u2013/2",
+        "top score": "60",
+        "deliveries": "1,796",
+        "wickets": "110",
+        "bowl avg": "12.01",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "8/44",
+        "catches/stumpings": "28/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1843&ndash;1861",
+        "Middlesex": "1850&ndash;1862"
+    }
+}

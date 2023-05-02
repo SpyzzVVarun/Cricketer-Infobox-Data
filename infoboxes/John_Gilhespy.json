@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "John William Edward Gilhespy",
+    "birth_place": "Penzance, Cornwall, England",
+    "death_date": "4 July 1959",
+    "death_place": "Roehampton, Surrey, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/28956.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "deliveries": "72",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "1921&ndash;1924",
+        "Europeans": "1923/24"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Alfred Morris",
+    "birth_place": "West Hartlepool,, County Durham, England",
+    "death_date": "1961",
+    "death_place": "Lancaster Moor, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17687.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "251",
+        "wickets": "10",
+        "bowl avg": "8.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/50",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1912",
+        "Durham": "1905&ndash;1914"
+    },
+    "birth_date": "1876-9-11"
+}

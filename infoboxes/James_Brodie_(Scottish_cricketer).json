@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "James Lothian Brodie",
+    "birth_place": "Glasgow, Lanarkshire, Scotland",
+    "death_date": "1939",
+    "death_place": "Glasgow, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/james-brodie-25155 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "57",
+        "bat avg": "11.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1924&ndash;1925"
+    }
+}

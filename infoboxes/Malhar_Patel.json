@@ -1,0 +1,43 @@
+{
+    "name": "Malhar Patel",
+    "country": "Kenya",
+    "fullname": "Malhar L. Patel",
+    "nickname": "Malo",
+    "birth_place": "Mathare, Nairobi, Kenya",
+    "internationalspan": "2004\u20132006",
+    "odidebutdate": "14 September",
+    "odidebutyear": "2004",
+    "odidebutagainst": "Pakistan",
+    "odicap": "29",
+    "lastodidate": "14 November",
+    "lastodiyear": "2006",
+    "lastodiagainst": "Bermuda",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/kenya/content/player/24784.html Cricinfo  ",
+    "ODI": {
+        "matches": "3",
+        "runs": "40",
+        "bat avg": "13.33",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "6",
+        "runs": "84",
+        "bat avg": "8.40",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "3/0"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "55",
+        "bat avg": "7.85",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {},
+    "birth_date": "1983-11-27"
+}

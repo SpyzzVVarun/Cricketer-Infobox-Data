@@ -1,0 +1,29 @@
+{
+    "country": "Scotland",
+    "fullname": "William Neil White",
+    "birth_place": "Troon, Ayrshire, Scotland",
+    "death_date": "1990",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/22923.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "19.00",
+        "bat avg": "6.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "19",
+        "deliveries": "252",
+        "wickets": "4",
+        "bowl avg": "26.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/16",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cambridge University": "1948",
+        "Cambridgeshire": "1947&ndash;1949"
+    },
+    "birth_date": "1920-5-2"
+}

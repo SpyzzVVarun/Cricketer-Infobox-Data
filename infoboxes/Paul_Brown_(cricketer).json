@@ -1,0 +1,26 @@
+{
+    "name": "Paul Brown",
+    "country": "England",
+    "fullname": "Paul Anthony Brown",
+    "birth_place": "Crediton, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10293.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "93",
+        "bat avg": "93.00",
+        "100s/50s": "\u2013/1",
+        "deliveries": "144",
+        "wickets": "2",
+        "bowl avg": "66.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/49",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Devon": "1981\u20131990"
+    },
+    "birth_date": "1965-5-13"
+}

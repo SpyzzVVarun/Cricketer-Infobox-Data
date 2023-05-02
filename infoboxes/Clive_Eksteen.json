@@ -1,0 +1,38 @@
+{
+    "name": "Clive Eksteen",
+    "fullname": "Clive Edward Eksteen",
+    "birth_place": "Johannesburg, South Africa",
+    "country": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/ci/content/player/44954.html CricInfo ",
+    "Test": {
+        "matches": "7",
+        "runs": "91",
+        "bat avg": "10.11",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "1,536",
+        "wickets": "8",
+        "bowl avg": "61.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "5/\u2013"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "6",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "222",
+        "wickets": "2",
+        "bowl avg": "90.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/26",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2 December 1966"
+}

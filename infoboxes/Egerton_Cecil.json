@@ -1,0 +1,30 @@
+{
+    "name": "Egerton Cecil",
+    "country": "England",
+    "fullname": "Egerton Dodge Cooper Cecil",
+    "birth_place": "Worthing, Sussex, England",
+    "death_date": "1928",
+    "death_place": "Mortlake, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "family": "Aubrey Cecil (brother)",
+    "source": "http://www.cricinfo.com/england/content/player/10698.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "18",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1875"
+    },
+    "birth_date": "1853-7-4"
+}

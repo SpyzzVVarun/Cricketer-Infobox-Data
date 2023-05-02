@@ -1,0 +1,25 @@
+{
+    "name": "Soraya Lateh",
+    "female": "true",
+    "country": "Thailand",
+    "birth_place": "Pattani, url=https://www.cricket.com.au/players/soraya-lateh/QeBwfA-DREKz8Se86rkTRw   Thailand",
+    "T20Idebutdate": "24 February",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Kuwait",
+    "T20Icap": "15",
+    "lastT20Idate": "3 March",
+    "lastT20Iyear": "2020",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/944293.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1999-3-15",
+    "medaltemplates": [
+        "Country: {{THA}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

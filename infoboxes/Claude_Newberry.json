@@ -1,0 +1,47 @@
+{
+    "name": "Claude Newberry",
+    "birth_place": "Port Elizabeth, Cape Colony",
+    "death_date": "1 August 1916 (aged 27)",
+    "death_place": "Delville Wood, Somme, France",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "26 December",
+    "testdebutyear": "1913",
+    "lasttestdate": "27 February",
+    "lasttestagainst": "England",
+    "lasttestyear": "1914",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46574.html Cricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "62",
+        "bat avg": "7.75",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "558",
+        "wickets": "11",
+        "bowl avg": "24.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/72",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "16",
+        "runs": "251",
+        "bat avg": "11.95",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "2,123",
+        "wickets": "49",
+        "bowl avg": "24.75",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/28",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1910/11\u20131913/14"
+    }
+}

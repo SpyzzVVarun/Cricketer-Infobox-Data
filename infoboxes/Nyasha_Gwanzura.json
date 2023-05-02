@@ -1,0 +1,51 @@
+{
+    "name": "Nyasha Gwanzura",
+    "female": "true",
+    "country": "Zimbabwe",
+    "odidebutdate": "9 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "13",
+    "lastodidate": "27 November",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "30 August",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "19",
+    "lastT20Idate": "24 April",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/922491.html Cricinfo ",
+    "WODI": {
+        "matches": "5",
+        "runs": "88",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "5",
+        "runs": "24",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Mountaineers": "2020/21\u2013present"
+    },
+    "birth_date": "1996-1-14"
+}

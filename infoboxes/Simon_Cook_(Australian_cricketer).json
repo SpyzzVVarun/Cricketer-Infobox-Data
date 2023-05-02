@@ -1,0 +1,58 @@
+{
+    "name": "Simon Cook",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Australia",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "20 November",
+    "testdebutyear": "1997",
+    "testcap": "373",
+    "lasttestdate": "27 November",
+    "lasttestagainst": "New Zealand",
+    "lasttestyear": "1997",
+    "source": "http://www.cricinfo.com/australia/content/player/4619.html ESPNCricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "224",
+        "wickets": "7",
+        "bowl avg": "20.28",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "32",
+        "runs": "174",
+        "bat avg": "8.69",
+        "100s/50s": "0/00",
+        "top score": "27",
+        "deliveries": "4,821",
+        "wickets": "84",
+        "bowl avg": "30.82",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/39",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "22",
+        "bat avg": "3.66",
+        "100s/50s": "0/0",
+        "deliveries": "730",
+        "wickets": "15",
+        "bowl avg": "37.13",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1993/94\u20131994/95",
+        "New South Wales": "1995/96\u20132000/01"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Howard Lawson",
+    "country": "England",
+    "fullname": "Howard Maurice Lawson",
+    "birth_place": "Bournemouth, Hampshire, England",
+    "death_date": "2006",
+    "death_place": "Worthing, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Maurice Lawson (Father)",
+    "source": "http://www.cricinfo.com/ci/content/player/16225.html Cricinfo ",
+    "FC": {
+        "matches": "46",
+        "runs": "560",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "53",
+        "deliveries": "5,076",
+        "wickets": "71",
+        "bowl avg": "36.23",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "5/91",
+        "catches/stumpings": "18/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1935&ndash;1937"
+    },
+    "birth_date": "1914-5-22"
+}

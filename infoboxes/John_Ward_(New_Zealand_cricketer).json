@@ -1,0 +1,36 @@
+{
+    "name": "John Ward",
+    "fullname": "John Thomas Ward",
+    "birth_place": "Timaru, New Zealand",
+    "death_date": "2021",
+    "death_place": "Timaru, New Zealand",
+    "family": "Barry Ward (son)",
+    "internationalspan": "1964\u20131968",
+    "country": "New Zealand",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "21 February",
+    "testdebutyear": "1964",
+    "testcap": "99",
+    "lasttestdate": "7 March",
+    "lasttestagainst": "India",
+    "lasttestyear": "1968",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38741.html CricInfo ",
+    "Test": {
+        "matches": "8",
+        "runs": "75",
+        "bat avg": "12.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "16/1"
+    },
+    "First-class": {
+        "matches": "95",
+        "runs": "1,117",
+        "bat avg": "12.41",
+        "100s/50s": "0/1",
+        "catches/stumpings": "227/27"
+    },
+    "clubs": {},
+    "birth_date": "1937-3-11"
+}

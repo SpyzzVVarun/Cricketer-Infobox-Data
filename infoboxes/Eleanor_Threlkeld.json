@@ -1,0 +1,32 @@
+{
+    "name": "Ellie Threlkeld",
+    "female": "true",
+    "country": "England",
+    "fullname": "Eleanor Threlkeld",
+    "birth_place": "Knowsley, Merseyside, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1018/1018539/1018539.html CricketArchive ",
+    "WLA": {
+        "matches": "61",
+        "runs": "998",
+        "bat avg": "18.83",
+        "100s/50s": "0/5",
+        "top score": "91",
+        "catches/stumpings": "36/27"
+    },
+    "WT20": {
+        "matches": "108",
+        "runs": "1,088",
+        "bat avg": "16.73",
+        "100s/50s": "0/4",
+        "catches/stumpings": "31/66"
+    },
+    "clubs": {
+        "Lancashire": "2013\u2013present",
+        "Lancashire Thunder": "2016\u20132019",
+        "North West Thunder": "2020\u2013present",
+        "Manchester Originals": "2021\u2013present"
+    },
+    "birth_date": "1998-11-16"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Bill Watkins",
+    "country": "England",
+    "fullname": "William Martin Watkins",
+    "birth_place": "Swansea, Glamorgan, Wales",
+    "death_date": "2005",
+    "death_place": "Killay, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg break Right-arm leg break googly",
+    "source": "http://www.cricinfo.com/ci/content/player/22331.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1950"
+    },
+    "birth_date": "1923-1-18"
+}

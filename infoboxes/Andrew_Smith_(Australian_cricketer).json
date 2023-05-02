@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Smith",
+    "birth_place": "Port Adelaide, South Australia, Australia",
+    "death_date": "1983",
+    "death_place": "Adelaide, South Australia, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Legbreak Legbreak googly",
+    "source": "https://www.espncricinfo.com/australia/content/player/7804.html Cricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "774",
+        "bat avg": "33.65",
+        "100s/50s": "2/3",
+        "top score": "122",
+        "deliveries": "?",
+        "wickets": "17",
+        "bowl avg": "48.76",
+        "fivefor": "1",
+        "tenfor": "-",
+        "best bowling": "5/120",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1889-9-1"
+}

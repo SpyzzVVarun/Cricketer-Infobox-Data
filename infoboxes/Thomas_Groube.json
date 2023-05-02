@@ -1,0 +1,49 @@
+{
+    "name": "Tom Groube",
+    "fullname": "Thomas Underwood Groube",
+    "birth_place": "New Plymouth, Taranaki, New Zealand",
+    "death_date": "1927",
+    "death_place": "Melbourne, Australia",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "country": "Australia",
+    "testdebutdate": "6 September",
+    "testdebutyear": "1880",
+    "lasttestdate": "6 September",
+    "lasttestyear": "1880",
+    "source": "http://www.espncricinfo.com/ci/content/player/5446.html Cricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "13",
+        "runs": "179",
+        "bat avg": "8.52",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Victoria": "1878-79 to 1881-82"
+    },
+    "birth_date": "1857-9-2"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "David Halfyard",
+    "country": "England",
+    "fullname": "David John Halfyard",
+    "birth_place": "Winchmore Hill, Middlesex",
+    "death_date": "1996",
+    "death_place": "Northam, Devon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/13998.html CricInfo ",
+    "First-class": {
+        "matches": "264",
+        "runs": "3,242",
+        "bat avg": "10.91",
+        "100s/50s": "0/2",
+        "top score": "79",
+        "deliveries": "55,815",
+        "wickets": "963",
+        "bowl avg": "25.77",
+        "fivefor": "55",
+        "tenfor": "13",
+        "best bowling": "9/39",
+        "catches/stumpings": "112/\u2013"
+    },
+    "List A": {
+        "matches": "44",
+        "runs": "228",
+        "bat avg": "7.60",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "2,353",
+        "wickets": "59",
+        "bowl avg": "23.69",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/19",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Kent": "1956\u20131964",
+        "Nottinghamshire": "1968\u20131970",
+        "Durham": "1971\u20131972",
+        "Northumberland": "1973",
+        "Cornwall": "1974\u20131982"
+    },
+    "birth_date": "1931-4-3"
+}

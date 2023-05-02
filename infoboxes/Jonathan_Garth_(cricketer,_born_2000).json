@@ -1,0 +1,61 @@
+{
+    "name": "Jonathan Garth",
+    "country": "Ireland",
+    "fullname": "Jonathan James Garth",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "family": "Jonathan Garth (father)",
+    "type1": "FC",
+    "debutdate1": "5 January",
+    "debutyear1": "2019",
+    "debutfor1": "Ireland A",
+    "debutagainst1": "Sri Lanka A",
+    "source": "http://www.espncricinfo.com/ci/content/player/1112207.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "70",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "390",
+        "wickets": "7",
+        "bowl avg": "39.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/140",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "55",
+        "bat avg": "13.75",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "354",
+        "wickets": "3",
+        "bowl avg": "129.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "7",
+        "runs": "50",
+        "bat avg": "16.66",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "126",
+        "wickets": "4",
+        "bowl avg": "41.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Munster Reds": "2019\u20132020",
+        "Leinster Lightning": "2021"
+    },
+    "birth_date": "2000-12-19"
+}

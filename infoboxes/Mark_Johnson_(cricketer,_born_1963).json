@@ -1,0 +1,44 @@
+{
+    "name": "Mark Johnson",
+    "country": "United States",
+    "fullname": "Mark Rickland Johnson",
+    "birth_place": "Jamaica",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "10 September",
+    "odidebutyear": "2004",
+    "odidebutagainst": "New Zealand",
+    "odicap": "5",
+    "lastodidate": "13 September",
+    "lastodiyear": "2004",
+    "lastodiagainst": "Australia",
+    "odishirt": "12",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/21/21156/21156.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "1/0"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "106",
+        "bat avg": "26.50",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "0",
+        "catches/stumpings": "6/0"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "212",
+        "bat avg": "13.25",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "catches/stumpings": "14/5"
+    },
+    "clubs": {},
+    "birth_date": "1963-10-28"
+}

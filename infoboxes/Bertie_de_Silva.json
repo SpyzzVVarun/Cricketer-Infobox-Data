@@ -1,0 +1,29 @@
+{
+    "name": "Bertie de Silva",
+    "country": "Sri Lanka",
+    "fullname": "John Albert de Silva",
+    "birth_place": "Colombo, Ceylon",
+    "death_date": "1981",
+    "death_place": "Colombo",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/48626.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "214",
+        "bat avg": "19.45",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "deliveries": "432",
+        "wickets": "4",
+        "bowl avg": "46.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Oxford University": "1924 to 1927"
+    },
+    "birth_date": "1901-1-19"
+}

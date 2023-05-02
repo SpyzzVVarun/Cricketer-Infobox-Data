@@ -1,0 +1,24 @@
+{
+    "name": "Akbar-ur-Rehman",
+    "fullname": "Akbar-ur-Rehman",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "role": "All-rounder",
+    "source": "http://m.espncricinfo.com/pakistan/content/player/276297.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Karachi Zebras": "2008\u20132015/16",
+        "Quetta Gladiators": "2016\u20132017",
+        "Balochistan": "2018\u20132020/21"
+    },
+    "birth_date": "1983-9-14",
+    "medaltemplates": [
+        "Country: {{PAK}}",
+        "Sport: Men's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2010 Guangzhou Team"
+    ]
+}

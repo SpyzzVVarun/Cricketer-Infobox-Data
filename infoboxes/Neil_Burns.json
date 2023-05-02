@@ -1,0 +1,28 @@
+{
+    "name": "Neil Burns",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/9307.html ESPNcricinfo",
+    "First-class": {
+        "matches": "205",
+        "runs": "7,376",
+        "bat avg": "30.47",
+        "100s/50s": "7/40",
+        "top score": "166",
+        "catches/stumpings": "478/38"
+    },
+    "List A": {
+        "matches": "231",
+        "runs": "2,799",
+        "bat avg": "20.28",
+        "100s/50s": "0/8",
+        "catches/stumpings": "238/48"
+    },
+    "clubs": {
+        "Western Province B": "1985/86",
+        "Essex": "1986",
+        "Somerset": "1987\u20131993",
+        "Buckinghamshire": "1995\u20131999",
+        "Leicestershire": "2000\u20132002"
+    }
+}

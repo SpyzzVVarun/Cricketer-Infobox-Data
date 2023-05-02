@@ -1,0 +1,26 @@
+{
+    "name": "Henry Misselbrook",
+    "country": "England",
+    "birth_place": "Otterbourne, Hampshire, England",
+    "death_date": "1895",
+    "death_place": "Winchester, Hampshire, England",
+    "source": "http://www.cricinfo.com/ci/content/player/17041.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "3",
+        "deliveries": "168",
+        "wickets": "6",
+        "bowl avg": "6.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/18",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1869"
+    },
+    "birth_date": "1832-12-16"
+}

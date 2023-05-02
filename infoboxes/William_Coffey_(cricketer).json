@@ -1,0 +1,24 @@
+{
+    "country": "Ireland",
+    "fullname": "Wilfred Noel Maxwell Hutton",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/24576.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "90",
+        "wickets": "3",
+        "bowl avg": "13.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/40",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

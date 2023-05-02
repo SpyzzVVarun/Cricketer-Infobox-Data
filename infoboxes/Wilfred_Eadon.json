@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Wilfred Myles Eadon",
+    "birth_place": "Torry Hill, Kent, England",
+    "death_date": "November 1999 (aged 84)",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/12581.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "102",
+        "wickets": "3",
+        "bowl avg": "29.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/61",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1934"
+    }
+}

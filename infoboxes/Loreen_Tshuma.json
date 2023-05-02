@@ -1,0 +1,51 @@
+{
+    "name": "Loreen Tshuma",
+    "female": "true",
+    "country": "Zimbabwe",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "11",
+    "lastodidate": "27 November",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "28 August",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "18",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Thailand",
+    "source": "http://www.espncricinfo.com/ci/content/player/538593.html Cricinfo ",
+    "WODI": {
+        "matches": "6",
+        "runs": "22",
+        "bat avg": "4.40",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "216",
+        "wickets": "3",
+        "bowl avg": "50.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/22",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20I": {
+        "matches": "10",
+        "runs": "33",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "deliveries": "174",
+        "wickets": "14",
+        "bowl avg": "10.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/11",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Tuskers": "2021/22\u2013present"
+    },
+    "birth_date": "1996-11-27"
+}

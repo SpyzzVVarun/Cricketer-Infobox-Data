@@ -1,0 +1,28 @@
+{
+    "name": "Nick Majendie",
+    "country": "England",
+    "fullname": "Nicholas Lionel Majendie",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/england/content/player/17283.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "313",
+        "bat avg": "11.59",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "64/4"
+    },
+    "clubs": {
+        "Oxford University": "1961\u20131963",
+        "Surrey": "1963"
+    },
+    "birth_date": "1942-6-9"
+}

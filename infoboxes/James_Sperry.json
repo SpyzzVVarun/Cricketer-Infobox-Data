@@ -1,0 +1,40 @@
+{
+    "name": "James Sperry",
+    "country": "England",
+    "fullname": "James Sperry",
+    "nickname": "Jim",
+    "birth_place": "Thornton, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Thornton, Leicestershire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "19 June",
+    "debutyear1": "1937",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "10 June",
+    "lastyear1": "1952",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Essex",
+    "source": "https://cricketarchive.com/Archive/Players/32/32960/32960.html CricketArchive ",
+    "First-class": {
+        "matches": "188",
+        "runs": "1193",
+        "bat avg": "7.18",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "33139",
+        "wickets": "492",
+        "bowl avg": "28.36",
+        "fivefor": "19",
+        "tenfor": "4",
+        "best bowling": "7/19",
+        "catches/stumpings": "52/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1937\u201352"
+    },
+    "birth_date": "1910-3-19"
+}

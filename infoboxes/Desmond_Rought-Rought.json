@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Desmond Charles Rought-Rought",
+    "birth_place": "Brandon, Suffolk, England",
+    "death_date": "1970",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "family": "Basil Rought-Rought (brother), Rodney Rought-Rought (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/19834.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "739",
+        "bat avg": "21.73",
+        "100s/50s": "&ndash;/2",
+        "top score": "92",
+        "deliveries": "4,492",
+        "wickets": "74",
+        "bowl avg": "28.77",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/100",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1935&ndash;1939",
+        "Cambridge University": "1934&ndash;1937",
+        "Norfolk": "1931&ndash;1947"
+    }
+}

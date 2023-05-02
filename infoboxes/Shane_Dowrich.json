@@ -1,0 +1,53 @@
+{
+    "name": "Shane Dowrich",
+    "country": "West Indies",
+    "fullname": "Shane Omari Dowrich",
+    "birth_place": "Barbados",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "3 June",
+    "testdebutyear": "2015",
+    "testdebutagainst": "Australia",
+    "testcap": "303",
+    "lasttestdate": "3 December",
+    "lasttestyear": "2020",
+    "lasttestagainst": "New Zealand",
+    "oneodi": "true",
+    "odidebutdate": "7 May",
+    "odidebutyear": "2019",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "191",
+    "source": "http://www.espncricinfo.com/ci/content/player/431905.html Cricinfo ",
+    "Test": {
+        "matches": "35",
+        "runs": "1,570",
+        "bat avg": "29.07",
+        "100s/50s": "3/9",
+        "catches/stumpings": "85/5"
+    },
+    "ODI": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "118",
+        "runs": "5,027",
+        "bat avg": "33.29",
+        "100s/50s": "7/30",
+        "catches/stumpings": "293/25"
+    },
+    "LA": {
+        "matches": "41",
+        "runs": "497",
+        "bat avg": "16.56",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "22/8"
+    },
+    "clubs": {},
+    "birth_date": "1991-10-30"
+}

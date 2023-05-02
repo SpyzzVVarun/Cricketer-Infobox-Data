@@ -1,0 +1,27 @@
+{
+    "name": "Peter Sabine",
+    "country": "England",
+    "fullname": "Peter Noel Barrington Sabine",
+    "birth_place": "Cookham Dean, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/australia/content/player/20562.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "420",
+        "bat avg": "21.00",
+        "100s/50s": "0/3",
+        "top score": "56",
+        "deliveries": "1236",
+        "wickets": "15",
+        "bowl avg": "36.86",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/51",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1962\u20131963"
+    },
+    "birth_date": "1941-9-21"
+}

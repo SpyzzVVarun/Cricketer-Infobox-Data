@@ -1,0 +1,50 @@
+{
+    "name": "Alfie Gleadall",
+    "country": "England",
+    "fullname": "Alfie Frank Gleadall",
+    "birth_place": "Chesterfield, Derbyshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "First-class",
+    "debutdate1": "9 June",
+    "debutyear1": "2018",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Durham",
+    "type2": "List A",
+    "debutdate2": "29 May",
+    "debutyear2": "2017",
+    "debutfor2": "Derbyshire",
+    "debutagainst2": "South Africa A",
+    "source": "https://www.espncricinfo.com/england/content/player/1094349.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "0/0",
+        "deliveries": "153",
+        "wickets": "1",
+        "bowl avg": "119.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "102",
+        "wickets": "3",
+        "bowl avg": "41.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/43",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "2017\u20132019"
+    },
+    "birth_date": "2000-5-28"
+}

@@ -1,0 +1,41 @@
+{
+    "country": "Denmark",
+    "fullname": "Thomas Munkholt Hansen",
+    "birth_place": "Glostrup, Region Hovedstaden, Denmark",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/23906.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "64",
+        "bat avg": "24",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12.80",
+        "deliveries": "540",
+        "wickets": "5",
+        "bowl avg": "54.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/59",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "List A": {
+        "matches": "23",
+        "runs": "270",
+        "bat avg": "22.50",
+        "100s/50s": "\u2013/1",
+        "top score": "51",
+        "deliveries": "967",
+        "wickets": "33",
+        "bowl avg": "21.03",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/30",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1997\u20131999",
+        "Denmark( 20 )": "2000\u20132004"
+    },
+    "birth_date": "1976-3-25"
+}

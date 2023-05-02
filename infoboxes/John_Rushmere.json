@@ -1,0 +1,30 @@
+{
+    "name": "John Rushmere",
+    "country": "South Africa",
+    "fullname": "John Weir Rushmere",
+    "birth_place": "Port Elizabeth, Cape Province, South Africa",
+    "heightft": "6",
+    "heightinch": "6",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "family": "Colin Rushmere (brother) Mark Rushmere (nephew)",
+    "source": "https://www.espncricinfo.com/player/john-rushmere-47080 Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "231",
+        "bat avg": "17.76",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "1456",
+        "wickets": "25",
+        "bowl avg": "28.48",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/32",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1960/61\u20131962/63"
+    },
+    "birth_date": "1939-4-1"
+}

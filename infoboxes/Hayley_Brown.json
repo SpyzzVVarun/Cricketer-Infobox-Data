@@ -1,0 +1,42 @@
+{
+    "name": "Hayley Brown",
+    "female": "true",
+    "fullname": "Hayley M Brown",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/987/987243/987243.html CricketArchive",
+    "WLA": {
+        "matches": "29",
+        "runs": "507",
+        "bat avg": "22.04",
+        "100s/50s": "1/2",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "11/\u2013"
+    },
+    "WT20": {
+        "matches": "44",
+        "runs": "581",
+        "bat avg": "18.74",
+        "100s/50s": "0/0",
+        "deliveries": "36",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Huntingdonshire": "2014",
+        "Northamptonshire": "2022\u2013present",
+        "Sunrisers": "2020",
+        "Essex": "2021"
+    },
+    "birth_date": "1998-3-25"
+}

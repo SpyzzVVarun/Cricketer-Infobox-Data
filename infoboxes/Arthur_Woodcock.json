@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Woodcock",
+    "country": "England",
+    "birth_place": "Northampton, Northamptonshire, England",
+    "death_date": "1910",
+    "death_place": "Billesdon, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/34/34034/34034.html  CricketArchive ",
+    "First-class": {
+        "matches": "137",
+        "runs": "1,547",
+        "bat avg": "8.31",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "23,446",
+        "wickets": "548",
+        "bowl avg": "25.90",
+        "fivefor": "38",
+        "tenfor": "19",
+        "best bowling": "9/28",
+        "catches/stumpings": "35/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1894\u20131908",
+        "MCC": "1895\u20131901",
+        "London County": "1900"
+    },
+    "birth_date": "1865-9-23"
+}

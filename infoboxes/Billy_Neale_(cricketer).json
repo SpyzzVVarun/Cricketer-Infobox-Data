@@ -1,0 +1,29 @@
+{
+    "name": "Billy Neale",
+    "country": "England",
+    "fullname": "William Legge Neale",
+    "birth_place": "Berkeley, Gloucestershire, England",
+    "death_date": "1955",
+    "death_place": "Gloucester, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm slow",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/player/william-neale-18078 CricInfo ",
+    "First-class": {
+        "matches": "452",
+        "runs": "14,752",
+        "bat avg": "23.75",
+        "100s/50s": "14/72",
+        "deliveries": "6,231",
+        "wickets": "100",
+        "bowl avg": "39.70",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/9",
+        "catches/stumpings": "227/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1923\u20131948"
+    },
+    "birth_date": "1904-3-3"
+}

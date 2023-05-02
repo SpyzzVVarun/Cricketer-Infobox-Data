@@ -1,0 +1,25 @@
+{
+    "country": "Ireland",
+    "fullname": "Henry Bruen",
+    "birth_place": "Oak Park, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Oak Park, Leinster, Ireland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10096.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "39",
+        "bat avg": "19.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "400",
+        "wickets": "10",
+        "bowl avg": "15.00",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/54",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

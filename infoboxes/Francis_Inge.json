@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Francis George Inge",
+    "birth_place": "Ravenstone, Leicestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "family": "William Inge (brother), John Inge (brother), Will Inge (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15450.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "233",
+        "bat avg": "19.41",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "deliveries": "458",
+        "wickets": "24",
+        "bowl avg": "10.85",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/50",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1861&ndash;1863"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Nevada Phillips",
+    "birth_place": "Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/19124.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Berkshire": "1978&ndash;1980"
+    },
+    "birth_date": "1957-1-15"
+}

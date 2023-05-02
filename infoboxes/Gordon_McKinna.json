@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Gordon Hayden McKinna",
+    "birth_place": "Sale, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Warwick, Warwickshire,, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17491.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "40",
+        "bat avg": "6.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "948",
+        "wickets": "17",
+        "bowl avg": "23.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/39",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1949\u20131953",
+        "Oxford University": "1951\u20131953"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Mervyn Herbert",
+    "country": "England",
+    "fullname": "Mervyn Robert Howard Molyneux Herbert",
+    "birth_place": "Highclere Castle, Hampshire, England",
+    "death_date": "1929",
+    "death_place": "Rome, Italy",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Henry Howard (grandfather)",
+    "type1": "First-class",
+    "debutdate1": "1 May",
+    "debutyear1": "1901",
+    "debutfor1": "Nottinghamshire",
+    "debutagainst1": "Marylebone Cricket Club (MCC)",
+    "lastdate1": "30 May",
+    "lastyear1": "1924",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3613/3613.html CricketArchive ",
+    "First-class": {
+        "matches": "42",
+        "runs": "854",
+        "bat avg": "12.02",
+        "100s/50s": "\u2013/3",
+        "top score": "78",
+        "deliveries": "18",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "0/28",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1901\u201302",
+        "Oxford University": "1902\u201304",
+        "Somerset": "1903\u201324"
+    },
+    "birth_date": "1882-12-27"
+}

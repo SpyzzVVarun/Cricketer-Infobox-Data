@@ -1,0 +1,38 @@
+{
+    "name": "Joe Hunter",
+    "country": "England",
+    "full_name": "Joseph Hunter",
+    "birth_place": "Scarborough, Yorkshire",
+    "death_date": "1891",
+    "death_place": "Rotherham, Yorkshire",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "12 December",
+    "testdebutyear": "1884",
+    "testdebutagainst": "Australia",
+    "testcap": "49",
+    "lasttestdate": "25 March",
+    "lasttestyear": "1885",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/79/79.html CricketArchive ",
+    "Test": {
+        "matches": "5",
+        "runs": "93",
+        "bat avg": "18.60",
+        "100s/50s": "0/0",
+        "catches/stumpings": "8/3"
+    },
+    "First-class": {
+        "matches": "162",
+        "runs": "1,330",
+        "bat avg": "7.86",
+        "100s/50s": "0/2",
+        "catches/stumpings": "232/124"
+    },
+    "clubs": {
+        "Yorkshire": "1878\u20131888",
+        "United South of England Eleven": "1880",
+        "Players": "1884\u20131885"
+    },
+    "birth_date": "1855-08-03"
+}

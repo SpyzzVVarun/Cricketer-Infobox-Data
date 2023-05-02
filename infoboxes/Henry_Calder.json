@@ -1,0 +1,31 @@
+{
+    "name": "Henry Calder",
+    "country": "England",
+    "birth_place": "South Stoneham, Hampshire, England",
+    "death_date": "1938",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "family": "Harry Calder (Son)",
+    "source": "http://www.cricinfo.com/ci/content/player/10639.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "288",
+        "bat avg": "16.94",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "deliveries": "410",
+        "wickets": "10",
+        "bowl avg": "22.20",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/24",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Eastern Province": "1897",
+        "Western Province": "1892 and 1895",
+        "Hampshire": "1882 and 1885"
+    },
+    "birth_date": "1858-4-14"
+}

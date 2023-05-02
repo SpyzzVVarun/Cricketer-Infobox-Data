@@ -1,0 +1,29 @@
+{
+    "name": "Thomas Leather",
+    "country": "Australia",
+    "fullname": "Thomas William Leather",
+    "birth_place": "Rutherglen, Scotland",
+    "death_date": "1991",
+    "death_place": "Prahran, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/16/16321/16321.html CricketArchive ",
+    "First-class": {
+        "matches": "19",
+        "runs": "219",
+        "bat avg": "13.68",
+        "100s/50s": "0/0",
+        "deliveries": "3,037",
+        "wickets": "63",
+        "bowl avg": "20.19",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/27",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1933/34\u20131934/35"
+    },
+    "birth_date": "1910-6-2"
+}

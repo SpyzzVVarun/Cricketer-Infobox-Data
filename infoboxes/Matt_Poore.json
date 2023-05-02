@@ -1,0 +1,51 @@
+{
+    "name": "Matt Poore",
+    "fullname": "Matt Beresford Poore",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "2020",
+    "death_place": "North Shore, Auckland, New Zealand",
+    "internationalspan": "1953\u20131956",
+    "country": "New Zealand",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "13 March",
+    "testdebutyear": "1953",
+    "testcap": "63",
+    "lasttestdate": "6 January",
+    "lasttestagainst": "India",
+    "lasttestyear": "1956",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/38130.html Cricinfo |role=",
+    "Test": {
+        "matches": "14",
+        "runs": "355",
+        "bat avg": "15.43",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "788",
+        "wickets": "9",
+        "bowl avg": "40.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "61",
+        "runs": "2,336",
+        "bat avg": "23.12",
+        "100s/50s": "2/11",
+        "top score": "142",
+        "deliveries": "5,134",
+        "wickets": "68",
+        "bowl avg": "26.66",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/27",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1950/51\u20131961/62"
+    },
+    "birth_date": "1930-6-1"
+}

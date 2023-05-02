@@ -1,0 +1,54 @@
+{
+    "name": "Kenroy Peters",
+    "country": "England",
+    "fullname": "Keon Kenroy Peters",
+    "birth_place": "Mesopotamia, Saint Vincent, Saint Vincent and the Grenadines",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/52796.html Cricinfo ",
+    "FC": {
+        "matches": "47",
+        "runs": "592",
+        "bat avg": "12.08",
+        "100s/50s": "&ndash;/1",
+        "top score": "52",
+        "deliveries": "7,300",
+        "wickets": "128",
+        "bowl avg": "22.80",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "5/43",
+        "catches/stumpings": "17/&ndash;"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "176",
+        "bat avg": "35.20",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1,123",
+        "wickets": "28",
+        "bowl avg": "26.35",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/24",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "236",
+        "wickets": "9",
+        "bowl avg": "33.22",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/27",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "St Vincent and the Grenadines": "2002/03&ndash;2007/08",
+        "Windward Islands": "2000&ndash;present"
+    },
+    "birth_date": "1982-2-24"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Rajesh Peter",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://cricketarchive.co.uk/Archive/Players/3/3331/3331.html CricketArchive",
+    "First-class": {
+        "matches": "13",
+        "runs": "253",
+        "bat avg": "23.00",
+        "100s/50s": "0/2",
+        "deliveries": "802",
+        "wickets": "10",
+        "bowl avg": "34.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/47",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "60",
+        "wickets": "3",
+        "bowl avg": "18.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/55",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

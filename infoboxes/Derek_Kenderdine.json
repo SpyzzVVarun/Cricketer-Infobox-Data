@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Derek Charles Kenderdine",
+    "birth_place": "Chislehurst, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Cambridge, Cambridgeshire,, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/15989.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "198",
+        "wickets": "2",
+        "bowl avg": "60.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/46",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Shahid Wasif",
+    "country": "Hong Kong",
+    "birth_place": "Attock, Punjab, Pakistan",
+    "batting": "Right handed",
+    "bowling": "Right arm off Right arm off break",
+    "role": "Wicket-keeper batter",
+    "internationalspan": "2016\u2013present",
+    "odidebutdate": "8 September",
+    "odidebutyear": "2016",
+    "odidebutagainst": "Scotland",
+    "odicap": "36",
+    "lastodidate": "10 March",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Zimbabwe",
+    "T20Idebutdate": "5 September",
+    "T20Idebutyear": "2016",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "23",
+    "lastT20Idate": "12 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Malaysia",
+    "source": "http://www.espncricinfo.com/ci/content/player/919489.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "10",
+        "runs": "81",
+        "bat avg": "11.57",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20I": {
+        "matches": "22",
+        "runs": "300",
+        "bat avg": "20.00",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "9/\u2013"
+    },
+    "LA": {
+        "matches": "26",
+        "runs": "359",
+        "bat avg": "17.09",
+        "100s/50s": "0/1",
+        "top score": "68",
+        "catches/stumpings": "14/1"
+    },
+    "T20": {
+        "matches": "22",
+        "runs": "300",
+        "bat avg": "20.00",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1997-5-15"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Erica Rendler",
+    "female": "true",
+    "country": "United States",
+    "fullname": "Erica Hovland Rendler",
+    "birth_place": "Los Gatos, California",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "T20Idebutdate": "17 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "9",
+    "lastT20Idate": "7 September",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Namibia",
+    "source": "http://www.espncricinfo.com/ci/content/player/465604.html Cricinfo ",
+    "WT20I": {
+        "matches": "8",
+        "runs": "108",
+        "bat avg": "15.42",
+        "100s/50s": "0/0",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1980-9-2"
+}

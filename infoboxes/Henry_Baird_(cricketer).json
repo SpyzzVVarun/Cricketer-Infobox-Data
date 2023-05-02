@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Henry Hume Chisholm Baird",
+    "birth_place": "Haverfordwest,, Pembrokeshire, Wales",
+    "death_date": "df=y",
+    "death_place": "Sandwich, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/9465.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "308",
+        "bat avg": "19.25",
+        "100s/50s": "\u2013/1",
+        "top score": "81",
+        "deliveries": "920",
+        "wickets": "31",
+        "bowl avg": "14.54",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/43",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1910&ndash;1911/12"
+    }
+}

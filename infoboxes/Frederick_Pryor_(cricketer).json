@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Frederick Charles Pryor",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "Unknown",
+    "family": "Charles Pryor (father), Stephen Pryor (grandfather)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/19079.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "486",
+        "bat avg": "11.04",
+        "100s/50s": "\u2013/3",
+        "top score": "69",
+        "catches/stumpings": "16/3"
+    },
+    "clubs": {
+        "Cambridge Town Club": "1861",
+        "Cambridgeshire": "1863&ndash;1871"
+    }
+}

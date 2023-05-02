@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "William Augustus Commerell",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Westminster, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11668.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "72",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "72",
+        "wickets": "3",
+        "bowl avg": "10.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1843",
+        "Marylebone Cricket Club": "1846"
+    }
+}

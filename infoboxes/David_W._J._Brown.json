@@ -1,0 +1,40 @@
+{
+    "name": "David W. J. Brown",
+    "fullname": "David Wyndham James Brown",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "death_date": "2021",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/player/david-brown-10051 Cricinfo ",
+    "FC": {
+        "matches": "89",
+        "runs": "2863",
+        "bat avg": "20.16",
+        "100s/50s": "1/14",
+        "top score": "142",
+        "deliveries": "90",
+        "wickets": "3",
+        "bowl avg": "28.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/84",
+        "catches/stumpings": "36/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "78",
+        "bat avg": "78.00",
+        "100s/50s": "0/1",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0"
+    },
+    "clubs": {
+        "Gloucestershire": "1964\u20131967"
+    },
+    "birth_date": "1942-2-26"
+}

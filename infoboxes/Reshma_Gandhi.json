@@ -1,0 +1,30 @@
+{
+    "name": "Reshma Gandhi",
+    "country": "India",
+    "birth_place": "Ahmednagar, India",
+    "batting": "Right-hand bat",
+    "role": "Wicket-keeper",
+    "odidebutdate": "26 June",
+    "odidebutyear": "1999",
+    "odidebutagainst": "Ireland",
+    "odicap": "54",
+    "lastodidate": "11 July",
+    "lastodiyear": "1999",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17130/17130.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "122",
+        "bat avg": "61.00",
+        "100s/50s": "1/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {},
+    "birth_date": "1974-12-16"
+}

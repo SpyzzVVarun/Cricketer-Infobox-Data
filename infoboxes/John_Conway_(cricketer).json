@@ -1,0 +1,26 @@
+{
+    "name": "John Conway",
+    "fullname": "John Conway",
+    "birth_place": "Fyansford, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Frankston, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/australia/content/player/4767.html CricInfo",
+    "First-class": {
+        "matches": "10",
+        "runs": "156",
+        "bat avg": "11.14",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "?",
+        "wickets": "32",
+        "bowl avg": "13.25",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1842-02-03"
+}

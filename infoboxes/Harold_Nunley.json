@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harold Nunley",
+    "birth_place": "Raunds, Northamptonshire, England",
+    "death_date": "June 2005",
+    "death_place": "Kettering, Northamptonshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/18174.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "20",
+        "bat avg": "6.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "156",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1931"
+    },
+    "birth_date": "1912-1-12"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Benjamin Huntsman",
+    "birth_place": "Attercliffe, Yorkshire, England",
+    "death_date": "1893",
+    "death_place": "West Retford, Nottinghamshire,, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15316.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "47",
+        "bat avg": "4.27",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1851"
+    }
+}

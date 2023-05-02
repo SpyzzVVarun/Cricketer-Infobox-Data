@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Joseph Herbert Phillips",
+    "birth_place": "Ansley, Warwickshire, England",
+    "death_date": "1951",
+    "death_place": "Nuneaton, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/18929.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "35",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "16",
+        "deliveries": "246",
+        "wickets": "1",
+        "bowl avg": "159.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/30",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1904&ndash;1911"
+    }
+}

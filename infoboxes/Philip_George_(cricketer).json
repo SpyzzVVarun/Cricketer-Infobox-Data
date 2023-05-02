@@ -1,0 +1,26 @@
+{
+    "name": "Philip George",
+    "country": "Wales",
+    "fullname": "Philip Stanley George",
+    "birth_place": "Swansea, Glamorgan, UK, Wales, UK",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13351.html Cricinfo ",
+    "LA": {
+        "matches": "8",
+        "runs": "53",
+        "bat avg": "17.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "357",
+        "wickets": "5",
+        "bowl avg": "53.40",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/51",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Wales Minor Counties": "1997&ndash;2002"
+    },
+    "birth_date": "1978-9-16"
+}

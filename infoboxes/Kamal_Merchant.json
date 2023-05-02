@@ -1,0 +1,39 @@
+{
+    "name": "Kamal Merchant",
+    "birth_place": "Karachi, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/pakistan/content/player/41053.html CricInfo",
+    "First-class": {
+        "matches": "95",
+        "runs": "2,927",
+        "bat avg": "27.10",
+        "100s/50s": "1/14",
+        "top score": "112",
+        "deliveries": "7,736",
+        "wickets": "118",
+        "bowl avg": "23.80",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/69",
+        "catches/stumpings": "37/\u2013"
+    },
+    "List A": {
+        "matches": "42",
+        "runs": "211",
+        "bat avg": "13.18",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "1,907",
+        "wickets": "51",
+        "bowl avg": "20.94",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/11",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Faisalabad": "",
+        "Karachi": ""
+    }
+}

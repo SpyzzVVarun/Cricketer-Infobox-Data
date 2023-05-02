@@ -1,0 +1,29 @@
+{
+    "name": "Leslie Jenkins",
+    "country": "England",
+    "fullname": "Wyndham Leslie Trevor Jenkins",
+    "birth_place": "Newport, Monmouthshire, Wales",
+    "death_date": "1971",
+    "death_place": "Penarth, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricinfo.com/ci/content/player/15499.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "155",
+        "bat avg": "8.15",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "39",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "8/2"
+    },
+    "clubs": {
+        "Glamorgan": "1921"
+    },
+    "birth_date": "1898-8-26"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Joseph Marlow",
+    "country": "England",
+    "fullname": "Joseph Marlow",
+    "birth_place": "Bulwell, Nottinghamshire, England",
+    "death_date": "1923",
+    "death_place": "Bulwell, Nottinghamshire, England",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "debutdate1": "18 August",
+    "debutyear1": "1879",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "29 July",
+    "lastyear1": "1886",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Kent",
+    "source": "http://www.cricinfo.com/ci/content/player/17331.html CricInro ",
+    "First-class": {
+        "matches": "24",
+        "runs": "317",
+        "bat avg": "7.92",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "3359",
+        "wickets": "60",
+        "bowl avg": "20.6",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/46",
+        "catches/stumpings": "23/0"
+    },
+    "clubs": {
+        "Derbyshire": "1879&ndash;1886"
+    },
+    "birth_date": "1854-12-12"
+}

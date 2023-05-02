@@ -1,0 +1,52 @@
+{
+    "country": "Kenya",
+    "fullname": "Ramesh Premji Mepani",
+    "birth_place": "Bhuj, Gujarat, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/315050.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "31",
+        "bat avg": "7.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1975-9-26"
+}

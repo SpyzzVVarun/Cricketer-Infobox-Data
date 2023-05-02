@@ -1,0 +1,39 @@
+{
+    "name": "Horace Hazell",
+    "country": "England",
+    "fullname": "Horace Leslie Hazell",
+    "birth_place": "Brislington, Somerset, England",
+    "death_date": "1990",
+    "death_place": "Brislington, Somerset, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "8 June",
+    "debutyear1": "1929",
+    "debutfor1": "Cr team Somerset",
+    "debutagainst1": "Cr team Gloucestershire",
+    "lastdate1": "20 August",
+    "lastyear1": "1952",
+    "lastfor1": "Cr team Somerset",
+    "lastagainst1": "Cr team Hampshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3610/3610.html CricketArchive ",
+    "First-class": {
+        "matches": "350",
+        "runs": "2280",
+        "bat avg": "8.17",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "56800",
+        "wickets": "957",
+        "bowl avg": "23.97",
+        "fivefor": "57",
+        "tenfor": "7",
+        "best bowling": "8/27",
+        "catches/stumpings": "248/&ndash;"
+    },
+    "clubs": {
+        "Cr team Somerset": "1929&ndash;1952"
+    },
+    "birth_date": "1909-09-30"
+}

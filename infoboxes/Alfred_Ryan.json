@@ -1,0 +1,30 @@
+{
+    "name": "Alfred Ryan",
+    "country": "Australia",
+    "fullname": "Alfred James Ryan",
+    "birth_place": "Adelaide, South Australia",
+    "death_date": "1990",
+    "death_place": "Semaphore South, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/16/16641/16641.html CricketArchive ",
+    "First-class": {
+        "matches": "33",
+        "runs": "1,493",
+        "bat avg": "30.46",
+        "100s/50s": "2/8",
+        "top score": "144",
+        "deliveries": "3,587",
+        "wickets": "20",
+        "bowl avg": "43.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/13",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1925/26\u20131936/37"
+    },
+    "birth_date": "1904-4-27"
+}

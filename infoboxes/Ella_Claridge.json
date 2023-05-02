@@ -1,0 +1,32 @@
+{
+    "name": "Ella Claridge",
+    "female": "true",
+    "fullname": "Ella Caterina Claridge",
+    "birth_place": "Aylesbury, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1711/1711316/1711316.html CricketArchive",
+    "WLA": {
+        "matches": "15",
+        "runs": "367",
+        "bat avg": "26.21",
+        "100s/50s": "0/1",
+        "top score": "57",
+        "catches/stumpings": "9/4"
+    },
+    "WT20": {
+        "matches": "39",
+        "runs": "807",
+        "bat avg": "23.05",
+        "100s/50s": "0/6",
+        "top score": "96",
+        "catches/stumpings": "7/10"
+    },
+    "clubs": {
+        "Buckinghamshire": "2017\u2013present",
+        "Trent Rockets": "2021\u2013present",
+        "The Blaze": "2021\u2013present"
+    },
+    "birth_date": "2002-9-28"
+}

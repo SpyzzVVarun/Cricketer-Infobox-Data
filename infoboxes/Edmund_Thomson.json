@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Edmund Peel Thomson",
+    "birth_place": "Moss Side, Lancashire, England",
+    "death_date": "df=y",
+    "death_place": "Festubert, Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/21804.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "201",
+        "bat avg": "18.27",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1912",
+        "Marylebone Cricket Club": "1913\u20131914"
+    }
+}

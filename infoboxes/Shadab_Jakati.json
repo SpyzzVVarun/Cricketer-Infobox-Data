@@ -1,0 +1,53 @@
+{
+    "name": "Shadab Jakati",
+    "country": "India",
+    "fullname": "Shadab Bashir Jakati",
+    "birth_place": "Vasco da Gama, Goa, India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://content.cricinfo.com/india/content/player/29655.html Cricinfo ",
+    "FC": {
+        "matches": "89",
+        "runs": "2,676",
+        "bat avg": "22.30",
+        "100s/50s": "1/14",
+        "deliveries": "18,644",
+        "wickets": "268",
+        "bowl avg": "31.35",
+        "fivefor": "12",
+        "tenfor": "3",
+        "best bowling": "8/53",
+        "catches/stumpings": "51/\u2013"
+    },
+    "LA": {
+        "matches": "82",
+        "runs": "1,104",
+        "bat avg": "18.40",
+        "100s/50s": "0/4",
+        "top score": "77",
+        "deliveries": "3,876",
+        "wickets": "93",
+        "bowl avg": "35.33",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/61",
+        "catches/stumpings": "31/\u2013"
+    },
+    "T20": {
+        "matches": "84",
+        "runs": "153",
+        "bat avg": "10.20",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "1,632",
+        "wickets": "70",
+        "bowl avg": "29.30",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/17",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1980-11-27"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "James Liddle",
+    "country": "South Africa",
+    "fullname": "James Richard Liddle",
+    "birth_place": "Port Elizabeth, Cape Province, South Africa",
+    "death_date": "1959",
+    "death_place": "Cape Town, Cape Province",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/13/13932/13932.html CricketArchive ",
+    "First-class": {
+        "matches": "38",
+        "runs": "692",
+        "bat avg": "14.41",
+        "100s/50s": "0/2",
+        "top score": "77",
+        "deliveries": "11,116",
+        "wickets": "181",
+        "bowl avg": "23.50",
+        "fivefor": "10",
+        "tenfor": "5",
+        "best bowling": "7/72",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Eastern Province": "1949-50",
+        "Orange Free State": "1950-51 to 1954-55",
+        "Western Province": "1955-56 to 1956-57"
+    },
+    "birth_date": "1930-6-18"
+}

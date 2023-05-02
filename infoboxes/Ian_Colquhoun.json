@@ -1,0 +1,36 @@
+{
+    "name": "Ian Colquhoun",
+    "honorific_suffix": "country=NZL",
+    "fullname": "Ian Alexander Colquhoun",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "2005",
+    "death_place": "Paraparaumu Beach, New Zealand",
+    "internationalspan": "1955",
+    "country": "New Zealand",
+    "testdebutagainst": "England",
+    "testdebutdate": "11 March",
+    "testdebutyear": "1955",
+    "testcap": "68",
+    "lasttestdate": "25 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1955",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36607.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "4/0"
+    },
+    "First-class": {
+        "matches": "57",
+        "runs": "768",
+        "bat avg": "14.76",
+        "100s/50s": "0/0",
+        "catches/stumpings": "108/28"
+    },
+    "clubs": {},
+    "birth_date": "1924-7-8"
+}

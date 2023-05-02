@@ -1,0 +1,62 @@
+{
+    "name": "Karabo Motlhanka",
+    "country": "Botswana",
+    "birth_place": "Gaborone, Botswana",
+    "batting": "Left-handed",
+    "bowling": "Unknown",
+    "role": "Occasional wicket-keeper",
+    "T20Idebutdate": "20 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Uganda",
+    "T20Icap": "7",
+    "lastT20Idate": "25 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "St Helena",
+    "source": "http://www.espncricinfo.com/ci/content/player/308710.html Cricinfo ",
+    "T20I": {
+        "matches": "22",
+        "runs": "559",
+        "bat avg": "27.95",
+        "100s/50s": "\u2013/4",
+        "top score": "74",
+        "deliveries": "65",
+        "wickets": "7",
+        "bowl avg": "11.71",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/30",
+        "catches/stumpings": "9/4"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "89",
+        "bat avg": "29.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "T20": {
+        "matches": "25",
+        "runs": "575",
+        "bat avg": "25.00",
+        "100s/50s": "\u2013/4",
+        "top score": "74",
+        "deliveries": "65",
+        "wickets": "7",
+        "bowl avg": "11.71",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/30",
+        "catches/stumpings": "9/4"
+    },
+    "clubs": {
+        "Matabeleland Tuskers": "2021/22|"
+    },
+    "birth_date": "1992-4-17"
+}

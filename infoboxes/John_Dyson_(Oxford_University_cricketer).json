@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Humphrey Dyson",
+    "birth_place": "Honley, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Wonford, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/12293.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "211",
+        "bat avg": "7.53",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "4,486",
+        "wickets": "68",
+        "bowl avg": "31.52",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/47",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1933&ndash;1936"
+    }
+}

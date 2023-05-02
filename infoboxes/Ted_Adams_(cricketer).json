@@ -1,0 +1,25 @@
+{
+    "name": "Ted Adams",
+    "country": "Australia",
+    "fullname": "Edward William Adams",
+    "birth_place": "Bathurst, New South Wales",
+    "death_date": "1977",
+    "batting": "Right-hand bat",
+    "bowling": "Right arm medium Right arm medium fast",
+    "source": "https://cricketarchive.com/Archive/Players/5/5704/5704.html CricketArchive ",
+    "First class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "112",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/17",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1896-07-10"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Ben Wellington",
+    "country": "England",
+    "fullname": "Benjamin Mark Wellington",
+    "birth_place": "Taunton, Somerset, England, UK",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/22359.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Somerset Cricket Board": "1999"
+    },
+    "birth_date": "1974-04-30"
+}

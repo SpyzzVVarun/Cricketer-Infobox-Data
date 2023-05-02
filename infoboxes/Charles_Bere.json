@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Sandford Bere",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Morebath, Devon, England",
+    "family": "Arthur Hook (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/10437.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "43",
+        "bat avg": "14.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "deliveries": "?",
+        "wickets": "8",
+        "bowl avg": "?",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1851"
+    }
+}

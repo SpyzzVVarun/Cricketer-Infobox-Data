@@ -1,0 +1,40 @@
+{
+    "name": "Alex O'Dowd",
+    "country": "New Zealand",
+    "fullname": "Alexander Patrick O'Dowd",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "family": "Max O'Dowd (son)",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "3 January",
+    "debutyear1": "1992",
+    "debutfor1": "Auckland",
+    "debutagainst1": "Wellington",
+    "lastdate1": "17 March",
+    "lastyear1": "1997",
+    "lastfor1": "Northern Districts",
+    "lastagainst1": "Auckland",
+    "source": "https://cricketarchive.com/Archive/Players/18/18655/18655.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "604",
+        "bat avg": "25.16",
+        "100s/50s": "1/2",
+        "top score": "113",
+        "catches/stumpings": "12/\u2013"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "108",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1991/92\u20131993/94",
+        "Northern Districts": "1996/97\u20131997/98"
+    },
+    "birth_date": "1967-2-25"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Stanley Douglas Douglas-Jones",
+    "birth_place": "Hendon, Middlesex, England",
+    "death_date": "1969",
+    "death_place": "Glyndyfrdwy, Merionethshire, Wales",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/12234.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1913&ndash;1914"
+    }
+}

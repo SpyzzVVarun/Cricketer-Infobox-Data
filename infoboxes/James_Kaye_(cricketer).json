@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "James Levett Kaye",
+    "birth_place": "Potters Bar, Hertfordshire, England",
+    "death_date": "1917",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Henry Kaye (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/15835.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Hampshire": "1881"
+    }
+}

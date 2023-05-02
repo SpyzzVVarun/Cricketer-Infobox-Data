@@ -1,0 +1,20 @@
+{
+    "country": "New Zealand",
+    "fullname": "James Matthew Michael Bevin",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/1192595.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "47",
+        "bat avg": "47.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "2019"
+    },
+    "birth_date": "1992-7-23"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Laura Harris",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Laura May Harris",
+    "birth_place": "Ipswich, Queensland, Australia",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "family": "Grace Harris (sister)",
+    "source": "https://www.cricketarchive.com/Archive/Players/1951/1951821/1951821.html CricketArchive ",
+    "WLA": {
+        "matches": "26",
+        "runs": "513",
+        "bat avg": "25.65",
+        "100s/50s": "0/3",
+        "top score": "65",
+        "catches/stumpings": "13/\u2013"
+    },
+    "WT20": {
+        "matches": "77",
+        "runs": "643",
+        "bat avg": "16.92",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Brisbane Heat": "2015/16\u2013present",
+        "Queensland": "2016/17\u2013present",
+        "Northern Superchargers": "2021",
+        "Wellington": "2022/23",
+        "Delhi Capitals": "2023\u2013present"
+    },
+    "birth_date": "1990-08-18"
+}

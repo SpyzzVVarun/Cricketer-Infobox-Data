@@ -1,0 +1,29 @@
+{
+    "name": "Carole Gildenhuys",
+    "female": "true",
+    "fullname": "Carole Anne Gildenhuys",
+    "birth_place": "Port Elizabeth, South Africa",
+    "role": "Wicket-keeper",
+    "internationalspan": "1972",
+    "country": "South Africa",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "testcap": "17",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1972",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17368/17368.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "184",
+        "bat avg": "30.66",
+        "100s/50s": "0/2",
+        "top score": "94",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Southern Transvaal": "1971/72\u20131972/73"
+    },
+    "birth_date": "1943-11-19"
+}

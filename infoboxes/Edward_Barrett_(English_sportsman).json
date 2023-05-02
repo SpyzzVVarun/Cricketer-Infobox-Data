@@ -1,0 +1,42 @@
+{
+    "name": "Edward Barrett",
+    "country": "England",
+    "fullname": "Edward Ivo Medhurst Barrett",
+    "birth_place": "Churt, Surrey, England",
+    "death_date": "1950",
+    "death_place": "Boscombe, Bournemouth, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "13 August",
+    "debutyear1": "1896",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "25 July",
+    "lastyear1": "1925",
+    "lastfor1": "Hampshire",
+    "lastagainst1": "Worcestershire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/6/6468/6468.html CricketArchive ",
+    "First-class": {
+        "matches": "86",
+        "runs": "3,804",
+        "bat avg": "32.23",
+        "100s/50s": "6/20",
+        "top score": "215",
+        "deliveries": "32",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "36/0"
+    },
+    "clubs": {
+        "Hampshire": "1896\u20131925",
+        "Marylebone Cricket Club (MCC)": "1903\u20131920",
+        "South of England": "1912",
+        "Gentlemen of England": "1912",
+        "Rest of England": "1912"
+    },
+    "birth_date": "1879-6-22"
+}

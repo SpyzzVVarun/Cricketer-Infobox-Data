@@ -1,0 +1,56 @@
+{
+    "name": "Carl Hopkinson",
+    "country": "England",
+    "fullname": "Carl Daniel Hopkinson",
+    "birth_place": "Brighton, East Sussex, England",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "Coach",
+    "source": "http://content-uk.cricinfo.com/england/content/player/15284.html Cricinfo ",
+    "FC": {
+        "matches": "64",
+        "runs": "2,705",
+        "bat avg": "27.60",
+        "100s/50s": "3/15",
+        "top score": "139",
+        "deliveries": "340",
+        "wickets": "2",
+        "bowl avg": "131.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/20",
+        "catches/stumpings": "39/&ndash;"
+    },
+    "LA": {
+        "matches": "92",
+        "runs": "1,400",
+        "bat avg": "22.95",
+        "100s/50s": "1/6",
+        "deliveries": "566",
+        "wickets": "15",
+        "bowl avg": "27.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/19",
+        "catches/stumpings": "39/&ndash;"
+    },
+    "T20": {
+        "matches": "28",
+        "runs": "165",
+        "bat avg": "12.69",
+        "100s/50s": "0/0",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "2000 &ndash; 2009"
+    },
+    "birth_date": "1981-9-14"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "L. P. Jai",
+    "full_name": "Laxmidas Purshottamdas Jai",
+    "birth_place": "Bombay, Bombay Presidency, British India",
+    "death_date": "df=yes",
+    "death_place": "Bombay, Maharashtra, India",
+    "nickname": "Lallubhai",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "country": "India",
+    "internationalspan": "1933",
+    "onetest": "true",
+    "testdebutdate": "15 December",
+    "testdebutyear": "1933",
+    "testdebutagainst": "England",
+    "testcap": "13",
+    "source": "http://www.espncricinfo.com/india/content/player/29667.html ESPNcricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "67",
+        "runs": "3,231",
+        "bat avg": "31.99",
+        "100s/50s": "6/19",
+        "top score": "156",
+        "deliveries": "210",
+        "wickets": "3",
+        "bowl avg": "44.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Hindus": "1920\u20131941",
+        "Bombay": "1926\u20131941"
+    },
+    "birth_date": "1902-1-4"
+}

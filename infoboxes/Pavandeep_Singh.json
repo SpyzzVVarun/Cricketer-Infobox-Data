@@ -1,0 +1,27 @@
+{
+    "name": "Pavandeep Singh",
+    "country": "Malaysia",
+    "fullname": "Pavandeep Singh Jagjit Singh",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Virandeep Singh (brother)",
+    "T20Idebutdate": "13 July",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Nepal",
+    "T20Icap": "14",
+    "lastT20Idate": "11 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Bhutan",
+    "source": "http://www.espncricinfo.com/ci/content/player/633641.html ESPNCricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1998-1-17",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

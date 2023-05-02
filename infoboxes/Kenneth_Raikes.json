@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Kenneth Cochrane Raikes",
+    "birth_place": "Malpas, Monmouthshire, Wales",
+    "death_date": "1973",
+    "death_place": "Digswell, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19561.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "135",
+        "bat avg": "16.87",
+        "100s/50s": "&ndash;/1",
+        "top score": "50",
+        "deliveries": "1,098",
+        "wickets": "18",
+        "bowl avg": "27.88",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "7/28",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Wales": "1925&ndash;1929",
+        "Monmouthshire": "1908&ndash;1934"
+    }
+}

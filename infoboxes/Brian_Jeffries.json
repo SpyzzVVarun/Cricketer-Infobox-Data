@@ -1,0 +1,29 @@
+{
+    "name": "Brian Jeffries",
+    "country": "England",
+    "fullname": "Brian Reginald Jeffries",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15760.html Cricinfo ",
+    "List A": {
+        "matches": "11",
+        "runs": "107",
+        "bat avg": "11.88",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "524",
+        "wickets": "10",
+        "bowl avg": "34.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/31",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Oxfordshire": "1970&ndash;1980",
+        "Minor Counties South": "1974&ndash;1975",
+        "Minor Counties West": "1978"
+    },
+    "birth_date": "1946-10-1"
+}

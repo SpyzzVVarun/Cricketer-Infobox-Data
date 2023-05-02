@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Lionel Martineau",
+    "birth_place": "Esher, Surrey, England",
+    "death_date": "1906",
+    "death_place": "Esher, Surrey, England",
+    "family": "Alfred Martineau (brother), Hubert Martineau (cousin), Philip Martineau (cousin)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/17403.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "277",
+        "bat avg": "19.78",
+        "100s/50s": "1/\u2013",
+        "top score": "109",
+        "deliveries": "1,208",
+        "wickets": "17",
+        "bowl avg": "31.88",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/59",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1887&ndash;1888",
+        "Marylebone Cricket Club": "1888"
+    }
+}

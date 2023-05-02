@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Alfred Erasmus Dryden",
+    "birth_place": "Adlestrop, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Canons Ashby, Northamptonshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12407.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "145",
+        "bat avg": "10.35",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1841&ndash;1842"
+    }
+}

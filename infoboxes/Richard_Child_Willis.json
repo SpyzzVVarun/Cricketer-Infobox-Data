@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Richard Child Willis",
+    "birth_place": "England",
+    "death_date": "1877",
+    "death_place": "Isle of Sheppey, Kent, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/23403.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1829"
+    }
+}

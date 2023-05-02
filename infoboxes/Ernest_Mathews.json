@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Ernest Mathews",
+    "birth_place": "Islington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Amersham, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/17420.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "179",
+        "bat avg": "9.94",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "deliveries": "387",
+        "wickets": "7",
+        "bowl avg": "23.85",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/57",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1867&ndash;1869"
+    }
+}

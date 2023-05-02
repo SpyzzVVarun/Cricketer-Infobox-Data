@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Arthur John Edmund Sealy",
+    "birth_place": "Woolwich, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Portsmouth, Hampshire, England",
+    "family": "Arthur Pawson (stepfather)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/20644.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "62",
+        "bat avg": "15.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,128",
+        "wickets": "20",
+        "bowl avg": "27.35",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/25",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1924"
+    }
+}

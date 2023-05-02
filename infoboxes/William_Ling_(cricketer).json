@@ -1,0 +1,50 @@
+{
+    "name": "William Ling",
+    "fullname": "William Victor Stone Ling",
+    "birth_place": "Kimberley, Cape Colony",
+    "death_date": "df=y",
+    "death_place": "Brakpan, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "5 November",
+    "testdebutyear": "1921",
+    "lasttestdate": "18 January",
+    "lasttestagainst": "England",
+    "lasttestyear": "1923",
+    "source": "https://www.espncricinfo.com/cricketers/william-ling-45993 Cricinfo",
+    "Test": {
+        "matches": "6",
+        "runs": "168",
+        "bat avg": "16.80",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "48",
+        "runs": "2,618",
+        "bat avg": "31.16",
+        "100s/50s": "3/18",
+        "top score": "187",
+        "deliveries": "3,062",
+        "wickets": "72",
+        "bowl avg": "31.52",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/60",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "Griqualand West": "1929/30",
+        "Eastern Province": "1928/29"
+    },
+    "birth_date": "1891-10-3"
+}

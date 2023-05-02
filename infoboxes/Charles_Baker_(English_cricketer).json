@@ -1,0 +1,38 @@
+{
+    "name": "Charles Baker",
+    "country": "England",
+    "fullname": "Charles Shaw Baker",
+    "birth_place": "Moss Side, Manchester, England",
+    "death_date": "df=yes",
+    "death_place": "Lelant, Cornwall, England",
+    "batting": "Left-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "8 May",
+    "debutyear1": "1905",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Somerset",
+    "lastdate1": "21 May",
+    "lastyear1": "1920",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Middlesex",
+    "source": "https://cricketarchive.com/Archive/Players/27/27623/27623.html CricketArchive ",
+    "First-class": {
+        "matches": "214",
+        "runs": "9244",
+        "bat avg": "29.53",
+        "100s/50s": "10/49",
+        "deliveries": "1462",
+        "wickets": "22",
+        "bowl avg": "46.22",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/59",
+        "catches/stumpings": "99/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1905\u20131920"
+    },
+    "birth_date": "1883-1-5"
+}

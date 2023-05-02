@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Joseph Anderson",
+    "birth_place": "Perth, Perthshire, Scotland",
+    "death_date": "1961",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ireland/content/player/25140.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "139",
+        "bat avg": "15.44",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1906&ndash;1912"
+    }
+}

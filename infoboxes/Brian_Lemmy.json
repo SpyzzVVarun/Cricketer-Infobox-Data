@@ -1,0 +1,27 @@
+{
+    "name": "Brian Lemmy",
+    "country": "England",
+    "fullname": "Brian Allan Lemmy",
+    "birth_place": "Isleworth, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16547.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "204",
+        "wickets": "3",
+        "bowl avg": "39.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/92",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1961&ndash;1962",
+        "Marylebone Cricket Club": "1958"
+    },
+    "birth_date": "1937-1-6"
+}

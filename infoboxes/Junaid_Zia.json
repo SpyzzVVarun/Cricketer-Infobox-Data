@@ -1,0 +1,37 @@
+{
+    "name": "Junaid Zia",
+    "country": "Pakistan",
+    "family": "Tauqir Zia (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://content-aus.cricinfo.com/pakistan/content/player/40926.html ",
+    "Tests": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "4",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "-/-",
+        "deliveries": "145",
+        "wickets": "3",
+        "bowl avg": "42.33",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "3/21",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {},
+    "birth_date": "1983-12-11"
+}

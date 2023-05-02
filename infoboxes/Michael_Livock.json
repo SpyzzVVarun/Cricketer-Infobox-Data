@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Michael Denzil Livock",
+    "birth_place": "Surbiton, Surrey, England",
+    "death_date": "1999 (aged 62/63)",
+    "death_place": "France",
+    "family": "Gerald Livock (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/16612.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "378",
+        "wickets": "8",
+        "bowl avg": "29.37",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/71",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

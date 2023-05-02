@@ -1,0 +1,29 @@
+{
+    "name": "John Heathcoat-Amory",
+    "fullname": "John Heathcoat-Amory",
+    "birth_place": "Mayfair, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Tiverton, Devon, England",
+    "family": "Henry Stanley (cousin), Mike Groves (nephew), Ludovic Heathcoat-Amory (nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14711.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "137",
+        "bat avg": "27.40",
+        "100s/50s": "0/1",
+        "deliveries": "839",
+        "wickets": "15",
+        "bowl avg": "23.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/52",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1928",
+        "Devon": "1914\u20131935",
+        "Oxford University": "1914"
+    }
+}

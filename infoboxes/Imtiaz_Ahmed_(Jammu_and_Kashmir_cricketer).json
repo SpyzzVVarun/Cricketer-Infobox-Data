@@ -1,0 +1,38 @@
+{
+    "name": "Imtiaz Ahmed",
+    "country": "India",
+    "fullname": "Imtiaz Ahmed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/18/18073/18073.html CricketArchive ",
+    "FC": {
+        "matches": "4",
+        "runs": "101",
+        "bat avg": "12.62",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "2/-"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "Jammu and Kashmir": "1996\u20132002"
+    }
+}

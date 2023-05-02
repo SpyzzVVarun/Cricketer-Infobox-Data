@@ -1,0 +1,37 @@
+{
+    "name": "Percy Vasey",
+    "country": "England",
+    "fullname": "Percy Walter Vasey",
+    "birth_place": "Highbury, London, England",
+    "death_date": "1952",
+    "death_place": "Upton Hellions, Crediton, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Batsman",
+    "family": "Brother, George (Europeans)",
+    "type1": "First-class cricket",
+    "onetype1": "true",
+    "debutdate1": "19 May",
+    "debutyear1": "1913",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3869/3869.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1913"
+    },
+    "birth_date": "1883-7-29"
+}

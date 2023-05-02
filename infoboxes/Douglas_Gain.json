@@ -1,0 +1,34 @@
+{
+    "name": "Douglas Gain",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/6/6315/6315.html CricketArchive",
+    "First-class": {
+        "matches": "33",
+        "runs": "1503",
+        "bat avg": "26.36",
+        "100s/50s": "1/11",
+        "top score": "100",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "26/\u2013"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "559",
+        "bat avg": "37.26",
+        "100s/50s": "0/4",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {}
+}

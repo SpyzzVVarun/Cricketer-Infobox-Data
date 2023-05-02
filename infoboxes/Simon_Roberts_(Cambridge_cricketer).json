@@ -1,0 +1,26 @@
+{
+    "country": "South Africa",
+    "fullname": "Simon Nicholas Roberts",
+    "birth_place": "Durban, Natal Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/19747.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "158",
+        "bat avg": "15.80",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cambridge University": "1947-1949",
+        "Cambridgeshire": "1947"
+    },
+    "birth_date": "1926-9-11"
+}

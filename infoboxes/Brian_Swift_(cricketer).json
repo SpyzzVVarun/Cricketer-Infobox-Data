@@ -1,0 +1,21 @@
+{
+    "country": "Australia",
+    "fullname": "Brian Tennant Swift",
+    "birth_place": "Adelaide, South Australia, Australia",
+    "death_date": "1958",
+    "death_place": "Higham, Suffolk, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/21153.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "160",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "catches/stumpings": "37/10"
+    },
+    "clubs": {
+        "Cambridge University": "1957"
+    }
+}

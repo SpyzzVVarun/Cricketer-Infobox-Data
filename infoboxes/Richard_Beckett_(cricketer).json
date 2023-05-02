@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Richard Beckett",
+    "birth_place": "Leeds, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Talavera de la Reina, Toledo, Spain",
+    "source": "http://www.espncricinfo.com/england/content/player/10416.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "120",
+        "bat avg": "7.05",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1804"
+    }
+}

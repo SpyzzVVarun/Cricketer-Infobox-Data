@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Patrick Henry Pearse Waldron",
+    "birth_place": "Limerick, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24530.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "99",
+        "bat avg": "12.37",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1946&ndash;1947"
+    }
+}

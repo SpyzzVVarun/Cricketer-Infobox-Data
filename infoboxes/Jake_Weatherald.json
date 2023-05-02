@@ -1,0 +1,57 @@
+{
+    "name": "Jake Weatherald",
+    "fullname": "Jake Weatherald",
+    "birth_place": "Darwin, Northern Territory, Australia",
+    "batting": "Left-handed",
+    "bowling": "Leg-break",
+    "role": "Top-order batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/781285.html Cricinfo",
+    "FC": {
+        "matches": "60",
+        "runs": "3,837",
+        "bat avg": "34.25",
+        "100s/50s": "9/19",
+        "top score": "198",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "44.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "51/\u2013"
+    },
+    "LA": {
+        "matches": "39",
+        "runs": "1,383",
+        "bat avg": "36.39",
+        "100s/50s": "4/7",
+        "top score": "141",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "12/\u2013"
+    },
+    "T20": {
+        "matches": "85",
+        "runs": "2,047",
+        "bat avg": "25.91",
+        "100s/50s": "1/13",
+        "top score": "115",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "31/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2015/16\u2013present",
+        "Adelaide Strikers( 28 )": "2016/17\u2013present",
+        "Quetta Gladiators  |year3               = 2021": ""
+    },
+    "birth_date": "1994-11-04"
+}

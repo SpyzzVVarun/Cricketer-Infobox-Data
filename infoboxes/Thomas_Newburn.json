@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Thomas Newburn",
+    "birth_place": "Belfast, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Belfast, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24475.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "deliveries": "168",
+        "wickets": "3",
+        "bowl avg": "10.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1949"
+    }
+}

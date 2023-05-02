@@ -1,0 +1,30 @@
+{
+    "name": "Colin Graham",
+    "fullname": "Colin Gordon Graham",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "2020",
+    "death_place": "Timaru, New Zealand",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Archibald Graham",
+    "type1": "First-class",
+    "source": "https://cricketarchive.com/Archive/Players/21/21987/21987.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "133",
+        "bat avg": "16.62",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/0",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Otago": "1954/55\u20131955/56"
+    },
+    "birth_date": "1929-06-07"
+}

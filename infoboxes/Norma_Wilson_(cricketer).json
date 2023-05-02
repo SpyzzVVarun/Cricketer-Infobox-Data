@@ -1,0 +1,24 @@
+{
+    "name": "Norma Wilson",
+    "country": "Australia",
+    "female": "yes",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "17 March",
+    "testdebutyear": "1961",
+    "testdebutagainst": "New Zealand",
+    "lasttestdate": "29 June",
+    "lasttestyear": "1963",
+    "lasttestagainst": "England",
+    "testcap": "52",
+    "source": "http://www.espncricinfo.com/ci/content/player/53589.html CricInfo ",
+    "WTest": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "3.80",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "6/1"
+    },
+    "clubs": {}
+}

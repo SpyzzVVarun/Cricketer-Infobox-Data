@@ -1,0 +1,38 @@
+{
+    "name": "Geoffrey Ogilvy",
+    "country": "England",
+    "fullname": "Geoffrey Littlejohn Ogilvy",
+    "birth_place": "Lewisham, London, England",
+    "death_date": "1962",
+    "death_place": "Dreemskerry, Maughold, Isle of Man",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "10 June",
+    "debutyear1": "1936",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Sussex",
+    "lastdate1": "30 June",
+    "lastyear1": "1936",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3738/3738.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "44",
+        "bat avg": "14.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1936"
+    },
+    "birth_date": "1906-1-25"
+}

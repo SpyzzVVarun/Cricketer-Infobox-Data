@@ -1,0 +1,24 @@
+{
+    "name": "Ruby Monaghan",
+    "country": "Australia",
+    "female": "yes",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "testdebutdate": "28 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "England",
+    "lasttestdate": "4 January",
+    "lasttestyear": "1935",
+    "lasttestagainst": "England",
+    "testcap": "3",
+    "source": "http://www.espncricinfo.com/ci/content/player/53545.html Cricinfo ",
+    "WTest": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

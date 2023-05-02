@@ -1,0 +1,27 @@
+{
+    "name": "Roger Miller",
+    "country": "England",
+    "fullname": "Roger Trevor Peter Miller",
+    "birth_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/17028.html Cricinfo ",
+    "LA": {
+        "matches": "8",
+        "runs": "128",
+        "bat avg": "21.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "deliveries": "396",
+        "wickets": "8",
+        "bowl avg": "36.37",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "1999\u20132002"
+    },
+    "birth_date": "1972-10-23"
+}

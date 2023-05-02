@@ -1,0 +1,23 @@
+{
+    "name": "Charles Alexander",
+    "country": "England",
+    "fullname": "Charles Robert Alexander",
+    "birth_place": "Westminster, London",
+    "death_date": "1902",
+    "death_place": "Westminster, London",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/8703.html CricInfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "88",
+        "bat avg": "9.77",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Kent": "1867\u20131869",
+        "Cambridge University": "1870\u20131871"
+    },
+    "birth_date": "1847-11-8"
+}

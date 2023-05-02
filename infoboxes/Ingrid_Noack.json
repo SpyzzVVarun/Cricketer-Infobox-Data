@@ -1,0 +1,24 @@
+{
+    "name": "Ingrid Noack",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/player/ingrid-noack-53663 ESPNCricinfo",
+    "WLA": {
+        "matches": "5",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2002/03\u20132003/04"
+    },
+    "birth_date": "1982-04-10"
+}

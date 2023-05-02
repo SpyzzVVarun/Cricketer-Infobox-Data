@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Reginald Wyndham",
+    "birth_place": "Sutton Mandeville, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Wallingford, Berkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/35994.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "28",
+        "bat avg": "14.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1896&ndash;1903"
+    }
+}

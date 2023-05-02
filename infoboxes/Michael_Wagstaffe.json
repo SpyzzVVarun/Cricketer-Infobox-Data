@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Michael Christopher Wagstaffe",
+    "birth_place": "Kohat, North-West Frontier Province, British India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/22645.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "233",
+        "bat avg": "14.56",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "42",
+        "deliveries": "2,239",
+        "wickets": "28",
+        "bowl avg": "31.07",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/96",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "79",
+        "bat avg": "19.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "168",
+        "wickets": "2",
+        "bowl avg": "50.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/48",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Dorset": "1981&ndash;1988",
+        "Minor Counties South": "1974",
+        "Devon": "1972&ndash;1980",
+        "Oxford University": "1972"
+    },
+    "birth_date": "1945-9-26"
+}

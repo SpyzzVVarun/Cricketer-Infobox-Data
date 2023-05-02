@@ -1,0 +1,26 @@
+{
+    "name": "Alec Watson",
+    "full_name": "Alexander Watson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "birth_place": "Coatbridge, Lanarkshire, Scotland",
+    "death_date": "1920",
+    "death_place": "Manchester, England",
+    "source": "https://cricketarchive.com/Archive/Players/33/33656/33656.html CricketArchive",
+    "First-class": {
+        "matches": "303",
+        "runs": "4,492",
+        "bat avg": "12.58",
+        "100s/50s": "0/4",
+        "top score": "74",
+        "deliveries": "65,887",
+        "wickets": "1,384",
+        "bowl avg": "13.31",
+        "fivefor": "106",
+        "tenfor": "27",
+        "best bowling": "9/118",
+        "catches/stumpings": "276/1"
+    },
+    "clubs": {},
+    "birth_date": "1844-11-4"
+}

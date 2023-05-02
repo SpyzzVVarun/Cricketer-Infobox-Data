@@ -1,0 +1,31 @@
+{
+    "country": "England",
+    "fullname": "Jake Matthew Foley",
+    "nickname": "Folster",
+    "birth_place": "Colchester, Essex, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/england/content/player/742803.html ",
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "2014",
+        "Suffolk County Cricket Club": "2018\u2013present"
+    },
+    "birth_date": "1994-9-21"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Ingrid Cronin-Knight",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Ingrid Cronin-Knight",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "2008",
+    "odidebutdate": "28 February",
+    "odidebutyear": "2008",
+    "odidebutagainst": "England",
+    "odicap": "109",
+    "lastodidate": "3 March",
+    "lastodiyear": "2008",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/44/44411/44411.html CricketArchive",
+    "WODI": {
+        "matches": "3",
+        "runs": "41",
+        "bat avg": "13.66",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "67",
+        "runs": "1,104",
+        "bat avg": "24.53",
+        "100s/50s": "0/5",
+        "top score": "84",
+        "deliveries": "1",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "29/\u2013"
+    },
+    "WT20": {
+        "matches": "5",
+        "runs": "171",
+        "bat avg": "57.00",
+        "100s/50s": "0/2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Auckland": "2000/01\u20132007/08"
+    },
+    "birth_date": "1977-10-6"
+}

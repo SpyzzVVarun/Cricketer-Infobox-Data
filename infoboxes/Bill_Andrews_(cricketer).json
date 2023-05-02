@@ -1,0 +1,39 @@
+{
+    "name": "Bill Andrews",
+    "country": "England",
+    "fullname": "William Harry Russell Andrews",
+    "birth_place": "Swindon, England",
+    "death_date": "1989",
+    "death_place": "Worlebury, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "7 May",
+    "debutyear1": "1930",
+    "debutfor1": "Cr team Somerset",
+    "debutagainst1": "Cr team Warwickshire",
+    "lastdate1": "30 August",
+    "lastyear1": "1947",
+    "lastfor1": "The Rest",
+    "lastagainst1": "M Leyland's XI",
+    "source": "https://cricketarchive.com/Archive/Players/3/3405/3405.html CricketArchive ",
+    "First-class": {
+        "matches": "231",
+        "runs": "5000",
+        "bat avg": "15.77",
+        "100s/50s": "0/19",
+        "top score": "80",
+        "deliveries": "37306",
+        "wickets": "768",
+        "bowl avg": "23.48",
+        "fivefor": "40",
+        "tenfor": "6",
+        "best bowling": "8/12",
+        "catches/stumpings": "96/\u2013"
+    },
+    "clubs": {
+        "Cr team Somerset": "1930\u20131947"
+    },
+    "birth_date": "1908-04-14"
+}

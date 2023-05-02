@@ -1,0 +1,65 @@
+{
+    "name": "Yolande Geddes-Hall",
+    "female": "true",
+    "fullname": "Yolande Geddes-Hall",
+    "birth_place": "Jamaica",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "1973",
+    "internationalspan2": "1976\u20131979",
+    "country": "Jamaica",
+    "country2": "West Indies",
+    "testdebutdate": "14 May",
+    "testdebutyear": "1976",
+    "testdebutfor": "West Indies",
+    "testdebutagainst": "Australia",
+    "testcap2": "12",
+    "lasttestdate": "1 July",
+    "lasttestyear": "1979",
+    "lasttestfor": "West Indies",
+    "lasttestagainst": "England",
+    "odidebutdate": "30 June",
+    "odidebutyear": "1973",
+    "odidebutfor": "Jamaica",
+    "odidebutagainst": "Young England",
+    "odicap": "5",
+    "odicap2": "7",
+    "lastodidate": "7 July",
+    "lastodiyear": "1979",
+    "lastodifor": "West Indies",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17418/17418.html CricketArchive ",
+    "WTest": {
+        "matches": "10",
+        "runs": "280",
+        "bat avg": "23.33",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "13/2"
+    },
+    "WODI": {
+        "matches": "7",
+        "runs": "80",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/4"
+    },
+    "WFC": {
+        "matches": "14",
+        "runs": "384",
+        "bat avg": "25.60",
+        "100s/50s": "0/1",
+        "top score": "58",
+        "catches/stumpings": "14/5"
+    },
+    "WLA": {
+        "matches": "14",
+        "runs": "260",
+        "bat avg": "28.88",
+        "100s/50s": "0/1",
+        "catches/stumpings": "5/7"
+    },
+    "clubs": {
+        "Jamaica": "1973\u20131992"
+    }
+}

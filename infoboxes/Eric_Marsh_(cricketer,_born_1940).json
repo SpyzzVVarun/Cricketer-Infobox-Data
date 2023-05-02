@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Eric Marsh",
+    "birth_place": "Greenwich, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Oswestry, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/17351.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "419",
+        "bat avg": "24.64",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1962",
+        "Shropshire": "1964&ndash;1976"
+    }
+}

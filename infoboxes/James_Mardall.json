@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "James Henry Thrale Mardall",
+    "birth_place": "Harpenden, Hertfordshire, England",
+    "death_date": "1988",
+    "death_place": "Colchester, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/17320.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1931&ndash;1932"
+    }
+}

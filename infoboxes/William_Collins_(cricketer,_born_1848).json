@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "William Edmund Wood Collins",
+    "birth_place": "Cheriton, Glamorgan, Wales",
+    "death_date": "df=yes",
+    "death_place": "Heacham, Norfolk, England",
+    "nickname": "Colenso",
+    "batting": "Unknown",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/11253.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "157",
+        "bat avg": "19.62",
+        "100s/50s": "\u2013/2",
+        "deliveries": "977",
+        "wickets": "19",
+        "bowl avg": "23.57",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "6/35",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

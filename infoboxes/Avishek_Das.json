@@ -1,0 +1,29 @@
+{
+    "name": "Avishek Das",
+    "country": "Bangladesh",
+    "fullname": "Avishek Das Aronno",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/1161046.html Cricinfo",
+    "LA": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "54",
+        "wickets": "3",
+        "bowl avg": "14.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/44",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "2001-9-5",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{BAN}}",
+        "Competition: U-19 World Cup"
+    ]
+}

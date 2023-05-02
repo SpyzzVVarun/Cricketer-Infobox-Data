@@ -1,0 +1,27 @@
+{
+    "name": "John Antrobus",
+    "country": "England",
+    "fullname": "John Antrobus",
+    "birth_place": "Middlesex, England",
+    "death_date": "26 July 1878",
+    "death_place": "London, England",
+    "type1": "First-class",
+    "debutdate1": "17 May",
+    "debutyear1": "1826",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Cambridge Town",
+    "lastfor1": "Lord Strathavon's XI",
+    "lastagainst1": "Sir St Vincent Cotton's XI",
+    "source": "https://cricketarchive.com/Archive/Players/36/36235/36235.html CricketArchive ",
+    "FC": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1826"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Dick Guy",
+    "fullname": "Richard Henry Guy",
+    "birth_place": "Sydney, Australia",
+    "death_date": "2018",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg-break and Right-arm leg-break and googly",
+    "source": "http://www.espncricinfo.com/ci/content/player/5455.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "92",
+        "bat avg": "9.20",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "1533",
+        "wickets": "25",
+        "bowl avg": "27.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/64",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1960-61 to 1968-69"
+    },
+    "birth_date": "1937-4-4"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Sachini Nisansala",
+    "female": "true",
+    "birth_place": "Rathgama, Galle District, Southern Province, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "internationalspan": "2022\u2013present",
+    "country": "Sri Lanka",
+    "oneodi": "true",
+    "odidebutagainst": "Pakistan",
+    "odidebutdate": "3 June",
+    "odidebutyear": "2022",
+    "odicap": "73",
+    "T20Idebutagainst": "Scotland",
+    "T20Idebutdate": "18 January",
+    "T20Idebutyear": "2022",
+    "lastT20Iagainst": "Pakistan",
+    "lastT20Idate": "28 May",
+    "lastT20Iyear": "2022",
+    "T20Icap": "50",
+    "source": "https://www.espncricinfo.com/player/sachini-nisansala-924289 ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {
+        "matches": "5",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-",
+        "top score": "-",
+        "deliveries": "109",
+        "wickets": "3",
+        "bowl avg": "30.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Seenigama": "2016/17\u2013present",
+        "Dambulla District": "2018/19",
+        "Kandy District": "2019/20\u2013present"
+    },
+    "birth_date": "2001-11-11",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Silver Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

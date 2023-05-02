@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Henry Duncan Stratton",
+    "birth_place": "Wolverhampton, Staffordshire, England",
+    "death_date": "1958",
+    "death_place": "Bexhill-on-Sea, Sussex,, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/21074.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "75",
+        "bat avg": "15.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "20",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1904&ndash;1914",
+        "Staffordshire": "1897&ndash;1910"
+    }
+}

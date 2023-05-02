@@ -1,0 +1,36 @@
+{
+    "name": "Vic Jackson",
+    "birth_place": "Woollahra, New South Wales, Australia",
+    "death_date": "30 January 1965 (aged 48)",
+    "death_place": "near Manildra, New South Wales, Australia",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off-break Right-arm Right-arm off-break Right-arm medium",
+    "debutdate1": "30 October",
+    "debutyear1": "1936",
+    "debutfor1": "New South Wales",
+    "debutagainst1": "Queensland",
+    "lastdate1": "10 September",
+    "lastyear1": "1958",
+    "lastfor1": "Commonwealth XI",
+    "lastagainst1": "England XI",
+    "source": "http://www.espncricinfo.com/australia/content/player/6003.html CricInfo",
+    "First-class": {
+        "matches": "354",
+        "runs": "15,698",
+        "bat avg": "28.43",
+        "100s/50s": "21/73",
+        "top score": "170",
+        "deliveries": "64,389",
+        "wickets": "965",
+        "bowl avg": "24.74",
+        "fivefor": "43",
+        "tenfor": "7",
+        "best bowling": "8/43",
+        "catches/stumpings": "254/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1936/37\u20131940/41",
+        "Leicestershire": "1938\u20131956"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "country": "Scotland",
+    "fullname": "William Kennedy Laidlaw",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1992",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/ci/content/player/25262.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "132",
+        "bat avg": "7.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "2,558",
+        "wickets": "42",
+        "bowl avg": "29.16",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "7/70",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1950",
+        "Durham": "1948&ndash;1952",
+        "Scotland": "1938&ndash;1953"
+    },
+    "birth_date": "1912-8-26"
+}

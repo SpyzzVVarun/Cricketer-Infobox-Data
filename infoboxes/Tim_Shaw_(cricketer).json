@@ -1,0 +1,51 @@
+{
+    "name": "Tim Shaw",
+    "country": "South Africa",
+    "fullname": "Timothy Gower Shaw",
+    "birth_place": "Empangeni, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/47184.html Cricinfo  ",
+    "ODI": {
+        "matches": "9",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "deliveries": "504",
+        "wickets": "9",
+        "bowl avg": "33.11",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/19",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "138",
+        "runs": "3,215",
+        "bat avg": "23.12",
+        "100s/50s": "1/9",
+        "top score": "105",
+        "deliveries": "33,256",
+        "wickets": "417",
+        "bowl avg": "29.05",
+        "fivefor": "15",
+        "tenfor": "2",
+        "best bowling": "7/79",
+        "catches/stumpings": "107/\u2013"
+    },
+    "LA": {
+        "matches": "161",
+        "runs": "1,096",
+        "bat avg": "17.67",
+        "100s/50s": "0/1",
+        "deliveries": "8,310",
+        "wickets": "173",
+        "bowl avg": "27.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/31",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1959-07-05"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ken Suttle",
+    "fullname": "Kenneth George Suttle",
+    "birth_place": "Hammersmith, England",
+    "death_date": "2005",
+    "death_place": "Port Louis, Mauritius",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/33/33137/33137.html CricketArchive",
+    "First-class": {
+        "matches": "612",
+        "runs": "30225",
+        "bat avg": "31.09",
+        "100s/50s": "49/156",
+        "deliveries": "21186",
+        "wickets": "266",
+        "bowl avg": "32.80",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6-64",
+        "catches/stumpings": "384/3"
+    },
+    "List A": {
+        "matches": "55",
+        "runs": "1075",
+        "bat avg": "22.39",
+        "100s/50s": "2/3",
+        "top score": "104",
+        "deliveries": "738",
+        "wickets": "16",
+        "bowl avg": "28.18",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "4-24",
+        "catches/stumpings": "12/-"
+    },
+    "clubs": {},
+    "birth_date": "1928-8-25"
+}

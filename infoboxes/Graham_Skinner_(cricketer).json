@@ -1,0 +1,32 @@
+{
+    "name": "Graham Skinner",
+    "country": "England",
+    "fullname": "Alfred Graham Skinner",
+    "birth_place": "Calcutta, Bengal Presidency, British Raj",
+    "death_date": "1997",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/20514.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "490",
+        "bat avg": "25.78",
+        "100s/50s": "1/1",
+        "top score": "125",
+        "deliveries": "822",
+        "wickets": "9",
+        "bowl avg": "52.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/44",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1927\u20131938",
+        "Bengal": "1935/36&ndash;1938/39",
+        "Europeans (India)": "1935/36&ndash;1944/45",
+        "Minor Counties": "1933"
+    },
+    "birth_date": "1910-8-11"
+}

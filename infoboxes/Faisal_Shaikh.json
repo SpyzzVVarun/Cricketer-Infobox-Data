@@ -1,0 +1,42 @@
+{
+    "name": "Faisal Shaikh",
+    "fullname": "Faisal Moosa Mamlekar Shaikh",
+    "birth_place": "Bombay, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Bowler",
+    "country": "India",
+    "source": "http://www.espncricinfo.com/india/content/player/33917.html Cricinfo",
+    "FC": {
+        "matches": "17",
+        "runs": "171",
+        "bat avg": "11.40",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "4045",
+        "wickets": "51",
+        "bowl avg": "34.25",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "9/29",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "-/\u2013"
+    },
+    "clubs": {
+        "Mumbai": "1998",
+        "Goa": "2002\u201306"
+    },
+    "birth_date": "1977-12-02"
+}

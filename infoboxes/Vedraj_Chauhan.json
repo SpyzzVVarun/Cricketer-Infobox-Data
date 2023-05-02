@@ -1,0 +1,39 @@
+{
+    "name": "Vedraj Chauhan",
+    "country": "India",
+    "fullname": "Vedraj Chauhan",
+    "birth_place": "Jalandhar, India",
+    "batting": "Right-hand bat",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/35734.html CricInfo ",
+    "FC": {
+        "matches": "63",
+        "runs": "1806",
+        "bat avg": "19.21",
+        "100s/50s": "0/5",
+        "top score": "67",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "104/51"
+    },
+    "List-A": {
+        "matches": "16",
+        "runs": "140",
+        "bat avg": "17.50",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "8/4"
+    },
+    "clubs": {},
+    "birth_date": "1961-04-01"
+}

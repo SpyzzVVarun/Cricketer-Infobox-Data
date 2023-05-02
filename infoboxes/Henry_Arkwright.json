@@ -1,0 +1,40 @@
+{
+    "name": "Henry Arkwright",
+    "country": "England",
+    "fullname": "Henry Arkwright",
+    "birth_place": "Hampton Court Castle, Herefordshire, England",
+    "death_date": "1866",
+    "death_place": "Mont Blanc, France",
+    "batting": "Right-handed",
+    "bowling": "Underarm Underarm fast",
+    "type1": "First-class",
+    "debutdate1": "13 May",
+    "debutyear1": "1858",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Cambridge Town Club",
+    "lastdate1": "10 August",
+    "lastyear1": "1866",
+    "lastfor1": "MCC",
+    "lastagainst1": "Gentlemen of Kent",
+    "source": "https://cricketarchive.com/Archive/Players/27/27516/27516.html CricketArchive ",
+    "First-class": {
+        "matches": "17",
+        "runs": "144",
+        "bat avg": "4.96",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "1806",
+        "wickets": "97",
+        "bowl avg": "11.34",
+        "fivefor": "10",
+        "tenfor": "2",
+        "best bowling": "9/43",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1858",
+        "I Zingari": "1859\u20131866",
+        "Marylebone Cricket Club": "1861\u20131866"
+    },
+    "birth_date": "1837-12-16"
+}

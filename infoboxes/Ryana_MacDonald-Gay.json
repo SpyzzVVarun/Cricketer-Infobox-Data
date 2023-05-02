@@ -1,0 +1,42 @@
+{
+    "name": "Ryana MacDonald-Gay",
+    "female": "true",
+    "fullname": "Ryana Lucelle MacDonald-Gay",
+    "birth_place": "Maidstone, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/2118/2118513/2118513.html CricketArchive",
+    "WLA": {
+        "matches": "7",
+        "runs": "118",
+        "bat avg": "29.50",
+        "100s/50s": "0/1",
+        "deliveries": "228",
+        "wickets": "7",
+        "bowl avg": "24.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "23",
+        "runs": "134",
+        "bat avg": "33.50",
+        "100s/50s": "0/0",
+        "deliveries": "175",
+        "wickets": "17",
+        "bowl avg": "11.41",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/19",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Kent": "2019\u2013present",
+        "South East Stars": "2021\u2013present",
+        "Oval Invincibles": "2022\u2013present"
+    },
+    "birth_date": "2004-2-12"
+}

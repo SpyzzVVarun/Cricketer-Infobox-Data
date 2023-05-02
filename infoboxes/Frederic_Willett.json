@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Frederic Stovin Dealtry Willett",
+    "birth_place": "Marylebone, Middlesex, England",
+    "death_date": "1884",
+    "death_place": "Ventnor, Isle of Wight, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/23006.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882"
+    }
+}

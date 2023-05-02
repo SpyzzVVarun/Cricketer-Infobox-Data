@@ -1,0 +1,51 @@
+{
+    "name": "Aubrey Faulkner",
+    "country": "South Africa",
+    "fullname": "George Aubrey Faulkner",
+    "birth_place": "Port Elizabeth, Cape Colony",
+    "death_date": "1930",
+    "death_place": "Fulham, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm legbreak Right-arm legbreak googly",
+    "testdebutdate": "2 January",
+    "testdebutyear": "1906",
+    "testdebutagainst": "England",
+    "testcap": "58",
+    "lasttestdate": "28 June",
+    "lasttestyear": "1924",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/45039.html ESPNcricinfo ",
+    "Test": {
+        "matches": "25",
+        "runs": "1,754",
+        "bat avg": "40.79",
+        "100s/50s": "4/8",
+        "top score": "204",
+        "deliveries": "4,227",
+        "wickets": "82",
+        "bowl avg": "26.58",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/84",
+        "catches/stumpings": "20/\u2013"
+    },
+    "FC": {
+        "matches": "118",
+        "runs": "6,366",
+        "bat avg": "36.58",
+        "100s/50s": "13/32",
+        "top score": "204",
+        "deliveries": "16,624",
+        "wickets": "449",
+        "bowl avg": "17.42",
+        "fivefor": "33",
+        "tenfor": "8",
+        "best bowling": "7/26",
+        "catches/stumpings": "94/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1902/03\u20131909/10",
+        "MCC": "1912\u20131920"
+    },
+    "birth_date": "1881-12-17"
+}

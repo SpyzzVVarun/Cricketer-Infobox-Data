@@ -1,0 +1,27 @@
+{
+    "country": "Australia",
+    "fullname": "Samuel McCaughey",
+    "birth_place": "Jerilderie, New South Wales, Australia",
+    "death_date": "1955",
+    "death_place": "Manly, New South Wales, Australia",
+    "batting": "Unknown",
+    "bowling": "Right-arm medium, Leg Right-arm medium, Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/17467.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "3.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "247",
+        "wickets": "9",
+        "bowl avg": "13.66",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "7/46",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1913"
+    }
+}

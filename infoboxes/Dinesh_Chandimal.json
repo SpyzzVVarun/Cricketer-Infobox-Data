@@ -1,0 +1,83 @@
+{
+    "name": "Dinesh Chandimal",
+    "fullname": "Lokuge Dinesh Chandimal",
+    "birth_place": "Balapitiya, Sri Lanka",
+    "heightm": "1.82",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Wicket-keeper-batter",
+    "country": "Sri Lanka",
+    "internationalspan": "2010\u2013present",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "26 December",
+    "testdebutyear": "2011",
+    "testcap": "122",
+    "lasttestdate": "16 April",
+    "lasttestyear": "2023",
+    "lasttestagainst": "Ireland",
+    "odidebutagainst": "Zimbabwe",
+    "odidebutdate": "1 June",
+    "odidebutyear": "2010",
+    "odicap": "144",
+    "lastodidate": "30 November",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Afghanistan",
+    "T20Idebutagainst": "New Zealand",
+    "T20Idebutdate": "30 April",
+    "T20Idebutyear": "2010",
+    "T20Icap": "33",
+    "lastT20Idate": "27 February",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/300628.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "Test": {
+        "matches": "72",
+        "runs": "5,116",
+        "bat avg": "43.35",
+        "100s/50s": "13/25",
+        "catches/stumpings": "82/10"
+    },
+    "ODI": {
+        "matches": "157",
+        "runs": "3,854",
+        "bat avg": "31.85",
+        "100s/50s": "4/24",
+        "top score": "111",
+        "catches/stumpings": "62/8"
+    },
+    "T20I": {
+        "matches": "68",
+        "runs": "1,062",
+        "bat avg": "19.67",
+        "100s/50s": "0/6",
+        "catches/stumpings": "36/6"
+    },
+    "FC": {
+        "matches": "141",
+        "runs": "10,389",
+        "bat avg": "48.77",
+        "100s/50s": "28/49",
+        "catches/stumpings": "178/24"
+    },
+    "clubs": {
+        "Sri Lanka Army": "2019\u2013present",
+        "Nondescripts Cricket Club": "2009\u20132019",
+        "Ruhuna": "2012",
+        "Rajasthan Royals": "2012",
+        "Chittagong Vikings": "2017",
+        "Colombo Stars": "2020\u2013present",
+        "Sylhet Sunrisers": "2022"
+    },
+    "birth_date": "1989-11-18",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Men's Cricket",
+        "Competition: Asian Games",
+        "Gold Medal: 2014 Incheon Team",
+        "Competition: South Asian Games",
+        "Silver Medal: 2010 Dhaka Team"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Alfred George Taylor",
+    "birth_place": "West Ham, Essex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/21469.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "77.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/40",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Essex": "1923"
+    },
+    "birth_date": "1891-12-09"
+}

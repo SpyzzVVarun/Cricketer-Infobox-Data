@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Churchill",
+    "birth_place": "Winterborne Stickland, Dorset, England",
+    "death_date": "1907",
+    "death_place": "Woking, Surrey, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11135.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1870&ndash;1872"
+    }
+}

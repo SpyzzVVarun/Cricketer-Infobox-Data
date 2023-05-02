@@ -1,0 +1,49 @@
+{
+    "name": "Stephan Marillier",
+    "fullname": "Stephan James Marillier",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "family": "Anthony Marillier (father) Eian Marillier (brother) Dougie Marillier (brother)",
+    "type1": "FC",
+    "debutdate1": "30 September",
+    "debutyear1": "2009",
+    "debutfor1": "Southern Rocks",
+    "debutagainst1": "Mashonaland Eagles",
+    "lastdate1": "13 February",
+    "lastyear1": "2012",
+    "lastfor1": "Mid West Rhinos",
+    "lastagainst1": "Matabeleland Tuskers",
+    "type2": "LA",
+    "debutdate2": "5 October",
+    "debutyear2": "2009",
+    "debutfor2": "Southern Rocks",
+    "debutagainst2": "Mashonaland Eagles",
+    "lastdate2": "25 February",
+    "lastyear2": "2012",
+    "lastfor2": "Mid West Rhinos",
+    "lastagainst2": "Mashonaland Eagles",
+    "source": "http://www.espncricinfo.com/ci/content/player/354260.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "1,330",
+        "bat avg": "29.55",
+        "100s/50s": "1/7",
+        "catches/stumpings": "11/\u2013"
+    },
+    "List A": {
+        "matches": "17",
+        "runs": "357",
+        "bat avg": "21.00",
+        "100s/50s": "0/4",
+        "top score": "57",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Southern Rocks": "2009/10\u20132010/11",
+        "Mid West Rhinos": "2011/12",
+        "Norfolk": "2018"
+    },
+    "birth_date": "1984-9-25"
+}

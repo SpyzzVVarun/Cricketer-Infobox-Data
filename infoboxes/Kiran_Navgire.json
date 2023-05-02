@@ -1,0 +1,32 @@
+{
+    "name": "Kiran Navgire",
+    "female": "true",
+    "fullname": "Kiran Prabhu Navgire",
+    "birth_place": "Solapur, Maharashtra, India",
+    "batting": "Right-handed",
+    "role": "All-rounder",
+    "country": "India",
+    "internationalspan": "2022\u2013present",
+    "T20Idebutdate": "10 September",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "England",
+    "T20Icap": "71",
+    "lastT20Idate": "10 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Thailand",
+    "source": "https://www.espncricinfo.com/player/kiran-prabhu-navgire-1289983 Cricinfo ",
+    "WT20I": {
+        "matches": "6",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "2018/19\u20132019/20",
+        "Nagaland": "2021/22\u2013present",
+        "Velocity": "2022\u20132023",
+        "UP Warriorz": "2023\u2013present"
+    },
+    "birth_date": "1994-9-18"
+}

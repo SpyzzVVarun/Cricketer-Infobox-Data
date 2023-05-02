@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "David Stewart",
+    "birth_place": "Perth, Perthshire, Scotland",
+    "death_date": "2006",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/david-stewart-25362 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "102",
+        "wickets": "2",
+        "bowl avg": "10.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1950"
+    }
+}

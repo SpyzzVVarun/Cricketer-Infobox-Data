@@ -1,0 +1,33 @@
+{
+    "name": "Taariq Chiecktey",
+    "birth_place": "Cape Province, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/482076.html ESPNcricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "169",
+        "bat avg": "18.77",
+        "100s/50s": "0/1",
+        "top score": "82",
+        "catches/stumpings": "19/0"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "2/1"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {},
+    "birth_date": "1993-5-26"
+}

@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "John Lillingston Carr",
+    "birth_place": "Palamcottah, Madras Presidency, British India",
+    "death_date": "df=yes",
+    "death_place": "Derby, Derbyshire, England",
+    "family": "Donald Carr (son), John Carr (grandson)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/10672.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "114",
+        "bat avg": "16.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "46",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1913",
+        "Berkshire": "1926\u20131936"
+    }
+}

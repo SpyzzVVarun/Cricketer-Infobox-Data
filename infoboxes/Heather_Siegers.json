@@ -1,0 +1,43 @@
+{
+    "name": "Heather Siegers",
+    "female": "true",
+    "country": "Netherlands",
+    "fullname": "Heather Diantha Jan Siegers",
+    "birth_place": "Haarlem, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "family": "Silver Siegers (sister)",
+    "odidebutdate": "20 November",
+    "odidebutyear": "2022",
+    "odidebutagainst": "Thailand",
+    "lastodidate": "24 November",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Thailand",
+    "T20Idebutdate": "7 July",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "UAE",
+    "T20Icap": "30",
+    "lastT20Idate": "30 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Namibia",
+    "source": "http://www.espncricinfo.com/ci/content/player/577359.html ESPNcricinfo ",
+    "WT20I": {
+        "matches": "22",
+        "runs": "280",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "351",
+        "wickets": "18",
+        "bowl avg": "20.22",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "2017"
+    },
+    "birth_date": "1996-10-10"
+}

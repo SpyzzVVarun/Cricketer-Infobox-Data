@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Douglas Rosyth Lawrence",
+    "birth_place": "Portobello, Midlothian, Scotland",
+    "death_date": "2000",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/douglas-lawrence-25265 Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "32",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "1,072",
+        "wickets": "12",
+        "bowl avg": "40.91",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/56",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1956&ndash;1958"
+    }
+}

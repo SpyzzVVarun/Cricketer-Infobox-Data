@@ -1,0 +1,33 @@
+{
+    "name": "Doddapaneni Rushi Raj",
+    "birth_place": "Hyderabad, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/279571.html ESPNcricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "200",
+        "bat avg": "20.00",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "111",
+        "bat avg": "27.75",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Hyderabad": "2007-2009"
+    },
+    "birth_date": "1986-4-3"
+}

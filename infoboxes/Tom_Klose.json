@@ -1,0 +1,30 @@
+{
+    "name": "Tom Klose",
+    "country": "Australia",
+    "fullname": "Tom Elliott Klose",
+    "birth_place": "Adelaide, South Australia",
+    "death_date": "1986",
+    "death_place": "Nailsworth, Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm orthodox, left-arm Slow left-arm orthodox, left-arm medium-pace",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/australia/content/player/6209.html Cricinfo |image_size=150 px",
+    "First-class": {
+        "matches": "25",
+        "runs": "895",
+        "bat avg": "22.94",
+        "100s/50s": "0/5",
+        "top score": "80",
+        "deliveries": "3236",
+        "wickets": "32",
+        "bowl avg": "37.53",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1939\u201340 to 1949\u201350"
+    },
+    "birth_date": "1918-1-22"
+}

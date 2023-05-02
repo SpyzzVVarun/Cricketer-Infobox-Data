@@ -1,0 +1,43 @@
+{
+    "name": "Neil Adcock",
+    "death_date": "2013",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "South Africa",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "11 December",
+    "testdebutyear": "1953",
+    "lasttestdate": "16 February",
+    "lasttestagainst": "New Zealand",
+    "lasttestyear": "1962",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/43923.html Cricinfo",
+    "Test": {
+        "matches": "26",
+        "runs": "146",
+        "bat avg": "5.40",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "6,391",
+        "wickets": "104",
+        "bowl avg": "21.10",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "4/\u2013"
+    },
+    "First-class": {
+        "matches": "99",
+        "runs": "451",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "19,708",
+        "wickets": "405",
+        "bowl avg": "17.25",
+        "fivefor": "19",
+        "tenfor": "4",
+        "best bowling": "8/39",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Terry Barwell",
+    "country": "England",
+    "fullname": "Terence Ian Barwell",
+    "nickname": "Pa",
+    "birth_place": "Bloemhof, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "off-spinner",
+    "role": "Batsman, occ. wicketkeeper",
+    "family": "Barwells,Mellis's and Marshalls",
+    "type1": "First-class",
+    "debutdate1": "8 July",
+    "debutyear1": "1959",
+    "debutfor1": ", Somerset",
+    "debutagainst1": "Combined Services",
+    "lastdate1": "3 August",
+    "lastyear1": "1973",
+    "lastfor1": ", Minor Counties",
+    "lastagainst1": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/3/3429/3429.html CricketArchive ",
+    "First-class": {
+        "matches": "44",
+        "runs": "1344",
+        "bat avg": "19.47",
+        "100s/50s": "0/9",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "39/1"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "177",
+        "bat avg": "22.12",
+        "100s/50s": "0/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Wiltshire, Minor Counties": "1972\u201373",
+        "Somerset": "1959\u201368"
+    },
+    "birth_date": "1937-4-29"
+}

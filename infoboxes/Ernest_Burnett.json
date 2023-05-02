@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Ernest Wildman Burnett",
+    "birth_place": "Brighton, Sussex, England",
+    "death_date": "df=yes",
+    "death_place": "Oxford, Oxfordshire, England",
+    "family": "John Burnett (brother)",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm roundarm Unknown-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/ireland/content/player/10170.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "45",
+        "bat avg": "6.42",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "188",
+        "wickets": "2",
+        "bowl avg": "30.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/39",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {}
+}

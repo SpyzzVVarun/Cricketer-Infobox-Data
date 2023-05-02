@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Peter Lovell Johnson",
+    "birth_place": "Huyton, Lancashire, England",
+    "death_date": "2017",
+    "death_place": "Ross-on-Wye, Herefordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15711.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "61",
+        "bat avg": "20.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1947"
+    }
+}

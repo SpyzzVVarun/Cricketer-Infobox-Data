@@ -1,0 +1,58 @@
+{
+    "name": "Shane Deitz",
+    "fullname": "Shane Alan Deitz",
+    "birth_place": "Bankstown, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Wicket-keeper",
+    "country": "Vanuatu",
+    "internationalspan": "2018\u20132019",
+    "source": "http://www.espncricinfo.com/australia/content/player/4936.html ESPNcricinfo ",
+    "FC": {
+        "matches": "66",
+        "runs": "3,753",
+        "bat avg": "30.76",
+        "100s/50s": "5/23",
+        "top score": "154",
+        "deliveries": "156",
+        "wickets": "2",
+        "bowl avg": "53.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/17",
+        "catches/stumpings": "89/6"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "663",
+        "bat avg": "25.50",
+        "100s/50s": "0/4",
+        "top score": "60",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "17/0"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "60",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "South Australia": "1998/99\u20132007/08",
+        "Lincolnshire": "2002\u20132004"
+    },
+    "birth_date": "1975-5-4"
+}

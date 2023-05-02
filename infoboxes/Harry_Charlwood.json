@@ -1,0 +1,51 @@
+{
+    "name": "Harry Charlwood",
+    "country": "England",
+    "fullname": "Henry Rupert James Charlwood",
+    "birth_place": "Horsham, Sussex, England",
+    "death_date": "1888",
+    "death_place": "Scarborough, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Underarm (lob), unknown Underarm (lob), unknown arm",
+    "family": "Charles Charlwood (brother)",
+    "testdebutdate": "15 March",
+    "testdebutyear": "1877",
+    "testdebutagainst": "Australia",
+    "testcap": "2",
+    "lasttestdate": "4 April",
+    "lasttestyear": "1877",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/4/4.html CricketArchive ",
+    "Test": {
+        "matches": "2",
+        "runs": "63",
+        "bat avg": "15.75",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "197",
+        "runs": "7,017",
+        "bat avg": "21.19",
+        "100s/50s": "5/33",
+        "top score": "155",
+        "deliveries": "128",
+        "wickets": "4",
+        "bowl avg": "22.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/12",
+        "catches/stumpings": "89/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1865\u20131882"
+    },
+    "birth_date": "1846-12-19"
+}

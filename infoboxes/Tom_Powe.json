@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Thomas Benedict Powe",
+    "birth_place": "Islington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/1178976.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "74",
+        "bat avg": "24.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Durham MCCU": "2019"
+    },
+    "birth_date": "August 1998"
+}

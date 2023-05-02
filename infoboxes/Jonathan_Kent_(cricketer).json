@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Jonathan Peter Kent",
+    "birth_place": "Truro, Cornwall, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/15861.html Cricinfo ",
+    "LA": {
+        "matches": "11",
+        "runs": "201",
+        "bat avg": "20.10",
+        "100s/50s": "&ndash;/1",
+        "top score": "80",
+        "deliveries": "256",
+        "wickets": "6",
+        "bowl avg": "26.16",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/21",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cornwall": "1991-2006"
+    },
+    "birth_date": "1973-9-3"
+}

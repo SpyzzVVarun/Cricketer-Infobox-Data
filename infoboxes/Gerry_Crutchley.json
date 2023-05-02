@@ -1,0 +1,39 @@
+{
+    "name": "Gerry Crutchley",
+    "fullname": "Gerald Edward Victor Crutchley",
+    "birth_place": "Chelsea, London",
+    "death_date": "df=yes",
+    "death_place": "St John's Wood, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm Right-arm medium Right-arm legbreak",
+    "family": "Edward Crutchley (son) Percy Crutchley (uncle) Hugh Spottiswoode (father-in-law)",
+    "type1": "FC",
+    "debutdate1": "30 May",
+    "debutyear1": "1910",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "25 June",
+    "lastyear1": "1932",
+    "lastfor1": "HDG Leveson-Gower's XI",
+    "lastagainst1": "Cambridge University",
+    "source": "http://www.espncricinfo.com/england/content/player/11470.html CricInfo",
+    "First-class": {
+        "matches": "123",
+        "runs": "4,112",
+        "bat avg": "22.46",
+        "100s/50s": "5/14",
+        "top score": "181",
+        "deliveries": "3,845",
+        "wickets": "67",
+        "bowl avg": "32.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/52",
+        "catches/stumpings": "54/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1910\u20131912",
+        "Middlesex": "1910\u20131930"
+    },
+    "birth_date": "1890-11-19"
+}

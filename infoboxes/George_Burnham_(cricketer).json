@@ -1,0 +1,31 @@
+{
+    "name": "George Burnham",
+    "country": "England",
+    "fullname": "George Joseph Burnham",
+    "birth_place": "Nottingham, England",
+    "death_date": "1971",
+    "death_place": "Nottingham, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "13 May",
+    "debutyear1": "1912",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "24 June",
+    "lastyear1": "1912",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Warwickshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/28/28312/28312.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "30",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1912"
+    },
+    "birth_date": "1878-11-5"
+}

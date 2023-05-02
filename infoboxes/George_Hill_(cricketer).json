@@ -1,0 +1,63 @@
+{
+    "name": "George Hill",
+    "fullname": "George Christopher Hindley Hill",
+    "birth_place": "Keighley, West Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "15 August",
+    "debutyear1": "2020",
+    "debutfor1": "Yorkshire",
+    "debutagainst1": "Derbyshire",
+    "type2": "List A",
+    "debutdate2": "22 July",
+    "debutyear2": "2021",
+    "debutfor2": "Yorkshire",
+    "debutagainst2": "Surrey",
+    "source": "http://www.espncricinfo.com/ci/content/player/1114952.html Cricinfo ",
+    "FC": {
+        "matches": "23",
+        "runs": "1,025",
+        "bat avg": "29.28",
+        "100s/50s": "2/2",
+        "deliveries": "1,330",
+        "wickets": "28",
+        "bowl avg": "21.57",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/26",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "407",
+        "bat avg": "33.91",
+        "100s/50s": "1/2",
+        "top score": "130",
+        "deliveries": "282",
+        "wickets": "10",
+        "bowl avg": "24.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/47",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "72",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "63",
+        "wickets": "2",
+        "bowl avg": "42.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Yorkshire( 18 )": "2020\u2013present"
+    },
+    "birth_date": "2001-1-24"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Arthur Smith",
+    "country": "England",
+    "fullname": "Arthur Price Smith",
+    "birth_place": "Ruddington, England",
+    "death_date": "3 June 1937 (aged 79)",
+    "death_place": "Tottenham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20828.html CricInfo ",
+    "First-class": {
+        "matches": "52",
+        "runs": "1,508",
+        "bat avg": "19.33",
+        "100s/50s": "2/5",
+        "top score": "124",
+        "deliveries": "663",
+        "wickets": "44",
+        "bowl avg": "15.06",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/23",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1883",
+        "Nottinghamshire": "1886\u20131894"
+    }
+}

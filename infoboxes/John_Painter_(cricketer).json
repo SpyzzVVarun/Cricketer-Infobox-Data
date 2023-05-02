@@ -1,0 +1,31 @@
+{
+    "name": "John Painter",
+    "fullname": "John Richard Painter",
+    "birth_place": "Bourton-on-the-Water, Gloucestershire, England",
+    "death_date": "1900",
+    "death_place": "Bourton-on-the-Water, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/18731.html Cricinfo ",
+    "First-class": {
+        "matches": "198",
+        "runs": "5,927",
+        "bat avg": "17.58",
+        "100s/50s": "5/0",
+        "top score": "150",
+        "deliveries": "3,052",
+        "wickets": "46",
+        "bowl avg": "26.78",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "8/67",
+        "catches/stumpings": "151/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1881\u20131897",
+        "South": "1884",
+        "Lord Sheffield's XI": "1885",
+        "England XI": "1888"
+    },
+    "birth_date": "1856-11-11"
+}

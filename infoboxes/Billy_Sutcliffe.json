@@ -1,0 +1,30 @@
+{
+    "name": "Billy Sutcliffe",
+    "country": "England",
+    "fullname": "William Herbert Hobbs Sutcliffe",
+    "birth_place": "Pudsey, Yorkshire, England",
+    "death_date": "1998",
+    "death_place": "Collingham, West Yorkshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium, Right-arm medium, leg-break",
+    "role": "Batsman, captain",
+    "source": "http://www.espncricinfo.com/ci/content/player/21133.html Cricinfo ",
+    "First-class": {
+        "matches": "210",
+        "runs": "7530",
+        "bat avg": "26.42",
+        "100s/50s": "6/38",
+        "top score": "181",
+        "deliveries": "672",
+        "wickets": "15",
+        "bowl avg": "22.26",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/12",
+        "catches/stumpings": "90/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1948\u20131957"
+    },
+    "birth_date": "1926-10-10"
+}

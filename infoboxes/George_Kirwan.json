@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "George Kirwan",
+    "birth_place": "England",
+    "death_date": "23 July 1899",
+    "death_place": "Bedford, Bedfordshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16139.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "43",
+        "bat avg": "8.60",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1853"
+    }
+}

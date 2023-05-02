@@ -1,0 +1,43 @@
+{
+    "name": "Ray Wynter",
+    "fullname": "Ray Ricardo Wynter",
+    "birth_place": "Kingston, Jamaica",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Opening bowler",
+    "country": "United States",
+    "internationalspan": "1990",
+    "source": "https://cricketarchive.com/Archive/Players/14/14978/14978.html Cricket Archive ",
+    "First-class": {
+        "matches": "18",
+        "runs": "70",
+        "bat avg": "5.38",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "2067",
+        "wickets": "33",
+        "bowl avg": "37.54",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/48",
+        "catches/stumpings": "10/0"
+    },
+    "List-A": {
+        "matches": "12",
+        "runs": "22",
+        "bat avg": "4.40",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "582",
+        "wickets": "15",
+        "bowl avg": "24.53",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/15",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Jamaica": "1975\u20131983"
+    },
+    "birth_date": "1955-11-27"
+}

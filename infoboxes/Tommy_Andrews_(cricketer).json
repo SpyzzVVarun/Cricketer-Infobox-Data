@@ -1,0 +1,50 @@
+{
+    "name": "Tommy Andrews",
+    "country": "Australia",
+    "fullname": "Thomas James Edwin Andrews",
+    "birth_place": "Newtown, Australia",
+    "death_date": "1970",
+    "death_place": "Croydon, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right arm leg Right arm leg break",
+    "testdebutdate": "28 May",
+    "testdebutyear": "1921",
+    "testdebutagainst": "England",
+    "testcap": "115",
+    "lasttestdate": "18 August",
+    "lasttestyear": "1926",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/391/391.html CricketArchive ",
+    "Tests": {
+        "matches": "16",
+        "runs": "592",
+        "bat avg": "26.90",
+        "100s/50s": "0/4",
+        "top score": "94",
+        "deliveries": "156",
+        "wickets": "1",
+        "bowl avg": "116.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/23",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "First-class": {
+        "matches": "151",
+        "runs": "8,095",
+        "bat avg": "39.48",
+        "100s/50s": "14/43",
+        "top score": "247 not out",
+        "deliveries": "4,839",
+        "wickets": "95",
+        "bowl avg": "32.10",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/109",
+        "catches/stumpings": "86/&ndash;"
+    },
+    "clubs": {
+        "New South Wales": "1912&ndash;1929"
+    },
+    "birth_date": "1890-8-26"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Swarupam Purkayastha",
+    "country": "India",
+    "fullname": "Swarupam Purkayastha",
+    "birth_place": "Guwahati, Assam, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/339948.html Cricinfo ",
+    "FC": {
+        "matches": "41",
+        "runs": "1754",
+        "bat avg": "28.29",
+        "100s/50s": "2/8",
+        "top score": "113",
+        "deliveries": "3,890",
+        "wickets": "70",
+        "bowl avg": "30.60",
+        "fivefor": "6",
+        "tenfor": "2",
+        "best bowling": "8/29",
+        "catches/stumpings": "12/\u2013"
+    },
+    "LA": {
+        "matches": "40",
+        "runs": "1071",
+        "bat avg": "32.26",
+        "100s/50s": "3/2",
+        "deliveries": "1059",
+        "wickets": "14",
+        "bowl avg": "64.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/27",
+        "catches/stumpings": "12/\u2013"
+    },
+    "T20": {
+        "matches": "26",
+        "runs": "147",
+        "bat avg": "8.64",
+        "100s/50s": "0/0",
+        "deliveries": "255",
+        "wickets": "15",
+        "bowl avg": "24.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Assam": "2008\u2013present"
+    },
+    "birth_date": "1989-9-15"
+}

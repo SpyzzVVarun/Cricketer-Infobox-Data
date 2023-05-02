@@ -1,0 +1,61 @@
+{
+    "name": "Jaydev Shah",
+    "country": "India",
+    "fullname": "Jaydev Niranjan Shah",
+    "birth_place": "Rajkot, Gujarat, India",
+    "heightft": "5",
+    "heightinch": "6",
+    "heightm": "1.68",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm offbreak",
+    "role": "Batsman",
+    "family": "Niranjan Shah (father)",
+    "source": "http://www.cricinfo.com/indiandomestic2010/content/current/player/34997.html CricInfo ",
+    "FC": {
+        "matches": "120",
+        "runs": "5354",
+        "bat avg": "29.40",
+        "100s/50s": "10/21",
+        "top score": "217",
+        "deliveries": "1,723",
+        "wickets": "10",
+        "bowl avg": "91.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/21",
+        "catches/stumpings": "24/&ndash;"
+    },
+    "List A": {
+        "matches": "54",
+        "runs": "1118",
+        "bat avg": "21.50",
+        "100s/50s": "2/2",
+        "top score": "101",
+        "deliveries": "347",
+        "wickets": "2",
+        "bowl avg": "177.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/34",
+        "catches/stumpings": "8/&ndash;"
+    },
+    "T20": {
+        "matches": "33",
+        "runs": "523",
+        "bat avg": "16.34",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "75",
+        "wickets": "7",
+        "bowl avg": "15.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "11/&ndash;"
+    },
+    "clubs": {
+        "Saurashtra": "2002\u20132018",
+        "Gujarat Lions": "2016\u20132017"
+    },
+    "birth_date": "1983-5-4"
+}

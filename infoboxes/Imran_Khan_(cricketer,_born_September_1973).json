@@ -1,0 +1,41 @@
+{
+    "name": "Imran Khan",
+    "country": "Pakistan",
+    "fullname": "Mohammad Imran Khan",
+    "birth_place": "Rawalpindi, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/19/19116/19116.html CricketArchive ",
+    "FC": {
+        "matches": "5",
+        "runs": "23",
+        "bat avg": "3.28",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/12",
+        "catches/stumpings": "2/\u2013"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "134",
+        "bat avg": "19.14",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/11",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Agriculture Development Bank of Pakistan": "1994\u20132000"
+    },
+    "birth_date": "1973-9-10"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Grahame Thomas",
+    "birth_place": "Croydon Park, New South Wales, Australia",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutdate": "3 March",
+    "testdebutyear": "1965",
+    "lasttestdate": "11 February",
+    "lasttestyear": "1966",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7934.html Cricinfo",
+    "Tests": {
+        "matches": "8",
+        "runs": "325",
+        "bat avg": "29.54",
+        "100s/50s": "0/3",
+        "top score": "61",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "First-class": {
+        "matches": "100",
+        "runs": "5726",
+        "bat avg": "40.32",
+        "100s/50s": "17/23",
+        "top score": "229",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "92/2"
+    },
+    "clubs": {
+        "New South Wales": "1957\u201358 to 1965\u201366"
+    },
+    "birth_date": "1938-3-21"
+}

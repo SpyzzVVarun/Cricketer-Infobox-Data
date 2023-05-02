@@ -1,0 +1,30 @@
+{
+    "name": "Thomas Dashwood",
+    "country": "England",
+    "fullname": "Thomas Henry Knyvett Dashwood",
+    "birth_place": "St Ippollitts, Hertfordshire, England",
+    "death_date": "1929",
+    "death_place": "Fulham, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/11801.html Cricinfo ",
+    "FC": {
+        "matches": "18",
+        "runs": "334",
+        "bat avg": "11.92",
+        "100s/50s": "\u2013/1",
+        "top score": "70",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1904",
+        "Oxford University": "1899",
+        "Hertfordshire": "1898\u20131902 and 1907"
+    },
+    "birth_date": "1876-1-3"
+}

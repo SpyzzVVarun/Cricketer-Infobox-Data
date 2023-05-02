@@ -1,0 +1,35 @@
+{
+    "name": "Frank Smith",
+    "country": "England",
+    "fullname": "Frank Ernest Smith",
+    "birth_place": "Bury St Edmunds, Suffolk",
+    "death_date": "1943",
+    "death_place": "Sedbergh, Yorkshire",
+    "batting": "Left-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "umpire": "true",
+    "testsumpired": "5",
+    "umptestdebutyr": "1902",
+    "umptestlastyr": "1910",
+    "source": "http://www.espncricinfo.com/ci/content/player/20244.html CricInfo ",
+    "First-class": {
+        "matches": "68",
+        "runs": "578",
+        "bat avg": "9.79",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "10,358",
+        "wickets": "194",
+        "bowl avg": "20.36",
+        "fivefor": "9",
+        "tenfor": "3",
+        "best bowling": "6/12",
+        "catches/stumpings": "31/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1893\u20131908",
+        "London County": "1901\u20131902",
+        "Transvaal": "1906\u20131907"
+    },
+    "birth_date": "1872-5-13"
+}

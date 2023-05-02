@@ -1,0 +1,27 @@
+{
+    "fullname": "William Lovell-Hewitt",
+    "birth_place": "Trowbridge, Wiltshire, England",
+    "death_date": "1984",
+    "death_place": "Coulsdon, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16655.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "175",
+        "bat avg": "35.00",
+        "100s/50s": "&ndash;/2",
+        "top score": "92",
+        "deliveries": "72",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1938&ndash;1939",
+        "Wiltshire": "1920&ndash;1939"
+    }
+}

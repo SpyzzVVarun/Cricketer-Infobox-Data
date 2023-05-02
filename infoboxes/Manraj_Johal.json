@@ -1,0 +1,51 @@
+{
+    "name": "Manraj Johal",
+    "fullname": "Manraj Singh Johal",
+    "birth_place": "Birmingham, West Midlands, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "28 September",
+    "debutyear1": "2021",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Lancashire",
+    "type2": "LA",
+    "debutdate2": "22 July",
+    "debutyear2": "2021",
+    "debutfor2": "Warwickshire",
+    "debutagainst2": "Glamorgan",
+    "source": "http://www.espncricinfo.com/ci/content/player/1192439.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "108",
+        "wickets": "4",
+        "bowl avg": "14.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "deliveries": "250",
+        "wickets": "7",
+        "bowl avg": "32.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/35",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Warwickshire( 5 )": "2021"
+    },
+    "birth_date": "2001-10-12"
+}

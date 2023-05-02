@@ -1,0 +1,27 @@
+{
+    "name": "Noor Hayati Zakaria",
+    "female": "true",
+    "country": "Malaysia",
+    "fullname": "Noor Hayati Zakaria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "T20Idebutdate": "3 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "India",
+    "T20Icap": "7",
+    "lastT20Idate": "21 November",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "UAE",
+    "source": "http://www.espncricinfo.com/ci/content/player/1050027.html ESPNCricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "2000-9-1",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Bronze Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

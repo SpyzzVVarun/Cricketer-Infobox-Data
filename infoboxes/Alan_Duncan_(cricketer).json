@@ -1,0 +1,28 @@
+{
+    "name": "Alan Alexander Duncan",
+    "country": "Scotland",
+    "fullname": "Alan Alexander Duncan",
+    "birth_place": "Kirkcaldy, Fife, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/25482.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "28",
+        "bat avg": "28.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "28",
+        "deliveries": "30",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "2004&ndash;2006",
+        "Huntingdonshire": "2000"
+    },
+    "birth_date": "1980-3-9"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Tom Campbell",
+    "fullname": "Thomas Campbell",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "South Africa",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1910",
+    "lasttestdate": "10 June",
+    "lasttestyear": "1912",
+    "source": "https://www.espncricinfo.com/player/tom-campbell-44421 Cricinfo ",
+    "Tests": {
+        "matches": "5",
+        "runs": "90",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "7/1"
+    },
+    "First-class": {
+        "matches": "29",
+        "runs": "365",
+        "bat avg": "12.16",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "40/12"
+    },
+    "clubs": {}
+}

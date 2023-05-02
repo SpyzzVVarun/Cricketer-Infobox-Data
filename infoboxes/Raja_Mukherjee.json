@@ -1,0 +1,40 @@
+{
+    "name": "Raja Mukherjee",
+    "birth_place": "Calcutta, West Bengal, India",
+    "death_date": "2022",
+    "death_place": "Kolkata, West Bengal, India",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/31693.html ESPNcricinfo ",
+    "FC": {
+        "matches": "34",
+        "runs": "1,526",
+        "bat avg": "33.17",
+        "100s/50s": "4/5",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013/\u2013",
+        "catches/stumpings": "18/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "9",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Bengal": "1967/68\u20131978/79"
+    },
+    "birth_date": "1951-5-17"
+}

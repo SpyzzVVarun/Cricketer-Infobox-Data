@@ -1,0 +1,43 @@
+{
+    "name": "Mickey de Boer",
+    "fullname": "Mickey de Boer",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "country": "Netherlands",
+    "internationalspan": "1984",
+    "oneodi": "true",
+    "odidebutdate": "8 August",
+    "odidebutyear": "1984",
+    "odidebutagainst": "New Zealand",
+    "odicap": "1",
+    "source": "https://www.espncricinfo.com/ci/content/player/54692.html Cricinfo ",
+    "WODI": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "40.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/40",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "6",
+        "runs": "93",
+        "bat avg": "93.00",
+        "100s/50s": "0/1",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "76.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/40",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

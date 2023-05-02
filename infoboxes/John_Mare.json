@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Matthew Mare",
+    "birth_place": "Paddington, London, England",
+    "death_date": "1909",
+    "death_place": "England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/17321.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "616",
+        "bat avg": "14.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "97",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Sussex": "1870&ndash;1878"
+    },
+    "birth_date": "1854-2-22"
+}

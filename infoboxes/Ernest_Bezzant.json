@@ -1,0 +1,23 @@
+{
+    "name": "Ernest Bezzant",
+    "country": "New Zealand",
+    "fullname": "Ernest Frederic Bezzant",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Brisbane, Australia",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/36440.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "218",
+        "bat avg": "27.25",
+        "100s/50s": "0/2",
+        "top score": "78",
+        "deliveries": "0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Wellington": "1943\u201344"
+    },
+    "birth_date": "1916-10-26"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Anne Stears",
+    "female": "true",
+    "fullname": "Anne Stears",
+    "role": "Batter",
+    "internationalspan": "1997",
+    "country": "South Africa",
+    "odidebutdate": "16 December",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Pakistan",
+    "odicap": "18",
+    "lastodidate": "18 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Archive/Players/17/17384/17384.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

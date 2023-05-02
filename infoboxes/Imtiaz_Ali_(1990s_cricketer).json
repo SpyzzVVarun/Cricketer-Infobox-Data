@@ -1,0 +1,28 @@
+{
+    "name": "Imtiaz Ali Jr.",
+    "country": "Trinidad and Tobago",
+    "fullname": "Imtiaz Ali",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/20/20888/20888.html CricketArchive ",
+    "LA": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1994"
+    }
+}

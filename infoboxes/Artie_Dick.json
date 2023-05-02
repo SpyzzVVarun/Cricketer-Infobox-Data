@@ -1,0 +1,49 @@
+{
+    "name": "Artie Dick",
+    "fullname": "Arthur Edward Dick",
+    "birth_place": "Middlemarch, Otago, New Zealand",
+    "internationalspan": "1961\u20131965",
+    "country": "New Zealand",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "8 December",
+    "testdebutyear": "1961",
+    "testcap": "91",
+    "lasttestdate": "17 June",
+    "lasttestagainst": "England",
+    "lasttestyear": "1965",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36830.html Cricinfo ",
+    "Test": {
+        "matches": "17",
+        "runs": "370",
+        "bat avg": "14.23",
+        "100s/50s": "0/1",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "47/4"
+    },
+    "First-class": {
+        "matches": "78",
+        "runs": "2,315",
+        "bat avg": "20.30",
+        "100s/50s": "1/10",
+        "top score": "127",
+        "deliveries": "3",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "148/21"
+    },
+    "clubs": {
+        "Otago": "1956\u201357 to 1960\u201361",
+        "Wellington": "1962\u201363 to 1968\u201369"
+    },
+    "birth_date": "1936-10-10"
+}

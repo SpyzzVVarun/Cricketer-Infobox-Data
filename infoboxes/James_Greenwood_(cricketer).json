@@ -1,0 +1,23 @@
+{
+    "name": "James Greenwood",
+    "country": "England",
+    "fullname": "James Greenwood",
+    "source": "http://www.cricinfo.com/ci/content/player/13931.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "83",
+        "bat avg": "7.54",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1842\u20131845"
+    }
+}

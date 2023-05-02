@@ -1,0 +1,38 @@
+{
+    "country": "Namibia",
+    "fullname": "Gert Johannes Dippenaar",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/548558.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "84",
+        "wickets": "4",
+        "bowl avg": "16.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/49",
+        "catches/stumpings": "1/\u2013"
+    },
+    "Twenty20": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "6",
+        "wickets": "1",
+        "bowl avg": "9.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/9",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Namibia": "2011/12"
+    },
+    "birth_date": "1989-5-16"
+}

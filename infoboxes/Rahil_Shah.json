@@ -1,0 +1,56 @@
+{
+    "name": "Rahil Shah",
+    "country": "India",
+    "fullname": "Rahil Sanjay Shah",
+    "birth_place": "Surat, Gujarat, India",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/477161.html Cricinfo ",
+    "FC": {
+        "matches": "33",
+        "runs": "178",
+        "bat avg": "5.74",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "6,526",
+        "wickets": "112",
+        "bowl avg": "26.04",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "7/34",
+        "catches/stumpings": "16/\u2013"
+    },
+    "LA": {
+        "matches": "50",
+        "runs": "53",
+        "bat avg": "8.83",
+        "100s/50s": "0/0",
+        "deliveries": "2472",
+        "wickets": "78",
+        "bowl avg": "21.52",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/37",
+        "catches/stumpings": "22/\u2013"
+    },
+    "T20": {
+        "matches": "46",
+        "runs": "36",
+        "bat avg": "10.75",
+        "100s/50s": "0/0",
+        "deliveries": "907",
+        "wickets": "45",
+        "bowl avg": "23.28",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/12",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Tamil Nadu": "2011\u20132019",
+        "Uttarakhand": "2019\u20132020",
+        "Tripura": "2021\u2013present"
+    },
+    "birth_date": "1985-10-20"
+}

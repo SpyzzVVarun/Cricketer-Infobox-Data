@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "John Richard Latchford",
+    "birth_place": "Delph, Yorkshire, England",
+    "death_date": "1980",
+    "death_place": "Omagh, County Tyrone, , Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://search.espncricinfo.com/ci/content/player/16464.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "154",
+        "bat avg": "15.40",
+        "100s/50s": "&ndash;/1",
+        "top score": "63",
+        "deliveries": "585",
+        "wickets": "4",
+        "bowl avg": "45.25",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/6",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Durham": "1935&ndash;1939",
+        "Lancashire": "1930&ndash;1932"
+    },
+    "birth_date": "1909-6-16"
+}

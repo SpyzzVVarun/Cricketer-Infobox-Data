@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Lloyd Christopher Paternott",
+    "birth_place": "Watford, Hertfordshire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/558746.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "160",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "2013&ndash;2014",
+        "Oxford MCCU": "2014&ndash;2016"
+    },
+    "birth_date": "1992-1-15"
+}

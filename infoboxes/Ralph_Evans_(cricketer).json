@@ -1,0 +1,30 @@
+{
+    "name": "Ralph Evans",
+    "country": "England",
+    "fullname": "Ralph du Boulay Evans",
+    "birth_place": "Newtown, Hampshire, England",
+    "death_date": "1929",
+    "death_place": "Wheeler Ridge, California,, United States",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Alfred Evans (father), John Evans (brother), Alfred Evans (cousin), Dudley Evans (cousin), William Evans (cousin)",
+    "source": "http://www.cricinfo.com/ci/content/player/12579.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "102",
+        "bat avg": "34.00",
+        "100s/50s": "\u2013/1",
+        "top score": "70",
+        "deliveries": "396",
+        "wickets": "5",
+        "bowl avg": "45.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1912",
+        "Cambridge University": "1913"
+    }
+}

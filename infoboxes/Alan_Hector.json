@@ -1,0 +1,41 @@
+{
+    "name": "Alan Hector",
+    "fullname": "Alan Roy Hector",
+    "birth_place": "Springs, Transvaal, South Africa",
+    "death_date": "1986",
+    "death_place": "Durban, Natal, South Africa",
+    "family": "Benjamin Hector (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "https://www.espncricinfo.com/cricketers/alan-hector-45425 Cricinfo ",
+    "FC": {
+        "matches": "34",
+        "runs": "595",
+        "bat avg": "13.52",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "6661",
+        "wickets": "117",
+        "bowl avg": "25.21",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "5/22",
+        "catches/stumpings": "29/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "126",
+        "wickets": "3",
+        "bowl avg": "28.33",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "2/52",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1939-10-26"
+}

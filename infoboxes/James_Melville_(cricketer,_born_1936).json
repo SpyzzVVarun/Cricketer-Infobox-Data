@@ -1,0 +1,38 @@
+{
+    "name": "James Melville",
+    "country": "England",
+    "fullname": "James Edward Melville",
+    "birth_place": "Streatham, London, England",
+    "death_date": "2016",
+    "death_place": "Hereford, Herefordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "28 July",
+    "debutyear1": "1962",
+    "debutfor1": "Kent",
+    "debutagainst1": "Sussex",
+    "lastdate1": "17 August",
+    "lastyear1": "1963",
+    "lastfor1": "Kent",
+    "lastagainst1": "Somerset",
+    "source": "http://www.espncricinfo.com/ci/content/player/17534.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "20",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "965",
+        "wickets": "14",
+        "bowl avg": "30.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/78",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Kent": "1962\u20131963"
+    },
+    "birth_date": "1936-3-3"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Rex Neame",
+    "fullname": "Arthur Rex Beale Neame",
+    "birth_place": "Faversham, Kent",
+    "death_date": "2008",
+    "death_place": "Herne Bay, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "type1": "FC",
+    "debutdate1": "14 July",
+    "debutyear1": "1956",
+    "debutfor1": "Kent",
+    "debutagainst1": "Northants",
+    "lastdate1": "9 July",
+    "lastyear1": "1958",
+    "lastfor1": "DR Jardine's XI",
+    "lastagainst1": "Cambridge University",
+    "source": "http://www.espncricinfo.com/ci/content/player/18079.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "234",
+        "bat avg": "13.00",
+        "100s/50s": "0/1",
+        "top score": "69",
+        "deliveries": "336",
+        "wickets": "4",
+        "bowl avg": "42.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/4",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Kent": "1956\u20131957"
+    },
+    "birth_date": "1936-6-14"
+}

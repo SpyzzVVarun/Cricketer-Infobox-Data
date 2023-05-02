@@ -1,0 +1,43 @@
+{
+    "country": "England",
+    "fullname": "Stuart Alker Westley",
+    "birth_place": "Preston, Lancashire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "Roger Westley (twin brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/22872.html Cricinfo ",
+    "First-class": {
+        "matches": "34",
+        "runs": "557",
+        "bat avg": "15.59",
+        "100s/50s": "\u2013/2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "71/9"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "109",
+        "bat avg": "15.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "24/2"
+    },
+    "clubs": {
+        "Minor Counties": "1976",
+        "Suffolk": "1973\u20131984",
+        "Gloucestershire": "1969\u20131971",
+        "Oxford University": "1968\u20131969"
+    },
+    "birth_date": "1947-3-21"
+}

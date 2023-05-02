@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Raphael Joseph Anthony MacGinty",
+    "birth_place": "Croydon, Surrey, England",
+    "death_date": "2001",
+    "death_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/19747.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "32",
+        "bat avg": "4.57",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "1,209",
+        "wickets": "17",
+        "bowl avg": "29.64",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/58",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Cambridge University": "1952",
+        "Cambridgeshire": "1951&ndash;1952"
+    },
+    "birth_date": "1927-3-27"
+}

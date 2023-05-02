@@ -1,0 +1,40 @@
+{
+    "name": "Monty Garland-Wells",
+    "country": "England",
+    "fullname": "Herbert Montandon Garland-Wells",
+    "birth_place": "Brockley, London, England",
+    "death_date": "1993",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1927",
+    "debutfor1": "Oxford Univ.",
+    "debutagainst1": "Army",
+    "lastdate1": "31 August",
+    "lastyear1": "1939",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/29/29591/29591.html CricketArchive ",
+    "First-class": {
+        "matches": "190",
+        "runs": "6,068",
+        "bat avg": "23.33",
+        "100s/50s": "4/29",
+        "top score": "128",
+        "deliveries": "15,254",
+        "wickets": "185",
+        "bowl avg": "41.17",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/25",
+        "catches/stumpings": "141/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1927\u20131930",
+        "Surrey": "1928\u20131939"
+    },
+    "birth_date": "1907-11-14"
+}

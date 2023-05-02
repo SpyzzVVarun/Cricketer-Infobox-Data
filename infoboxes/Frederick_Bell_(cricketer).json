@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Frederick William Bell",
+    "birth_place": "St Neots, Huntingdonshire, England",
+    "death_date": "df=yes",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm roundarm-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9661.html Cricinfo ",
+    "First-class": {
+        "matches": "58",
+        "runs": "921",
+        "bat avg": "11.23",
+        "100s/50s": "\u2013/1",
+        "deliveries": "2,618",
+        "wickets": "79",
+        "bowl avg": "16.20",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/25",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Cambridge Town Club": "1847&ndash;1855",
+        "Cambridgeshire": "1857&ndash;1864",
+        "Marylebone Cricket Club": "1858"
+    }
+}

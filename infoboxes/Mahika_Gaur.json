@@ -1,0 +1,43 @@
+{
+    "name": "Mahika Gaur",
+    "female": "true",
+    "fullname": "Mahika Gaur",
+    "birth_place": "Reading, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Bowler",
+    "internationalspan": "2019\u2013present",
+    "country": "United Arab Emirates",
+    "T20Idebutdate": "19 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Indonesia",
+    "T20Icap": "19",
+    "lastT20Idate": "9 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/1171433.html Cricinfo ",
+    "WT20I": {
+        "matches": "19",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "deliveries": "354",
+        "wickets": "9",
+        "bowl avg": "33.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WT20": {
+        "100s/50s": "/",
+        "tenfor": "0",
+        "best bowling": "/",
+        "catches/stumpings": "/\u2013"
+    },
+    "clubs": {
+        "Manchester Originals": "2022\u2013present",
+        "North West Thunder": "2023\u2013present"
+    },
+    "birth_date": "2006-3-9"
+}

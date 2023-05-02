@@ -1,0 +1,30 @@
+{
+    "name": "William Dible",
+    "country": "England",
+    "fullname": "William Guy Dible",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1894",
+    "death_place": "Fareham, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/11890.html Cricinfo ",
+    "FC": {
+        "matches": "26",
+        "runs": "503",
+        "bat avg": "12.89",
+        "100s/50s": "\u2013/1",
+        "top score": "63",
+        "deliveries": "4,969",
+        "wickets": "90",
+        "bowl avg": "22.17",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/60",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1883\u20131890",
+        "Surrey": "1882"
+    },
+    "birth_date": "1861-11-5"
+}

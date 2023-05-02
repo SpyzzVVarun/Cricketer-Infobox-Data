@@ -1,0 +1,39 @@
+{
+    "country": "Namibia",
+    "fullname": "Dawid Hercules Botha",
+    "birth_place": "Windhoek, Khomas Region, Namibia",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/79/79208/79208.html CricketArchive subscription required ",
+    "First-class": {
+        "matches": "11",
+        "runs": "587",
+        "bat avg": "29.35",
+        "100s/50s": "2/2",
+        "top score": "120",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "13/&ndash;"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "242",
+        "bat avg": "24.20",
+        "100s/50s": "&ndash;/3",
+        "top score": "58",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2006/07&ndash;2007/08"
+    },
+    "birth_date": "1988-7-1"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Simpson Obed",
+    "country": "Vanuatu",
+    "T20Idebutdate": "22 March",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "PNG",
+    "T20Icap": "8",
+    "lastT20Idate": "16 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Fiji",
+    "source": "http://www.espncricinfo.com/ci/content/player/302866.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1989-9-17",
+    "medaltemplates": [
+        "Country: {{VAN}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2019 Apia Twenty20 International"
+    ]
+}

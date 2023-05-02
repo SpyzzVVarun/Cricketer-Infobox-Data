@@ -1,0 +1,52 @@
+{
+    "name": "Charles Studd",
+    "country": "England",
+    "fullname": "Charles Thomas Studd",
+    "birth_place": "Spratton, Northamptonshire, England",
+    "death_date": "df=yes",
+    "death_place": "Ibambi, Belgian Congo",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Arthur Studd (brother)",
+    "testdebutdate": "28 August",
+    "testdebutyear": "1882",
+    "testdebutagainst": "Australia",
+    "testcap": "37",
+    "lasttestdate": "17 February",
+    "lasttestyear": "1883",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/england/content/player/20398.html Cricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "160",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "384",
+        "wickets": "3",
+        "bowl avg": "32.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/35",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "99",
+        "runs": "4,391",
+        "bat avg": "30.49",
+        "100s/50s": "8/14",
+        "deliveries": "22,655",
+        "wickets": "444",
+        "bowl avg": "17.36",
+        "fivefor": "32",
+        "tenfor": "9",
+        "best bowling": "8/40",
+        "catches/stumpings": "73/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1879\u20131884",
+        "Cambridge University": "1880\u20131883",
+        "MCC": "1881\u20131884"
+    },
+    "birth_date": "1860-12-2"
+}

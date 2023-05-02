@@ -1,0 +1,39 @@
+{
+    "name": "Jack Bucknell",
+    "country": "England",
+    "fullname": "John Bucknell",
+    "birth_place": "Bedminster, Bristol, England",
+    "death_date": "1925",
+    "death_place": "Darlington, Co Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium-pace, Right-arm medium-pace, leg-break",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "13 May",
+    "debutyear1": "1895",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "7 July",
+    "lastyear1": "1905",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3463/3463.html CricketArchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "144",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "943",
+        "wickets": "10",
+        "bowl avg": "61.70",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/93",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1895\u20131905"
+    },
+    "birth_date": "1872-6-7"
+}

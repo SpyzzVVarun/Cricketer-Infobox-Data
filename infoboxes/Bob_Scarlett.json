@@ -1,0 +1,27 @@
+{
+    "name": "Bob Scarlett",
+    "fullname": "Robert Lucian Scarlett",
+    "birth_place": "Port Maria, St Mary, Jamaica",
+    "family": "Reg Scarlett (brother)",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/westindies/content/player/52981.html  Cricinfo",
+    "First-class": {
+        "matches": "4",
+        "runs": "44",
+        "bat avg": "7.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "828",
+        "wickets": "9",
+        "bowl avg": "48.77",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/95",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1963-64"
+    },
+    "birth_date": "1943-5-23"
+}

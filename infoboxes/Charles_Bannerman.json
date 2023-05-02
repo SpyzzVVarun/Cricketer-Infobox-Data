@@ -1,0 +1,51 @@
+{
+    "name": "Charles Bannerman",
+    "country": "Australia",
+    "fullname": "Charles Bannerman",
+    "birth_place": "Woolwich, Kent, England",
+    "death_date": "1931",
+    "death_place": "Surry Hills, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Left arm Left arm medium",
+    "testdebutdate": "15 March",
+    "testdebutyear": "1877",
+    "testdebutagainst": "England",
+    "testcap": "1",
+    "lasttestdate": "4 January",
+    "lasttestyear": "1879",
+    "lasttestagainst": "England",
+    "umpire": "true",
+    "testsumpired": "12",
+    "umptestdebutyr": "1887",
+    "umptestlastyr": "1902",
+    "source": "https://www.espncricinfo.com/australia/content/player/4091.html CricInfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "239",
+        "bat avg": "59.75",
+        "100s/50s": "1/0",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "44",
+        "runs": "1687",
+        "bat avg": "21.62",
+        "100s/50s": "1/9",
+        "deliveries": "137",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1870\u20131888"
+    }
+}

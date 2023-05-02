@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Kenneth Charles Came",
+    "birth_place": "Caversham, Berkshire, England",
+    "death_date": "1986",
+    "death_place": "Up Nately, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Walter Robins (father-in-law), Charles Robins (brother-in-law)",
+    "source": "http://www.espncricinfo.com/ci/content/player/10987.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "90",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Free Foresters": "1957",
+        "Berkshire": "1956\u20131957"
+    },
+    "birth_date": "1925-10-29"
+}

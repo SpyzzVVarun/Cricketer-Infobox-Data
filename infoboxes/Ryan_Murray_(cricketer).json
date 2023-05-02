@@ -1,0 +1,49 @@
+{
+    "name": "Ryan Murray",
+    "fullname": "Ryan Craig Murray",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "role": "Wicketkeeper",
+    "country": "Zimbabwe",
+    "odicap": "135",
+    "odidebutdate": "13 July",
+    "odidebutyear": "2018",
+    "odidebutagainst": "Pakistan",
+    "lastodidate": "22 July",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/696139.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "5",
+        "runs": "108",
+        "bat avg": "27.00",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "1/0"
+    },
+    "FC": {
+        "matches": "2",
+        "runs": "113",
+        "bat avg": "28.25",
+        "100s/50s": "0/1",
+        "top score": "84",
+        "catches/stumpings": "6/1"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "62",
+        "bat avg": "31.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "34",
+        "bat avg": "34.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1998-3-30"
+}

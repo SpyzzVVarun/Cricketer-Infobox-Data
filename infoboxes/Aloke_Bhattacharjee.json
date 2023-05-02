@@ -1,0 +1,47 @@
+{
+    "name": "Aloke Bhattacharjee",
+    "country": "India",
+    "birth_place": "Howrah, Bengal, India",
+    "death_date": "2016",
+    "death_place": "Kolkata, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg-spin, Right-arm leg-spin, off-spin",
+    "umpire": "true",
+    "odisumpired": "3",
+    "umpodidebutyr": "1998",
+    "umpodilastyr": "2002",
+    "source": "http://www.espncricinfo.com/india/content/player/27256.html Cricinfo ",
+    "FC": {
+        "matches": "42",
+        "runs": "575",
+        "bat avg": "15.54",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "deliveries": "6887",
+        "wickets": "134",
+        "bowl avg": "22.67",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/7",
+        "catches/stumpings": "15/\u2013"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "69",
+        "bat avg": "17.25",
+        "100s/50s": "0/0",
+        "top score": "18 not out",
+        "deliveries": "495",
+        "wickets": "1",
+        "bowl avg": "323.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/30",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Bengal": "1970\u201371 to 1986\u201387",
+        "East Zone": "1975\u201376 to 1979\u201380"
+    },
+    "birth_date": "1953-8-24"
+}

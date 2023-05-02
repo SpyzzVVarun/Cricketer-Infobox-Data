@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Edward James Austin",
+    "birth_place": "Buckland Ripers, Dorset, England",
+    "death_date": "1891",
+    "death_place": "Pimlico, London, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown arm roundarm Unknown arm roundarm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/8831.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "29.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/58",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1869"
+    },
+    "birth_date": "1847-9-25"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Wilfred Ernest Harris",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "death_date": "1996",
+    "death_place": "Cardiff, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "family": "Leslie Harris (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/14079.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "59",
+        "bat avg": "7.35",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "64",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1938-1947"
+    },
+    "birth_date": "1919-4-24"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Robert Braddell",
+    "country": "England",
+    "fullname": "Robert Lyttleton Lee Braddell",
+    "birth_place": "Malacca, Straits Settlements",
+    "death_date": "1965",
+    "death_place": "Sintra, Portugal",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "type1": "First-class",
+    "debutdate1": "14 May",
+    "debutyear1": "1908",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "19 May",
+    "lastyear1": "1926",
+    "lastfor1": "HDG Leveson-Gower's XI",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/28/28078/28078.html CricketArchive ",
+    "First-class": {
+        "matches": "20",
+        "runs": "650",
+        "bat avg": "18.57",
+        "100s/50s": "0/3",
+        "top score": "96",
+        "deliveries": "425",
+        "wickets": "11",
+        "bowl avg": "22.45",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/1",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "HDG Leveson-Gower's XI": "1926",
+        "Gentlemen of England": "1919",
+        "Marylebone Cricket Club (MCC)": "1909-1911",
+        "Oxford University": "1908-1911"
+    },
+    "birth_date": "1888-12-14"
+}

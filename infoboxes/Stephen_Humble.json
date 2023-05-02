@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Stephen Humble",
+    "nickname": "FOS (Funny Owld Steve)",
+    "birth_place": "Hexham, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15165.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "93",
+        "bat avg": "46.50",
+        "100s/50s": "&ndash;/1",
+        "deliveries": "126",
+        "wickets": "5",
+        "bowl avg": "20.40",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/33",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Northumberland": "2003-2008",
+        "Durham Cricket Board": "2001-2002"
+    },
+    "birth_date": "1977-1-3"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Charles Taylor",
+    "country": "England",
+    "birth_place": "Turnham Green, Middlesex, England",
+    "death_date": "10 September 1869 (aged 52)",
+    "death_place": "Frensham, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/21715.html CricInfo ",
+    "First-class": {
+        "matches": "125",
+        "runs": "3,088",
+        "bat avg": "14.29",
+        "100s/50s": "2/9",
+        "top score": "114",
+        "deliveries": "3,468",
+        "wickets": "287",
+        "bowl avg": "13.58",
+        "fivefor": "22",
+        "tenfor": "6",
+        "best bowling": "8/?",
+        "catches/stumpings": "69/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,48 @@
+{
+    "name": "David Evans",
+    "fullname": "David Gwilym Lloyd Evans",
+    "birth_place": "Lambeth, London, England",
+    "death_date": "1990",
+    "death_place": "Drefach, Ceredigion, Wales",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "umpire": "yes",
+    "testsumpired": "9",
+    "umptestdebutyr": "1981",
+    "umptestlastyr": "1985",
+    "odisumpired": "13",
+    "umpodidebutyr": "1979",
+    "umpodilastyr": "1985",
+    "source": "https://www.espncricinfo.com/player/david-evans-12527 Cricinfo",
+    "First-class": {
+        "matches": "270",
+        "runs": "2875",
+        "bat avg": "10.53",
+        "100s/50s": "0/0",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "503/55"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Glamorgan": "1956\u20131969"
+    },
+    "birth_date": "1933-7-27"
+}

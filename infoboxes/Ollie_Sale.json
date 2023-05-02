@@ -1,0 +1,51 @@
+{
+    "name": "Ollie Sale",
+    "country": "England",
+    "fullname": "Oliver Richard Trethowan Sale",
+    "birth_place": "Newcastle-under-Lyme, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "List A",
+    "debutdate1": "12 August",
+    "debutyear1": "2022",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Leicestershire",
+    "type2": "Twenty20",
+    "debutdate2": "29 July",
+    "debutyear2": "2016",
+    "debutfor2": "Somerset",
+    "debutagainst2": "Hampshire",
+    "source": "https://cricketarchive.com/Archive/Players/483/483550/483550.html CricketArchive ",
+    "LA": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "144",
+        "wickets": "3",
+        "bowl avg": "60.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/80",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "10",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "deliveries": "196",
+        "wickets": "13",
+        "bowl avg": "26.23",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/32",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Somerset( 82 )": "2016\u20132022"
+    },
+    "birth_date": "1995-9-30"
+}

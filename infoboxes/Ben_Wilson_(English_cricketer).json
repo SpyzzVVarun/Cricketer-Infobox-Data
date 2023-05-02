@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Ben Ambler Wilson",
+    "birth_place": "Knaresborough, Yorkshire, England",
+    "death_date": "September 1993",
+    "death_place": "Whitby, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Benjamin Wilson (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/23052.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "75.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/75",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Suffolk": "1955&ndash;1959",
+        "Warwickshire": "1951"
+    },
+    "birth_date": "1921-9-22"
+}

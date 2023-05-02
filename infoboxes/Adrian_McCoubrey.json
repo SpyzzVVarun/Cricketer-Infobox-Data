@@ -1,0 +1,43 @@
+{
+    "name": "Adrian McCoubrey",
+    "fullname": "Adrian George Agustus Mathew McCoubrey",
+    "birth_place": "Ballymena, County Antrim, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Ireland",
+    "type1": "First-class",
+    "debutdate1": "21 August",
+    "debutyear1": "1999",
+    "lastdate1": "27 October",
+    "lastyear1": "2005",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/8/8899/8899.html Cricket Archive",
+    "First-class": {
+        "matches": "14",
+        "runs": "15",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "deliveries": "1704",
+        "wickets": "34",
+        "bowl avg": "34.32",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/16",
+        "catches/stumpings": "5/0"
+    },
+    "List A": {
+        "matches": "15",
+        "runs": "22",
+        "bat avg": "5.50",
+        "100s/50s": "0/2",
+        "top score": "11",
+        "deliveries": "534",
+        "wickets": "8",
+        "bowl avg": "48.25",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/19",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1980-04-03"
+}

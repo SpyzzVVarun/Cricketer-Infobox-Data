@@ -1,0 +1,22 @@
+{
+    "name": "David Pearson",
+    "country": "England",
+    "fullname": "David John Pearson",
+    "nickname": "DP",
+    "birth_place": "Whalley, Lancashire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/18484.html Cricinfo ",
+    "List A": {
+        "matches": "10",
+        "runs": "136",
+        "bat avg": "13.60",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cumberland": "1990\u20132000"
+    },
+    "birth_date": "1963-4-16"
+}

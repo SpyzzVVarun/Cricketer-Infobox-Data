@@ -1,0 +1,48 @@
+{
+    "name": "Matt Henderson",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1970",
+    "death_place": "Lower Hutt, Wellington, New Zealand",
+    "country": "New Zealand",
+    "internationalspan": "1930",
+    "onetest": "true",
+    "testdebutdate": "10 January",
+    "testdebutyear": "1930",
+    "testdebutagainst": "England",
+    "testcap": "6",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37246.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "90",
+        "wickets": "2",
+        "bowl avg": "32.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/38",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "41",
+        "runs": "495",
+        "bat avg": "14.14",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "6,649",
+        "wickets": "107",
+        "bowl avg": "29.90",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/70",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1921/22\u20131931/32"
+    },
+    "birth_date": "1895-8-2"
+}

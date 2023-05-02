@@ -1,0 +1,23 @@
+{
+    "name": "Geoffrey Cradock-Watson",
+    "country": "England",
+    "fullname": "Geoffrey Gillman Cradock-Watson",
+    "birth_place": "Great Crosby, Lancashire, England",
+    "death_date": "1989",
+    "death_place": "Gloucester, Gloucestershire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/27746.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "179",
+        "bat avg": "14.91",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "6/4"
+    },
+    "clubs": {
+        "Northern India": "1937/38\u20131938/39",
+        "Europeans": "1937/38\u20131939/40"
+    }
+}

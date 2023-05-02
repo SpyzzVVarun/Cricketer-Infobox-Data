@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "A. Clarke",
+    "batting": "Unknown",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/11145.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "deliveries": "114",
+        "wickets": "2",
+        "bowl avg": "35.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/70",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1902"
+    }
+}

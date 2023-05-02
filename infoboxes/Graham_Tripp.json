@@ -1,0 +1,36 @@
+{
+    "name": "Graham Tripp",
+    "country": "England",
+    "fullname": "Graham Malcolm Tripp",
+    "birth_place": "Clevedon, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "15 June",
+    "debutyear1": "1955",
+    "debutfor1": "Somerset",
+    "debutagainst1": "South Africans",
+    "lastdate1": "24 July",
+    "lastyear1": "1959",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Hampshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3861/3861.html CricketArchive ",
+    "First-class": {
+        "matches": "34",
+        "runs": "700",
+        "bat avg": "12.72",
+        "100s/50s": "0/2",
+        "top score": "62",
+        "deliveries": "7",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1955\u20131959"
+    },
+    "birth_date": "1932-6-29"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Natasha McLean",
+    "female": "true",
+    "country": "West Indies",
+    "internationalspan": "2012\u2013present",
+    "fullname": "Natasha Yannick McLean",
+    "birth_place": "Spanish Town, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "odidebutdate": "27 April",
+    "odidebutyear": "2012",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "76",
+    "lastodidate": "25 September",
+    "lastodiyear": "2022",
+    "lastodiagainst": "New Zealand",
+    "T20Idebutdate": "9 May",
+    "T20Idebutyear": "2012",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "28",
+    "lastT20Idate": "6 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/westindies/content/player/474201.html ESPNCricinfo ",
+    "WODI": {
+        "matches": "33",
+        "runs": "441",
+        "bat avg": "14.70",
+        "100s/50s": "0/2",
+        "top score": "82",
+        "catches/stumpings": "6/0"
+    },
+    "WT20I": {
+        "matches": "39",
+        "runs": "435",
+        "bat avg": "15.53",
+        "100s/50s": "0/1",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "2010\u2013present",
+        "Trinbago Knight Riders": "2022\u2013present"
+    },
+    "birth_date": "1994-12-22"
+}

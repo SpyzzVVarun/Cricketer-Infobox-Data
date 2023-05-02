@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Thomas Ellis",
+    "birth_place": "Birmingham, Warwickshire,, England",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12761.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "75",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "332",
+        "wickets": "17",
+        "bowl avg": "8.20",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/11",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1849&ndash;1851"
+    }
+}

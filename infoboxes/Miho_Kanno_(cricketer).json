@@ -1,0 +1,29 @@
+{
+    "name": "Miho Kanno",
+    "female": "true",
+    "birth_place": "Gunma, Japan",
+    "batting": "Right-handed",
+    "bowling": "Right arm fast Right arm fast medium",
+    "country": "Japan",
+    "T20Idebutdate": "6 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Indonesia",
+    "T20Icap": "4",
+    "lastT20Idate": "22 September",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "South Korea",
+    "source": "http://espncricinfo.com/ci/content/player/486899.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Adore Cricket Club": ""
+    },
+    "birth_date": "1990-04-16",
+    "medaltemplates": [
+        "Country: {{JAP}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2010 Guangzhou Team"
+    ]
+}

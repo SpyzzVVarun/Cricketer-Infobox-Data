@@ -1,0 +1,27 @@
+{
+    "name": "Arthur Pike",
+    "birth_place": "Keyworth",
+    "death_date": "1907",
+    "death_place": "Keyworth",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/england/content/player/18955.html CricInfo",
+    "First-class": {
+        "matches": "66",
+        "runs": "1128",
+        "bat avg": "13.92",
+        "100s/50s": "0/3",
+        "top score": "66",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "102/30 |role = Wicket-keeper-Batsman"
+    },
+    "clubs": {
+        "Nottinghamshire": "1894\u20131899",
+        "MCC": "1901"
+    },
+    "birth_date": "1862-12-25"
+}

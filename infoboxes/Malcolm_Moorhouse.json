@@ -1,0 +1,28 @@
+{
+    "name": "Malcolm Moorhouse",
+    "nickname": "Harry",
+    "birth_place": "Hackney, Middlesex, England",
+    "death_date": "7 June 1955 (aged 88 or 89)",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "role": "Batsman, sometimes wicket-keeper and bowler",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37949.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "376",
+        "bat avg": "19.78",
+        "100s/50s": "0/2",
+        "top score": "86",
+        "deliveries": "266",
+        "wickets": "3",
+        "bowl avg": "36.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/15",
+        "catches/stumpings": "12/10"
+    },
+    "clubs": {
+        "Canterbury": "1883-84, 1907-08",
+        "Wellington": "1886-87 to 1890-91"
+    }
+}

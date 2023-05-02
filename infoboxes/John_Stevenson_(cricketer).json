@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Francis Stevenson",
+    "birth_place": "Handsworth, Warwickshire, England",
+    "death_date": "1951",
+    "death_place": "Edgbaston, Warwickshire, , England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/21032.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1919"
+    },
+    "birth_date": "1888-3-18"
+}

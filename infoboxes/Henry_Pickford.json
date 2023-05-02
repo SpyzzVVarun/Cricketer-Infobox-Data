@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Henry Pickford",
+    "birth_place": "Cheadle, Cheshire, England",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19196.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "139",
+        "bat avg": "6.61",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1849"
+    }
+}

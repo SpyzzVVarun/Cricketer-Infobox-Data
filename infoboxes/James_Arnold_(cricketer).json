@@ -1,0 +1,37 @@
+{
+    "name": "James Arnold",
+    "country": "England",
+    "fullname": "James Frederick Arnold",
+    "birth_place": "Withington, Manchester, England",
+    "death_date": "1944",
+    "death_place": "West Worthing, Sussex, England",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "28 May",
+    "debutyear1": "1896",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Australians",
+    "lastdate1": "8 June",
+    "lastyear1": "1896",
+    "lastfor1": "Lancashire",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/27/27529/27529.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "94",
+        "bat avg": "18.80",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "0",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "N/A",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1896"
+    },
+    "birth_date": "1869-3-2"
+}

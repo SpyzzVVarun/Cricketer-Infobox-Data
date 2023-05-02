@@ -1,0 +1,21 @@
+{
+    "name": "William Hargreaves",
+    "country": "England",
+    "fullname": "William Henry Hargreaves",
+    "birth_place": "Great Wymondley, Hertfordshire",
+    "death_date": "1948",
+    "death_place": "Gravesend, Kent",
+    "source": "http://www.espncricinfo.com/ci/content/player/14541.html CricInfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1893"
+    },
+    "birth_date": "1872-9-6"
+}

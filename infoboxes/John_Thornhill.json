@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "John Thornhill",
+    "birth_place": "Hemingford Grey, Huntingdonshire, England",
+    "death_date": "1875",
+    "death_place": "Boxworth, Cambridgeshire, England",
+    "family": "Charles Thornhill (brother), George Thornhill (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/22073.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "8",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1840&ndash;1842"
+    }
+}

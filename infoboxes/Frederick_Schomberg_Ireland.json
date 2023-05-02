@@ -1,0 +1,40 @@
+{
+    "name": "Frederick Ireland",
+    "country": "England",
+    "fullname": "Frederick Schomberg Ireland",
+    "birth_place": "Port Louis, Mauritius",
+    "death_date": "1937",
+    "death_place": "Menton, France",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "family": "Alan Pegler (grandson) John Frederick Ireland (nephew), Eric Norman Spencer Crankshaw (nephew-in-law)",
+    "type1": "FC",
+    "debutdate1": "13 June",
+    "debutyear1": "1878",
+    "debutfor1": "Kent",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "27 June",
+    "lastyear1": "1887",
+    "lastfor1": "Kent",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.espncricinfo.com/ci/content/player/15430.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "125",
+        "bat avg": "17.85",
+        "100s/50s": "0/1",
+        "top score": "87",
+        "deliveries": "140",
+        "wickets": "3",
+        "bowl avg": "18.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1878\u20131887",
+        "Devon": "1879\u20131883"
+    },
+    "birth_date": "1860-4-6"
+}

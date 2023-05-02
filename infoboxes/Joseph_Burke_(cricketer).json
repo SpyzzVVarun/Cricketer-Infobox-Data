@@ -1,0 +1,21 @@
+{
+    "name": "Joseph Burke",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26710/26710.html CricketArchive",
+    "First-class": {
+        "matches": "3",
+        "runs": "36",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "156",
+        "wickets": "3",
+        "bowl avg": "35.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

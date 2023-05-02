@@ -1,0 +1,26 @@
+{
+    "name": "David Kidner",
+    "country": "England",
+    "fullname": "David Aaron Kidner",
+    "birth_place": "Bristol, Avon, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/15943.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "28",
+        "bat avg": "28.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "78",
+        "wickets": "1",
+        "bowl avg": "65.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/21",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Dorset": "2000&ndash;2004 & 2009&ndash;present"
+    },
+    "birth_date": "1982-3-13"
+}

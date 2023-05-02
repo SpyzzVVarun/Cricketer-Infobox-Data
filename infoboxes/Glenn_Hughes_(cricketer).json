@@ -1,0 +1,43 @@
+{
+    "name": "Glenn Hughes",
+    "country": "Australia",
+    "fullname": "Glenn Arthur Hughes",
+    "birth_place": "Goomalling, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "family": "Kim Hughes (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/5721.html Cricinfo ",
+    "FC": {
+        "matches": "44",
+        "runs": "2,571",
+        "bat avg": "35.21",
+        "100s/50s": "3/16",
+        "top score": "147",
+        "deliveries": "2,603",
+        "wickets": "16",
+        "bowl avg": "79.37",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/20",
+        "catches/stumpings": "17/\u2013"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "399",
+        "bat avg": "23.47",
+        "100s/50s": "0/2",
+        "top score": "98",
+        "deliveries": "198",
+        "wickets": "2",
+        "bowl avg": "79.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/33",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1986/87\u20131991/92",
+        "Orange Free State": "1989/80"
+    },
+    "birth_date": "1959-11-23"
+}

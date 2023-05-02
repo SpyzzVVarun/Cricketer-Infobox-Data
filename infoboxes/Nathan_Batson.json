@@ -1,0 +1,23 @@
+{
+    "name": "Nathan Batson",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm off-break",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/9040.html Cricinfo",
+    "First-class": {
+        "matches": "8",
+        "runs": "231",
+        "bat avg": "15.40",
+        "100s/50s": "0/1",
+        "top score": "72",
+        "catches/stumpings": "5/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "43",
+        "bat avg": "43.00",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

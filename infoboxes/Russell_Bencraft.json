@@ -1,0 +1,29 @@
+{
+    "name": "Russell Bencraft",
+    "country": "England",
+    "fullname": "Henry William Russell Bencraft",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1943",
+    "death_place": "Compton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Ernest Read (nephew)",
+    "source": "http://www.cricinfo.com/england/content/player/9066.html Cricinfo ",
+    "First-class": {
+        "matches": "46",
+        "runs": "932",
+        "bat avg": "15.53",
+        "100s/50s": "\u2013/2",
+        "deliveries": "363",
+        "wickets": "5",
+        "bowl avg": "39.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/15",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1876\u20131896",
+        "Marylebone Cricket Club": "1881\u20131885"
+    }
+}

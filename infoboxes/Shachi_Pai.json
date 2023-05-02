@@ -1,0 +1,47 @@
+{
+    "name": "Shachi Pai",
+    "female": "true",
+    "fullname": "Shachi Pai",
+    "birth_place": "Mumbai, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1114/1114212/1114212.html CricketArchive",
+    "WLA": {
+        "matches": "33",
+        "runs": "259",
+        "bat avg": "11.26",
+        "100s/50s": "0/0",
+        "deliveries": "89",
+        "wickets": "2",
+        "bowl avg": "35.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "6/\u2013"
+    },
+    "WT20": {
+        "matches": "43",
+        "runs": "287",
+        "bat avg": "10.62",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "198",
+        "wickets": "3",
+        "bowl avg": "60.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/13",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2022\u2013present",
+        "\u2192 Cumbria (on loan)": "2019",
+        "Nottinghamshire": "2020",
+        "Lightning": "2020\u20132021",
+        "Derbyshire": "2021",
+        "North Representative XI": "2022",
+        "North West Thunder": "2022\u2013present"
+    },
+    "birth_date": "1998-10-10"
+}

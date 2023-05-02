@@ -1,0 +1,31 @@
+{
+    "name": "Thomas Raikes",
+    "country": "England",
+    "fullname": "Thomas Barkley Raikes",
+    "birth_place": "Malabar Hill, Bombay, British India",
+    "death_date": "1984",
+    "death_place": "Rickinghall Superior, Suffolk, England",
+    "family": "Ernest Raikes (father), George Raikes (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "First-class",
+    "source": "https://cricketarchive.com/Players/32/32231/32231.html CricketArchive ",
+    "First-class": {
+        "matches": "38",
+        "runs": "554",
+        "bat avg": "12.88",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "6,704",
+        "wickets": "132",
+        "bowl avg": "25.03",
+        "fivefor": "7",
+        "tenfor": "2",
+        "best bowling": "9/38",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1922\u20131925"
+    },
+    "birth_date": "1902-12-16"
+}

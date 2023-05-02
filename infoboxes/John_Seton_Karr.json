@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "John Seton Karr",
+    "birth_place": "Malda, Bengal Presidency,, British India",
+    "death_date": "df=yes",
+    "death_place": "Strachur, Argyll, Scotland",
+    "family": "Walter Seton (nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21273.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "51",
+        "bat avg": "8.50",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1837&ndash;1838",
+        "Oxford University": "1837"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Harry Alexander",
+    "fullname": "Harry Houston Alexander",
+    "nickname": "Bull",
+    "birth_place": "Ascot Vale, Melbourne, Victoria, Australia",
+    "death_date": "1993",
+    "death_place": "East Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "23 February",
+    "testdebutyear": "1933",
+    "onetest": "true",
+    "source": "http://www.espncricinfo.com/australia/content/player/3945.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "deliveries": "276",
+        "wickets": "1",
+        "bowl avg": "154.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/129",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "41",
+        "runs": "228",
+        "bat avg": "6.16",
+        "100s/50s": "0/0",
+        "deliveries": "6,449",
+        "wickets": "95",
+        "bowl avg": "33.91",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/95",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "Victoria": "1928/29\u20131933/34"
+    },
+    "birth_date": "1905-6-9"
+}

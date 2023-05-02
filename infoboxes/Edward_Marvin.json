@@ -1,0 +1,20 @@
+{
+    "country": "South Africa",
+    "fullname": "Edward William Marvin",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "1918",
+    "death_place": "Bouchavesnes-Bergen, Somme, France",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/46182.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "47",
+        "bat avg": "15.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1908/09"
+    }
+}

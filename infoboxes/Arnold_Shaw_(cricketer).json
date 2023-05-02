@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Arnold Lupton Shaw",
+    "birth_place": "Harrogate, Yorkshire, England",
+    "death_date": "1972",
+    "death_place": "Malton, Yorkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/arnold-shaw-34422 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "64",
+        "bat avg": "9.14",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "126",
+        "wickets": "5",
+        "bowl avg": "12.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/47",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1933/34\u20131935/36",
+        "Madras": "1934/35\u20131935/36"
+    }
+}

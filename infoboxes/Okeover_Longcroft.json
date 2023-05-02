@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Okeover Butler Longcroft",
+    "birth_place": "Havant, Hampshire, England",
+    "death_date": "1871",
+    "death_place": "Havant, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.cricinfo.com/ci/content/player/16341.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "103",
+        "wickets": "8",
+        "bowl avg": "9.37",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/15",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Hampshire": "1869\u20131870"
+    },
+    "birth_date": "1850-3-6"
+}

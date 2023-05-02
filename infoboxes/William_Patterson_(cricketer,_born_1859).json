@@ -1,0 +1,30 @@
+{
+    "name": "William Patterson",
+    "fullname": "William Harry Patterson",
+    "birth_place": "Royal Military College, Sandhurst, Berkshire",
+    "death_date": "1946",
+    "death_place": "Hove, Sussex",
+    "family": "John Patterson (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm Right-arm medium Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/18791.html CricInfo ",
+    "First-class": {
+        "matches": "176",
+        "runs": "7,570",
+        "bat avg": "26.28",
+        "100s/50s": "10/31",
+        "top score": "181",
+        "deliveries": "1,738",
+        "wickets": "31",
+        "bowl avg": "33.64",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/13",
+        "catches/stumpings": "122/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1878\u20131881",
+        "Kent": "1880\u20131900"
+    },
+    "birth_date": "1859-3-11"
+}

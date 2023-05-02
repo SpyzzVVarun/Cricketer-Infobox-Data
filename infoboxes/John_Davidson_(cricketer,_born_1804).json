@@ -1,0 +1,24 @@
+{
+    "name": "John Davidson",
+    "country": "England",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/12353.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "63",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "18",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/4"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1830&ndash;1835",
+        "Hampshire": "1828"
+    }
+}

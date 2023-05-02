@@ -1,0 +1,66 @@
+{
+    "name": "Josh Inglis",
+    "fullname": "Joshua Patrick Inglis",
+    "birth_place": "Leeds, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper-batter",
+    "country": "Australia",
+    "internationalspan": "2022-present",
+    "odidebutdate": "24 June",
+    "odidebutyear": "2022",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "237",
+    "lastodidate": "17 March",
+    "lastodiyear": "2023",
+    "lastodiagainst": "India",
+    "odishirt": "48",
+    "T20Idebutdate": "11 February",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "99",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "India",
+    "T20Ishirt": "48",
+    "ODI": {
+        "matches": "3",
+        "runs": "41",
+        "bat avg": "13.66",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "0/0"
+    },
+    "T20I": {
+        "matches": "9",
+        "runs": "220",
+        "bat avg": "27.50",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "4/0"
+    },
+    "FC": {
+        "matches": "52",
+        "runs": "2,466",
+        "bat avg": "32.88",
+        "100s/50s": "4/12",
+        "catches/stumpings": "176/3"
+    },
+    "LA": {
+        "matches": "31",
+        "runs": "1,045",
+        "bat avg": "36.06",
+        "100s/50s": "1/8",
+        "top score": "138",
+        "catches/stumpings": "40/6"
+    },
+    "clubs": {
+        "Western Australia": "2016/17&ndash;present",
+        "Perth Scorchers": "2017/18&ndash;present"
+    },
+    "birth_date": "1995-3-4",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{AUS}}",
+        "Competition: T20 World Cup"
+    ]
+}

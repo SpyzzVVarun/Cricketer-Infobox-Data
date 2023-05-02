@@ -1,0 +1,51 @@
+{
+    "name": "Peter Burge",
+    "honorific_suffix": "country=AUS",
+    "country": "Australia",
+    "fullname": "Peter John Parnell Burge",
+    "birth_place": "Kangaroo Point, Brisbane, Queensland, Australia",
+    "death_date": "df=yes",
+    "death_place": "Southport, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1955",
+    "testdebutagainst": "England",
+    "testcap": "200",
+    "lasttestdate": "28 January",
+    "lasttestyear": "1966",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/1/1004/1004.html CricketArchive",
+    "Test": {
+        "matches": "42",
+        "runs": "2,290",
+        "bat avg": "38.16",
+        "100s/50s": "4/12",
+        "top score": "181",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "23/0"
+    },
+    "First-class": {
+        "matches": "233",
+        "runs": "14,640",
+        "bat avg": "47.53",
+        "100s/50s": "38/68",
+        "top score": "283",
+        "deliveries": "195",
+        "wickets": "1",
+        "bowl avg": "129.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "166/4"
+    },
+    "clubs": {
+        "Queensland": "1952/53\u20131967/68"
+    },
+    "birth_date": "1932-05-17"
+}

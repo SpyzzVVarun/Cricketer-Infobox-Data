@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harry Pougher",
+    "birth_place": "Scunthorpe, Lincolnshire, England",
+    "death_date": "2014",
+    "death_place": "Lincoln, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/19116.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "112",
+        "bat avg": "28.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "54",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Lincolnshire": "1959&ndash;1988"
+    },
+    "birth_date": "1941-2-1"
+}

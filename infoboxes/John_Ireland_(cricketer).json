@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "John Frederick Ireland",
+    "birth_place": "Port Louis, Mauritius",
+    "death_date": "1970",
+    "death_place": "Uckfield, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "family": "Frederick Schomberg Ireland (uncle), Eric Norman Spencer Crankshaw (brother-in-law)",
+    "type1": "FC",
+    "debutdate1": "14 May",
+    "debutyear1": "1908",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "4 July",
+    "lastyear1": "1912",
+    "lastfor1": "MCC",
+    "lastagainst1": "Cambridge University",
+    "source": "http://www.espncricinfo.com/england/content/player/15431.html CricInfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "1,355",
+        "bat avg": "28.82",
+        "100s/50s": "3/0",
+        "top score": "123",
+        "deliveries": "1,561",
+        "wickets": "37",
+        "bowl avg": "21.27",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/25",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "1906\u20131911",
+        "Cambridge University": "1908\u20131911",
+        "MCC": "1912"
+    },
+    "birth_date": "1888-12-8"
+}

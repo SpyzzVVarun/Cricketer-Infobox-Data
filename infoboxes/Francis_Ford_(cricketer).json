@@ -1,0 +1,42 @@
+{
+    "name": "Francis Ford",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "14 December",
+    "testdebutyear": "1894",
+    "lasttestdate": "6 March",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1895",
+    "source": "https://cricketarchive.com/Archive/Players/0/173/173.html CricketArchive",
+    "Tests": {
+        "matches": "5",
+        "runs": "168",
+        "bat avg": "18.66",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "204",
+        "wickets": "1",
+        "bowl avg": "129.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/47",
+        "catches/stumpings": "5/0"
+    },
+    "First-class": {
+        "matches": "168",
+        "runs": "7,359",
+        "bat avg": "27.05",
+        "100s/50s": "14/30",
+        "top score": "191",
+        "deliveries": "10,203",
+        "wickets": "200",
+        "bowl avg": "23.78",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "7/65",
+        "catches/stumpings": "131/0"
+    },
+    "clubs": {}
+}

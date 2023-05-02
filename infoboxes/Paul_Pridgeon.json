@@ -1,0 +1,42 @@
+{
+    "name": "Paul Pridegon",
+    "country": "England",
+    "fullname": "Alan Paul Pridegon",
+    "birth_place": "Wall Heath, Kingswinford, Staffordshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/11/11270/11270.html CricketArchive ",
+    "First-class": {
+        "matches": "240",
+        "runs": "1,188",
+        "bat avg": "8.67",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "deliveries": "36,099",
+        "wickets": "530",
+        "bowl avg": "32.76",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "7/35",
+        "catches/stumpings": "82/\u2013"
+    },
+    "List A": {
+        "matches": "229",
+        "runs": "273",
+        "bat avg": "7.80",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "10,372",
+        "wickets": "219",
+        "bowl avg": "32.65",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/26",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1972\u20131989",
+        "Shropshire": "1991"
+    },
+    "birth_date": "1954-2-22"
+}

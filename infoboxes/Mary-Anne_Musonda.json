@@ -1,0 +1,46 @@
+{
+    "name": "Mary-Anne Musonda",
+    "female": "true",
+    "country": "Zimbabwe",
+    "fullname": "Mary-Anne Musonda",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batter",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "6",
+    "lastodidate": "27 November",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "5 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Namibia",
+    "T20Icap": "6",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Thailand",
+    "source": "http://www.espncricinfo.com/ci/content/player/501348.html Cricinfo ",
+    "WODI": {
+        "matches": "8",
+        "runs": "188",
+        "bat avg": "26.85",
+        "100s/50s": "1/0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WT20I": {
+        "matches": "29",
+        "runs": "454",
+        "bat avg": "26.70",
+        "100s/50s": "0/3",
+        "top score": "60",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "KwaZulu-Natal Inland": "2010/11\u20132014/15",
+        "Rhinos": "2020/21\u2013present",
+        "Scorchers": "2023\u2013present"
+    },
+    "birth_date": "1991-8-4"
+}

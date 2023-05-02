@@ -1,0 +1,44 @@
+{
+    "name": "Carlton Forbes",
+    "country": "England",
+    "fullname": "Carlton Forbes",
+    "nickname": "Cha Cha",
+    "birth_place": "Cross Roads, Kingston, Jamaica",
+    "death_date": "2009",
+    "death_place": "Ocho Rios, Jamaica",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/29/29462/29462.html CricketArchive ",
+    "First-class": {
+        "matches": "245",
+        "runs": "3605",
+        "bat avg": "14.42",
+        "100s/50s": "0/9",
+        "top score": "86",
+        "deliveries": "42745",
+        "wickets": "707",
+        "bowl avg": "25.44",
+        "fivefor": "23",
+        "tenfor": "2",
+        "best bowling": "7/19",
+        "catches/stumpings": "146/\u2013"
+    },
+    "List A": {
+        "matches": "47",
+        "runs": "152",
+        "bat avg": "10.13",
+        "100s/50s": "0/1",
+        "deliveries": "2355",
+        "wickets": "59",
+        "bowl avg": "24.89",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/23",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1959\u20131973"
+    },
+    "birth_date": "1936-8-9"
+}

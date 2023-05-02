@@ -1,0 +1,27 @@
+{
+    "name": "Mike Melluish",
+    "country": "England",
+    "fullname": "Michael Edward Lovelace Melluish",
+    "birth_place": "Westcliff-on-Sea, Essex, England",
+    "death_date": "2014",
+    "death_place": "Bradford on Avon, Wiltshire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/17529.html Cricinfo ",
+    "First-class": {
+        "matches": "49",
+        "runs": "524",
+        "bat avg": "10.48",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "36",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "80/35"
+    },
+    "clubs": {},
+    "birth_date": "1932-6-13"
+}

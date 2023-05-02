@@ -1,0 +1,29 @@
+{
+    "name": "Anthony Cornwall",
+    "country": "England",
+    "fullname": "Anthony Ewart Frank Cornwell",
+    "death_date": "df=yes",
+    "birth_place": "Parkstone, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11341.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "96",
+        "wickets": "3",
+        "bowl avg": "20.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/60",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Dorset": "1947\u20131950",
+        "Free Foresters": "1949"
+    },
+    "birth_date": "1929-8-19"
+}

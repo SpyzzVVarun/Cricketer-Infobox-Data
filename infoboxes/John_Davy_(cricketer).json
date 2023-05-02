@@ -1,0 +1,34 @@
+{
+    "name": "John Davy",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/7/7348/7348.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "0/1",
+        "deliveries": "261",
+        "wickets": "5",
+        "bowl avg": "32.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "174",
+        "wickets": "3",
+        "bowl avg": "55.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/40",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

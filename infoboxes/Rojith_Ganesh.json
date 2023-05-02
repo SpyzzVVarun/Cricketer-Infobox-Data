@@ -1,0 +1,39 @@
+{
+    "name": "Rojith Ganesh",
+    "fullname": "Rojith Kalliparambil Ganesh",
+    "birth_place": "Wadakkanchery, Kerala, India url=https://www.onmanorama.com/sports/cricket/2021/03/25/kerala-all-rounder-rojith-ganesh-mumbai-indians-ipl-2021.html",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm legbreak",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/1246501.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "3/0"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Kerala": "2021endashpresent"
+    },
+    "birth_date": "1993-11-13"
+}

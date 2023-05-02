@@ -1,0 +1,33 @@
+{
+    "name": "Arvind Kandappah",
+    "country": "Canada",
+    "fullname": "Arvindah Luxman Kandappah",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "odidebutdate": "18 October",
+    "odidebutyear": "2007",
+    "odidebutagainst": "Kenya",
+    "odicap": "50",
+    "lastodidate": "20 October",
+    "lastodiyear": "2007",
+    "lastodiagainst": "Kenya",
+    "source": "https://cricketarchive.com/Archive/Players/90/90503/90503.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "97",
+        "bat avg": "97.00",
+        "100s/50s": "0/1",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "First-class": {
+        "matches": "5",
+        "runs": "250",
+        "bat avg": "31.25",
+        "100s/50s": "0/3",
+        "top score": "87",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1971-3-7"
+}

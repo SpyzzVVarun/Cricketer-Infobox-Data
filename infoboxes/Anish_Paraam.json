@@ -1,0 +1,46 @@
+{
+    "name": "Anish Paraam",
+    "country": "Singapore",
+    "fullname": "Anish Edward Paraam",
+    "birth_place": "Singapore",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "All-rounder",
+    "T20Idebutdate": "22 July",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Qatar",
+    "T20Icap": "8",
+    "lastT20Idate": "28 July",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/307692.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "FC": {
+        "matches": "2",
+        "runs": "31",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/10",
+        "catches/stumpings": "0/-"
+    },
+    "LA": {},
+    "T20": {},
+    "clubs": {
+        "Durham MCCU": "2014"
+    },
+    "birth_date": "1990-7-19",
+    "medaltemplates": [
+        "Country: {{SGP}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20",
+        "Silver Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

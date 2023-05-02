@@ -1,0 +1,27 @@
+{
+    "name": "David Phipps",
+    "country": "England",
+    "fullname": "Douglas David Phipps",
+    "birth_place": "Edmonton, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18936.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "53.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/53",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Combined Services": "1964"
+    },
+    "birth_date": "1934-1-27"
+}

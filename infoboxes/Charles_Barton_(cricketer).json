@@ -1,0 +1,29 @@
+{
+    "name": "Charles Barton",
+    "country": "England",
+    "fullname": "Charles Gerard Barton",
+    "birth_place": "Sherfield English, Hampshire, England",
+    "death_date": "1919",
+    "death_place": "Hatfield Peverel, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/9022.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "29",
+        "bat avg": "4.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "510",
+        "wickets": "9",
+        "bowl avg": "22.88",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/27",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1893",
+        "Hampshire": "1895-1896"
+    }
+}

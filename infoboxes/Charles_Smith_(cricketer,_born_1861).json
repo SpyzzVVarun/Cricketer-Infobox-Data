@@ -1,0 +1,30 @@
+{
+    "name": "Charles Smith",
+    "country": "England",
+    "fullname": "Charles Smith",
+    "birth_place": "Calverley, Yorkshire, England",
+    "death_date": "1925",
+    "death_place": "Calverley, Yorkshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/32/32835/32835.html CricketArchive ",
+    "First-class": {
+        "matches": "168",
+        "runs": "2,251",
+        "bat avg": "12.10",
+        "100s/50s": "0/4",
+        "top score": "81",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "18.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/18",
+        "catches/stumpings": "318/119"
+    },
+    "clubs": {
+        "Lancashire": "1893\u20131902",
+        "CE de Traffords XI": "1896"
+    },
+    "birth_date": "1861-8-24"
+}

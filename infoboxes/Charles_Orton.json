@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Talbot Orton",
+    "birth_place": "Farnham, Surrey, England",
+    "death_date": "df=y",
+    "death_place": "near Wormhout, Nord-Pas-de-Calais, France |module=embed=y",
+    "death_cause": "Execution by gunshot ",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/18254.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "466",
+        "wickets": "12",
+        "bowl avg": "26.50",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "7/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1938/39"
+    }
+}

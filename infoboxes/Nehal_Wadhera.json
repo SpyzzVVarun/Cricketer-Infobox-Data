@@ -1,0 +1,32 @@
+{
+    "name": "Nehal Wadhera",
+    "full_name": "Nehal Wadhera",
+    "birth_place": "Ludhiana, Punjab, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm legbreak",
+    "role": "Top order batter",
+    "type1": "First-class",
+    "debutdate1": "3 January",
+    "debutyear1": "2023",
+    "debutfor1": "Punjab",
+    "debutagainst1": "Gujarat",
+    "type2": "T20",
+    "debutdate2": "2 April",
+    "debutyear2": "2023",
+    "debutfor2": "Mumbai Indians",
+    "debutagainst2": "Royal Challengers Bangalore",
+    "source": "https://www.espncricinfo.com/cricketers/nehal-wadhera-1151273 ESPNcricinfo",
+    "FC": {
+        "matches": "5",
+        "runs": "376",
+        "bat avg": "53.71",
+        "100s/50s": "2/0",
+        "top score": "214",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Punjab": "2023\u2013present",
+        "Mumbai Indians": "2023"
+    },
+    "birth_date": "2000-9-4"
+}

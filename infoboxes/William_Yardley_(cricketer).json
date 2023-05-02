@@ -1,0 +1,39 @@
+{
+    "name": "William Yardley",
+    "fullname": "William Yardley",
+    "birth_place": "Bombay, British India",
+    "death_date": "1900",
+    "death_place": "Kingston-upon-Thames, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Batsman, wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "5 August",
+    "debutyear1": "1868",
+    "debutfor1": "Kent",
+    "debutagainst1": "Gentlemen of MCC",
+    "lastdate1": "22 August",
+    "lastyear1": "1878",
+    "lastfor1": "Kent",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.espncricinfo.com/ci/content/player/23547.html CricInfo ",
+    "First-class": {
+        "matches": "83",
+        "runs": "3,609",
+        "bat avg": "25.77",
+        "100s/50s": "3/19",
+        "top score": "130",
+        "deliveries": "360",
+        "wickets": "7",
+        "bowl avg": "32.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/10",
+        "catches/stumpings": "43/6"
+    },
+    "clubs": {
+        "Kent": "1868\u20131878",
+        "Cambridge University": "1869\u20131872"
+    },
+    "birth_date": "1849-6-10"
+}

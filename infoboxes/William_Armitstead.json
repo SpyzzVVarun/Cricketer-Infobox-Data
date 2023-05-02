@@ -1,0 +1,33 @@
+{
+    "name": "William Armitstead",
+    "country": "England",
+    "fullname": "William George Armitstead",
+    "birth_place": "Holmes Chapel, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Goostrey, Cheshire, England",
+    "batting": "Right-hand bat",
+    "bowling": "Unknown",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Players/27/27522/27522.html Cricket Archive ",
+    "FC": {
+        "matches": "14",
+        "runs": "293",
+        "bat avg": "12.20",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "Unknown",
+        "wickets": "Unknown",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "-"
+    },
+    "clubs": {
+        "Oxford University": "1853-1857",
+        "Marylebone Cricket Club": "1864",
+        "Manchester": "1852",
+        "Gentlemen of the North": "1862"
+    },
+    "birth_date": "1833-03-22"
+}

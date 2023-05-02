@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Emmanuel Blamires",
+    "nickname": "Nimrod Blamires",
+    "birth_place": "Bradford, West Riding of Yorkshire, England",
+    "death_date": "1886",
+    "death_place": "Bradford, West Riding of Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm roundarm-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/9802.html Cricinfo ",
+    "FC": {
+        "matches": "36",
+        "runs": "440",
+        "bat avg": "9.56",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "7,768",
+        "wickets": "137",
+        "bowl avg": "20.02",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "8/77",
+        "catches/stumpings": "28/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1878-1881",
+        "Yorkshire": "1877"
+    },
+    "birth_date": "1850-7-31"
+}

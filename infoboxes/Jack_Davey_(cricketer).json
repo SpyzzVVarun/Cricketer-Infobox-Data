@@ -1,0 +1,41 @@
+{
+    "name": "Jack Davey",
+    "country": "England",
+    "fullname": "Jack Davey",
+    "birth_place": "Tavistock, Devon, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12056.html Cricinfo ",
+    "First-class": {
+        "matches": "175",
+        "runs": "918",
+        "bat avg": "7.77",
+        "100s/50s": "0/1",
+        "deliveries": "24,350",
+        "wickets": "411",
+        "bowl avg": "28.51",
+        "fivefor": "9",
+        "tenfor": "0",
+        "best bowling": "6/95",
+        "catches/stumpings": "32/\u2013"
+    },
+    "List A": {
+        "matches": "150",
+        "runs": "135",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "7,157",
+        "wickets": "173",
+        "bowl avg": "26.26",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/11",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Devon": "1981\u20131985",
+        "Gloucestershire": "1966\u20131978"
+    },
+    "birth_date": "1944-9-4"
+}

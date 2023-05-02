@@ -1,0 +1,48 @@
+{
+    "name": "Mackie Hobson",
+    "country": "South Africa",
+    "fullname": "Malcolm Ralph Hobson",
+    "birth_place": "Graaff Reinet, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/45445.html Cricinfo ",
+    "FC": {
+        "matches": "44",
+        "runs": "319",
+        "bat avg": "8.17",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "26",
+        "deliveries": "6,881",
+        "wickets": "137",
+        "bowl avg": "27.37",
+        "fivefor": "5",
+        "tenfor": "&ndash;",
+        "best bowling": "7/61",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "35",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "522",
+        "wickets": "14",
+        "bowl avg": "33.28",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/30",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "2002",
+        "Northern Transvaal B": "1995&ndash;1996",
+        "Transvaal": "1993&ndash;1994",
+        "Transvaal B": "1993&ndash;1995",
+        "Border Country Districts": "1992",
+        "Border": "1991&ndash;1993",
+        "Eastern Province": "1989",
+        "Natal": "1986",
+        "Natal B": "1985&ndash;1989"
+    },
+    "birth_date": "1966-6-5"
+}

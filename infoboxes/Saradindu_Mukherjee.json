@@ -1,0 +1,24 @@
+{
+    "name": "Saradindu Mukherjee",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm Off-Break",
+    "source": "http://content-ind.cricinfo.com/ci/content/player/31048.html ",
+    "Tests": {
+        "matches": "0"
+    },
+    "ODIs": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "deliveries": "29",
+        "wickets": "2",
+        "bowl avg": "49.00",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "1/30",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {}
+}

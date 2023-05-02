@@ -1,0 +1,31 @@
+{
+    "name": "Arthur Childs-Clarke",
+    "country": "England",
+    "fullname": "Arthur Williams Childs-Clarke",
+    "birth_place": "Exeter, England",
+    "death_date": "1980",
+    "death_place": "Mevagissey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "All Rounder",
+    "source": "https://cricketarchive.com/Archive/Players/28/28529/28529.html CricketArchive ",
+    "First-class": {
+        "matches": "66",
+        "runs": "1,674",
+        "bat avg": "17.08",
+        "100s/50s": "0/7",
+        "top score": "68",
+        "deliveries": "2,240",
+        "wickets": "25",
+        "bowl avg": "43.92",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/72",
+        "catches/stumpings": "31/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1923\u20131934",
+        "Northamptonshire": "1947\u20131948"
+    },
+    "birth_date": "1905-5-13"
+}

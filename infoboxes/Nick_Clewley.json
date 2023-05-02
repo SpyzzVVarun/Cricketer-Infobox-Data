@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Nicholas James Clewley",
+    "birth_place": "Wolverhampton, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11764.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "444",
+        "wickets": "3",
+        "bowl avg": "85.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/132",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Loughborough UCCE": "2005",
+        "Shropshire": "2004\u20132006"
+    },
+    "birth_date": "1983-6-13"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Steriker Norman Hare",
+    "birth_place": "Tottenham, Middlesex, England",
+    "death_date": "1977",
+    "death_place": "Meadle, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/14048.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "117",
+        "bat avg": "23.40",
+        "100s/50s": "&ndash;/1",
+        "top score": "98",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Essex": "1921"
+    },
+    "birth_date": "1900-3-31"
+}

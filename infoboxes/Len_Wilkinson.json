@@ -1,0 +1,52 @@
+{
+    "name": "Len Wilkinson",
+    "country": "England",
+    "fullname": "Leonard Litton Wilkinson",
+    "birth_place": "Northwich, Cheshire, England",
+    "death_date": "2002",
+    "death_place": "Barrow-in-Furness, Cumbria, England",
+    "role": "Bowler",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1938",
+    "testdebutagainst": "South Africa",
+    "testcap": "306",
+    "lasttestdate": "22 February",
+    "lasttestyear": "1938",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/0/719/719.html CricketArchive ",
+    "Tests": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "573",
+        "wickets": "7",
+        "bowl avg": "38.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/12",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "FC": {
+        "matches": "77",
+        "runs": "321",
+        "bat avg": "7.64",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "14,516",
+        "wickets": "282",
+        "bowl avg": "25.25",
+        "fivefor": "17",
+        "tenfor": "3",
+        "best bowling": "8/53",
+        "catches/stumpings": "53/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1937\u20131947",
+        "Marylebone Cricket Club (MCC)": "1938/39"
+    },
+    "birth_date": "1916-11-5"
+}

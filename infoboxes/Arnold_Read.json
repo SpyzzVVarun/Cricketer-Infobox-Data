@@ -1,0 +1,30 @@
+{
+    "name": "Arnold Read",
+    "fullname": "Arnold Holcombe Read",
+    "birth_place": "Snaresbrook, Essex, England",
+    "death_date": "1957",
+    "death_place": "Englefield Green, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "role": "Bowler",
+    "family": "Hopper Read (son)",
+    "source": "http://www.espncricinfo.com/england/content/player/19344.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "419",
+        "bat avg": "17.45",
+        "100s/50s": "0/2",
+        "top score": "70",
+        "deliveries": "2,162",
+        "wickets": "38",
+        "bowl avg": "31.36",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/75",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Essex": "1904-1910"
+    },
+    "birth_date": "1880-1-24"
+}

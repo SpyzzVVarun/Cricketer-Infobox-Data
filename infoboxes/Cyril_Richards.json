@@ -1,0 +1,22 @@
+{
+    "name": "Cyril Richards",
+    "country": "England",
+    "fullname": "Cyril James Ridding Richards",
+    "birth_place": "Andover, Hampshire, England",
+    "death_date": "1933",
+    "death_place": "Cluny Castle, Aberdeenshire,, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/19392.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "48",
+        "bat avg": "24.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "43",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1895"
+    }
+}

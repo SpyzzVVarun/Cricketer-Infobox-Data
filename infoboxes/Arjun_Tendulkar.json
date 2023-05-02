@@ -1,0 +1,58 @@
+{
+    "name": "Arjun Tendulkar",
+    "fullname": "Arjun Sachin  Tendulkar",
+    "birth_place": "Mumbai, Maharashtra, India",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "role": "Bowler",
+    "family": "Sachin Tendulkar (father)",
+    "height": "6 ft 3 in (191cm)",
+    "source": "http://www.espncricinfo.com/ci/content/player/1148776.html Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "151",
+        "bat avg": "25.16",
+        "100s/50s": "1/0",
+        "top score": "120",
+        "deliveries": "702",
+        "wickets": "9",
+        "bowl avg": "45.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/104",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "25",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "312",
+        "wickets": "8",
+        "bowl avg": "32.37",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/32",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "20",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "180",
+        "wickets": "12",
+        "bowl avg": "16.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/10",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Mumbai": "2020/21",
+        "Mumbai Indians": "2021\u2013present",
+        "Goa": "2022/23"
+    },
+    "birth_date": "1999-9-24"
+}

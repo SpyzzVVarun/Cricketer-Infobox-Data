@@ -1,0 +1,30 @@
+{
+    "name": "Louis Devereux",
+    "country": "England",
+    "fullname": "Louis Norman Devereux",
+    "birth_place": "Heavitree, Exeter, Devon, England",
+    "death_date": "2016",
+    "death_place": "Aberystwyth, Dyfed, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/4/4404/4404.html CricketArchive ",
+    "FC": {
+        "matches": "192",
+        "runs": "5,560",
+        "bat avg": "19.85",
+        "100s/50s": "1/23",
+        "deliveries": "13,463",
+        "wickets": "178",
+        "bowl avg": "35.31",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/29",
+        "catches/stumpings": "107/0"
+    },
+    "clubs": {
+        "Middlesex": "1949",
+        "Worcestershire": "1950\u20131955",
+        "Glamorgan": "1956\u20131960"
+    },
+    "birth_date": "1931-10-20"
+}

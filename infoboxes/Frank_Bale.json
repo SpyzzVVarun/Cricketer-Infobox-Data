@@ -1,0 +1,39 @@
+{
+    "name": "Frank Bale",
+    "country": "England",
+    "fullname": "Frank Bale",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "1969",
+    "death_place": "Leicester, Leicestershire",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm slow-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "8 May",
+    "debutyear1": "1920",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "21 August",
+    "lastyear1": "1928",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/27/27647/27647.html CricketArchive ",
+    "First-class": {
+        "matches": "134",
+        "runs": "1426",
+        "bat avg": "9.57",
+        "100s/50s": "\u2013/1",
+        "top score": "52",
+        "deliveries": "16094",
+        "wickets": "231",
+        "bowl avg": "27.83",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "5/62",
+        "catches/stumpings": "61/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "1920\u201328"
+    },
+    "birth_date": "1891-1-7"
+}

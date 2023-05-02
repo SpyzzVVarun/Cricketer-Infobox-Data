@@ -1,0 +1,32 @@
+{
+    "name": "Jack Richards",
+    "country": "England",
+    "fullname": "Clifton James Richards",
+    "birth_place": "Penzance, Cornwall, England",
+    "height": "5ft 11in",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/19394.html CricInfo ",
+    "Test": {
+        "matches": "8",
+        "runs": "285",
+        "bat avg": "21.92",
+        "100s/50s": "1/0",
+        "top score": "133",
+        "catches/stumpings": "20/1"
+    },
+    "ODI": {
+        "matches": "22",
+        "runs": "154",
+        "bat avg": "11.84",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "16/1"
+    },
+    "clubs": {
+        "Surrey": "1976\u20131988",
+        "Orange Free State": "1983/84"
+    },
+    "birth_date": "1958-8-10"
+}

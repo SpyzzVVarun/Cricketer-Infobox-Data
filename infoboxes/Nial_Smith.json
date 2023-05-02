@@ -1,0 +1,55 @@
+{
+    "name": "Nial Smith",
+    "fullname": "Nial Smith",
+    "birth_place": "Guyana",
+    "batting": "Right handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1206454.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "47",
+        "bat avg": "5.87",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "1,008",
+        "wickets": "20",
+        "bowl avg": "29.30",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/55",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "2",
+        "bat avg": "0.66",
+        "100s/50s": "0/0",
+        "deliveries": "294",
+        "wickets": "9",
+        "bowl avg": "22.22",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/47",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-/-",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Guyana": "2019-present",
+        "Guyana Amazon Warriors( 46 )": "2021"
+    },
+    "birth_date": "1995-10-22"
+}

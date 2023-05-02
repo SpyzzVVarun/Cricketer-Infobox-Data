@@ -1,0 +1,26 @@
+{
+    "name": "Janak Prakash",
+    "country": "Singapore",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "22 July",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Qatar",
+    "T20Icap": "5",
+    "lastT20Idate": "23 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Qatar",
+    "source": "http://www.espncricinfo.com/ci/content/player/973799.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "2000-8-16",
+    "medaltemplates": [
+        "Country: {{SGP}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20",
+        "Silver Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

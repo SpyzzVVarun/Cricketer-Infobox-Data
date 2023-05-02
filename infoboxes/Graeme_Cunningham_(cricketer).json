@@ -1,0 +1,31 @@
+{
+    "name": "Graeme Cunningham",
+    "country": "Australia",
+    "fullname": "Graeme Timothy Cunningham",
+    "birth_place": "Goulburn, New South Wales, Australia",
+    "nickname": "Champ",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/7/7520/7520.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "40",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "List A": {
+        "matches": "35",
+        "runs": "856",
+        "bat avg": "26.75",
+        "100s/50s": "0/5",
+        "top score": "77",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "clubs": {
+        "Australian Capital Territory": "1998/99\u20131999/00",
+        "Tasmania": "2000/01\u20132002/03"
+    },
+    "birth_date": "1975-1-25"
+}

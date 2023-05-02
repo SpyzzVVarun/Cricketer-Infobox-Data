@@ -1,0 +1,35 @@
+{
+    "name": "Syd Curnow",
+    "fullname": "Sydney Harry Curnow",
+    "birth_place": "Benoni, Transvaal, South Africa",
+    "death_date": "1986",
+    "death_place": "Perth, Western Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1930",
+    "lasttestdate": "12 February",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1932",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/44491.html Cricinfo",
+    "Test": {
+        "matches": "7",
+        "runs": "168",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "51",
+        "runs": "3,409",
+        "bat avg": "42.08",
+        "100s/50s": "9/11",
+        "top score": "224",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1907-12-16"
+}

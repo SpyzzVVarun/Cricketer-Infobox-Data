@@ -1,0 +1,29 @@
+{
+    "name": "Colin Alexander",
+    "country": "Australia",
+    "fullname": "William Colin Alexander",
+    "birth_place": "Gawler, South Australia",
+    "death_date": "1993",
+    "death_place": "Melbourne, Victoria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://cricketarchive.com/Archive/Players/15/15675/15675.html Cricket Archive ",
+    "First-class": {
+        "matches": "26",
+        "runs": "1,414",
+        "bat avg": "34.48",
+        "100s/50s": "3/9",
+        "top score": "133",
+        "deliveries": "176",
+        "wickets": "3",
+        "bowl avg": "40.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1925/26\u20131928/29"
+    },
+    "birth_date": "1907-9-14"
+}

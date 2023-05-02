@@ -1,0 +1,49 @@
+{
+    "name": "Patrick Grieshaber",
+    "country": "England",
+    "fullname": "Patrick James Grieshaber",
+    "birth_place": "Bath, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "21 June",
+    "debutyear1": "2014",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Glamorgan",
+    "type2": "List A",
+    "onetype2": "true",
+    "debutdate2": "24 July",
+    "debutyear2": "2016",
+    "debutfor2": "Gloucestershire",
+    "debutagainst2": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/995/995605/995605.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "2/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Gloucestershire": "2014\u20132017"
+    },
+    "birth_date": "1996-11-24"
+}

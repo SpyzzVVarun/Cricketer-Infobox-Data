@@ -1,0 +1,52 @@
+{
+    "name": "Ray Emery",
+    "fullname": "Raymond William George Emery",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1982",
+    "death_place": "Auckland, New Zealand",
+    "internationalspan": "1952",
+    "country": "New Zealand",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "8 February",
+    "testdebutyear": "1952",
+    "testcap": "55",
+    "lasttestdate": "15 February",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1952",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36953.html Cricinfo ",
+    "Test": {
+        "matches": "2",
+        "runs": "46",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "46",
+        "wickets": "2",
+        "bowl avg": "26.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/52",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "24",
+        "runs": "1177",
+        "bat avg": "29.42",
+        "100s/50s": "3/5",
+        "top score": "123",
+        "deliveries": "1790",
+        "wickets": "22",
+        "bowl avg": "34.27",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/41",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1936\u201337 to 1946\u201347",
+        "Canterbury": "1947\u201348 to 1953\u201354"
+    },
+    "birth_date": "1915-03-28"
+}

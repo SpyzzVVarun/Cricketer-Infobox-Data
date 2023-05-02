@@ -1,0 +1,30 @@
+{
+    "name": "J. F. Byrne",
+    "country": "England",
+    "fullname": "James Frederick Byrne",
+    "birth_place": "Penns, Warwickshire, England",
+    "death_date": "1954",
+    "death_place": "Edgbaston, Birmingham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Players/28/28386/28386.html CricketArchive ",
+    "First-class": {
+        "matches": "140",
+        "runs": "4,766",
+        "bat avg": "22.80",
+        "100s/50s": "4/23",
+        "top score": "222",
+        "deliveries": "3,676",
+        "wickets": "74",
+        "bowl avg": "30.37",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/37",
+        "catches/stumpings": "81/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1897\u20131912"
+    },
+    "birth_date": "1871-6-19"
+}

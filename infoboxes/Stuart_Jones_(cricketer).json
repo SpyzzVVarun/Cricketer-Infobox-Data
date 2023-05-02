@@ -1,0 +1,29 @@
+{
+    "name": "Stuart Jones",
+    "fullname": "Stuart Thornbury Jones",
+    "birth_place": "Naseby, New Zealand",
+    "death_date": "2015",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "First-class",
+    "source": "https://cricketarchive.com/Archive/Players/22/22223/22223.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "90",
+        "wickets": "2",
+        "bowl avg": "18.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2-20",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Otago": "1953/54"
+    },
+    "birth_date": "1929-1-24"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Barrington Browne",
+    "birth_place": "New Amsterdam, Guyana",
+    "country": "West Indies",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast",
+    "source": [
+        "wickets3=29|bowl avg3=33.00|fivefor3=-|tenfor3=n/a|best bowling3=2/9|catches/stumpings3=3/0"
+    ],
+    "ODIs": {
+        "matches": "4",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "-/-",
+        "deliveries": "180",
+        "wickets": "2",
+        "bowl avg": "78.00",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "2/50",
+        "catches/stumpings": "-/-"
+    },
+    "First Class": {
+        "matches": "43",
+        "runs": "209",
+        "bat avg": "6.33",
+        "100s/50s": "-/-",
+        "top score": "29",
+        "deliveries": "5868",
+        "wickets": "117",
+        "bowl avg": "29.15",
+        "fivefor": "5",
+        "tenfor": "n/a",
+        "best bowling": "6/51",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {},
+    "birth_date": "16 September 1967"
+}

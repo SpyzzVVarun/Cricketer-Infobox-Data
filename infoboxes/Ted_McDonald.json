@@ -1,0 +1,47 @@
+{
+    "embed": "yes",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "testdebutdate": "14 January",
+    "testdebutyear": "1921",
+    "testdebutagainst": "England",
+    "testcap": "114",
+    "lasttestdate": "29 November",
+    "lasttestyear": "1921",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/0/388/388.html CricketArchive ",
+    "Test": {
+        "matches": "11",
+        "runs": "116",
+        "bat avg": "16.57",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "2,885",
+        "wickets": "43",
+        "bowl avg": "33.27",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "281",
+        "runs": "2,661",
+        "bat avg": "10.43",
+        "100s/50s": "1/2",
+        "deliveries": "58,504",
+        "wickets": "1,395",
+        "bowl avg": "20.76",
+        "fivefor": "119",
+        "tenfor": "31",
+        "best bowling": "8/41",
+        "catches/stumpings": "97/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1909/10\u20131910/11",
+        "Victoria": "1911/12\u20131921/22",
+        "Lancashire": "1924\u20131931"
+    }
+}

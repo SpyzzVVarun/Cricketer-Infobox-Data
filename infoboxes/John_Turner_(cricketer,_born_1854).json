@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Turner",
+    "birth_place": "Northampton, Northamptonshire, England",
+    "death_date": "1912",
+    "death_place": "Bexhill-on-Sea, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/21978.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "417",
+        "bat avg": "12.26",
+        "100s/50s": "\u2013/1",
+        "top score": "65",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1876&ndash;1883"
+    }
+}

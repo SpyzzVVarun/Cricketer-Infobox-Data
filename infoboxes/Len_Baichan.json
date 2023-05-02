@@ -1,0 +1,42 @@
+{
+    "name": "Len Baichan",
+    "fullname": "Leonard Baichan",
+    "birth_place": "Rose Hall, Berbice, British Guiana",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "West Indies",
+    "testdebutagainst": "Pakistan",
+    "testdebutdate": "15 February",
+    "testdebutyear": "1975",
+    "testcap": "152",
+    "lasttestdate": "31 January",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1976",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/51209.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "184",
+        "bat avg": "46.00",
+        "100s/50s": "1/0",
+        "catches/stumpings": "2/0"
+    },
+    "First-class": {
+        "matches": "63",
+        "runs": "4,504",
+        "bat avg": "51.18",
+        "100s/50s": "13/23",
+        "catches/stumpings": "35/0"
+    },
+    "LA": {
+        "matches": "8",
+        "runs": "268",
+        "bat avg": "38.28",
+        "100s/50s": "0/3",
+        "top score": "74",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Guyana |year1              = 1968/69\u20131982/83": ""
+    },
+    "birth_date": "1946-5-12"
+}

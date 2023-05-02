@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Ernest Frank Field",
+    "birth_place": "Weethley, Warwickshire, England",
+    "death_date": "df=yes",
+    "death_place": "Droitwich, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://www.espncricinfo.com/player/frank-field-13039 Cricinfo ",
+    "First-class": {
+        "matches": "264",
+        "runs": "1,900",
+        "bat avg": "7.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "39",
+        "deliveries": "46,304",
+        "wickets": "1,026",
+        "bowl avg": "23.48",
+        "fivefor": "80",
+        "tenfor": "17",
+        "best bowling": "9/104",
+        "catches/stumpings": "107/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1897\u20131920",
+        "London County": "1900"
+    }
+}

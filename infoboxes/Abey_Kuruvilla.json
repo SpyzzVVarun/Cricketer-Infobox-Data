@@ -1,0 +1,37 @@
+{
+    "name": "Abey Kuruvilla",
+    "country": "India",
+    "birth_place": "Mannar, Alappuzha, Kerala, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/30182.html Cricinfo ",
+    "Test": {
+        "matches": "10",
+        "runs": "66",
+        "bat avg": "6.60",
+        "100s/50s": "0/0",
+        "deliveries": "1,765",
+        "wickets": "25",
+        "bowl avg": "35.68",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/68",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "25",
+        "runs": "26",
+        "bat avg": "3.71",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "1,131",
+        "wickets": "25",
+        "bowl avg": "35.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/43",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1968-8-4"
+}

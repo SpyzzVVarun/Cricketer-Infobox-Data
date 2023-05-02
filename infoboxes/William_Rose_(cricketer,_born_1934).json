@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Rose",
+    "birth_place": "Great Yarmouth, Norfolk, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/19919.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "72",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Norfolk": "1963&ndash;1978"
+    },
+    "birth_date": "1934-12-8"
+}

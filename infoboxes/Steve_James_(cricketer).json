@@ -1,0 +1,44 @@
+{
+    "name": "Steve James",
+    "fullname": "Stephen Peter James",
+    "birth_place": "Lydney, Gloucestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "18 June",
+    "testdebutyear": "1998",
+    "lasttestagainst": "Sri Lanka",
+    "lasttestdate": "27 August",
+    "lasttestyear": "1998",
+    "source": "http://www.espncricinfo.com/ci/content/player/15477.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "71",
+        "bat avg": "17.75",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "245",
+        "runs": "15,890",
+        "bat avg": "40.63",
+        "100s/50s": "47/58",
+        "catches/stumpings": "173/\u2013"
+    },
+    "List A": {
+        "matches": "238",
+        "runs": "7,040",
+        "bat avg": "34.50",
+        "100s/50s": "7/49",
+        "top score": "135",
+        "catches/stumpings": "60/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1985\u20132003",
+        "Cambridge University": "1989\u20131990",
+        "Mashonaland": "1993/94\u20131994/95"
+    },
+    "birth_date": "1967-9-7"
+}

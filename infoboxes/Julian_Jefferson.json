@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Julian Jefferson",
+    "birth_place": "Ripon, Yorkshire, England",
+    "death_date": "df=y",
+    "death_place": "Marylebone, London, England",
+    "family": "Richard Jefferson (son), Will Jefferson (grandson)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15668.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "84",
+        "bat avg": "21.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "208",
+        "wickets": "5",
+        "bowl avg": "33.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/129",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

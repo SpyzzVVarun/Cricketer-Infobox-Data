@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Alfred Joseph Boardman",
+    "birth_place": "Barnsbury, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Carshalton, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9828.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "162",
+        "bat avg": "9.52",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "32",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1878&ndash;1880"
+    }
+}

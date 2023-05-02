@@ -1,0 +1,57 @@
+{
+    "name": "Mario Olivier",
+    "country": "South Africa",
+    "fullname": "Mario Wickus Olivier",
+    "birth_place": "Pretoria, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "http://content-ind.cricinfo.com/southafrica/content/player/46719.html cricinfo.com ",
+    "FC": {
+        "matches": "35",
+        "runs": "382",
+        "bat avg": "8.88",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "4850",
+        "wickets": "95",
+        "bowl avg": "32.22",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "10/65",
+        "catches/stumpings": "5/0"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "31",
+        "bat avg": "7.75",
+        "100s/50s": "0/0",
+        "deliveries": "509",
+        "wickets": "27",
+        "bowl avg": "20.22",
+        "fivefor": "2",
+        "tenfor": "n/a",
+        "best bowling": "5/40",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "deliveries": "90",
+        "wickets": "4",
+        "bowl avg": "28.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/22",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Northerns": "2010\u20132012",
+        "Titans": "2010",
+        "Warriors": "2004\u20132009",
+        "Boland": "2004"
+    },
+    "birth_date": "1982-11-3"
+}

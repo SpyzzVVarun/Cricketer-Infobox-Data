@@ -1,0 +1,37 @@
+{
+    "name": "Walter Wilde",
+    "country": "England",
+    "fullname": "Walter Stanley Wilde",
+    "birth_place": "Long Ashton, Somerset, England",
+    "death_date": "1968",
+    "death_place": "Clevedon, Somerset, England",
+    "role": "Wicketkeeper",
+    "type1": "First-class",
+    "debutdate1": "11 May",
+    "debutyear1": "1929",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "27 June",
+    "lastyear1": "1929",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/3/3892/3892.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "45",
+        "bat avg": "5.62",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "9/1"
+    },
+    "clubs": {
+        "Somerset": "1929"
+    },
+    "birth_date": "1908-2-27"
+}

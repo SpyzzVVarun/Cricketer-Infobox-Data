@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Frederick Eden",
+    "birth_place": "Wimbledon, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Venice, Veneto, Italy",
+    "family": "Frederick Eden (cousin)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12736.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1850"
+    }
+}

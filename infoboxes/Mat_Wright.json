@@ -1,0 +1,28 @@
+{
+    "name": "Mat Wright",
+    "country": "England",
+    "fullname": "Matthew William Wright",
+    "birth_place": "Keyworth, Nottinghamshire, England",
+    "death_date": "1949",
+    "death_place": "Spital, Berkshire, England",
+    "source": "http://www.espncricinfo.com/ci/content/player/23232.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "25",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1889",
+        "Buckinghamshire": "1895\u20131913"
+    },
+    "birth_date": "1858-7-24"
+}

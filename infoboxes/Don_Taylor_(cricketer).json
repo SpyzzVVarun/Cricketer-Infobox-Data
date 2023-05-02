@@ -1,0 +1,52 @@
+{
+    "name": "Don Taylor",
+    "fullname": "Donald Dougald Taylor",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1980",
+    "death_place": "Epsom, New Zealand",
+    "internationalspan": "1947-1956",
+    "country": "New Zealand",
+    "testdebutagainst": "England",
+    "testdebutdate": "21 March",
+    "testdebutyear": "1947",
+    "testcap": "45",
+    "lasttestdate": "9 March",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1956",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38610.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "159",
+        "bat avg": "31.80",
+        "100s/50s": "0/1",
+        "top score": "77",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "95",
+        "runs": "3772",
+        "bat avg": "23.28",
+        "100s/50s": "1/22",
+        "top score": "143",
+        "deliveries": "1927",
+        "wickets": "32",
+        "bowl avg": "33.21",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/24",
+        "catches/stumpings": "62/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1946-47 to 1959-60",
+        "Warwickshire": "1950 to 1953"
+    },
+    "birth_date": "1923-3-2"
+}

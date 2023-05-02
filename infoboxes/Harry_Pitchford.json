@@ -1,0 +1,30 @@
+{
+    "name": "Harry Pitchford",
+    "country": "England",
+    "birth_place": "Wing, Buckinghamshire, England",
+    "death_date": "1965",
+    "death_place": "Aylesbury, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "family": "Len Pitchford (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/18968.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "36",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1913&ndash;1929",
+        "Minor Counties": "1928"
+    },
+    "birth_date": "1891-2-11"
+}

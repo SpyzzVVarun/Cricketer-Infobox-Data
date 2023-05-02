@@ -1,0 +1,55 @@
+{
+    "name": "Manisankar Murasingh",
+    "fullname": "Manisankar Bhagyamani Murasingh",
+    "birth_place": "Abhoynagar, Tripura, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/257/257449/257449.html CricketArchive ",
+    "FC": {
+        "matches": "46",
+        "runs": "2103",
+        "bat avg": "26.96",
+        "100s/50s": "2/9",
+        "top score": "150",
+        "deliveries": "7813",
+        "wickets": "116",
+        "bowl avg": "35.99",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/70",
+        "catches/stumpings": "14/0"
+    },
+    "LA": {
+        "matches": "24",
+        "runs": "443",
+        "bat avg": "22.15",
+        "100s/50s": "0/1",
+        "top score": "66",
+        "deliveries": "1051",
+        "wickets": "22",
+        "bowl avg": "38.18",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/60",
+        "catches/stumpings": "2/0"
+    },
+    "T20": {
+        "matches": "22",
+        "runs": "223",
+        "bat avg": "13.93",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "445",
+        "wickets": "18",
+        "bowl avg": "30.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/32",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Tripura": "2009\u2013present"
+    },
+    "birth_date": "1993-1-1"
+}

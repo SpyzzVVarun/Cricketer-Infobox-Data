@@ -1,0 +1,39 @@
+{
+    "name": "Edward Mulcock",
+    "country": "New Zealand",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1994",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "25 December",
+    "debutyear1": "1936",
+    "debutfor1": "Canterbury",
+    "debutagainst1": "Auckland",
+    "lastdate1": "25 December",
+    "lastyear1": "1943",
+    "lastfor1": "Otago",
+    "lastagainst1": "Canterbury",
+    "source": "http://www.espncricinfo.com/ci/content/player/37976.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "47",
+        "bat avg": "6.71",
+        "100s/50s": "0/0",
+        "top score": "8 not out",
+        "deliveries": "3,635",
+        "wickets": "55",
+        "bowl avg": "22.43",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "8/61",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1936/37\u20131938/39",
+        "Otago": "1943/44"
+    },
+    "birth_date": "1909-7-6"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Kieran Powell",
+    "country": "West Indies",
+    "fullname": "Kieran Omar Akeem Powell",
+    "birth_place": "Charlestown, Saint Kitts and Nevis",
+    "heightft": "6",
+    "heightinch": "3",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening batsman",
+    "testdebutdate": "6 July",
+    "testdebutyear": "2011",
+    "testdebutagainst": "India",
+    "testcap": "292",
+    "lasttestdate": "20 August",
+    "lasttestyear": "2021",
+    "lasttestagainst": "Pakistan",
+    "odidebutdate": "31 July",
+    "odidebutyear": "2009",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "152",
+    "lastodidate": "9 December",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/westindies/content/player/252932.html ESPNCricinfo ",
+    "Test": {
+        "matches": "44",
+        "runs": "2,113",
+        "bat avg": "25.76",
+        "100s/50s": "3/7",
+        "top score": "134",
+        "catches/stumpings": "31/\u2013"
+    },
+    "ODI": {
+        "matches": "46",
+        "runs": "1,005",
+        "bat avg": "22.84",
+        "100s/50s": "0/9",
+        "top score": "83",
+        "catches/stumpings": "14/\u2013"
+    },
+    "T20I": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Leeward Islands": "2008\u2013present",
+        "Antigua Hawksbills (CPL)": "2013",
+        "Tamil Union": "2015-2016",
+        "St Kitts & Nevis Patriots (CPL)": "2017"
+    },
+    "birth_date": "1990-3-6"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Jack Francis",
+    "birth_name": "John Charles Francis",
+    "birth_place": "Hawthorn, Victoria",
+    "death_date": "2001",
+    "death_place": "Camberwell, Victoria",
+    "height": "170 cm",
+    "nationality": "Australian",
+    "module": "Infobox AFL biography",
+    "embed": "yes",
+    "guernsey": "33",
+    "statsend": "1930",
+    "years1": "1923",
+    "games_goals1": "1 (0)",
+    "years2": "1926",
+    "games_goals2": "6 (8)",
+    "years3": "1929",
+    "games_goalstotal": "7 (8)",
+    "module2": "Infobox cricketer",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/australia/content/player/5314.html Cricinfo",
+    "First class": {
+        "matches": "3",
+        "runs": "186",
+        "bat avg": "46.50",
+        "100s/50s": "1/0",
+        "top score": "135",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1932/33",
+        "AFL Haw": "",
+        "Brighton (VFA)": ""
+    },
+    "birth_date": "1908-6-22"
+}

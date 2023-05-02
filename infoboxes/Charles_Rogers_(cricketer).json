@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Rogers",
+    "birth_place": "Cowley, Oxfordshire, England",
+    "death_date": "23 February 1887 (aged 63)",
+    "death_place": "Cowley, Oxfordshire, England",
+    "family": "Basil Rogers (grandson), Neville Rogers (grandson), Herbert Rogers (grandson), Joseph Rogers (great-grandson)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19988.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "81.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/40",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1861"
+    }
+}

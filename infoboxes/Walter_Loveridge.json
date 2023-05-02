@@ -1,0 +1,29 @@
+{
+    "name": "Walter Loveridge",
+    "country": "Australia",
+    "fullname": "Walter David Loveridge",
+    "birth_place": "Redfern, New South Wales, Australia",
+    "death_date": "df=yes",
+    "death_place": "East Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "8 November",
+    "debutyear1": "1902",
+    "debutfor1": "New South Wales",
+    "debutagainst1": "Queensland",
+    "source": "https://cricketarchive.com/Archive/Players/5/5963/5963.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1-",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1902\u201303"
+    },
+    "birth_date": "1867-9-13"
+}

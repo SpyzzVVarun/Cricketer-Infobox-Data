@@ -1,0 +1,31 @@
+{
+    "name": "George Lowe",
+    "country": "England",
+    "fullname": "George William Lowe",
+    "birth_place": "Mastin Moor, Derbyshire, England",
+    "death_date": "2008",
+    "death_place": "Chesterfield, Derbyshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "27 June",
+    "debutyear1": "1949",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Kent",
+    "lastdate1": "19 August",
+    "lastyear1": "1953",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Somerset",
+    "source": "https://cricketarchive.com/Players/31/31074/31074.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "43",
+        "bat avg": "14.33",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1949\u20131953"
+    },
+    "birth_date": "1915-5-25"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Thomas Fitzgerald Ward",
+    "birth_place": "Armagh, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Leinster, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24536.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "312",
+        "wickets": "5",
+        "bowl avg": "27.80",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1936&ndash;1939"
+    }
+}

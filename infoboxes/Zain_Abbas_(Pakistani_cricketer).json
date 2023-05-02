@@ -1,0 +1,29 @@
+{
+    "name": "Muhammad Zain",
+    "country": "Pakistan",
+    "birth_place": "Kabirwala, Punjab, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All Rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/456405.html Cricinfo ",
+    "FC": {
+        "matches": "54",
+        "runs": "2648",
+        "bat avg": "31.15",
+        "100s/50s": "3/15",
+        "top score": "178",
+        "deliveries": "333",
+        "wickets": "5",
+        "bowl avg": "28.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "49/-"
+    },
+    "clubs": {
+        "Baluchistan": "2011-?",
+        "Multan Tigers": "2011-?",
+        "Southern Punjab": "2019\u2013present"
+    },
+    "birth_date": "2006-11-2"
+}

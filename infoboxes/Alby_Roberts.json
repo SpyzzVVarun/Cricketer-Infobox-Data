@@ -1,0 +1,51 @@
+{
+    "name": "Alby Roberts",
+    "birth_place": "Christchurch, Canterbury, New Zealand",
+    "death_date": "1978",
+    "death_place": "Clyde, Otago, New Zealand",
+    "fullname": "Albert William Roberts",
+    "internationalspan": "1930\u20131937",
+    "country": "New Zealand",
+    "testdebutagainst": "England",
+    "testdebutdate": "10 January",
+    "testdebutyear": "1930",
+    "testcap": "11",
+    "lasttestdate": "14 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1937",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38254.html Cricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "248",
+        "bat avg": "27.55",
+        "100s/50s": "0/3",
+        "deliveries": "459",
+        "wickets": "7",
+        "bowl avg": "29.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/101",
+        "catches/stumpings": "4/-"
+    },
+    "First-class": {
+        "matches": "84",
+        "runs": "3645",
+        "bat avg": "30.88",
+        "100s/50s": "3/28",
+        "top score": "181",
+        "deliveries": "13544",
+        "wickets": "167",
+        "bowl avg": "28.51",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/47",
+        "catches/stumpings": "78/-"
+    },
+    "clubs": {
+        "Canterbury": "1927\u201328 to 1940\u201341",
+        "Otago": "1944\u201345 to 1950\u201351"
+    },
+    "birth_date": "1909-8-20"
+}

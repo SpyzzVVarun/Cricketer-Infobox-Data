@@ -1,0 +1,41 @@
+{
+    "country": "Denmark",
+    "fullname": "Ajay Bobby Chawla",
+    "nickname": "Bobstar url=http://iccworldcupqualifier.yahoo.net/teams-and-players/player-profile/denmark/ajay-chawla.html",
+    "birth_place": "Frederiksberg, Frederiksberg Municipality, Denmark",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/23939.html Cricinfo ",
+    "List A": {
+        "matches": "23",
+        "runs": "133",
+        "bat avg": "8.31",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "920",
+        "wickets": "22",
+        "bowl avg": "32.59",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/38",
+        "catches/stumpings": "5/\u2013"
+    },
+    "Twenty20": {
+        "matches": "8",
+        "runs": "17",
+        "bat avg": "4.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "186",
+        "wickets": "8",
+        "bowl avg": "27.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/19",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Denmark": "2000\u20132012"
+    },
+    "birth_date": "1982-12-2"
+}

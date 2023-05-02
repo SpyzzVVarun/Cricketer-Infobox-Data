@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Henry John Ellison",
+    "birth_place": "Westminster, Middlesex, England",
+    "death_date": "1899",
+    "death_place": "Canterbury, Kent, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/12765.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "64",
+        "bat avg": "6.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1833&ndash;1837",
+        "Marylebone Cricket Club": "1835"
+    }
+}

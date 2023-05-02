@@ -1,0 +1,41 @@
+{
+    "name": "Scott Kremerskothen",
+    "country": "Australia",
+    "fullname": "Scott Paul Kremerskothen",
+    "birth_place": "Launceston, Tasmania, Australia",
+    "heightm": "1.85",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/6165.html Cricinfo ",
+    "First-class": {
+        "matches": "37",
+        "runs": "1,266",
+        "bat avg": "26.93",
+        "100s/50s": "0/5",
+        "deliveries": "2,733",
+        "wickets": "44",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/63",
+        "catches/stumpings": "25/\u2013"
+    },
+    "LA": {
+        "matches": "44",
+        "runs": "573",
+        "bat avg": "19.75",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "deliveries": "1,202",
+        "wickets": "31",
+        "bowl avg": "35.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1998/99\u20132005/06"
+    },
+    "birth_date": "1979-1-5"
+}

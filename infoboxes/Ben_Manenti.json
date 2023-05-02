@@ -1,0 +1,56 @@
+{
+    "name": "Ben Manenti",
+    "fullname": "Benjamin Andrew Davey Manenti",
+    "birth_place": "Sydney, New South Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "source": "year4=2022/23&ndash;present",
+    "FC": {
+        "matches": "10",
+        "runs": "520",
+        "bat avg": "34.66",
+        "100s/50s": "0/4",
+        "deliveries": "1,935",
+        "wickets": "28",
+        "bowl avg": "37.10",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/107",
+        "catches/stumpings": "12/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "183",
+        "bat avg": "36.60",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "deliveries": "467",
+        "wickets": "13",
+        "bowl avg": "31.61",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "28",
+        "runs": "53",
+        "bat avg": "7.57",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "471",
+        "wickets": "19",
+        "bowl avg": "30.73",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Sydney Sixers( 46 )": "2018\u20132022",
+        "Tasmania": "2021/22",
+        "South Australia": "2022/23&ndash;present"
+    },
+    "birth_date": "1997-3-23"
+}

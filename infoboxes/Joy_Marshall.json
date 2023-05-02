@@ -1,0 +1,31 @@
+{
+    "name": "Joy Marshall",
+    "country": "New Zealand",
+    "fullname": "Joy Marriott Marshall",
+    "birth_place": "Ixworth, Suffolk, England",
+    "death_date": "1903",
+    "death_place": "Christchurch, New Zealand",
+    "family": "John Marshall (father), Patrick Marshall (brother)",
+    "heightft": "5",
+    "heightinch": "10",
+    "role": "Wicketkeeper-batsman",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37816.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Taranaki": "1891\u201392"
+    },
+    "birth_date": "1867-1-23"
+}

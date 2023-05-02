@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Charles Eric Dolman",
+    "birth_place": "Abertillery, Monmouthshire,  Wales",
+    "death_date": "1969",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12218.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "46",
+        "bat avg": "23.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "35",
+        "deliveries": "168",
+        "wickets": "2",
+        "bowl avg": "42.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/22",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wales": "1926&ndash;1928",
+        "Monmouthshire": "1922&ndash;1934"
+    },
+    "birth_date": "1903-7-17"
+}

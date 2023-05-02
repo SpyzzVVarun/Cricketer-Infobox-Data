@@ -1,0 +1,58 @@
+{
+    "name": "Andrew Fekete",
+    "country": "Australia",
+    "fullname": "Andrew Loton Fekete",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/270493.html Cricinfo ",
+    "FC": {
+        "matches": "39",
+        "runs": "318",
+        "bat avg": "9.93",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "7,137",
+        "wickets": "128",
+        "bowl avg": "30.69",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "6/67",
+        "catches/stumpings": "9/\u2013"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "74",
+        "bat avg": "18.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "1,334",
+        "wickets": "38",
+        "bowl avg": "30.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/30",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "15",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "deliveries": "239",
+        "wickets": "10",
+        "bowl avg": "40.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/27",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2018/19\u20132019/20",
+        "Tasmania( 17 )": "2012/13\u20132017/18",
+        "Melbourne Renegades( 17 )": "2018/19\u20132019/20",
+        "Brisbane Heat( 17 )": "2015/16",
+        "Sydney Thunder( 12 )": "2017/18"
+    },
+    "birth_date": "1985-5-18"
+}

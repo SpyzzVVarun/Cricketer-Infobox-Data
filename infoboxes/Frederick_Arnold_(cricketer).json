@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Frederick George Arnold",
+    "birth_place": "Dover, Kent, England",
+    "death_date": "1980",
+    "death_place": "Broughton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/8629.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "33",
+        "bat avg": "16.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "1,341",
+        "wickets": "18",
+        "bowl avg": "27.38",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/41",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1935/36"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Upendra Yadav",
+    "fullname": "Upendra Diwansingh Yadav",
+    "birth_place": "Kanpur, Uttar Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Wicketkeeper Batter",
+    "year3": "2023\u2013present",
+    "type1": "FC",
+    "debutdate1": "29 November",
+    "debutyear1": "2016",
+    "debutfor1": "Uttar Pradesh",
+    "debutagainst1": "Railways",
+    "type2": "List A",
+    "debutdate2": "05 February",
+    "debutyear2": "2018",
+    "debutfor2": "Uttar Pradesh",
+    "debutagainst2": "Delhi cricket team",
+    "source": "http://www.espncricinfo.com/ci/content/player/732269.html ESPNcricinfo ",
+    "FC": {
+        "matches": "37",
+        "runs": "1666",
+        "bat avg": "45.02",
+        "100s/50s": "5/7",
+        "catches/stumpings": "128/18"
+    },
+    "List A": {
+        "matches": "30",
+        "runs": "931",
+        "bat avg": "42.31",
+        "100s/50s": "1/5",
+        "top score": "112",
+        "catches/stumpings": "30/5"
+    },
+    "T20": {
+        "matches": "30",
+        "runs": "646",
+        "bat avg": "26.91",
+        "100s/50s": "0/2",
+        "catches/stumpings": "19/12"
+    },
+    "clubs": {
+        "Uttar Pradesh": "2014\u20132020",
+        "Railways( |club3 = Sunrisers Hyderabad )": "2022\u2013present"
+    },
+    "birth_date": "1996-10-8"
+}

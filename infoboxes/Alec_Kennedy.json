@@ -1,0 +1,43 @@
+{
+    "name": "Alec Kennedy",
+    "fullname": "Alexander Stuart Kennedy",
+    "birth_place": "Edinburgh, Scotland",
+    "death_date": "1959",
+    "death_place": "Hythe,   Southampton, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "country": "England",
+    "testdebutdate": "23 December",
+    "testdebutyear": "1922",
+    "lasttestdate": "16 February",
+    "lasttestyear": "1923",
+    "source": "https://www.espncricinfo.com/england/content/player/15858.html Cricinfo",
+    "Tests": {
+        "matches": "5",
+        "runs": "93",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "deliveries": "1683",
+        "wickets": "31",
+        "bowl avg": "19.32",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/76",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "677",
+        "runs": "16586",
+        "bat avg": "18.53",
+        "100s/50s": "10/64",
+        "deliveries": "150851",
+        "wickets": "2874",
+        "bowl avg": "21.23",
+        "fivefor": "225",
+        "tenfor": "45",
+        "best bowling": "10/37",
+        "catches/stumpings": "531/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1891-1-24"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Alastair Kenneth McTavish",
+    "birth_place": "Rothiemay, Banffshire, Scotland",
+    "death_date": "1961",
+    "death_place": "Newton Mearns, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/alastair-mctavish-25297 Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "675",
+        "bat avg": "25.96",
+        "100s/50s": "1/3",
+        "top score": "109",
+        "catches/stumpings": "9/4"
+    },
+    "clubs": {
+        "Scotland": "1929&ndash;1939"
+    }
+}

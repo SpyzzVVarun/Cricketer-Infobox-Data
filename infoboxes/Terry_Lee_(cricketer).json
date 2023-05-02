@@ -1,0 +1,27 @@
+{
+    "name": "Terry Lee",
+    "country": "Australia",
+    "fullname": "Terence Henderson Lee",
+    "birth_place": "Manly, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "https://cricketarchive.com/Archive/Players/5/5952/5952.html CricketArchive",
+    "FC": {
+        "matches": "27",
+        "runs": "758",
+        "bat avg": "18.95",
+        "100s/50s": "0/4",
+        "top score": "68",
+        "deliveries": "3976",
+        "wickets": "38",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/19",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1962\u201363 to 1967\u201368"
+    },
+    "birth_date": "1940-8-31"
+}

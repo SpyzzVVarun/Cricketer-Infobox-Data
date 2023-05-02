@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Thomas Tanner Brewer",
+    "birth_place": "Huntspill, Somerset, England",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/9972.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "88",
+        "bat avg": "12.57",
+        "100s/50s": "\u2013/1",
+        "top score": "59",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "London County": "1903",
+        "Cheshire": "1909"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Colin Leonard Price",
+    "birth_place": "Birmingham, Warwickshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/19117.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "64",
+        "bat avg": "32.00",
+        "100s/50s": "&ndash;/1",
+        "top score": "52",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1966&ndash;1976"
+    },
+    "birth_date": "1943-10-24"
+}

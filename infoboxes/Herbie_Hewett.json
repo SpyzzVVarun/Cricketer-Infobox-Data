@@ -1,0 +1,40 @@
+{
+    "name": "Herbie Hewett",
+    "country": "England",
+    "fullname": "Herbert Tremenheere Hewett",
+    "birth_place": "Norton Fitzwarren, Somerset, England",
+    "death_date": "1921",
+    "death_place": "Hove, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Medium",
+    "type1": "FC",
+    "debutdate1": "25 August",
+    "debutyear1": "1884",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Kent",
+    "lastdate1": "29 June",
+    "lastyear1": "1895",
+    "lastfor1": "MCC",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3615/3615.html CricketArchive ",
+    "First-class": {
+        "matches": "106",
+        "runs": "5,099",
+        "bat avg": "29.30",
+        "100s/50s": "7/30",
+        "top score": "201",
+        "deliveries": "454",
+        "wickets": "2",
+        "bowl avg": "120.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/40",
+        "catches/stumpings": "49/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1884\u20131893",
+        "Oxford University": "1886\u20131887",
+        "Marylebone Cricket Club": "1888\u20131896"
+    },
+    "birth_date": "1864-5-25"
+}

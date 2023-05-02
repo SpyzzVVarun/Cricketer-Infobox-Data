@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Silcock",
+    "birth_place": "Croston, Lancashire, England",
+    "death_date": "1933",
+    "death_place": "Leyland, Lancashire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/20766.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "82",
+        "bat avg": "13.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "43",
+        "deliveries": "798",
+        "wickets": "5",
+        "bowl avg": "73.40",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/62",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1899&ndash;1902"
+    }
+}

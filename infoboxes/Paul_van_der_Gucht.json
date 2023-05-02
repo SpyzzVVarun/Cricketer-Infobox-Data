@@ -1,0 +1,24 @@
+{
+    "name": "Paul van der Gucht",
+    "fullname": "Paul Ian van der Gucht",
+    "birth_place": "Worksop, Nottinghamshire, England",
+    "death_date": "1993",
+    "death_place": "Basingstoke, Hampshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/22194.html Cricinfo ",
+    "FC": {
+        "matches": "51",
+        "runs": "1587",
+        "bat avg": "23.00",
+        "100s/50s": "1/7",
+        "top score": "115",
+        "catches/stumpings": "74/25"
+    },
+    "clubs": {
+        "Gloucestershire": "1932\u20131933",
+        "Europeans": "1935\u20131936",
+        "Bengal": "1937\u20131947"
+    },
+    "birth_date": "1911-11-2"
+}

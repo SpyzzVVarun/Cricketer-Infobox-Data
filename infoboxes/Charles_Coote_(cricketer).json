@@ -1,0 +1,23 @@
+{
+    "country": "Ireland",
+    "fullname": "Charles Purdon Coote",
+    "birth_place": "Weymouth, Dorset, England",
+    "death_date": "1893",
+    "death_place": "Ballyclogh, Ireland",
+    "heightft": "6",
+    "heightinch": "1",
+    "family": "Sir Algernon Coote (uncle)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/11310.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "192",
+        "bat avg": "9.14",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1869&ndash;1874"
+    }
+}

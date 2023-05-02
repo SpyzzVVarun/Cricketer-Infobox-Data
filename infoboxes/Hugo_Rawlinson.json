@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Hugo Christopher Luke Rawlinson",
+    "birth_place": "Lambeth, London, England",
+    "heightft": "5",
+    "heightinch": "8",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "John Rawlinson (father), Harry Rawlinson (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/297603.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "3.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Durham UCCE": "2008"
+    },
+    "birth_date": "1988-2-14"
+}

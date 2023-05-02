@@ -1,0 +1,43 @@
+{
+    "name": "Mohammad Naim",
+    "country": "Bangladesh",
+    "internationalspan": "2019\u2013present",
+    "fullname": "Mohammad Naim Sheikh",
+    "birth_place": "Faridpur, Bangladesh",
+    "height": "6 ft 1 in",
+    "batting": "Left-handed",
+    "role": "Batsman  |columns=4 |hidedeliveries=true  |column1=ODI |matches1=2 |runs1=1 |top score1=1 |100s/50s1=0/0 |bat avg1=1.00 |catches/stumpings1=2/\u2013  |column2=T20I |matches2=22 |runs2=570 |top score2=81 |100s/50s2=0/4 |bat avg2=27.14 |catches/stumpings2=9/\u2013  |column3=FC |matches3=6 |runs3=183 |top score3=65 |bat avg3=16.63 |100s/50s3=0/1 |catches/stumpings3=2/\u2013  |column4=LA |matches4=43 |runs4=1,822 |top score4=136 |bat avg4=44.43 |100s/50s4=4/12 |catches/stumpings4=21/\u2013",
+    "onetest": "true",
+    "testdebutdate": "9 January",
+    "testdebutyear": "2022",
+    "testdebutagainst": "New Zealand",
+    "testcap": "100",
+    "odidebutdate": "6 March",
+    "odidebutyear": "2020",
+    "odidebutagainst": "Zimbabwe",
+    "odicap": "133",
+    "lastodidate": "28 May",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Sri Lanka",
+    "T20Idebutagainst": "India",
+    "T20Idebutdate": "3 November",
+    "T20Idebutyear": "2019",
+    "T20Icap": "67",
+    "lastT20Iagainst": "Afghanistan",
+    "lastT20Idate": "30 August",
+    "lastT20Iyear": "2022",
+    "source": "http://www.espncricinfo.com/ci/content/player/990081.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Dhaka Dynamites": "2019"
+    },
+    "birth_date": "1999-8-22",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

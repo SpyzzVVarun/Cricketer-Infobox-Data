@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Andrew Hunter Barker",
+    "birth_place": "Salisbury, Wiltshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/9528.html Cricinfo ",
+    "FC": {
+        "matches": "44",
+        "runs": "864",
+        "bat avg": "14.64",
+        "100s/50s": "\u2013/1",
+        "top score": "94",
+        "deliveries": "6,966",
+        "wickets": "70",
+        "bowl avg": "41.51",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/42",
+        "catches/stumpings": "24/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "72",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "134",
+        "wickets": "3",
+        "bowl avg": "28.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/24",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1963-1973",
+        "Minor Counties South": "1972-1973",
+        "Oxford University": "1964-1967"
+    },
+    "birth_date": "1945-8-7"
+}

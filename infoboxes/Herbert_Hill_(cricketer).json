@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Herbert James Hill",
+    "birth_place": "Kingston upon Thames, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Sheringham, Norfolk, England",
+    "family": "William Law (brother-in-law)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/14813.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "90",
+        "bat avg": "22.50",
+        "100s/50s": "\u2013/1",
+        "top score": "54",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1895&ndash;1903",
+        "Marylebone Cricket Club": "1900&ndash;1901"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Hunter Poon",
+    "country": "Australia",
+    "fullname": "Hunter Robert George Poon",
+    "birth_place": "Ballina, New South Wales, Australia",
+    "death_date": "1980",
+    "death_place": "Greenslopes, Queensland, Australia",
+    "batting": "Right-handed",
+    "role": "Right arm leg spin",
+    "type1": "First-class",
+    "debutdate1": "21 December",
+    "debutyear1": "1923",
+    "debutfor1": "Queensland",
+    "debutagainst1": "Victoria",
+    "lastyear1": "1923",
+    "lastfor1": "Queensland",
+    "lastagainst1": "Victoria",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/5/5818/5818.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Queensland": "1923"
+    },
+    "birth_date": "1894-5-14"
+}

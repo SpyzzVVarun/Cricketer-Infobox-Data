@@ -1,0 +1,29 @@
+{
+    "name": "John Shaw",
+    "country": "Australia",
+    "fullname": "John Hilary Shaw",
+    "birth_place": "Geelong, Victoria, Australia",
+    "death_date": "2018",
+    "death_place": "Drysdale, Victoria, Australia",
+    "batting": "Right-handed",
+    "family": "Lindsay Hassett (uncle), Dick Hassett (uncle)",
+    "source": "http://www.espncricinfo.com/australia/content/player/7777.html CricInfo ",
+    "First-class": {
+        "matches": "55",
+        "runs": "3,276",
+        "bat avg": "40.44",
+        "100s/50s": "4/24",
+        "top score": "167",
+        "deliveries": "46",
+        "wickets": "1",
+        "bowl avg": "55.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/2",
+        "catches/stumpings": "40/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1953\u201354 to 1960\u201361"
+    },
+    "birth_date": "1931-10-18"
+}

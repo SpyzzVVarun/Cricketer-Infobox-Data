@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Bernard Cyril Elgood",
+    "birth_place": "Hampstead, Middlesex, England",
+    "death_date": "df=y",
+    "death_place": "Pauntley Place, Gloucestershire,, England",
+    "nickname": "Bruno",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12638.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "631",
+        "bat avg": "33.21",
+        "100s/50s": "2/2",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1948",
+        "Berkshire": "1949"
+    }
+}

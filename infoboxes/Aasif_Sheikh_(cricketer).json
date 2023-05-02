@@ -1,0 +1,59 @@
+{
+    "name": "Aasif Sheikh",
+    "country": "Nepal",
+    "birth_place": "Birgunj, Nepal",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsman",
+    "family": "Aarif Sheikh (brother)",
+    "internationalspan": "2021\u2013present",
+    "odidebutdate": "7 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "PNG",
+    "odicap": "24",
+    "lastodidate": "1 May",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "T20Idebutdate": "17 April",
+    "T20Idebutyear": "2021",
+    "T20Idebutfor": "Nepal",
+    "T20Idebutagainst": "Netherlands",
+    "T20Icap": "32",
+    "lastT20Idate": "26 August",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Kenya",
+    "T20Ishirt": "9",
+    "source": "https://www.espncricinfo.com/player/aasif-sheikh-1058514 ESNPcricinfo,",
+    "ODI": {
+        "matches": "36",
+        "runs": "1073",
+        "bat avg": "32.51",
+        "100s/50s": "1/8",
+        "top score": "110",
+        "catches/stumpings": "25/3"
+    },
+    "T20I": {
+        "matches": "20",
+        "runs": "468",
+        "bat avg": "24.63",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "catches/stumpings": "2/0"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "189",
+        "bat avg": "31.50",
+        "100s/50s": "0/1",
+        "top score": "90",
+        "catches/stumpings": "5/0"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "154",
+        "bat avg": "38.50",
+        "100s/50s": "0/1",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {},
+    "birth_date": "2001-1-22"
+}

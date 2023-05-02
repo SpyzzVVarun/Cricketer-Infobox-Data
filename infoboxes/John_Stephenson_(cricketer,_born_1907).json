@@ -1,0 +1,32 @@
+{
+    "name": "John Stephenson",
+    "country": "England",
+    "fullname": "John William Arthur Stephenson",
+    "birth_place": "Hong Kong",
+    "death_date": "1982",
+    "death_place": "Mare Hill, Pulborough, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/5/5310/5310.html CricketArchive ",
+    "FC": {
+        "matches": "103",
+        "runs": "2,582",
+        "bat avg": "21.33",
+        "100s/50s": "2/8",
+        "top score": "135",
+        "deliveries": "15,323",
+        "wickets": "312",
+        "bowl avg": "24.10",
+        "fivefor": "16",
+        "tenfor": "2",
+        "best bowling": "9-46",
+        "catches/stumpings": "60/0"
+    },
+    "clubs": {
+        "Europeans": "1928/29\u20131930/31",
+        "Madras": "1930/31",
+        "Essex": "1934\u20131939",
+        "Worcestershire": "1947"
+    },
+    "birth_date": "1907-8-1"
+}

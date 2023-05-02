@@ -1,0 +1,37 @@
+{
+    "name": "Baxter Holt",
+    "full_name": "Baxter James Henry Holt",
+    "birth_place": "Carlingford, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper-batsman",
+    "source": "http://www.espncricinfo.com/australia/content/player/1126693.html Cricinfo",
+    "FC": {
+        "matches": "8",
+        "runs": "190",
+        "bat avg": "14.61",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "26/0"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "62",
+        "bat avg": "62.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/0"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "84",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "catches/stumpings": "8/2"
+    },
+    "clubs": {
+        "New South Wales": "2018/19\u2013",
+        "Sydney Thunder( 27 )": "2018/19\u2013"
+    },
+    "birth_date": "1999-10-21"
+}

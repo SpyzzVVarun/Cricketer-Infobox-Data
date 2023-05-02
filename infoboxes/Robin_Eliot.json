@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Robin Francis Eliot",
+    "birth_place": "Gloucester, Gloucestershire, England",
+    "death_date": "df=yes",
+    "death_place": "Crowborough, Sussex, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/12639.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "55",
+        "bat avg": "27.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "deliveries": "306",
+        "wickets": "1",
+        "bowl avg": "140.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/70",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1961"
+    }
+}

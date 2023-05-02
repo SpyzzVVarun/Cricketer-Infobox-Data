@@ -1,0 +1,46 @@
+{
+    "name": "Merissa Aguilleira",
+    "female": "true",
+    "country": "West Indies",
+    "fullname": "Merissa Ria Aguilleira",
+    "birth_place": "Trinidad",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2008\u20132019",
+    "odidebutdate": "8 July",
+    "odidebutyear": "2008",
+    "odidebutagainst": "Netherlands",
+    "odicap": "63",
+    "lastodidate": "22 September",
+    "lastodiyear": "2018",
+    "lastodiagainst": "South Africa",
+    "odishirt": "7",
+    "T20Idebutdate": "11 June",
+    "T20Idebutyear": "2009",
+    "T20Idebutagainst": "South Africa",
+    "T20Icap": "16",
+    "lastT20Idate": "3 February",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Pakistan",
+    "T20Ishirt": "7",
+    "source": "http://www.espncricinfo.com/westindies/content/player/355348.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "112",
+        "runs": "1,752",
+        "bat avg": "20.61",
+        "100s/50s": "0/6",
+        "top score": "71",
+        "catches/stumpings": "78/27"
+    },
+    "WT20I": {
+        "matches": "95",
+        "runs": "768",
+        "bat avg": "14.49",
+        "100s/50s": "0/0",
+        "catches/stumpings": "28/34"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2005\u20132018/19"
+    },
+    "birth_date": "1985-12-14"
+}

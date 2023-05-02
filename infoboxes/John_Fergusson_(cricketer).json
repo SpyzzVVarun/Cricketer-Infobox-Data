@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "John Alexander Fergusson",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1947",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/john-fergusson-25203 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "283",
+        "bat avg": "20.21",
+        "100s/50s": "1/\u2013",
+        "deliveries": "521",
+        "wickets": "9",
+        "bowl avg": "25.11",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/36",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1911&ndash;1923"
+    }
+}

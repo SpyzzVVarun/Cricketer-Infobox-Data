@@ -1,0 +1,43 @@
+{
+    "name": "Justin Boyle",
+    "country": "New Zealand",
+    "fullname": "Justin Gregory Boyle",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg spin",
+    "family": "David Boyle (brother), Jack Boyle (son), Matthew Boyle (son)",
+    "source": "https://cricketarchive.com/Archive/Players/21/21505/21505.html CricketArchive ",
+    "First-class": {
+        "matches": "35",
+        "runs": "1,475",
+        "bat avg": "24.58",
+        "100s/50s": "0/10",
+        "top score": "89",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/5",
+        "catches/stumpings": "11/\u2013"
+    },
+    "List A": {
+        "matches": "17",
+        "runs": "299",
+        "bat avg": "17.58",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1982\u20131986",
+        "Canterbury": "1986\u20131991"
+    },
+    "birth_date": "1959-4-13"
+}

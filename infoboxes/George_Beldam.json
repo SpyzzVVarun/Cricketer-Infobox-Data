@@ -1,0 +1,30 @@
+{
+    "name": "George Beldam",
+    "country": "England",
+    "fullname": "George William Beldam",
+    "birth_place": "New Cross, Kent, England",
+    "death_date": "1937",
+    "death_place": "Lower Bourne, Farnham, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/9659.html Cricinfo ",
+    "First-class": {
+        "matches": "142",
+        "runs": "6575",
+        "bat avg": "30.02",
+        "100s/50s": "9/33",
+        "top score": "155 not out",
+        "deliveries": "7154",
+        "wickets": "107",
+        "bowl avg": "30.63",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "5/28",
+        "catches/stumpings": "83/0"
+    },
+    "clubs": {
+        "London County": "1900 to 1903",
+        "Middlesex": "1900 to 1907"
+    },
+    "birth_date": "1868-5-1"
+}

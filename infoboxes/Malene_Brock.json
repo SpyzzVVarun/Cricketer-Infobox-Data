@@ -1,0 +1,28 @@
+{
+    "name": "Malene Brock",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Malene Brock",
+    "odidebutdate": "5 July",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Netherlands",
+    "odicap": "28",
+    "lastodidate": "26 July",
+    "lastodiyear": "1998",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54949.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "8",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "0/0",
+        "deliveries": "390",
+        "wickets": "4",
+        "bowl avg": "65.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/38",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {}
+}

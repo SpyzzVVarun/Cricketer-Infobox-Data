@@ -1,0 +1,40 @@
+{
+    "name": "Gulshan Jha",
+    "country": "Nepal",
+    "fullname": "Gulshan Kumar Jha",
+    "birth_place": "Malangwa, Sarlahi,  Nepal",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "odidebutdate": "17 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "United States",
+    "odicap": "27",
+    "lastodidate": "1 May",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "oneT20I": "true",
+    "T20Idebutdate": "19 February",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "Philippines",
+    "T20Icap": "39",
+    "source": "http://www.espncricinfo.com/ci/content/player/1253822.html Cricinfo ",
+    "ODI": {
+        "matches": "15",
+        "runs": "246",
+        "bat avg": "27.33",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "372",
+        "wickets": "12",
+        "bowl avg": "34.25",
+        "fivefor": "0",
+        "best bowling": "3/28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Nepal Police Club": "2021-present",
+        "Kathmandu Kings XI": "2021"
+    },
+    "birth_date": "2006-02-17"
+}

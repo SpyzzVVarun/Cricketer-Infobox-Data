@@ -1,0 +1,41 @@
+{
+    "name": "Bryan Davis",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "country": "West Indies",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "26 March",
+    "testdebutyear": "1965",
+    "lasttestdate": "14 May",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1965",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/51640.html CricInfo",
+    "Test": {
+        "matches": "4",
+        "runs": "245",
+        "bat avg": "30.62",
+        "100s/50s": "0/3",
+        "top score": "68",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "112",
+        "runs": "6,231",
+        "bat avg": "34.81",
+        "100s/50s": "5/46",
+        "deliveries": "750",
+        "wickets": "9",
+        "bowl avg": "48.22",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/79",
+        "catches/stumpings": "127/\u2013"
+    },
+    "clubs": {}
+}

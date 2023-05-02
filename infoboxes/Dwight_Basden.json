@@ -1,0 +1,35 @@
+{
+    "name": "Dwight Basden",
+    "country": "Bermuda",
+    "fullname": "Dwight Martin Basden",
+    "birth_place": "Bermuda",
+    "nickname": "Bushy",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "odidebutdate": "18 August",
+    "odidebutyear": "2007",
+    "odidebutagainst": "Netherlands",
+    "odicap": "23",
+    "lastodidate": "20 August",
+    "lastodiyear": "2007",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Players/212/212109/212109.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "First-class": {
+        "matches": "1",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1972-10-28"
+}

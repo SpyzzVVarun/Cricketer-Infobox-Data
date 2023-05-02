@@ -1,0 +1,33 @@
+{
+    "name": "Angela Venturini",
+    "fullname": "Angela Venturini",
+    "female": "true",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "country": "Netherlands",
+    "internationalspan": "1988\u20131995",
+    "odidebutdate": "29 November",
+    "odidebutyear": "1988",
+    "odidebutagainst": "Australia",
+    "odicap": "12",
+    "lastodidate": "20 July",
+    "lastodiyear": "1995",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/17/17222/17222.html CricketArchive ",
+    "WODI": {
+        "matches": "24",
+        "runs": "53",
+        "bat avg": "3.78",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "1,305",
+        "wickets": "15",
+        "bowl avg": "43.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/17",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1964-11-19"
+}

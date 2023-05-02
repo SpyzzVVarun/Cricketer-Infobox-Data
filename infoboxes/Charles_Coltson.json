@@ -1,0 +1,24 @@
+{
+    "fullname": "Charles Coltson",
+    "birth_place": "Lambeth, Surrey, England",
+    "death_date": "15 March 1852",
+    "death_place": "Kennington, Surrey, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11666.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "162",
+        "bat avg": "7.71",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1847\u20131851"
+    }
+}

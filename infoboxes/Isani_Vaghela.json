@@ -1,0 +1,35 @@
+{
+    "name": "Isani Vaghela",
+    "female": "true",
+    "country": "United States",
+    "birth_place": "Milpitas, California",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Vatsal Vaghela (brother)",
+    "T20Idebutdate": "18 October",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Brazil",
+    "T20Icap": "21",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "United Arab Emirates",
+    "source": "http://www.espncricinfo.com/ci/content/player/1283439.html Cricinfo ",
+    "WT20I": {
+        "matches": "13",
+        "runs": "75",
+        "bat avg": "8.33",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "96",
+        "wickets": "3",
+        "bowl avg": "35.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/9",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Guyana Amazon Warriors": "2022\u2013present"
+    },
+    "birth_date": "2006-1-7"
+}

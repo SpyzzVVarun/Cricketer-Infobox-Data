@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "birth_place": "Chatteris, Cambridgeshire, England",
+    "death_date": "21 July 1876 (aged 41)",
+    "death_place": "Cambridge, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Daniel Hayward (father), Tom Hayward (nephew)",
+    "source": "http://www.espncricinfo.com/england/content/player/14664.html CricInfo ",
+    "First-class": {
+        "matches": "118",
+        "runs": "4789",
+        "bat avg": "25.33",
+        "100s/50s": "6/11",
+        "top score": "132",
+        "deliveries": "3328",
+        "wickets": "267",
+        "bowl avg": "14.74",
+        "fivefor": "19",
+        "tenfor": "2",
+        "best bowling": "9/30",
+        "catches/stumpings": "62/0"
+    },
+    "clubs": {
+        "Cambridge Town Club": "1854\u20131872"
+    }
+}

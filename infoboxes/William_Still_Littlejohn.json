@@ -1,0 +1,43 @@
+{
+    "name": "William Littlejohn",
+    "order": "10th Headmaster of Nelson College",
+    "term_start": "1899",
+    "term_end": "1903",
+    "predecessor": "John William Joynt",
+    "successor": "Harry Lewis Fowler",
+    "order2": "3rd Headmaster of Scotch College, Melbourne",
+    "term_start2": "1904",
+    "term_end2": "1933",
+    "predecessor2": "Alexander Morrison",
+    "successor2": "Colin Macdonald Gilray",
+    "birth_name": "William Still Littlejohn",
+    "birth_place": "Turriff, Aberdeenshire, Scotland",
+    "death_date": "df=y",
+    "death_place": "Hawthorn, Victoria, Australia",
+    "spouse": "Jeannie Berry",
+    "relations": "Charles Littlejohn (son)",
+    "module": "Infobox cricketer",
+    "embed": "yes",
+    "type1": "First-class",
+    "debutdate1": "19 March",
+    "debutyear1": "1886",
+    "debutfor1": "Nelson",
+    "debutagainst1": "Wellington",
+    "lastdate1": "29 December",
+    "lastyear1": "1886",
+    "lastfor1": "Nelson",
+    "lastagainst1": "Wellington",
+    "source": "https://cricketarchive.com/Archive/Players/22/22313/22313.html CricketArchive  ",
+    "First-class": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "2.66",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Nelson": "1885/86\u20131886/87"
+    },
+    "birth_date": "1859-09-19"
+}

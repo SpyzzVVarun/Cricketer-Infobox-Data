@@ -1,0 +1,26 @@
+{
+    "name": "Ernest Killick",
+    "country": "England",
+    "nickname": "Tim",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "type1": "First-class",
+    "debutdate1": "-, 1893",
+    "lastdate1": "-, 1913",
+    "source": "http://content-aus.cricinfo.com/england/content/player/16018.html ESPNCricinfo ",
+    "FC": {
+        "matches": "461",
+        "runs": "18768",
+        "bat avg": "26.17",
+        "100s/50s": "22/?",
+        "top score": "200",
+        "deliveries": "40595",
+        "wickets": "729",
+        "bowl avg": "27.30",
+        "fivefor": "25",
+        "tenfor": "1",
+        "best bowling": "7-10",
+        "catches/stumpings": "187/0"
+    },
+    "clubs": {}
+}

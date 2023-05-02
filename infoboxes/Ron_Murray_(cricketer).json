@@ -1,0 +1,28 @@
+{
+    "name": "Ron Murray",
+    "country": "New Zealand",
+    "fullname": "Ronald McKenzie Murray",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1951",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37985.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "399",
+        "bat avg": "17.34",
+        "100s/50s": "0/1",
+        "deliveries": "3364",
+        "wickets": "59",
+        "bowl avg": "23.93",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/85",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Wellington": "1946-47 to 1950-51"
+    },
+    "birth_date": "1927-6-15"
+}

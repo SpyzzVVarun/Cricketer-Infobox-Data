@@ -1,0 +1,21 @@
+{
+    "name": "George John",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/23/23768/23768.html CricketArchive",
+    "First-class": {
+        "matches": "29",
+        "runs": "466",
+        "bat avg": "14.12",
+        "100s/50s": "1/0",
+        "top score": "111",
+        "deliveries": "5,801",
+        "wickets": "133",
+        "bowl avg": "19.24",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "7/52",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {}
+}

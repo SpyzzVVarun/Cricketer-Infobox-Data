@@ -1,0 +1,43 @@
+{
+    "name": "Dene Hills",
+    "country": "Australia",
+    "fullname": "Dene Fleetwood Hills",
+    "birth_place": "Wynyard, Tasmania, Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm slow",
+    "role": "Opening Batsman",
+    "source": "http://content-uk.cricinfo.com/australia/content/player/5659.html Cricinfo |",
+    "FC": {
+        "matches": "112",
+        "runs": "7,894",
+        "bat avg": "40.07",
+        "100s/50s": "21/43",
+        "top score": "265",
+        "deliveries": "97",
+        "wickets": "2",
+        "bowl avg": "26.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/20",
+        "catches/stumpings": "80/\u2013"
+    },
+    "List A": {
+        "matches": "47",
+        "runs": "1,239",
+        "bat avg": "30.97",
+        "100s/50s": "0/8",
+        "top score": "81",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1991/92\u20132001/02",
+        "Scotland": "2000"
+    },
+    "birth_date": "1970-08-27"
+}

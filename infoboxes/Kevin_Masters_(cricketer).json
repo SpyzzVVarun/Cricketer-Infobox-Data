@@ -1,0 +1,43 @@
+{
+    "name": "Kevin Masters",
+    "country": "England",
+    "fullname": "Kevin David Masters",
+    "birth_place": "Chatham, Kent",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "David Masters (son) Daniel Masters (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/16939.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "1",
+        "bat avg": "0.16",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "449",
+        "wickets": "6",
+        "bowl avg": "40.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "deliveries": "675",
+        "wickets": "8",
+        "bowl avg": "45.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/52",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1983\u20131984",
+        "Cambridgeshire": "1995\u20131996",
+        "Kent Cricket Board": "1999\u20132002"
+    },
+    "birth_date": "1961-5-19"
+}

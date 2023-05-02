@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "David Mark Wheatman",
+    "birth_place": "Kendal, Westmorland, England",
+    "death_date": "2004",
+    "death_place": "Lancaster, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22564.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "120",
+        "wickets": "2",
+        "bowl avg": "37.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/23",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cumberland": "1990&ndash;2001"
+    },
+    "birth_date": "1966-1-31"
+}

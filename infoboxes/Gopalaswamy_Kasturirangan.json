@@ -1,0 +1,28 @@
+{
+    "name": "Gopalaswamy Kasturirangan",
+    "country": "India",
+    "fullname": "Gopalaswamy Iyenger Kasturirangan",
+    "birth_place": "Madras (now Chennai), Madras Presidency, British India (now in Tamil Nadu, India)",
+    "death_date": "2020",
+    "death_place": "Bengaluru, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "https://www.espncricinfo.com/ci/content/player/30539.html ESPNcricinfo",
+    "First-class": {
+        "matches": "36",
+        "runs": "421",
+        "bat avg": "15.03",
+        "100s/50s": "0/0",
+        "deliveries": "6015",
+        "wickets": "94",
+        "bowl avg": "22.02",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Mysore": "1948\u20131963"
+    },
+    "birth_date": "1930-10-12"
+}

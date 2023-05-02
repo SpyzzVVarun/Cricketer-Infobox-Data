@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "James Challen",
+    "batting": "Unknown",
+    "family": "James Challen junior (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/11607.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "109",
+        "bat avg": "10.90",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1847\u20131849"
+    }
+}

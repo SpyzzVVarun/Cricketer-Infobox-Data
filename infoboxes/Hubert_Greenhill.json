@@ -1,0 +1,30 @@
+{
+    "name": "Hubert Greenhill",
+    "country": "England",
+    "fullname": "Hubert Maclean Greenhill",
+    "birth_place": "Christchurch, Hampshire, England",
+    "death_date": "1926",
+    "death_place": "Near Bockhampton, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/13444.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "145",
+        "wickets": "3",
+        "bowl avg": "25.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/39",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1901",
+        "Dorset": "1906\u20131925"
+    },
+    "birth_date": "1881-9-18"
+}

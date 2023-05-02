@@ -1,0 +1,39 @@
+{
+    "honorific_prefix": "The Right Honourable",
+    "name": "The Earl of Darnley",
+    "honorific_suffix": "JP DL",
+    "country": "England",
+    "fullname": "Ivo Francis Walter Bligh",
+    "birth_place": "Westminster, London",
+    "death_date": "1927",
+    "death_place": "Shorne, Kent",
+    "batting": "Right-handed",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1882",
+    "testdebutagainst": "Australia",
+    "testcap": "38",
+    "lasttestdate": "21 February",
+    "lasttestyear": "1883",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/9127.html CricInfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "62",
+        "bat avg": "10.33",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "7/\u2013"
+    },
+    "First-class": {
+        "matches": "84",
+        "runs": "2,733",
+        "bat avg": "20.70",
+        "100s/50s": "2/12",
+        "catches/stumpings": "81/\u2013"
+    },
+    "clubs": {
+        "Kent": "1877\u20131883",
+        "Cambridge University": "1878\u20131881"
+    },
+    "birth_date": "1859-3-13"
+}

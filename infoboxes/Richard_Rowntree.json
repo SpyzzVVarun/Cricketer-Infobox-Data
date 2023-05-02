@@ -1,0 +1,24 @@
+{
+    "name": "Richard Rowntree",
+    "country": "New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/38358.html Cricinfo",
+    "First-class": {
+        "matches": "33",
+        "runs": "308",
+        "bat avg": "9.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "48",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "57/38"
+    },
+    "clubs": {
+        "Auckland": "1914-15 to 1931-32"
+    }
+}

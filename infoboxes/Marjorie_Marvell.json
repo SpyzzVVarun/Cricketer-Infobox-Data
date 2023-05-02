@@ -1,0 +1,31 @@
+{
+    "name": "Marjorie Marvell",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Marjorie Evelyn Marvell",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "testdebutdate": "8 March",
+    "testdebutyear": "1958",
+    "testdebutagainst": "England",
+    "testcap": "49",
+    "lasttestdate": "21 March",
+    "lasttestyear": "1958",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53535.html CricInfo ",
+    "WTest": {
+        "matches": "5",
+        "runs": "22",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "1230",
+        "wickets": "6",
+        "bowl avg": "50.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/40",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {}
+}

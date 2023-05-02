@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "William John Alexander McMahon",
+    "birth_place": "Richill, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Galway, Connacht, Ireland",
+    "nickname": "Burry",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/24581.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "4.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "318",
+        "wickets": "2",
+        "bowl avg": "89.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/92",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Dublin University": "1925&ndash;1926"
+    }
+}

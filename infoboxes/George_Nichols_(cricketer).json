@@ -1,0 +1,39 @@
+{
+    "name": "George Nichols",
+    "country": "England",
+    "fullname": "George Benjamin Nichols",
+    "birth_place": "Fishponds, Bristol, England",
+    "death_date": "1911",
+    "death_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "28 May",
+    "debutyear1": "1883",
+    "debutfor1": "Cr team Gloucestershire",
+    "debutagainst1": "Cr team Middlesex",
+    "lastdate1": "7 August",
+    "lastyear1": "1899",
+    "lastfor1": "Cr team Somerset",
+    "lastagainst1": "Cr team Middlesex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3734/3734.html CricketArchive ",
+    "First-class": {
+        "matches": "143",
+        "runs": "2958",
+        "bat avg": "13.63",
+        "100s/50s": "0/8",
+        "deliveries": "17497",
+        "wickets": "299",
+        "bowl avg": "23.87",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/75",
+        "catches/stumpings": "65/&ndash;"
+    },
+    "clubs": {
+        "Cr team Gloucestershire": "1883&ndash;1885",
+        "Cr team Somerset": "1886&ndash;1899"
+    },
+    "birth_date": "1862-06-14"
+}

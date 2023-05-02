@@ -1,0 +1,39 @@
+{
+    "name": "Thomas Humphrey",
+    "country": "England",
+    "fullname": "Thomas Humphrey",
+    "birth_place": "Mitcham, Surrey, England",
+    "death_date": "1878",
+    "death_place": "Brookwood Hospital, Surrey, England",
+    "batting": "Right-hand bat",
+    "bowling": "Round arm right-arm Round arm right-arm slow",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "12 June",
+    "debutyear1": "1862",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "28 May",
+    "lastyear1": "1874",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/30/30473/30473.html Cricket Archive ",
+    "First-class": {
+        "matches": "214",
+        "runs": "6687",
+        "bat avg": "18.42",
+        "100s/50s": "4/31",
+        "top score": "144",
+        "deliveries": "4897",
+        "wickets": "116",
+        "bowl avg": "21.58",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "6/29",
+        "catches/stumpings": "95/0"
+    },
+    "clubs": {
+        "Surrey": "1862-1874"
+    },
+    "birth_date": "1839-01-16"
+}

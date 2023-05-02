@@ -1,0 +1,29 @@
+{
+    "name": "George Earl",
+    "country": "England",
+    "fullname": "George Burrill Earl",
+    "birth_place": "Melbourne, Derbyshire, England",
+    "death_date": "1933",
+    "death_place": "Melbourne, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "type1": "FC",
+    "debutdate1": "9 July",
+    "debutyear1": "1883",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "MCC",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/29/29199/29199.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1883\u20131888"
+    },
+    "birth_date": "1859-8-7"
+}

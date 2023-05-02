@@ -1,0 +1,35 @@
+{
+    "name": "Ian Beven",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/2/2399/2399.html CricketArchive",
+    "First-class": {
+        "matches": "19",
+        "runs": "605",
+        "bat avg": "17.79",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "deliveries": "1,759",
+        "wickets": "12",
+        "bowl avg": "68.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/31",
+        "catches/stumpings": "13/\u2013"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "144",
+        "bat avg": "13.09",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "526",
+        "wickets": "6",
+        "bowl avg": "69.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/34",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

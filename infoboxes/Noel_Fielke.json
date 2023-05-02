@@ -1,0 +1,41 @@
+{
+    "name": "Noel Fielke",
+    "country": "Australia",
+    "fullname": "Noel Fielke",
+    "birth_place": "Adelaide, South Australia",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/5279.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "315",
+        "bat avg": "31.50",
+        "100s/50s": "&ndash;/3",
+        "top score": "74",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "69",
+        "bat avg": "23.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "38",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1992-93"
+    },
+    "birth_date": "1966-12-23"
+}

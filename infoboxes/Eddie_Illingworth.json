@@ -1,0 +1,28 @@
+{
+    "name": "Eddie Illingworth",
+    "country": "Australia",
+    "fullname": "Edward Philip Illingworth",
+    "birth_place": "Fairfield, Victoria, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/16/16234/16234.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "155",
+        "bat avg": "17.22",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "1,120",
+        "wickets": "15",
+        "bowl avg": "27.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/28",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1961/62\u20131964/65"
+    },
+    "birth_date": "1938-11-27"
+}

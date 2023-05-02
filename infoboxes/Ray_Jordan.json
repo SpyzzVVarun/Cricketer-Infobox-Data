@@ -1,0 +1,52 @@
+{
+    "name": "Ray Jordan",
+    "fullname": "Ray Osrick Oswayne Jordan",
+    "birth_place": "Kingstown, St Vincent",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/westindies/content/player/670027.html ESPN Cricinfo ",
+    "FC": {
+        "matches": "15",
+        "runs": "220",
+        "bat avg": "9.56",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "1,933",
+        "wickets": "34",
+        "bowl avg": "33.61",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/41",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "30",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "215",
+        "wickets": "7",
+        "bowl avg": "33.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/45",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "72",
+        "wickets": "5",
+        "bowl avg": "23.20",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/39",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1994-10-21"
+}

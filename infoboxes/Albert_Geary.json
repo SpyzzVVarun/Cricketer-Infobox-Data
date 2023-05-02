@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Albert Charles Taylor Geary",
+    "birth_place": "East Croydon, Surrey, England",
+    "death_date": "1989",
+    "death_place": "Saint Peter, Jersey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/13581.html Cricinfo ",
+    "First-class": {
+        "matches": "90",
+        "runs": "670",
+        "bat avg": "10.63",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "16,163",
+        "wickets": "198",
+        "bowl avg": "30.64",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "6/50",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1922\u20131931"
+    },
+    "birth_date": "1900-9-11"
+}

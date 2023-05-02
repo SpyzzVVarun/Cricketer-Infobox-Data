@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Reginald Leahy Sinclair",
+    "birth_place": "Kolhapur, Bombay Presidency, British India",
+    "death_date": "1928",
+    "death_place": "Ditchling, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/reginald-sinclair-34427 Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "88",
+        "bat avg": "6.28",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "1,945",
+        "wickets": "64",
+        "bowl avg": "11.23",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "6/34",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1893/94\u20131903/04",
+        "Bombay": "1902/03"
+    }
+}

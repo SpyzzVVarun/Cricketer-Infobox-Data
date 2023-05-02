@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Frank Silcock",
+    "birth_place": "Sawbridgeworth, Hertfordshire, England",
+    "death_date": "1897",
+    "death_place": "Marden Ash, Essex, England",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/20765.html Cricinfo ",
+    "First-class": {
+        "matches": "41",
+        "runs": "776",
+        "bat avg": "11.41",
+        "100s/50s": "\u2013/1",
+        "top score": "66",
+        "deliveries": "4,532",
+        "wickets": "79",
+        "bowl avg": "20.63",
+        "fivefor": "5",
+        "tenfor": "\u2013",
+        "best bowling": "7/132",
+        "catches/stumpings": "31/\u2013"
+    },
+    "clubs": {}
+}

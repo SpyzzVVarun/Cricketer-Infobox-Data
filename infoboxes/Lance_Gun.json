@@ -1,0 +1,29 @@
+{
+    "name": "Lance Gun",
+    "country": "Australia",
+    "fullname": "Lancelot Townsend Gun",
+    "birth_place": "Port Adelaide, South Australia, Australia",
+    "death_date": "df=yes",
+    "death_place": "North Adelaide, South Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/5527.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "552",
+        "bat avg": "46.00",
+        "100s/50s": "2/3",
+        "top score": "136 not out",
+        "deliveries": "88",
+        "wickets": "2",
+        "bowl avg": "19.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/38",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "South Australia": "1924-25 to 1926-27"
+    },
+    "birth_date": "1903-4-13"
+}

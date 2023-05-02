@@ -1,0 +1,33 @@
+{
+    "name": "Norman Riches",
+    "country": "England",
+    "fullname": "Norman Vaughan Hurry Riches",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "death_date": "df=y",
+    "death_place": "Cardiff, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Occasional wicket-keeper",
+    "family": "John Riches (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/19400.html Cricinfo ",
+    "First-class": {
+        "matches": "104",
+        "runs": "5,750",
+        "bat avg": "35.27",
+        "100s/50s": "9/32",
+        "deliveries": "212",
+        "wickets": "4",
+        "bowl avg": "28.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/21",
+        "catches/stumpings": "49/6"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1925\u20131931",
+        "Wales": "1923\u20131930",
+        "Minor Counties": "1912",
+        "Glamorgan": "1901\u20131934"
+    },
+    "birth_date": "1883-6-9"
+}

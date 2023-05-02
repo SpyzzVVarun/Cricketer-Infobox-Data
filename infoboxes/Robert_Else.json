@@ -1,0 +1,36 @@
+{
+    "name": "Robert Else",
+    "country": "England",
+    "birth_place": "Holloway, Derbyshire, England",
+    "death_date": "1955",
+    "death_place": "Sheffield, England",
+    "batting": "Left-handed",
+    "type1": "FC",
+    "debutdate1": "30 May",
+    "debutyear1": "1901",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Surrey",
+    "lastdate1": "17 August",
+    "lastyear1": "1903",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/29/29278/29278.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "59",
+        "bat avg": "7.37",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "61.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/56",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1901\u20131903"
+    },
+    "birth_date": "1876-11-17"
+}

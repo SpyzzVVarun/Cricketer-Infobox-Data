@@ -1,0 +1,41 @@
+{
+    "name": "Tre Manders",
+    "country": "Bermuda",
+    "fullname": "Tre Manders",
+    "birth_place": "Bermuda",
+    "batting": "Right-handed",
+    "T20Idebutdate": "8 November",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "United States",
+    "T20Icap": "29",
+    "lastT20Idate": "4 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Bahamas",
+    "source": "http://www.espncricinfo.com/ci/content/player/364133.html Cricinfo ",
+    "T20I": {
+        "matches": "6",
+        "runs": "223",
+        "bat avg": "37.16",
+        "100s/50s": "\u2013/1",
+        "top score": "84",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "196",
+        "bat avg": "39.20",
+        "100s/50s": "\u2013/3",
+        "top score": "63",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "329",
+        "bat avg": "29.90",
+        "100s/50s": "\u2013/1",
+        "top score": "84",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-1-30"
+}

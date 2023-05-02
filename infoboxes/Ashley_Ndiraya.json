@@ -1,0 +1,43 @@
+{
+    "name": "Ashley Ndiraya",
+    "female": "true",
+    "country": "Zimbabwe",
+    "fullname": "Ashley Rutendo Ndiraya",
+    "batting": "Left-handed",
+    "bowling": "Legbreak",
+    "odidebutdate": "5 October",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "7",
+    "lastodidate": "27 November",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "5 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Namibia",
+    "T20Icap": "8",
+    "lastT20Idate": "17 September",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Uganda",
+    "source": "http://www.espncricinfo.com/ci/content/player/490956.html Cricinfo ",
+    "WODI": {
+        "matches": "8",
+        "runs": "124",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20I": {
+        "matches": "18",
+        "runs": "168",
+        "bat avg": "16.80",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Rhinos": "2020/21\u2013present"
+    },
+    "birth_date": "1992-7-6"
+}

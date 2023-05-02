@@ -1,0 +1,30 @@
+{
+    "name": "Fred Abraham",
+    "country": "British Guiana",
+    "fullname": "Frederick Henri Abraham",
+    "birth_place": "Soesdyke, Demerara,, British Guiana",
+    "death_date": "2 October 1918 (aged 32)",
+    "death_place": "Joncourt, Aisne, France",
+    "family": "Fred Abraham Sr. (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/21/21211/21211.html CricketArchive ",
+    "FC": {
+        "matches": "10",
+        "runs": "362",
+        "bat avg": "20.11",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "deliveries": "1,148",
+        "wickets": "24",
+        "bowl avg": "24.37",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/30",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "British Guiana": "1904\u20131912"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Robert Dower",
+    "fullname": "Robert Reid Dower",
+    "birth_place": "Kokstad, Cape Colony",
+    "death_date": "1964",
+    "death_place": "Cape Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "14 February",
+    "testdebutyear": "1899",
+    "onetest": "true",
+    "source": "http://www.espncricinfo.com/ci/content/player/44719.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "6",
+        "runs": "82",
+        "bat avg": "6.83",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1876-6-4"
+}

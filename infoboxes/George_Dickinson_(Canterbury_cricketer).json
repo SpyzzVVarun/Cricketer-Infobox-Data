@@ -1,0 +1,25 @@
+{
+    "name": "George Dickinson",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "death_date": "14 June 1913",
+    "death_place": "Christchurch, New Zealand",
+    "bowling": "Round-arm Round-arm slow",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36891.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "88",
+        "bat avg": "6.28",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "658",
+        "wickets": "20",
+        "bowl avg": "12.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/43",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Canterbury": "1863-64 to 1873-74"
+    }
+}

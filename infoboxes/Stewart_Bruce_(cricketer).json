@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Stewart Bruce",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/25479.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "18",
+        "wickets": "2",
+        "bowl avg": "14.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/28",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Scotland": "2004",
+        "Huntingdonshire": "2002"
+    },
+    "birth_date": "1969-4-2"
+}

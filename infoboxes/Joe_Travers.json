@@ -1,0 +1,40 @@
+{
+    "name": "Joe Travers",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "28 February",
+    "testdebutyear": "1902",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/7963.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "14.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "37",
+        "runs": "760",
+        "bat avg": "16.52",
+        "100s/50s": "0/2",
+        "top score": "77",
+        "deliveries": "8,977",
+        "wickets": "117",
+        "bowl avg": "31.39",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "9/30",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,30 @@
+{
+    "name": "William Ayling",
+    "birth_place": "Cocking, Sussex",
+    "death_date": "October 1826",
+    "death_place": "Bromley, Kent",
+    "family": "Robert Ayling (brother)name=brother",
+    "type1": "FC",
+    "debutdate1": "28 August",
+    "debutyear1": "1800",
+    "debutfor1": "England XI",
+    "debutagainst1": "Surrey XI",
+    "lastdate1": "13 August",
+    "lastyear1": "1810",
+    "lastfor1": "Captain Blagrave's XI",
+    "lastagainst1": "Colonel Byng's XI",
+    "source": "https://www.espncricinfo.com/player/william-ayling-8841 CricInfo",
+    "First-class": {
+        "matches": "22",
+        "runs": "278",
+        "bat avg": "8.17",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "England XI": "1800\u20131810",
+        "Kent XI": "1806"
+    },
+    "birth_date": "1766-09-30"
+}

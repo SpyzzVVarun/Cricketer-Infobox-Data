@@ -1,0 +1,51 @@
+{
+    "name": "Cyril Poole",
+    "country": "England",
+    "fullname": "Cyril John Poole",
+    "birth_place": "Mansfield, Nottinghamshire, England",
+    "death_date": "1996",
+    "death_place": "Balderton, Nottinghamshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left arm Left arm medium",
+    "role": "Occasional wicket-keeper",
+    "testdebutdate": "30 December",
+    "testdebutyear": "1951",
+    "testdebutagainst": "India",
+    "testcap": "368",
+    "lasttestdate": "10 February",
+    "lasttestyear": "1952",
+    "lasttestagainst": "India",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/18569.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "161",
+        "bat avg": "40.25",
+        "100s/50s": "\u2013/2",
+        "top score": "69 not out",
+        "deliveries": "30",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "383",
+        "runs": "19,364",
+        "bat avg": "32.54",
+        "100s/50s": "24/127",
+        "top score": "222 not out",
+        "deliveries": "550",
+        "wickets": "4",
+        "bowl avg": "86.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/8",
+        "catches/stumpings": "224/5"
+    },
+    "clubs": {
+        "Nottinghamshire": "1948\u20131962"
+    },
+    "birth_date": "1921-3-13"
+}

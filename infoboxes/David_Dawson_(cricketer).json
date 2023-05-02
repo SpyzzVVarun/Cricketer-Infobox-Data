@@ -1,0 +1,30 @@
+{
+    "name": "David Dawson",
+    "country": "Australia",
+    "fullname": "David Graham Dawson",
+    "nickname": "Smokey",
+    "birth_place": "Canberra, Australian Capital Territory",
+    "heightm": "1.77",
+    "role": "Wicketkeeper",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/australia/content/player/5077.html CricInfo ",
+    "First-class": {
+        "matches": "31",
+        "runs": "1,348",
+        "bat avg": "24.07",
+        "100s/50s": "2/5",
+        "catches/stumpings": "35/0"
+    },
+    "List A": {
+        "matches": "14",
+        "runs": "289",
+        "bat avg": "24.08",
+        "100s/50s": "1/1",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Tasmania": "2004/05\u20132008/09",
+        "New South Wales": "2011/12\u20132012/13"
+    },
+    "birth_date": "1982-3-7"
+}

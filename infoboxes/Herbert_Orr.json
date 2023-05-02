@@ -1,0 +1,32 @@
+{
+    "name": "Herbert Orr",
+    "country": "England",
+    "fullname": "Herbert Richard Orr",
+    "birth_place": "Kensington, London",
+    "death_date": "1940",
+    "death_place": "St John's, Sevenoaks, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/16/16515/16515.html CricketArchive ",
+    "FC": {
+        "matches": "4",
+        "runs": "98",
+        "bat avg": "12.25",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "78",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1886\u20131887",
+        "Western Australia": "1892/93",
+        "Bedfordshire": "1900\u20131921"
+    },
+    "birth_date": "1865-2-3"
+}

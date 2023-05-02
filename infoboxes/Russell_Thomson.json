@@ -1,0 +1,25 @@
+{
+    "country": "South Africa",
+    "fullname": "Russell Bernard Thomson",
+    "birth_place": "Johannesburg, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/21662.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "34",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,102",
+        "wickets": "9",
+        "bowl avg": "58.55",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1996"
+    },
+    "birth_date": "1969-8-16"
+}

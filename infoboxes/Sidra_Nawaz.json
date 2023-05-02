@@ -1,0 +1,77 @@
+{
+    "name": "Sidra Nawaz",
+    "female": "true",
+    "country": "Pakistan",
+    "fullname": "Sidra Nawaz",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2014\u2013present",
+    "odidebutdate": "21 August",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Australia",
+    "odicap": "69",
+    "lastodidate": "18 January",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Australia",
+    "T20Idebutdate": "30 August",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Australia",
+    "T20Icap": "31",
+    "lastT20Idate": "21 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/270/270960/270960.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "50",
+        "runs": "252",
+        "bat avg": "7.87",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "29/11"
+    },
+    "WT20I": {
+        "matches": "54",
+        "runs": "174",
+        "bat avg": "8.28",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "17/27"
+    },
+    "WLA": {
+        "matches": "108",
+        "runs": "1,086",
+        "bat avg": "14.67",
+        "100s/50s": "1/2",
+        "top score": "104",
+        "catches/stumpings": "69/30"
+    },
+    "WT20": {
+        "matches": "102",
+        "runs": "383",
+        "bat avg": "9.34",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "37/67"
+    },
+    "clubs": {
+        "Lahore": "2010/11\u20132014",
+        "Federal Capital": "2011/12",
+        "Punjab": "2012/13",
+        "Higher Education Commission": "2014\u20132015",
+        "Omar Associates": "2015/16",
+        "Saif Sports Saga": "2016",
+        "State Bank of Pakistan": "2016/17\u20132017",
+        "Zarai Taraqiati Bank Limited": "2018\u20132018/19"
+    },
+    "birth_date": "1994-03-14",
+    "medaltemplates": [
+        "Country: {{PAK}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Gold Medal: 2014 Incheon Team"
+    ]
+}

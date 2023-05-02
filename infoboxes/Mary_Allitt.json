@@ -1,0 +1,32 @@
+{
+    "name": "Mary Allitt",
+    "country": "Australia",
+    "female": "true",
+    "fullname": "Mary Loy (n\u00e9e Allitt)",
+    "birth_place": "Deniliquin, New South Wales,, Australia",
+    "death_date": "df=yes",
+    "death_place": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "testdebutdate": "16 June",
+    "testdebutyear": "1951",
+    "testcap": "35",
+    "testdebutagainst": "England",
+    "lasttestdate": "20 July",
+    "lasttestyear": "1963",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/10/10825/10825.html CricketArchive ",
+    "Test": {
+        "matches": "11",
+        "runs": "348",
+        "bat avg": "17.40",
+        "100s/50s": "0/1",
+        "top score": "76",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1940s\u20131960s"
+    },
+    "birth_date": "1925-11-01"
+}

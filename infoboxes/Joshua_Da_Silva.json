@@ -1,0 +1,58 @@
+{
+    "name": "Joshua Da Silva",
+    "country": "West Indies",
+    "fullname": "Joshua Da Silva",
+    "birth_place": "Port Of Spain",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper-batter",
+    "internationalspan": "2020\u2013present",
+    "testdebutdate": "11 December",
+    "testdebutyear": "2020",
+    "testdebutagainst": "New Zealand",
+    "testcap": "321",
+    "lasttestdate": "8 March",
+    "lasttestyear": "2023",
+    "lasttestagainst": "South Africa",
+    "odidebutdate": "20 January",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "198",
+    "lastodidate": "22 January",
+    "lastodiyear": "2021",
+    "lastodiagainst": "Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/1168667.html ESPNcricinfo ",
+    "Test": {
+        "matches": "22",
+        "runs": "857",
+        "bat avg": "27.64",
+        "100s/50s": "1/3",
+        "catches/stumpings": "86/5"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "catches/stumpings": "1/1"
+    },
+    "FC": {
+        "matches": "47",
+        "runs": "2,135",
+        "bat avg": "30.50",
+        "100s/50s": "2/11",
+        "catches/stumpings": "130/7"
+    },
+    "LA": {
+        "matches": "19",
+        "runs": "586",
+        "bat avg": "34.47",
+        "100s/50s": "1/3",
+        "catches/stumpings": "28/2"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2018\u2013present",
+        "St Kitts & Nevis Patriots": "2020\u2013present"
+    },
+    "birth_date": "1998-6-19"
+}

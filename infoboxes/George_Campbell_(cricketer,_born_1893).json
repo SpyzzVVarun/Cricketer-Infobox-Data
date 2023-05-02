@@ -1,0 +1,20 @@
+{
+    "country": "South Africa",
+    "fullname": "George Gordon Campbell",
+    "birth_place": "Durban, Natal, South Africa",
+    "death_date": "1977",
+    "death_place": "Durban, Natal, South Africa",
+    "batting": "Unknown",
+    "source": "https://www.espncricinfo.com/player/william-turnbull-25382 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1921"
+    }
+}

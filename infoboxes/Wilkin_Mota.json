@@ -1,0 +1,58 @@
+{
+    "name": "Wilkin Mota",
+    "country": "India",
+    "fullname": "Wilkin Arvind Mota",
+    "birth_place": "Bombay, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm Medium",
+    "role": "All-rounder",
+    "source": "http://www.cricinfo.com/indiandomestic2010/content/current/player/31041.html CricInfo ",
+    "FC": {
+        "matches": "15",
+        "runs": "471",
+        "bat avg": "23.55",
+        "100s/50s": "0/2",
+        "top score": "74",
+        "deliveries": "2,275",
+        "wickets": "41",
+        "bowl avg": "24.58",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/26",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "175",
+        "bat avg": "17.50",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "612",
+        "wickets": "18",
+        "bowl avg": "29.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/52",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "T20": {
+        "matches": "20",
+        "runs": "228",
+        "bat avg": "16.28",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "225",
+        "wickets": "11",
+        "bowl avg": "25.90",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Mumbai": "2004&ndash;2009",
+        "Kings XI Punjab (IPL)": "2008&ndash;2009",
+        "Tripura": "2009&ndash;"
+    },
+    "birth_date": "1981-9-20"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "George Hickman",
+    "birth_place": "Burnopfield,  County Durham, England",
+    "death_date": "1978",
+    "death_place": "Stranraer, Wigtownshire, Scotland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/14781.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "26",
+        "bat avg": "4.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1935",
+        "Durham": "1933&ndash;1936",
+        "Warwickshire": "1929"
+    },
+    "birth_date": "1909-1-19"
+}

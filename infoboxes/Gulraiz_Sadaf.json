@@ -1,0 +1,23 @@
+{
+    "name": "Gulraiz Sadaf",
+    "country": "Pakistan",
+    "fullname": "Gulraiz Sadaf",
+    "birth_place": "Burewala, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/279506.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Multan Tigers": "2007\u20132015",
+        "Lahore Qalandars": "2018"
+    },
+    "birth_date": "1989-12-27",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{PAK}}",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2010 Dhaka Team"
+    ]
+}

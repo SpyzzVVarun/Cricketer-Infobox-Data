@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Richard Henry Jones",
+    "birth_place": "Redditch, Worcestershire, England",
+    "death_date": "2004",
+    "death_place": "Cleobury Mortimer, Shropshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15734.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "32",
+        "bat avg": "16.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "66",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1946"
+    },
+    "birth_date": "1916-11-3"
+}

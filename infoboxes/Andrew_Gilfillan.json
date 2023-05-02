@@ -1,0 +1,26 @@
+{
+    "country": "South Africa",
+    "fullname": "Andrew Douglas Gilfillan",
+    "birth_place": "Johannesburg, Transvaal,, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/13618.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "40",
+        "bat avg": "13.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "deliveries": "306",
+        "wickets": "2",
+        "bowl avg": "109.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/177",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1982"
+    },
+    "birth_date": "1959-8-21"
+}

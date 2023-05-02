@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Anish Kirtesh Patel",
+    "birth_place": "Manchester, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/571903.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "218",
+        "bat avg": "24.22",
+        "100s/50s": "\u2013/1",
+        "top score": "83",
+        "best bowling": "2/83",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Loughborough MCCU": "2013&ndash;2015",
+        "Lincolnshire": "2013&ndash;2016"
+    },
+    "birth_date": "1990-5-26"
+}

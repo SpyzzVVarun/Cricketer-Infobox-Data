@@ -1,0 +1,28 @@
+{
+    "name": "Stephen Wookey",
+    "fullname": "Stephen Mark Wookey",
+    "birth_place": "Upavon, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/34/34053/34053.html Cricket Archive ",
+    "First-class": {
+        "matches": "19",
+        "runs": "260",
+        "bat avg": "12.38",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "2,159",
+        "wickets": "28",
+        "bowl avg": "41.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/61",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1974\u20131978",
+        "Cambridge University": "1976\u20131976",
+        "Oxford University": "1978\u20131980"
+    },
+    "birth_date": "1954-9-2"
+}

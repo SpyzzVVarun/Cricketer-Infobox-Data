@@ -1,0 +1,39 @@
+{
+    "name": "Hector Gillespie",
+    "country": "New Zealand",
+    "fullname": "Hector Donald Gillespie",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1954",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-hand bat",
+    "role": "Batsman",
+    "family": "Shirley Gillespie (daughter)",
+    "type1": "First class",
+    "debutdate1": "25 December",
+    "debutyear1": "1920",
+    "debutfor1": "Auckland",
+    "debutagainst1": "Hawke's Bay",
+    "lastdate1": "8 January",
+    "lastyear1": "1932",
+    "lastfor1": "Auckland",
+    "lastagainst1": "Caterbury",
+    "source": "https://cricketarchive.com/Archive/Players/16/16924/16924.html Cricket Archive ",
+    "FC": {
+        "matches": "30",
+        "runs": "1208",
+        "bat avg": "23.23",
+        "100s/50s": "1/6",
+        "top score": "183",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "35.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/43",
+        "catches/stumpings": "20/0"
+    },
+    "clubs": {
+        "Auckland": "1920-1932"
+    },
+    "birth_date": "1901-5-29"
+}

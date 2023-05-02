@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Frederick William Ramsden",
+    "birth_place": "Leeds, Yorkshire, England",
+    "death_date": "1989",
+    "death_place": "Largs, Ayrshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/frederick-ramsden-25327 Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "108",
+        "bat avg": "13.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1937&ndash;1939"
+    }
+}

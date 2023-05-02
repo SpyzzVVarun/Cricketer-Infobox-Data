@@ -1,0 +1,27 @@
+{
+    "name": "Moira Jones",
+    "female": "true",
+    "fullname": "Moira Jones",
+    "birth_place": "South Africa",
+    "role": "Batter",
+    "internationalspan": "1972",
+    "country": "South Africa",
+    "onetest": "true",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "testcap": "18",
+    "source": "https://cricketarchive.com/Archive/Players/17/17374/17374.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Natal": "1965/66\u20131971/72"
+    },
+    "birth_date": "1942"
+}

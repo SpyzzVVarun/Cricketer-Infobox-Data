@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Burt Ranken",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Dumfries, Dumfriesshire, Scotland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19938.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "63",
+        "bat avg": "12.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "deliveries": "65",
+        "wickets": "7",
+        "bowl avg": "14.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/?",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1860&ndash;1861"
+    }
+}

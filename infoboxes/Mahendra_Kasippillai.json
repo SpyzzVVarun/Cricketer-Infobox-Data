@@ -1,0 +1,28 @@
+{
+    "country": "Sri Lanka",
+    "fullname": "Mahendra Kasippillai",
+    "birth_place": "Colombo, Western Province, British Ceylon",
+    "death_date": "df=yes",
+    "death_place": "Kandy, Central Province,, Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/49465.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "277",
+        "bat avg": "14.57",
+        "100s/50s": "\u2013/1",
+        "deliveries": "228",
+        "wickets": "3",
+        "bowl avg": "43.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/36",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Ceylon": "1948/49&ndash;1951/52",
+        "Cambridgeshire": "1954&ndash;1955",
+        "Cambridge University": "1956&ndash;1957"
+    }
+}

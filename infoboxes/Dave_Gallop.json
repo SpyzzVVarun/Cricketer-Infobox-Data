@@ -1,0 +1,28 @@
+{
+    "name": "Dave Gallop",
+    "honorific_suffix": "country=NZL",
+    "fullname": "David Langton Gallop",
+    "country": "New Zealand",
+    "birth_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37123.html Cricinfo",
+    "First-class": {
+        "matches": "24",
+        "runs": "803",
+        "bat avg": "20.58",
+        "100s/50s": "1/5",
+        "top score": "124",
+        "deliveries": "2156",
+        "wickets": "27",
+        "bowl avg": "35.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/27",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Canterbury": "1956\u201357 to 1965\u201366"
+    },
+    "birth_date": "1937-9-10"
+}

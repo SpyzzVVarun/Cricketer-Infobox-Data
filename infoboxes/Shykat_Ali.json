@@ -1,0 +1,38 @@
+{
+    "name": "Shykat Ali",
+    "country": "Bangladesh",
+    "fullname": "Mohammad Shykat Ali",
+    "birth_place": "Manikganj, Bangladesh",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/314743.html ESPN Cricinfo ",
+    "FC": {
+        "matches": "45",
+        "runs": "1,981",
+        "bat avg": "24.15",
+        "100s/50s": "1/11",
+        "top score": "111",
+        "deliveries": "1878",
+        "wickets": "31",
+        "bowl avg": "32.35",
+        "fivefor": "2",
+        "tenfor": "-",
+        "best bowling": "5/31",
+        "catches/stumpings": "37/-"
+    },
+    "LA": {
+        "matches": "49",
+        "runs": "1458",
+        "bat avg": "33.13",
+        "100s/50s": "1/11",
+        "deliveries": "378",
+        "wickets": "10",
+        "bowl avg": "28.30",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "3/17",
+        "catches/stumpings": "23/-"
+    },
+    "clubs": {},
+    "birth_date": "1993-12-20"
+}

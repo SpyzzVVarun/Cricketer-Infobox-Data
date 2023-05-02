@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Henry Mydrian Orford Jones-Davies",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Fairford, Gloucestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15739.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1932"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Douglas Gray Spiro",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/douglas-spiro-20964 Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "207",
+        "bat avg": "10.35",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1883&ndash;1885",
+        "Marylebone Cricket Club": "1883&ndash;1890"
+    }
+}

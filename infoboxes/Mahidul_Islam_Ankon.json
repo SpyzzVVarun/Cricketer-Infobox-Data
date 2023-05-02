@@ -1,0 +1,20 @@
+{
+    "name": "Mahidul Islam Ankon",
+    "birth_place": "Comilla, Bangladesh",
+    "source": "http://www.espncricinfo.com/ci/content/player/995037.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Khulna Titans": "2018/19",
+        "Barisal": "2020/21",
+        "Comilla Victorians( 23 )": "2022"
+    },
+    "birth_date": "1999-5-4",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

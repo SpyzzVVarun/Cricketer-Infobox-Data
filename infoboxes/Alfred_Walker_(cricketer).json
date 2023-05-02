@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Alfred Walker",
+    "birth_place": "Southgate, Middlesex, England",
+    "death_date": "1870",
+    "death_place": "Arnos Grove, Middlesex, England",
+    "family": "See: The Walkers of Southgate",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm underarm",
+    "source": "https://www.espncricinfo.com/player/alfred-walker-22661 Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "95",
+        "bat avg": "4.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "deliveries": "308",
+        "wickets": "36",
+        "bowl avg": "13.83",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "7/?",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1846&ndash;1848",
+        "Middlesex": "1851&ndash;1859"
+    }
+}

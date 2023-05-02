@@ -1,0 +1,44 @@
+{
+    "country": "Pakistan",
+    "fullname": "Kashif Ibrahim \u0627\u0631\u062f\u0648: \u06a9\u0627\u0634\u0641 \u0627\u0628\u0631\u0627\u06c1\u06cc\u0645",
+    "birth_place": "Karachi, Sindh Province, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/41071.html Cricinfo ",
+    "FC": {
+        "matches": "30",
+        "runs": "477",
+        "bat avg": "16.44",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "48",
+        "deliveries": "4,093",
+        "wickets": "74",
+        "bowl avg": "27.14",
+        "fivefor": "5",
+        "tenfor": "&ndash;",
+        "best bowling": "5/25",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "226",
+        "bat avg": "45.20",
+        "100s/50s": "&ndash;/2",
+        "top score": "63",
+        "deliveries": "724",
+        "wickets": "22",
+        "bowl avg": "28.45",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/28",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Sussex Cricket Board": "2000",
+        "Pakistan National Shipping Corporation": "1999/00",
+        "Karachi Blues": "1998/99",
+        "Karachi": "1997/98-1998/99",
+        "Karachi Whites": "1996/97-2000/01"
+    },
+    "birth_date": "1977-11-16"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Ian Watson",
+    "country": "England",
+    "fullname": "Ian Ronald Watson",
+    "birth_place": "Teddington, Middlesex, England",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/cricketers/ian-watson-22336 Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "37",
+        "bat avg": "9.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1969",
+        "Northamptonshire": "1971",
+        "Hampshire": "1973"
+    },
+    "birth_date": "1947-6-9"
+}

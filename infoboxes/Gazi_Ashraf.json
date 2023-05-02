@@ -1,0 +1,33 @@
+{
+    "name": "Gazi Ashraf",
+    "country": "Bangladesh",
+    "fullname": "Gazi Ashraf Hossain",
+    "nickname": "Lipu",
+    "birth_place": "Dacca, East Pakistan (now Dhaka, Bangladesh)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "odidebutagainst": "Pakistan",
+    "odidebutdate": "31 March",
+    "odidebutyear": "1986",
+    "lastodiagainst": "Australia",
+    "lastodidate": "30 April",
+    "lastodiyear": "1990",
+    "odicap": "1",
+    "source": "http://www.espncricinfo.com/bangladesh/content/player/55896.html ESPNcricinfo  ",
+    "ODIs": {
+        "matches": "7",
+        "runs": "59",
+        "bat avg": "8.42",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "51",
+        "wickets": "2",
+        "bowl avg": "16.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1960-12-29"
+}

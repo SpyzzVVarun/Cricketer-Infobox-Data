@@ -1,0 +1,28 @@
+{
+    "name": "Lees Whitehead",
+    "birth_place": "Birchen Bank, Saddleworth, England",
+    "death_date": "1913",
+    "death_place": "West Hartlepool, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/23304.html CricInfo",
+    "FC": {
+        "matches": "136",
+        "runs": "2,433",
+        "bat avg": "15.30",
+        "100s/50s": "0/12",
+        "deliveries": "7,186",
+        "wickets": "109",
+        "bowl avg": "25.67",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/45",
+        "catches/stumpings": "79/\u2013"
+    },
+    "clubs": {
+        "Yorkshire County Cricket Club": "1889\u20131904",
+        "Marylebone Cricket Club": "1890\u20131903",
+        "Wembley Park": "1896"
+    },
+    "birth_date": "1864-03-14"
+}

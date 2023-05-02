@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Joseph Paterson",
+    "birth_place": "Coatbridge, Lanarkshire, Scotland",
+    "death_date": "1992",
+    "death_place": "Coatbridge, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/joseph-paterson-25320 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1956"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Nicholas Thomas Peter George",
+    "birth_place": "Penzance, Cornwall, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Mark George (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/13504.html Cricinfo ",
+    "LA": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "49.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/49",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "1995-2006"
+    },
+    "birth_date": "1972-2-29"
+}

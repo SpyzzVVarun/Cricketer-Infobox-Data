@@ -1,0 +1,27 @@
+{
+    "name": "David Price",
+    "country": "South Africa",
+    "birth_place": "Cape Town, Cape Province, South Africa",
+    "death_date": "1942",
+    "death_place": "Niger, Denmark Strait, off Iceland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/46856.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "204",
+        "bat avg": "13.60",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1785",
+        "wickets": "48",
+        "bowl avg": "37.18",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/124",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1934\u20131939"
+    },
+    "birth_date": "1910-08-13"
+}

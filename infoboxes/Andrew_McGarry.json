@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Andrew Charles McGarry",
+    "birth_place": "Basildon, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/andrew-mcgarry-16972 Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "43",
+        "bat avg": "7.16",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,403",
+        "wickets": "29",
+        "bowl avg": "53.31",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/27",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "19",
+        "runs": "2",
+        "bat avg": "0.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "591",
+        "wickets": "12",
+        "bowl avg": "45.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/20",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Essex": "1999\u20132007",
+        "Suffolk": "2004\u20132008",
+        "Bedfordshire": "2011\u20132012"
+    },
+    "birth_date": "1981-11-8"
+}

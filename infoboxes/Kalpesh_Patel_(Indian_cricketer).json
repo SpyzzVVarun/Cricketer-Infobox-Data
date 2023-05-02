@@ -1,0 +1,38 @@
+{
+    "name": "Kalpesh Patel",
+    "country": "India",
+    "fullname": "Kalpesh Himmatbhai Patel",
+    "birth_place": "Surat, Gujarat, India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/44/44950/44950.html CricketArchive ",
+    "FC": {
+        "matches": "5",
+        "runs": "32",
+        "bat avg": "5.33",
+        "100s/50s": "0/0",
+        "deliveries": "859",
+        "wickets": "10",
+        "bowl avg": "40.90",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/96",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "deliveries": "210",
+        "wickets": "10",
+        "bowl avg": "15.30",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "4/37",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {},
+    "birth_date": "1976-10-14"
+}

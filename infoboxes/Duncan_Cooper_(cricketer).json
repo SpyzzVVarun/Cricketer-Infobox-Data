@@ -1,0 +1,33 @@
+{
+    "name": "Duncan Cooper",
+    "country": "Australia",
+    "fullname": "Duncan Elphinstone Cooper",
+    "birth_place": "India",
+    "death_date": "22 November 1904",
+    "death_place": "Paddington, London, England",
+    "role": "Batsman",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "11 February",
+    "debutyear1": "1851",
+    "debutfor1": "Victoria",
+    "debutagainst1": "Tasmania",
+    "source": "https://cricketarchive.com/Archive/Players/15/15886/15886.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Victoria": "1850/51"
+    }
+}

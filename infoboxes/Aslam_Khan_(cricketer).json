@@ -1,0 +1,29 @@
+{
+    "name": "Aslam Khan",
+    "country": "Pakistan",
+    "fullname": "Mohammad Aslam Khan",
+    "birth_place": "Manavadar, Princely state of Junagadh, British India",
+    "death_date": "1980",
+    "death_place": "Karachi, Sindh, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/39727.html Cricinfo",
+    "First-class": {
+        "matches": "28",
+        "runs": "398",
+        "bat avg": "19.90",
+        "100s/50s": "1/0",
+        "deliveries": "5,170",
+        "wickets": "84",
+        "bowl avg": "22.63",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/45",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Karachi": "1955/56\u20131970/71",
+        "Pakistan Security Printing Corporation": "1977/78"
+    },
+    "birth_date": "1935-3-15"
+}

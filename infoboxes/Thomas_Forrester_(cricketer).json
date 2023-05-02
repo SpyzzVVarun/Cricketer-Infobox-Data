@@ -1,0 +1,38 @@
+{
+    "name": "Thomas Forrester",
+    "country": "England",
+    "birth_place": "Clay Cross, Derbyshire, England",
+    "death_date": "1927",
+    "death_place": "Nottingham, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1896",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "19 May",
+    "lastyear1": "1920",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/29/29482/29482.html CricketArchive ",
+    "First-class": {
+        "matches": "131",
+        "runs": "2,829",
+        "bat avg": "15.80",
+        "100s/50s": "0/11",
+        "top score": "87",
+        "deliveries": "21,234",
+        "wickets": "347",
+        "bowl avg": "25.70",
+        "fivefor": "17",
+        "tenfor": "3",
+        "best bowling": "7/18",
+        "catches/stumpings": "61/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1896\u20131899",
+        "Derbyshire": "1902\u20131920"
+    },
+    "birth_date": "1873-9-21"
+}

@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "W. Wood",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/23156.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "2.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "108",
+        "wickets": "1",
+        "bowl avg": "44.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/22",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Surrey": "1883"
+    }
+}

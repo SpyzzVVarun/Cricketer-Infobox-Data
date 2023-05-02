@@ -1,0 +1,29 @@
+{
+    "name": "David Allison",
+    "country": "England",
+    "fullname": "David Farquhar Allison",
+    "birth_place": "Marylebone, London",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "29 April",
+    "debutyear1": "1970",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "11 July",
+    "lastyear1": "1970",
+    "lastfor1": "Oxford University",
+    "lastagainst1": "Cambridge University",
+    "source": "http://www.espncricinfo.com/england/content/player/8719.html CricInfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "48",
+        "bat avg": "6.85",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University Cricket Club": "1970"
+    },
+    "birth_date": "1948-6-26"
+}

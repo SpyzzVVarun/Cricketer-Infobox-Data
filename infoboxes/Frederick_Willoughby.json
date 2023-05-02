@@ -1,0 +1,30 @@
+{
+    "name": "Frederick Willoughby",
+    "country": "England",
+    "fullname": "Frederick George Willoughby",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1952",
+    "death_place": "Eastleigh, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.cricinfo.com/england/content/player/22464.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "60",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "19",
+        "deliveries": "1,334",
+        "wickets": "25",
+        "bowl avg": "22.56",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/39",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Worcestershire": "1890&ndash;1895",
+        "Hampshire": "1885&ndash;1886"
+    },
+    "birth_date": "1862-4-25"
+}

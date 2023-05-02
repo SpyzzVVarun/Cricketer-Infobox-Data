@@ -1,0 +1,51 @@
+{
+    "name": "Philipa Thomas-Eudovic",
+    "female": "true",
+    "country": "West Indies",
+    "fullname": "Philipa Thomas-Eudovic",
+    "birth_place": "Saint Lucia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "2003\u20132005",
+    "odidebutdate": "16 March",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "46",
+    "lastodidate": "9 April",
+    "lastodiyear": "2005",
+    "lastodiagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/46/46089/46089.html CricketArchive",
+    "WODI": {
+        "matches": "26",
+        "runs": "173",
+        "bat avg": "15.72",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "1,167",
+        "wickets": "22",
+        "bowl avg": "31.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "7/\u2013"
+    },
+    "WLA": {
+        "matches": "49",
+        "runs": "367",
+        "bat avg": "14.11",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "1,728",
+        "wickets": "60",
+        "bowl avg": "17.98",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/24",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Saint Lucia": "2002\u20132011"
+    },
+    "birth_date": "1968-9-20"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Clifford Hall",
+    "country": "England",
+    "fullname": "Clifford Geoffrey Hall",
+    "birth_place": "Breamore, Hampshire, England",
+    "death_date": "1982",
+    "death_place": "Breamore, Hampshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/14003.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "77",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1933&ndash;1935"
+    },
+    "birth_date": "1902-1-19"
+}

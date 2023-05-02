@@ -1,0 +1,59 @@
+{
+    "name": "Kevin Wright",
+    "country": "Australia",
+    "fullname": "Kevin John Wright",
+    "birth_place": "North Fremantle, Western Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "27 January",
+    "testdebutyear": "1979",
+    "testdebutagainst": "England",
+    "testcap": "301",
+    "lasttestdate": "3 November",
+    "lasttestyear": "1979",
+    "lasttestagainst": "India",
+    "odidebutdate": "4 February",
+    "odidebutyear": "1979",
+    "odidebutagainst": "England",
+    "odicap": "54",
+    "lastodidate": "16 June",
+    "lastodiyear": "1979",
+    "lastodiagainst": "Canada",
+    "source": "https://cricketarchive.com/Archive/Players/1/1577/1577.htmlCricket Archive  ",
+    "Test": {
+        "matches": "10",
+        "runs": "219",
+        "bat avg": "16.85",
+        "100s/50s": "0/1",
+        "catches/stumpings": "31/4"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "29",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "8/0"
+    },
+    "FC": {
+        "matches": "85",
+        "runs": "2,551",
+        "bat avg": "26.85",
+        "100s/50s": "2/11",
+        "top score": "105",
+        "catches/stumpings": "269/25"
+    },
+    "LA": {
+        "matches": "20",
+        "runs": "136",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "24/3"
+    },
+    "clubs": {
+        "Western Australia": "1974/75\u20131979/80",
+        "South Australia": "1980/81\u20131983/84"
+    },
+    "birth_date": "1953-12-27"
+}

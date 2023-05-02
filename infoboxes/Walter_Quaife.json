@@ -1,0 +1,27 @@
+{
+    "name": "Walter Quaife",
+    "country": "England",
+    "fullname": "Walter Quaife",
+    "birth_place": "Newhaven, Sussex, England",
+    "death_date": "1943",
+    "death_place": "Norwood, Surrey, England",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.cricinfo.com/england/content/player/19306.html CricInfo ",
+    "FC": {
+        "matches": "224",
+        "runs": "8536",
+        "bat avg": "22.88",
+        "100s/50s": "10/80",
+        "deliveries": "1061",
+        "wickets": "15",
+        "bowl avg": "30.86",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/35",
+        "catches/stumpings": "80/0"
+    },
+    "clubs": {},
+    "birth_date": "1864-04-1"
+}

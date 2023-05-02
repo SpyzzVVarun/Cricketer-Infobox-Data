@@ -1,0 +1,29 @@
+{
+    "name": "Arthur Fenton",
+    "birth_place": "Tarnagulla, Victoria, Australia",
+    "death_date": "1950",
+    "death_place": "Melbourne, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/australia/content/player/5288.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "195",
+        "bat avg": "8.12",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "2268",
+        "wickets": "50",
+        "bowl avg": "25.08",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/41",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1895-96",
+        "Hawke's Bay": "1903-04 to 1910-11",
+        "Wellington": "1911-12 to 1914-15"
+    },
+    "birth_date": "1870-2-27"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Jack Carty",
+    "fullname": "Jack Carty",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowling all-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/1146883.html Cricinfo ",
+    "LA": {
+        "matches": "7",
+        "runs": "152",
+        "bat avg": "38.00",
+        "100s/50s": "0/1",
+        "top score": "97",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "105.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/45",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "104",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "84",
+        "wickets": "4",
+        "bowl avg": "29.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/13",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Munster Reds": "2018\u20132021",
+        "Leinster Lightning": "2022"
+    }
+}

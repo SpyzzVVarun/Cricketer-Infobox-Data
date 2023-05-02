@@ -1,0 +1,32 @@
+{
+    "name": "Anthony Allom",
+    "country": "England",
+    "fullname": "Anthony Thomas Carrick Allom",
+    "birth_place": "Bletchingley, Surrey, England",
+    "death_date": "2017",
+    "death_place": "Nunney, Somerset, England",
+    "heightft": "6",
+    "heightinch": "9",
+    "heightm": "2.06",
+    "batting": "Right handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "onetype1": "true",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27463/27463.html ",
+    "First-class": {
+        "matches": "5",
+        "runs": "94",
+        "bat avg": "18.80",
+        "100s/50s": "-/-",
+        "deliveries": "835",
+        "wickets": "15",
+        "bowl avg": "29.26",
+        "fivefor": "1",
+        "tenfor": "-",
+        "best bowling": "5/79",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "Surrey": "1960"
+    },
+    "birth_date": "1938-10-21"
+}

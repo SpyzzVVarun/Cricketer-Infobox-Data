@@ -1,0 +1,27 @@
+{
+    "name": "Mike Pawley",
+    "fullname": "Michael Bernard Pawley",
+    "birth_place": "Glen Innes, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Allrounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/7091.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "153",
+        "bat avg": "11.67",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "1,930",
+        "wickets": "20",
+        "bowl avg": "37.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/67",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1969/70\u20131973/74"
+    },
+    "birth_date": "1944-3-10"
+}

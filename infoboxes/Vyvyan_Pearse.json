@@ -1,0 +1,29 @@
+{
+    "country": "South Africa",
+    "fullname": "Gerald Vyvyan Pearse",
+    "birth_place": "Pietermaritzburg, Colony of Natal",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London, England",
+    "family": "Charles Pearse (brother) Dudley Pearse (brother) David Pearse (great-nephew) Mark Pearse (great nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm (unknown Right-arm (unknown style)",
+    "source": "http://www.espncricinfo.com/england/content/player/46823.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "413",
+        "bat avg": "22.94",
+        "100s/50s": "\u2013/2",
+        "deliveries": "1,500",
+        "wickets": "27",
+        "bowl avg": "34.51",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/57",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Natal": "1910/11",
+        "Oxford University": "1919",
+        "Marylebone Cricket Club": "1925&ndash;1926"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Sam Cliff",
+    "fullname": "Samuel James Cliff",
+    "birth_place": "Nottingham, England",
+    "source": "https://cricketarchive.com/Players/187/187999/187999.html CricketArchive subscription needed",
+    "FC": {
+        "matches": "8",
+        "runs": "71",
+        "bat avg": "14.20",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "980",
+        "wickets": "16",
+        "bowl avg": "35.56",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "432",
+        "wickets": "10",
+        "bowl avg": "37.90",
+        "fivefor": "0/0",
+        "tenfor": "0",
+        "best bowling": "4/26",
+        "catches/stumpings": "1"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "69.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/24",
+        "catches/stumpings": "2"
+    },
+    "clubs": {
+        "Leicestershire": "2007\u20132011",
+        "Berkshire": "2011"
+    },
+    "birth_date": "1987-10-03"
+}

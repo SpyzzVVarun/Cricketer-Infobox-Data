@@ -1,0 +1,32 @@
+{
+    "name": "Alexander Cadell",
+    "country": "England",
+    "fullname": "Alexander Richard Cadell",
+    "birth_place": "Firozpore, Punjab, British Raj",
+    "death_date": "1928",
+    "death_place": "Petersfield, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Vernon Royle (Great-uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/10634.html Cricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "226",
+        "bat avg": "13.29",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "deliveries": "1,480",
+        "wickets": "21",
+        "bowl avg": "40.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/37",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1927",
+        "Hampshire": "1923 and 1927",
+        "Royal Navy": "1922\u20131927"
+    },
+    "birth_date": "1900-8-19"
+}

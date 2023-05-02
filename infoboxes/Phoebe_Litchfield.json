@@ -1,0 +1,51 @@
+{
+    "name": "Phoebe Litchfield",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Phoebe Litchfield",
+    "birth_place": "Orange, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batter",
+    "odidebutdate": "16 January",
+    "odidebutyear": "2023",
+    "odidebutagainst": "Pakistan",
+    "odicap": "148",
+    "lastodidate": "21 January",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Pakistan",
+    "T20Idebutdate": "11 December",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "India",
+    "T20Icap": "60",
+    "lastT20Idate": "20 December",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/2273/2273229/2273229.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "145",
+        "bat avg": "\u2013",
+        "100s/50s": "0/2",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "WLA": {
+        "matches": "10",
+        "runs": "261",
+        "bat avg": "37.28",
+        "100s/50s": "0/1",
+        "catches/stumpings": "5/\u2013"
+    },
+    "WT20": {
+        "matches": "26",
+        "runs": "376",
+        "bat avg": "25.06",
+        "100s/50s": "0/1",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "2019/20\u2013present",
+        "Sydney Thunder": "2019/20\u2013present"
+    },
+    "birth_date": "2003-4-18"
+}

@@ -1,0 +1,39 @@
+{
+    "country": "England",
+    "fullname": "Christopher \u201cCliff\u201d Lethbridge",
+    "birth_place": "Castleford, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16557.html Cricinfo ",
+    "First-class": {
+        "matches": "50",
+        "runs": "1,033",
+        "bat avg": "22.95",
+        "100s/50s": "&ndash;/3",
+        "deliveries": "4,995",
+        "wickets": "77",
+        "bowl avg": "38.90",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/68",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "List A": {
+        "matches": "58",
+        "runs": "272",
+        "bat avg": "16.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "2,529",
+        "wickets": "59",
+        "bowl avg": "32.89",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/47",
+        "catches/stumpings": "15/&ndash;"
+    },
+    "clubs": {
+        "Cambridgeshire": "1986&ndash;1991",
+        "Warwickshire": "1981&ndash;1985"
+    },
+    "birth_date": "1961-6-23"
+}

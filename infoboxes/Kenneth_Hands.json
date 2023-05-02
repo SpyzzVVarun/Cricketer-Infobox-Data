@@ -1,0 +1,30 @@
+{
+    "name": "Kenneth Hands",
+    "country": "South Africa",
+    "fullname": "Kenneth Charles Myburgh Hands",
+    "birth_place": "Stellenbosch, Cape Colony",
+    "death_date": "1954",
+    "death_place": "Paris, France",
+    "family": "Reginald Hands (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/46508.html Cricinfo ",
+    "First-class": {
+        "matches": "31",
+        "runs": "1,543",
+        "bat avg": "29.11",
+        "100s/50s": "3/4",
+        "top score": "171 not out",
+        "deliveries": "891",
+        "wickets": "17",
+        "bowl avg": "33.41",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/25",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1912",
+        "Western Province": "1921/22\u20131930/31"
+    },
+    "birth_date": "1892-3-22"
+}

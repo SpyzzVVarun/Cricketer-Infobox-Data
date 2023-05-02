@@ -1,0 +1,28 @@
+{
+    "name": "Charles Fleming",
+    "country": "England",
+    "fullname": "Charles Barnett Fleming",
+    "birth_place": "Derby, England",
+    "death_date": "1918",
+    "death_place": "Gr\u00e9villers, France",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "22 August",
+    "debutyear1": "1907",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Essex",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/29/29429/29429.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1907"
+    },
+    "birth_date": "1887-2-28"
+}

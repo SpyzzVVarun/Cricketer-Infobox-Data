@@ -1,0 +1,46 @@
+{
+    "name": "Oliver Davidson",
+    "country": "Scotland",
+    "fullname": "Oliver Forbes Davidson",
+    "birth_place": "Edinburgh, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "oneodi": "true",
+    "odidebutdate": "3 June",
+    "odidebutyear": "2022",
+    "odidebutagainst": "UAE",
+    "odicap": "73",
+    "source": "https://www.espncricinfo.com/player/oliver-davidson-1278259 Cricinfo ",
+    "ODI": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "96",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "2022"
+    },
+    "birth_date": "2004-7-28"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Peter Marsland",
+    "birth_place": "Ashton-under-Lyne, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Sherborne, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/17386.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "448",
+        "bat avg": "16.00",
+        "100s/50s": "\u2013/3",
+        "top score": "74",
+        "deliveries": "234",
+        "wickets": "2",
+        "bowl avg": "69.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/68",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1953&ndash;1954"
+    }
+}

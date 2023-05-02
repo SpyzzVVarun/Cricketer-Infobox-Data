@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Clive William Leach",
+    "birth_place": "Bombay, Bombay State, India",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Durham chairman",
+    "source": "http://www.espncricinfo.com/ci/content/player/16496.html Cricinfo ",
+    "First-class": {
+        "matches": "39",
+        "runs": "1,025",
+        "bat avg": "17.67",
+        "100s/50s": "&ndash;/4",
+        "top score": "67",
+        "deliveries": "1,759",
+        "wickets": "26",
+        "bowl avg": "25.26",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/19",
+        "catches/stumpings": "28/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "76",
+        "bat avg": "25.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "48.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/48",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1965&ndash;1971",
+        "Durham": "1959&ndash;1964",
+        "Warwickshire": "1955&ndash;1958"
+    },
+    "birth_date": "1934-12-4"
+}

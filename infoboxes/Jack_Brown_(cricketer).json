@@ -1,0 +1,42 @@
+{
+    "name": "Jack Brown",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "14 December",
+    "testdebutyear": "1894",
+    "lasttestdate": "1 July",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1899",
+    "source": "http://content.cricinfo.com/england/content/player/9263.html CricInfo",
+    "Test": {
+        "matches": "8",
+        "runs": "470",
+        "bat avg": "36.15",
+        "100s/50s": "1/1",
+        "top score": "140",
+        "deliveries": "35",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "First-class": {
+        "matches": "383",
+        "runs": "17,920",
+        "bat avg": "30.52",
+        "100s/50s": "29/76",
+        "top score": "311",
+        "deliveries": "9,391",
+        "wickets": "190",
+        "bowl avg": "29.61",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/51",
+        "catches/stumpings": "230/\u2013"
+    },
+    "clubs": {}
+}

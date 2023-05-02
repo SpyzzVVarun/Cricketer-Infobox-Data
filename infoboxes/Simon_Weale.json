@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Simon David Weale",
+    "birth_place": "Knightsbridge, London, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/22345.html Cricinfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "392",
+        "bat avg": "17.81",
+        "100s/50s": "&ndash;/2",
+        "top score": "76",
+        "deliveries": "2,616",
+        "wickets": "15",
+        "bowl avg": "97.26",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/130",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "24.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/24",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Middlesex Cricket Board": "1999",
+        "Oxford University": "1986-1990"
+    },
+    "birth_date": "1967-9-16"
+}

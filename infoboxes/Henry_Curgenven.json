@@ -1,0 +1,40 @@
+{
+    "name": "Henry Curgenven",
+    "country": "England",
+    "fullname": "Henry Grafton Curgenven",
+    "birth_place": "Derby, England",
+    "death_date": "1959",
+    "death_place": "Bridgend, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "William Curgenven (father)",
+    "type1": "FC",
+    "debutdate1": "23 July",
+    "debutyear1": "1896",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Essex",
+    "lastdate1": "2 August",
+    "lastyear1": "1897",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Hampshire",
+    "source": "https://cricketarchive.com/Players/28/28889/28889.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "125",
+        "bat avg": "9.61",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "400",
+        "wickets": "7",
+        "bowl avg": "31.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/9",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1896\u20131897",
+        "Cambridge University": "1897"
+    },
+    "birth_date": "1875-12-22"
+}

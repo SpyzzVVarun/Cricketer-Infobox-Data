@@ -1,0 +1,41 @@
+{
+    "name": "Robert Rose",
+    "fullname": "Robert Peter Rose",
+    "birth_place": "Collingwood, Victoria",
+    "death_date": "df=yes",
+    "death_place": "Melbourne, Victoria",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/8/8305/8305.html CricketArchive ",
+    "First-class": {
+        "matches": "19",
+        "runs": "981",
+        "bat avg": "30.65",
+        "100s/50s": "1/5",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "12/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1971/72\u20131973/74"
+    },
+    "birth_date": "1952-2-6"
+}

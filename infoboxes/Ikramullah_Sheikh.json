@@ -1,0 +1,42 @@
+{
+    "country": "Pakistan",
+    "fullname": "Ikramullah Sheikh",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/40663.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "34",
+        "bat avg": "3.40",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cumberland": "2009&ndash;present",
+        "Lahore Whites": "2002/03",
+        "Water and Power Development Authority": "2000/2001&ndash; 2001/2002"
+    },
+    "birth_date": "1980-11-27"
+}

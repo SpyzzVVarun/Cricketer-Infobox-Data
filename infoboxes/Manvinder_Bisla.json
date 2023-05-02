@@ -1,0 +1,62 @@
+{
+    "name": "Manvinder Bisla",
+    "country": "India",
+    "fullname": "Manvinder Singh Bisla",
+    "birth_place": "Hisar, Haryana, India",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/india/content/player/27280.html cricinfo ",
+    "FC": {
+        "matches": "49",
+        "runs": "2207",
+        "bat avg": "30.23",
+        "100s/50s": "4/11",
+        "top score": "168",
+        "deliveries": "120",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "81/12"
+    },
+    "LA": {
+        "matches": "48",
+        "runs": "1132",
+        "bat avg": "26.95",
+        "100s/50s": "1/6",
+        "top score": "104",
+        "deliveries": "290",
+        "wickets": "10",
+        "bowl avg": "20.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/23",
+        "catches/stumpings": "29/40"
+    },
+    "T20": {
+        "matches": "65",
+        "runs": "1324",
+        "bat avg": "21.70",
+        "100s/50s": "0/6",
+        "top score": "92",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "40/15"
+    },
+    "clubs": {
+        "Haryana": "2002/03",
+        "Himachal Pradesh": "2003/04\u20132011",
+        "Deccan Chargers( 36 )": "2009",
+        "Kings XI Punjab( 36 )": "2010",
+        "Kolkata Knight Riders( 36 )": "2011\u20132014",
+        "Royal Challengers Bangalore": "2015"
+    },
+    "birth_date": "1984-12-27"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Ian Quick",
+    "fullname": "Ian William Quick",
+    "birth_place": "Geelong, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/10/10134/10134.html CricketArchive",
+    "First-class": {
+        "matches": "63",
+        "runs": "816",
+        "bat avg": "14.06",
+        "100s/50s": "0/1",
+        "deliveries": "14275",
+        "wickets": "195",
+        "bowl avg": "30.46",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "7/20",
+        "catches/stumpings": "32/0"
+    },
+    "clubs": {},
+    "birth_date": "1933-11-5"
+}

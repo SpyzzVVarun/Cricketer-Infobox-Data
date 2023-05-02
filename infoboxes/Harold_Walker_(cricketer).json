@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Harold Walker",
+    "birth_place": "Desborough, Northamptonshire, England",
+    "death_date": "2000",
+    "death_place": "Kettering, Northamptonshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22670.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "7",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1947"
+    },
+    "birth_date": "1918-6-12"
+}

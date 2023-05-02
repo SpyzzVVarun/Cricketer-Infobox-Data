@@ -1,0 +1,53 @@
+{
+    "name": "M. L. Jaisimha",
+    "fullname": "Motganhalli Laxminarsu Jaisimha",
+    "birth_place": "Secunderabad, Hyderabad State, British India",
+    "death_date": "df=yes",
+    "death_place": "Sainikpuri, Secunderabad, Andhra Pradesh, India",
+    "family": "Vivek Jaisimha (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "India",
+    "testcap": "91",
+    "internationalspan": "1959\u20131971",
+    "testdebutagainst": "England",
+    "testdebutdate": "18 June",
+    "testdebutyear": "1959",
+    "lasttestagainst": "West Indies",
+    "lasttestdate": "13 April",
+    "lasttestyear": "1971",
+    "source": "http://www.espncricinfo.com/ci/content/player/29663.html Cricinfo",
+    "Test": {
+        "matches": "39",
+        "runs": "2,056",
+        "bat avg": "30.68",
+        "100s/50s": "3/12",
+        "top score": "129",
+        "deliveries": "2,097",
+        "wickets": "9",
+        "bowl avg": "92.11",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/54",
+        "catches/stumpings": "17/\u2013"
+    },
+    "First-class": {
+        "matches": "245",
+        "runs": "13,516",
+        "bat avg": "37.44",
+        "100s/50s": "33/65",
+        "top score": "259",
+        "deliveries": "27,771",
+        "wickets": "431",
+        "bowl avg": "29.86",
+        "fivefor": "18",
+        "tenfor": "3",
+        "best bowling": "7/45",
+        "catches/stumpings": "157/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "1955\u20131976",
+        "Rishton": "1969"
+    },
+    "birth_date": "1939-3-3"
+}

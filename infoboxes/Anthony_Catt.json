@@ -1,0 +1,43 @@
+{
+    "name": "Anthony Catt",
+    "fullname": "Anthony Waldron Catt",
+    "birth_place": "Dormansland, Surreyname=pob",
+    "death_date": "df=yes",
+    "death_place": "Rondebosch, Cape Town, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/10856.html CricInfo",
+    "First-class": {
+        "matches": "138",
+        "runs": "3,123",
+        "bat avg": "17.25",
+        "100s/50s": "1/9",
+        "top score": "162",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "284/37"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Kent": "1954\u20131964",
+        "Western Province": "1965/66\u20131967/68"
+    },
+    "birth_date": "1933-10-02"
+}

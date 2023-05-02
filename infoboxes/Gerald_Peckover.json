@@ -1,0 +1,44 @@
+{
+    "name": "Gerald Peckover",
+    "country": "Zimbabwe",
+    "fullname": "Gerald Edward Peckover",
+    "birth_place": "Salisbury, Rhodesia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "13 June",
+    "odidebutyear": "1983",
+    "odidebutagainst": "West Indies",
+    "odicap": "13",
+    "lastodidate": "20 June",
+    "lastodiyear": "1983",
+    "lastodiagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/1/1727/1727.html CricketArchive ",
+    "ODI": {
+        "matches": "3",
+        "runs": "33",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "14",
+        "runs": "478",
+        "bat avg": "21.72",
+        "100s/50s": "0/3",
+        "top score": "93",
+        "catches/stumpings": "27/4"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "189",
+        "bat avg": "27.00",
+        "100s/50s": "1/0",
+        "top score": "102",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Rhodesia": "1977/78\u20131978/79",
+        "Zimbabwe": "1982/83\u20131983/84"
+    },
+    "birth_date": "1955-6-2"
+}

@@ -1,0 +1,56 @@
+{
+    "country": "Ireland",
+    "fullname": "Rory Desmond McCann",
+    "birth_place": "Belfast, County Antrim, Northern Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "1 July",
+    "odidebutyear": "2010",
+    "odidebutagainst": "Kenya",
+    "odicap": "34",
+    "lastodidate": "7 September",
+    "lastodiyear": "2010",
+    "lastodiagainst": "Canada",
+    "T20Idebutdate": "22 February",
+    "T20Idebutyear": "2012",
+    "T20Idebutagainst": "Kenya",
+    "T20Icap": "22",
+    "lastT20Idate": "23 February",
+    "lastT20Iyear": "2012",
+    "lastT20Iagainst": "Kenya",
+    "source": "http://www.cricinfo.com/ci/content/player/406308.html Cricinfo ",
+    "ODI": {
+        "matches": "8",
+        "runs": "44",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "9/\u2013"
+    },
+    "T20I": {
+        "matches": "3",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "9/\u2013"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "58",
+        "bat avg": "9.66",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1985-1-11"
+}

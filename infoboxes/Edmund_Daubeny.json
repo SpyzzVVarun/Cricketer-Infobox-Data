@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Edmund Thomas Daubeny",
+    "birth_place": "Paddington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "South Acre, Norfolk, England",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/12351.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "33",
+        "bat avg": "4.12",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "deliveries": "730",
+        "wickets": "26",
+        "bowl avg": "15.05",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/35",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1860&ndash;1863"
+    }
+}

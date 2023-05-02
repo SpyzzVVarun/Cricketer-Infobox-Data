@@ -1,0 +1,51 @@
+{
+    "name": "Shane Jurgensen",
+    "country": "Australia",
+    "fullname": "Shane John Jurgensen",
+    "birth_place": "Redcliffe, Queensland, Australia",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All rounder",
+    "coachclub1": "Bangladesh",
+    "coachyear1": "2013\u20132014",
+    "coachclub2": "Fiji",
+    "coachyear2": "2014\u20132016",
+    "source": "http://www.espncricinfo.com/ci/content/player/6057.html Cricinfo ",
+    "FC": {
+        "matches": "23",
+        "runs": "251",
+        "bat avg": "11.40",
+        "100s/50s": "\u2013/1",
+        "top score": "56",
+        "deliveries": "4,644",
+        "wickets": "70",
+        "bowl avg": "30.42",
+        "fivefor": "4",
+        "tenfor": "2",
+        "best bowling": "6/65",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "14",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "658",
+        "wickets": "8",
+        "bowl avg": "68.37",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Queensland": "2003/04\u20132006/07",
+        "Tasmania": "2000/01\u20132002/03",
+        "Sussex Cricket Board": "1999",
+        "Western Australia": "1998/99"
+    },
+    "birth_date": "1976-4-28"
+}

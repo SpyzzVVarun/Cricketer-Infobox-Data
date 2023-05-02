@@ -1,0 +1,31 @@
+{
+    "name": "Walter Scott",
+    "country": "United States",
+    "fullname": "Walter Scott",
+    "birth_place": "Huntingdon, Pennsylvania, U.S.",
+    "death_date": "October 24, 1907 (aged 39&ndash;43)",
+    "death_place": "Colorado Springs, Colorado, U.S.",
+    "family": "J. A. Scott (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/27/27350/27350.html CricketArchive ",
+    "FC": {
+        "matches": "5",
+        "runs": "88",
+        "bat avg": "9.77",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "deliveries": "338",
+        "wickets": "10",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/52",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Philadelphia  (Gentlemen of Philadelphia)": "1885\u20131893"
+    },
+    "birth_date": "ESPNcricinfo and CricketArchive give Scott's year of birth as 1864 and 1868, respectively. This is perhaps a result of his ''Wisden'' obituary, which contradictorily gives 39 as his age at his death in 1907, but 1864 as his year of birth.<ref name=\"obit\" /> If the 1864 date is correct, Joseph Scott is his younger (rather than older) brother."
+}

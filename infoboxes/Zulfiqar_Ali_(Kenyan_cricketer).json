@@ -1,0 +1,31 @@
+{
+    "name": "Zulfiqar Ali",
+    "birth_place": "Mombasa, Kenya",
+    "country": "East Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "odidebutdate": "7 June,",
+    "odidebutyear": "1975",
+    "odidebutagainst": "New Zealand",
+    "odicap": "11",
+    "lastodidate": "14 June,",
+    "lastodiyear": "1975",
+    "lastodiagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/23977.html Cricinfo ",
+    "ODIs": {
+        "matches": "3",
+        "runs": "39",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "210",
+        "wickets": "4",
+        "bowl avg": "41.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/63",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1947"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Arthur Watson",
+    "country": "England",
+    "fullname": "Arthur Lacon Watson",
+    "birth_place": "Northwood, Isle of Wight, England",
+    "death_date": "1955",
+    "death_place": "Wootton Bridge, Isle of Wight, England",
+    "family": "Arthur Watson (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/22335.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1885&ndash;1893",
+        "Cambridge University": "1888"
+    }
+}

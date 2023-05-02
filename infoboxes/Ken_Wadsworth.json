@@ -1,0 +1,59 @@
+{
+    "name": "Ken Wadsworth",
+    "fullname": "Kenneth John Wadsworth",
+    "birth_place": "Nelson, New Zealand",
+    "death_date": "19 August 1976",
+    "death_place": "Nelson, New Zealand",
+    "country": "New Zealand",
+    "internationalspan": "1969\u20131976",
+    "testdebutdate": "24 July",
+    "testdebutyear": "1969",
+    "testdebutagainst": "England",
+    "testcap": "121",
+    "lasttestdate": "13 February",
+    "lasttestyear": "1976",
+    "lasttestagainst": "India",
+    "odidebutdate": "11 February",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Pakistan",
+    "odicap": "11",
+    "lastodidate": "22 February",
+    "lastodiyear": "1976",
+    "lastodiagainst": "India",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38735.html Cricinfo ",
+    "Test": {
+        "matches": "33",
+        "runs": "1,010",
+        "bat avg": "21.48",
+        "100s/50s": "0/5",
+        "top score": "80",
+        "catches/stumpings": "92/4"
+    },
+    "ODI": {
+        "matches": "13",
+        "runs": "258",
+        "bat avg": "28.66",
+        "100s/50s": "1/0",
+        "top score": "104",
+        "catches/stumpings": "13/2"
+    },
+    "FC": {
+        "matches": "118",
+        "runs": "3,664",
+        "bat avg": "25.62",
+        "100s/50s": "2/5",
+        "top score": "117",
+        "catches/stumpings": "265/26"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "603",
+        "bat avg": "30.15",
+        "100s/50s": "1/2",
+        "top score": "104",
+        "catches/stumpings": "39/6"
+    },
+    "clubs": {},
+    "birth_date": "30 November 1946"
+}

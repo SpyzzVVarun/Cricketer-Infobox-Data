@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Ivo Hamilton Hobson",
+    "birth_place": "Lambeth, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/560770.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "65.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Durham MCCU": "2013"
+    },
+    "birth_date": "1990-12-29"
+}

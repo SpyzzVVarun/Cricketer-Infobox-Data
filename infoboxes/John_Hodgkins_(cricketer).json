@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Seymour Hodgkins",
+    "birth_place": "West Bridgford, Nottinghamshire, England",
+    "death_date": "1988",
+    "death_place": "Stanton-on-the-Wolds, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14870.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "106",
+        "bat avg": "21.20",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "44",
+        "deliveries": "348",
+        "wickets": "3",
+        "bowl avg": "79.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/55",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire": "1938&ndash;1951"
+    }
+}

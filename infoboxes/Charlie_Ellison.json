@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Charles Peter Ellison",
+    "birth_place": "Canterbury, Kent",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Richard Ellison (father) Henry Ellison (great-grandfather) Charles Ellison (uncle)",
+    "source": "http://www.espncricinfo.com/ci/content/player/508386.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "46",
+        "bat avg": "9.20",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "559",
+        "wickets": "9",
+        "bowl avg": "38.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/69",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford MCCU": "2011\u20132013"
+    },
+    "birth_date": "1991-1-26"
+}

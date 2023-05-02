@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Herbert Dell Littlewood",
+    "birth_place": "Islington, Middlesex, England",
+    "death_date": "1925",
+    "death_place": "Ramsgate, Kent, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/16608.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "86",
+        "bat avg": "9.55",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1887&ndash;1896"
+    }
+}

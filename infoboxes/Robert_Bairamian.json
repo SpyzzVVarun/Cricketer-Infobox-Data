@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Robert Bairamian",
+    "birth_place": "Nicosia, British Cyprus",
+    "death_date": "df=y",
+    "death_place": "Hove, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/9464.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "7",
+        "wickets": "1",
+        "bowl avg": "6.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1957"
+    }
+}

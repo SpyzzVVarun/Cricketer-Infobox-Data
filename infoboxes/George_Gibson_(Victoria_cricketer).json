@@ -1,0 +1,27 @@
+{
+    "name": "George Gibson",
+    "fullname": "George Watson Hogg Gibson",
+    "birth_place": "Saint David Parish, Jamaica",
+    "death_date": "5 September 1910",
+    "death_place": "Carlton, Melbourne, Australia",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "http://www.espncricinfo.com/australia/content/player/5487.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "214",
+        "bat avg": "16.46",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/5"
+    },
+    "clubs": {
+        "Victoria": "1865\u20131873"
+    }
+}

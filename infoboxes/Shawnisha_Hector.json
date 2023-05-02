@@ -1,0 +1,33 @@
+{
+    "name": "Shawnisha Hector",
+    "female": "true",
+    "country": "West Indies",
+    "fullname": "Shawnisha Hector",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "oneodi": "true",
+    "odidebutdate": "1 November",
+    "odidebutyear": "2019",
+    "odidebutagainst": "India",
+    "odicap": "91",
+    "source": "http://www.espncricinfo.com/ci/content/player/1204928.html Cricinfo ",
+    "WODI": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Leeward Islands": "2016\u2013present",
+        "Trinbago Knight Riders": "2022\u2013present"
+    }
+}

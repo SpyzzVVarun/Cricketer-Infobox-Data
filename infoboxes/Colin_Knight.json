@@ -1,0 +1,27 @@
+{
+    "name": "Colin Knight",
+    "country": "England",
+    "fullname": "Colin Richard Knight",
+    "birth_place": "Barrow-in-Furness, Lancashire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/15948.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cumberland": "1987&ndash;1992"
+    },
+    "birth_date": "1956-5-24"
+}

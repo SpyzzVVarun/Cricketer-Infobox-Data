@@ -1,0 +1,26 @@
+{
+    "name": "Paul Garlick",
+    "country": "Australia",
+    "fullname": "Paul Anthony Garlick",
+    "birth_place": "Sandringham, Victoria, Australia",
+    "batting": "Left-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.cricinfo.com/ci/content/player/5463.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "66",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Victoria": "1993"
+    },
+    "birth_date": "1968-9-21"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Irvine Theodore Parker",
+    "birth_place": "Newton-on-Ayr, Ayrshire, Scotland",
+    "death_date": "1961",
+    "death_place": "Kilmarnock, Ayrshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/irvine-parker-25318 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "62",
+        "bat avg": "31.00",
+        "100s/50s": "\u2013/1",
+        "top score": "62",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1920&ndash;1926"
+    }
+}

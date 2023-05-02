@@ -1,0 +1,39 @@
+{
+    "name": "James Shaw",
+    "country": "England",
+    "fullname": "James Coupe Shaw",
+    "height": "5ft 9in",
+    "nickname": "Jem",
+    "birth_place": "Sutton-in-Ashfield, Nottinghamshire, England",
+    "death_date": "1888",
+    "death_place": "Sutton-in-Ashfield, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "type1": "FC",
+    "debutdate1": "26 June",
+    "debutyear1": "1865",
+    "debutfor1": "Notts",
+    "debutagainst1": "Surrey",
+    "lastdate1": "14 June",
+    "lastyear1": "1875",
+    "lastfor1": "Notts",
+    "lastagainst1": "MCC",
+    "source": "https://cricketarchive.com/Archive/Players/32/32707/32707.html CricketArchive ",
+    "First-class": {
+        "matches": "115",
+        "runs": "467",
+        "bat avg": "4.24",
+        "100s/50s": "0/0",
+        "deliveries": "27,321",
+        "wickets": "642",
+        "bowl avg": "14.41",
+        "fivefor": "59",
+        "tenfor": "18",
+        "best bowling": "9/86",
+        "catches/stumpings": "62/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "186\u20131875"
+    },
+    "birth_date": "1836-4-11"
+}

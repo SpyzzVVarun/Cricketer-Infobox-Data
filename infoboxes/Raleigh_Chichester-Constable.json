@@ -1,0 +1,30 @@
+{
+    "name": "Raleigh Chichester-Constable",
+    "country": "England",
+    "fullname": "Raleigh Charles Joseph Chichester-Constable",
+    "birth_place": "Great Marlow, Buckinghamshire, England",
+    "death_date": "1963",
+    "death_place": "Burton Constable, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/11119.html Cricinfo ",
+    "First-class": {
+        "matches": "24",
+        "runs": "152",
+        "bat avg": "8.94",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "413",
+        "wickets": "4",
+        "bowl avg": "60.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/42",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1935",
+        "Marylebone Cricket Club": "1926\u20131927",
+        "Yorkshire": "1919"
+    },
+    "birth_date": "1890-12-21"
+}

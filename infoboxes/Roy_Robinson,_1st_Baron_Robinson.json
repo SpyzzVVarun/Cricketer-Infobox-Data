@@ -1,0 +1,42 @@
+{
+    "honorific_prefix": "The Right Honourable",
+    "name": "The Lord Robinson",
+    "honorific_suffix": "OBE",
+    "birth_name": "Roy Lister Robinson",
+    "birth_place": "Macclesfield, South Australia",
+    "death_date": "1952",
+    "death_place": "Ottawa, Canada",
+    "module": "Infobox cricketer",
+    "embed": "yes",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "14 May",
+    "debutyear1": "1908",
+    "debutfor1": "Oxford Univ.",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "6 June",
+    "lastyear1": "1910",
+    "lastfor1": "Gents of England",
+    "lastagainst1": "Oxford Univ.",
+    "source": "https://cricketarchive.com/Archive/Players/32/32452/32452.html CricketArchive  ",
+    "First-class": {
+        "matches": "13",
+        "runs": "256",
+        "bat avg": "12.19",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "1,698",
+        "wickets": "44",
+        "bowl avg": "22.68",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "6/90",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1908\u20131909",
+        "Gentlemen of England": "1910"
+    },
+    "birth_date": "1883-03-08"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Fiona McDonald",
+    "female": "true",
+    "full_name": "Fiona Joy McDonald",
+    "birth_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/93/93860/93860.html CricketArchive",
+    "WLA": {
+        "matches": "35",
+        "runs": "256",
+        "bat avg": "13.47",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "189",
+        "wickets": "7",
+        "bowl avg": "20.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/56",
+        "catches/stumpings": "11/\u2013"
+    },
+    "WT20": {
+        "matches": "15",
+        "runs": "12",
+        "bat avg": "1.71",
+        "100s/50s": "0/0",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "31.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2004/05\u20132010/11"
+    },
+    "birth_date": "1987-07-22"
+}

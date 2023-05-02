@@ -1,0 +1,28 @@
+{
+    "name": "Jemima Spence",
+    "female": "true",
+    "fullname": "Jemima Emma Maxwell Spence",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2456/2456617/2456617.html CricketArchive",
+    "WLA": {
+        "matches": "3",
+        "runs": "88",
+        "bat avg": "44.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "4",
+        "runs": "71",
+        "bat avg": "17.75",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Kent": "2021\u2013present",
+        "South East Stars": "2022\u2013present"
+    },
+    "birth_date": "2006-7-6"
+}

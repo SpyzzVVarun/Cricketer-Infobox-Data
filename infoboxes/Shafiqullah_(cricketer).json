@@ -1,0 +1,74 @@
+{
+    "name": "Shafiqullah, ps",
+    "country": "Afghanistan",
+    "fullname": "Mohammad Shafiqullah",
+    "birth_place": "Nangarhar Province, Afghanistan",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "internationalspan": "2006\u20132019",
+    "odidebutdate": "1 September",
+    "odidebutyear": "2009",
+    "odidebutagainst": "Netherlands",
+    "odicap": "16",
+    "lastodidate": "27 August",
+    "lastodiyear": "2018",
+    "lastodiagainst": "Ireland",
+    "odishirt": "28",
+    "T20Idebutdate": "1 February",
+    "T20Idebutyear": "2010",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "10",
+    "lastT20Idate": "21 September",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Bangladesh",
+    "T20Ishirt": "28",
+    "source": "http://www.cricinfo.com/ci/content/player/362603.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "ODI": {
+        "matches": "24",
+        "runs": "430",
+        "bat avg": "22.63",
+        "100s/50s": "0/2",
+        "top score": "56",
+        "catches/stumpings": "11/3"
+    },
+    "T20I": {
+        "matches": "46",
+        "runs": "494",
+        "bat avg": "16.46",
+        "100s/50s": "0/1",
+        "catches/stumpings": "14/2"
+    },
+    "LA": {
+        "matches": "55",
+        "runs": "1071",
+        "bat avg": "23.80",
+        "100s/50s": "0/7",
+        "top score": "77",
+        "catches/stumpings": "30/4"
+    },
+    "T20": {
+        "matches": "79",
+        "runs": "801",
+        "bat avg": "14.83",
+        "100s/50s": "0/2",
+        "top score": "60",
+        "catches/stumpings": "29/3"
+    },
+    "clubs": {
+        "Speen Ghar region": "2017-2018",
+        "Speen Ghar Tigers": "2017, 2019",
+        "Kabul region": "2018",
+        "Nangarhar Leopards": "2018",
+        "Sylhet Thunder": "2019-20"
+    },
+    "birth_date": "1989-8-7",
+    "medaltemplates": [
+        "Country: {{Afghanistan}}",
+        "Sport: Men's Cricket",
+        "Competition: Asian Games",
+        "Silver Medal: 2010 Guangzhou Team"
+    ]
+}

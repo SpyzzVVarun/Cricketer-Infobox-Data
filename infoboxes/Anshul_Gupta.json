@@ -1,0 +1,36 @@
+{
+    "name": "Anshul Gupta",
+    "fullname": "Anshul Harish Gupta",
+    "birth_place": "Ghaziabad, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/536792.html Cricinfo ",
+    "FC": {
+        "matches": "45",
+        "runs": "2,246",
+        "bat avg": "30.76",
+        "100s/50s": "3/15",
+        "top score": "147",
+        "catches/stumpings": "21/0"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "174",
+        "bat avg": "24.85",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "4/0"
+    },
+    "T20": {
+        "matches": "33",
+        "runs": "549",
+        "bat avg": "18.93",
+        "100s/50s": "0/1",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Delhi": "2004-2010",
+        "Services": "2011- present"
+    },
+    "birth_date": "1989-9-20"
+}

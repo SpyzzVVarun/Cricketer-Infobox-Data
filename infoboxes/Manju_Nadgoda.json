@@ -1,0 +1,30 @@
+{
+    "name": "Manju Nadgoda",
+    "country": "India",
+    "female": "true",
+    "fullname": "Manju Nadgoda",
+    "birth_place": "Belgaum, India",
+    "batting": "Right-handed",
+    "odidebutdate": "1 December",
+    "odidebutyear": "1995",
+    "odidebutagainst": "England",
+    "odicap": "49",
+    "oneodi": "yes",
+    "source": "https://cricketarchive.com/Archive/Players/17/17144/17144.html CricketArchive ",
+    "WODI": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "-/-",
+        "top score": "1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1976-7-11"
+}

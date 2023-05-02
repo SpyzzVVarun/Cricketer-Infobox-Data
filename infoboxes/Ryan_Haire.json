@@ -1,0 +1,36 @@
+{
+    "name": "Ryan Haire",
+    "country": "Ireland",
+    "fullname": "Ryan Samuel Haire",
+    "birth_place": "Dundonald, County Down, Northern Ireland",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "odidebutdate": "1 July",
+    "odidebutyear": "2008",
+    "odidebutagainst": "New Zealand",
+    "odicap": "26",
+    "lastodidate": "2 July",
+    "lastodiyear": "2008",
+    "lastodiagainst": "Scotland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/10/10221/10221.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "56",
+        "bat avg": "28.00",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Ireland": "2000"
+    },
+    "birth_date": "1981-5-1"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "David Farrant ",
+    "fullname": "David Graeme Farrant",
+    "birth_place": "Fairlie, Canterbury, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "Cricinfo",
+    "id": "37031",
+    "FC": {
+        "matches": "4",
+        "runs": "84",
+        "bat avg": "14",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "424",
+        "wickets": "4",
+        "bowl avg": "221",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/7",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "12.5",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "54",
+        "wickets": "2",
+        "bowl avg": "20.0",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/31",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1960-8-1"
+}

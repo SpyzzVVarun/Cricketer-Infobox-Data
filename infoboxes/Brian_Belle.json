@@ -1,0 +1,29 @@
+{
+    "name": "Brian Belle",
+    "fullname": "Brian Henry Belle",
+    "birth_place": "Woodford Green, Essex, England",
+    "death_date": "2007",
+    "death_place": "Campsea Ashe, Suffolk, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/9060.html Cricinfo ",
+    "FC": {
+        "matches": "43",
+        "runs": "1235",
+        "bat avg": "18.43",
+        "100s/50s": "0/5",
+        "top score": "70",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Essex": "1935\u20131937",
+        "Oxford University Cricket Club": "1935\u20131936"
+    },
+    "birth_date": "1914-4-7"
+}

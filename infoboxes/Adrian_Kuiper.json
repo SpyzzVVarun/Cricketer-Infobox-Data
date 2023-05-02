@@ -1,0 +1,39 @@
+{
+    "name": "Adrian Kuiper",
+    "country": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm Right-arm medium Right-arm offbreak",
+    "source": "http://cricinfo.com/ci/content/player/45840.html Cricinfo  ",
+    "Test": {
+        "matches": "1",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODIs": {
+        "matches": "25",
+        "runs": "539",
+        "bat avg": "33.68",
+        "100s/50s": "0/3",
+        "deliveries": "588",
+        "wickets": "18",
+        "bowl avg": "28.77",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Western Province/B": "1977/78\u20131994/95",
+        "Derbyshire": "1990",
+        "Boland": "1995/96\u20131997/98"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Nicholas David Hughes",
+    "birth_place": "Dublin, Leinster, Ireland",
+    "death_date": "1978",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/14297.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "107.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/73",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1997&ndash;2006"
+    }
+}

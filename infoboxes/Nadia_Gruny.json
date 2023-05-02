@@ -1,0 +1,32 @@
+{
+    "name": "Nadia Gruny",
+    "female": "true",
+    "country": "United States",
+    "fullname": "Nadia Theresa Gruny",
+    "birth_place": "Scarborough, Trinidad and Tobago",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "17 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "5",
+    "lastT20Idate": "7 September",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Namibia",
+    "source": "http://www.espncricinfo.com/ci/content/player/465612.html Cricinfo ",
+    "WT20I": {
+        "matches": "8",
+        "runs": "100",
+        "bat avg": "20.00",
+        "100s/50s": "0/1",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1984-4-23"
+}

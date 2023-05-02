@@ -1,0 +1,45 @@
+{
+    "name": "R. A. Swaroop",
+    "country": "India",
+    "fullname": "Rayapeth Arjun Swaroop",
+    "birth_place": "Secunderabad, Andhra Pradesh, India",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/34190.html ESPNcricinfo ",
+    "FC": {
+        "matches": "69",
+        "runs": "3,475",
+        "bat avg": "35.45",
+        "100s/50s": "7/18",
+        "top score": "165",
+        "deliveries": "10,061",
+        "wickets": "132",
+        "bowl avg": "29.65",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "6/121",
+        "catches/stumpings": "56/\u2013"
+    },
+    "List A": {
+        "matches": "32",
+        "runs": "710",
+        "bat avg": "27.30",
+        "100s/50s": "0/4",
+        "top score": "79",
+        "deliveries": "1,409",
+        "wickets": "33",
+        "bowl avg": "26.66",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/37",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "1987/88\u20131994/95",
+        "Baroda": "1995/96\u20132000/01"
+    },
+    "birth_date": "1965-8-20"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Percy Bird",
+    "country": "England",
+    "fullname": "Percy John Bird",
+    "birth_place": "Northwood, Isle of Wight, England",
+    "death_date": "1942",
+    "death_place": "Freshwater Bay, Isle of Wight, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/england/content/player/9101.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "37",
+        "bat avg": "18.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1900"
+    },
+    "birth_date": "1877-5-27"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Jim Pothecary",
+    "fullname": "James Edward Pothecary",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "South Africa",
+    "testdebutagainst": "England",
+    "testdebutdate": "7 July",
+    "testdebutyear": "1960",
+    "lasttestdate": "18 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1960",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/46781.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "26",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "828",
+        "wickets": "9",
+        "bowl avg": "39.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/58",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "54",
+        "runs": "1,039",
+        "bat avg": "15.74",
+        "100s/50s": "0/2",
+        "deliveries": "10,329",
+        "wickets": "143",
+        "bowl avg": "28.34",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/29",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {}
+}

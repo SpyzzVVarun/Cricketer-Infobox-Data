@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Robert Moore",
+    "birth_place": "Hunton, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Mayfair, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/17908.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "?",
+        "wickets": "8",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/?",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1834&ndash;1835"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Sindhu Sriharsha",
+    "female": "true",
+    "country": "United States",
+    "fullname": "Sindhu Sriharsha",
+    "birth_place": "Bangalore, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper,Batter",
+    "T20Idebutdate": "17 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "10",
+    "lastT20Idate": "25 September",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "United Arab Emirates",
+    "source": "http://www.espncricinfo.com/ci/content/player/262364.html Cricinfo ",
+    "WT20I": {
+        "matches": "22",
+        "runs": "364",
+        "bat avg": "24.26",
+        "100s/50s": "0/2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "11/2"
+    },
+    "clubs": {
+        "Karnataka Women": ""
+    },
+    "birth_date": "1988-8-17"
+}

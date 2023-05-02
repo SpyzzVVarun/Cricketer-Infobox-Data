@@ -1,0 +1,39 @@
+{
+    "name": "Cec Pepper",
+    "country": "Australia",
+    "fullname": "Cecil George Pepper",
+    "birth_place": "Forbes, New South Wales, Australia",
+    "death_date": "1993",
+    "death_place": "Littleborough, Greater Manchester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg break and Right-arm leg break and googly",
+    "role": "All-rounder, Umpire",
+    "type1": "First-class",
+    "debutdate1": "25 November",
+    "debutyear1": "1938",
+    "debutfor1": ", New South Wales",
+    "debutagainst1": "Queensland",
+    "lastdate1": "4 September",
+    "lastyear1": "1957",
+    "lastfor1": ", Commonwealth XI",
+    "lastagainst1": "England XI",
+    "source": "https://web.archive.org/web/20070926215553/http://hcs.cricketarchive.co.uk/Archive/Players/6/6054/6054.html CricketArchive ",
+    "First-class": {
+        "matches": "44",
+        "runs": "1,927",
+        "bat avg": "29.64",
+        "100s/50s": "1/12",
+        "top score": "168",
+        "deliveries": "9,698",
+        "wickets": "171",
+        "bowl avg": "29.35",
+        "fivefor": "7",
+        "tenfor": "0",
+        "best bowling": "6/33",
+        "catches/stumpings": "41/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1938&ndash;1941"
+    },
+    "birth_date": "1916-9-15"
+}

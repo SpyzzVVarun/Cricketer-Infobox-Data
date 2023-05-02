@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Percival George Gale",
+    "birth_place": "Kensington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Croydon, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13545.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "140",
+        "bat avg": "8.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "96",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "London County": "1901&ndash;1904"
+    }
+}

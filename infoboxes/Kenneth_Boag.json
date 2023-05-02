@@ -1,0 +1,21 @@
+{
+    "name": "Kenneth Boag",
+    "birth_place": "Toowoomba, Queensland, Australia",
+    "death_date": "1984",
+    "death_place": "Port Kembla, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right Right medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4370.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Queensland": "1933/34\u20131934/35"
+    },
+    "birth_date": "1914-9-6"
+}

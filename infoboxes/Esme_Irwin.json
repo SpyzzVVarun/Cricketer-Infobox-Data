@@ -1,0 +1,51 @@
+{
+    "name": "Esme Irwin",
+    "female": "true",
+    "country": "England",
+    "fullname": "Esme Irwin",
+    "birth_place": "Hanwell, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Ickenham, Middlesex, England",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "1960\u20131961",
+    "testdebutdate": "2 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "South Africa",
+    "testcap": "53",
+    "lasttestdate": "13 January",
+    "lasttestyear": "1961",
+    "lasttestagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/17/17032/17032.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "3",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "1,056",
+        "wickets": "10",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/46",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "8",
+        "runs": "44",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "1,440",
+        "wickets": "15",
+        "bowl avg": "29.73",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/46",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1955\u20131970"
+    },
+    "birth_date": "1931-6-13"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "Francis James Anthony Reddy",
+    "birth_place": "Harold's Cross, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Leinster, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24504.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "202",
+        "bat avg": "16.83",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1931&ndash;1939"
+    }
+}

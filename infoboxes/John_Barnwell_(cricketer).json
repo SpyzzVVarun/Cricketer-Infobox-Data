@@ -1,0 +1,40 @@
+{
+    "name": "John Barnwell",
+    "country": "England",
+    "fullname": "Charles John Patrick Barnwell",
+    "birth_place": "Stoke-on-Trent, Staffordshire, England",
+    "death_date": "1998",
+    "death_place": "Fivehead, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "family": "Michael Barnwell (nephew)",
+    "type1": "FC",
+    "debutdate1": "12 June",
+    "debutyear1": "1935",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "1 July",
+    "lastyear1": "1948",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3424/3424.html CricketArchive ",
+    "First-class": {
+        "matches": "69",
+        "runs": "1,592",
+        "bat avg": "15.16",
+        "100s/50s": "0/5",
+        "top score": "83",
+        "deliveries": "52",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1935\u20131948"
+    },
+    "birth_date": "1914-6-23"
+}

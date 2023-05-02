@@ -1,0 +1,57 @@
+{
+    "name": "Richard Johnson",
+    "country": "England",
+    "fullname": "Richard Matthew Johnson",
+    "birth_place": "Solihull, West Midlands, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "12 May",
+    "debutyear1": "2008",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Cambridge UCCE",
+    "lastdate1": "20 April",
+    "lastyear1": "2014",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Hampshire",
+    "type2": "LA",
+    "debutdate2": "11 May",
+    "debutyear2": "2008",
+    "debutfor2": "Warwickshire",
+    "debutagainst2": "Northants",
+    "lastdate2": "26 August",
+    "lastyear2": "2013",
+    "lastfor2": "Derbyshire",
+    "lastagainst2": "Hampshire",
+    "source": "http://www.espncricinfo.com/england/content/player/257519.html CricInfo ",
+    "FC": {
+        "matches": "29",
+        "runs": "911",
+        "bat avg": "20.70",
+        "100s/50s": "0/5",
+        "top score": "72",
+        "catches/stumpings": "56/2"
+    },
+    "LA": {
+        "matches": "26",
+        "runs": "215",
+        "bat avg": "21.50",
+        "100s/50s": "0/2",
+        "top score": "79",
+        "catches/stumpings": "19/4"
+    },
+    "T20": {
+        "matches": "22",
+        "runs": "46",
+        "bat avg": "9.20",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "6/3"
+    },
+    "clubs": {
+        "Warwickshire": "2008\u20132012",
+        "\u2192 Derbyshire  (on loan)": "2012",
+        "Derbyshire": "2013\u20132014"
+    },
+    "birth_date": "1988-9-1"
+}

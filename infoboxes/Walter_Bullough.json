@@ -1,0 +1,26 @@
+{
+    "name": "Walter Bullough",
+    "birth_place": "Hunslet, England",
+    "death_date": "1888",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm",
+    "source": "http://www.espncricinfo.com/ci/content/player/4409.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "43",
+        "bat avg": "14.33",
+        "100s/50s": "0/0",
+        "deliveries": "434",
+        "wickets": "8",
+        "bowl avg": "22.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/54",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1880/81"
+    },
+    "birth_date": "1855-10-21"
+}

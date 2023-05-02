@@ -1,0 +1,32 @@
+{
+    "name": "Harry Funnell",
+    "country": "England",
+    "fullname": "James Harry Funnell",
+    "birth_place": "Leicester, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "LA",
+    "onetype1": "true",
+    "debutdate1": "19 June",
+    "debutyear1": "2018",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "India A",
+    "source": "http://www.espncricinfo.com/ci/content/player/1093692.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "67.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/67",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Leicestershire": "2018"
+    },
+    "birth_date": "1999-5-31"
+}

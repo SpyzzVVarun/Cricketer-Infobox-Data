@@ -1,0 +1,37 @@
+{
+    "name": "William Ashby",
+    "birth_place": "Linton, Kent",
+    "death_date": "df=yes",
+    "death_place": "Lambeth, Surrey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm slow Carlaw, pp. Right-arm slow Carlaw, pp. 30\u201331.",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "6 July",
+    "debutyear1": "1808",
+    "debutfor1": "England XI",
+    "debutagainst1": "Surrey",
+    "lastdate1": "16 July",
+    "lastyear1": "1830",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Sussex",
+    "source": "https://www.espncricinfo.com/player/william-ashby-8791 CricInfo",
+    "First-class": {
+        "matches": "45",
+        "runs": "242",
+        "bat avg": "4.48",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "\u2013name=balls",
+        "wickets": "164name=wickets",
+        "bowl avg": "\u2013name=balls",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "8/?name=balls",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {
+        "Kent": "1807\u20131829"
+    },
+    "birth_date": "1786-01-12"
+}

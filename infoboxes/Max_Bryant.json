@@ -1,0 +1,44 @@
+{
+    "name": "Max Bryant",
+    "fullname": "Max Arthur Bryant",
+    "birth_place": "Murwillumbah, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "type1": "LA",
+    "debutdate1": "27 September",
+    "debutyear1": "2017",
+    "debutfor1": "Cricket Australia XI",
+    "debutagainst1": "South Australia",
+    "source": "http://www.espncricinfo.com/ci/content/player/1088608.html Cricinfo",
+    "FC": {
+        "matches": "4",
+        "runs": "121",
+        "bat avg": "17.28",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "29",
+        "runs": "853",
+        "bat avg": "31.59",
+        "100s/50s": "0/6",
+        "top score": "89",
+        "catches/stumpings": "22/\u2013"
+    },
+    "T20": {
+        "matches": "57",
+        "runs": "1,164",
+        "bat avg": "21.16",
+        "100s/50s": "0/4",
+        "top score": "81",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Cricket Australia XI( 15 )": "2017/18",
+        "Queensland": "2018/19\u2013present",
+        "Brisbane Heat": "2018/19\u2013present"
+    },
+    "birth_date": "1999-3-10"
+}

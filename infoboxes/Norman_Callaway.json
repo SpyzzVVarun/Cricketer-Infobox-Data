@@ -1,0 +1,27 @@
+{
+    "name": "Norman Callaway",
+    "country": "Australia",
+    "fullname": "Norman Frank Callaway",
+    "birth_place": "Hay, New South Wales, Australia",
+    "death_date": "df=yes",
+    "death_place": "Bullecourt, Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutyear1": "1914",
+    "debutfor1": "New South Wales",
+    "source": "http://www.espncricinfo.com/australia/content/player/4515.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "207",
+        "bat avg": "207.00",
+        "100s/50s": "1/0",
+        "top score": "207",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1914/15"
+    },
+    "birth_date": "1896-04-05"
+}

@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Peter John Plummer",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/18976.html Cricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "386",
+        "bat avg": "12.86",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "46",
+        "deliveries": "3,641",
+        "wickets": "63",
+        "bowl avg": "32.00",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "7/71",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "List A": {
+        "matches": "12",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "384",
+        "wickets": "13",
+        "bowl avg": "25.46",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/44",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1973&ndash;1977",
+        "Nottinghamshire": "1969&ndash;1972"
+    },
+    "birth_date": "1947-1-28"
+}

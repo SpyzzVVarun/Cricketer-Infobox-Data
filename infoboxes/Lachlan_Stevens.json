@@ -1,0 +1,42 @@
+{
+    "name": "Lachlan Stevens",
+    "fullname": "Lachlan McRae Stevens",
+    "birth_place": "Toowoomba, Queensland, Australia",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/9/9159/9159.html CricketArchive ",
+    "FC": {
+        "matches": "14",
+        "runs": "631",
+        "bat avg": "25.24",
+        "100s/50s": "1/4",
+        "top score": "105",
+        "deliveries": "228",
+        "wickets": "2",
+        "bowl avg": "65.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "11/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "53",
+        "bat avg": "7.57",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "138",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2002/03",
+        "Queensland": "2004/05\u20132006/07"
+    },
+    "birth_date": "1978-12-31"
+}

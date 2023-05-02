@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Robert Currie Summerhayes",
+    "birth_place": "Quetta, Baluchistan,, British India",
+    "death_date": "1983",
+    "death_place": "Mayfield, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/34462.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "379",
+        "bat avg": "19.94",
+        "100s/50s": "1/2",
+        "top score": "109",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1925/26&ndash;1938/39"
+    }
+}

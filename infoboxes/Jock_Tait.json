@@ -1,0 +1,38 @@
+{
+    "name": "Jock Tait",
+    "fullname": "John Robert Tait",
+    "birth_place": "Lerwick, Shetland, Scotland",
+    "death_date": "1945",
+    "death_place": "Clifton, Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "18 May",
+    "debutyear1": "1921",
+    "debutfor1": "Glamorgan",
+    "debutagainst1": "Sussex",
+    "lastdate1": "16 June",
+    "lastyear1": "1926",
+    "lastfor1": "Glamorgan",
+    "lastagainst1": "Warwickshire",
+    "source": "https://cricketarchive.com/Archive/Players/4/4677/4677.html CricketArchive ",
+    "First-class": {
+        "matches": "44",
+        "runs": "1,477",
+        "bat avg": "18.23",
+        "100s/50s": "0/7",
+        "top score": "96",
+        "deliveries": "132",
+        "wickets": "1",
+        "bowl avg": "87.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Glamorgan": "1921\u20131926"
+    },
+    "birth_date": "1886-11-20"
+}

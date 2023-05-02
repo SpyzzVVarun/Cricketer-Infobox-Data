@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Harold Emerton Edge",
+    "birth_place": "Market Drayton, Shropshire, England",
+    "death_date": "1944",
+    "death_place": "Winsford, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/12612.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "423",
+        "wickets": "4",
+        "bowl avg": "69.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/115",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Denbighshire": "1930\u20131931",
+        "Wales": "1927\u20131929",
+        "Lancashire": "1913"
+    },
+    "birth_date": "1892-6-8"
+}

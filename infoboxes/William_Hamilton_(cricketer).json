@@ -1,0 +1,22 @@
+{
+    "country": "Ireland",
+    "fullname": "William Drummond Hamilton",
+    "birth_place": "Collon, Ireland",
+    "death_date": "1914",
+    "death_place": "Oxford, Oxfordshire, England",
+    "family": "Blayney Hamilton (brother)",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/14489.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "310",
+        "bat avg": "20.66",
+        "100s/50s": "\u2013/2",
+        "top score": "54",
+        "catches/stumpings": "2/5"
+    },
+    "clubs": {
+        "Oxford University": "1882"
+    }
+}

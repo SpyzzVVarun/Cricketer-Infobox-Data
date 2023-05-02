@@ -1,0 +1,37 @@
+{
+    "name": "Amjad Ali",
+    "country": "UAE",
+    "fullname": "Amjad Ali Chaudhry",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "odidebutdate": "24 June",
+    "odidebutyear": "2008",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "31",
+    "lastodidate": "18 November",
+    "lastodiyear": "2015",
+    "lastodiagainst": "Hong Kong",
+    "source": "https://cricketarchive.com/Archive/Players/45/45809/45809.html CricketArchive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "451",
+        "bat avg": "22.25",
+        "100s/50s": "0/3",
+        "top score": "55",
+        "catches/stumpings": "21/2"
+    },
+    "ODI": {
+        "matches": "17",
+        "runs": "520",
+        "bat avg": "31.00",
+        "100s/50s": "0/5",
+        "top score": "98",
+        "catches/stumpings": "11/1"
+    },
+    "clubs": {
+        "Lahore Blues": "2002\u20132003"
+    },
+    "birth_date": "1979-9-25"
+}

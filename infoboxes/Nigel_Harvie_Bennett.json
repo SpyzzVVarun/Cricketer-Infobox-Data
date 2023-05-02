@@ -1,0 +1,38 @@
+{
+    "name": "Nigel Bennett",
+    "country": "England",
+    "fullname": "Nigel Harvie Bennett",
+    "birth_place": "Walton-on-Thames, Surrey, England",
+    "death_date": "2008",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "role": "Middle order batsman",
+    "type1": "First-class",
+    "debutdate1": "4 May",
+    "debutyear1": "1946",
+    "debutfor1": "Surrey",
+    "debutagainst1": "MCC",
+    "lastdate1": "5 September",
+    "lastyear1": "1946",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Combined Services",
+    "source": "https://cricketarchive.com/Archive/Players/27/27838/27838.html CricketArchive ",
+    "First-class": {
+        "matches": "31",
+        "runs": "688",
+        "bat avg": "16.00",
+        "100s/50s": "0/4",
+        "top score": "79",
+        "deliveries": "37",
+        "wickets": "1",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/1",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1946"
+    },
+    "birth_date": "1912-9-23"
+}

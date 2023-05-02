@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "David Charles Haywood",
+    "birth_place": "Hucknall, Nottinghamshire,, England",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/14666.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "284",
+        "bat avg": "18.93",
+        "100s/50s": "\u2013/1",
+        "top score": "62",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1968"
+    },
+    "birth_date": "1945-5-20"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Pat Trimborn",
+    "fullname": "Patrick Henry Joseph Trimborn",
+    "birth_place": "Durban, Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "20 January",
+    "testdebutyear": "1967",
+    "lasttestdate": "5 March",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1970",
+    "source": "https://cricketarchive.com/Archive/Players/1/1293/1293.html CricketArchive",
+    "Test": {
+        "matches": "4",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "deliveries": "747",
+        "wickets": "11",
+        "bowl avg": "23.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "7/\u2013"
+    },
+    "First-class": {
+        "matches": "94",
+        "runs": "880",
+        "bat avg": "11.89",
+        "100s/50s": "0/2",
+        "top score": "52",
+        "deliveries": "17,739",
+        "wickets": "314",
+        "bowl avg": "22.61",
+        "fivefor": "12",
+        "tenfor": "1",
+        "best bowling": "6/36",
+        "catches/stumpings": "79/\u2013"
+    },
+    "clubs": {
+        "Natal": "1961/62\u20131975/76"
+    },
+    "birth_date": "1940-5-18"
+}

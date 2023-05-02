@@ -1,0 +1,26 @@
+{
+    "name": "Ken Lewis",
+    "fullname": "Kenneth Humphrey Lewis",
+    "birth_place": "Penygladdfa, Newtown, Montgomeryshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/england/content/player/16282.html Cricinfo ",
+    "First-class": {
+        "matches": "36",
+        "runs": "312",
+        "bat avg": "9.17",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "4170",
+        "wickets": "55",
+        "bowl avg": "37.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/25",
+        "catches/stumpings": "15/0"
+    },
+    "clubs": {
+        "Glamorgan": "1950&ndash;1956"
+    },
+    "birth_date": "1928-11-10"
+}

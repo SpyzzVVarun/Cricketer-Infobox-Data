@@ -1,0 +1,30 @@
+{
+    "name": "Eric McKenzie",
+    "country": "Australia",
+    "fullname": "Eric Norman McKenzie",
+    "birth_place": "Kalgoorlie, Western Australia",
+    "death_date": "1994",
+    "death_place": "Cottesloe, Western Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Douglas McKenzie (brother) Graham McKenzie (son)",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "22 October",
+    "debutyear1": "1931",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "South Africans",
+    "source": "https://cricketarchive.com/Archive/Players/16/16416/16416.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "43",
+        "bat avg": "21.50",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "1931/32"
+    },
+    "birth_date": "1910-12-9"
+}

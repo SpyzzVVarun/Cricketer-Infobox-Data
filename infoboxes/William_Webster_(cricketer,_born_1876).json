@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "William Webster",
+    "birth_place": "Aberdeen, Aberdeenshire, Scotland",
+    "death_date": "1948",
+    "death_place": "New Aberdour, Aberdeenshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/william-webster-22825 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "102",
+        "bat avg": "12.75",
+        "100s/50s": "\u2013/1",
+        "top score": "65",
+        "deliveries": "429",
+        "wickets": "8",
+        "bowl avg": "26.12",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/30",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1907&ndash;1912"
+    }
+}

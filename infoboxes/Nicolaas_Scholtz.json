@@ -1,0 +1,40 @@
+{
+    "country": "Namibia",
+    "fullname": "Nicolaas Reimert Petrus Scholtz",
+    "birth_place": "Keetmanshoop, South West Africa",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "family": "Bernard Scholtz (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/63/63874/63874.html CricketArchive subscription required ",
+    "First-class": {
+        "matches": "36",
+        "runs": "1,096",
+        "bat avg": "22.36",
+        "100s/50s": "1/5",
+        "deliveries": "2,064",
+        "wickets": "28",
+        "bowl avg": "46.71",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/62",
+        "catches/stumpings": "16/&ndash;"
+    },
+    "List A": {
+        "matches": "43",
+        "runs": "766",
+        "bat avg": "30.64",
+        "100s/50s": "&ndash;/5",
+        "top score": "64",
+        "deliveries": "929",
+        "wickets": "19",
+        "bowl avg": "42.21",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/28",
+        "catches/stumpings": "15/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2006/07&ndash;"
+    },
+    "birth_date": "1986-11-5"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Greg Daniel Wright",
+    "birth_place": "Wolverhampton, Staffordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/22573.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1999&ndash;2002"
+    },
+    "birth_date": "1979-8-30"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Kolla Sumanth",
+    "birth_place": "Ramagundam, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/578173.html Cricinfo ",
+    "FC": {
+        "matches": "37",
+        "runs": "1,453",
+        "bat avg": "27.41",
+        "100s/50s": "1/10",
+        "catches/stumpings": "109/6"
+    },
+    "LA": {
+        "matches": "29",
+        "runs": "684",
+        "bat avg": "31.09",
+        "100s/50s": "0/3",
+        "catches/stumpings": "36/5"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "204",
+        "bat avg": "11.33",
+        "100s/50s": "0/0",
+        "catches/stumpings": "22/4"
+    },
+    "clubs": {
+        "Hyderabad": "2012\u2013present"
+    },
+    "birth_date": "1992-4-24"
+}

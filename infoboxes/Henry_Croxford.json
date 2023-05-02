@@ -1,0 +1,36 @@
+{
+    "name": "Henry Croxford",
+    "birth_place": "Hadlow, Kent",
+    "death_date": "df=yes",
+    "death_place": "Faversham, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "23 August",
+    "debutyear1": "1869",
+    "debutfor1": "Kent",
+    "debutagainst1": "Surrey",
+    "lastdate1": "23 July",
+    "lastyear1": "1877",
+    "lastfor1": "Kent",
+    "lastagainst1": "Surrey",
+    "source": "https://www.espncricinfo.com/player/henry-croxford-11465 CricInfo",
+    "First-class": {
+        "matches": "27",
+        "runs": "472",
+        "bat avg": "11.80",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "1,438",
+        "wickets": "31",
+        "bowl avg": "22.03",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/45",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Kent County Cricket Club": "1869\u20131877"
+    },
+    "birth_date": "1845-06-14"
+}

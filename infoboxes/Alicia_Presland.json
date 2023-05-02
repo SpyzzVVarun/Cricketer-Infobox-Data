@@ -1,0 +1,46 @@
+{
+    "name": "Alicia Presland",
+    "female": "true",
+    "fullname": "Alicia Demi Presland",
+    "birth_place": "Huntingdon, Cambridgeshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1119/1119196/1119196.html CricketArchive",
+    "WLA": {
+        "matches": "29",
+        "runs": "395",
+        "bat avg": "17.95",
+        "100s/50s": "0/2",
+        "top score": "70",
+        "deliveries": "864",
+        "wickets": "28",
+        "bowl avg": "20.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "13/\u2013"
+    },
+    "WT20": {
+        "matches": "23",
+        "runs": "457",
+        "bat avg": "28.56",
+        "100s/50s": "0/3",
+        "top score": "78",
+        "deliveries": "90",
+        "wickets": "7",
+        "bowl avg": "12.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/16",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire and Huntingdonshire": "2015\u20132016",
+        "Northamptonshire": "2022\u2013present",
+        "Lightning": "2020\u20132022",
+        "Lincolnshire": "2021",
+        "Trent Rockets": "2021"
+    },
+    "birth_date": "1999-9-28"
+}

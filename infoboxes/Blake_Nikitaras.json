@@ -1,0 +1,26 @@
+{
+    "name": "Blake Nikitaras",
+    "batting": "Left-handed",
+    "source": "https://www.espncricinfo.com/player/blake-nikitaras-1169066 Cricinfo",
+    "FC": {
+        "matches": "5",
+        "runs": "257",
+        "bat avg": "28.55",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "catches/stumpings": "1/0"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "New South Wales": "2022\u2013",
+        "Sydney Thunder": "2023\u2013"
+    },
+    "birth_date": "2000-4-29"
+}

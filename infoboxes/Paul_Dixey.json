@@ -1,0 +1,32 @@
+{
+    "name": "Paul Dixey",
+    "fullname": "Paul Garrod Dixey",
+    "birth_place": "Canterbury, Kent",
+    "heightft": "5",
+    "heightinch": "9",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ccdiv2-10/content/player/216183.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "592",
+        "bat avg": "17.41",
+        "100s/50s": "1/2",
+        "top score": "103",
+        "catches/stumpings": "46/8"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "120",
+        "bat avg": "13.33",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Kent( 2 )": "2005\u20132010",
+        "Durham UCCE": "2007\u20132010",
+        "Leicestershire": "2011\u20132012"
+    },
+    "birth_date": "1987-11-2"
+}

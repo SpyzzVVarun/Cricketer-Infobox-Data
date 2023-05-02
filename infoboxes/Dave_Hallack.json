@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "David Hallack",
+    "birth_place": "Bulawayo, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15347.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "9",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Derbyshire Cricket Board": "2002"
+    },
+    "birth_date": "1966-1-22"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Betty Archdale",
+    "female": "true",
+    "country": "England",
+    "fullname": "Helen Elizabeth Archdale",
+    "nickname": "Betty",
+    "birth_place": "Paddington, London, England",
+    "death_date": "2000",
+    "death_place": "Killara, New South Wales, Australia",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "family": "Helen Archdale (mother) ,  Alexander Archdale (brother)",
+    "internationalspan": "1934\u20131937",
+    "testdebutdate": "28 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "Australia",
+    "testcap": "1",
+    "lasttestdate": "13 July",
+    "lasttestyear": "1937",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/10/10138/10138.html CricketArchive ",
+    "WTest": {
+        "matches": "5",
+        "runs": "133",
+        "bat avg": "26.60",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WFC": {
+        "matches": "13",
+        "runs": "266",
+        "bat avg": "15.64",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Kent": "1937"
+    },
+    "birth_date": "1907-8-21"
+}

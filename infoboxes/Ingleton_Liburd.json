@@ -1,0 +1,26 @@
+{
+    "country": "Canada",
+    "fullname": "Ingleton Liburd",
+    "birth_place": "Trinidad",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/5/5587/5587.html CricketArchive ",
+    "List A": {
+        "matches": "13",
+        "runs": "216",
+        "bat avg": "18.00",
+        "100s/50s": "\u2013/2",
+        "top score": "78",
+        "deliveries": "208",
+        "wickets": "2",
+        "bowl avg": "90.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/40",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Canada": "1996/97\u20131997/98"
+    },
+    "birth_date": "1961-4-27"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Arthur Cuthbertson",
+    "fullname": "Arthur Cuthbertson",
+    "birth_place": "Belford, Northumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Reading, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/11507.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1924",
+        "Hertfordshire": "1921\u20131929"
+    }
+}

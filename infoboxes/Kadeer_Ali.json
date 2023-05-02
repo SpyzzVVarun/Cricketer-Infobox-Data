@@ -1,0 +1,61 @@
+{
+    "name": "Kadir Ali",
+    "country": "England",
+    "fullname": "Abdul-Kadeer Ali",
+    "nickname": "Kaddy url=http://content.cricinfo.com/england/content/player/8640.html ",
+    "birth_place": "Birmingham, West Midlands, England",
+    "heightft": "6",
+    "heightinch": "2",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "family": "Kabir Ali (cousin), Moeen Ali (brother)",
+    "source": "https://cricketarchive.com/Archive/Players/9/9173/9173.html CricketArchive ",
+    "FC": {
+        "matches": "103",
+        "runs": "5,003",
+        "bat avg": "28.42",
+        "100s/50s": "6/26",
+        "top score": "161",
+        "deliveries": "552",
+        "wickets": "3",
+        "bowl avg": "112.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "55/\u2013"
+    },
+    "LA": {
+        "matches": "64",
+        "runs": "1,817",
+        "bat avg": "30.28",
+        "100s/50s": "3/12",
+        "top score": "114",
+        "deliveries": "75",
+        "wickets": "1",
+        "bowl avg": "68.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "13/\u2013"
+    },
+    "T20": {
+        "matches": "27",
+        "runs": "451",
+        "bat avg": "23.73",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "36",
+        "wickets": "3",
+        "bowl avg": "26.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/28",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "2000\u20132004",
+        "Gloucestershire": "2005\u20132010",
+        "Leicestershire": "2011"
+    },
+    "birth_date": "1983-3-7"
+}

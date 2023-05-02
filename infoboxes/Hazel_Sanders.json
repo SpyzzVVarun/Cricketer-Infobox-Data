@@ -1,0 +1,53 @@
+{
+    "name": "Hazel Sanders",
+    "female": "true",
+    "country": "England",
+    "fullname": "Hazel Mary Sanders",
+    "birth_place": "Mitcham, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Shepway, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Batter",
+    "internationalspan": "1949\u20131958",
+    "testdebutdate": "15 January",
+    "testdebutyear": "1949",
+    "testdebutagainst": "Australia",
+    "testcap": "27",
+    "lasttestdate": "21 February",
+    "lasttestyear": "1958",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17080/17080.html CricketArchive ",
+    "WTest": {
+        "matches": "12",
+        "runs": "318",
+        "bat avg": "15.14",
+        "100s/50s": "0/2",
+        "top score": "54",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "WFC": {
+        "matches": "48",
+        "runs": "1,069",
+        "bat avg": "18.43",
+        "100s/50s": "0/4",
+        "top score": "54",
+        "deliveries": "428",
+        "wickets": "15",
+        "bowl avg": "14.13",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/15",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1949\u20131959"
+    },
+    "birth_date": "1926-7-16"
+}

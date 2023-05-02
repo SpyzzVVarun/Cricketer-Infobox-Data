@@ -1,0 +1,40 @@
+{
+    "name": "Richard Whitington",
+    "country": "Australia",
+    "fullname": "Richard Smallpeice Whitington",
+    "birth_place": "Unley Park, South Australia",
+    "death_date": "1984",
+    "death_place": "Sydney, Australia",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "4 November",
+    "debutyear1": "1932",
+    "debutfor1": "South Australia",
+    "debutagainst1": "England (MCC)",
+    "lastdate1": "21 January",
+    "lastyear1": "1946",
+    "lastfor1": "Australian Services XI",
+    "lastagainst1": "Queensland",
+    "source": "https://cricketarchive.com/Archive/Players/16/16855/16855.html CricketArchive ",
+    "First-class": {
+        "matches": "54",
+        "runs": "2782",
+        "bat avg": "32.34",
+        "100s/50s": "4/14",
+        "top score": "155",
+        "deliveries": "128",
+        "wickets": "1",
+        "bowl avg": "91.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1932/33 \u2013 1939/40"
+    },
+    "birth_date": "1912-6-30"
+}

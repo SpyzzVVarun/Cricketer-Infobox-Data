@@ -1,0 +1,37 @@
+{
+    "name": "Arnold Townsend",
+    "country": "England",
+    "fullname": "Arnold Frederick Townsend",
+    "birth_place": "Long Eaton, Derbyshire, England",
+    "death_date": "1994",
+    "death_place": "Derby, England",
+    "batting": "Right-handed",
+    "family": "Leslie Townsend",
+    "type1": "FC",
+    "debutdate1": "29 August",
+    "debutyear1": "1934",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "28 June",
+    "lastyear1": "1950",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Players/24/24531/24531.html CricketArchive ",
+    "First-class": {
+        "matches": "117",
+        "runs": "4,327",
+        "bat avg": "23.13",
+        "100s/50s": "5/19",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1934\u20131950"
+    },
+    "birth_date": "1912-3-29"
+}

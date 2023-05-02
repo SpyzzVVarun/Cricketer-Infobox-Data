@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Klesser",
+    "female": "true",
+    "country": "South Africa",
+    "fullname": "Patricia Klesser",
+    "role": "Wicket-keeper",
+    "internationalspan": "1960\u20131961",
+    "onetest": "true",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1960",
+    "testdebutagainst": "England",
+    "testcap": "14",
+    "source": "https://cricketarchive.com/Archive/Players/17/17376/17376.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Northern Transvaal": "1951/52\u20131957/58"
+    }
+}

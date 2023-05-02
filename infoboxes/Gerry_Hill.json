@@ -1,0 +1,29 @@
+{
+    "name": "Gerry Hill",
+    "country": "England",
+    "fullname": "Gerald Hill",
+    "birth_place": "Totton, Hampshire, England",
+    "death_date": "2006",
+    "death_place": "Lyndhurst, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://www.cricinfo.com/england/content/player/14202.html Cricinfo ",
+    "FC": {
+        "matches": "371",
+        "runs": "9,085",
+        "bat avg": "18.13",
+        "100s/50s": "4/28",
+        "top score": "161",
+        "deliveries": "44,356",
+        "wickets": "617",
+        "bowl avg": "29.92",
+        "fivefor": "18",
+        "tenfor": "3",
+        "best bowling": "8/62",
+        "catches/stumpings": "169/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1932\u20131954"
+    },
+    "birth_date": "1913-4-15"
+}

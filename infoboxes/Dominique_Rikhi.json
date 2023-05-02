@@ -1,0 +1,48 @@
+{
+    "name": "Dominique Rikhi",
+    "fullname": "Dominique Omelio Darren Rikhi",
+    "birth_place": "Berbice, Guyana",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "country": "United States",
+    "internationalspan": "2021",
+    "odidebutdate": "20 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Oman",
+    "odicap": "36",
+    "source": "https://www.espncricinfo.com/player/dominique-rikhi-1276395 Cricinfo",
+    "ODI": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;/&ndash;",
+        "catches/stumpings": "1/-"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;/&ndash;",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Nepali Rhinos": "2020",
+        "New Jersey Stallions": "2021-"
+    },
+    "birth_date": "1993-03-20"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Alec Ferguson",
+    "country": "Argentina",
+    "fullname": "Alejandro Ferguson",
+    "birth_place": "Buenos Aires, Argentina",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Wicket-keeper",
+    "family": "Pablo Ferguson (brother), George Ferguson (grandfather)",
+    "T20Idebutdate": "3 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Mexico",
+    "T20Icap": "6",
+    "lastT20Idate": "4 March",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Cayman Islands",
+    "source": "http://www.espncricinfo.com/ci/content/player/23583.html Cricinfo ",
+    "T20I": {
+        "matches": "17",
+        "runs": "372",
+        "bat avg": "31.00",
+        "100s/50s": "\u2013/3",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "105",
+        "bat avg": "21.00",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "372",
+        "bat avg": "31.00",
+        "100s/50s": "\u2013/3",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1978-7-19"
+}

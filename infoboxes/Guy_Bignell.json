@@ -1,0 +1,31 @@
+{
+    "name": "Guy Bignell",
+    "country": "England",
+    "fullname": "Guy Newcombe Bignell",
+    "birth_place": "Mozufferpore, British Raj",
+    "death_date": "1965",
+    "death_place": "Lausanne, Vaud, Switzerland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Hugh Bignell (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/9091.html Cricinfo ",
+    "FC": {
+        "matches": "58",
+        "runs": "1,670",
+        "bat avg": "20.61",
+        "100s/50s": "1/5",
+        "top score": "109",
+        "deliveries": "1,452",
+        "wickets": "17",
+        "bowl avg": "44.64",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/67",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Europeans (India)": "1924",
+        "Hampshire": "1904\u20131925"
+    },
+    "birth_date": "1886-12-3"
+}

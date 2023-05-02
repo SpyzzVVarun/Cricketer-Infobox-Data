@@ -1,0 +1,42 @@
+{
+    "name": "Flooi du Toit",
+    "birth_place": "Jacobsdal, Orange Free State",
+    "death_date": "1909",
+    "death_place": "Lindley, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "country": "South Africa",
+    "testdebutdate": "19 March",
+    "testdebutyear": "1892",
+    "lasttestdate": "19 March",
+    "lasttestyear": "1892",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/44743.html Cricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "85",
+        "wickets": "1",
+        "bowl avg": "47.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/47",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "85",
+        "wickets": "1",
+        "bowl avg": "47.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/47",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {},
+    "birth_date": "1869-04-02"
+}

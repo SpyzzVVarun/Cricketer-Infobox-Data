@@ -1,0 +1,52 @@
+{
+    "name": "Peter Bowler",
+    "country": "England",
+    "fullname": "Peter Duncan Bowler",
+    "birth_place": "Plymouth, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Occasional wicket keeper",
+    "type1": "First-class",
+    "debutdate1": "2 July",
+    "debutyear1": "1986",
+    "debutfor1": "Leicestershire",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "10 September",
+    "lastyear1": "2004",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.cricinfo.com/ci/content/player/10626.html Cricinfo ",
+    "FC": {
+        "matches": "318",
+        "runs": "19567",
+        "bat avg": "40.51",
+        "100s/50s": "45/101",
+        "deliveries": "3302",
+        "wickets": "34",
+        "bowl avg": "60.32",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "232/1"
+    },
+    "List A": {
+        "matches": "322",
+        "runs": "9362",
+        "bat avg": "31.95",
+        "100s/50s": "7/72",
+        "deliveries": "653",
+        "wickets": "13",
+        "bowl avg": "40.84",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/31",
+        "catches/stumpings": "119/2"
+    },
+    "clubs": {
+        "Somerset": "1995\u20132004",
+        "Derbyshire": "1988\u20131994",
+        "Tasmania": "1986/87",
+        "Leicestershire": "1986\u20131987"
+    },
+    "birth_date": "1963-7-30"
+}

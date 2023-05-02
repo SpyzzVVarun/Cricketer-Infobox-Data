@@ -1,0 +1,50 @@
+{
+    "name": "Robiul Haque",
+    "country": "Bangladesh",
+    "fullname": "Robiul Haque",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/1123787.html Cricinfo ",
+    "FC": {
+        "matches": "22",
+        "runs": "404",
+        "bat avg": "25.25",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "deliveries": "3,445",
+        "wickets": "69",
+        "bowl avg": "21.66",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/13",
+        "catches/stumpings": "12/\u2013"
+    },
+    "LA": {
+        "matches": "42",
+        "runs": "399",
+        "bat avg": "18.13",
+        "100s/50s": "0/0",
+        "deliveries": "2,070",
+        "wickets": "76",
+        "bowl avg": "21.65",
+        "fivefor": "3",
+        "tenfor": "\u2013",
+        "best bowling": "5/33",
+        "catches/stumpings": "11/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "95",
+        "bat avg": "23.75",
+        "100s/50s": "0/0",
+        "deliveries": "321",
+        "wickets": "15",
+        "bowl avg": "33.00",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "4/22",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1999-10-28"
+}

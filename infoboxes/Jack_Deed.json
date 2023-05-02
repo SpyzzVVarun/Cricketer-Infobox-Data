@@ -1,0 +1,31 @@
+{
+    "name": "Jack Deed",
+    "country": "England",
+    "fullname": "John Arthur Deed",
+    "birth_place": "Sevenoaks, Kent",
+    "death_date": "Ide Hill, Kent",
+    "death_place": "1980",
+    "batting": "Right-handed",
+    "type1": "First-class",
+    "debutdate1": "28 May",
+    "debutyear1": "1924",
+    "debutfor1": "Kent",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "26 July",
+    "lastyear1": "1930",
+    "lastfor1": "Kent",
+    "lastagainst1": "Surrey",
+    "source": "http://www.espncricinfo.com/england/content/player/12131.html CricInfo ",
+    "First-class": {
+        "matches": "62",
+        "runs": "1,863",
+        "bat avg": "22.71",
+        "100s/50s": "2/5",
+        "top score": "133",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Kent": "1924\u20131930"
+    },
+    "birth_date": "1901-09-12"
+}

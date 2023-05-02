@@ -1,0 +1,52 @@
+{
+    "name": "Alf Dipper",
+    "country": "England",
+    "full_name": "Alfred Ernest Dipper",
+    "birth_place": "Apperley, Gloucestershire",
+    "death_date": "1945",
+    "death_place": "Lambeth, London",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "onetest": "true",
+    "testdebutdate": "11 June",
+    "testdebutyear": "1921",
+    "testdebutagainst": "Australia",
+    "testcap": "195",
+    "lasttestdate": "14 June",
+    "lasttestyear": "1921",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/398/398.html CricketArchive ",
+    "Test": {
+        "matches": "1",
+        "runs": "51",
+        "bat avg": "25.50",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "481",
+        "runs": "28,075",
+        "bat avg": "35.27",
+        "100s/50s": "53/147",
+        "deliveries": "8,894",
+        "wickets": "161",
+        "bowl avg": "30.45",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/46",
+        "catches/stumpings": "210/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire": "1908\u20131932",
+        "Players": "1926"
+    },
+    "birth_date": "1885-11-09"
+}

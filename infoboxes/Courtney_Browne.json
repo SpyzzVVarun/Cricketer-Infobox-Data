@@ -1,0 +1,26 @@
+{
+    "name": "Courtney Browne",
+    "fullname": "Courtney Oswald Browne",
+    "birth_place": "Lambeth, London, England",
+    "country": "West Indies",
+    "batting": "Right-handed",
+    "role": "Wicket keeper",
+    "source": "https://www.espncricinfo.com/player/courtney-browne-51232 Cricinfo ",
+    "Test": {
+        "matches": "20",
+        "runs": "387",
+        "bat avg": "16.12",
+        "100s/50s": "0/1",
+        "top score": "68",
+        "catches/stumpings": "79/2"
+    },
+    "ODI": {
+        "matches": "46",
+        "runs": "415",
+        "bat avg": "17.29",
+        "100s/50s": "0/0",
+        "catches/stumpings": "59/9"
+    },
+    "clubs": {},
+    "birth_date": "1970-12-07"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Frank Shacklock",
+    "country": "England",
+    "fullname": "Francis Joseph Shacklock",
+    "birth_place": "Crich, Derbyshire, England",
+    "death_date": "1937",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "type1": "FC",
+    "debutdate1": "13 September",
+    "debutyear1": "1883",
+    "debutfor1": "Nottinghamshire",
+    "debutagainst1": "MCC",
+    "lastdate1": "3 March",
+    "lastyear1": "1905",
+    "lastfor1": "Otago",
+    "lastagainst1": "Australians",
+    "source": "https://cricketarchive.com/Archive/Players/21/21295/21295.html CricketArchive ",
+    "First-class": {
+        "matches": "156",
+        "runs": "2,438",
+        "bat avg": "11.89",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "deliveries": "21,350",
+        "wickets": "497",
+        "bowl avg": "19.03",
+        "fivefor": "39",
+        "tenfor": "8",
+        "best bowling": "8/32",
+        "catches/stumpings": "92/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1886\u20131893",
+        "Derbyshire": "1884\u20131885",
+        "Otago": "1903/04\u20131904/05"
+    },
+    "birth_date": "1861-9-22"
+}

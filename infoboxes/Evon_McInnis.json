@@ -1,0 +1,43 @@
+{
+    "name": "Evon McInnis",
+    "country": "West Indies",
+    "fullname": "Evan Junior McInnis",
+    "birth_place": "St Elizabeth, Jamaica",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm Medium-fast",
+    "role": "Bowler",
+    "source": "http://content-usa.cricinfo.com/westindies/content/player/52628.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "77",
+        "bat avg": "19.25",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "648",
+        "wickets": "10",
+        "bowl avg": "30.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/71",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "63",
+        "bat avg": "12.60",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "594",
+        "wickets": "11",
+        "bowl avg": "44.63",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/42",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Jamaica": "2004",
+        "Central Districts": "2007-08"
+    },
+    "birth_date": "1980-1-2"
+}

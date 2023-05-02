@@ -1,0 +1,54 @@
+{
+    "name": "Carl Wright",
+    "country": "United States",
+    "fullname": "Carl Da Costa Wright",
+    "birth_place": "Saint Elizabeth, Cornwall, Jamaica",
+    "batting": "Right-handed",
+    "role": "Occasional wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/53278.html Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "379",
+        "bat avg": "18.95",
+        "100s/50s": "&ndash;/2",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "14/&ndash;"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "112",
+        "bat avg": "37.33",
+        "100s/50s": "&ndash;/1",
+        "top score": "90",
+        "deliveries": "36",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "T20": {
+        "matches": "3",
+        "runs": "92",
+        "bat avg": "30.66",
+        "100s/50s": "&ndash;/1",
+        "top score": "62",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/1"
+    },
+    "clubs": {
+        "Jamaica": "1998&ndash;2000"
+    },
+    "birth_date": "1977-9-17"
+}

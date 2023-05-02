@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Alfred Holt",
+    "birth_place": "City of London, England",
+    "death_date": "df=yes",
+    "death_place": "Battersea, London, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/14921.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "39",
+        "bat avg": "9.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "31",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1883"
+    }
+}

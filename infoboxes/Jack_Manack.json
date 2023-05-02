@@ -1,0 +1,43 @@
+{
+    "name": "Jack Manack",
+    "country": "South Africa",
+    "fullname": "Abdulhack Ahmed Manack",
+    "birth_place": "Vereeniging, Transvaal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/3/3100/3100.html CricketArchive ",
+    "First-class": {
+        "matches": "48",
+        "runs": "996",
+        "bat avg": "17.47",
+        "100s/50s": "0/4",
+        "top score": "83",
+        "deliveries": "8,548",
+        "wickets": "211",
+        "bowl avg": "16.55",
+        "fivefor": "12",
+        "tenfor": "1",
+        "best bowling": "7/17",
+        "catches/stumpings": "25/\u2013"
+    },
+    "List A": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1983/84\u20131992/93",
+        "Western Province": "1989/90"
+    },
+    "birth_date": "1967-8-21"
+}

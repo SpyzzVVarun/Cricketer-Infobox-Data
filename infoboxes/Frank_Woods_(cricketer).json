@@ -1,0 +1,29 @@
+{
+    "name": "Frank Woods",
+    "country": "New Zealand",
+    "fullname": "Francis Woods",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1951",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38895.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "619",
+        "bat avg": "25.79",
+        "100s/50s": "1/2",
+        "deliveries": "16",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/3"
+    },
+    "clubs": {
+        "Canterbury": "1913-14 to 1926-27"
+    },
+    "birth_date": "1889-1-28"
+}

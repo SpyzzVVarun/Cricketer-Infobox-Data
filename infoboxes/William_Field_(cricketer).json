@@ -1,0 +1,32 @@
+{
+    "name": "William Field",
+    "fullname": "William Field",
+    "birth_place": "Port Dalrymple, Tasmania, Australia",
+    "death_date": "1890",
+    "death_place": "Bishopsbourne, Tasmania, Australia",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "11 February",
+    "debutyear1": "1851",
+    "debutfor1": "Tasmania",
+    "debutagainst1": "Victoria",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/2/2510/2510.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.5",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "12",
+        "wickets": "1",
+        "bowl avg": "9.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1851"
+    },
+    "birth_date": "1816-3-17"
+}

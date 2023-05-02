@@ -1,0 +1,24 @@
+{
+    "name": "Ernest Hayter",
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.cricinfo.com/ci/content/player/14113.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "36",
+        "bat avg": "7.20",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "66",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1935 and 1937"
+    }
+}

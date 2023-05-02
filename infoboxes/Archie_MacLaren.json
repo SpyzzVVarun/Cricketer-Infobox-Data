@@ -1,0 +1,54 @@
+{
+    "name": "Archie MacLaren",
+    "country": "England",
+    "fullname": "Archibald Campbell MacLaren",
+    "nickname": "Archie",
+    "birth_place": "Whalley Range, Manchester, Lancashire, England",
+    "death_date": "1944",
+    "death_place": "Warfield, Berkshire, England",
+    "batting": "Right-handed",
+    "family": [
+        "James MacLaren (brother)",
+        "Geoffrey MacLaren (brother)"
+    ],
+    "testdebutdate": "14 December",
+    "testdebutyear": "1894",
+    "testdebutagainst": "Australia",
+    "testcap": "92",
+    "lasttestdate": "11 August",
+    "lasttestyear": "1909",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/england/content/player/16871.html ESPNCricinfo ",
+    "Test": {
+        "matches": "35",
+        "runs": "1,931",
+        "bat avg": "33.87",
+        "100s/50s": "5/8",
+        "top score": "140",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "29/\u2013"
+    },
+    "First-class": {
+        "matches": "424",
+        "runs": "22,236",
+        "bat avg": "34.15",
+        "100s/50s": "47/95",
+        "top score": "424",
+        "deliveries": "321",
+        "wickets": "1",
+        "bowl avg": "267.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/44",
+        "catches/stumpings": "452/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1890\u20131914"
+    },
+    "birth_date": "1871-12-1"
+}

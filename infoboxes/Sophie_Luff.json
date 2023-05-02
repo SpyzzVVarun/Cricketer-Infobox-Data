@@ -1,0 +1,45 @@
+{
+    "name": "Sophie Luff",
+    "female": "true",
+    "full_name": "Sophie Natasha Luff",
+    "birth_place": "Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/354/354146/354146.html CricketArchive ",
+    "WLA": {
+        "matches": "100",
+        "runs": "3,415",
+        "bat avg": "46.14",
+        "100s/50s": "7/20",
+        "deliveries": "296",
+        "wickets": "2",
+        "bowl avg": "130.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/27",
+        "catches/stumpings": "32/\u2013"
+    },
+    "WT20": {
+        "matches": "137",
+        "runs": "2,410",
+        "bat avg": "28.69",
+        "100s/50s": "0/10",
+        "top score": "78",
+        "deliveries": "197",
+        "wickets": "8",
+        "bowl avg": "29.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/12",
+        "catches/stumpings": "42/\u2013"
+    },
+    "clubs": {
+        "Somerset": "2009\u2013present",
+        "Western Storm( 63 )": "2016\u2013present",
+        "Welsh Fire": "2021",
+        "London Spirit": "2022\u2013present",
+        "New South Wales": "2022/23\u2013present"
+    },
+    "birth_date": "1993-12-06"
+}

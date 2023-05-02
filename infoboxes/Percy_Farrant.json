@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Percy Robert Farrant",
+    "birth_place": "Llandudno, Caernarvonshire,, Wales",
+    "death_date": "df=yes",
+    "death_place": "at sea aboard Ortega,, off the Maldives",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/13003.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "12",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "30.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1890"
+    }
+}

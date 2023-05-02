@@ -1,0 +1,29 @@
+{
+    "name": "Richard Bernard",
+    "fullname": "John Richard Bernard",
+    "birth_place": "Bristol, England",
+    "death_date": "1998",
+    "death_place": "Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/england/content/player/9712.html Cricinfo ",
+    "FC": {
+        "matches": "56",
+        "runs": "1891",
+        "bat avg": "22.78",
+        "100s/50s": "1/10",
+        "deliveries": "3269",
+        "wickets": "35",
+        "bowl avg": "48.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/44",
+        "catches/stumpings": "28/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1956\u20131961",
+        "Cambridge University": "1958\u20131960"
+    },
+    "birth_date": "1938-12-7"
+}

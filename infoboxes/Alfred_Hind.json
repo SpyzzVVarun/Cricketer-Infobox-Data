@@ -1,0 +1,30 @@
+{
+    "name": "Alfred Hind",
+    "country": "England",
+    "fullname": "Alfred Ernest Hind",
+    "birth_place": "Preston, Lancashire, England",
+    "death_date": "1947",
+    "death_place": "Oadby, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/30/30263/30263.html CricketArchive ",
+    "First-class": {
+        "matches": "37",
+        "runs": "681",
+        "bat avg": "14.18",
+        "100s/50s": "0/3",
+        "deliveries": "5,494",
+        "wickets": "80",
+        "bowl avg": "26.85",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/30",
+        "catches/stumpings": "37/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1898\u20131901",
+        "Nottinghamshire": "1901"
+    },
+    "birth_date": "1878-4-7"
+}

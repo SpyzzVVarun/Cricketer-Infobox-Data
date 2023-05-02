@@ -1,0 +1,30 @@
+{
+    "name": "Chris Davies",
+    "country": "Australia",
+    "fullname": "Christopher James Davies",
+    "birth_place": "Bedford Park, South Australia, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/7/7123/7123.html CricketArchive ",
+    "First-class": {
+        "matches": "25",
+        "runs": "1,266",
+        "bat avg": "28.13",
+        "100s/50s": "2/7",
+        "top score": "125",
+        "catches/stumpings": "8/0"
+    },
+    "List A": {
+        "matches": "38",
+        "runs": "970",
+        "bat avg": "26.94",
+        "100s/50s": "1/5",
+        "top score": "125",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "South Australia": "1997/98\u20132003/04"
+    },
+    "birth_date": "1978-11-15"
+}

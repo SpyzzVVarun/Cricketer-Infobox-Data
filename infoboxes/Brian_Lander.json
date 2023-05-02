@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Brian Richard Lander",
+    "birth_place": "Bishop Auckland,, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16715.html Cricinfo ",
+    "List A": {
+        "matches": "26",
+        "runs": "122",
+        "bat avg": "6.77",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "28",
+        "deliveries": "1,402",
+        "wickets": "25",
+        "bowl avg": "34.36",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/15",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties East": "1976&ndash;1978",
+        "Minor Counties North": "1973&ndash;1974",
+        "Durham": "1963&ndash;1986"
+    },
+    "birth_date": "1942-1-9"
+}

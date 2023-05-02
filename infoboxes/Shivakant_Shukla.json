@@ -1,0 +1,51 @@
+{
+    "name": "Shivakant Shukla",
+    "fullname": "Shivakant Shivprasad Shukla",
+    "birth_place": "Allahabad, India",
+    "source": "http://www.espncricinfo.com/ci/content/player/34017.html Cricinfo ",
+    "FC": {
+        "matches": "83",
+        "runs": "4189",
+        "bat avg": "30.35",
+        "100s/50s": "7/19",
+        "deliveries": "1959",
+        "wickets": "26",
+        "bowl avg": "41.23",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "87/0"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "909",
+        "bat avg": "27.54",
+        "100s/50s": "1/4",
+        "deliveries": "215",
+        "wickets": "7",
+        "bowl avg": "25.28",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/20",
+        "catches/stumpings": "7"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "32",
+        "bat avg": "6.40",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Uttar Pradesh": "2003\u20132010",
+        "Railways": "2011\u20132018"
+    },
+    "birth_date": "1986-1-26"
+}

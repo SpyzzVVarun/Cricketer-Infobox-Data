@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Lionel George Brown",
+    "birth_place": "Ancaster, Lincolnshire, England",
+    "death_date": "1938",
+    "death_place": "Chapel and Hill Chorlton, Staffordshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/10063.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1895\u20131900",
+        "Berkshire": "1901",
+        "Oxford University": "1892"
+    },
+    "birth_date": "1872-4-24"
+}

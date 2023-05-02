@@ -1,0 +1,44 @@
+{
+    "country": "England",
+    "fullname": "Maurice Alfred Crouch",
+    "birth_place": "Wisbech, Cambridgeshire, England",
+    "death_date": "2001",
+    "death_place": "Morocco",
+    "batting": "Right-handed",
+    "family": "David Fairey (son-in-law)",
+    "source": "http://www.cricinfo.com/ci/content/player/11458.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "205",
+        "bat avg": "29.28",
+        "100s/50s": "\u2013/1",
+        "top score": "81",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "28",
+        "bat avg": "28.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Minor Counties": "1951",
+        "Marylebone Cricket Club": "1950\u20131951",
+        "Cambridgeshire": "1936\u20131963"
+    },
+    "birth_date": "1917-8-9"
+}

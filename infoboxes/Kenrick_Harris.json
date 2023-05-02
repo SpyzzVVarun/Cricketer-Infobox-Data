@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Kenrick Henry Harris",
+    "birth_place": "Newport, Monmouthshire, Wales",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/14562.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "14",
+        "bat avg": "14.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "14",
+        "deliveries": "270",
+        "wickets": "6",
+        "bowl avg": "22.50",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "6/112",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Wales": "1925",
+        "Monmouthshire": "1921&ndash;1931",
+        "Glamorgan": "1913"
+    },
+    "birth_date": "1885-11-15"
+}

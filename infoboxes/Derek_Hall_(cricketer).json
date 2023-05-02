@@ -1,0 +1,37 @@
+{
+    "name": "Derek Hall",
+    "country": "England",
+    "fullname": "Derek Hall",
+    "birth_place": "Bolsover, England",
+    "death_date": "1983",
+    "death_place": "San Jose, California, USA",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "type1": "FC",
+    "debutdate1": "13 July",
+    "debutyear1": "1955",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "10 May",
+    "lastyear1": "1958",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Players/29/29885/29885.html CricketArchive ",
+    "First-class": {
+        "matches": "20",
+        "runs": "43",
+        "bat avg": "3.30",
+        "100s/50s": "0/0",
+        "deliveries": "2,808",
+        "wickets": "48",
+        "bowl avg": "28.97",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/57",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1955\u20131958"
+    },
+    "birth_date": "1932-2-21"
+}

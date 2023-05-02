@@ -1,0 +1,27 @@
+{
+    "country": "Sri Lanka",
+    "fullname": "Thomas Edward Tweed",
+    "birth_place": "Colombo, Western Province, British Ceylon",
+    "death_date": "1973",
+    "death_place": "Colombo, Western Province,, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17286.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "97",
+        "bat avg": "19.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "360",
+        "wickets": "5",
+        "bowl avg": "35.40",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/30",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1925&ndash;1926"
+    }
+}

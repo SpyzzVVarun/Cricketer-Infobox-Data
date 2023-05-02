@@ -1,0 +1,30 @@
+{
+    "name": "William Carlton",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "1959",
+    "death_place": "Melbourne, Australia",
+    "family": "Tom Carlton (nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "source": "http://www.espncricinfo.com/australia/content/player/4724.html Cricinfo ",
+    "First-class": {
+        "matches": "19",
+        "runs": "727",
+        "bat avg": "23.45",
+        "100s/50s": "0/6",
+        "top score": "88 not out",
+        "deliveries": "952",
+        "wickets": "27",
+        "bowl avg": "26.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1898-99 to 1913-14",
+        "Auckland": "1899-1900",
+        "Canterbury": "1909-10 to 1911-12"
+    },
+    "birth_date": "1876-5-22"
+}

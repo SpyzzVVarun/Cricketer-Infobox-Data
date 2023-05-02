@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Alan Frederick Gofton",
+    "birth_place": "Chesterfield, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/13389.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "281",
+        "bat avg": "17.56",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,191",
+        "wickets": "11",
+        "bowl avg": "73.36",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/41",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "38.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/76",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Derbyshire Cricket Board": "2000",
+        "Oxford University": "1999-2002"
+    },
+    "birth_date": "1979-10-4"
+}

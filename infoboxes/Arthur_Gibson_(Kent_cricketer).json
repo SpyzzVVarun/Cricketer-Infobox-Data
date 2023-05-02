@@ -1,0 +1,26 @@
+{
+    "name": "Arthur Gibson",
+    "fullname": "Arthur Cracroft Gibson",
+    "birth_place": "Sittingbourne, Kent",
+    "death_date": "1895",
+    "death_place": "Whitehill, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13599.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "35",
+        "bat avg": "5.83",
+        "100s/50s": "0/0",
+        "deliveries": "68",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Kent": "1883\u20131884"
+    }
+}

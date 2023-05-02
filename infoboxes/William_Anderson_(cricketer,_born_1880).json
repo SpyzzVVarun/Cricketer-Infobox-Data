@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "William Henniker Anderson",
+    "birth_place": "Rawalpindi, Punjab, British India",
+    "death_date": "1958",
+    "death_place": "Maidenhead, Berkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/26409.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "8.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "150",
+        "wickets": "2",
+        "bowl avg": "44.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/33",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1912/13"
+    }
+}

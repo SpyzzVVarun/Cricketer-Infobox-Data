@@ -1,0 +1,52 @@
+{
+    "name": "Andy Hayhurst",
+    "country": "England",
+    "fullname": "Andrew Neil Hayhurst",
+    "birth_place": "Manchester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm Medium",
+    "role": "All-rounder",
+    "type1": "First-class",
+    "debutdate1": "14 September",
+    "debutyear1": "1985",
+    "debutfor1": "Lancashire",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "23 April",
+    "lastyear1": "1997",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Kent",
+    "source": "http://www.cricinfo.com/ci/content/player/14109.html Cricinfo ",
+    "First-class": {
+        "matches": "166",
+        "runs": "7825",
+        "bat avg": "33.87",
+        "100s/50s": "14/40",
+        "deliveries": "8961",
+        "wickets": "110",
+        "bowl avg": "45.37",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "56/\u2013"
+    },
+    "List A": {
+        "matches": "182",
+        "runs": "3617",
+        "bat avg": "29.40",
+        "100s/50s": "0/21",
+        "top score": "95",
+        "deliveries": "5013",
+        "wickets": "136",
+        "bowl avg": "29.53",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "5/60",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1997",
+        "Somerset": "1990\u20131996",
+        "Lancashire": "1983\u20131989"
+    },
+    "birth_date": "1962-11-23"
+}

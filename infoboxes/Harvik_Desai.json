@@ -1,0 +1,37 @@
+{
+    "name": "Harvik Desai",
+    "country": "India",
+    "fullname": "Harvik Manishbhai Desai",
+    "birth_place": "Bhavnagar, Gujarat, India",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/1070195.html ESPNcricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "979",
+        "bat avg": "37.65",
+        "100s/50s": "1/8",
+        "top score": "116",
+        "catches/stumpings": "25/0"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "139",
+        "bat avg": "15.44",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "8/1"
+    },
+    "T20": {
+        "matches": "13",
+        "runs": "210",
+        "bat avg": "17.50",
+        "100s/50s": "0/1",
+        "top score": "56",
+        "catches/stumpings": "12/2"
+    },
+    "clubs": {
+        "Saurashtra": "2018\u2013present"
+    },
+    "birth_date": "1999-10-4"
+}

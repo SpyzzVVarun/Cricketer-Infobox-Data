@@ -1,0 +1,41 @@
+{
+    "name": "Bob Carter",
+    "country": "England",
+    "fullname": "Robert George Mallaby Carter",
+    "birth_place": "Horden, County Durham, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/28/28450/28450.html CricketArchive ",
+    "FC": {
+        "matches": "178",
+        "runs": "324",
+        "bat avg": "4.62",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "29,149",
+        "wickets": "523",
+        "bowl avg": "26.22",
+        "fivefor": "17",
+        "tenfor": "2",
+        "best bowling": "7/61",
+        "catches/stumpings": "55/0"
+    },
+    "LA": {
+        "matches": "49",
+        "runs": "20",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "deliveries": "2,329",
+        "wickets": "63",
+        "bowl avg": "22.93",
+        "fivefor": "1",
+        "tenfor": "N/A",
+        "best bowling": "5/27",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Worcestershire": "1961\u20131972",
+        "Marylebone Cricket Club (MCC)": "1973"
+    },
+    "birth_date": "1937-7-11"
+}

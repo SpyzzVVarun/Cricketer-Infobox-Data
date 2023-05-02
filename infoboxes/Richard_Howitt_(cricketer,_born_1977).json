@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Richard William John Howitt",
+    "birth_place": "Grantham, Lincolnshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/14285.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "274",
+        "bat avg": "34.25",
+        "100s/50s": "1/1",
+        "deliveries": "360",
+        "wickets": "4",
+        "bowl avg": "63.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/54",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "155",
+        "bat avg": "17.22",
+        "100s/50s": "\u2013/1",
+        "top score": "52",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "83.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/33",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "2005\u20132008",
+        "Berkshire": "2003\u20132004",
+        "Cambridge University": "2000",
+        "Lincolnshire": "1999\u20132002"
+    },
+    "birth_date": "1977-8-17"
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Neil James Longhurst",
+    "birth_place": "Rotherham, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/16855.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "61",
+        "bat avg": "20.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Durham UCCE": "2004"
+    },
+    "birth_date": "1984-11-21"
+}

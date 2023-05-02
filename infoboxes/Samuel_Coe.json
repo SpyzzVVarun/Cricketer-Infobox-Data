@@ -1,0 +1,30 @@
+{
+    "name": "Samuel Coe",
+    "country": "England",
+    "fullname": "Samuel Coe",
+    "birth_place": "Earl Shilton, Leicestershire, England",
+    "death_date": "1955",
+    "death_place": "Earl Shilton",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm slow-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11210.html Cricinfo ",
+    "First-class": {
+        "matches": "452",
+        "runs": "17438",
+        "bat avg": "24.69",
+        "100s/50s": "19/82",
+        "top score": "252 not out",
+        "deliveries": "22448",
+        "wickets": "335",
+        "bowl avg": "32.20",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/38",
+        "catches/stumpings": "176/0"
+    },
+    "clubs": {
+        "Leicestershire": "1896 to 1923",
+        "London County": "1900 to 1904"
+    },
+    "birth_date": "1873-6-3"
+}

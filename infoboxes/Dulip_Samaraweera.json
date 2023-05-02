@@ -1,0 +1,41 @@
+{
+    "name": "Dulip Samaraweera",
+    "country": "Sri Lanka",
+    "fullname": "Dulip Prasanna Samaraweera",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "internationalspan": "1993\u20131995",
+    "testdebutdate": "8 December",
+    "testdebutyear": "1993",
+    "testdebutagainst": "West Indies",
+    "testcap": "60",
+    "lasttestdate": "18 March",
+    "lasttestyear": "1995",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "3 November",
+    "odidebutyear": "1993",
+    "odidebutagainst": "West Indies",
+    "odicap": "73",
+    "lastodidate": "20 February",
+    "lastodiyear": "1994",
+    "lastodiagainst": "India",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50422.html Cricinfo ",
+    "Test": {
+        "matches": "7",
+        "runs": "211",
+        "bat avg": "15.07",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "5/\u2013"
+    },
+    "ODI": {
+        "matches": "5",
+        "runs": "91",
+        "bat avg": "22.75",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1972-02-12"
+}

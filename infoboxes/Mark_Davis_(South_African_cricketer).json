@@ -1,0 +1,56 @@
+{
+    "name": "Mark Davis",
+    "country": "England",
+    "fullname": "Mark Jeffrey Gronow Davis",
+    "birth_place": "Port Elizabeth, South Africa",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/3/3963/3963.html CricketArchive ",
+    "FC": {
+        "matches": "127",
+        "runs": "2,941",
+        "bat avg": "18.73",
+        "100s/50s": "2/8",
+        "top score": "168",
+        "deliveries": "18,475",
+        "wickets": "232",
+        "bowl avg": "36.06",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "8/37",
+        "catches/stumpings": "68/\u2013"
+    },
+    "LA": {
+        "matches": "160",
+        "runs": "946",
+        "bat avg": "17.20",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "7,294",
+        "wickets": "142",
+        "bowl avg": "37.43",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/14",
+        "catches/stumpings": "34/\u2013"
+    },
+    "T20": {
+        "matches": "17",
+        "runs": "78",
+        "bat avg": "19.60",
+        "100s/50s": "0/0",
+        "deliveries": "276",
+        "wickets": "13",
+        "bowl avg": "26.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/13",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Northern Transvaal": "1990/91\u20131996/97",
+        "Northerns": "1997/98\u20131999/00",
+        "Sussex": "2001\u20132005"
+    },
+    "birth_date": "1971-10-10"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "John Maude",
+    "country": "England",
+    "birth_place": "York, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Oberhofen, Bern, Switzerland",
+    "batting": "Unknown",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17441.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "25",
+        "bat avg": "6.25",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "844",
+        "wickets": "23",
+        "bowl avg": "11.08",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/14",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1873",
+        "Oxford University": "1873"
+    }
+}

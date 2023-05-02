@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Marratt Taylor",
+    "birth_place": "Sunninghill, Berkshire, England",
+    "death_date": "1911 (aged 91/92)",
+    "death_place": "High Wycombe, Buckinghamshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/22052.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "154",
+        "wickets": "2",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1844"
+    }
+}

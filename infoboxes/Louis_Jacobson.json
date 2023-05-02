@@ -1,0 +1,22 @@
+{
+    "name": "Louis Jacobson",
+    "country": "Ireland",
+    "fullname": "Louis Collins Jacobson",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26789/26789.html CricketArchive ",
+    "FC": {
+        "matches": "4",
+        "runs": "153",
+        "bat avg": "30.60",
+        "100s/50s": "1/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1948\u20131952"
+    },
+    "birth_date": "1918-01-26"
+}

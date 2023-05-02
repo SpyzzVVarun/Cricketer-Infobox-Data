@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Arthur Horace Lang",
+    "birth_place": "Bombay, Bombay Presidency, British Raj",
+    "death_date": "1915",
+    "death_place": "Missing in action near Cuinchy, Nord-Pas-de-Calais, France",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/16450.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "830",
+        "bat avg": "22.43",
+        "100s/50s": "2/2",
+        "top score": "141",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "17/16"
+    },
+    "clubs": {
+        "Cambridge University": "1912&ndash;1913",
+        "Sussex": "1911&ndash;1913",
+        "Suffolk": "1907&ndash;1911"
+    }
+}

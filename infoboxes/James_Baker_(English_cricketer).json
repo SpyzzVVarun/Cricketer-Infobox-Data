@@ -1,0 +1,29 @@
+{
+    "name": "James Baker",
+    "full_name": "James Bray Baker",
+    "birth_place": "Hailsham, Sussex",
+    "death_date": "30 January 1839",
+    "death_place": "Hailsham, Sussex",
+    "type1": "FC",
+    "debutdate1": "29 July",
+    "debutyear1": "1816",
+    "debutfor1": "Sussex XI",
+    "debutagainst1": "Epsom",
+    "lastdate1": "21 July",
+    "lastyear1": "1828",
+    "lastfor1": "Sussex XI",
+    "lastagainst1": "England XI",
+    "source": "https://www.espncricinfo.com/player/james-baker-10339 CricInfo",
+    "First-class": {
+        "matches": "15",
+        "runs": "219",
+        "bat avg": "8.42",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Sussex XI": "1816\u20131828",
+        "Kent XI": "1825\u20131826"
+    }
+}

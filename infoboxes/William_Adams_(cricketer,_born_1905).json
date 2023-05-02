@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "William John Mailer Adams",
+    "birth_place": "Edmonton, Middlesex, England",
+    "death_date": "1971",
+    "death_place": "Watford, Hertfordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/26399.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "557",
+        "wickets": "10",
+        "bowl avg": "25.00",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1936/37&ndash;1937/38",
+        "Madras": "1936/37"
+    }
+}

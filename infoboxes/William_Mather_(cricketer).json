@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Adams Mather",
+    "birth_place": "Newcastle upon Tyne,, Northumberland, England",
+    "death_date": "25 May 1864 (aged 33)",
+    "death_place": "Marylebone, Middlesex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/17849.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1853"
+    }
+}

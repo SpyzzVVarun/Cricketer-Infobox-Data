@@ -1,0 +1,37 @@
+{
+    "name": "Roger Knight",
+    "country": "England",
+    "fullname": "Roger David Verdon Knight",
+    "birth_place": "Streatham, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15915.html Cricinfo ",
+    "First-class": {
+        "matches": "387",
+        "runs": "19,558",
+        "bat avg": "32.00",
+        "100s/50s": "31/114",
+        "deliveries": "27,701",
+        "wickets": "369",
+        "bowl avg": "36.13",
+        "fivefor": "4",
+        "tenfor": "&ndash;",
+        "best bowling": "6/44",
+        "catches/stumpings": "295/&ndash;"
+    },
+    "List A": {
+        "matches": "310",
+        "runs": "6,915",
+        "bat avg": "26.09",
+        "100s/50s": "4/40",
+        "top score": "127",
+        "deliveries": "11,536",
+        "wickets": "297",
+        "bowl avg": "26.56",
+        "fivefor": "2",
+        "best bowling": "5/39",
+        "catches/stumpings": "84/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1946-9-6"
+}

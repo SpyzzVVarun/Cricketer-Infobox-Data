@@ -1,0 +1,41 @@
+{
+    "name": "George Thompson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "27 May",
+    "testdebutyear": "1909",
+    "lasttestdate": "14 March",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1910",
+    "source": "http://content-uk.cricinfo.com/england/content/player/21528.html CricInfo",
+    "Test": {
+        "matches": "6",
+        "runs": "273",
+        "bat avg": "30.33",
+        "100s/50s": "0/2",
+        "top score": "63",
+        "deliveries": "1,367",
+        "wickets": "23",
+        "bowl avg": "27.73",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/50",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "352",
+        "runs": "12,018",
+        "bat avg": "22.01",
+        "100s/50s": "9/53",
+        "deliveries": "63,988",
+        "wickets": "1,591",
+        "bowl avg": "18.89",
+        "fivefor": "147",
+        "tenfor": "40",
+        "best bowling": "9/63",
+        "catches/stumpings": "252/\u2013"
+    },
+    "clubs": {}
+}

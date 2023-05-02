@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Roger Douglas Hudson",
+    "birth_place": "Selly Oak, Birmingham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/14288.html Cricinfo ",
+    "FC": {
+        "matches": "11",
+        "runs": "202",
+        "bat avg": "11.22",
+        "100s/50s": "&ndash;/1",
+        "top score": "62",
+        "deliveries": "246",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Huntingdonshire": "1999",
+        "Oxford University": "1997"
+    },
+    "birth_date": "1967-6-8"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Stuart Karppinen",
+    "country": "Australia",
+    "fullname": "Stuart James Karppinen",
+    "birth_place": "Townsville, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Players/6/6411/6411.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "22",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "558",
+        "wickets": "11",
+        "bowl avg": "29.45",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/110",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "18",
+        "runs": "101",
+        "bat avg": "12.62",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "806",
+        "wickets": "14",
+        "bowl avg": "44.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/35",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Australian Capital Territory": "1997/98",
+        "Western Australia": "1999/00\u20132002/03"
+    },
+    "birth_date": "1973-6-13"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Munokoa Tunupopo",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Munokoa Fellesite Tunupopo",
+    "birth_place": "Tokoroa, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "internationalspan": "2000",
+    "odidebutdate": "17 February",
+    "odidebutyear": "2000",
+    "odidebutagainst": "England",
+    "odicap": "81",
+    "lastodidate": "22 February",
+    "lastodiyear": "2000",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/10/10406/10406.html CricketArchive",
+    "WODI": {
+        "matches": "3",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "108",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WLA": {
+        "matches": "39",
+        "runs": "8",
+        "bat avg": "1.33",
+        "100s/50s": "0/0",
+        "deliveries": "1,760",
+        "wickets": "50",
+        "bowl avg": "19.92",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/19",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1998/99\u20132000/01"
+    },
+    "birth_date": "1984-2-23"
+}

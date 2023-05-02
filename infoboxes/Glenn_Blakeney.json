@@ -1,0 +1,42 @@
+{
+    "name": "Glenn Blakeney",
+    "country": "Bermuda",
+    "fullname": "Glenn Blakeney",
+    "birth_place": "Bermuda",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "6 April",
+    "odidebutyear": "2009",
+    "odidebutagainst": "Kenya",
+    "odicap": "36",
+    "lastodidate": "8 April",
+    "lastodiyear": "2009",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/23758.html ESPNcricinfo ",
+    "ODI": {
+        "matches": "2",
+        "runs": "72",
+        "bat avg": "36.00",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "0/0"
+    },
+    "FC": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "1/0"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "165",
+        "bat avg": "41.25",
+        "100s/50s": "0/1",
+        "top score": "68",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {},
+    "birth_date": "1973-02-22"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Albert Southwood",
+    "country": "England",
+    "fullname": "Albert Henry Howard Southwood",
+    "birth_place": "Taunton, Somerset, England",
+    "death_date": "1965",
+    "death_place": "Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "14 August",
+    "debutyear1": "1911",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Kent",
+    "lastdate1": "28 June",
+    "lastyear1": "1913",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3823/3823.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "96",
+        "bat avg": "16.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "33",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1911&ndash;13"
+    },
+    "birth_date": "1882-7-19"
+}

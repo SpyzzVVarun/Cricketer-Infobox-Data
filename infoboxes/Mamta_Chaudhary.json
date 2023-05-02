@@ -1,0 +1,28 @@
+{
+    "name": "Mamta Chaudhary",
+    "country": "Nepal",
+    "fullname": "Mamta Chaudhary",
+    "female": "true",
+    "birth_place": "Nepal",
+    "batting": "Right-hand bat",
+    "role": "Middle-order batswoman",
+    "T20Idebutdate": "13 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Malaysia",
+    "T20Icap": "12",
+    "lastT20Idate": "24 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "UAE",
+    "source": "http://www.espncricinfo.com/ci/content/player/587167.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1998-09-27",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

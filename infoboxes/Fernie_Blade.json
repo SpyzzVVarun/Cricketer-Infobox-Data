@@ -1,0 +1,32 @@
+{
+    "name": "Fernie Blade",
+    "female": "yes",
+    "country": "Australia",
+    "fullname": "Fernie Leone Shevill",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "family": "Rene Shevill (twin sister)",
+    "onetest": "true",
+    "testdebutdate": "28 December",
+    "testdebutyear": "1934",
+    "testdebutagainst": "England",
+    "testcap": "11",
+    "source": "http://www.espncricinfo.com/australia/content/player/53482.html Cricinfo ",
+    "WTest": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "New South Wales women's cricket team": "1934/35"
+    }
+}

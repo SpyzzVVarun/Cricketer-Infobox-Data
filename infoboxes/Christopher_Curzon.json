@@ -1,0 +1,42 @@
+{
+    "name": "Christopher Curzon",
+    "country": "England",
+    "fullname": "Christopher Colin Curzon",
+    "birth_place": "Lenton, Nottingham, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "When When intoxicated",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/10898.html Cricinfo ",
+    "FC": {
+        "matches": "18",
+        "runs": "307",
+        "bat avg": "17.05",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "32/3"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "82",
+        "bat avg": "20.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/1"
+    },
+    "clubs": {
+        "Hampshire": "1981",
+        "Nottinghamshire": "1978\u20131980"
+    },
+    "birth_date": "1958-12-22"
+}

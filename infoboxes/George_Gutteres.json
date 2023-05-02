@@ -1,0 +1,21 @@
+{
+    "name": "George Gutteres",
+    "country": "England",
+    "fullname": "George Gilbert Gutteres",
+    "birth_place": "Kensington, London, England",
+    "death_date": "1898",
+    "death_place": "Algiers, French Algeria",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/13494.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "111",
+        "bat avg": "37.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1881",
+        "Hampshire": "1882"
+    }
+}

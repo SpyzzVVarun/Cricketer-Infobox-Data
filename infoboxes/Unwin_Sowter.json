@@ -1,0 +1,29 @@
+{
+    "name": "Unwin Sowter",
+    "country": "England",
+    "birth_place": "Derby, England",
+    "death_date": "1910",
+    "death_place": "Derby, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "26 May",
+    "debutyear1": "1871",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "5 June",
+    "lastyear1": "1876",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Hampshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32941/32941.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "128",
+        "bat avg": "12.80",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1871\u20131876"
+    },
+    "birth_date": "1839-4-22"
+}

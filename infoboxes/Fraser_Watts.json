@@ -1,0 +1,52 @@
+{
+    "name": "Fraser Watts",
+    "country": "Scotland",
+    "fullname": "David Fraser Watts",
+    "birth_place": "King's Lynn, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "odidebutdate": "6 August",
+    "odidebutyear": "2006",
+    "odidebutagainst": "Netherlands",
+    "odicap": "26",
+    "lastodidate": "28 August",
+    "lastodiyear": "2009",
+    "lastodiagainst": "Australia",
+    "odishirt": "12",
+    "source": "https://cricketarchive.com/Archive/Players/8/8175/8175.html CricketArchive ",
+    "ODI": {
+        "matches": "36",
+        "runs": "974",
+        "bat avg": "28.64",
+        "100s/50s": "1/9",
+        "top score": "101",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20I": {
+        "matches": "11",
+        "runs": "137",
+        "bat avg": "15.22",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "6/\u2013"
+    },
+    "FC": {
+        "matches": "21",
+        "runs": "942",
+        "bat avg": "28.54",
+        "100s/50s": "2/4",
+        "top score": "146",
+        "catches/stumpings": "13/\u2013"
+    },
+    "LA": {
+        "matches": "137",
+        "runs": "2,732",
+        "bat avg": "22.39",
+        "100s/50s": "1/15",
+        "top score": "101",
+        "catches/stumpings": "26/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1979-6-5"
+}

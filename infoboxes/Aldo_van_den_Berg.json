@@ -1,0 +1,45 @@
+{
+    "name": "Aldo van den Berg",
+    "country": "South Africa",
+    "fullname": "Adolf Matthys van den Berg",
+    "birth_place": "Randfontein, Transvaal,, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/47680.html ESPNCricinfo ",
+    "FC": {
+        "matches": "34",
+        "runs": "1,349",
+        "bat avg": "22.86",
+        "100s/50s": "2/6",
+        "top score": "103",
+        "deliveries": "3,448",
+        "wickets": "50",
+        "bowl avg": "33.32",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/49",
+        "catches/stumpings": "15/\u2013"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "283",
+        "bat avg": "14.15",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "deliveries": "868",
+        "wickets": "22",
+        "bowl avg": "30.40",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/36",
+        "catches/stumpings": "6/1"
+    },
+    "clubs": {
+        "Gauteng": "1997\u20131999",
+        "South Africa Academy": "1999",
+        "Easterns": "1999\u20132006",
+        "Mpumalanga": "2006\u20132007"
+    },
+    "birth_date": "1978-3-9"
+}

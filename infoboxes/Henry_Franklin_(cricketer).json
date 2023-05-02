@@ -1,0 +1,28 @@
+{
+    "name": "Henry Franklin",
+    "fullname": "Henry William Fernehough Franklin",
+    "birth_place": "Ford End, Essex, England",
+    "death_date": "1985",
+    "death_place": "Worthing, Sussex, England",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/12903.html Cricinfo ",
+    "FC": {
+        "matches": "92",
+        "runs": "2212",
+        "bat avg": "19.23",
+        "100s/50s": "2/-",
+        "top score": "106",
+        "deliveries": "3048",
+        "wickets": "46",
+        "bowl avg": "43.52",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/40",
+        "catches/stumpings": "41/0"
+    },
+    "clubs": {
+        "Essex": "1921\u20131931"
+    },
+    "birth_date": "1901-6-30"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Graeme Lowans",
+    "fullname": "Graeme Edward Lowans",
+    "birth_place": "Nelson, New Zealand",
+    "death_date": "2014",
+    "death_place": "Nelson, New Zealand",
+    "nickname": "Monk",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "role": "Opening batsman",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37674.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "1053",
+        "bat avg": "28.45",
+        "100s/50s": "1/8",
+        "top score": "100",
+        "deliveries": "\u2013",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/0"
+    },
+    "clubs": {
+        "Central Districts": "1959-60 \u2013 1964-65"
+    },
+    "birth_date": "1934-5-8"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Jacqueline Kgang",
+    "female": "true",
+    "country": "Botswana",
+    "birth_place": "Mochudi, Botswana",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "6 June",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Rwanda",
+    "T20Icap": "1",
+    "lastT20Idate": "16 September",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Tanzania",
+    "source": "https://www.espncricinfo.com/player/jacqueline-kgang-1265240 Cricinfo ",
+    "WT20I": {
+        "matches": "9",
+        "runs": "16",
+        "bat avg": "3.20",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "90",
+        "wickets": "6",
+        "bowl avg": "11.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1996-09-27"
+}

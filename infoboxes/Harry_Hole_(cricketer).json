@@ -1,0 +1,27 @@
+{
+    "name": "Harry Hole",
+    "country": "New Zealand",
+    "fullname": "Henry Whitworth Hole",
+    "birth_place": "Woolsey, near Crediton, Devon, England",
+    "death_date": "1942",
+    "death_place": "Wanganui, New Zealand",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37419.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "144",
+        "wickets": "10",
+        "bowl avg": "6.10",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "8/37",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Nelson": "1874-75"
+    },
+    "birth_date": "1855-12-10"
+}

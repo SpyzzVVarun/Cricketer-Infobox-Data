@@ -1,0 +1,44 @@
+{
+    "name": "Patrick Briggs",
+    "country": "England",
+    "fullname": "Patrick David Briggs",
+    "nickname": "PDB",
+    "birth_place": "Timperley, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/9986.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "533",
+        "bat avg": "16.15",
+        "100s/50s": "0/2",
+        "top score": "91",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "17/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "166",
+        "bat avg": "41.50",
+        "100s/50s": "0/2",
+        "top score": "69",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1960\u20131968",
+        "Cambridge University": "1963\u20131964",
+        "Bedfordshire": "1969\u20131973"
+    },
+    "birth_date": "1940-8-24"
+}

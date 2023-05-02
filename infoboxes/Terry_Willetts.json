@@ -1,0 +1,50 @@
+{
+    "name": "Terry Willetts",
+    "country": "England",
+    "fullname": "Frank Terence Willetts",
+    "birth_place": "Birmingham, Warwickshire, England",
+    "death_date": "2022",
+    "death_place": "Truro, Cornwall, England",
+    "batting": "Left-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "1 July",
+    "debutyear1": "1964",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "26 May",
+    "lastyear1": "1967",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Kent",
+    "type2": "List A",
+    "debutdate2": "10 August",
+    "debutyear2": "1966",
+    "debutfor2": "Somerset",
+    "debutagainst2": "Warwickshire",
+    "lastdate2": "2 July",
+    "lastyear2": "1980",
+    "lastfor2": "Cornwall",
+    "lastagainst2": "Devon",
+    "source": "https://cricketarchive.com/Archive/Players/3/3895/3895.html CricketArchive ",
+    "First-class": {
+        "matches": "16",
+        "runs": "333",
+        "bat avg": "11.10",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "38",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "28",
+        "bat avg": "7.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "22",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1964&ndash;1967",
+        "Cornwall": "1977&ndash;1990"
+    },
+    "birth_date": "1939-11-20"
+}

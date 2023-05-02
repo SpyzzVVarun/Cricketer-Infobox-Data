@@ -1,0 +1,29 @@
+{
+    "name": "Poppy Davies",
+    "female": "true",
+    "fullname": "Poppy Louise Davies",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1307/1307892/1307892.html CricketArchive",
+    "WLA": {
+        "matches": "24",
+        "runs": "234",
+        "bat avg": "11.70",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "catches/stumpings": "11/6"
+    },
+    "WT20": {
+        "matches": "19",
+        "runs": "407",
+        "bat avg": "25.43",
+        "100s/50s": "0/1",
+        "top score": "59",
+        "catches/stumpings": "2/5"
+    },
+    "clubs": {
+        "Staffordshire": "2016\u2013present",
+        "Central Sparks": "2020\u2013present"
+    },
+    "birth_date": "2000-6-23"
+}

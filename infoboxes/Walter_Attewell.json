@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Walter Attewell",
+    "birth_place": "Keyworth, Nottinghamshire,, England",
+    "death_date": "1919",
+    "death_place": "Keyworth, Nottinghamshire,, England",
+    "family": "William Attewell (cousin), Thomas Attewell (cousin)",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/8858.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "44",
+        "bat avg": "8.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "deliveries": "567",
+        "wickets": "9",
+        "bowl avg": "29.11",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/81",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1891"
+    }
+}

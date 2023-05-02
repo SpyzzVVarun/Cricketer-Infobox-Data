@@ -1,0 +1,15 @@
+{
+    "name": "John Anton",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium",
+    "source": "http://content-uk.cricinfo.com/england/content/player/8757.html Cricinfo",
+    "First-class": {
+        "matches": "14",
+        "runs": "361",
+        "bat avg": "15.69",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

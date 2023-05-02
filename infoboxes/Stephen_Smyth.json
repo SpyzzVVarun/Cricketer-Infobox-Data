@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Stephen Gordon Smyth",
+    "birth_place": "Derry, Northern Ireland",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/24268.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "188",
+        "bat avg": "23.50",
+        "100s/50s": "\u2013/1",
+        "top score": "70",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "13",
+        "runs": "338",
+        "bat avg": "26.00",
+        "100s/50s": "\u2013/2",
+        "top score": "61",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1990&ndash;1999",
+        "Northern Ireland": "1998/99"
+    },
+    "birth_date": "1968-12-22"
+}

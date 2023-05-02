@@ -1,0 +1,37 @@
+{
+    "name": "Kiran Ahtazaz",
+    "female": "true",
+    "country": "Pakistan",
+    "internationalspan": "1997",
+    "fullname": "Kiran Ahtazaz",
+    "birth_place": "Islamabad, Pakistan",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "odidebutdate": "14 December",
+    "odidebutyear": "1997",
+    "odidebutagainst": "Australia",
+    "odicap": "20",
+    "lastodidate": "16 December",
+    "lastodiyear": "1997",
+    "lastodiagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/17/17343/17343.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "4",
+        "runs": "23",
+        "bat avg": "7.66",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Rawalpindi": "2005/06"
+    },
+    "birth_date": "1981"
+}

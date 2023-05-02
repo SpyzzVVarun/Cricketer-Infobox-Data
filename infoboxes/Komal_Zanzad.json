@@ -1,0 +1,15 @@
+{
+    "name": "Komal Zanzad",
+    "female": "true",
+    "country": "India",
+    "fullname": "Komal Ravindra Zanzad",
+    "birth_place": "Nagpur, Maharashtra, India",
+    "batting": "Right-handed",
+    "bowling": "Left-arm medium Left-arm medium fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/961195.html Cricinfo ",
+    "clubs": {
+        "Royal Challengers Bangalore": "2023\u2013present"
+    },
+    "birth_date": "1991-7-10"
+}

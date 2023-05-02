@@ -1,0 +1,27 @@
+{
+    "name": "Colin Griffiths",
+    "birth_place": "Upminster, Essex, England",
+    "death_date": "2004",
+    "death_place": "Princes Risborough, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/13472.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "615",
+        "bat avg": "16.18",
+        "100s/50s": "1/1",
+        "top score": "105",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Essex": "1951\u20131953"
+    },
+    "birth_date": "1930-12-9"
+}

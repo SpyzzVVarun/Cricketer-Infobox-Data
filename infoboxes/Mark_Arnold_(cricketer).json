@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Mark Arnold",
+    "birth_place": "Cambridge, Cambridgeshire,, England",
+    "death_date": "Q4 1901 (aged 73)",
+    "death_place": "Hackney, London, England",
+    "family": "Charles Arnold (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/8890.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "7",
+        "bat avg": "1.40",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "11",
+        "bowl avg": "?",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Sukanya Parida",
+    "female": "true",
+    "country": "India",
+    "fullname": "Sukanya Kalakar Parida",
+    "birth_place": "Naamouza, Kendrapara,  Odisha",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "odidebutdate": "16 November",
+    "odidebutyear": "2016",
+    "odidebutagainst": "West Indies",
+    "odicap": "117",
+    "oneodi": "true",
+    "source": "http://www.espncricinfo.com/ci/content/player/960749.html Cricinfo ",
+    "WODI": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "30",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Bengal": "2010\u2013present",
+        "Railways": "2019\u20132020"
+    },
+    "birth_date": "1993-05-15"
+}

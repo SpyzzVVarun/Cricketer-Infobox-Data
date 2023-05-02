@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "William Charles Winterton",
+    "birth_place": "Thurmaston, Leicestershire, England",
+    "death_date": "1898",
+    "death_place": "Rothley, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/23413.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "170",
+        "bat avg": "7.39",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "deliveries": "?",
+        "wickets": "4",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/?",
+        "catches/stumpings": "11/3"
+    },
+    "clubs": {}
+}

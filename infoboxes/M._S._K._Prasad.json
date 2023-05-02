@@ -1,0 +1,25 @@
+{
+    "name": "Mannava Prasad",
+    "fullname": "Mannava Sri Kanth Prasad",
+    "birth_place": "Medikonduru, Guntur, Andhra Pradesh, India",
+    "country": "India",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/32346.html ESPNcricinfo ",
+    "Test": {
+        "matches": "6",
+        "runs": "106",
+        "bat avg": "11.77",
+        "100s/50s": "0/0",
+        "catches/stumpings": "15/0"
+    },
+    "ODI": {
+        "matches": "17",
+        "runs": "131",
+        "bat avg": "14.55",
+        "100s/50s": "0/1",
+        "top score": "63",
+        "catches/stumpings": "14/7"
+    },
+    "clubs": {},
+    "birth_date": "24 April 1975"
+}

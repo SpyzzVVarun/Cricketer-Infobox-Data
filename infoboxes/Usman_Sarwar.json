@@ -1,0 +1,25 @@
+{
+    "country": "Pakistan",
+    "fullname": "Usman Sarwar",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.cricinfo.com/ci/content/player/397160.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "18",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "0/78",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Lahore Eagles": "2008/09"
+    },
+    "birth_date": "1983-12-12"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Arthur Ashwell",
+    "country": "England",
+    "fullname": "Arthur Harry Ashwell",
+    "birth_place": "Charing, Kent",
+    "death_date": "1985",
+    "death_place": "Bebington, Cheshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/8801.html CricInfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "42",
+        "bat avg": "14.00",
+        "100s/50s": "0/0",
+        "deliveries": "222",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1933\u20131934"
+    },
+    "birth_date": "1908-8-2"
+}

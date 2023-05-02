@@ -1,0 +1,41 @@
+{
+    "name": "Somashekar Shiraguppi",
+    "country": "India",
+    "birth_place": "Dharwad, Karnataka, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/india/content/player/33939.html ESPNcricinfo ",
+    "FC": {
+        "matches": "41",
+        "runs": "1,206",
+        "bat avg": "22.33",
+        "100s/50s": "1/4",
+        "top score": "125",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "92/20"
+    },
+    "List A": {
+        "matches": "22",
+        "runs": "223",
+        "bat avg": "23.63",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "23/7"
+    },
+    "clubs": {
+        "Karnataka": "1994/95\u20131999/00",
+        "Goa": "2003/04"
+    },
+    "birth_date": "1974-6-14"
+}

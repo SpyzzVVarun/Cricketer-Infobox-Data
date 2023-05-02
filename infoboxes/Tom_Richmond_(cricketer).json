@@ -1,0 +1,40 @@
+{
+    "name": "Tom Richmond",
+    "batting": "Right-handed",
+    "bowling": "Legbreak Legbreak googly",
+    "country": "England",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "28 May",
+    "testdebutyear": "1921",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/19402.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "114",
+        "wickets": "2",
+        "bowl avg": "43.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/69",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "252",
+        "runs": "1,644",
+        "bat avg": "9.96",
+        "100s/50s": "0/2",
+        "top score": "70",
+        "deliveries": "48,048",
+        "wickets": "1,176",
+        "bowl avg": "21.22",
+        "fivefor": "90",
+        "tenfor": "19",
+        "best bowling": "9/21",
+        "catches/stumpings": "39/\u2013"
+    },
+    "clubs": {}
+}

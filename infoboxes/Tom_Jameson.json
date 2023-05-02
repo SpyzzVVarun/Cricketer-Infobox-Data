@@ -1,0 +1,22 @@
+{
+    "name": "Tom Jameson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/6/6944/6944.html CricketArchive",
+    "First-class": {
+        "matches": "124",
+        "runs": "4,675",
+        "bat avg": "26.56",
+        "100s/50s": "5/27",
+        "top score": "133",
+        "deliveries": "12,559",
+        "wickets": "252",
+        "bowl avg": "24.03",
+        "fivefor": "11",
+        "tenfor": "2",
+        "best bowling": "7/92",
+        "catches/stumpings": "102/\u2013"
+    },
+    "clubs": {}
+}

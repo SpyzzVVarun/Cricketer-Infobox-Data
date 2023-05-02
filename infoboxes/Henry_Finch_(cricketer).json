@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Henry Randolph Finch",
+    "birth_place": "Paddington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Oakham, Rutland, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13051.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "34",
+        "bat avg": "17.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1866"
+    }
+}

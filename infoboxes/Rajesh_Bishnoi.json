@@ -1,0 +1,69 @@
+{
+    "name": "Rajesh Bishnoi",
+    "country": "India",
+    "birth_place": "Bikaner, Rajasthan, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Allrounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/236766.html Cricinfo ",
+    "FC": {
+        "matches": "43",
+        "runs": "2009",
+        "bat avg": "30.43",
+        "100s/50s": "4/9",
+        "top score": "112",
+        "deliveries": "282",
+        "wickets": "1",
+        "bowl avg": "192.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/27",
+        "catches/stumpings": "20/\u2013"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "551",
+        "bat avg": "22.95",
+        "100s/50s": "0/3",
+        "top score": "94",
+        "deliveries": "267",
+        "wickets": "2",
+        "bowl avg": "112.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "7/\u2013"
+    },
+    "IPL": {
+        "matches": "3",
+        "runs": "19",
+        "bat avg": "6.33",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "0",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20": {
+        "matches": "35",
+        "runs": "609",
+        "bat avg": "19.64",
+        "100s/50s": "0/4",
+        "top score": "75",
+        "deliveries": "6",
+        "wickets": "3",
+        "bowl avg": "0",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/0",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Royal Challengers Bangalore": "2009"
+    },
+    "birth_date": "1987-10-8"
+}

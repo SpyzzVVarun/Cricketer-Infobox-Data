@@ -1,0 +1,35 @@
+{
+    "name": "Hitolo Areni",
+    "country": "Papua New Guinea",
+    "birth_place": "Port Moresby, Papua New Guinea",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "List A",
+    "debutdate1": "1 July",
+    "debutyear1": "2005",
+    "debutfor1": "Papua New Guinea",
+    "debutagainst1": "Netherlands",
+    "lastdate1": "11 July",
+    "lastyear1": "2005",
+    "lastfor1": "Papua New Guinea",
+    "lastagainst1": "Uganda",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/84/84696/84696.html CricketArchive ",
+    "List A": {
+        "matches": "5",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "deliveries": "210",
+        "wickets": "8",
+        "bowl avg": "21.87",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/37",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "PNG": "2005"
+    },
+    "birth_date": "1980-8-31"
+}

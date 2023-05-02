@@ -1,0 +1,40 @@
+{
+    "name": "Divan Posthumus",
+    "country": "South Africa",
+    "fullname": "Divan Posthumus",
+    "birth_place": "Kempton Park, Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batting all-rounder",
+    "source": "https://www.espncricinfo.com/player/divan-posthumus-594314 Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "198",
+        "bat avg": "24.75",
+        "100s/50s": "0/2",
+        "top score": "55",
+        "deliveries": "655",
+        "wickets": "16",
+        "bowl avg": "26.60",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/59",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "84",
+        "wickets": "6",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/15",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1994-6-2"
+}

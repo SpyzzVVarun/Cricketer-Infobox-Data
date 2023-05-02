@@ -1,0 +1,35 @@
+{
+    "name": "Amara Carr",
+    "female": "true",
+    "country": "England",
+    "fullname": "Amara Danielle Carr",
+    "birth_place": "Plymouth, Devon, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/228/228179/228179.html CricketArchive ",
+    "WLA": {
+        "matches": "100",
+        "runs": "1,701",
+        "bat avg": "19.32",
+        "100s/50s": "1/7",
+        "top score": "105",
+        "catches/stumpings": "51/36"
+    },
+    "WT20": {
+        "matches": "64",
+        "runs": "819",
+        "bat avg": "21.00",
+        "100s/50s": "0/2",
+        "top score": "52",
+        "catches/stumpings": "16/25"
+    },
+    "clubs": {
+        "Devon": "2008\u20132019",
+        "\u2192 Middlesex (on loan)": "2017\u20132019",
+        "Western Storm": "2016\u20132019",
+        "Middlesex": "2020\u2013present",
+        "Sunrisers": "2020\u2013present",
+        "London Spirit": "2021\u2013present"
+    },
+    "birth_date": "1994-04-17"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Christopher Knight",
+    "country": "England",
+    "fullname": "Christopher George Knight",
+    "birth_place": "Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/17800.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "&ndash;",
+        "100s/50s": "0/0",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Hampshire Cricket Board": "2001"
+    },
+    "birth_date": "1972-12-1"
+}

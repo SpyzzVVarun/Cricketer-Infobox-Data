@@ -1,0 +1,26 @@
+{
+    "name": "Josh Nicholas",
+    "country": "Australia",
+    "fullname": "Josh Bradley Nicholas",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/987/987872/987872.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "255",
+        "bat avg": "56.42",
+        "100s/50s": "0/2",
+        "deliveries": "675",
+        "wickets": "12",
+        "bowl avg": "42.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/17",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2015/16\u2013"
+    },
+    "birth_date": "1991-12-20"
+}

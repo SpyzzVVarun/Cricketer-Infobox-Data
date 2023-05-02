@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "David Kenneth Fasken",
+    "birth_place": "Batu Gajah, Perak,, Federated Malay States",
+    "death_date": "df=y",
+    "death_place": "London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/13008.html Cricinfo ",
+    "First-class": {
+        "matches": "36",
+        "runs": "559",
+        "bat avg": "12.42",
+        "100s/50s": "\u2013/1",
+        "top score": "61",
+        "deliveries": "5,715",
+        "wickets": "71",
+        "bowl avg": "40.30",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/108",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1950&ndash;1955",
+        "Oxford University": "1953&ndash;1955",
+        "Marylebone Cricket Club": "1956&ndash;1959"
+    }
+}

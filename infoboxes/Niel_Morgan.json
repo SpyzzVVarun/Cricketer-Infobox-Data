@@ -1,0 +1,30 @@
+{
+    "name": "Niel Morgan",
+    "country": "England",
+    "fullname": "Aubrey Niel Morgan",
+    "birth_place": "Cyncoed, Cardiff, Wales",
+    "death_date": "1985",
+    "death_place": "Ridgefield, Washington, United States",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "family": "Trevil Morgan (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/17082.html Cricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "95",
+        "bat avg": "8.63",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "35",
+        "deliveries": "528",
+        "wickets": "6",
+        "bowl avg": "56.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/37",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1928 to 1929"
+    },
+    "birth_date": "1904-1-30"
+}

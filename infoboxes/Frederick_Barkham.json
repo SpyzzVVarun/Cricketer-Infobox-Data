@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Frederick Barkham",
+    "birth_place": "Scarborough, Yorkshire, England",
+    "death_date": "1992",
+    "death_place": "Melrose, Roxburghshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/frederick-barkham-25146 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1948&ndash;1949"
+    }
+}

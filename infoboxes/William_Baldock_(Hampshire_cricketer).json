@@ -1,0 +1,28 @@
+{
+    "name": "William Baldock",
+    "country": "England",
+    "fullname": "William Stanford Baldock",
+    "birth_place": "Chilworth, Hampshire, England",
+    "death_date": "1923",
+    "death_place": "Wellington, Somerset, England",
+    "batting": "Right-handed",
+    "family": "William Baldock senior (father), William Baldock junior (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/8964.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "155",
+        "bat avg": "12.91",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "40",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "24.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/10",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1877\u20131882"
+    }
+}

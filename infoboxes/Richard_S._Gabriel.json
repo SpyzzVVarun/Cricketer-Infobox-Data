@@ -1,0 +1,61 @@
+{
+    "name": "Richard Gabriel",
+    "country": "West Indies",
+    "fullname": "Richard Simeon Gabriel",
+    "birth_place": "Point Fortin, Trinidad and Tobago",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Opening batsman",
+    "odidebutdate": "8 January",
+    "odidebutyear": "1984",
+    "odidebutagainst": "Australia",
+    "lastodidate": "11 February",
+    "lastodiyear": "1984",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/1/1728/1728.html Cricket Archive ",
+    "ODIs": {
+        "matches": "11",
+        "runs": "167",
+        "bat avg": "15.18",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "84",
+        "runs": "3,974",
+        "bat avg": "28.58",
+        "100s/50s": "5/18",
+        "top score": "129",
+        "deliveries": "130",
+        "wickets": "4",
+        "bowl avg": "13.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/15",
+        "catches/stumpings": "70/\u2013"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "697",
+        "bat avg": "22.48",
+        "100s/50s": "1/2",
+        "deliveries": "14",
+        "wickets": "1",
+        "bowl avg": "14.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/8",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "1968-69 to 1985-86"
+    },
+    "birth_date": "1952-6-5"
+}

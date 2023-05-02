@@ -1,0 +1,32 @@
+{
+    "name": "Rebecca Carter",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Rebecca Lee Carter",
+    "birth_place": "Wantirna, Victoria, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/955/955140/955140.html CricketArchive ",
+    "WLA": {
+        "matches": "5",
+        "runs": "62",
+        "bat avg": "12.40",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WT20": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Melbourne Renegades": "2020/21",
+        "Australian Capital Territory": "2020/21\u2013present"
+    },
+    "birth_date": "1996-07-16"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Ruth Johnston",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Ruth Johnston",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "family": "Ellie Johnston (cousin)",
+    "source": "https://www.espncricinfo.com/player/ruth-johnston-1282061 ESPNcricinfo ",
+    "WT20": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Queensland": "2020/21\u2013present",
+        "Hobart Hurricanes": "2021/22\u2013present"
+    },
+    "birth_date": "2003-2-28"
+}

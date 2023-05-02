@@ -1,0 +1,31 @@
+{
+    "name": "Mohammad Mujtaba",
+    "country": "Afghanistan",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/703329.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "FC": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.5",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/14",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1995-12-1",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{Afghanistan}}",
+        "Competition: Asian Games",
+        "Silver Medal: 2014 Incheon Team"
+    ]
+}

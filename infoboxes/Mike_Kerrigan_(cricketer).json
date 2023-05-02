@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Michael Kerrigan",
+    "birth_place": "Perth, Perthshire, Scotland",
+    "death_date": "1996",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/michael-kerrigan-25258 Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "84",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,737",
+        "wickets": "39",
+        "bowl avg": "22.87",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/84",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1954&ndash;1961"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Gwynn Evans",
+    "birth_place": "Bala, Merionethshire, Wales",
+    "death_date": "April 2001 (aged 85)",
+    "death_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/12532.html Cricinfo ",
+    "First-class": {
+        "matches": "33",
+        "runs": "824",
+        "bat avg": "16.48",
+        "100s/50s": "&ndash;/4",
+        "deliveries": "4,780",
+        "wickets": "72",
+        "bowl avg": "34.13",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "6/80",
+        "catches/stumpings": "19/&ndash;"
+    },
+    "clubs": {
+        "Leicestershire": "1949",
+        "Glamorgan": "1939",
+        "Oxford University": "1938&ndash;1939",
+        "Denbighshire": "1933&ndash;1935"
+    },
+    "birth_date": "1915-8-13"
+}

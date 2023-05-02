@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Joseph Shoesmith",
+    "birth_place": "Kemp Town, Sussex, England",
+    "death_date": "1901",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/20740.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "64",
+        "wickets": "1",
+        "bowl avg": "23.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/23",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1881"
+    },
+    "birth_date": "1859-6-17"
+}

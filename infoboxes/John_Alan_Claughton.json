@@ -1,0 +1,46 @@
+{
+    "name": "John Claughton",
+    "country": "England",
+    "fullname": "John Alan Claughton",
+    "birth_place": "Guiseley, Yorkshire, England",
+    "batting": "Right-handed",
+    "family": "Tom Claughton (son) John Claughton (nephew) Hugh Claughton (great-uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/11164.html Cricinfo ",
+    "FC": {
+        "matches": "55",
+        "runs": "1,910",
+        "bat avg": "21.46",
+        "100s/50s": "4/5",
+        "top score": "130",
+        "deliveries": "3",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "21/\u2013"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "517",
+        "bat avg": "20.68",
+        "100s/50s": "\u2013/2",
+        "top score": "65",
+        "deliveries": "6",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Dorset": "1988\u20131993",
+        "Berkshire": "1983\u20131986",
+        "Minor Counties": "1983",
+        "Warwickshire": "1979\u20131980",
+        "Combined Universities": "1978",
+        "Oxford University": "1976\u20131979"
+    },
+    "birth_date": "1956-9-17"
+}

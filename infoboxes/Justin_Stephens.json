@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Justin Christopher John Stephens",
+    "birth_place": "Penzance, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/20491.html Cricinfo ",
+    "LA": {
+        "matches": "9",
+        "runs": "97",
+        "bat avg": "32.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "507",
+        "wickets": "13",
+        "bowl avg": "25.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/54",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Cornwall": "1998-present"
+    },
+    "birth_date": "1979-8-12"
+}

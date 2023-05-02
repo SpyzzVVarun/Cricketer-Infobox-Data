@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Peter Leitham Gardiner",
+    "birth_place": "Perth, Perthshire, Scotland",
+    "death_date": "1975",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/peter-gardiner-25217 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "67",
+        "bat avg": "16.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "42",
+        "deliveries": "198",
+        "wickets": "3",
+        "bowl avg": "45.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1925&ndash;1931"
+    }
+}

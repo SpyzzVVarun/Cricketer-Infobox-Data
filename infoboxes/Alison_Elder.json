@@ -1,0 +1,61 @@
+{
+    "name": "Alison Elder",
+    "female": "true",
+    "country": "England",
+    "fullname": "Alison Elder",
+    "role": "Batter, occasional wicket-keeper",
+    "internationalspan": "1990",
+    "odidebutdate": "18 July",
+    "odidebutyear": "1990",
+    "odidebutagainst": "Netherlands",
+    "odicap": "57",
+    "lastodidate": "17 August",
+    "lastodiyear": "1990",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/17/17006/17006.html CricketArchive ",
+    "WODI": {
+        "matches": "4",
+        "runs": "43",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/0"
+    },
+    "WFC": {
+        "matches": "2",
+        "runs": "74",
+        "bat avg": "18.50",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "WLA": {
+        "matches": "64",
+        "runs": "1,407",
+        "bat avg": "29.93",
+        "100s/50s": "1/7",
+        "top score": "134",
+        "deliveries": "324",
+        "wickets": "6",
+        "bowl avg": "42.66",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "2/25",
+        "catches/stumpings": "25/4"
+    },
+    "clubs": {
+        "East Anglia": "1984\u20131988",
+        "Yorkshire": "1989\u20132000"
+    }
+}

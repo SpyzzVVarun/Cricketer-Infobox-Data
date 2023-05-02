@@ -1,0 +1,37 @@
+{
+    "name": "Peter Rochford",
+    "country": "England",
+    "fullname": "Peter Rochford",
+    "birth_place": "Halifax, Yorkshire, England",
+    "death_date": "1992",
+    "death_place": "Stroud, Gloucestershire, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper, umpire",
+    "type1": "First-class",
+    "debutdate1": "28 June",
+    "debutyear1": "1952",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "15 August",
+    "lastyear1": "1957",
+    "lastfor1": "Gloucestershire",
+    "lastagainst1": "Hampshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32459/32459.html CricketArchive ",
+    "First-class": {
+        "matches": "80",
+        "runs": "479",
+        "bat avg": "5.26",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "118/34"
+    },
+    "clubs": {
+        "Gloucestershire": "1952&ndash;57"
+    },
+    "birth_date": "1928-8-27"
+}

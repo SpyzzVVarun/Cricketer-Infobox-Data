@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Sam Hirst",
+    "birth_place": "Netherton, Yorkshire, England",
+    "death_date": "1937",
+    "death_place": "Almondbury, Yorkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://cricketarchive.com/Archive/Players/244/244687/244687.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "61",
+        "bat avg": "30.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1905"
+    }
+}

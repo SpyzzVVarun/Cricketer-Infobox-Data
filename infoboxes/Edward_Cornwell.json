@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Edward Cornwell",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1873",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "family": "Henry Cornwell (brother)",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/10973.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "133",
+        "bat avg": "10.23",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "catches/stumpings": "6/3"
+    },
+    "clubs": {
+        "Cambridgeshire": "1851&ndash;1863"
+    }
+}

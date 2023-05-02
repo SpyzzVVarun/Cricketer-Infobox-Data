@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Charles Richard Gillett",
+    "birth_place": "Compton, Surrey, England",
+    "death_date": "1964",
+    "death_place": "Camberley, Surrey, England",
+    "family": "Hugh Gillett (father)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/13627.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1881"
+    }
+}

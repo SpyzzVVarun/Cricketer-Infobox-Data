@@ -1,0 +1,41 @@
+{
+    "name": "Doug Slade",
+    "birth_place": "Feckenham, Redditch, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "England",
+    "source": "http://www.espncricinfo.com/england/content/player/20799.html Cricinfo",
+    "First-class": {
+        "matches": "280",
+        "runs": "5,275",
+        "bat avg": "18.06",
+        "100s/50s": "1/9",
+        "top score": "125",
+        "deliveries": "34,340",
+        "wickets": "502",
+        "bowl avg": "23.47",
+        "fivefor": "14",
+        "tenfor": "1",
+        "best bowling": "7/47",
+        "catches/stumpings": "193/0"
+    },
+    "List A": {
+        "matches": "45",
+        "runs": "452",
+        "bat avg": "14.12",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "978",
+        "wickets": "21",
+        "bowl avg": "25.19",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Worcestershire": "1958\u20131971",
+        "Shropshire": "1973\u20131978"
+    },
+    "birth_date": "1940-8-24"
+}

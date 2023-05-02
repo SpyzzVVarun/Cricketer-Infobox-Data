@@ -1,0 +1,24 @@
+{
+    "name": "Lilli Laursen",
+    "female": "true",
+    "country": "Denmark",
+    "fullname": "Lilli Laursen",
+    "role": "Opening batsman",
+    "odidebutdate": "19 July",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Ireland",
+    "odicap": "7",
+    "lastodidate": "21 July",
+    "lastodiyear": "1989",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/54967.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "3",
+        "runs": "41",
+        "bat avg": "13.66",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {}
+}

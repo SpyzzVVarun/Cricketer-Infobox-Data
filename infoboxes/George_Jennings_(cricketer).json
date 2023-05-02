@@ -1,0 +1,31 @@
+{
+    "name": "George Jennings",
+    "country": "England",
+    "fullname": "George Adolphus Jennings",
+    "birth_place": "Tiverton, Devon",
+    "death_date": "1959",
+    "death_place": "Marlborough, Wiltshire",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "David Jennings (brother) Tom Jennings (brother) Leonard Jennings (brother)",
+    "source": "http://www.espncricinfo.com/england/content/player/15680.html Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "243",
+        "bat avg": "11.04",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "1,912",
+        "wickets": "23",
+        "bowl avg": "39.82",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/92",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1923\u20131925",
+        "Devon": "1925\u20131927"
+    },
+    "birth_date": "1895-1-14"
+}

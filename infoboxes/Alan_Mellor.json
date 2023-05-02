@@ -1,0 +1,40 @@
+{
+    "country": "England",
+    "fullname": "Alan John Mellor",
+    "birth_place": "Horninglow, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/alan-mellor-17525 Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "26",
+        "bat avg": "2.88",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,256",
+        "wickets": "17",
+        "bowl avg": "38.41",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/52",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "95.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/37",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1978&ndash;1980",
+        "Staffordshire": "1981&ndash;1986"
+    },
+    "birth_date": "1959-7-4"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Arthur Corbett Edwards",
+    "birth_place": "Portsmouth, Hampshire, England",
+    "death_date": "df=yes",
+    "death_place": "Loos-en-Gohelle, Pas-de-Calais, France",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/28634.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "24",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "78",
+        "wickets": "2",
+        "bowl avg": "31.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/59",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1902/03",
+        "Orange Free State": "1903/04"
+    }
+}

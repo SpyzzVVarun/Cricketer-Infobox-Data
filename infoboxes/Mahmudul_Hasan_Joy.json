@@ -1,0 +1,49 @@
+{
+    "name": "Mahmudul Hasan Joy",
+    "country": "Bangladesh",
+    "fullname": "Mahmudul Hasan Joy",
+    "birth_place": "Faridganj, Chandpur,   Bangladesh",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "testdebutdate": "4 December",
+    "testdebutyear": "2021",
+    "testdebutagainst": "Pakistan",
+    "testcap": "99",
+    "lasttestdate": "24 June",
+    "lasttestyear": "2022",
+    "lasttestagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/1161381.html ESPNcricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "225",
+        "bat avg": "45.00",
+        "100s/50s": "1/1",
+        "top score": "137",
+        "catches/stumpings": "3/\u2013"
+    },
+    "FC": {
+        "matches": "11",
+        "runs": "799",
+        "bat avg": "42.05",
+        "100s/50s": "3/3",
+        "top score": "137",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "510",
+        "bat avg": "42.50",
+        "100s/50s": "1/4",
+        "top score": "123",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "30",
+        "runs": "747",
+        "bat avg": "33.95",
+        "100s/50s": "0/3",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "2000-11-13"
+}

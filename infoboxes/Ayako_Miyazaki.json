@@ -1,0 +1,33 @@
+{
+    "name": "Ayako Miyazaki",
+    "female": "true",
+    "country": "Japan",
+    "fullname": "Ayako Miyazaki",
+    "birth_place": "Japan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "odidebutdate": "22 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Ireland",
+    "odicap": "13",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/55216.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "4",
+        "runs": "23",
+        "bat avg": "5.75",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "57.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/41",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1982-3-9"
+}

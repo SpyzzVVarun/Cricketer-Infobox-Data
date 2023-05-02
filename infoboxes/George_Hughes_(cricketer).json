@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "George Edward Hughes",
+    "birth_place": "Uffington, Berkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Hoylake, Cheshire, England",
+    "family": "Thomas Hughes (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15307.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1845"
+    }
+}

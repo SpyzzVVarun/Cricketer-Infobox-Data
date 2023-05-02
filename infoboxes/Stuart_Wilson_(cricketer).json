@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "John Stuart Wilson",
+    "birth_place": "Middleton, Lancashire, England",
+    "death_date": "2012",
+    "death_place": "Perth, Perthshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/player/stuart-wilson-25397 Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "66",
+        "bat avg": "5.07",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "22",
+        "deliveries": "2,623",
+        "wickets": "44",
+        "bowl avg": "25.20",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/51",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1957&ndash;1964"
+    }
+}

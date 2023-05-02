@@ -1,0 +1,30 @@
+{
+    "name": "Edward Thwaites",
+    "birth_place": "Staplehurst, Kent",
+    "death_date": "df=yes",
+    "death_place": "Hastings, Sussex",
+    "heightft": "5",
+    "heightinch": "7",
+    "type1": "FC",
+    "debutdate1": "13 June",
+    "debutyear1": "1825",
+    "debutfor1": "Kent",
+    "debutagainst1": "Sussex",
+    "lastdate1": "14 August",
+    "lastyear1": "1837",
+    "lastfor1": "Sussex",
+    "lastagainst1": "MCC",
+    "source": "https://cricketarchive.com/Archive/Players/37/37809/37809.html CricketArchive",
+    "First-class": {
+        "matches": "25",
+        "runs": "397",
+        "bat avg": "8.82",
+        "100s/50s": "0/0",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Kent XI": "1825\u20131826",
+        "Sussex XI": "1826\u20131837"
+    },
+    "birth_date": "1801-10-04"
+}

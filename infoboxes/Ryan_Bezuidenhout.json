@@ -1,0 +1,45 @@
+{
+    "name": "Ryan Bezuidenhout",
+    "country": "Zimbabwe",
+    "fullname": "Ryan David Bezuidenhout",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "type1": "FC",
+    "debutdate1": "9 December",
+    "debutyear1": "2013",
+    "debutfor1": "Southern Rocks",
+    "debutagainst1": "Matabeleland Tuskers",
+    "lastdate1": "9 December",
+    "lastyear1": "2014",
+    "lastfor1": "Mid West Rhinos",
+    "lastagainst1": "Mountaineers",
+    "type2": "LA",
+    "onetype2": "true",
+    "debutdate2": "1 March",
+    "debutyear2": "2015",
+    "debutfor2": "Mid West Rhinos",
+    "debutagainst2": "Mashonaland Eagles",
+    "source": "https://cricketarchive.com/Archive/Players/1107/1107517/1107517.html CricketArchive ",
+    "FC": {
+        "matches": "3",
+        "runs": "65",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "2/0"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "34",
+        "bat avg": "34.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Southern Rocks": "2013\u20132014",
+        "Mid West Rhinos": "2014\u20132015"
+    },
+    "birth_date": "1986-2-26"
+}

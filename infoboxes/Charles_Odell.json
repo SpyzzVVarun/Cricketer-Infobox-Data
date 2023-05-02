@@ -1,0 +1,28 @@
+{
+    "name": "Charles Odell",
+    "country": "New Zealand",
+    "fullname": "Charles Shead Odell",
+    "birth_place": "Cambridge, England",
+    "death_date": "11 October 1875",
+    "death_place": "Christchurch, New Zealand",
+    "bowling": "Right-arm",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/22/22604/22604.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "4.66",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "44",
+        "wickets": "2",
+        "bowl avg": "12.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1869-70 to 1870-71"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Caitlin Gurrey",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Caitlin Ann Gurrey",
+    "birth_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "T20Idebutdate": "6 February",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "India",
+    "T20Icap": "54",
+    "lastT20Idate": "8 February",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/701743.html Cricinfo ",
+    "WT20I": {
+        "matches": "2",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "2014/15\u2013present"
+    },
+    "birth_date": "1995-5-3"
+}

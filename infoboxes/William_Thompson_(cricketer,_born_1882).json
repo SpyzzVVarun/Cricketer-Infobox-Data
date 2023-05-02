@@ -1,0 +1,28 @@
+{
+    "name": "William Thompson",
+    "country": "England",
+    "fullname": "William Holloway Thompson",
+    "birth_place": "Spondon. Derbyshire, England",
+    "death_date": "1954",
+    "death_place": "Spondon, Derbyshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "20 July",
+    "debutyear1": "1908",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Leicestershire",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/33/33282/33282.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1908"
+    },
+    "birth_date": "1882-6-24"
+}

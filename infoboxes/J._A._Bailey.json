@@ -1,0 +1,27 @@
+{
+    "name": "Jack Bailey",
+    "fullname": "Jack Arthur Bailey",
+    "birth_place": "Brixton, London",
+    "death_date": "2018",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/8937.html Cricinfo ",
+    "First-class": {
+        "matches": "112",
+        "runs": "641",
+        "bat avg": "5.82",
+        "100s/50s": "0/0",
+        "deliveries": "18,023",
+        "wickets": "347",
+        "bowl avg": "21.62",
+        "fivefor": "20",
+        "tenfor": "2",
+        "best bowling": "8/24",
+        "catches/stumpings": "67/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1956\u20131958",
+        "Essex": "1953\u20131958"
+    },
+    "birth_date": "1930-6-22"
+}

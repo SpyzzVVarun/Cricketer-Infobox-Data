@@ -1,0 +1,44 @@
+{
+    "name": "Katie Wolfe",
+    "female": "true",
+    "fullname": "Katie Jae Wolfe",
+    "birth_place": "Watford, Hertfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/1466/1466458/1466458.html CricketArchive",
+    "WLA": {
+        "matches": "18",
+        "runs": "48",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "727",
+        "wickets": "22",
+        "bowl avg": "23.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "9/\u2013"
+    },
+    "WT20": {
+        "matches": "36",
+        "runs": "16",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "563",
+        "wickets": "26",
+        "bowl avg": "21.23",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "2017\u20132021",
+        "Sunrisers": "2020\u20132021",
+        "Derbyshire": "2022\u2013present"
+    },
+    "birth_date": "2001-4-30"
+}

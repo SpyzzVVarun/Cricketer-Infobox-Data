@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Zoheb Khalid Sharif",
+    "birth_place": "Leytonstone, Essex, England",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "source": "https://www.espncricinfo.com/player/zoheb-sharif-21226 Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "771",
+        "bat avg": "40.57",
+        "100s/50s": "2/4",
+        "deliveries": "1,278",
+        "wickets": "15",
+        "bowl avg": "62.86",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/98",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Essex": "2001&ndash;2003",
+        "Loughborough MCCU": "2003",
+        "Cambridge MCCU": "2005&ndash;2007",
+        "Marylebone Cricket Club": "2007"
+    },
+    "birth_date": "1983-2-22"
+}

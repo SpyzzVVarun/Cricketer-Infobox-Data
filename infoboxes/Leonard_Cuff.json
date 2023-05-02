@@ -1,0 +1,28 @@
+{
+    "name": "Leonard Cuff",
+    "fullname": "Leonard Albert Cuff",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1954",
+    "death_place": "Launceston, Tasmania, Australia",
+    "country": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/36625.html Cricinfo",
+    "First-class": {
+        "matches": "24",
+        "runs": "964",
+        "bat avg": "22.95",
+        "100s/50s": "1/5",
+        "top score": "176",
+        "wickets": "29",
+        "bowl avg": "14.86",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/14",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "Canterbury": "1886-87 to 1895-96",
+        "Auckland": "1896-97",
+        "Tasmania": "1903-04 to 1904-05"
+    },
+    "birth_date": "1866-3-28"
+}

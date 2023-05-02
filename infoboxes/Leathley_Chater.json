@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Leathley Chater",
+    "birth_place": "Camberwell, Surrey, England",
+    "death_date": "1931",
+    "death_place": "Littlehampton, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/11101.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1881"
+    }
+}

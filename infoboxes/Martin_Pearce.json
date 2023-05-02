@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Arthur Martin Pearce",
+    "birth_place": "Truro, Cornwall, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/19266.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "57",
+        "bat avg": "14.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "28",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Cornwall": "2001-2008"
+    },
+    "birth_date": "1983-12-14"
+}

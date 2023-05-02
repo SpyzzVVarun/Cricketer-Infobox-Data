@@ -1,0 +1,45 @@
+{
+    "name": "Hannan Sarkar",
+    "birth_place": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "internationalspan": "2002\u20132004",
+    "testdebutdate": "21 July",
+    "testdebutyear": "2002",
+    "testdebutagainst": "Sri Lanka",
+    "testcap": "24",
+    "lasttestdate": "19 October",
+    "lasttestyear": "2004",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "7 August",
+    "odidebutyear": "2002",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "59",
+    "lastodidate": "19 May",
+    "lastodiyear": "2004",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/55915.html ESPNcricinfo ",
+    "Test": {
+        "matches": "17",
+        "runs": "662",
+        "bat avg": "20.06",
+        "100s/50s": "0/5",
+        "top score": "76",
+        "catches/stumpings": "7/\u2013"
+    },
+    "ODI": {
+        "matches": "20",
+        "runs": "383",
+        "bat avg": "19.14",
+        "100s/50s": "0/3",
+        "top score": "61",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Barisal": "2000\u20132010",
+        "Dhaka": "2011\u2013?"
+    },
+    "birth_date": "December 1, 1982"
+}

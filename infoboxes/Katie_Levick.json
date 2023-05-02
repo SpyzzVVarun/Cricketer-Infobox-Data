@@ -1,0 +1,45 @@
+{
+    "name": "Katie Levick",
+    "female": "true",
+    "fullname": "Katie Ann Levick",
+    "country": "England",
+    "birth_place": "Sheffield, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/300/300133/300133.html CricketArchive ",
+    "WLA": {
+        "matches": "104",
+        "runs": "215",
+        "bat avg": "7.67",
+        "100s/50s": "0/0",
+        "deliveries": "4,986",
+        "wickets": "159",
+        "bowl avg": "17.29",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/25",
+        "catches/stumpings": "19/\u2013"
+    },
+    "WT20": {
+        "matches": "116",
+        "runs": "111",
+        "bat avg": "4.44",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "2,329",
+        "wickets": "138",
+        "bowl avg": "16.11",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/15",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2008\u2013present",
+        "Yorkshire Diamonds": "2016\u20132019",
+        "Northern Diamonds": "2020\u2013present",
+        "Northern Superchargers": "2021\u20132022"
+    },
+    "birth_date": "1991-7-17"
+}

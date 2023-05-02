@@ -1,0 +1,39 @@
+{
+    "name": "Louis Wharton",
+    "country": "England",
+    "fullname": "Louis Edgar Wharton",
+    "birth_place": "Port of Spain, Trinidad",
+    "death_date": "1957",
+    "death_place": "Port of Spain, Trinidad",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "9 June",
+    "debutyear1": "1920",
+    "debutfor1": "Oxford Univ",
+    "debutagainst1": "Army",
+    "lastdate1": "9 June",
+    "lastyear1": "1922",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Derbyshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3883/3883.html CricketArchive ",
+    "First-class": {
+        "matches": "12",
+        "runs": "513",
+        "bat avg": "22.30",
+        "100s/50s": "0/3",
+        "top score": "86",
+        "deliveries": "374",
+        "wickets": "3",
+        "bowl avg": "78.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/28",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1920",
+        "Somerset": "1921\u20131922"
+    },
+    "birth_date": "1896-1-18"
+}

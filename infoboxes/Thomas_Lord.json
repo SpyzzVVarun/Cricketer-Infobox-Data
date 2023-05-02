@@ -1,0 +1,40 @@
+{
+    "name": "Thomas Lord",
+    "country": "England",
+    "birth_place": "Thirsk, England",
+    "death_date": "df=yes",
+    "death_place": "West Meon, England",
+    "heightft": "5",
+    "heightinch": "9",
+    "family": "Thomas Lord jr. (Son)",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "31 May",
+    "debutyear1": "1787",
+    "debutfor1": "Middlesex",
+    "debutagainst1": "Essex",
+    "lastdate1": "14 August",
+    "lastyear1": "1816",
+    "lastfor1": "MCC",
+    "lastagainst1": "Middlesex",
+    "source": "http://www.espncricinfo.com/england/content/player/16645.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "59",
+        "runs": "899",
+        "bat avg": "9.87",
+        "100s/50s": "0/3",
+        "top score": "68",
+        "deliveries": "?",
+        "wickets": "148",
+        "bowl avg": "?",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "7/?",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Middlesex": "1787\u20131798",
+        "Marylebone Cricket Club": "1792\u20131797"
+    },
+    "birth_date": "1755-11-23"
+}

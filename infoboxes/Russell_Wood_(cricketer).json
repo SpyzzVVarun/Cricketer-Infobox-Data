@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Russell Brown Wood",
+    "death_date": "2015",
+    "birth_place": "Bristol, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/23153.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "110",
+        "bat avg": "12.22",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "48",
+        "deliveries": "144",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Gloucestershire": "1950&ndash;1951"
+    },
+    "birth_date": "1929-12-15"
+}

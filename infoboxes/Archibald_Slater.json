@@ -1,0 +1,38 @@
+{
+    "name": "Archibald Slater",
+    "country": "England",
+    "fullname": "Archibald Gilbert Slater",
+    "birth_place": "Pilsley, Derbyshire, England",
+    "death_date": "1949",
+    "death_place": "Manchester, Lancashire, England",
+    "batting": "Right-handed",
+    "family": "Henry Slater (father)",
+    "type1": "First-class",
+    "debutdate1": "8 June",
+    "debutyear1": "1911",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "16 August",
+    "lastyear1": "1933",
+    "lastfor1": "Sir L Parkinson's XI",
+    "lastagainst1": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/32/32802/32802.html CricketArchive ",
+    "First-class": {
+        "matches": "211",
+        "runs": "5,943",
+        "bat avg": "19.87",
+        "100s/50s": "1/24",
+        "top score": "105",
+        "deliveries": "29,936",
+        "wickets": "500",
+        "bowl avg": "21.11",
+        "fivefor": "28",
+        "tenfor": "2",
+        "best bowling": "8/24",
+        "catches/stumpings": "125/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1911\u20131931"
+    },
+    "birth_date": "1890-11-22"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Thomas Wilson",
+    "country": "England",
+    "fullname": "Thomas Henry Wilson",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "death_date": "1929",
+    "death_place": "Bedford, Bedfordshire, England",
+    "batting": "Unknown",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.cricinfo.com/ci/content/player/22474.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "3.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "catches/stumpings": "\u2013/1"
+    },
+    "clubs": {
+        "Hampshire": "1869&ndash;1880",
+        "Marylebone Cricket Club": "1869"
+    },
+    "birth_date": "1841-6-10"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Jack Gregory",
+    "country": "Australia",
+    "fullname": "Jack Morrison Gregory",
+    "birth_place": "North Sydney, New South Wales, Australia",
+    "death_date": "1973",
+    "death_place": "Bega, New South Wales, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm fast",
+    "testdebutdate": "17 December",
+    "testdebutyear": "1920",
+    "testdebutagainst": "England",
+    "testcap": "107",
+    "lasttestdate": "5 December",
+    "lasttestyear": "1928",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/374/374.html CricketArchive ",
+    "Test": {
+        "matches": "24",
+        "runs": "1,146",
+        "bat avg": "36.96",
+        "100s/50s": "2/7",
+        "top score": "119",
+        "deliveries": "5,582",
+        "wickets": "85",
+        "bowl avg": "31.15",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "7/69",
+        "catches/stumpings": "37/\u2013"
+    },
+    "First-class": {
+        "matches": "129",
+        "runs": "5,659",
+        "bat avg": "36.50",
+        "100s/50s": "13/27",
+        "top score": "152",
+        "deliveries": "22,014",
+        "wickets": "504",
+        "bowl avg": "20.99",
+        "fivefor": "33",
+        "tenfor": "8",
+        "best bowling": "9/32",
+        "catches/stumpings": "195/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1920/21\u20131928/29"
+    },
+    "birth_date": "1895-8-14"
+}

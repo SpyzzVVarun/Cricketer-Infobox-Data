@@ -1,0 +1,22 @@
+{
+    "name": "Loris Tarrant",
+    "country": "Australia",
+    "fullname": "Loris Bernard Napoleon Tarrant",
+    "birth_place": "Clifton Hill, Victoria, Australia",
+    "death_date": "August 1943 (aged 39)",
+    "death_place": "Western Australia",
+    "family": "FA Tarrant (father), WA Tarrant (granduncle)",
+    "role": "Batsman, occasional wicket-keeper",
+    "umpire": "true",
+    "fcumpired": "2",
+    "umpfcdebutyr": "1933",
+    "source": "http://www.espncricinfo.com/australia/content/player/8025.html ESPNCricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "n/a",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

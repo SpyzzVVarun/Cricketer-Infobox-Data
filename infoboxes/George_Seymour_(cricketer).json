@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "George Alexander Seymour",
+    "birth_place": "Bristol, England",
+    "death_date": "1838",
+    "death_place": "Cambridge, Cambridgeshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/21277.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "77",
+        "bat avg": "7.70",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "20",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1836&ndash;1838"
+    }
+}

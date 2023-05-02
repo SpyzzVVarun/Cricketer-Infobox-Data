@@ -1,0 +1,38 @@
+{
+    "name": "Conor Armstrong",
+    "fullname": "Conor Michael Armstrong",
+    "birth_place": "Drogheda, County Louth, Ireland",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24562.html CricInfo",
+    "First-class": {
+        "matches": "4",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "132",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "50",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "38.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/17",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "17 December 1980"
+}

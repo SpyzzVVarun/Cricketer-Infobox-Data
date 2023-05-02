@@ -1,0 +1,46 @@
+{
+    "name": "Geoffrey Baker",
+    "fullname": "Geoffrey Robert Baker",
+    "birth_place": "Invercargill, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "1 February",
+    "debutyear1": "1992",
+    "debutfor1": "Wellington",
+    "debutagainst1": "Otago",
+    "lastdate1": "14 March",
+    "lastyear1": "1995",
+    "lastfor1": "Wellington",
+    "lastagainst1": "Auckland",
+    "type2": "LA",
+    "debutdate2": "27 December",
+    "debutyear2": "1993",
+    "debutfor2": "Otago",
+    "debutagainst2": "Canterbury",
+    "lastdate2": "20 February",
+    "lastyear2": "1995",
+    "lastfor2": "Wellington",
+    "lastagainst2": "South Africans",
+    "source": "http://www.espncricinfo.com/ci/content/player/36345.html CricInfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "394",
+        "bat avg": "19.70",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "49/5"
+    },
+    "LA": {
+        "matches": "25",
+        "runs": "326",
+        "bat avg": "23.28",
+        "100s/50s": "0/1",
+        "catches/stumpings": "28/8"
+    },
+    "clubs": {
+        "Wellington": "1994/95",
+        "Otago": "1993/94"
+    },
+    "birth_date": "1970-7-30"
+}

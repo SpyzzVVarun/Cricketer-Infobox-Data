@@ -1,0 +1,43 @@
+{
+    "name": "Keith McAdam",
+    "country": "Scotland",
+    "fullname": "Keith Paul William James McAdam",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Right-arm (unknown Right-arm (unknown style)",
+    "source": "http://www.espncricinfo.com/ci/content/player/17461.html Cricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "815",
+        "bat avg": "20.89",
+        "100s/50s": "&ndash;/3",
+        "top score": "63",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "10/&ndash;"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "1",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1967",
+        "Buckinghamshire": "1966&ndash;1969",
+        "Cambridge University": "1965&ndash;1966"
+    },
+    "birth_date": "1945-8-13"
+}

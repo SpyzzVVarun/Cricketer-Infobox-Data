@@ -1,0 +1,29 @@
+{
+    "name": "Peter Graham",
+    "country": "England",
+    "fullname": "Peter Arthur Onslow Graham",
+    "birth_place": "Kurseong, Darjeeling, India",
+    "death_date": "df=yes",
+    "death_place": "Jersey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "https://cricketarchive.com/Archive/Players/3/3575/3575.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "82",
+        "bat avg": "9.11",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "deliveries": "548",
+        "wickets": "7",
+        "bowl avg": "45.14",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/47",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1948"
+    },
+    "birth_date": "1920-12-27"
+}

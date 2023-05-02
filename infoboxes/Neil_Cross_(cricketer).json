@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Neil David Cross",
+    "birth_place": "Wallasey, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/westindies/content/player/10883.html Cricinfo ",
+    "List A": {
+        "matches": "8",
+        "runs": "159",
+        "bat avg": "31.80",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "deliveries": "258",
+        "wickets": "6",
+        "bowl avg": "29.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1995&ndash;2005"
+    },
+    "birth_date": "1972-9-19"
+}

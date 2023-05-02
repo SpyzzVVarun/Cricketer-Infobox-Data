@@ -1,0 +1,39 @@
+{
+    "name": "Haroon Rasheed",
+    "birth_place": "Karachi, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Ahmed Rasheed (brother)     Farooq Rasheed (brother) ,  Mahmood Rasheed (brother) ,  Tahir Rasheed (brother) ,  Umar Rasheed (brother) ,  Mohtashim Rasheed (brother)",
+    "odicap": "23",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/40375.html  ",
+    "Tests": {
+        "matches": "23",
+        "runs": "1217",
+        "bat avg": "34.77",
+        "100s/50s": "3/5",
+        "top score": "153",
+        "deliveries": "8",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "16/-"
+    },
+    "ODIs": {
+        "matches": "12",
+        "runs": "166",
+        "bat avg": "20.75",
+        "100s/50s": "-/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/-"
+    },
+    "clubs": {},
+    "birth_date": "25 March 1953"
+}

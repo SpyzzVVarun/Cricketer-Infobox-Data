@@ -1,0 +1,29 @@
+{
+    "name": "Nicholas Adams",
+    "country": "England",
+    "fullname": "Nicholas Jack Adams",
+    "birth_place": "Bedford, Bedfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/8492.html Cricinfo ",
+    "LA": {
+        "matches": "13",
+        "runs": "306",
+        "bat avg": "27.81",
+        "100s/50s": "1/1",
+        "deliveries": "239",
+        "wickets": "4",
+        "bowl avg": "47.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/10",
+        "catches/stumpings": "2/-"
+    },
+    "clubs": {
+        "Huntingdonshire": "2002",
+        "Cambridgeshire": "1985\u20131996",
+        "Norfolk": "1997",
+        "Minor Counties": "1993"
+    },
+    "birth_date": "1967-3-1"
+}

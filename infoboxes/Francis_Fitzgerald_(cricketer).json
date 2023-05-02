@@ -1,0 +1,28 @@
+{
+    "country": "Australia",
+    "fullname": "Francis John Fitzgerald",
+    "birth_place": "St Kilda, Victoria, Australia",
+    "death_date": "1939",
+    "death_place": "Chelsea, London, England",
+    "family": "Percy Fitzgerald (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/13072.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "15",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1890"
+    }
+}

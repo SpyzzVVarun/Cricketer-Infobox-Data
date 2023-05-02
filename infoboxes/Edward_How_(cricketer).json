@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Edward Joseph How",
+    "birth_place": "Amersham, Buckinghamshire, England",
+    "death_date": "2012",
+    "death_place": "Val-d'Is\u00e8re, Savoie, France",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/14376.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "7",
+        "bat avg": "1.40",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,774",
+        "wickets": "13",
+        "bowl avg": "88.07",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/59",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1995&ndash;1997"
+    }
+}

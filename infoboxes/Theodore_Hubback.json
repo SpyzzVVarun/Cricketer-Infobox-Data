@@ -1,0 +1,32 @@
+{
+    "name": "Theodore Hubback",
+    "country": "England",
+    "fullname": "Theodore Rathbone Hubback",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1942",
+    "death_place": "Malaya",
+    "role": "Wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "11 July",
+    "debutyear1": "1892",
+    "debutfor1": "Liverpool and District",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "15 May",
+    "lastyear1": "1893",
+    "lastfor1": "Liverpool and District",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/30/30437/30437.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "140",
+        "bat avg": "15.55",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "catches/stumpings": "3/2"
+    },
+    "clubs": {
+        "Liverpool and District": "1892\u20131893",
+        "Lancashire": "1892"
+    },
+    "birth_date": "1872-12-17"
+}

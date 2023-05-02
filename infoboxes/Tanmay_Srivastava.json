@@ -1,0 +1,58 @@
+{
+    "name": "Tanmay Srivastava",
+    "country": "India",
+    "fullname": "Tanmay Manoj Srivastava",
+    "birth_place": "Kanpur, Uttar Pradesh, India",
+    "nickname": "Toshu",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Top-order batsman",
+    "source": "http://www.espncricinfo.com/india/content/player/35401.html ESPNCricinfo  ",
+    "FC": {
+        "matches": "90",
+        "runs": "4,918",
+        "bat avg": "34.39",
+        "100s/50s": "10/27",
+        "top score": "179",
+        "deliveries": "246",
+        "wickets": "3",
+        "bowl avg": "48.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "60/\u2013"
+    },
+    "LA": {
+        "matches": "44",
+        "runs": "1,728",
+        "bat avg": "44.30",
+        "100s/50s": "7/50",
+        "deliveries": "40",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/\u2013"
+    },
+    "T20": {
+        "matches": "34",
+        "runs": "649",
+        "bat avg": "28.21",
+        "100s/50s": "0/4",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Uttar Pradesh": "2006\u20132019",
+        "Kings XI Punjab": "2008\u20132010",
+        "Kochi Tuskers Kerala": "2011",
+        "Deccan Chargers": "2012"
+    },
+    "birth_date": "1989-11-7"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "James Beattie Scott",
+    "birth_place": "Hammersmith, London, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/21222.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "518",
+        "wickets": "4",
+        "bowl avg": "80.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/33",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge UCCE": "2001",
+        "Cambridge University": "2001"
+    },
+    "birth_date": "1978-11-27"
+}

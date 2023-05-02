@@ -1,0 +1,42 @@
+{
+    "country": "South Africa",
+    "fullname": "Willem Mar\u00e9 van der Merwe",
+    "birth_place": "Rustenburg, Transvaal, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/47758.html Cricinfo ",
+    "First-class": {
+        "matches": "44",
+        "runs": "1,274",
+        "bat avg": "24.50",
+        "100s/50s": "\u2013/7",
+        "top score": "96",
+        "deliveries": "6,805",
+        "wickets": "130",
+        "bowl avg": "26.06",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "5/35",
+        "catches/stumpings": "14/\u2013"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "161",
+        "bat avg": "20.12",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "591",
+        "wickets": "18",
+        "bowl avg": "23.27",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/49",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Orange Free State": "1978/79&ndash;1984/85",
+        "Western Province": "1985/86&ndash;1986/87",
+        "Western Province B": "1985/86&ndash;1986/87",
+        "Oxford University": "1990"
+    },
+    "birth_date": "1960-7-20"
+}

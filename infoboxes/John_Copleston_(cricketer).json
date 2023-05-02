@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "John Henry Copleston",
+    "birth_place": "Lamyatt, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Offwell, Devon, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11680.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1860\u20131862"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Alfred Bayly",
+    "birth_place": "Waitara, New Zealand",
+    "death_date": "1907",
+    "death_place": "Whanganui, New Zealand",
+    "ru_position": "Utility back",
+    "weight": "83",
+    "allblackid": "45",
+    "allblackno": "35",
+    "repteam1": "nrut",
+    "repyears1": "1893\u201397",
+    "repcaps1": "0",
+    "reppoints1": "0",
+    "ru_province1": "Taranaki",
+    "ru_provinceyears1": "1883\u20131901",
+    "occupation": "Farmer",
+    "spouse": "Mary Eleanor Georgina Cashel",
+    "relatives": "Frank Bayly (brother), George Bayly (brother), Harry Bayly (brother), Walter Bayly (brother)",
+    "school": "New Plymouth Boys' High School",
+    "module": "Infobox cricketer",
+    "embed": "yes",
+    "type1": "First-class",
+    "source": "http://www.espncricinfo.com/ci/content/player/36398.html Cricinfo  ",
+    "First-class": {
+        "matches": "6",
+        "runs": "39",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "deliveries": "474",
+        "wickets": "9",
+        "bowl avg": "22.77",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6-54",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Taranaki": "1891/92\u20131897/98"
+    },
+    "birth_date": "1866-05-20"
+}

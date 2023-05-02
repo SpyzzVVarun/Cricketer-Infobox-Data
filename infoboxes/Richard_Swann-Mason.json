@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Richard Swann Swann-Mason",
+    "birth_place": "Haslingfield, Cambridgeshire, England",
+    "death_date": "df=yes",
+    "death_place": "St Pancras, London, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21151.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "67",
+        "bat avg": "16.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1896&ndash;1908",
+        "Marylebone Cricket Club": "1909&ndash;1914"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Thomas Alexander Findlay",
+    "birth_place": "Rubislaw, Aberdeenshire, Scotland",
+    "death_date": "2005",
+    "death_place": "Perth, Perthshire, Scotland",
+    "family": "Francis Findlay (brother)",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/thomas-findlay-25205 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1947"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Albert Edward Hodges",
+    "birth_place": "Newport, Monmouthshire, Wales",
+    "death_date": "1986",
+    "death_place": "Maindee, Monmouthshire, Wales",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/14231.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "3.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "36",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1936",
+        "Wales": "1930",
+        "Monmouthshire": "1926&ndash;1934"
+    },
+    "birth_date": "1905-1-29"
+}

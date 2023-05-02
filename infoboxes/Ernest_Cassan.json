@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Ernest John Plantagenet Cassan",
+    "birth_place": "Bruton, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Bath, Somerset, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11597.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "8",
+        "bat avg": "2.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "436",
+        "wickets": "16",
+        "bowl avg": "11.00",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/64",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1859"
+    }
+}

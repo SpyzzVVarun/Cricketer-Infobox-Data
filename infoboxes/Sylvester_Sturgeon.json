@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Sylvester Murley Sturgeon",
+    "birth_place": "Stoke Newington, Middlesex, England",
+    "death_date": "1930",
+    "death_place": "Chester, Cheshire, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/s-sturgeon-25370 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "0.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {
+        "Scotland": "1922&ndash;1923"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Amal Silva",
+    "fullname": "Sampathwaduge Amal Rohitha Silva",
+    "internationalspan": "1983\u20131988",
+    "birth_place": "Moratuwa",
+    "country": "Sri Lanka",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "testdebutdate": "11 March",
+    "testdebutyear": "1983",
+    "testdebutagainst": "New Zealand",
+    "testcap": "23",
+    "lasttestdate": "25 August",
+    "lasttestyear": "1988",
+    "lasttestagainst": "England",
+    "odidebutdate": "3 November",
+    "odidebutyear": "1984",
+    "odidebutagainst": "New Zealand",
+    "odicap": "39",
+    "lastodidate": "25 October",
+    "lastodiyear": "1985",
+    "lastodiagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/50432.html Cricinfo  ",
+    "Test": {
+        "matches": "9",
+        "runs": "353",
+        "bat avg": "25.21",
+        "100s/50s": "2/0",
+        "top score": "111",
+        "catches/stumpings": "33/1"
+    },
+    "ODI": {
+        "matches": "20",
+        "runs": "441",
+        "bat avg": "22.05",
+        "100s/50s": "0/3",
+        "top score": "85",
+        "catches/stumpings": "17/3"
+    },
+    "clubs": {},
+    "birth_date": "December 12, 1960"
+}

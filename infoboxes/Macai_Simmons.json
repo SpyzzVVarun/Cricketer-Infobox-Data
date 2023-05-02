@@ -1,0 +1,43 @@
+{
+    "name": "Macai Simmons",
+    "country": "Bermuda",
+    "fullname": "Macai Simmons",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "24 August",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "26",
+    "lastT20Idate": "14 November",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Argentina",
+    "source": "http://www.espncricinfo.com/ci/content/player/1144662.html Cricinfo ",
+    "T20I": {
+        "matches": "6",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "13",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "13",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1992-8-19"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Mia Rogers",
+    "female": "true",
+    "fullname": "Mia Elizabeth Wright Rogers",
+    "birth_place": "Buckinghamshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/1541/1541882/1541882.html CricketArchive",
+    "WLA": {
+        "matches": "14",
+        "runs": "46",
+        "bat avg": "7.66",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/3"
+    },
+    "WT20": {
+        "matches": "36",
+        "runs": "369",
+        "bat avg": "16.04",
+        "100s/50s": "0/1",
+        "catches/stumpings": "8/7"
+    },
+    "clubs": {
+        "Berkshire": "2017\u2013present",
+        "\u2192 Kent (on loan)": "2021",
+        "Sunrisers": "2020\u2013present"
+    },
+    "birth_date": "2002-1-29"
+}

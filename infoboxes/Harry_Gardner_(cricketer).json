@@ -1,0 +1,18 @@
+{
+    "country": "England",
+    "fullname": "Harry Gardner",
+    "birth_place": "City of London, England",
+    "death_date": "1939",
+    "death_place": "East Grinstead, Sussex, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13557.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "42",
+        "bat avg": "10.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "17",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

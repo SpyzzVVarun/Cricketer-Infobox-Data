@@ -1,0 +1,39 @@
+{
+    "name": "Leonidas Bott",
+    "country": "Australia",
+    "fullname": "Leonidas Cecil Bott",
+    "birth_place": "Adelaide, South Australia, Australia",
+    "death_date": "1969",
+    "death_place": "Perth, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "25 Oct",
+    "debutyear1": "1912",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "South Australia",
+    "lastdate1": "21 Nov",
+    "lastyear1": "1925",
+    "lastfor1": "Western Australia",
+    "lastagainst1": "South Australia",
+    "source": "https://cricketarchive.com/Archive/Players/15/15774/15774.html CricketArchive ",
+    "F/C": {
+        "matches": "14",
+        "runs": "400",
+        "bat avg": "16.66",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "214",
+        "wickets": "4",
+        "bowl avg": "31.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/3",
+        "catches/stumpings": "7/-"
+    },
+    "clubs": {
+        "Western Australia": "1912\u201325"
+    },
+    "birth_date": "1889-7-14"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Hurst",
+    "birth_place": "Cowley, Oxfordshire, England",
+    "death_date": "4 March 1868 (aged 51/52)",
+    "death_place": "Headington, Oxfordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15319.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "deliveries": "?",
+        "wickets": "11",
+        "bowl avg": "?",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1843"
+    }
+}

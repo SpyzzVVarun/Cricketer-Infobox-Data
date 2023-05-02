@@ -1,0 +1,37 @@
+{
+    "name": "Ali Ramsay",
+    "female": "true",
+    "country": "Scotland",
+    "fullname": "Alison Ramsay",
+    "birth_place": "Stirling, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Batter",
+    "internationalspan": "2001\u20132006",
+    "odidebutdate": "10 August",
+    "odidebutyear": "2001",
+    "odidebutagainst": "England",
+    "odicap": "6",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Ireland",
+    "source": "http://www.espncricinfo.com/scotland/content/player/55202.html Cricinfo ",
+    "ODI": {
+        "matches": "7",
+        "runs": "59",
+        "bat avg": "9.83",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "53.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Stirling County Women": "2011"
+    },
+    "birth_date": "1982-7-28"
+}

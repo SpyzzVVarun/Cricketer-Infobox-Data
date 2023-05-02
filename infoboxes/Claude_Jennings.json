@@ -1,0 +1,29 @@
+{
+    "name": "Claude Jennings",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "27 May",
+    "testdebutyear": "1912",
+    "lasttestdate": "19 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1912",
+    "source": "https://cricketarchive.com/Archive/Players/0/349/349.html CricketArchive",
+    "Tests": {
+        "matches": "6",
+        "runs": "107",
+        "bat avg": "17.83",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "catches/stumpings": "5/\u2013"
+    },
+    "First-class": {
+        "matches": "60",
+        "runs": "2,453",
+        "bat avg": "25.55",
+        "100s/50s": "1/16",
+        "top score": "123",
+        "catches/stumpings": "38/3"
+    },
+    "clubs": {}
+}

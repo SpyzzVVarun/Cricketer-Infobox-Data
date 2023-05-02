@@ -1,0 +1,38 @@
+{
+    "name": "Shoaib Mohammad .",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "family": "Hanif Mohammad (father) Shehzar Mohammad (son)",
+    "odicap": "52",
+    "source": "http://www.espncricinfo.com/ci/content/player/42658.html ESPNcricinfo ",
+    "Test": {
+        "matches": "45",
+        "runs": "2,705",
+        "bat avg": "44.34",
+        "100s/50s": "7/13",
+        "deliveries": "396",
+        "wickets": "5",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/8",
+        "catches/stumpings": "22/\u2013"
+    },
+    "ODI": {
+        "matches": "63",
+        "runs": "1,269",
+        "bat avg": "24.40",
+        "100s/50s": "1/8",
+        "deliveries": "919",
+        "wickets": "20",
+        "bowl avg": "36.25",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/20",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "8 January 1961"
+}

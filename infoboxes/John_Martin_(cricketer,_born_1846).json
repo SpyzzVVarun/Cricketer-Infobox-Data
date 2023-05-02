@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "John Stapleton Martin",
+    "birth_place": "Holborn, Middlesex, England",
+    "death_date": "1922",
+    "death_place": "Norton-juxta-Kempsey, Warwickshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/17397.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "107",
+        "bat avg": "35.66",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1871"
+    }
+}

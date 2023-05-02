@@ -1,0 +1,40 @@
+{
+    "name": "Roger Human",
+    "country": "England",
+    "fullname": "Roger Henry Charles Human",
+    "birth_place": "Gosforth, Northumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Bangalore, Karnataka, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "21 May",
+    "debutyear1": "1930",
+    "debutfor1": "Cambridge Univ.",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "18 August",
+    "lastyear1": "1939",
+    "lastfor1": "Worcestershire",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/30/30466/30466.html CricketArchive ",
+    "First-class": {
+        "matches": "59",
+        "runs": "2,236",
+        "bat avg": "24.57",
+        "100s/50s": "0/14",
+        "top score": "81",
+        "deliveries": "3,903",
+        "wickets": "51",
+        "bowl avg": "38.17",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1930\u20131931",
+        "Worcestershire": "1934\u20131939",
+        "MCC": "1934"
+    },
+    "birth_date": "1909-5-11"
+}

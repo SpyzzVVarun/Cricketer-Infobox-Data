@@ -1,0 +1,22 @@
+{
+    "name": "Phil Adams",
+    "country": "Australia",
+    "fullname": "Philip James Adams",
+    "birth_place": "Midland, Western Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/255/255730/255730.html CricketArchive ",
+    "List A": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2010/11"
+    },
+    "birth_date": "1991-2-5"
+}

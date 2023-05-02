@@ -1,0 +1,57 @@
+{
+    "name": "Tom Rogers",
+    "fullname": "Thomas Stewart Rogers",
+    "birth_place": "Bruce, Australian Capital Territory, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/627627.html Cricinfo",
+    "FC": {
+        "matches": "15",
+        "runs": "365",
+        "bat avg": "17.38",
+        "100s/50s": "0/1",
+        "top score": "80",
+        "deliveries": "1,948",
+        "wickets": "47",
+        "bowl avg": "22.31",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/9",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "18",
+        "runs": "167",
+        "bat avg": "18.55",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "898",
+        "wickets": "30",
+        "bowl avg": "26.86",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "10/\u2013"
+    },
+    "T20": {
+        "matches": "31",
+        "runs": "106",
+        "bat avg": "13.25",
+        "100s/50s": "0/0",
+        "deliveries": "668",
+        "wickets": "38",
+        "bowl avg": "24.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Tasmania( 6 )": "2017/18\u2013present",
+        "Hobart Hurricanes( 6 )": "2021/22",
+        "Sydney Sixers( 6 )": "2020/21",
+        "Melbourne Renegades( 8 )": "2022/23&ndash;present"
+    },
+    "birth_date": "1994-3-3"
+}

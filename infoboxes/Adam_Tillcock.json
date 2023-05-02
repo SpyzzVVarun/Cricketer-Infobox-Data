@@ -1,0 +1,52 @@
+{
+    "name": "Adam Tillcock",
+    "country": "England",
+    "fullname": "Adam David Tillcock",
+    "birth_place": "Nottingham, Nottinghamshire",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "FC",
+    "debutdate1": "28 March",
+    "debutyear1": "2017",
+    "debutfor1": "Loughborough MCCU",
+    "debutagainst1": "Leicestershire",
+    "type2": "LA",
+    "onetype2": "true",
+    "debutdate2": "14 August",
+    "debutyear2": "2013",
+    "debutfor2": "Nottinghamshire",
+    "debutagainst2": "Bangladesh A",
+    "source": "http://www.espncricinfo.com/ci/content/player/518375.html ESPNcricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "139",
+        "bat avg": "23.16",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "710",
+        "wickets": "1",
+        "bowl avg": "401.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/53",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "97",
+        "bat avg": "\u2013",
+        "100s/50s": "0/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "2013",
+        "Loughborough MCCU": "2017\u20132019"
+    },
+    "birth_date": "1993-10-13"
+}

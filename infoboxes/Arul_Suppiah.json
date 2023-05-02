@@ -1,0 +1,60 @@
+{
+    "name": "Arul Suppiah",
+    "country": "Malaysia",
+    "fullname": "Arul Vivasvan Suppiah",
+    "nickname": "Ruley, Ja Rule",
+    "birth_place": "Kuala Lumpur, Malaysia",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "internationalspan": "1999\u20132007",
+    "source": "https://cricketarchive.com/Archive/Players/35/35025/35025.html CricketArchive ",
+    "FC": {
+        "matches": "100",
+        "runs": "5,156",
+        "bat avg": "32.42",
+        "100s/50s": "8/29",
+        "top score": "156",
+        "deliveries": "4,689",
+        "wickets": "45",
+        "bowl avg": "58.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/46",
+        "catches/stumpings": "56/\u2013"
+    },
+    "LA": {
+        "matches": "94",
+        "runs": "1,722",
+        "bat avg": "26.90",
+        "100s/50s": "0/10",
+        "top score": "80",
+        "deliveries": "1,693",
+        "wickets": "46",
+        "bowl avg": "33.95",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/39",
+        "catches/stumpings": "34/\u2013"
+    },
+    "T20": {
+        "matches": "82",
+        "runs": "472",
+        "bat avg": "13.11",
+        "100s/50s": "0/0",
+        "deliveries": "647",
+        "wickets": "41",
+        "bowl avg": "19.14",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/5",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {
+        "Somerset( 23 )": "2002\u20132013",
+        "Somerset Cricket Board": "2002",
+        "Devon": "2003\u20132008"
+    },
+    "birth_date": "1983-8-30"
+}

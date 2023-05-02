@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Edward Victor Lund",
+    "birth_place": "Eton, Buckinghamshire, England",
+    "death_date": "1971",
+    "death_place": "Cippenham, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/16689.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "180",
+        "wickets": "3",
+        "bowl avg": "31.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/78",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Minor Counties": "1937",
+        "Buckinghamshire": "1929&ndash;1947"
+    },
+    "birth_date": "1902-4-29"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Peter McKay",
+    "country": "England",
+    "fullname": "Peter John McKay",
+    "birth_place": "Burton-upon-Trent, Staffordshire, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "5 April",
+    "debutyear1": "2013",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Oxford MCCU",
+    "type2": "LA",
+    "debutdate2": "6 May",
+    "debutyear2": "2013",
+    "debutfor2": "Warwickshire",
+    "debutagainst2": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/433/433446/433446.html CricketArchive ",
+    "FC": {
+        "matches": "5",
+        "runs": "97",
+        "bat avg": "12.12",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "8/1"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "48",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "5/1"
+    },
+    "T20": {
+        "matches": "12",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/2"
+    },
+    "clubs": {
+        "Warwickshire( 18 )": "2013\u20132015"
+    },
+    "birth_date": "1994-10-12"
+}

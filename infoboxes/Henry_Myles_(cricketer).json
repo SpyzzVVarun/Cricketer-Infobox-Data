@@ -1,0 +1,21 @@
+{
+    "country": "South Africa",
+    "fullname": "Henry Filby Myles",
+    "birth_place": "Cape Town, Cape Province,, South Africa",
+    "death_date": "1942",
+    "death_place": "Kirkinner, Wigtownshire, Scotland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/55603.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "66",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1930/31",
+        "Rhodesia": "1936/37"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "country": "Kenya",
+    "fullname": "Anil Lakhani",
+    "birth_place": "Nairobi, Kenya Colony",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/23988.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "99",
+        "bat avg": "49.50",
+        "100s/50s": "\u2013/1",
+        "top score": "58",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

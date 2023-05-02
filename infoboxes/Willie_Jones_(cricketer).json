@@ -1,0 +1,28 @@
+{
+    "name": "Willie Jones",
+    "fullname": "William Edward Jones",
+    "birth_place": "Carmarthen, Wales",
+    "death_date": "1996",
+    "death_place": "Gloucester, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/4/4484/4484.html Cricket Archive ",
+    "First-class": {
+        "matches": "343",
+        "runs": "13,536",
+        "bat avg": "27.12",
+        "100s/50s": "11/78",
+        "top score": "212 not out",
+        "deliveries": "11,750",
+        "wickets": "192",
+        "bowl avg": "30.11",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/50",
+        "catches/stumpings": "119/0"
+    },
+    "clubs": {
+        "Glamorgan": "1937&ndash;1958"
+    },
+    "birth_date": "1916-10-31"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Sahar Aslam",
+    "fullname": "Sahar Aslam",
+    "female": "true",
+    "birth_place": "Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "country": "Scotland",
+    "internationalspan": "2003\u20132011",
+    "odidebutdate": "22 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "17",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Ireland",
+    "source": "http://www.espncricinfo.com/ci/content/player/55210.html Cricinfo ",
+    "ODI": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1982-12-20"
+}

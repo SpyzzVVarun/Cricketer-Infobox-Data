@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Nicholas Peter Gilbert Ross",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Left-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/19830.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "224",
+        "bat avg": "28.00",
+        "100s/50s": "\u2013/1",
+        "top score": "68",
+        "deliveries": "347",
+        "wickets": "9",
+        "bowl avg": "29.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/22",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1969&ndash;1970",
+        "Cambridgeshire": "1979"
+    },
+    "birth_date": "1947-10-2"
+}

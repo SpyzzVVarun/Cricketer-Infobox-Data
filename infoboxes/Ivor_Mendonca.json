@@ -1,0 +1,35 @@
+{
+    "name": "Ivor Mendonca",
+    "fullname": "Leon Ivor Mendonca",
+    "birth_place": "Bartica, British Guiana",
+    "death_date": "df=y",
+    "death_place": "Georgetown, Guyana",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "West Indies",
+    "testdebutagainst": "India",
+    "testdebutdate": "7 March",
+    "testdebutyear": "1962",
+    "lasttestdate": "4 April",
+    "lasttestagainst": "India",
+    "lasttestyear": "1962",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/52433.html CricInfo",
+    "Test": {
+        "matches": "2",
+        "runs": "81",
+        "bat avg": "40.50",
+        "100s/50s": "0/1",
+        "top score": "78",
+        "catches/stumpings": "8/2"
+    },
+    "First-class": {
+        "matches": "10",
+        "runs": "407",
+        "bat avg": "31.30",
+        "100s/50s": "0/3",
+        "top score": "78",
+        "catches/stumpings": "25/5"
+    },
+    "clubs": {},
+    "birth_date": "1934-7-13"
+}

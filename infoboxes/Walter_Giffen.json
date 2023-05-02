@@ -1,0 +1,49 @@
+{
+    "name": "Walter Giffen",
+    "fullname": "Walter Frank Giffen",
+    "birth_place": "Norwood, South Australia",
+    "death_date": "28 June 1949 (aged 87)",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "family": "George Giffen (brother)",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1887",
+    "testcap": "50",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1892",
+    "lasttestagainst": "England",
+    "source": "http://cricinfo.com/ci/content/player/5383.html Cricinfo",
+    "Test": {
+        "matches": "3",
+        "runs": "11",
+        "bat avg": "1.83",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "47",
+        "runs": "1,178",
+        "bat avg": "15.91",
+        "100s/50s": "0/6",
+        "top score": "89",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1882/83-1901/02"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Edward Barnes",
+    "country": "New Zealand",
+    "fullname": "William Edward Parker Barnes",
+    "nickname": "Jum",
+    "birth_place": "Kildare, Geelong, Victoria, Australia",
+    "death_date": "1897",
+    "death_place": "Christchurch, New Zealand",
+    "heightft": "6",
+    "heightinch": "3",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36381.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "290",
+        "bat avg": "12.08",
+        "100s/50s": "0/0",
+        "top score": "49 not out",
+        "deliveries": "649",
+        "wickets": "9",
+        "bowl avg": "23.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/43",
+        "catches/stumpings": "23/0"
+    },
+    "clubs": {
+        "Canterbury": "1882-83 to 1893-94"
+    },
+    "birth_date": "1856-12-23"
+}

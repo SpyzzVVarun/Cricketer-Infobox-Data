@@ -1,0 +1,54 @@
+{
+    "name": "Abhishek Raman",
+    "country": "India",
+    "birth_place": "Delhi, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "|                date": "18 January 2020",
+    "source": "http://www.espncricinfo.com/ci/content/player/1069497.html ESPNcricinfo ",
+    "FC": {
+        "matches": "24",
+        "runs": "1,543",
+        "bat avg": "37.63",
+        "100s/50s": "3/6",
+        "top score": "176",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "16",
+        "runs": "523",
+        "bat avg": "40.23",
+        "100s/50s": "2/2",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "42",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Bengal": "2016\u2013present"
+    },
+    "birth_date": "1993-9-6"
+}

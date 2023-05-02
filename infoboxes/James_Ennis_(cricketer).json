@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "James Tench Ennis",
+    "birth_place": "Naul, Dublin, Ireland",
+    "death_date": "1976",
+    "death_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/24569.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dublin University": "1926"
+    }
+}

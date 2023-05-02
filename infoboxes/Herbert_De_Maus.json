@@ -1,0 +1,30 @@
+{
+    "name": "Herbert De Maus",
+    "fullname": "Herbert Seton De Maus",
+    "birth_place": "Levuka, Fiji",
+    "death_date": "1929",
+    "death_place": "Suva, Fiji",
+    "batting": "Right-handed",
+    "bowling": "Slow",
+    "heightft": "6",
+    "heightinch": "2",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/36880.html Cricinfo ",
+    "First-class": {
+        "matches": "23",
+        "runs": "1071",
+        "bat avg": "26.77",
+        "100s/50s": "1/6",
+        "top score": "113",
+        "deliveries": "1350",
+        "wickets": "41",
+        "bowl avg": "16.29",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/48",
+        "catches/stumpings": "9/0"
+    },
+    "clubs": {
+        "Canterbury": "1889-90 to 1896-97"
+    },
+    "birth_date": "1871-9-15"
+}

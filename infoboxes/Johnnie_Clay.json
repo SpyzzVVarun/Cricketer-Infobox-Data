@@ -1,0 +1,48 @@
+{
+    "name": "Johnnie Clay",
+    "fullname": "John Charles Clay",
+    "birth_place": "Bonvilston, Cowbridge, Glamorgan, Wales",
+    "death_date": "1973",
+    "death_place": "St Hilary, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm offbreak, legbreak, googly and Right-arm offbreak, legbreak, googly and fast-medium",
+    "onetest": "true",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "17 August",
+    "testdebutyear": "1935",
+    "lasttestdate": "20 August",
+    "lasttestyear": "1935",
+    "source": "https://cricketarchive.com/Archive/Players/0/667/667.html",
+    "Tests": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "n/a",
+        "100s/50s": "0/0",
+        "top score": "n/a",
+        "deliveries": "192",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "n/a",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "373",
+        "runs": "7,186",
+        "bat avg": "15.45",
+        "100s/50s": "2/18",
+        "deliveries": "61,613",
+        "wickets": "1,317",
+        "bowl avg": "19.76",
+        "fivefor": "105",
+        "tenfor": "28",
+        "best bowling": "9/54",
+        "catches/stumpings": "177/0 "
+    },
+    "clubs": {
+        "Glamorgan": "1921\u20131949"
+    },
+    "birth_date": "1898-3-18"
+}

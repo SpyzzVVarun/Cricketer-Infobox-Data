@@ -1,0 +1,60 @@
+{
+    "name": "Navdeep Poonia",
+    "country": "Scotland",
+    "fullname": "Navdeep Singh Poonia",
+    "nickname": "Sat Nav,",
+    "birth_place": "Glasgow, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "odidebutdate": "5 August",
+    "odidebutyear": "2006",
+    "odidebutagainst": "Ireland",
+    "odicap": "24",
+    "lastodidate": "22 August",
+    "lastodiyear": "2009",
+    "lastodiagainst": "Ireland",
+    "T20Idebutdate": "12 September",
+    "T20Idebutyear": "2007",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "7",
+    "lastT20Idate": "10 February",
+    "lastT20Iyear": "2010",
+    "lastT20Iagainst": "Afghanistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/19276.html Cricinfo ",
+    "ODI": {
+        "matches": "21",
+        "runs": "237",
+        "bat avg": "20.28",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "catches/stumpings": "7/\u2013"
+    },
+    "T20I": {
+        "matches": "8",
+        "runs": "95",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "14",
+        "runs": "557",
+        "bat avg": "28.31",
+        "100s/50s": "1/2",
+        "top score": "111",
+        "catches/stumpings": "5/\u2013"
+    },
+    "LA": {
+        "matches": "42",
+        "runs": "732",
+        "bat avg": "29.30",
+        "100s/50s": "0/4",
+        "top score": "79",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "2006\u20132009",
+        "Warwickshire Cricket Board": "2002"
+    },
+    "birth_date": "1986-5-11"
+}

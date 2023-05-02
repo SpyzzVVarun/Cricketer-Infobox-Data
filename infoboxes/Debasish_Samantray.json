@@ -1,0 +1,53 @@
+{
+    "name": "Debasish Samantray",
+    "birth_place": "Dhenkanal, Odisha, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "source": "http://www.espncricinfo.com/ci/content/player/1131612.html ESPNcricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "861",
+        "bat avg": "50.64",
+        "100s/50s": "3/4",
+        "top score": "195",
+        "deliveries": "2,097",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "108",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "44",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Odisha": "2018\u2013"
+    },
+    "birth_date": "1996-9-10"
+}

@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "John Saunders",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/20594.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1895&ndash;1900",
+        "Middlesex": "1891"
+    }
+}

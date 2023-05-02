@@ -1,0 +1,32 @@
+{
+    "name": "John McIlwraith",
+    "fullname": "John McIlwraith",
+    "birth_place": "Collingwood, Melbourne, Victoria, Australia",
+    "death_date": "df=yes",
+    "death_place": "Camberwell, Melbourne, Victoria",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "12 August",
+    "testdebutyear": "1886",
+    "onetest": "true",
+    "source": "http://www.espncricinfo.com/australia/content/player/6570.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "44",
+        "runs": "1468",
+        "bat avg": "24.06",
+        "100s/50s": "2/6",
+        "top score": "133",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1857-9-7"
+}

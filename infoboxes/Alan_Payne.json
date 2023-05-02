@@ -1,0 +1,29 @@
+{
+    "name": "Alan Payne",
+    "country": "England",
+    "fullname": "Alan Undy Payne",
+    "birth_place": "Witney, Oxfordshire, England",
+    "death_date": "1977",
+    "death_place": "Braintree, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/18814.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "86",
+        "bat avg": "10.75",
+        "100s/50s": "0/0",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/36",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1923\u20131929",
+        "Cambridge University": "1925"
+    },
+    "birth_date": "1903-1-28"
+}

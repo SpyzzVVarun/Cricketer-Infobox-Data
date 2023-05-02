@@ -1,0 +1,22 @@
+{
+    "name": "Charles Belton",
+    "country": "England",
+    "fullname": "Charles Harris Belton",
+    "birth_place": "Aylesford, Kent",
+    "death_date": "1891",
+    "death_place": "Chatham, Kent",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://espncricinfo.com/ci/content/player/10424.html CricInfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "89",
+        "bat avg": "10.25",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Kent": "1847"
+    }
+}

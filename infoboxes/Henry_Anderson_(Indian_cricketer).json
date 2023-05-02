@@ -1,0 +1,27 @@
+{
+    "name": "Henry Anderson",
+    "country": "India",
+    "full_name": "Henry Lawrence Anderson",
+    "birth_place": "Lucknow, Uttar Pradesh, British India",
+    "death_date": "1914",
+    "death_place": "near La Gorgue, Nord, France",
+    "source": "https://www.espncricinfo.com/india/content/player/26408.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "5.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "5",
+        "deliveries": "40",
+        "wickets": "1",
+        "bowl avg": "40.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/13",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Europeans": "1892\u201395"
+    },
+    "birth_date": "1867-06-02"
+}

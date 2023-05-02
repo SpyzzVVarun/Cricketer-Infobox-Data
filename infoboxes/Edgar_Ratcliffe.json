@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edgar Ratcliffe",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1915",
+    "death_place": "Birmingham, Warwickshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/19582.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "67",
+        "bat avg": "9.57",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "28",
+        "deliveries": "47",
+        "wickets": "1",
+        "bowl avg": "43.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/10",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1884"
+    }
+}

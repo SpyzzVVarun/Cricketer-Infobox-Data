@@ -1,0 +1,39 @@
+{
+    "name": "Ralph Hancock",
+    "country": "England",
+    "fullname": "Ralph Escott Hancock",
+    "birth_place": "Llandaff, Glamorgan, Wales",
+    "death_date": "1914",
+    "death_place": "Festubert, La Bassee, France",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "family": "Uncle, William Hancock",
+    "type1": "First-class",
+    "debutdate1": "29 August",
+    "debutyear1": "1907",
+    "debutfor1": "Somerset",
+    "debutagainst1": "South Africans",
+    "lastdate1": "27 May",
+    "lastyear1": "1914",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3595/3595.html CricketArchive ",
+    "First-class": {
+        "matches": "9",
+        "runs": "206",
+        "bat avg": "12.11",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "34",
+        "deliveries": "42",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "0/6",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1907&ndash;14"
+    },
+    "birth_date": "1887-12-20"
+}

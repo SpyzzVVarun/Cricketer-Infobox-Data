@@ -1,0 +1,24 @@
+{
+    "country": "England",
+    "fullname": "Edward Hedley Cuthbertson",
+    "birth_place": "Hackney, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Al Amarah, Basra Vilayet,, Ottoman Iraq",
+    "family": "Geoffrey Cuthbertson (brother)",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/11508.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "32",
+        "bat avg": "6.40",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "catches/stumpings": "4/3"
+    },
+    "clubs": {
+        "Hertfordshire": "1906&ndash;1913",
+        "Cambridge University": "1908&ndash;1910",
+        "Marylebone Cricket Club": "1914"
+    }
+}

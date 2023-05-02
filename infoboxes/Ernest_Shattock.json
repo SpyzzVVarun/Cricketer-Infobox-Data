@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Ernest Keith Shattock",
+    "birth_place": "Wandsworth, Surrey, England",
+    "death_date": "1962",
+    "death_place": "Berkhamsted, Hertfordshire, England",
+    "batting": "Unknown",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/ernest-shattock-34421 Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "321",
+        "bat avg": "16.05",
+        "100s/50s": "\u2013/2",
+        "top score": "74",
+        "catches/stumpings": "8/7"
+    },
+    "clubs": {
+        "Europeans": "1915/16&ndash;1926/27"
+    }
+}

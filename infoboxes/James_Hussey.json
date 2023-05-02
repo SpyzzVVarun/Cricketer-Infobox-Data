@@ -1,0 +1,28 @@
+{
+    "name": "James Hussey",
+    "fullname": "James Michael Hussey",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "1950",
+    "death_place": "Wanganui, New Zealand",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/37461.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "275",
+        "bat avg": "15.27",
+        "100s/50s": "0/1",
+        "deliveries": "1130",
+        "wickets": "24",
+        "bowl avg": "21.83",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Hawke's Bay": "1901\u201302",
+        "Otago": "1902\u201303",
+        "Auckland": "1904\u201305 to 1907\u201308"
+    },
+    "birth_date": "1880-5-27"
+}

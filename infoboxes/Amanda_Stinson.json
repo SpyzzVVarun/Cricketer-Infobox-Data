@@ -1,0 +1,50 @@
+{
+    "name": "Amanda Stinson",
+    "female": "true",
+    "country": "England",
+    "fullname": "Amanda Stinson",
+    "birth_place": "Sheffield, Yorkshire, England",
+    "role": "Wicket-keeper",
+    "internationalspan": "1986\u20131987",
+    "testdebutdate": "26 June",
+    "testdebutyear": "1986",
+    "testdebutagainst": "India",
+    "testcap": "101",
+    "lasttestdate": "29 August",
+    "lasttestyear": "1987",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "22 June",
+    "odidebutyear": "1986",
+    "odidebutagainst": "India",
+    "odicap": "42",
+    "lastodidate": "25 July",
+    "lastodiyear": "198",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17090/17090.html CricketArchive ",
+    "WTest": {
+        "matches": "4",
+        "runs": "18",
+        "bat avg": "6.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "catches/stumpings": "8/3"
+    },
+    "WODI": {
+        "matches": "5",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/1"
+    },
+    "WLA": {
+        "matches": "12",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "8/1"
+    },
+    "clubs": {
+        "Yorkshire": "1987\u20131988"
+    },
+    "birth_date": "1965-11-17"
+}

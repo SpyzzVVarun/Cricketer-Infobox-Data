@@ -1,0 +1,55 @@
+{
+    "name": "Rejaur Rahman Raja",
+    "country": "Bangladesh",
+    "fullname": "Rejaur Rahman Raja",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://www.espncricinfo.com/player/rejaur-rahman-raja-1163488 ",
+    "FC": {
+        "matches": "11",
+        "runs": "176",
+        "bat avg": "14.66",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "1,507",
+        "wickets": "36",
+        "bowl avg": "24.61",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/51",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "7",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "deliveries": "217",
+        "wickets": "9",
+        "bowl avg": "15.22",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "16",
+        "runs": "17",
+        "bat avg": "5.66",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "296",
+        "wickets": "15",
+        "bowl avg": "21.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/25",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Rajshahi": "2020",
+        "Chattogram Challengers( 24 )": "2022"
+    },
+    "birth_date": "1999-1-1"
+}

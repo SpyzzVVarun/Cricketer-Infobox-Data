@@ -1,0 +1,30 @@
+{
+    "name": "Frank Morton",
+    "country": "Australia",
+    "fullname": "Francis Lonsdale Morton",
+    "birth_place": "Fullarton, South Australia",
+    "death_date": "1971",
+    "death_place": "Caulfield, Victoria",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/16/16460/16460.html Cricket Archive ",
+    "First-class": {
+        "matches": "28",
+        "runs": "204",
+        "bat avg": "7.84",
+        "100s/50s": "0/0",
+        "top score": "23 not out",
+        "deliveries": "6127",
+        "wickets": "94",
+        "bowl avg": "32.75",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/40",
+        "catches/stumpings": "14/0"
+    },
+    "clubs": {
+        "South Australia": "1921-22 to 1922-23",
+        "Victoria": "1926-27 to 1931-32"
+    },
+    "birth_date": "1901-12-21"
+}

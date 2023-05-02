@@ -1,0 +1,42 @@
+{
+    "name": "Michael Mainhardt",
+    "fullname": "Michael Shane Mainhardt",
+    "birth_place": "Clermont, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast medium",
+    "role": "Bowler",
+    "country": "Australian",
+    "source": "http://www.espncricinfo.com/ci/content/player/6702.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "-/-",
+        "top score": "5",
+        "deliveries": "444",
+        "wickets": "3",
+        "bowl avg": "86.00",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "1/20",
+        "catches/stumpings": "1/-"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "162",
+        "wickets": "3",
+        "bowl avg": "44.33",
+        "fivefor": "-",
+        "tenfor": "N/A",
+        "best bowling": "2/45",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "Queensland": "1980/81&ndash;1986/87"
+    },
+    "birth_date": "1960-1-6"
+}

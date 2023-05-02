@@ -1,0 +1,48 @@
+{
+    "name": "Roger Whelan",
+    "country": "Ireland",
+    "fullname": "Roger Kyran Whelan",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Heather Whelan (sister), Jill Whelan (sister)",
+    "odidebutdate": "23 June",
+    "odidebutyear": "2007",
+    "odidebutagainst": "India",
+    "odicap": "18",
+    "lastodidate": "24 June",
+    "lastodiyear": "2007",
+    "lastodiagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/107/107554/107554.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "90",
+        "wickets": "2",
+        "bowl avg": "49.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/43",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "27",
+        "bat avg": "6.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "246",
+        "wickets": "4",
+        "bowl avg": "60.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/27",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Ireland": "2007"
+    },
+    "birth_date": "1980-7-27"
+}

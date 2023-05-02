@@ -1,0 +1,22 @@
+{
+    "name": "John Deedes",
+    "country": "England",
+    "birth_place": "Sandling, Kent, England",
+    "death_date": "1885",
+    "death_place": "Belgravia, Westminster, England",
+    "family": "William Deedes, Sr. (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/12378.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "129",
+        "bat avg": "7.58",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1822",
+        "Kent": "1822\u20131828",
+        "Hampshire": "1828"
+    },
+    "birth_date": "1803-6-14"
+}

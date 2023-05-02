@@ -1,0 +1,40 @@
+{
+    "name": "Dusty Rhodes",
+    "country": "England",
+    "fullname": "Albert Ennion Groucott Rhodes",
+    "nickname": "Dusty",
+    "birth_place": "Tintwistle, Cheshire, England",
+    "death_date": "1983",
+    "death_place": "Barlow, Derbyshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "family": "Harold Rhodes (son)",
+    "type1": "FC",
+    "debutdate1": "12 May",
+    "debutyear1": "1937",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Surrey",
+    "lastdate1": "18 August",
+    "lastyear1": "1954",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Middlesex",
+    "source": "https://cricketarchive.com/Archive/Players/32/32323/32323.html CricketArchive ",
+    "First-class": {
+        "matches": "275",
+        "runs": "7,363",
+        "bat avg": "18.97",
+        "100s/50s": "4/29",
+        "top score": "127",
+        "deliveries": "38,345",
+        "wickets": "661",
+        "bowl avg": "28.22",
+        "fivefor": "29",
+        "tenfor": "4",
+        "best bowling": "8/162",
+        "catches/stumpings": "85/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1937\u20131954"
+    },
+    "birth_date": "1916-10-10"
+}

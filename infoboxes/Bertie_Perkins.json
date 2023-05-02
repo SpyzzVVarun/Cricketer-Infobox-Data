@@ -1,0 +1,37 @@
+{
+    "name": "Bertie Perkins",
+    "country": "England",
+    "fullname": "Arthur Lionel Bertie Perkins",
+    "birth_place": "Swansea, Glamorgan, Wales",
+    "death_date": "1992",
+    "death_place": "Durban, Natal, South Africa",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "1 August",
+    "debutyear1": "1925",
+    "debutfor1": "Glamorgan",
+    "debutagainst1": "HDG Leveson-Gower's XI",
+    "lastdate1": "21 June",
+    "lastyear1": "1933",
+    "lastfor1": "Glamorgan",
+    "lastagainst1": "Lancashire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/4/4849/4849.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "102",
+        "bat avg": "14.57",
+        "100s/50s": "0/0",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Glamorgan": "1925-1933"
+    },
+    "birth_date": "1905-10-19"
+}

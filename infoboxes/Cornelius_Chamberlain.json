@@ -1,0 +1,28 @@
+{
+    "name": "Cornelius Chamberlain",
+    "country": "Australia",
+    "fullname": "Cornelius Thomas Chamberlain",
+    "birth_place": "Mitchelstown, County Cork, Ireland",
+    "death_date": "1943",
+    "death_place": "Rose Park, South Australia",
+    "batting": "Right-handed",
+    "role": "All-rounder",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/15/15851/15851.html ",
+    "First-class": {
+        "matches": "3",
+        "runs": "31",
+        "bat avg": "6.20",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "102",
+        "wickets": "1",
+        "bowl avg": "74.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/59",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1905/06\u20131910/11"
+    }
+}

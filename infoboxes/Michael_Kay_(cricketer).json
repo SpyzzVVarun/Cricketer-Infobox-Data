@@ -1,0 +1,24 @@
+{
+    "name": "Michael Kay",
+    "country": "England",
+    "fullname": "Michael John Kay",
+    "birth_place": "Bristol, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/35/35614/35614.html CricketArchive ",
+    "LA": {
+        "matches": "3",
+        "runs": "38",
+        "bat avg": "38.00",
+        "100s/50s": "\u2013/-",
+        "deliveries": "96",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "catches/stumpings": "1/ \u2013"
+    },
+    "clubs": {
+        "Cambridgrshire": "2006&ndash;2007",
+        "Huntingdonshire": "2001&ndash;2002"
+    },
+    "birth_date": "1981-10-30"
+}

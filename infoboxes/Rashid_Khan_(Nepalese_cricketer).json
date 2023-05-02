@@ -1,0 +1,22 @@
+{
+    "name": "Rashid Khan",
+    "country": "Nepal",
+    "birth_place": "Birgunj, Nepal",
+    "oneT20I": "true",
+    "T20Idebutdate": "5 December",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Bhutan",
+    "T20Icap": "30",
+    "source": "http://www.espncricinfo.com/ci/content/player/1161020.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "2001-2-21",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

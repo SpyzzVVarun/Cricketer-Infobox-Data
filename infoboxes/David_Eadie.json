@@ -1,0 +1,26 @@
+{
+    "country": "South Africa",
+    "fullname": "David John Eadie",
+    "birth_place": "Cape Town, Cape Province,, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Mouille Point, Western Cape,, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/44947.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "192",
+        "bat avg": "19.20",
+        "100s/50s": "\u2013/2",
+        "deliveries": "1,013",
+        "wickets": "16",
+        "bowl avg": "37.62",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/57",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1998&ndash;1999"
+    }
+}

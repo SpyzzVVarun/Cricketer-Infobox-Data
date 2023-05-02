@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Lionel Frederick Marson",
+    "birth_place": "Wandsworth, Surrey, England",
+    "death_date": "df=y",
+    "death_place": "Melrose, Roxburghshire, Scotland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/17387.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "56",
+        "bat avg": "28.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1926\u20131927"
+    }
+}

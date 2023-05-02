@@ -1,0 +1,31 @@
+{
+    "name": "Ernie Carless",
+    "country": "England",
+    "fullname": "Ernest Francis Carless",
+    "birth_place": "Cadoxton, Barry, Wales",
+    "death_date": "1987",
+    "death_place": "Barry, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/10658.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Devon": "1947\u20131949",
+        "Glamorgan": "1934"
+    },
+    "birth_date": "1912-9-9"
+}

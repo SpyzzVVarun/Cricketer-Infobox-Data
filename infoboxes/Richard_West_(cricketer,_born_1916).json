@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Richard West",
+    "birth_place": "Berkhamsted, Hertfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Dry Sandford, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/22867.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "43",
+        "bat avg": "4.30",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "1,480",
+        "wickets": "28",
+        "bowl avg": "24.60",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/74",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1936&ndash;1937"
+    }
+}

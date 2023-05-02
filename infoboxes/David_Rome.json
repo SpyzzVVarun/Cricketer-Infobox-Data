@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "David Audley Moberley Rome",
+    "birth_place": "Marylebone, London, England",
+    "death_date": "1970",
+    "death_place": "Kennington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://espncricinfo.com/ci/content/player/19813.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "56",
+        "bat avg": "9.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "32",
+        "deliveries": "24",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Middlesex": "1930&ndash;1933"
+    }
+}

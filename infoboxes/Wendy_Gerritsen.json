@@ -1,0 +1,31 @@
+{
+    "name": "Wendy Gerritsen",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Netherlands",
+    "internationalspan": "1992\u20131995",
+    "odidebutdate": "21 July",
+    "odidebutyear": "1993",
+    "odidebutagainst": "West Indies",
+    "odicap": "32",
+    "lastodidate": "20 July",
+    "lastodiyear": "1995",
+    "lastodiagainst": "Denmark",
+    "source": "https://cricketarchive.com/Players/17/17197/17197.html CricketArchive ",
+    "WODI": {
+        "matches": "7",
+        "runs": "68",
+        "bat avg": "22.66",
+        "100s/50s": "0/0",
+        "deliveries": "294",
+        "wickets": "7",
+        "bowl avg": "24.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1972-10-6"
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Edward Hume",
+    "birth_place": "Scaldwell, Northamptonshire, England",
+    "death_date": "df=yes",
+    "death_place": "Totland Bay, Isle of Wight,, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/15043.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "102",
+        "bat avg": "8.50",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1861&ndash;1863",
+        "Marylebone Cricket Club": "1867"
+    }
+}

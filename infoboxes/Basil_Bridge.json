@@ -1,0 +1,36 @@
+{
+    "name": "Basil Bridge",
+    "country": "England",
+    "fullname": "Walter Basil Bridge",
+    "birth_place": "Selly Oak, Birmingham",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "24 August",
+    "debutyear1": "1955",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "16 August",
+    "lastyear1": "1968",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Scotland",
+    "source": "https://cricketarchive.com/Archive/Players/28/28121/28121.html CricketArchive ",
+    "First-class": {
+        "matches": "99",
+        "runs": "1,058",
+        "bat avg": "10.58",
+        "100s/50s": "0/3",
+        "deliveries": "17,696",
+        "wickets": "283",
+        "bowl avg": "26.28",
+        "fivefor": "13",
+        "tenfor": "2",
+        "best bowling": "8/56",
+        "catches/stumpings": "59/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1955\u201368"
+    },
+    "birth_date": "1938-5-29"
+}

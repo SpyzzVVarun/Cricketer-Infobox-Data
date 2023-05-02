@@ -1,0 +1,34 @@
+{
+    "name": "Salman Nizar",
+    "birth_place": "Thalassery, Kerala, India",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm offbreak",
+    "role": "Batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/826349.html Cricinfo ",
+    "FC": {
+        "matches": "17",
+        "runs": "620",
+        "bat avg": "29.52",
+        "100s/50s": "0/3",
+        "catches/stumpings": "13/0"
+    },
+    "LA": {
+        "matches": "18",
+        "runs": "385",
+        "bat avg": "29.61",
+        "100s/50s": "0/2",
+        "catches/stumpings": "12/0"
+    },
+    "T20": {
+        "matches": "13",
+        "runs": "131",
+        "bat avg": "26.20",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {
+        "Kerala( 12 )": "2015endashpresent"
+    },
+    "birth_date": "1997-6-30"
+}

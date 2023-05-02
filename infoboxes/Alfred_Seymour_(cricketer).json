@@ -1,0 +1,27 @@
+{
+    "name": "Alfred Seymour",
+    "country": "England",
+    "birth_place": "Brussels, Belgium",
+    "death_date": "1897",
+    "death_place": "Folkestone, Kent, England",
+    "source": "http://www.cricinfo.com/ci/content/player/20112.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "47",
+        "bat avg": "11.75",
+        "100s/50s": "&ndash;/1",
+        "top score": "25",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1870",
+        "Lancashire": "1869"
+    },
+    "birth_date": "1843-2-16"
+}

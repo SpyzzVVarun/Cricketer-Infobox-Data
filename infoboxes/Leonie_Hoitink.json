@@ -1,0 +1,49 @@
+{
+    "name": "Leonie Hoitink",
+    "fullname": "Leonie Martine Hoitink",
+    "female": "true",
+    "birth_place": "Enschede, Netherlands",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "country": "Netherlands",
+    "internationalspan": "1999\u20132008",
+    "onetest": "true",
+    "testdebutdate": "28 July",
+    "testdebutyear": "2007",
+    "testdebutagainst": "South Africa",
+    "testcap": "5",
+    "odidebutdate": "21 March",
+    "odidebutyear": "1999",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "49",
+    "lastodidate": "24 February",
+    "lastodiyear": "2008",
+    "lastodiagainst": "Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/12/12267/12267.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "14",
+        "runs": "92",
+        "bat avg": "6.57",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "18",
+        "runs": "175",
+        "bat avg": "10.29",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1973-1-20"
+}

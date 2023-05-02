@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Alan Robert Garofall",
+    "birth_place": "Kingston-upon-Thames, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/13568.html Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "874",
+        "bat avg": "18.59",
+        "100s/50s": "\u2013/4",
+        "top score": "99",
+        "deliveries": "4",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "19/\u2013"
+    },
+    "List A": {
+        "matches": "21",
+        "runs": "158",
+        "bat avg": "8.31",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "38",
+        "deliveries": "829",
+        "wickets": "19",
+        "bowl avg": "28.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/28",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Minor Counties South": "1972\u20131974",
+        "Hertfordshire": "1970\u20131997",
+        "Oxford University": "1966\u20131968"
+    },
+    "birth_date": "1946-6-1"
+}

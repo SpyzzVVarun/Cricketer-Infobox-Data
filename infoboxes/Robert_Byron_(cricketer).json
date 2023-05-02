@@ -1,0 +1,28 @@
+{
+    "name": "Robert Byron",
+    "country": "South Africa",
+    "fullname": "Charles Robert Hamilton Byron",
+    "birth_place": "King William's Town, Cape Colony",
+    "death_date": "1952",
+    "death_place": "King William's Town, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/44274.html Cricinfo ",
+    "First-class": {
+        "matches": "15",
+        "runs": "515",
+        "bat avg": "17.75",
+        "100s/50s": "1/1",
+        "top score": "135",
+        "deliveries": "162",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Border": "1928\u201329 to 1936\u201337"
+    },
+    "birth_date": "1910-4-10"
+}

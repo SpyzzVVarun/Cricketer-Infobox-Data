@@ -1,0 +1,29 @@
+{
+    "name": "Ian Akers-Douglas",
+    "country": "England",
+    "fullname": "Ian Stanley Akers-Douglas",
+    "birth_place": "Kensington, London",
+    "death_date": "1952",
+    "death_place": "Frant, Sussex",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/8694.html CricInfo ",
+    "First-class": {
+        "matches": "60",
+        "runs": "1,965",
+        "bat avg": "23.67",
+        "100s/50s": "2/8",
+        "top score": "123",
+        "deliveries": "125",
+        "wickets": "4",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/20",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1929\u20131930",
+        "Kent": "1929\u20131938"
+    },
+    "birth_date": "1909-11-16"
+}

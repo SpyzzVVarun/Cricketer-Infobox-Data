@@ -1,0 +1,33 @@
+{
+    "name": "Nannapat Koncharoenkai",
+    "female": "true",
+    "country": "Thailand",
+    "birth_place": "Lampang,   Thailand",
+    "role": "Wicket-keeper",
+    "odidebutdate": "20 November",
+    "odidebutyear": "2022",
+    "odidebutagainst": "Netherlands",
+    "odicap": "6",
+    "lastodidate": "24 November",
+    "lastodiyear": "2022",
+    "lastodiagainst": "Netherlands",
+    "T20Idebutdate": "3 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "4",
+    "lastT20Idate": "13 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "India",
+    "source": "http://www.espncricinfo.com/ci/content/player/944285.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "2000-9-11",
+    "medaltemplates": [
+        "Country: {{THA}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

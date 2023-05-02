@@ -1,0 +1,27 @@
+{
+    "name": "David Watt",
+    "birth_place": "Edinburgh, Scotland",
+    "death_date": "2015",
+    "death_place": "Perth, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Legbreak",
+    "source": "http://www.espncricinfo.com/ci/content/player/8320.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "1079",
+        "bat avg": "38.53",
+        "100s/50s": "2/8",
+        "top score": "157",
+        "deliveries": "301",
+        "wickets": "7",
+        "bowl avg": "23.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/2",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {
+        "Western Australia": "1938\u20131949"
+    },
+    "birth_date": "1916-11-24"
+}

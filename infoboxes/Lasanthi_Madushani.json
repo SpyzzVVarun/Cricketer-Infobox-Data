@@ -1,0 +1,21 @@
+{
+    "name": "Lasanthi Madushani",
+    "female": "true",
+    "country": "Sri Lanka",
+    "fullname": "Heenatigala Madhinage Lasanthi Madushani",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/318759.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1987-9-12",
+    "medaltemplates": [
+        "Country: {{SRI}}",
+        "Sport: Women's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2014 Incheon Team"
+    ]
+}

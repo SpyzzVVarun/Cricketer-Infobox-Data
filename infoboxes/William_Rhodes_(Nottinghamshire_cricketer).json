@@ -1,0 +1,40 @@
+{
+    "name": "Billy Rhodes",
+    "country": "England",
+    "fullname": "William Ernest Rhodes",
+    "nickname": "Billy",
+    "birth_place": "Bradford, Yorkshire, England",
+    "death_date": "2005",
+    "death_place": "Macclesfield, Cheshire, England",
+    "batting": "Right-handed",
+    "role": "Batsman/wicketkeeper",
+    "family": "SJ Rhodes (son), GH Rhodes (grandson)",
+    "type1": "First-class",
+    "debutdate1": "17 May",
+    "debutyear1": "1961",
+    "debutfor1": "Nottinghamshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "28 July",
+    "lastyear1": "1964",
+    "lastfor1": "Nottinghamshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32329/32329.html CricketArchive ",
+    "First-class": {
+        "matches": "36",
+        "runs": "1207",
+        "bat avg": "20.11",
+        "100s/50s": "1/1",
+        "top score": "132",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "40/1"
+    },
+    "clubs": {
+        "Nottinghamshire": "1961\u201364"
+    },
+    "birth_date": "1936-8-5"
+}

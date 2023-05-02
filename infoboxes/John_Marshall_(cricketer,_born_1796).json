@@ -1,0 +1,26 @@
+{
+    "country": "Australia",
+    "fullname": "John Marshall",
+    "birth_place": "England",
+    "death_date": "7 September 1876",
+    "death_place": "New Town, Tasmania",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/6495.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "46",
+        "bat avg": "7.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13",
+        "deliveries": "12",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/1"
+    },
+    "clubs": {
+        "Tasmania": "1850/51&ndash;1853/54"
+    }
+}

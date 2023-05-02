@@ -1,0 +1,39 @@
+{
+    "name": "Punter Humphreys",
+    "country": "England",
+    "fullname": "Edward Humphreys",
+    "nickname": "Punter",
+    "birth_place": "Ditton, Kent",
+    "death_date": "1949",
+    "death_place": "Maidstone, Kent",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "FC",
+    "debutdate1": "31 July",
+    "debutyear1": "1899",
+    "debutfor1": "Kent",
+    "debutagainst1": "Surrey",
+    "lastdate1": "4 August",
+    "lastyear1": "1920",
+    "lastfor1": "Kent",
+    "lastagainst1": "Middlesex",
+    "source": "http://www.espncricinfo.com/ci/content/player/14425.html Cricinfo ",
+    "First-class": {
+        "matches": "393",
+        "runs": "16,603",
+        "bat avg": "27.95",
+        "100s/50s": "22/86",
+        "top score": "208",
+        "deliveries": "20,209",
+        "wickets": "379",
+        "bowl avg": "24.57",
+        "fivefor": "12",
+        "tenfor": "2",
+        "best bowling": "7/33",
+        "catches/stumpings": "229/\u2013"
+    },
+    "clubs": {
+        "Kent": "1899\u20131920"
+    },
+    "birth_date": "1881-8-24"
+}

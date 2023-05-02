@@ -1,0 +1,42 @@
+{
+    "name": "D. J. Gokulakrishnan",
+    "country": "India",
+    "fullname": "Jayaraman Gokulakrishnan",
+    "birth_place": "Madras, Tamil Nadu, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowling all-rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/29027.html ESPNcricinfo ",
+    "FC": {
+        "matches": "39",
+        "runs": "1,116",
+        "bat avg": "24.26",
+        "100s/50s": "1/4",
+        "deliveries": "6,703",
+        "wickets": "103",
+        "bowl avg": "27.34",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/54",
+        "catches/stumpings": "33/\u2013"
+    },
+    "List A": {
+        "matches": "45",
+        "runs": "552",
+        "bat avg": "25.09",
+        "100s/50s": "0/2",
+        "deliveries": "2,170",
+        "wickets": "71",
+        "bowl avg": "20.91",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "5/55",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Tamil Nadu": "1993/94\u20132003/04",
+        "Goa": "1996/97\u20131997/98",
+        "Assam": "2001/02"
+    },
+    "birth_date": "1973-1-4"
+}

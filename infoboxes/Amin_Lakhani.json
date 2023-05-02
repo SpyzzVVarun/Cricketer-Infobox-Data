@@ -1,0 +1,37 @@
+{
+    "name": "Amin Lakhani",
+    "country": "Pakistan",
+    "birth_place": "Karachi, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/18/18826/18826.html CricketArchive ",
+    "FC": {
+        "matches": "136",
+        "runs": "1409",
+        "bat avg": "10.36",
+        "100s/50s": "0/1",
+        "deliveries": "28796",
+        "wickets": "466",
+        "bowl avg": "26.53",
+        "fivefor": "21",
+        "tenfor": "4",
+        "best bowling": "8/60",
+        "catches/stumpings": "114/\u2013"
+    },
+    "List A": {
+        "matches": "72",
+        "runs": "188",
+        "bat avg": "7.83",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "3555",
+        "wickets": "86",
+        "bowl avg": "26.02",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "4/10",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1959-10-1"
+}

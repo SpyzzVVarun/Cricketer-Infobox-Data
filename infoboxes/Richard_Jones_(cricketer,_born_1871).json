@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Richard Tyrrell Jones",
+    "birth_place": "Selattyn, Shropshire, England",
+    "death_date": "df=yes",
+    "death_place": "Knolton Bryn, Flintshire, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/15737.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "310",
+        "bat avg": "15.50",
+        "100s/50s": "\u2013/1",
+        "top score": "63",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1890&ndash;1892"
+    }
+}

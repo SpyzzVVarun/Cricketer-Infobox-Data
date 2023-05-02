@@ -1,0 +1,54 @@
+{
+    "name": "Moeneeb Abbas",
+    "country": "South Africa",
+    "fullname": "Moeneeb Abbas",
+    "birth_place": "Cape Town, South Africa",
+    "batting": "Right-hand bat",
+    "bowling": "Right arm medium Right arm medium pace",
+    "source": "https://cricketarchive.com/Archive/Players/435/435643/435643.html CricketArchive subscription needed ",
+    "FC": {
+        "matches": "12",
+        "runs": "544",
+        "bat avg": "27.20",
+        "100s/50s": "0/6",
+        "top score": "67",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "6/0"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "254",
+        "bat avg": "28.22",
+        "100s/50s": "1/0",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "2/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Western Province": "2009\u20132012"
+    },
+    "birth_date": "1983-01-22"
+}

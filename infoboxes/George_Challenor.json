@@ -1,0 +1,51 @@
+{
+    "name": "George Challenor",
+    "country": "West Indies",
+    "fullname": "George Challenor",
+    "birth_place": "Saint Michael, Barbados",
+    "death_date": "1947",
+    "death_place": "Saint Michael, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "EL Challenor  (brother) , R Challenor  (brother) , VC Challenor  (brother)",
+    "testdebutdate": "23 June",
+    "testdebutyear": "1928",
+    "testdebutagainst": "England",
+    "testcap": "2",
+    "lasttestdate": "11 August",
+    "lasttestyear": "1928",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/0/475/475.html ",
+    "Test": {
+        "matches": "3",
+        "runs": "101",
+        "bat avg": "16.83",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "95",
+        "runs": "5822",
+        "bat avg": "38.55",
+        "100s/50s": "15/29",
+        "deliveries": "2619",
+        "wickets": "54",
+        "bowl avg": "23.88",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/16",
+        "catches/stumpings": "25/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1905\u20131930",
+        "MCC": "1926"
+    },
+    "birth_date": "1888-06-28"
+}

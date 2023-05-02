@@ -1,0 +1,54 @@
+{
+    "name": "Haji Murad Muradi",
+    "full_name": "Haji Murad Muradi",
+    "birth_place": "Faryab Province, Afghanistan",
+    "batting": "Right-hand bat",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/afghanistan/content/player/307654.html ESPNcricinfo",
+    "FC": {
+        "matches": "18",
+        "runs": "1,266",
+        "bat avg": "43.65",
+        "100s/50s": "2/11",
+        "top score": "142",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "48.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/29",
+        "catches/stumpings": "35/11"
+    },
+    "LA": {
+        "matches": "5",
+        "runs": "109",
+        "bat avg": "36.33",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/2"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Amo Region": "2017\u20132018"
+    },
+    "birth_date": "1989-05-29"
+}

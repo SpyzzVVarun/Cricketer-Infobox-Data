@@ -1,0 +1,26 @@
+{
+    "name": "William Faviell",
+    "fullname": "William Frederick Oliver Faviell",
+    "birth_place": "Loughton, Essex, England",
+    "death_date": "1950",
+    "death_place": "Nairobi, Kenya",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/12815.html Cricinfo ",
+    "FC": {
+        "matches": "14",
+        "runs": "241",
+        "bat avg": "12.68",
+        "100s/50s": "0/1",
+        "wickets": "10",
+        "bowl avg": "26.10",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/40",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Essex": "1903\u20131910"
+    },
+    "birth_date": "1882-6-5"
+}

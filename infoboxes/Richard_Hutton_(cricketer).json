@@ -1,0 +1,63 @@
+{
+    "name": "Richard Hutton",
+    "fullname": "Richard Anthony Hutton",
+    "birth_place": "Pudsey, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Len Hutton (father)",
+    "country": "England",
+    "testdebutagainst": "Pakistan",
+    "testdebutdate": "17 June",
+    "testdebutyear": "1971",
+    "lasttestdate": "19 August",
+    "lasttestyear": "1971",
+    "lasttestagainst": "India",
+    "source": "http://www.espncricinfo.com/england/content/player/14336.html CricInfo",
+    "Tests": {
+        "matches": "5",
+        "runs": "219",
+        "bat avg": "36.50",
+        "100s/50s": "0/2",
+        "top score": "81",
+        "deliveries": "738",
+        "wickets": "9",
+        "bowl avg": "28.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/72",
+        "catches/stumpings": "9/\u2013"
+    },
+    "FC": {
+        "matches": "281",
+        "runs": "7,561",
+        "bat avg": "21.48",
+        "100s/50s": "5/29",
+        "top score": "189",
+        "deliveries": "34,225",
+        "wickets": "625",
+        "bowl avg": "24.01",
+        "fivefor": "21",
+        "tenfor": "3",
+        "best bowling": "8/50",
+        "catches/stumpings": "216/\u2013"
+    },
+    "LA": {
+        "matches": "111",
+        "runs": "1,085",
+        "bat avg": "18.70",
+        "100s/50s": "0/4",
+        "top score": "65",
+        "deliveries": "5,069",
+        "wickets": "133",
+        "bowl avg": "23.58",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "7/15 |catches/stumpings3 = 28/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1962\u20131964",
+        "Yorkshire": "1962\u20131974",
+        "Transvaal": "1975/76"
+    },
+    "birth_date": "1942-9-6"
+}

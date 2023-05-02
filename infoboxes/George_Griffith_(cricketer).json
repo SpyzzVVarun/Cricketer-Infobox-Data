@@ -1,0 +1,21 @@
+{
+    "name": "George Griffith",
+    "batting": "Left-handed",
+    "bowling": "Left-arm fast (round-arm) Left-arm slow Left-arm fast (round-arm) Left-arm slow (under-arm)",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/29/29804/29804.html",
+    "First-class": {
+        "matches": "243",
+        "runs": "6,314",
+        "bat avg": "15.94",
+        "100s/50s": "2/20",
+        "top score": "142",
+        "deliveries": "27,410",
+        "wickets": "668",
+        "bowl avg": "16.89",
+        "fivefor": "51",
+        "tenfor": "9",
+        "best bowling": "9/130",
+        "catches/stumpings": "202/3"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Stephen Hanson",
+    "country": "South Africa",
+    "fullname": "Stephen Llewellyn Hanson",
+    "birth_place": "Modderpoort, Orange Free State, South Africa",
+    "death_date": "1997",
+    "death_place": "Roodepoort, Gauteng, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/45583.html Cricinfo ",
+    "First-class": {
+        "matches": "43",
+        "runs": "1861",
+        "bat avg": "23.85",
+        "100s/50s": "2/12",
+        "top score": "134",
+        "deliveries": "2632",
+        "wickets": "25",
+        "bowl avg": "51.28",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/112",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Orange Free State": "1950-51 to 1958-59"
+    },
+    "birth_date": "1931-7-8"
+}

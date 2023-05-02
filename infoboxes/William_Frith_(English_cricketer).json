@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "William Frederick Lowndes Frith",
+    "birth_place": "Wandsworth, London, England",
+    "death_date": "1956",
+    "death_place": "West Wittering, Sussex, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "Geoffrey Lowndes (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/13211.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "23.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/23",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "1908\u20131913",
+        "London County": "1901\u20131902"
+    },
+    "birth_date": "1871-7-1"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Patrick John Brett",
+    "birth_place": "Johannesburg, Transvaal,, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Hook Heath, Surrey, England",
+    "family": "James Guise (brother-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/9968.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "490",
+        "bat avg": "40.83",
+        "100s/50s": "1/3",
+        "top score": "106",
+        "deliveries": "513",
+        "wickets": "4",
+        "bowl avg": "60.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/32",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1929"
+    }
+}

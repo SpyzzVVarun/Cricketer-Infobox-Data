@@ -1,0 +1,29 @@
+{
+    "name": "Basil Onyons",
+    "country": "Australia",
+    "fullname": "Basil Austin Onyons",
+    "birth_place": "Windsor, Melbourne, Australia",
+    "death_date": "1967",
+    "death_place": "Glen Iris, Melbourne, Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/16/16514/16514.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "997",
+        "bat avg": "62.31",
+        "100s/50s": "6/3",
+        "top score": "136",
+        "deliveries": "32",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Victoria": "1919\u20131929"
+    },
+    "birth_date": "1887-3-14"
+}

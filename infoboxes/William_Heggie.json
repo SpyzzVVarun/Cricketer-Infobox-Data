@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "William Robert Heggie",
+    "birth_place": "Cupar, Fife, Scotland",
+    "death_date": "1985",
+    "death_place": "Paisley, Renfrewshire, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/william-heggie-25230 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "123",
+        "bat avg": "12.30",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "44",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1937&ndash;1947"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Arthur Congreve Miller",
+    "birth_place": "Bisley, Gloucestershire, England",
+    "death_date": "1947",
+    "death_place": "Milford on Sea, Hampshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/arthur-miller-31163 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "76",
+        "bat avg": "25.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1910/11\u20131918/19"
+    }
+}

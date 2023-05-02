@@ -1,0 +1,29 @@
+{
+    "name": "Neville Shelmerdine",
+    "country": "England",
+    "fullname": "Neville Shelmerdine",
+    "birth_place": "Manchester, England",
+    "death_date": "1992",
+    "death_place": "Manchester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium, off Right-arm medium, off break",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "29 August",
+    "debutyear1": "1945",
+    "debutfor1": "Royal Air Force",
+    "debutagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32716/32716.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Royal Air Force": "1945"
+    },
+    "birth_date": "1909-12-23"
+}

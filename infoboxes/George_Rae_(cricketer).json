@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "George Hugh Kenefick Rae",
+    "birth_place": "Madras, Madras Presidency, British India",
+    "death_date": "1989",
+    "death_place": "Exeter, Devon, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/33279.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "122",
+        "bat avg": "24.40",
+        "100s/50s": "\u2013/1",
+        "top score": "98",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "32.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/5",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1935/36&ndash;1937/38",
+        "Madras": "1936/37&ndash;1937/38"
+    }
+}

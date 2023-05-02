@@ -1,0 +1,46 @@
+{
+    "name": "Alice Monaghan",
+    "female": "true",
+    "fullname": "Alice Zoe Monaghan",
+    "birth_place": "Basingstoke, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1307/1307814/1307814.html CricketArchive",
+    "WLA": {
+        "matches": "31",
+        "runs": "97",
+        "bat avg": "8.08",
+        "100s/50s": "0/0",
+        "deliveries": "244",
+        "wickets": "6",
+        "bowl avg": "31.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "12/\u2013"
+    },
+    "WT20": {
+        "matches": "48",
+        "runs": "261",
+        "bat avg": "10.03",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "264",
+        "wickets": "9",
+        "bowl avg": "31.22",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "2016\u2013present",
+        "Yorkshire Diamonds": "2018",
+        "Loughborough Lightning": "2019",
+        "Southern Vipers": "2020\u2013present",
+        "London Spirit": "2021\u2013present",
+        "Oxfordshire": "2022\u2013present"
+    },
+    "birth_date": "2000-3-20"
+}

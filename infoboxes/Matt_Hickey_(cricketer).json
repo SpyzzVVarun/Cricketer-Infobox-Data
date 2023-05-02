@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Matthew Robert Hickey",
+    "birth_place": "Wandsworth, London, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/510195.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "125",
+        "bat avg": "20.83",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "deliveries": "342",
+        "wickets": "4",
+        "bowl avg": "55.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/63",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge MCCU": "2011",
+        "Cambridge University": "2011&ndash;2013"
+    },
+    "birth_date": "1991-9-23"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "Ireland",
+    "fullname": "Samuel James Edgar",
+    "birth_place": "Lisburn, Ireland",
+    "death_date": "1937",
+    "death_place": "Lisburn, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24361.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "32",
+        "bat avg": "32.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1934"
+    }
+}

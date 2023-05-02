@@ -1,0 +1,32 @@
+{
+    "name": "Tony Durley",
+    "country": "England",
+    "fullname": "Anthony William Durley",
+    "birth_place": "Ilford, Essex",
+    "death_date": "1993",
+    "death_place": "Luton, Bedfordshire",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/11960.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "38",
+        "bat avg": "4.75",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "140",
+        "bat avg": "23.33",
+        "100s/50s": "0/1",
+        "top score": "75",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Essex": "1957",
+        "Bedfordshire": "1960\u20131976"
+    },
+    "birth_date": "1933-9-30"
+}

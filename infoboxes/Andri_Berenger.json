@@ -1,0 +1,67 @@
+{
+    "name": "Andri Berenger",
+    "full_name": "Andri Raffaelo Berenger",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "country": "United Arab Emirates",
+    "country2": "Qatar",
+    "internationalspan": "2014\u20132015",
+    "internationalspan2": "2021\u2013present",
+    "odidebutdate": "28 November",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Afghanistan",
+    "odidebutfor": "UAE",
+    "odicap": "53",
+    "lastodidate": "15 March",
+    "lastodiyear": "2015",
+    "lastodiagainst": "West Indies",
+    "lastodifor": "UAE",
+    "T20Idebutfor": "Qatar",
+    "T20Idebutdate": "23 October",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Bahrain",
+    "T20Icap2": "19",
+    "lastT20Idate": "29 October",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Kuwait",
+    "lastT20Ifor": "Qatar",
+    "source": "https://www.espncricinfo.com/ci/content/player/384817.html ESPNcricinfo",
+    "ODI": {
+        "matches": "10",
+        "runs": "205",
+        "bat avg": "20.50",
+        "100s/50s": "0/2",
+        "top score": "66",
+        "catches/stumpings": "2/0"
+    },
+    "FC": {
+        "matches": "5",
+        "runs": "149",
+        "bat avg": "16.55",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "5/1"
+    },
+    "LA": {
+        "matches": "23",
+        "runs": "411",
+        "bat avg": "18.68",
+        "100s/50s": "0/3",
+        "catches/stumpings": "12/2"
+    },
+    "T20": {
+        "matches": "7",
+        "runs": "153",
+        "bat avg": "21.85",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Seeduwa Raddoluwa": "2008",
+        "Colombo": "2010\u20132011",
+        "Saracens Sports Club": "2015"
+    },
+    "birth_date": "1991-08-29"
+}

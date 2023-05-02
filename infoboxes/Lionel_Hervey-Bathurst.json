@@ -1,0 +1,29 @@
+{
+    "name": "Lionel Hervey-Bathurst",
+    "country": "England",
+    "birth_place": "Clarendon Park, Wiltshire, England",
+    "death_date": "1908",
+    "death_place": "Hemel Hempstead, Hertfordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "role": "Wicket-keeper",
+    "family": "Sir Frederick Hervey-Bathurst (father), Sir Frederick Hervey-Bathurst (half-brother)",
+    "source": "http://www.cricinfo.com/england/content/player/15167.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "16",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/1"
+    },
+    "clubs": {
+        "Hampshire": "1875"
+    }
+}

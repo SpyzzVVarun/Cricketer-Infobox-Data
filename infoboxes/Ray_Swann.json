@@ -1,0 +1,30 @@
+{
+    "name": "Raymond Swann",
+    "country": "England",
+    "fullname": "Raymond Swann",
+    "birth_place": "Stannington, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Alec Swann (son) Graeme Swann (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/20432.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "37",
+        "bat avg": "12.33",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "54",
+        "wickets": "2",
+        "bowl avg": "31.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/50",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1969\u20131972",
+        "Bedfordshire": "1989\u20131995",
+        "Northamptonshire Cricket Board": "1999"
+    },
+    "birth_date": "1950-10-2"
+}

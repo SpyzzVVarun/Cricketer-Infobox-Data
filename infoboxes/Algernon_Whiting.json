@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Algernon Oswald Whiting",
+    "birth_place": "Kensington, London, England",
+    "death_date": "df=yes",
+    "death_place": "Worcester Park, Surrey, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/22944.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "317",
+        "bat avg": "18.64",
+        "100s/50s": "\u2013/2",
+        "top score": "80",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1881&ndash;1882"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Desmond James Murphy",
+    "birth_place": "Armagh, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Cabinteely, Leinster, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24470.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "0",
+        "deliveries": "78",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1920"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "George Barfoot",
+    "country": "England",
+    "source": "http://www.cricinfo.com/ci/content/player/10356.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "44",
+        "bat avg": "3.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "8",
+        "wickets": "1",
+        "bowl avg": "5.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/5",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1842\u20131845"
+    }
+}

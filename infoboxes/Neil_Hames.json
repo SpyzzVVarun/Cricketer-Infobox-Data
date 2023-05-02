@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Neil Gregory Hames",
+    "birth_place": "Hampstead, London, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Greg Hames (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/15109.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "44",
+        "bat avg": "6.28",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1977&ndash;1993"
+    },
+    "birth_date": "1949-12-17"
+}

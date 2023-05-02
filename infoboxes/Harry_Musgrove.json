@@ -1,0 +1,47 @@
+{
+    "name": "Harry Musgrove",
+    "fullname": "Henry Alfred Musgrove",
+    "birth_place": "Surbiton, Surrey, England",
+    "death_date": "1931",
+    "death_place": "Darlinghurst, New South Wales, Australia",
+    "family": "George Musgrove (brother)",
+    "batting": "Right-handed",
+    "country": "Australia",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1885",
+    "lasttestdate": "1 January",
+    "lasttestyear": "1885",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6676.html Cricinfo",
+    "Tests": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "7",
+        "runs": "99",
+        "bat avg": "8.25",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Victoria": "1881\u201382 to 1887\u201388"
+    },
+    "birth_date": "1858-11-27"
+}

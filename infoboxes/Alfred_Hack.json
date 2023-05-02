@@ -1,0 +1,30 @@
+{
+    "name": "Alfred Hack",
+    "country": "Australia",
+    "fullname": "Alfred Thomas Hack",
+    "birth_place": "Glenelg, Adelaide, South Australia",
+    "death_date": "1933",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "role": "Batsman, sometimes wicket-keeper",
+    "family": "Frederick Hack (father), Reginald Hack (brother)",
+    "source": "http://www.espncricinfo.com/australia/content/player/5761.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "1081",
+        "bat avg": "29.21",
+        "100s/50s": "1/5",
+        "top score": "100",
+        "deliveries": "56",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "20/12"
+    },
+    "clubs": {
+        "South Australia": "1927-28 to 1931-32"
+    },
+    "birth_date": "1905-6-12"
+}

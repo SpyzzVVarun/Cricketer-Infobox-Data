@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "John Cresswell Walton",
+    "birth_place": "Greenwich, Kent, England",
+    "death_date": "Q3 1970",
+    "death_place": "Bromley, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24534.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "52",
+        "bat avg": "26.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "deliveries": "24",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1925"
+    }
+}

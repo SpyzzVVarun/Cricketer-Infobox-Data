@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "George Douglas Forrester",
+    "birth_place": "Colinton, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Barwon Heads, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13137.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "235",
+        "bat avg": "21.36",
+        "100s/50s": "\u2013/1",
+        "top score": "82",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1912&ndash;1913"
+    }
+}

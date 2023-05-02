@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Neil James Perry",
+    "birth_place": "Sutton, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/18509.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "19",
+        "bat avg": "2.37",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "6",
+        "deliveries": "1,695",
+        "wickets": "21",
+        "bowl avg": "43.76",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/51",
+        "catches/stumpings": "9/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1979&ndash;1981"
+    },
+    "birth_date": "1958-5-27"
+}

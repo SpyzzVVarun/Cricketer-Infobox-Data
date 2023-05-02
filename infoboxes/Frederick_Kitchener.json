@@ -1,0 +1,29 @@
+{
+    "name": "Frederick Kitchener",
+    "country": "England",
+    "fullname": "Frederick George Kitchener",
+    "birth_place": "Hartley Row, Hampshire, England",
+    "death_date": "1948",
+    "death_place": "East Boldon, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15902.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "80",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "16",
+        "deliveries": "1,440",
+        "wickets": "28",
+        "bowl avg": "22.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "6/59",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1896&ndash;1897 and 1902&ndash;1903"
+    },
+    "birth_date": "1871-7-5"
+}

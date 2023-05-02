@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Henry Charles Thoroton Hildyard",
+    "birth_place": "Flintham, Nottinghamshire, England",
+    "death_date": "df=yes",
+    "death_place": "Rowley, Yorkshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15235.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "66",
+        "bat avg": "7.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "19",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1843&ndash;1846",
+        "Marylebone Cricket Club": "1844"
+    }
+}

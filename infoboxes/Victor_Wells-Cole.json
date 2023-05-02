@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Victor Henry Wells-Cole",
+    "birth_place": "Lincoln, Lincolnshire, England",
+    "death_date": "df=y",
+    "death_place": "Huntingdon, Huntingdonshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/35963.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "156",
+        "wickets": "3",
+        "bowl avg": "29.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/44",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1923/24",
+        "Lincolnshire": "1924"
+    }
+}

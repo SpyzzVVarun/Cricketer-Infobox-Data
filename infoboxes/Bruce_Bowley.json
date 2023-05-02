@@ -1,0 +1,30 @@
+{
+    "name": "Bruce Bowley",
+    "country": "Australia",
+    "fullname": "Bruce Leonard Bowley",
+    "birth_place": "Blyth, South Australia",
+    "death_date": "2014",
+    "death_place": "Adelaide, South Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Allrounder",
+    "source": "https://cricketarchive.com/Archive/Players/8/8477/8477.html CricketArchive ",
+    "First-class": {
+        "matches": "30",
+        "runs": "1,092",
+        "bat avg": "21.41",
+        "100s/50s": "2/2",
+        "top score": "169",
+        "deliveries": "4,736",
+        "wickets": "54",
+        "bowl avg": "35.44",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/70",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "South Australia": "1947/48\u20131951/52"
+    },
+    "birth_date": "1922-01-01"
+}

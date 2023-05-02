@@ -1,0 +1,29 @@
+{
+    "name": "Madeleine Blinkhorn-Jones",
+    "female": "true",
+    "fullname": "Madeleine Blinkhorn-Jones",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/1860/1860499/1860499.html CricketArchive",
+    "WLA": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "8",
+        "runs": "52",
+        "bat avg": "8.66",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Surrey": "2020\u2013present",
+        "South East Stars": "2022"
+    },
+    "birth_date": "2003-4-20"
+}

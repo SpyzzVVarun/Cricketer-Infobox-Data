@@ -1,0 +1,28 @@
+{
+    "name": "James Cobbett",
+    "country": "England",
+    "fullname": "James Cobbett",
+    "birth_place": "Frimley, Surrey",
+    "death_date": "df=yes",
+    "death_place": "Marylebone, London",
+    "batting": "Right-handed",
+    "bowling": "Slow",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/11195.html CricInfo ",
+    "First-class": {
+        "matches": "100",
+        "runs": "1,573",
+        "bat avg": "10.14",
+        "100s/50s": "0/?",
+        "top score": "60",
+        "deliveries": "?",
+        "wickets": "534",
+        "bowl avg": "10.07",
+        "fivefor": "41",
+        "tenfor": "14",
+        "best bowling": "8/?",
+        "catches/stumpings": "71/5"
+    },
+    "clubs": {},
+    "birth_date": "1804-01-12"
+}

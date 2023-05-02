@@ -1,0 +1,26 @@
+{
+    "name": "Ricky Hoyte",
+    "fullname": "Ricardo Lawrence Hoyte",
+    "birth_place": "St Michael, Barbados",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper-batsman",
+    "source": "http://www.espncricinfo.com/westindies/content/player/52068.html ",
+    "First-class": {
+        "matches": "32",
+        "runs": "1129",
+        "bat avg": "24.02",
+        "100s/50s": "0/7",
+        "catches/stumpings": "68/6"
+    },
+    "List A": {
+        "matches": "15",
+        "runs": "303",
+        "bat avg": "30.30",
+        "100s/50s": "0/2",
+        "catches/stumpings": "5/1"
+    },
+    "clubs": {
+        "Barbados": "1989/90&ndash;1998/99"
+    },
+    "birth_date": "1969-10-15"
+}

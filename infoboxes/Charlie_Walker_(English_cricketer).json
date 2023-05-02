@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Charles Aubrey Mark Walker",
+    "birth_place": "Bristol, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/428143.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "69",
+        "bat avg": "34.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "43",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Oxford MCCU": "2011&ndash;present",
+        "Herefordshire": "2011&ndash;present"
+    },
+    "birth_date": "1992-5-21"
+}

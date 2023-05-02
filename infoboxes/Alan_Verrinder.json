@@ -1,0 +1,42 @@
+{
+    "name": "Alan Verrinder",
+    "country": "England",
+    "fullname": "Alan Otto Charles Verrinder",
+    "birth_place": "Henley-on-Thames, Oxfordshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22218.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "24",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "216",
+        "wickets": "4",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/42",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "105.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/43",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1974\u20131976",
+        "Kent": "1977"
+    },
+    "birth_date": "1955-7-28"
+}

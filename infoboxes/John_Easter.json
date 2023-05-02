@@ -1,0 +1,29 @@
+{
+    "name": "John Easter",
+    "country": "England",
+    "fullname": "John Nicholas Cave Easter",
+    "birth_place": "Shawford, Hampshire, England",
+    "death_date": "2016",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Nick Easter (son) Mark Easter (son) Anne Easter Smith (sister)",
+    "source": "http://www.espncricinfo.com/england/content/player/12594.html ESPN cricinfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "90",
+        "bat avg": "3.91",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "4057",
+        "wickets": "58",
+        "bowl avg": "33.44",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/62",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1966 to 1968"
+    },
+    "birth_date": "1945-12-17"
+}

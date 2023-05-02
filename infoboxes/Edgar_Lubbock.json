@@ -1,0 +1,40 @@
+{
+    "name": "Edgar Lubbock",
+    "fullname": "Edgar Lubbock",
+    "birth_place": "St James's, London, England",
+    "death_date": "1907",
+    "death_place": "Chelsea, London, England",
+    "family": "John Lubbock (father) John Lubbock (brother) Alfred Lubbock (brother) Nevile Lubbock (brother) Horace Peacock (brother-in-law) Basil Lubbock (nephew)",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "type1": "FC",
+    "debutdate1": "8 August",
+    "debutyear1": "1866",
+    "debutfor1": "I Zingari",
+    "debutagainst1": "Gentlemen of the South",
+    "lastdate1": "10 August",
+    "lastyear1": "1871",
+    "lastfor1": "Kent",
+    "lastagainst1": "Gentlemen of Marylebone Cricket Club",
+    "source": "http://www.espncricinfo.com/england/content/player/16671.html CricInfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "77",
+        "bat avg": "15.40",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "108",
+        "wickets": "1",
+        "bowl avg": "27.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/4",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "I Zingari": "1866",
+        "Gentlemen of Kent": "1866",
+        "Kent": "1871"
+    },
+    "birth_date": "1847-2-22"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Alan Wassell",
+    "country": "England",
+    "fullname": "Alan Robert Wassell",
+    "birth_place": "Fareham, Hampshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/22325.html Cricinfo ",
+    "FC": {
+        "matches": "122",
+        "runs": "1,209",
+        "bat avg": "8.95",
+        "100s/50s": "&ndash;/1",
+        "top score": "61",
+        "deliveries": "21,403",
+        "wickets": "320",
+        "bowl avg": "27.09",
+        "fivefor": "11",
+        "tenfor": "1",
+        "best bowling": "7/87",
+        "catches/stumpings": "96/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "306",
+        "wickets": "8",
+        "bowl avg": "27.37",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/70",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1959",
+        "Hampshire": "1957&ndash;1966"
+    },
+    "birth_date": "1940-4-15"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "Scotland",
+    "fullname": "John Bartholomew Parker",
+    "death_date": "2 October 1892 (aged ~69)",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19154.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "26",
+        "bat avg": "4.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "14",
+        "deliveries": "193",
+        "wickets": "32",
+        "bowl avg": "6.70",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "5/26",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1823"
+}

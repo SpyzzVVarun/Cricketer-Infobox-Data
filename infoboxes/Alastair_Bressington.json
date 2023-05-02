@@ -1,0 +1,42 @@
+{
+    "name": "Alastair Bressington",
+    "country": "England",
+    "fullname": "Alastair Nigel Bressington",
+    "birth_place": "Bristol, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Nathan Bressington (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/9212.html Cricinfo ",
+    "First-class": {
+        "matches": "9",
+        "runs": "125",
+        "bat avg": "41.66",
+        "100s/50s": "0/1",
+        "deliveries": "970",
+        "wickets": "17",
+        "bowl avg": "34.35",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "144",
+        "bat avg": "24.00",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "402",
+        "wickets": "8",
+        "bowl avg": "37.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Gloucestershire Cricket Board": "2000",
+        "Gloucestershire": "2001\u20132004"
+    },
+    "birth_date": "1979-11-28"
+}

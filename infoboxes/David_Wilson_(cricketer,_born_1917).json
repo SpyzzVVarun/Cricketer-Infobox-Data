@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "David Clement Wilson",
+    "birth_place": "Eccleston, Cheshire, England",
+    "death_date": "df=yes",
+    "death_place": "Sheffield, Yorkshire, England",
+    "family": "Clem Wilson (father), Rowland Wilson (uncle), Rockley Wilson (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/23057.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "98",
+        "bat avg": "10.88",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,529",
+        "wickets": "15",
+        "bowl avg": "48.60",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/81",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1938&ndash;1939"
+    }
+}

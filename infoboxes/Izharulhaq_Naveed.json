@@ -1,0 +1,54 @@
+{
+    "name": "Izharulhaq Naveed",
+    "country": "Afghanistan",
+    "birth_place": "Kabul, Afghanistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1076473.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "13",
+        "bat avg": "3.25",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "354",
+        "wickets": "8",
+        "bowl avg": "27.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/39",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "7",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "deliveries": "378",
+        "wickets": "8",
+        "bowl avg": "31.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/15",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "5",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "291",
+        "wickets": "17",
+        "bowl avg": "19.29",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Sydney Sixers( 99 )": "2022/23",
+        "Multan Sultans( 100 )": "2023-present"
+    },
+    "birth_date": "2003-11-10"
+}

@@ -1,0 +1,32 @@
+{
+    "country": "England",
+    "fullname": "John Mercer",
+    "birth_place": "Southwick, Sussex, England",
+    "death_date": "1987",
+    "death_place": "Westminster, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/4/4535/4535.html CricketArchive ",
+    "FC": {
+        "matches": "457",
+        "runs": "6,076",
+        "bat avg": "11.77",
+        "100s/50s": "&ndash;/10",
+        "top score": "72",
+        "deliveries": "90,364",
+        "wickets": "1,591",
+        "bowl avg": "23.40",
+        "fivefor": "104",
+        "tenfor": "17",
+        "best bowling": "10/51",
+        "catches/stumpings": "144/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1947",
+        "Marylebone Cricket Club": "1926/27",
+        "Wales": "1923&ndash;1930",
+        "Glamorgan": "1922&ndash;1939",
+        "Sussex": "1919&ndash;1921"
+    },
+    "birth_date": "1893-4-22"
+}

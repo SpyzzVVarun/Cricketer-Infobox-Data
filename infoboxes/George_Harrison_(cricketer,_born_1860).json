@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Crawford Harrison",
+    "birth_place": "Maida Hill, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/14574.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "237",
+        "bat avg": "8.46",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "2,585",
+        "wickets": "64",
+        "bowl avg": "19.21",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "7/69",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1880&ndash;1883"
+    }
+}

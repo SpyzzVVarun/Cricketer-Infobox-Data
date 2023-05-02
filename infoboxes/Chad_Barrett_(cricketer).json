@@ -1,0 +1,35 @@
+{
+    "name": "Chad Barrett",
+    "country": "South Africa",
+    "fullname": "Chad Anthony Barrett",
+    "birth_place": "Johannesburg, Transvaal Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "5 June",
+    "debutyear1": "2014",
+    "debutfor1": "Northants",
+    "debutagainst1": "Sri Lanka A",
+    "lastdate1": "31 August",
+    "lastyear1": "2016",
+    "lastfor1": "Northants",
+    "lastagainst1": "Glamorgan",
+    "source": "https://cricketarchive.com/Archive/Players/884/884676/884676.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "138",
+        "bat avg": "\u2013",
+        "100s/50s": "1/0",
+        "deliveries": "282",
+        "wickets": "2",
+        "bowl avg": "104.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/29",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire": "2014\u20132016"
+    },
+    "birth_date": "1989-5-22"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "William Frederick Martin Whitelaw",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1982",
+    "death_place": "Polton, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/william-whitelaw-25393 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "0.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "138",
+        "wickets": "2",
+        "bowl avg": "27.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/48",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1932"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Anthony Denness",
+    "country": "England",
+    "fullname": "Anthony Charles Denness",
+    "birth_place": "Hampton, Middlesex, England",
+    "death_date": "2008",
+    "death_place": "Grainville, Eure, France",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/12304.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "35",
+        "bat avg": "17.50",
+        "100s/50s": "\u2013/ \u2013",
+        "top score": "18",
+        "deliveries": "216",
+        "wickets": "7",
+        "bowl avg": "15.28",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/56",
+        "catches/stumpings": "1/ \u2013"
+    },
+    "clubs": {
+        "Berkshire": "1961\u20131971"
+    },
+    "birth_date": "1936-9-23"
+}

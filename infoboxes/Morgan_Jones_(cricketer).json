@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Morgan Jones",
+    "birth_place": "Llandygwydd, Cardiganshire, Wales",
+    "death_date": "df=yes",
+    "death_place": "Llanmiloe, Carmarthenshire,, Wales",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15808.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "?",
+        "wickets": "11",
+        "bowl avg": "?",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/?",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1849&ndash;1850"
+    }
+}

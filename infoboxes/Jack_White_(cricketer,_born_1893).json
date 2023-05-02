@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Jack White",
+    "birth_place": "Putney, London, England",
+    "death_date": "1968",
+    "death_place": "East Grinstead, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/22911.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "487",
+        "wickets": "6",
+        "bowl avg": "48.16",
+        "fivefor": "1",
+        "tenfor": "&ndash;",
+        "best bowling": "5/75",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Surrey": "1926",
+        "Cambridge University": "1913&ndash;1914"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Ben Wells",
+    "fullname": "Ben Joseph James Wells",
+    "nickname": "Boglin Ben, Mighty Meaty, Groin",
+    "birth_place": "Bath, Somerset, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "onetype1": "true",
+    "debutdate1": "12 September",
+    "debutyear1": "2021",
+    "debutfor1": "Gloucestershire",
+    "debutagainst1": "Glamorgan",
+    "type2": "LA",
+    "debutdate2": "25 July",
+    "debutyear2": "2021",
+    "debutfor2": "Gloucestershire",
+    "debutagainst2": "Lancashire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1149723.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "40",
+        "bat avg": "40.00",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "2/0"
+    },
+    "LA": {
+        "matches": "12",
+        "runs": "201",
+        "bat avg": "20.10",
+        "100s/50s": "0/1",
+        "top score": "76",
+        "catches/stumpings": "3/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "42",
+        "bat avg": "42.00",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Gloucestershire( 72 )": "2021\u20132022"
+    },
+    "birth_date": "2000-7-30"
+}

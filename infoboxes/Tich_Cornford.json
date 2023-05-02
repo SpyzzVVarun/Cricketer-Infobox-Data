@@ -1,0 +1,32 @@
+{
+    "name": "Tich Cornford",
+    "birth_place": "Hurst Green, East Sussex, England",
+    "death_date": "6 February 1964 (aged 63)",
+    "death_place": "Brighton, Sussex, England",
+    "batting": "Right-handed",
+    "country": "England",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "10 January",
+    "testdebutyear": "1930",
+    "lasttestdate": "21 February",
+    "lasttestagainst": "New Zealand",
+    "lasttestyear": "1930",
+    "source": "http://www.espncricinfo.com/ci/content/player/10817.html ESPNcricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "36",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "catches/stumpings": "5/3"
+    },
+    "First-class": {
+        "matches": "496",
+        "runs": "6,554",
+        "bat avg": "14.96",
+        "100s/50s": "0/16",
+        "top score": "82",
+        "catches/stumpings": "676/342"
+    },
+    "clubs": {}
+}

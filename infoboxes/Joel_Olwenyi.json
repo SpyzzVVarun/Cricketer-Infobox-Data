@@ -1,0 +1,40 @@
+{
+    "name": "Joel Olwenyi",
+    "country": "Uganda",
+    "fullname": "Joel Olwenyi",
+    "birth_place": "Kampala, Uganda",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm medium-fast",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/36/36140/36140.html CricketArchive ",
+    "FC": {
+        "matches": "4",
+        "runs": "174",
+        "bat avg": "21.75",
+        "100s/50s": "&ndash;/1",
+        "top score": "51",
+        "deliveries": "372",
+        "wickets": "6",
+        "bowl avg": "31.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/25",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "401",
+        "bat avg": "36.45",
+        "100s/50s": "1/2",
+        "top score": "126",
+        "deliveries": "193",
+        "wickets": "9",
+        "bowl avg": "16.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/37",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1980-8-28"
+}

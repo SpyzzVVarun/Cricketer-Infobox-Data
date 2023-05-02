@@ -1,0 +1,25 @@
+{
+    "name": "John Raybould",
+    "fullname": "John Griffith Raybould",
+    "birth_place": "Normanby, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/19609.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "281",
+        "bat avg": "12.77",
+        "100s/50s": "0/0",
+        "deliveries": "2,322",
+        "wickets": "34",
+        "bowl avg": "38.29",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/31",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1957\u20131959"
+    },
+    "birth_date": "1934-7-26"
+}

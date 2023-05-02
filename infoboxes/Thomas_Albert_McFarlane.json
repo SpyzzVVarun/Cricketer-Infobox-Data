@@ -1,0 +1,27 @@
+{
+    "name": "Thomas McFarlane",
+    "fullname": "Thomas Albert McFarlane",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "1967",
+    "death_place": "Palmerston North, New Zealand",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/37865.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "442",
+        "bat avg": "17.68",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "deliveries": "1,229",
+        "wickets": "20",
+        "bowl avg": "27.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/49",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Otago": "1909/10\u20131919/20"
+    },
+    "birth_date": "1890-7-9"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Shaun Graf",
+    "country": "Australia",
+    "fullname": "Shaun Francis Graf",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Fast bowler",
+    "odidebutdate": "23 November",
+    "odidebutyear": "1980",
+    "odidebutagainst": "New Zealand",
+    "odicap": "62",
+    "lastodidate": "24 November",
+    "lastodiyear": "1981",
+    "lastodiagainst": "West Indies",
+    "source": "http://content.cricinfo.com/ci/content/current/player/5420.html Cricinfo ",
+    "ODI": {
+        "matches": "11",
+        "runs": "24",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "522",
+        "wickets": "8",
+        "bowl avg": "43.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/23",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "55",
+        "runs": "1,559",
+        "bat avg": "25.14",
+        "100s/50s": "1/8",
+        "deliveries": "9,220",
+        "wickets": "124",
+        "bowl avg": "33.91",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/95",
+        "catches/stumpings": "30/\u2013"
+    },
+    "LA": {
+        "matches": "41",
+        "runs": "300",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "deliveries": "2,033",
+        "wickets": "51",
+        "bowl avg": "25.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/15",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1984/85",
+        "Hampshire": "1980",
+        "Western Australia": "1983/84"
+    },
+    "birth_date": "1957-05-19"
+}

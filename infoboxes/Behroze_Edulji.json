@@ -1,0 +1,31 @@
+{
+    "name": "Behroze Edulji",
+    "female": "true",
+    "country": "India",
+    "fullname": "Behroze F Edulji",
+    "birth_place": "Bombay, India",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium Left-arm medium fast",
+    "testdebutdate": "31 October",
+    "testdebutyear": "1976",
+    "testdebutagainst": "West Indies",
+    "testcap": "2",
+    "onetest": "true",
+    "source": "https://cricketarchive.com/Archive/players/17/17127/17127.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "89",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1950-4-13"
+}

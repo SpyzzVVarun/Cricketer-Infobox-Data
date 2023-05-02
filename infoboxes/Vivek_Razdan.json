@@ -1,0 +1,38 @@
+{
+    "name": "Vivek Razdan",
+    "nickname": "Kaptaan",
+    "birth_place": "Delhi, India",
+    "country": "India",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/33151.html  |role=",
+    "Tests": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "290",
+        "wickets": "5",
+        "bowl avg": "28.20",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/79",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "3",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "84",
+        "wickets": "1",
+        "bowl avg": "77.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/37",
+        "catches/stumpings": "4/-"
+    },
+    "clubs": {},
+    "birth_date": "1969-8-25"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Pulin Das",
+    "country": "India",
+    "fullname": "Pulin C Das",
+    "birth_place": "Guwahati, India",
+    "death_date": "2014",
+    "death_place": "Guwahati, India",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/28413.html Cricinfo ",
+    "FA": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "26.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "-",
+        "catches/stumpings": "-"
+    },
+    "clubs": {
+        "Assam cricket team": "1949/50 - 1951/52"
+    },
+    "birth_date": "1918-11-1"
+}

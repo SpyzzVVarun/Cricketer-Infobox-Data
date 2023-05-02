@@ -1,0 +1,50 @@
+{
+    "name": "Brenda Duncan",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1957",
+    "fullname": "Brenda Margaret Duncan",
+    "birth_place": "Gisborne, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "testdebutdate": "18 January",
+    "testdebutyear": "1957",
+    "testdebutagainst": "Australia",
+    "testcap": "34",
+    "lasttestdate": "29 November",
+    "lasttestyear": "1957",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17259/17259.html CricketArchive ",
+    "WTest": {
+        "matches": "2",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "396",
+        "wickets": "2",
+        "bowl avg": "57.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WFC": {
+        "matches": "14",
+        "runs": "257",
+        "bat avg": "21.41",
+        "100s/50s": "0/2",
+        "top score": "51",
+        "deliveries": "2,542",
+        "wickets": "45",
+        "bowl avg": "13.73",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/42",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Auckland": "1954/55\u20131956/57"
+    },
+    "birth_date": "1932-10-23"
+}

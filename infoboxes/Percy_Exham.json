@@ -1,0 +1,32 @@
+{
+    "name": "Percy Exham",
+    "country": "England",
+    "fullname": "Percy George Exham",
+    "birth_place": "Cork, Ireland",
+    "death_date": "1922",
+    "death_place": "Repton, Derbyshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "10 May",
+    "debutyear1": "1880",
+    "debutfor1": "Cambridge Univ.",
+    "debutagainst1": "England XI",
+    "lastdate1": "19 July",
+    "lastyear1": "1883",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/29/29322/29322.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "88",
+        "bat avg": "8.80",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1880\u20131881",
+        "Derbyshire": "1883"
+    },
+    "birth_date": "1859-1-26"
+}

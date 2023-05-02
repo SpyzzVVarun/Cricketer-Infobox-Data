@@ -1,0 +1,39 @@
+{
+    "fullname": "Jackson Gladwin Thompson",
+    "birth_place": "Nasik, Maharashtra, India",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/45/45359/45359.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "32",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "123",
+        "bat avg": "24.60",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "Twenty20": {
+        "matches": "4",
+        "runs": "22",
+        "bat avg": "5.50",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Unicorns( 22 )": "2010-present",
+        "Middlesex": "2010-present",
+        "Gloucestershire": "2007",
+        "Oxfordshire": "2007",
+        "Gloucestershire Cricket Board": "2002"
+    },
+    "birth_date": "1986-02-07"
+}

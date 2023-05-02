@@ -1,0 +1,42 @@
+{
+    "name": "Francis Mugliston",
+    "country": "England",
+    "fullname": "Francis Hugh Mugliston",
+    "birth_place": "Singapore, Straits Settlements",
+    "death_date": "1932",
+    "death_place": "Mayfair, Westminster, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow-medium",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "18 May",
+    "debutyear1": "1905",
+    "debutfor1": "Cambridge University",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "29 June",
+    "lastyear1": "1911",
+    "lastfor1": "HDG Leveson-Gower's XI",
+    "lastagainst1": "Oxford University",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/31/31610/31610.html CricketArchive ",
+    "First-class": {
+        "matches": "33",
+        "runs": "874",
+        "bat avg": "16.18",
+        "100s/50s": "1/2",
+        "top score": "109",
+        "deliveries": "518",
+        "wickets": "4",
+        "bowl avg": "75.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/32",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1905\u20131908",
+        "Lancashire": "1906\u20131908",
+        "HDG Leveson-Gower's XI": "1909\u20131911",
+        "MCC": "1910"
+    },
+    "birth_date": "1886-6-7"
+}

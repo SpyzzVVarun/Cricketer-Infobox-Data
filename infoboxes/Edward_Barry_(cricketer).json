@@ -1,0 +1,22 @@
+{
+    "name": "Edward Barry",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26694/26694.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "20",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "deliveries": "144",
+        "wickets": "1",
+        "bowl avg": "70.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/44",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {}
+}

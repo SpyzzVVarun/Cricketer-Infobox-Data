@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Francis Michael Quinn",
+    "birth_place": "Gort, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Dublin, Leinster, Ireland",
+    "family": "Gerry Quinn (brother), Kevin Quinn (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24500.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "227",
+        "bat avg": "16.21",
+        "100s/50s": "1/\u2013",
+        "top score": "140",
+        "deliveries": "84",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1936&ndash;1948"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Edward Sewell",
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/5/5294/5294.html CricketArchive ",
+    "First-class": {
+        "matches": "87",
+        "runs": "3,430",
+        "bat avg": "24.50",
+        "100s/50s": "5/17",
+        "top score": "181",
+        "deliveries": "1,499",
+        "wickets": "17",
+        "bowl avg": "47.47",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/73",
+        "catches/stumpings": "70/0"
+    },
+    "clubs": {}
+}

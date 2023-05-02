@@ -1,0 +1,25 @@
+{
+    "name": "Arthur Newman",
+    "fullname": "Arthur William Newman",
+    "birth_place": "Westbury, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Melksham, Wiltshire, England",
+    "source": "http://www.espncricinfo.com/england/content/player/18109.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "39",
+        "bat avg": "7.80",
+        "100s/50s": "0/0",
+        "deliveries": "198",
+        "wickets": "2",
+        "bowl avg": "28.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/12",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "1903\u20131930",
+        "Marylebone Cricket Club": "1907\u20131923"
+    }
+}

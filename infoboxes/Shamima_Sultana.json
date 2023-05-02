@@ -1,0 +1,55 @@
+{
+    "name": "Shamima Sultana",
+    "female": "true",
+    "country": "Bangladesh",
+    "fullname": "Shamima Sultana",
+    "birth_place": "Gumugura, Bangladesh",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2014\u2013present",
+    "odidebutdate": "6 March",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Pakistan",
+    "odicap": "22",
+    "lastodidate": "27 March",
+    "lastodiyear": "2022",
+    "lastodiagainst": "England",
+    "T20Idebutdate": "8 March",
+    "T20Idebutyear": "2014",
+    "T20Idebutagainst": "Pakistan",
+    "T20Icap": "23",
+    "lastT20Idate": "21 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "South Africa",
+    "source": "https://cricketarchive.com/Archive/Players/427/427203/427203.html CricketArchive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WODI": {
+        "matches": "10",
+        "runs": "202",
+        "bat avg": "20.20",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "catches/stumpings": "2/4"
+    },
+    "WT20I": {
+        "matches": "47",
+        "runs": "634",
+        "bat avg": "14.40",
+        "100s/50s": "0/2",
+        "top score": "51",
+        "catches/stumpings": "16/15"
+    },
+    "clubs": {
+        "Dhaka Division": "2008/09\u20132017/18",
+        "Southern Zone": "2021/22\u2013present"
+    },
+    "birth_date": "1988-3-9",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

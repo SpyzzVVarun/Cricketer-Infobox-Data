@@ -1,0 +1,48 @@
+{
+    "name": "Joe Cox",
+    "fullname": "Joseph Lovell Cox",
+    "birth_place": "Pietermaritzburg, Natal",
+    "death_date": "df=y",
+    "death_place": "Bulawayo, Rhodesia",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "South Africa",
+    "testdebutdate": "13 December",
+    "testdebutyear": "1913",
+    "lasttestdate": "14 February",
+    "lasttestyear": "1914",
+    "source": "https://cricketarchive.com/Archive/Players/0/360/360.html CricketArchive ",
+    "Tests": {
+        "matches": "3",
+        "runs": "17",
+        "bat avg": "3.39",
+        "100s/50s": "0/0",
+        "deliveries": "576",
+        "wickets": "4",
+        "bowl avg": "61.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/74",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "42",
+        "runs": "357",
+        "bat avg": "8.30",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "6,232",
+        "wickets": "120",
+        "bowl avg": "22.53",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "8/20",
+        "catches/stumpings": "14/0"
+    },
+    "clubs": {
+        "Natal": "1910\u201311 to 1921\u201322"
+    },
+    "birth_date": "1886-6-8"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Harry Griffin",
+    "fullname": "Harry Griffin",
+    "birth_place": "Street, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Bristol, England",
+    "nickname": "Joe",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/13470.html ESPNcricinfo",
+    "First-class": {
+        "matches": "4",
+        "runs": "69",
+        "bat avg": "9.85",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "595",
+        "wickets": "14",
+        "bowl avg": "15.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/40",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1898\u201399"
+    },
+    "birth_date": "1873-04-21"
+}

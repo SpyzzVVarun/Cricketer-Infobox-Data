@@ -1,0 +1,76 @@
+{
+    "name": "Tom Blundell",
+    "fullname": "Thomas Ackland Blundell",
+    "birth_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicket-keeper-batter",
+    "internationalspan": "2017\u2013present",
+    "country": "New Zealand",
+    "testdebutdate": "1 December",
+    "testdebutyear": "2017",
+    "testdebutagainst": "West Indies",
+    "testcap": "273",
+    "lasttestdate": "17 March",
+    "lasttestyear": "2023",
+    "lasttestagainst": "Sri Lanka",
+    "odidebutdate": "5 February",
+    "odidebutyear": "2020",
+    "odidebutagainst": "India",
+    "lastodidate": "31 March",
+    "lastodiyear": "2023",
+    "lastodiagainst": "Sri Lanka",
+    "odicap": "196",
+    "odishirt": "66",
+    "T20Idebutdate": "8 January",
+    "T20Idebutyear": "2017",
+    "T20Idebutagainst": "Bangladesh",
+    "lastT20Idate": "8 September",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Bangladesh",
+    "T20Icap": "73",
+    "T20Ishirt": "66",
+    "source": "http://www.espncricinfo.com/ci/content/player/440516.html Cricinfo",
+    "Test": {
+        "matches": "26",
+        "runs": "1,658",
+        "bat avg": "43.63",
+        "100s/50s": "4/10",
+        "top score": "138",
+        "catches/stumpings": "68/10"
+    },
+    "ODI": {
+        "matches": "2",
+        "runs": "31",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "96",
+        "runs": "5,490",
+        "bat avg": "38.39",
+        "100s/50s": "14/27",
+        "top score": "153",
+        "catches/stumpings": "233/16"
+    },
+    "LA": {
+        "matches": "60",
+        "runs": "1,427",
+        "bat avg": "27.98",
+        "100s/50s": "1/7",
+        "top score": "151",
+        "catches/stumpings": "54/5"
+    },
+    "clubs": {
+        "Wellington": "2013\u2013present"
+    },
+    "birth_date": "1990-9-1",
+    "medaltemplates": [
+        "Sport: Men's Cricket",
+        "Country: {{NZ}}",
+        "Competition: World Cup",
+        "Competition: ICC World Test Championship"
+    ]
+}

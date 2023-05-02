@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Scholes Butler Birch",
+    "birth_place": "Failsworth, Lancashire, England",
+    "death_date": "1910",
+    "death_place": "Cheshunt, Hertfordshire, England",
+    "family": "Lea Birch (father)",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm underarm Unknown-arm underarm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/10446.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "84",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "104",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1849&ndash;1851"
+    }
+}

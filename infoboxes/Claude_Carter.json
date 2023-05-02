@@ -1,0 +1,49 @@
+{
+    "name": "Claude Carter",
+    "fullname": "Claude Pagdett Carter",
+    "birth_place": "Durban, Colony of Natal",
+    "death_date": "1952",
+    "death_place": "Durban, South Africa",
+    "heightft": "5",
+    "heightinch": "6",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "South Africa",
+    "testdebutdate": "10 June",
+    "testdebutyear": "1912",
+    "lasttestdate": "16 August",
+    "lasttestyear": "1924",
+    "source": "https://cricketarchive.com/Archive/Players/0/352/352.html CricketArchive",
+    "Tests": {
+        "matches": "10",
+        "runs": "181",
+        "bat avg": "18.10",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "1475",
+        "wickets": "28",
+        "bowl avg": "24.78",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/50",
+        "catches/stumpings": "2/-"
+    },
+    "First-class": {
+        "matches": "107",
+        "runs": "1333",
+        "bat avg": "11.69",
+        "100s/50s": "0/3",
+        "deliveries": "15735",
+        "wickets": "366",
+        "bowl avg": "18.56",
+        "fivefor": "23",
+        "tenfor": "2",
+        "best bowling": "7/37",
+        "catches/stumpings": "64/-"
+    },
+    "clubs": {
+        "Natal": "1897\u201398 to 1907\u201308, 1912\u201313 to 1923\u201324",
+        "Transvaal": "1910\u201311"
+    },
+    "birth_date": "1881-4-23"
+}

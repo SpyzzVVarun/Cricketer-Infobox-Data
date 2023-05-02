@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Thomas Wyatt Hale",
+    "birth_place": "East Grinstead, Sussex, England",
+    "death_date": "df=yes",
+    "death_place": "Uxbridge, Middlesex, England",
+    "family": "John Hale (brother)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/15174.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "86",
+        "bat avg": "9.55",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1851&ndash;1852"
+    }
+}

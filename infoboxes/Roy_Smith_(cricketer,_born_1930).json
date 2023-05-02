@@ -1,0 +1,39 @@
+{
+    "name": "Roy Smith",
+    "country": "England",
+    "fullname": "Roy Smith",
+    "birth_place": "Taunton, Somerset, England",
+    "death_date": "2020",
+    "death_place": "Weston-super-Mare, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "27 June",
+    "debutyear1": "1949",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Cambridge University",
+    "lastdate1": "15 July",
+    "lastyear1": "1955",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3820/3820.html CricketArchive ",
+    "First-class": {
+        "matches": "96",
+        "runs": "2600",
+        "bat avg": "17.10",
+        "100s/50s": "1/9",
+        "top score": "100",
+        "deliveries": "2067",
+        "wickets": "19",
+        "bowl avg": "57.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/91",
+        "catches/stumpings": "31/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1949&ndash;1955"
+    },
+    "birth_date": "1930-4-14"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Nicholas Trevor Lee",
+    "birth_place": "Dartford, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/16657.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "490",
+        "bat avg": "30.62",
+        "100s/50s": "\u2013/3",
+        "deliveries": "28",
+        "wickets": "1",
+        "bowl avg": "24.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/24",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "2011&ndash;2019",
+        "Cambridge UCCE/MCCU": "2014",
+        "Bedfordshire": "2015"
+    },
+    "birth_date": "1983-10-16"
+}

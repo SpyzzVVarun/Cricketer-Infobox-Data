@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Jonathan Guy Varey",
+    "birth_place": "Darlington, County Durham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "David Varey (twin brother)",
+    "source": "http://www.espncricinfo.com/westindies/content/player/22202.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "426",
+        "bat avg": "30.42",
+        "100s/50s": "\u2013/2",
+        "deliveries": "1,254",
+        "wickets": "6",
+        "bowl avg": "144.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/69",
+        "catches/stumpings": "3/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "125",
+        "bat avg": "31.25",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "336",
+        "wickets": "8",
+        "bowl avg": "33.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/44",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cheshire": "1982",
+        "Combined Universities": "1982&ndash;1983",
+        "Oxford University": "1982&ndash;1983"
+    },
+    "birth_date": "1961-10-15"
+}

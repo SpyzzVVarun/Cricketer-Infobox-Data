@@ -1,0 +1,39 @@
+{
+    "module": "Infobox football biography",
+    "embed": "yes |position       = Defender |currentclub    = Reading |clubnumber     = 14 |youthyears1    =  |youthclubs1    =  |years1         = 2010\u20132014 |clubs1         = Gillingham |caps1          = |goals1         =  |years2         = 2014\u20132016 |clubs2         = Brighton & Hove Albion |caps2          = |goals2         =  |years3         = 2016 |clubs3         = London Bees |caps3          =  |goals3         =  |years4         = 2017\u20132020 |clubs4         = Chelsea |caps4          = 15 |goals4         = 0 |years5         = 2020\u2013 |clubs5         = Reading |caps5          = 46 |goals5         = 0 |nationalyears1 =  |nationalteam1  =  |nationalcaps1  =  |nationalgoals1 =  |club-update    = 03:15, 25 November 2022 (UTC)   Infobox cricketer",
+    "child": "yes",
+    "female": "true",
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "WLA": {
+        "matches": "45",
+        "runs": "343",
+        "bat avg": "28.58",
+        "100s/50s": "0/2",
+        "deliveries": "1,029",
+        "wickets": "21",
+        "bowl avg": "25.95",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/31",
+        "catches/stumpings": "9/\u2013"
+    },
+    "WT20": {
+        "matches": "30",
+        "runs": "192",
+        "bat avg": "16.00",
+        "100s/50s": "0/0",
+        "deliveries": "189",
+        "wickets": "8",
+        "bowl avg": "27.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "7/\u2013  "
+    },
+    "clubs": {
+        "Kent": "2008\u20132016"
+    }
+}

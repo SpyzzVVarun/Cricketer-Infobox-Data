@@ -1,0 +1,56 @@
+{
+    "name": "Mayu Pasupati",
+    "country": "New Zealand",
+    "fullname": "Mayu Yoga Pasupati",
+    "birth_place": "Jaffna, Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://content-usa.cricinfo.com/newzealand/content/player/38137.html (Cricinfo) ",
+    "FC": {
+        "matches": "4",
+        "runs": "88",
+        "bat avg": "29.33",
+        "100s/50s": "0/1",
+        "deliveries": "375",
+        "wickets": "8",
+        "bowl avg": "20.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/39",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "70",
+        "runs": "681",
+        "bat avg": "16.60",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "2650",
+        "wickets": "69",
+        "bowl avg": "31.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/33",
+        "catches/stumpings": "12/0"
+    },
+    "T20": {
+        "matches": "11",
+        "runs": "86",
+        "bat avg": "21.50",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "176",
+        "wickets": "9",
+        "bowl avg": "25.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/16",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Auckland": "",
+        "Wellington": ""
+    },
+    "birth_date": "1976-12-5"
+}

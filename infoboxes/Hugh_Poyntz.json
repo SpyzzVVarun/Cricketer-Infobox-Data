@@ -1,0 +1,41 @@
+{
+    "name": "Hugh Poyntz",
+    "country": "England",
+    "fullname": "Hugh Stainton Poyntz",
+    "birth_place": "Nottingham, England",
+    "death_date": "1955",
+    "death_place": "Harestock, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-break",
+    "role": "Batsman",
+    "family": "Massey Poyntz (brother)",
+    "type1": "FC",
+    "debutdate1": "16 May",
+    "debutyear1": "1904",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "23 May",
+    "lastyear1": "1921",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Cambridge University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3769/3769.html CricketArchive ",
+    "First-class": {
+        "matches": "40",
+        "runs": "1,288",
+        "bat avg": "19.22",
+        "100s/50s": "0/3",
+        "top score": "85",
+        "deliveries": "276",
+        "wickets": "5",
+        "bowl avg": "36.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/37",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1904\u20131921",
+        "Orange Free State": "1912/13"
+    },
+    "birth_date": "1877-9-17"
+}

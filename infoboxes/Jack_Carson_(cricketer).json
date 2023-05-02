@@ -1,0 +1,32 @@
+{
+    "name": "Jack Carson",
+    "fullname": "Jack Joshua Carson",
+    "birth_place": "Craigavon, County Armagh, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "1 August",
+    "debutyear1": "2020",
+    "debutfor1": "Sussex",
+    "debutagainst1": "Hampshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1145101.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "594",
+        "bat avg": "16.97",
+        "100s/50s": "0/4",
+        "top score": "87",
+        "deliveries": "4,562",
+        "wickets": "71",
+        "bowl avg": "34.64",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/85",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Sussex( 16 )": "2020\u2013present"
+    },
+    "birth_date": "2000-12-3"
+}

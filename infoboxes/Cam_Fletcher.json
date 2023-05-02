@@ -1,0 +1,37 @@
+{
+    "name": "Cam Fletcher",
+    "country": "New Zealand",
+    "fullname": "Cameron Dean Fletcher",
+    "birth_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper-batter",
+    "source": "http://www.espncricinfo.com/ci/content/player/547764.html Cricinfo ",
+    "FC": {
+        "matches": "72",
+        "runs": "3,179",
+        "bat avg": "35.32",
+        "100s/50s": "6/16",
+        "top score": "157",
+        "catches/stumpings": "232/13"
+    },
+    "LA": {
+        "matches": "65",
+        "runs": "1,062",
+        "bat avg": "29.50",
+        "100s/50s": "0/3",
+        "top score": "73",
+        "catches/stumpings": "70/10"
+    },
+    "T20": {
+        "matches": "81",
+        "runs": "1,571",
+        "bat avg": "35.70",
+        "100s/50s": "0/8",
+        "catches/stumpings": "46/17"
+    },
+    "clubs": {
+        "Northern Districts": "2012/13\u20132013/14",
+        "Canterbury": "2014/15\u2013"
+    },
+    "birth_date": "1993-3-1"
+}

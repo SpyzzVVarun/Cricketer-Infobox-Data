@@ -1,0 +1,31 @@
+{
+    "name": "Chris Lonsdale",
+    "country": "Bermuda",
+    "fullname": "Christopher Hallett Lonsdale",
+    "birth_place": "Nottingham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off spin",
+    "role": "Bowler",
+    "oneodi": "true",
+    "odidebutdate": "20 August",
+    "odidebutyear": "2007",
+    "odidebutagainst": "Netherlands",
+    "odicap": "27",
+    "source": "https://cricketarchive.com/Archive/Players/214/214054/214054.html CricketArchive ",
+    "ODI": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1987-9-15"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "George Longman",
+    "country": "England",
+    "fullname": "George Henry Longman",
+    "birth_place": "Farnborough, Hampshire, England",
+    "death_date": "1938",
+    "death_place": "Wimbledon Common, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "role": "Occasional wicket-keeper",
+    "family": "Henry Longman (son)",
+    "source": "http://www.cricinfo.com/ci/content/player/16343.html Cricinfo ",
+    "First-class": {
+        "matches": "68",
+        "runs": "2,448",
+        "bat avg": "20.57",
+        "100s/50s": "\u2013/11",
+        "top score": "98",
+        "deliveries": "288",
+        "wickets": "3",
+        "bowl avg": "60.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/1",
+        "catches/stumpings": "41/4"
+    },
+    "clubs": {
+        "Cambridge University": "1872\u20131875",
+        "Hampshire": "1875\u20131885",
+        "Marylebone Cricket Club": "1877\u20131881"
+    }
+}

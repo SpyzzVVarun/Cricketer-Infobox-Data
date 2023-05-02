@@ -1,0 +1,30 @@
+{
+    "name": "Mordaunt Doll",
+    "fullname": "Mordaunt Henry Caspers Doll",
+    "birth_place": "Camberwell, London",
+    "death_date": "1966",
+    "death_place": "Devizes, Wiltshire",
+    "family": "Christian Doll (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12217.html",
+    "First-class": {
+        "matches": "43",
+        "runs": "1,097",
+        "bat avg": "18.59",
+        "100s/50s": "1/0",
+        "deliveries": "1,034",
+        "wickets": "15",
+        "bowl avg": "43.66",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/52",
+        "catches/stumpings": "32/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1907\u20131920",
+        "Cambridge University": "1908",
+        "Hertfordshire": "1907\u20131909",
+        "Middlesex": "1912\u20131919"
+    },
+    "birth_date": "1888-04-05"
+}

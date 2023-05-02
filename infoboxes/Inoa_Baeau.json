@@ -1,0 +1,45 @@
+{
+    "name": "Inoa Baeau",
+    "country": "Papua New Guinea",
+    "fullname": "Inoa Baeau",
+    "birth_place": "Port Moresby, Papua New Guinea",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "List A",
+    "debutdate1": "5 July",
+    "debutyear1": "2005",
+    "debutfor1": "PNG",
+    "debutagainst1": "Oman",
+    "lastdate1": "7 July",
+    "lastyear1": "2005",
+    "lastfor1": "PNG",
+    "lastagainst1": "Canada",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/83/83869/83869.html Cricket Archive",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "List A": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "72",
+        "wickets": "3",
+        "bowl avg": "27.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/7",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Papua New Guinea": "2005"
+    },
+    "birth_date": "1982-9-21",
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Men's Cricket",
+        "Competition: South Pacific Games",
+        "Gold Medal: 2003 Suva 50 over cricket"
+    ]
+}

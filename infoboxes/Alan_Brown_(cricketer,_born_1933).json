@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Alan Brown",
+    "birth_place": "Seaton Delaval, Northumberland, England",
+    "death_date": "2013",
+    "death_place": "Fenham, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10291.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "24",
+        "bat avg": "4.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "9",
+        "deliveries": "350",
+        "wickets": "5",
+        "bowl avg": "29.60",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/21",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Minor Counties North": "1975",
+        "Northumberland": "1958\u20131979"
+    },
+    "birth_date": "1933-4-1"
+}

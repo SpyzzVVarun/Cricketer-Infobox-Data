@@ -1,0 +1,53 @@
+{
+    "name": "Ebbu Ghazali",
+    "fullname": "Mohammad Ebrahim Zainuddin Ghazali",
+    "birth_place": "Bombay, British India,  (Now Mumbai, Maharashtra, India)",
+    "death_date": "2003",
+    "death_place": "Karachi, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "country": "Pakistan",
+    "testdebutfor": "Pakistan",
+    "testdebutagainst": "England",
+    "testcap": "18",
+    "testdebutdate": "1 July",
+    "testdebutyear": "1954",
+    "lasttestdate": "22 July",
+    "lasttestfor": "Pakistan",
+    "lasttestagainst": "England",
+    "lasttestyear": "1954",
+    "source": "https://www.espncricinfo.com/player/ebbu-ghazali-40302 Cricinfo",
+    "Tests": {
+        "matches": "2",
+        "runs": "32",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "47",
+        "runs": "1701",
+        "bat avg": "27.43",
+        "100s/50s": "2/7",
+        "top score": "160",
+        "deliveries": "5065",
+        "wickets": "61",
+        "bowl avg": "34.27",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/28",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "1942/43\u20131946/47",
+        "Combined Services": "1953/54\u20131955/56"
+    },
+    "birth_date": "1924-6-15"
+}

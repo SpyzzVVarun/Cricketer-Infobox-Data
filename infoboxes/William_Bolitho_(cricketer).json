@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "William Edward Thomas Bolitho",
+    "birth_place": "Madron, Cornwall, England",
+    "death_date": "df=yes",
+    "death_place": "Bath, Somerset, England",
+    "family": "Ronald McNeill (brother-in-law)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/9841.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "338",
+        "bat avg": "18.77",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1883&ndash;1885"
+    }
+}

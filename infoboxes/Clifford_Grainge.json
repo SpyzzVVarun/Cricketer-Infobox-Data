@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Clifford Marshall Grainge",
+    "birth_place": "Heckmondwike, Yorkshire, England",
+    "death_date": "df=yes",
+    "death_place": "Leeds, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/13707.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "47",
+        "bat avg": "5.22",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "2,023",
+        "wickets": "25",
+        "bowl avg": "43.60",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/127",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1950&ndash;1952"
+    }
+}

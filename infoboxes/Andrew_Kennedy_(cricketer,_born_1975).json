@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Andrew Kennedy",
+    "birth_place": "Colchester, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.cricinfo.com/ci/content/player/16155.html Cricinfo ",
+    "LA": {
+        "matches": "3",
+        "runs": "72",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "27",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "37.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/37",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Essex Cricket Board": "2001-2003"
+    },
+    "birth_date": "1975-1-10"
+}

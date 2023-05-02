@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Swarbrick",
+    "country": "England",
+    "birth_place": "Stockport, Greater Manchester, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/20433.html Cricinfo ",
+    "LA": {
+        "matches": "5",
+        "runs": "40",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Dorset": "1995&ndash;2005"
+    },
+    "birth_date": "1977-8-8"
+}

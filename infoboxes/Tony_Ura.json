@@ -1,0 +1,65 @@
+{
+    "name": "Tony Ura",
+    "country": "Papua New Guinea",
+    "fullname": "Tony Pala Ura",
+    "birth_place": "Papua New Guinea",
+    "batting": "Right-handed",
+    "internationalspan": "2014-present",
+    "odidebutdate": "8 November",
+    "odidebutyear": "2014",
+    "odidebutagainst": "Hong Kong",
+    "odicap": "9",
+    "lastodidate": "5 March",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "T20Idebutdate": "15 July",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "Ireland",
+    "T20Icap": "8",
+    "lastT20Idate": "17 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "USA",
+    "source": "http://www.espncricinfo.com/ci/content/player/302845.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "ODI": {
+        "matches": "30",
+        "runs": "753",
+        "bat avg": "25.10",
+        "100s/50s": "1/2",
+        "top score": "151",
+        "catches/stumpings": "13/\u2013"
+    },
+    "T20I": {
+        "matches": "23",
+        "runs": "671",
+        "bat avg": "37.27",
+        "100s/50s": "1/4",
+        "catches/stumpings": "7/\u2013"
+    },
+    "FC": {
+        "matches": "6",
+        "runs": "303",
+        "bat avg": "25.25",
+        "100s/50s": "0/2",
+        "top score": "75",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "52",
+        "runs": "1,102",
+        "bat avg": "21.19",
+        "100s/50s": "1/4",
+        "top score": "151",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1989-10-15",
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Men's Cricket",
+        "Competition: Pacific Games",
+        "Gold Medal: 2019 Apia Twenty20 International"
+    ]
+}

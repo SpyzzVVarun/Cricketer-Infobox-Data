@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "John Barnhill Walker",
+    "birth_place": "Greenock, Renfrewshire, Scotland",
+    "death_date": "1953",
+    "death_place": "Bearsden, Dunbartonshire, Scotland",
+    "family": "William Walker (brother)",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/john-walker-25384 Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "45",
+        "bat avg": "11.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "34",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1912"
+    }
+}

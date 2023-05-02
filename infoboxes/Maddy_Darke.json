@@ -1,0 +1,35 @@
+{
+    "name": "Maddy Darke",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Madeleine Darke",
+    "birth_place": "Bondi, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/2124/2124563/2124563.html CricketArchive ",
+    "WLA": {
+        "matches": "14",
+        "runs": "315",
+        "bat avg": "22.50",
+        "100s/50s": "0/2",
+        "top score": "51",
+        "catches/stumpings": "15/4"
+    },
+    "WT20": {
+        "matches": "17",
+        "runs": "29",
+        "bat avg": "4.83",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Sydney Sixers": "2019/20\u20132020/21",
+        "New South Wales": "2019/20\u20132020/21",
+        "Melbourne Stars": "2021/22",
+        "Western Australia": "2021/22\u2013present",
+        "Perth Scorchers": "2022/23\u2013present"
+    },
+    "birth_date": "2001-3-30"
+}

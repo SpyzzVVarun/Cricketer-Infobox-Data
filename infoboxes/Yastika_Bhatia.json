@@ -1,0 +1,70 @@
+{
+    "name": "Yastika Bhatia",
+    "female": "true",
+    "country": "India",
+    "fullname": "Yastika Harish Bhatia",
+    "birth_place": "Vadodara, Gujarat, India",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "30 September",
+    "testdebutyear": "2021",
+    "testdebutagainst": "Australia",
+    "testcap": "89",
+    "odidebutdate": "21 September",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Australia",
+    "odicap": "132",
+    "lastodidate": "24 September",
+    "lastodiyear": "2022",
+    "lastodiagainst": "England",
+    "T20Idebutdate": "7 October",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Australia",
+    "T20Icap": "68",
+    "lastT20Idate": "23 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Australia",
+    "T20Ishirt": "11",
+    "source": "http://www.espncricinfo.com/ci/content/player/960715.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WTest": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "18",
+        "runs": "478",
+        "bat avg": "28.11",
+        "100s/50s": "0/3",
+        "top score": "64",
+        "catches/stumpings": "11/5"
+    },
+    "WT20I": {
+        "matches": "8",
+        "runs": "72",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "2/1"
+    },
+    "clubs": {
+        "Baroda": "2013/14\u2013present",
+        "Velocity": "2022",
+        "Mumbai Indians": "2023\u2013present"
+    },
+    "birth_date": "2000-11-1",
+    "medaltemplates": [
+        "Country: {{IND}}",
+        "Sport: Women's Cricket",
+        "Competition: Commonwealth Games",
+        "Silver Medal: 2022 Birmingham Team"
+    ]
+}

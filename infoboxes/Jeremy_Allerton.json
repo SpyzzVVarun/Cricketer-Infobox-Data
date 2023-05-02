@@ -1,0 +1,21 @@
+{
+    "name": "Jeremy Allerton",
+    "country": "England",
+    "fullname": "Jeremy William Orde Allerton",
+    "birth_place": "Windsor, Berkshire",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27459/27459.html CricketArchive ",
+    "First-class": {
+        "matches": "15",
+        "runs": "605",
+        "bat avg": "24.20",
+        "100s/50s": "0/3",
+        "top score": "67",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1967"
+    },
+    "birth_date": "1944-2-2"
+}

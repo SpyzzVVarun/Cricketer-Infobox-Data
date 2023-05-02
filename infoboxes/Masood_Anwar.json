@@ -1,0 +1,43 @@
+{
+    "name": "Masood Anwar",
+    "birth_place": "Khanewal, Punjab, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "country": "Pakistan",
+    "testcap": "121",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "6 December",
+    "testdebutyear": "1990",
+    "lasttestdate": "6 December",
+    "onetest": "true",
+    "source": "http://www.espncricinfo.com/ci/content/player/41273.html ESPNcricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "39",
+        "bat avg": "19.50",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "161",
+        "wickets": "3",
+        "bowl avg": "34.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/59",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "128",
+        "runs": "2,308",
+        "bat avg": "18.03",
+        "100s/50s": "0/5",
+        "deliveries": "31,050",
+        "wickets": "587",
+        "bowl avg": "21.71",
+        "fivefor": "38",
+        "tenfor": "9",
+        "best bowling": "8/44",
+        "catches/stumpings": "46/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1967-12-12"
+}

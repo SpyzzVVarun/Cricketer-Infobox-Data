@@ -1,0 +1,58 @@
+{
+    "name": "Jono McLean",
+    "country": "South Africa",
+    "fullname": "Jonathan James McLean",
+    "birth_place": "Johannesburg, Gauteng, South Africa",
+    "heightft": "6",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/hampshire/content/player/46527.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "464",
+        "bat avg": "27.29",
+        "100s/50s": "&ndash;/5",
+        "top score": "68",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "11/&ndash;"
+    },
+    "LA": {
+        "matches": "11",
+        "runs": "60",
+        "bat avg": "12.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "36",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "39",
+        "bat avg": "9.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "2005&ndash;2006",
+        "Western Province": "2001&ndash;2004"
+    },
+    "birth_date": "1980-7-11"
+}

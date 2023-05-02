@@ -1,0 +1,30 @@
+{
+    "country": "South Africa",
+    "fullname": "William Gordon Antony Wiley",
+    "birth_place": "St James, Cape Province, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Harare, Mashonaland, Zimbabwe",
+    "family": "John Wiley (brother)",
+    "batting": "Right-handed",
+    "bowling": "Leg break Leg break googly",
+    "source": "http://www.espncricinfo.com/england/content/player/47974.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "666",
+        "bat avg": "22.96",
+        "100s/50s": "1/4",
+        "top score": "100",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1952",
+        "Oxfordshire": "1952",
+        "Western Province": "1952/53&ndash;1953/54"
+    }
+}

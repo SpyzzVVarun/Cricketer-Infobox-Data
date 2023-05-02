@@ -1,0 +1,41 @@
+{
+    "name": "Ervin McSweeney",
+    "country": "New Zealand",
+    "fullname": "Ervin Bruce McSweeney",
+    "birth_place": "Wellington, New Zealand",
+    "internationalspan": "1986\u20131987",
+    "odidebutdate": "9 January",
+    "odidebutyear": "1986",
+    "odidebutagainst": "Australia",
+    "odicap": "51",
+    "lastodidate": "28 March",
+    "lastodiyear": "1987",
+    "lastodiagainst": "West Indies",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37714.html Cricinfo  ",
+    "ODI": {
+        "matches": "16",
+        "runs": "73",
+        "bat avg": "8.11",
+        "100s/50s": "0/0",
+        "catches/stumpings": "14/3"
+    },
+    "FC": {
+        "matches": "121",
+        "runs": "4,947",
+        "bat avg": "33.65",
+        "100s/50s": "6/23",
+        "catches/stumpings": "340/45"
+    },
+    "LA": {
+        "matches": "101",
+        "runs": "1,210",
+        "bat avg": "16.80",
+        "100s/50s": "0/4",
+        "top score": "69",
+        "catches/stumpings": "116/31"
+    },
+    "clubs": {},
+    "birth_date": "1957-3-8"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Thomas Ward Wilson",
+    "birth_place": "Nocton, Lincolnshire, England",
+    "death_date": "df=yes",
+    "death_place": "Broadstone, Dorset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/23090.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "171",
+        "bat avg": "15.54",
+        "100s/50s": "\u2013/1",
+        "top score": "50",
+        "deliveries": "872",
+        "wickets": "17",
+        "bowl avg": "17.88",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/25",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1869&ndash;1871"
+    }
+}

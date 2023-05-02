@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Ralph Alexander Spitteler",
+    "birth_place": "Cannanore, Madras Presidency, British India",
+    "death_date": "1946",
+    "death_place": "Djakarta, West Java,, Dutch East Indies",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/34445.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "24",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "867",
+        "wickets": "19",
+        "bowl avg": "21.42",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "5/29",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1938/39&ndash;1940/41",
+        "Madras": "1938/39"
+    }
+}

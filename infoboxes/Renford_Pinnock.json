@@ -1,0 +1,28 @@
+{
+    "name": "Renford Pinnock",
+    "birth_place": "Spanish Town, Saint Catherine, Jamaica",
+    "death_date": "2019",
+    "batting": "Right-hand bat",
+    "role": "Wicketkeeper",
+    "source": "https://www.espncricinfo.com/player/renford-pinnock-52703 Cricinfo",
+    "FC": {
+        "matches": "44",
+        "runs": "2662",
+        "bat avg": "40.33",
+        "100s/50s": "6/16",
+        "top score": "176",
+        "catches/stumpings": "26/5"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "35",
+        "bat avg": "35.00",
+        "100s/50s": "-/-",
+        "top score": "35",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Jamaica": "1963/64-1974/75"
+    },
+    "birth_date": "1937-9-26"
+}

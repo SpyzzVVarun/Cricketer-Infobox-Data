@@ -1,0 +1,45 @@
+{
+    "name": "Georgia Prestwidge",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Georgia Kate Prestwidge",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "family": "Scott Prestwidge (father)",
+    "source": "https://cricketarchive.com/Archive/Players/1381/1381045/1381045.html CricketArchive",
+    "WLA": {
+        "matches": "29",
+        "runs": "128",
+        "bat avg": "14.22",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "906",
+        "wickets": "21",
+        "bowl avg": "35.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/41",
+        "catches/stumpings": "9/\u2013"
+    },
+    "WT20": {
+        "matches": "38",
+        "runs": "15",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "deliveries": "410",
+        "wickets": "18",
+        "bowl avg": "27.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/12",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Queensland( 16 )": "2014/15\u2013present",
+        "Brisbane Heat( 16 )": "2016/17\u20132021/22",
+        "Melbourne Renegades( 16 )": "2022/23\u2013present"
+    },
+    "birth_date": "1997-12-17"
+}

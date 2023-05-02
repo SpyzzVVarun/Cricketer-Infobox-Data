@@ -1,0 +1,43 @@
+{
+    "name": "Elizabeth Priddle",
+    "female": "true",
+    "country": "Scotland",
+    "fullname": "Elizabeth Margaret Priddle",
+    "birth_place": "Dundee, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/500/500527/500527.html CricketArchive ",
+    "WLA": {
+        "matches": "34",
+        "runs": "573",
+        "bat avg": "18.48",
+        "100s/50s": "0/4",
+        "top score": "88",
+        "deliveries": "407",
+        "wickets": "14",
+        "bowl avg": "23.64",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/38",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WT20": {
+        "matches": "41",
+        "runs": "433",
+        "bat avg": "12.73",
+        "100s/50s": "0/1",
+        "top score": "90",
+        "deliveries": "256",
+        "wickets": "9",
+        "bowl avg": "30.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/5",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cumbria": "2018\u2013present"
+    },
+    "birth_date": "1993-11-16"
+}

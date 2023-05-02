@@ -1,0 +1,35 @@
+{
+    "name": "Gowkaran Roopnarine",
+    "country": "United States",
+    "birth_place": "Guyana",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "List A",
+    "debutdate1": "4 July",
+    "debutyear1": "2005",
+    "debutfor1": "USA",
+    "debutagainst1": "Uganda",
+    "lastdate1": "11 July",
+    "lastyear1": "2005",
+    "lastfor1": "USA",
+    "lastagainst1": "Oman",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/83/83868/83868.html CricketArchive ",
+    "List A": {
+        "matches": "4",
+        "runs": "171",
+        "bat avg": "57.00",
+        "100s/50s": "0/2",
+        "top score": "98",
+        "deliveries": "0",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "USA": "2005"
+    },
+    "birth_date": "1982-2-24"
+}

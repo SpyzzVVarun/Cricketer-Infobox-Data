@@ -1,0 +1,41 @@
+{
+    "country": "Netherlands",
+    "fullname": "Mohammad Shahbaz Bashir",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/43060.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "102",
+        "bat avg": "102.00",
+        "100s/50s": "1/\u2013",
+        "top score": "102",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "5.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/5",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "deliveries": "52",
+        "wickets": "1",
+        "bowl avg": "55.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/36",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Pakistan Cricket Board Greens": "2002/03",
+        "Netherlands": "2012"
+    },
+    "birth_date": "1983-12-27"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Max Osborne",
+    "birth_place": "Orsett, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/400782.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "216",
+        "wickets": "6",
+        "bowl avg": "25.16",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/35",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Essex": "2010-2011",
+        "Suffolk": "2011"
+    },
+    "birth_date": "1990-11-21"
+}

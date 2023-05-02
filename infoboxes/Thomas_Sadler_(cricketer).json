@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Thomas William Sadler",
+    "birth_place": "Chesterton, Cambridgeshire, England",
+    "death_date": "1973",
+    "death_place": "Brandon, Suffolk, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm (unknown Left-arm (unknown style)",
+    "source": "http://www.espncricinfo.com/ci/content/player/20563.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "18.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "93",
+        "wickets": "3",
+        "bowl avg": "18.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/55",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Wales": "1930",
+        "Monmouthshire": "1930",
+        "Cambridgeshire": "1913&ndash;1927"
+    },
+    "birth_date": "1892-1-15"
+}

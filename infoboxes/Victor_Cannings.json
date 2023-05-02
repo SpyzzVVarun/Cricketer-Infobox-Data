@@ -1,0 +1,31 @@
+{
+    "name": "Victor Cannings",
+    "country": "England",
+    "fullname": "Victor Henry Douglas Cannings",
+    "birth_place": "Bighton, Hampshire, England",
+    "death_date": "2016",
+    "death_place": "Datchet, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/18419.html Cricinfo ",
+    "First-class": {
+        "matches": "285",
+        "runs": "2,660",
+        "bat avg": "10.85",
+        "100s/50s": "\u2013/1",
+        "top score": "61",
+        "deliveries": "55,256",
+        "wickets": "927",
+        "bowl avg": "22.73",
+        "fivefor": "42",
+        "tenfor": "4",
+        "best bowling": "7/52",
+        "catches/stumpings": "103/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1947\u20131949",
+        "Hampshire": "1950\u20131959",
+        "Marylebone Cricket Club": "1959"
+    },
+    "birth_date": "1919-4-3"
+}

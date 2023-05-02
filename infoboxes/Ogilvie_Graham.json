@@ -1,0 +1,28 @@
+{
+    "honorific_suffix": "country=GBR",
+    "country": "Ireland",
+    "fullname": "Ogilvie Blair Graham",
+    "birth_place": "Dunmurry, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Lower Quinton, Warwickshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ireland/content/player/13529.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "31",
+        "bat avg": "5.16",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "330",
+        "wickets": "10",
+        "bowl avg": "16.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/12",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Europeans (India)": "1926/27"
+    }
+}

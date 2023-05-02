@@ -1,0 +1,27 @@
+{
+    "name": "George Paramor",
+    "fullname": "George Henry Paramor",
+    "birth_place": "Margate, Kent, England",
+    "death_date": "1925",
+    "death_place": "Sydney, Australia",
+    "role": "All-rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/38158.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "232",
+        "bat avg": "15.46",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "1,102",
+        "wickets": "25",
+        "bowl avg": "20.84",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/45",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Otago": "1873/74\u20131880/81"
+    },
+    "birth_date": "1846-6-19"
+}

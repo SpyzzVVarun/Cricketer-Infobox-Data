@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Alfred William Hill",
+    "birth_place": "Little Rissington,, Gloucestershire, England",
+    "death_date": "1936",
+    "death_place": "Bourton-on-the-Water, Gloucestershire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/ci/content/player/14805.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "30.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "78",
+        "wickets": "1",
+        "bowl avg": "54.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/47",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire": "1904&ndash;1905"
+    },
+    "birth_date": "1865-7-29"
+}

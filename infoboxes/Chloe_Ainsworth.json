@@ -1,0 +1,33 @@
+{
+    "name": "Chloe Ainsworth",
+    "female": "true",
+    "fullname": "Chloe Cathryn Ainsworth",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/2614/2614105/2614105.html CricketArchive",
+    "WLA": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "2",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "100s/50s": "/",
+        "tenfor": "0",
+        "best bowling": "/",
+        "catches/stumpings": "/\u2013"
+    },
+    "clubs": {
+        "Western Australia": "2022/23\u2013present"
+    },
+    "birth_date": "2005-9-14"
+}

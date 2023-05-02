@@ -1,0 +1,28 @@
+{
+    "name": "Charles Abbott",
+    "country": "England",
+    "fullname": "Charles James Abbott",
+    "birth_place": "St Pancras, London, England",
+    "death_date": "6 December 1889",
+    "death_place": "Walton-on-Thames, Surrey, England",
+    "batting": "Unknown",
+    "family": "William Abbott (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/8862.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1844"
+    }
+}

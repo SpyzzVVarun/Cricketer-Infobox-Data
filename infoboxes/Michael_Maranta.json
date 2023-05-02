@@ -1,0 +1,41 @@
+{
+    "country": "Australia",
+    "fullname": "Michael Gerard Maranta",
+    "birth_place": "Brisbane, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/6689.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "258",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "12",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "12",
+        "deliveries": "246",
+        "wickets": "4",
+        "bowl avg": "41.25",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/40",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Queensland": "1982/83&ndash;1986/87",
+        "Suffolk": "1980\u20131981"
+    },
+    "birth_date": "1961-3-20"
+}

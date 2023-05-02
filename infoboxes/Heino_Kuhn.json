@@ -1,0 +1,68 @@
+{
+    "name": "Heino Kuhn",
+    "fullname": "Heino Gunther Kuhn",
+    "birth_place": "Piet Retief, Transvaal Province",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsman",
+    "country": "South Africa",
+    "internationalspan": "2009\u20132017",
+    "testdebutdate": "6 July",
+    "testdebutyear": "2017",
+    "testdebutfor": "South Africa",
+    "testdebutagainst": "England",
+    "testcap": "331",
+    "lasttestdate": "4 August",
+    "lasttestyear": "2017",
+    "lasttestfor": "South Africa",
+    "lasttestagainst": "England",
+    "T20Idebutdate": "15 November",
+    "T20Idebutyear": "2009",
+    "T20Idebutfor": "South Africa",
+    "T20Idebutagainst": "England",
+    "T20Icap": "43",
+    "lastT20Idate": "22 January",
+    "lastT20Iyear": "2017",
+    "lastT20Ifor": "South Africa",
+    "lastT20Iagainst": "Sri Lanka",
+    "T20Ishirt": "20",
+    "source": "http://www.espncricinfo.com/ci/content/player/45955.html CricInfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "113",
+        "bat avg": "14.12",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "1/\u2013"
+    },
+    "T20I": {
+        "matches": "7",
+        "runs": "49",
+        "bat avg": "12.25",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "5/0"
+    },
+    "FC": {
+        "matches": "189",
+        "runs": "11,838",
+        "bat avg": "38.94",
+        "100s/50s": "25/58",
+        "catches/stumpings": "382/18"
+    },
+    "LA": {
+        "matches": "187",
+        "runs": "5,182",
+        "bat avg": "34.09",
+        "100s/50s": "13/24",
+        "catches/stumpings": "193/22"
+    },
+    "clubs": {
+        "Northerns": "2004/05\u20132015/16",
+        "Titans": "2005/06\u20132019/20",
+        "Kent( 4 )": "2018\u20132021",
+        "Nelson Mandela Bay Giants": "2018\u20132019",
+        "Dhaka Dynamites": "2018/19",
+        "North West": "2021/22\u20132023/23"
+    },
+    "birth_date": "1984-04-01"
+}

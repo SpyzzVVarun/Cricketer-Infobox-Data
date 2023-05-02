@@ -1,0 +1,43 @@
+{
+    "name": "Shamsher Singh",
+    "country": "India",
+    "nickname": "Bobby",
+    "birth_place": "Hisar, Haryana, India",
+    "death_date": "2013",
+    "death_place": "Jaipur, Rajasthan, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/33925.html ESPNcricinfo ",
+    "FC": {
+        "matches": "33",
+        "runs": "149",
+        "bat avg": "5.73",
+        "100s/50s": "0/0",
+        "deliveries": "4,506",
+        "wickets": "55",
+        "bowl avg": "35.45",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/72",
+        "catches/stumpings": "10/\u2013"
+    },
+    "List A": {
+        "matches": "26",
+        "runs": "49",
+        "bat avg": "8.16",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "1,158",
+        "wickets": "35",
+        "bowl avg": "22.65",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "5/26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Rajasthan": "1992/93\u20132001/02"
+    },
+    "birth_date": "1972-10-16"
+}

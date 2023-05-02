@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Frank Joseph Miller",
+    "birth_place": "Cork, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Donnybrook, Leinster, Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24270.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "44",
+        "bat avg": "8.80",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/7"
+    },
+    "clubs": {
+        "Ireland": "1949&ndash;1954"
+    }
+}

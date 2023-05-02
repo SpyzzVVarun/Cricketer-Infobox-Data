@@ -1,0 +1,45 @@
+{
+    "name": "Geoff Foley",
+    "country": "Australia",
+    "fullname": "Geoffrey Ian Foley",
+    "birth_place": "Jandowae, Queensland",
+    "nickname": "Axle, Ian, Baker, Chuckers",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All rounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/5243.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "65",
+        "runs": "2,846",
+        "bat avg": "30.60",
+        "100s/50s": "2/16",
+        "top score": "155",
+        "deliveries": "4,619",
+        "wickets": "44",
+        "bowl avg": "54.70",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/25",
+        "catches/stumpings": "72/\u2013"
+    },
+    "List A": {
+        "matches": "50",
+        "runs": "962",
+        "bat avg": "28.29",
+        "100s/50s": "0/6",
+        "top score": "66",
+        "deliveries": "1,339",
+        "wickets": "33",
+        "bowl avg": "30.93",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/34",
+        "catches/stumpings": "16/0"
+    },
+    "clubs": {
+        "Queensland": "1989/90\u20132000/01",
+        "MCC": "1996\u20131997",
+        "Cheshire": "2000"
+    },
+    "birth_date": "1967-10-11"
+}

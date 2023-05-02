@@ -1,0 +1,37 @@
+{
+    "name": "Nikhil Rathod",
+    "country": "India",
+    "fullname": "Nikhil Rathod",
+    "birth_place": "RAJKOT, Gujarat",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm legbreak",
+    "role": "Batsman All Rounder",
+    "source": "http://www.espncricinfo.com/india/content/player/33114.html Cricinfo profile ",
+    "FC": {
+        "matches": "10",
+        "runs": "294",
+        "bat avg": "19.60",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "8",
+        "runs": "232",
+        "bat avg": "38.66",
+        "100s/50s": "0/2",
+        "catches/stumpings": "3/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Saurashtra": ""
+    },
+    "birth_date": "1984-9-03"
+}

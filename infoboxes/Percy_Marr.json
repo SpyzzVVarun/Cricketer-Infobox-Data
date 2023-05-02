@@ -1,0 +1,41 @@
+{
+    "name": "Percy Marr",
+    "full_name": "Alfred Percy Marr",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "1 January",
+    "testdebutyear": "1885",
+    "onetest": "true",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6492.html Cricinfo",
+    "Test": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "14",
+        "runs": "304",
+        "bat avg": "11.25",
+        "100s/50s": "0/1",
+        "top score": "69",
+        "deliveries": "1272",
+        "wickets": "14",
+        "bowl avg": "32.42",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/50",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {}
+}

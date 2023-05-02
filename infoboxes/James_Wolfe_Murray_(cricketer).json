@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "James Archibald Wolfe Murray",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "df=yes",
+    "death_place": "Melrose, Roxburghshire, Scotland",
+    "family": "Lord Dunglass (father-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/23132.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "43",
+        "bat avg": "14.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "252",
+        "wickets": "3",
+        "bowl avg": "51.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/20",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1957"
+    }
+}

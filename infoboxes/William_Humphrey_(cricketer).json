@@ -1,0 +1,30 @@
+{
+    "name": "William Humphrey",
+    "country": "England",
+    "birth_place": "Mitcham, Surrey, England",
+    "death_date": "1918",
+    "death_place": "Norwich, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "family": "Richard Humphrey (brother), Thomas Humphrey (brother), John Humphrey (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/14304.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "99",
+        "bat avg": "7.61",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "deliveries": "478",
+        "wickets": "6",
+        "bowl avg": "41.33",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/61",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1864",
+        "Surrey": "1864"
+    },
+    "birth_date": "1843-9-15"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "George Heane",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14683.html Cricinfo",
+    "First-class": {
+        "matches": "189",
+        "runs": "6,183",
+        "bat avg": "25.34",
+        "100s/50s": "9/30",
+        "top score": "138",
+        "deliveries": "15,461",
+        "wickets": "222",
+        "bowl avg": "32.91",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "6/52",
+        "catches/stumpings": "99/\u2013"
+    },
+    "clubs": {
+        "Nottinghamshire": "1927\u20131951"
+    }
+}

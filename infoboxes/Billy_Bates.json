@@ -1,0 +1,51 @@
+{
+    "name": "Billy Bates",
+    "country": "England",
+    "fullname": "Willie Bates",
+    "birth_place": "Huddersfield, England",
+    "death_date": "1900",
+    "death_place": "Lepton, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right arm off Right arm off break",
+    "role": "All rounder",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1881",
+    "testdebutagainst": "Australia",
+    "testcap": "30",
+    "lasttestdate": "1 March",
+    "lasttestyear": "1887",
+    "lasttestagainst": "Australia",
+    "source": "http://content.cricinfo.com/england/content/player/9037.html Cricinfo ",
+    "Test": {
+        "matches": "15",
+        "runs": "656",
+        "bat avg": "27.33",
+        "100s/50s": "0/5",
+        "top score": "64",
+        "deliveries": "2,364",
+        "wickets": "50",
+        "bowl avg": "16.42",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "7/28",
+        "catches/stumpings": "9/\u2013"
+    },
+    "First-class": {
+        "matches": "299",
+        "runs": "10,249",
+        "bat avg": "21.57",
+        "100s/50s": "10/47",
+        "top score": "144 not out",
+        "deliveries": "61,033",
+        "wickets": "874",
+        "bowl avg": "17.13",
+        "fivefor": "52",
+        "tenfor": "10",
+        "best bowling": "8/21",
+        "catches/stumpings": "238/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1877\u20131887"
+    },
+    "birth_date": "1855-11-19"
+}

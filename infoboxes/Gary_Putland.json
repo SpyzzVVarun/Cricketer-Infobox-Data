@@ -1,0 +1,54 @@
+{
+    "name": "Gary Putland",
+    "country": "Australia",
+    "fullname": "Gary David Putland",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/australia/content/player/7262.html ESPNcricinfo ",
+    "FC": {
+        "matches": "26",
+        "runs": "189",
+        "bat avg": "6.09",
+        "100s/50s": "0/0",
+        "deliveries": "5,284",
+        "wickets": "92",
+        "bowl avg": "30.30",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/64",
+        "catches/stumpings": "9/\u2013"
+    },
+    "LA": {
+        "matches": "35",
+        "runs": "53",
+        "bat avg": "5.30",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "1,836",
+        "wickets": "54",
+        "bowl avg": "29.38",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/41",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "23",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "0/0",
+        "deliveries": "419",
+        "wickets": "16",
+        "bowl avg": "37.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/31",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "South Australia": "2005/06\u20132015/16",
+        "Adelaide Strikers": "2011/12\u20132015/16"
+    },
+    "birth_date": "1986-2-10"
+}

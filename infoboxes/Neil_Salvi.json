@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Neil Vijay Salvi",
+    "birth_place": "Gwalior, Madhya Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/20571.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "131",
+        "bat avg": "18.71",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "36",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1986&ndash;1987"
+    },
+    "birth_date": "1965-5-21"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Julia Lloyd",
+    "female": "true",
+    "country": "Young England",
+    "fullname": "Julia Lloyd",
+    "birth_place": "London, England",
+    "role": "Batter",
+    "internationalspan": "1973",
+    "odidebutdate": "7 July",
+    "odidebutyear": "1973",
+    "odidebutagainst": "International XI",
+    "odicap": "14",
+    "lastodidate": "14 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "Trinidad and Tobago",
+    "source": "https://cricketarchive.com/Archive/Players/17/17042/17042.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "1",
+        "runs": "48",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "4",
+        "runs": "18",
+        "bat avg": "4.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "East Anglia": "1972\u20131977"
+    },
+    "birth_date": "1950-"
+}

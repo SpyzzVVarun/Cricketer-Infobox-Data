@@ -1,0 +1,62 @@
+{
+    "name": "Robert Haynes",
+    "country": "West Indies",
+    "fullname": "Robert Christopher Haynes",
+    "birth_place": "Kingston, Jamaica",
+    "batting": "Left-handed",
+    "bowling": "Leg Leg break",
+    "odidebutdate": "17 October",
+    "odidebutyear": "1989",
+    "odidebutagainst": "Pakistan",
+    "odicap": "56",
+    "lastodidate": "18 December",
+    "lastodiyear": "1991",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/1/1455/1455.html CricketArchive ",
+    "ODI": {
+        "matches": "8",
+        "runs": "26",
+        "bat avg": "5.20",
+        "100s/50s": "0/0",
+        "top score": "18",
+        "deliveries": "270",
+        "wickets": "5",
+        "bowl avg": "44.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/36",
+        "catches/stumpings": "5/\u2013"
+    },
+    "FC": {
+        "matches": "65",
+        "runs": "2,166",
+        "bat avg": "21.66",
+        "100s/50s": "0/10",
+        "top score": "98",
+        "deliveries": "14,623",
+        "wickets": "221",
+        "bowl avg": "28.62",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "6/53",
+        "catches/stumpings": "55/\u2013"
+    },
+    "LA": {
+        "matches": "52",
+        "runs": "574",
+        "bat avg": "15.51",
+        "100s/50s": "0/1",
+        "top score": "83",
+        "deliveries": "2,523",
+        "wickets": "64",
+        "bowl avg": "23.92",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/22",
+        "catches/stumpings": "22/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "1981\u20131997"
+    },
+    "birth_date": "1964-11-2"
+}

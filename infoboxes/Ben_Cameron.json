@@ -1,0 +1,50 @@
+{
+    "name": "Ben Cameron",
+    "country": "Australia",
+    "fullname": "Benjamin Peter Cameron",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "nickname": "Hoppalong, Camo or B:Cam",
+    "heightm": "1.79",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman; Selector",
+    "type1": "First-class",
+    "debutdate1": "8 February",
+    "debutyear1": "2004",
+    "debutfor1": "South Australia",
+    "debutagainst1": "Victoria",
+    "lastdate1": "26 January",
+    "lastyear1": "2007",
+    "lastfor1": "South Australia",
+    "lastagainst1": "Victoria",
+    "type2": "List A",
+    "debutdate2": "15 February",
+    "debutyear2": "2004",
+    "debutfor2": "South Australia",
+    "debutagainst2": "New South Wales",
+    "lastdate2": "31 January",
+    "lastyear2": "2007",
+    "lastfor2": "South Australia",
+    "lastagainst2": "Victoria",
+    "source": "https://cricketarchive.com/Archive/Players/12/12100/12100.html CricketArchive ",
+    "First-class": {
+        "matches": "10",
+        "runs": "422",
+        "bat avg": "23.44",
+        "100s/50s": "0/4",
+        "top score": "81",
+        "catches/stumpings": "5/\u2013"
+    },
+    "List A": {
+        "matches": "9",
+        "runs": "228",
+        "bat avg": "25.33",
+        "100s/50s": "0/2",
+        "top score": "77",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "South Australia( 11 )": "2003/04\u20132006/07"
+    },
+    "birth_date": "1981-2-21"
+}

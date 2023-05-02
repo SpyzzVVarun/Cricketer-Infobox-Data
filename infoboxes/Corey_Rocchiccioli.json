@@ -1,0 +1,27 @@
+{
+    "name": "Corey Rocchiccioli",
+    "fullname": "Corey J Rocchiccioli",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1205981.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "78",
+        "bat avg": "26.00",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "844",
+        "wickets": "10",
+        "bowl avg": "46.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/24",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Western Australia( 77 )": "2021/22",
+        "Melbourne Renegades": "2022/23"
+    },
+    "birth_date": "1997-10-8"
+}

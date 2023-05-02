@@ -1,0 +1,49 @@
+{
+    "name": "Hubert Doggart",
+    "fullname": "George Hubert Graham Doggart",
+    "birth_place": "Earl's Court, London, England",
+    "death_date": "2018",
+    "death_place": "Chichester, West Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "country": "England",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "8 June",
+    "testdebutyear": "1950",
+    "lasttestdate": "24 June",
+    "lasttestagainst": "West Indies",
+    "lasttestyear": "1950",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/11910.html ESPNcricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "76",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "210",
+        "runs": "10,054",
+        "bat avg": "31.51",
+        "100s/50s": "20/50",
+        "deliveries": "4,412",
+        "wickets": "60",
+        "bowl avg": "34.28",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/50",
+        "catches/stumpings": "199/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1948\u20131950",
+        "Sussex": "1948\u20131961"
+    },
+    "birth_date": "1925-7-18"
+}

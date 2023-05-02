@@ -1,0 +1,31 @@
+{
+    "country": "Ireland",
+    "fullname": "Eric Leslie Kidd",
+    "birth_place": "Westminster, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "D\u00fan Laoghaire, Ireland",
+    "family": "Percy Kidd (father)",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24418.html Cricinfo ",
+    "First-class": {
+        "matches": "147",
+        "runs": "5,113",
+        "bat avg": "24.94",
+        "100s/50s": "6/22",
+        "top score": "167",
+        "deliveries": "6,830",
+        "wickets": "186",
+        "bowl avg": "24.62",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "8/49",
+        "catches/stumpings": "131/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1910&ndash;1913",
+        "Middlesex": "1910&ndash;1928",
+        "Marylebone Cricket Club": "1914&ndash;1928",
+        "Ireland": "1921&ndash;1928"
+    }
+}

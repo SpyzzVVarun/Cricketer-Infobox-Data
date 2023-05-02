@@ -1,0 +1,40 @@
+{
+    "name": "Ray White",
+    "fullname": "Raymond Christopher White",
+    "birth_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/47889.html Cricinfo ",
+    "FC": {
+        "matches": "141",
+        "runs": "6824",
+        "bat avg": "27.96",
+        "100s/50s": "10/35",
+        "top score": "205",
+        "deliveries": "1079",
+        "wickets": "17",
+        "bowl avg": "34.64",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/17",
+        "catches/stumpings": "67/0"
+    },
+    "List A": {
+        "matches": "8",
+        "runs": "211",
+        "bat avg": "35.16",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1962\u20131964"
+    },
+    "birth_date": "1941-1-29"
+}

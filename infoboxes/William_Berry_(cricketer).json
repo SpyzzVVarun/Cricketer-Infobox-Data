@@ -1,0 +1,34 @@
+{
+    "name": "William Berry",
+    "country": "England",
+    "fullname": "William Ewart Berry",
+    "birth_place": "Bridgwater, Somerset, England",
+    "death_date": "1949",
+    "death_place": "Bridgwater, Somerset, England",
+    "batting": "Unknown",
+    "bowling": "Googlies",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "26 May",
+    "debutyear1": "1926",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Hampshire",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/3/3437/3437.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "24",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1926"
+    },
+    "birth_date": "1897-10-12"
+}

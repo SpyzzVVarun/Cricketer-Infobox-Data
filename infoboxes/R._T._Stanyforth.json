@@ -1,0 +1,35 @@
+{
+    "name": "Rony Stanyforth",
+    "honorific-suffix": "country=GBR",
+    "fullname": "Ronald Thomas Stanyforth",
+    "birth_place": "Chelsea, London, England",
+    "death_date": "1964",
+    "death_place": "Kirk Hammerton, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Wicket-keeper",
+    "country": "England",
+    "testdebutagainst": "South Africa",
+    "testdebutdate": "24 December",
+    "testdebutyear": "1927",
+    "lasttestdate": "1 February",
+    "lasttestagainst": "South Africa",
+    "lasttestyear": "1928",
+    "source": "http://content-uk.cricinfo.com/england/content/player/20338.html Cricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "13",
+        "bat avg": "2.60",
+        "100s/50s": "0/0",
+        "catches/stumpings": "7/2"
+    },
+    "First-class": {
+        "matches": "61",
+        "runs": "1,092",
+        "bat avg": "17.33",
+        "100s/50s": "0/6",
+        "top score": "91",
+        "catches/stumpings": "72/21"
+    },
+    "clubs": {},
+    "birth_date": "1892-5-30"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Henry Frere",
+    "country": "England",
+    "fullname": "Henry Tobias Frere",
+    "birth_place": "Odiham, Hampshire, England",
+    "death_date": "1881",
+    "death_place": "Westbourne, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.cricinfo.com/ci/content/player/12924.html Cricinfo ",
+    "FC": {
+        "matches": "13",
+        "runs": "177",
+        "bat avg": "9.83",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "1,864",
+        "wickets": "24",
+        "bowl avg": "26.95",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/20",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {
+        "Sussex": "1868",
+        "Hampshire": "1850"
+    },
+    "birth_date": "1830-9-27"
+}

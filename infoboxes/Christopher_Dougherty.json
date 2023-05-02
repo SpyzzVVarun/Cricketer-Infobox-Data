@@ -1,0 +1,39 @@
+{
+    "name": "Chris Dougherty",
+    "country": "Ireland",
+    "fullname": "Christopher Dougherty",
+    "batting": "Left-handed",
+    "role": "Batsman, wicket-keeper",
+    "family": "Dekker Curry (uncle)",
+    "internationalspan": "2014",
+    "source": "http://www.espncricinfo.com/ci/content/player/303428.html ESPNcricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "205",
+        "bat avg": "15.76",
+        "100s/50s": "0/1",
+        "top score": "74",
+        "catches/stumpings": "14/0"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "124",
+        "bat avg": "24.80",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "5/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "42",
+        "bat avg": "42.00",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Leeds/Bradford MCCU": "2008\u20132010",
+        "Northern Knights": "2013\u2013present"
+    },
+    "birth_date": "1988-1-16"
+}

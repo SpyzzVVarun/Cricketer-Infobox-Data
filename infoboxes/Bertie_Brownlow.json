@@ -1,0 +1,24 @@
+{
+    "name": "Bertie Brownlow",
+    "honorific_suffix": "country=AUS",
+    "country": "Australia",
+    "fullname": "Bertie Brownlow",
+    "birth_place": "Portland, New South Wales, Australia",
+    "death_date": "2004",
+    "death_place": "Hobart, Tasmania, Australia",
+    "role": "Wicket-keeper",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/australia/content/player/4215.html Cricinfo ",
+    "FC": {
+        "matches": "8",
+        "runs": "135",
+        "bat avg": "10.38",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "13/1"
+    },
+    "clubs": {
+        "Tasmania": "1952/53\u20131956/57"
+    },
+    "birth_date": "1920-5-20"
+}

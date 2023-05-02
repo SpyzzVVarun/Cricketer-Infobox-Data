@@ -1,0 +1,41 @@
+{
+    "name": "Emily Geach",
+    "female": "true",
+    "fullname": "Emily Rose Geach",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/2068/2068891/2068891.html CricketArchive",
+    "WLA": {
+        "matches": "12",
+        "runs": "69",
+        "bat avg": "17.25",
+        "100s/50s": "0/0",
+        "deliveries": "462",
+        "wickets": "10",
+        "bowl avg": "22.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/20",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "24",
+        "runs": "109",
+        "bat avg": "8.38",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "473",
+        "wickets": "19",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cornwall": "2018\u2013present",
+        "Western Storm": "2022"
+    },
+    "birth_date": "2004-2-15"
+}

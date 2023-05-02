@@ -1,0 +1,61 @@
+{
+    "name": "Andrew Westphal",
+    "country": "Mexico",
+    "fullname": "Andrew Alexander Westphal",
+    "birth_place": "Islington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "3 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Argentina",
+    "T20Icap": "18",
+    "lastT20Idate": "6 October",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Argentina",
+    "source": "http://www.espncricinfo.com/ci/content/player/731007.html ESPNcricinfo ",
+    "T20I": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "6.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "114",
+        "wickets": "5",
+        "bowl avg": "13.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "6",
+        "runs": "39",
+        "bat avg": "19.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "684",
+        "wickets": "10",
+        "bowl avg": "43.70",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/45",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "6.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "114",
+        "wickets": "5",
+        "bowl avg": "13.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/10",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cardiff MCCU": "2014\u20132016"
+    },
+    "birth_date": "1994-7-28"
+}

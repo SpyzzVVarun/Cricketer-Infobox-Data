@@ -1,0 +1,29 @@
+{
+    "name": "Jack Burton",
+    "fullname": "Jack Richard Burton",
+    "birth_place": "Cleve, South Australia, Australia",
+    "death_date": "2001",
+    "death_place": "Adelaide, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/4251.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "192",
+        "wickets": "1",
+        "bowl avg": "118.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/118",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "South Australia": "1951/52"
+    },
+    "birth_date": "1923-11-3"
+}

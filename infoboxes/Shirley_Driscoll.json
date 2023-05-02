@@ -1,0 +1,41 @@
+{
+    "name": "Shirley Driscoll",
+    "female": "true",
+    "country": "England",
+    "fullname": "Shirley Driscoll",
+    "birth_place": "Mortlake, Surrey, England",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "1957\u20131963",
+    "testdebutdate": "27 December",
+    "testdebutyear": "1957",
+    "testdebutagainst": "New Zealand",
+    "testcap": "47",
+    "lasttestdate": "20 July",
+    "lasttestyear": "1963",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17003/17003.html CricketArchive ",
+    "WTest": {
+        "matches": "7",
+        "runs": "235",
+        "bat avg": "21.36",
+        "100s/50s": "0/1",
+        "top score": "72",
+        "best bowling": "/",
+        "catches/stumpings": "7/\u2013"
+    },
+    "WFC": {
+        "matches": "26",
+        "runs": "1,135",
+        "bat avg": "31.52",
+        "100s/50s": "0/8",
+        "top score": "98",
+        "tenfor": "\u2013",
+        "best bowling": "/",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1955\u20131964"
+    },
+    "birth_date": "1935-10-25"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Brad Thomas",
+    "country": "England",
+    "fullname": "Bradley John Thomas",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/8016.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "48",
+        "wickets": "1",
+        "bowl avg": "52.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/52",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "48",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "90",
+        "wickets": "1",
+        "bowl avg": "74.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/15",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "2001/02"
+    },
+    "birth_date": "1972-1-18"
+}

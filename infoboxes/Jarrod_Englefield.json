@@ -1,0 +1,53 @@
+{
+    "country": "New Zealand",
+    "fullname": "Jarrod Ian Englefield",
+    "birth_place": "Blenheim, Marlborough, New Zealand",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/10/10170/10170.html CricketArchive ",
+    "FC": {
+        "matches": "55",
+        "runs": "3,113",
+        "bat avg": "34.58",
+        "100s/50s": "3/25",
+        "top score": "172",
+        "deliveries": "85",
+        "wickets": "1",
+        "bowl avg": "48.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/22",
+        "catches/stumpings": "28/&ndash;"
+    },
+    "LA": {
+        "matches": "43",
+        "runs": "840",
+        "bat avg": "26.25",
+        "100s/50s": "&ndash;/6",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "13/&ndash;"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "46",
+        "bat avg": "23.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "34",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Canterbury": "1999/00&ndash;2002/03",
+        "Central Districts": "1998/99&ndash;2005/06"
+    },
+    "birth_date": "1979-12-18"
+}

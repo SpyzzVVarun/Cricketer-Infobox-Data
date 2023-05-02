@@ -1,0 +1,59 @@
+{
+    "name": "Erick Chauluka",
+    "country": "Zimbabwe",
+    "fullname": "Erick Chauluka",
+    "birth_place": "Harare, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "https://cricketarchive.com/Archive/Players/49/49630/49630.html CricketArchive ",
+    "FC": {
+        "matches": "42",
+        "runs": "1,641",
+        "bat avg": "21.88",
+        "100s/50s": "2/5",
+        "deliveries": "186",
+        "wickets": "2",
+        "bowl avg": "50.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "23/\u2013"
+    },
+    "LA": {
+        "matches": "28",
+        "runs": "501",
+        "bat avg": "20.04",
+        "100s/50s": "0/3",
+        "top score": "70",
+        "deliveries": "84",
+        "wickets": "2",
+        "bowl avg": "36.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/30",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "45",
+        "bat avg": "11.25",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "24",
+        "wickets": "1",
+        "bowl avg": "53.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/53",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Manicaland": "2002/03",
+        "Mashonaland": "2003/04",
+        "Midlands": "2004/05",
+        "Centrals": "2006/07\u20132008/09",
+        "Southern Rocks": "2009/10\u20132011/12"
+    },
+    "birth_date": "1983-9-3"
+}

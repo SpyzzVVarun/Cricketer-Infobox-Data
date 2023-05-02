@@ -1,0 +1,44 @@
+{
+    "name": "Hollie Armitage",
+    "fullname": "Hollie Jade Armitage",
+    "birth_place": "Huddersfield, West Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/869/869449/869449.html Cricket Archive ",
+    "WLA": {
+        "matches": "64",
+        "runs": "1,560",
+        "bat avg": "28.36",
+        "100s/50s": "1/10",
+        "deliveries": "1,176",
+        "wickets": "46",
+        "bowl avg": "20.93",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/17",
+        "catches/stumpings": "24/\u2013"
+    },
+    "WT20": {
+        "matches": "83",
+        "runs": "1,428",
+        "bat avg": "20.40",
+        "100s/50s": "0/6",
+        "deliveries": "529",
+        "wickets": "27",
+        "bowl avg": "19.07",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "31/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2013\u2013present",
+        "Yorkshire Diamonds": "2019",
+        "Sydney Sixers": "2019/20",
+        "Tasmania": "2019/20",
+        "Northern Diamonds": "2020\u2013present",
+        "Northern Superchargers": "2021\u2013present"
+    },
+    "birth_date": "1997-6-14"
+}

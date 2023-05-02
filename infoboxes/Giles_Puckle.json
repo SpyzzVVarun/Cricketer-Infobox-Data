@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Giles David Puckle",
+    "birth_place": "Epsom, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/19256.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "23.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/46",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Surrey Cricket Board": "2001"
+    },
+    "birth_date": "1979-5-24"
+}

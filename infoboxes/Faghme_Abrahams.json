@@ -1,0 +1,28 @@
+{
+    "name": "Faghme Abrahams",
+    "country": "South Africa",
+    "fullname": "Faghme Abrahams",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "15 February",
+    "debutyear1": "1974",
+    "debutfor1": "Eastern Province",
+    "debutagainst1": "Natal",
+    "lastdate1": "14 March",
+    "lastyear1": "1987",
+    "lastfor1": "Eastern Province",
+    "lastagainst1": "Natal",
+    "source": "https://cricketarchive.com/Archive/Players/137/137695/137695.html CricketArchive (subscription required) ",
+    "First-classname=fcstats": {
+        "matches": "60",
+        "runs": "1,497",
+        "bat avg": "18.25",
+        "100s/50s": "0/4",
+        "top score": "86",
+        "catches/stumpings": "154/28"
+    },
+    "clubs": {
+        "Eastern Province": "1973/74\u20131986/87"
+    }
+}

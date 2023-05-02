@@ -1,0 +1,38 @@
+{
+    "name": "Sam Cadman",
+    "country": "England",
+    "fullname": "Samuel William Anthony Cadman",
+    "birth_place": "Werneth, Cheshire, England",
+    "death_date": "1952",
+    "death_place": "Glossop, Derbyshire, England",
+    "batting": "Right-handed",
+    "role": "All rounder",
+    "type1": "FC",
+    "debutdate1": "10 May",
+    "debutyear1": "1900",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "9 June",
+    "lastyear1": "1926",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Archive/Players/28/28389/28389.html CricketArchive ",
+    "First-class": {
+        "matches": "377",
+        "runs": "14,078",
+        "bat avg": "21.46",
+        "100s/50s": "8/61",
+        "top score": "126",
+        "deliveries": "52,256",
+        "wickets": "807",
+        "bowl avg": "25.24",
+        "fivefor": "30",
+        "tenfor": "2",
+        "best bowling": "8/70",
+        "catches/stumpings": "278/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1900\u20131926"
+    },
+    "birth_date": "1877-1-29"
+}

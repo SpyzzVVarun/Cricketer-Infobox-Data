@@ -1,0 +1,41 @@
+{
+    "name": "Barrington Yearwood",
+    "country": "West Indies",
+    "fullname": "Barrington Bjorn Beckenbauer Yearwood",
+    "birth_place": "St Peter, Barbados",
+    "batting": "Left-handed",
+    "bowling": "Right arm Right arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/61/61029/61029.html CricketArchive ",
+    "FC": {
+        "matches": "1",
+        "runs": "56",
+        "bat avg": "28.00",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "LA": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "31",
+        "wickets": "1",
+        "bowl avg": "29.00",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "1/25",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Barbados": "2008/09"
+    },
+    "birth_date": "1986-8-18"
+}

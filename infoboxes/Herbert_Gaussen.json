@@ -1,0 +1,30 @@
+{
+    "country": "Ireland",
+    "fullname": "Herbert Ponsonby Loftus Gaussen",
+    "birth_place": "Edenfarm, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Vasey, Victoria, Australia",
+    "family": "Arthur Loftus Tottenham (father)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/38674.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "260",
+        "bat avg": "13.00",
+        "100s/50s": "\u2013/1",
+        "top score": "77",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "26.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/26",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Hawke's Bay": "1903/04",
+        "Hertfordshire": "1909",
+        "Marylebone Cricket Club": "1910/11"
+    }
+}

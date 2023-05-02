@@ -1,0 +1,39 @@
+{
+    "name": "Marc Ellison",
+    "country": "New Zealand",
+    "fullname": "Marc Phillip Ellison",
+    "birth_place": "Lower Hutt, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "29 May",
+    "debutyear1": "2018",
+    "debutfor1": "Northern",
+    "debutagainst1": "Leinster",
+    "type2": "List A",
+    "debutdate2": "4 June",
+    "debutyear2": "2018",
+    "debutfor2": "Northern",
+    "debutagainst2": "Leinster",
+    "source": "http://www.espncricinfo.com/ci/content/player/232345.html Cricinfo ",
+    "FC": {
+        "matches": "3",
+        "runs": "80",
+        "bat avg": "13.33",
+        "100s/50s": "0/1",
+        "top score": "65",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "63",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "top score": "31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northern Knights": "2018\u2013present"
+    },
+    "birth_date": "1986-10-11"
+}

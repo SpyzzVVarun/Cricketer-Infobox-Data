@@ -1,0 +1,34 @@
+{
+    "name": "Gokul Inder Dev",
+    "batting": "Right-handed",
+    "bowling": "Leg-break and Leg-break and googly",
+    "source": "https://cricketarchive.com/Archive/Players/39/39196/39196.html Cricket Archive",
+    "First-class": {
+        "matches": "93",
+        "runs": "3,485",
+        "bat avg": "29.53",
+        "100s/50s": "7/13",
+        "top score": "131",
+        "deliveries": "13,834",
+        "wickets": "302",
+        "bowl avg": "21.39",
+        "fivefor": "25",
+        "tenfor": "5",
+        "best bowling": "8/37",
+        "catches/stumpings": "27/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

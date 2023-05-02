@@ -1,0 +1,68 @@
+{
+    "name": "Susan Goatman",
+    "female": "true",
+    "fullname": "Susan Goatman",
+    "birth_place": "Thanet, Kent, England",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "country": "Young England",
+    "country2": "England",
+    "internationalspan": "1973",
+    "internationalspan2": "1979\u20131982",
+    "odidebutfor": "Young England",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Australia",
+    "odicap": "4",
+    "odicap2": "26",
+    "lastodifor": "England",
+    "lastodidate": "7 February",
+    "lastodiyear": "1982",
+    "lastodiagainst": "Australia",
+    "testdebutfor": "England",
+    "testdebutdate": "16 June",
+    "testdebutyear": "1979",
+    "testdebutagainst": "West Indies",
+    "testcap2": "83",
+    "lasttestfor": "England",
+    "lasttestdate": "1 July",
+    "lasttestyear": "1979",
+    "lasttestagainst": "West Indies",
+    "source": "https://cricketarchive.com/Archive/Players/17/17011/17011.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "158",
+        "bat avg": "31.60",
+        "100s/50s": "0/1",
+        "top score": "71",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WODI": {
+        "matches": "21",
+        "runs": "498",
+        "bat avg": "26.21",
+        "100s/50s": "0/3",
+        "top score": "83",
+        "catches/stumpings": "6/\u2013"
+    },
+    "WFC": {
+        "matches": "14",
+        "runs": "617",
+        "bat avg": "26.82",
+        "100s/50s": "0/4",
+        "top score": "98",
+        "catches/stumpings": "9/\u2013"
+    },
+    "WLA": {
+        "matches": "33",
+        "runs": "750",
+        "bat avg": "24.19",
+        "100s/50s": "0/3",
+        "top score": "83",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Kent": "1968\u20131983"
+    },
+    "birth_date": "1945-02-05"
+}

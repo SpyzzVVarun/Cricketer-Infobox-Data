@@ -1,0 +1,20 @@
+{
+    "country": "Ireland",
+    "fullname": "Albert Edwin Anderson",
+    "birth_place": "Comber, Ireland",
+    "death_date": "1944",
+    "death_place": "Comber, Northern Ireland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/24304.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1926"
+    }
+}

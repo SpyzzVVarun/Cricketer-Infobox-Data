@@ -1,0 +1,29 @@
+{
+    "name": "Kalyan Mitter",
+    "country": "India",
+    "birth_place": "Calcutta, India",
+    "death_date": "df=y",
+    "death_place": "Calcutta, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Allrounder",
+    "source": "http://www.espncricinfo.com/ci/content/player/31587.html Cricinfo ",
+    "First-class": {
+        "matches": "51",
+        "runs": "1,698",
+        "bat avg": "26.12",
+        "100s/50s": "1/9",
+        "deliveries": "3339",
+        "wickets": "50",
+        "bowl avg": "31.70",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/39",
+        "catches/stumpings": "18/-"
+    },
+    "clubs": {
+        "Bengal": "1953-54 to 1964-65",
+        "Bihar": "1965-66 to 1968-69"
+    },
+    "birth_date": "1936-5-5"
+}

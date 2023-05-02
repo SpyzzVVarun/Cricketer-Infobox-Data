@@ -1,0 +1,30 @@
+{
+    "name": "George Beslee",
+    "country": "England",
+    "fullname": "George Prior Beslee",
+    "birth_place": "Cliffe, Kent",
+    "death_date": "df=yes",
+    "death_place": "Tonbridge, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/9723.html CricInfo ",
+    "First-class": {
+        "matches": "63",
+        "runs": "439",
+        "bat avg": "7.19",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "9,175",
+        "wickets": "133",
+        "bowl avg": "31.57",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/27",
+        "catches/stumpings": "30/\u2013"
+    },
+    "clubs": {
+        "Kent": "1925\u20131930"
+    },
+    "birth_date": "1904-03-27"
+}

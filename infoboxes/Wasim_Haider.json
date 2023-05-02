@@ -1,0 +1,42 @@
+{
+    "name": "Wasim Haider",
+    "fullname": "Wasim Haider",
+    "birth_place": "Lyallpur, Punjab, (now Faisalabad)",
+    "country": "Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/43550.html ESPN Cricinfo ",
+    "Tests": {
+        "matches": "\u2013",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "-/-",
+        "top score": "\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "-/-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "3",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "-/-",
+        "top score": "13",
+        "deliveries": "114",
+        "wickets": "1",
+        "bowl avg": "79.00",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "1/36",
+        "catches/stumpings": "-/-"
+    },
+    "clubs": {
+        "PIA": "",
+        "Faisalabad": ""
+    },
+    "birth_date": "1967-6-6"
+}

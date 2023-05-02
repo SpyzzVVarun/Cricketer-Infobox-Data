@@ -1,0 +1,20 @@
+{
+    "name": "William Green",
+    "country": "England",
+    "fullname": "William Green",
+    "birth_place": "Sevenoaks, Kent",
+    "death_date": "1870 (aged 52/53)",
+    "death_place": "Gravesend, Kent",
+    "source": "http://www.espncricinfo.com/ci/content/player/13928.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Kent": "1841\u20131842"
+    }
+}

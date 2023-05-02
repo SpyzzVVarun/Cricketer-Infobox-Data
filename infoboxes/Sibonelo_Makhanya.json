@@ -1,0 +1,61 @@
+{
+    "name": "Sibonelo Makhanya",
+    "country": "South Africa",
+    "fullname": "Bongumusa Sibonelo Makhanya",
+    "birth_place": "Durban, KwaZulu-Natal, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://www.espncricinfo.com/cricketers/sibonelo-makhanya-594233 ESPNcricinfo ",
+    "FC": {
+        "matches": "75",
+        "runs": "2,988",
+        "bat avg": "26.67",
+        "100s/50s": "3/15",
+        "top score": "192",
+        "deliveries": "2,218",
+        "wickets": "24",
+        "bowl avg": "49.41",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/15",
+        "catches/stumpings": "36/\u2013"
+    },
+    "LA": {
+        "matches": "71",
+        "runs": "1,423",
+        "bat avg": "26.35",
+        "100s/50s": "0/13",
+        "top score": "82",
+        "deliveries": "916",
+        "wickets": "18",
+        "bowl avg": "41.94",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/36",
+        "catches/stumpings": "33/\u2013"
+    },
+    "T20": {
+        "matches": "76",
+        "runs": "823",
+        "bat avg": "20.57",
+        "100s/50s": "0/1",
+        "deliveries": "252",
+        "wickets": "6",
+        "bowl avg": "61.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "KwaZulu-Natal": "2013/14\u20132019/20",
+        "Dolphins": "2014/15\u20132019/20",
+        "Cape Town Blitz": "2018",
+        "Paarl Rocks": "2019",
+        "Titans": "2020/21",
+        "Northerns": "2021/22\u2013present",
+        "Joburg Super Kings": "2023"
+    },
+    "birth_date": "1996-3-7"
+}

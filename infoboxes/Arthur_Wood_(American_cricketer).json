@@ -1,0 +1,39 @@
+{
+    "name": "Arthur Wood",
+    "country": "United States",
+    "fullname": "Arthur Machin Wood",
+    "birth_place": "Pye Bridge, Derbyshire, England",
+    "death_date": "1947",
+    "death_place": "Philadelphia, United States",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "type1": "FC",
+    "debutdate1": "14 July",
+    "debutyear1": "1879",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "17 September",
+    "lastyear1": "1909",
+    "lastfor1": "Gentlemen of Philadelphia",
+    "lastagainst1": "Gentlemen of Ireland",
+    "source": "https://cricketarchive.com/Archive/Players/27/27380/27380.html CricketArchive",
+    "First-class": {
+        "matches": "71",
+        "runs": "2,675",
+        "bat avg": "22.47",
+        "100s/50s": "4/12",
+        "top score": "182",
+        "deliveries": "664",
+        "wickets": "13",
+        "bowl avg": "26.76",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/31",
+        "catches/stumpings": "96/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1879",
+        "Gentlemen of Philadelphia": "1892\u20131909"
+    },
+    "birth_date": "1861-2-21"
+}

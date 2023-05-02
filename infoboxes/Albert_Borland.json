@@ -1,0 +1,29 @@
+{
+    "name": "Albert Borland",
+    "country": "South Africa",
+    "fullname": "Albert Francis Borland",
+    "birth_place": "Durban, Colony of Natal",
+    "death_date": "1961",
+    "death_place": "Durban, Natal, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Left-arm",
+    "source": "https://www.espncricinfo.com/southafrica/content/player/44220.html Cricinfo ",
+    "First-class": {
+        "matches": "34",
+        "runs": "751",
+        "bat avg": "20.29",
+        "100s/50s": "0/4",
+        "top score": "72",
+        "deliveries": "6923",
+        "wickets": "104",
+        "bowl avg": "23.50",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/34",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {
+        "Natal": "1920\u201321 to 1932\u201333"
+    },
+    "birth_date": "1901-12-13"
+}

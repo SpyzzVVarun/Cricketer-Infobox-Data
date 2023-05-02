@@ -1,0 +1,71 @@
+{
+    "name": "Baba Indrajith",
+    "country": "India",
+    "fullname": "Baba Indrajith",
+    "birth_place": "Chennai, Tamil Nadu, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": [
+        "Batting Allrounder",
+        "Wicket-keeper"
+    ],
+    "family": "Baba Aparajith (twin-brother)",
+    "type1": "FC",
+    "debutdate1": "28 November",
+    "debutyear1": "2013",
+    "debutfor1": "Tamil Nadu",
+    "debutagainst1": "Saurashtra",
+    "type2": "T20",
+    "debutdate2": "1 April",
+    "debutyear2": "2014",
+    "debutfor2": "Tamil Nadu",
+    "debutagainst2": "Goa",
+    "source": "http://www.espncricinfo.com/india/content/player/477069.html Cricinfo ",
+    "FC": {
+        "matches": "55",
+        "runs": "3,636",
+        "bat avg": "52.69",
+        "100s/50s": "11/18",
+        "top score": "200",
+        "deliveries": "126",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "76/1"
+    },
+    "LA": {
+        "matches": "41",
+        "runs": "1,154",
+        "bat avg": "44.38",
+        "100s/50s": "1/8",
+        "top score": "101",
+        "deliveries": "23",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "16/0"
+    },
+    "T20": {
+        "matches": "20",
+        "runs": "319",
+        "bat avg": "19.93",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Tamil Nadu": "2013\u2013present",
+        "Kolkata Knight Riders": "2022"
+    },
+    "birth_date": "1994-07-08"
+}

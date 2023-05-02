@@ -1,0 +1,38 @@
+{
+    "name": "Shebani Bhaskar",
+    "female": "true",
+    "fullname": "Shebani Mandhakini Bhaskar",
+    "birth_place": "Evergreen Park, Illinois, United States",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Wicket-keeper",
+    "country": "United States",
+    "T20Idebutdate": "17 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Canada",
+    "T20Icap": "2",
+    "lastT20Idate": "25 October",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Argentina",
+    "source": "http://espncricinfo.com/usa/content/player/538601.html Cricinfo ",
+    "WT20I": {
+        "matches": "14",
+        "runs": "180",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Tamil Nadu": "2008/09\u20132018/19",
+        "Otago": "2016/17",
+        "Leeward Islands": "2018\u20132018/19"
+    },
+    "birth_date": "1994-10-07"
+}

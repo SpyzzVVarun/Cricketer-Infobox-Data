@@ -1,0 +1,59 @@
+{
+    "name": "Rohit Paudel",
+    "country": "Nepal",
+    "fullname": "Rohit Kumar Paudel",
+    "birth_place": "Bardaghat, Nawalparasi",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "odidebutdate": "3 August",
+    "odidebutyear": "2018",
+    "odidebutagainst": "Netherlands",
+    "odicap": "36",
+    "lastodidate": "1 May",
+    "lastodiyear": "2023",
+    "lastodiagainst": "United Arab Emirates",
+    "T20Idebutdate": "31 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "UAE",
+    "T20Icap": "25",
+    "lastT20Idate": "30 August",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Kenya",
+    "source": "http://www.espncricinfo.com/ci/content/player/1072488.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "ODI": {
+        "matches": "36",
+        "runs": "1157",
+        "bat avg": "37.3",
+        "100s/50s": "1/7",
+        "top score": "126",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20I": {
+        "matches": "21",
+        "runs": "376",
+        "bat avg": "16.92",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "catches/stumpings": "7/\u2013"
+    },
+    "LA": {
+        "matches": "34",
+        "runs": "945",
+        "bat avg": "33.75",
+        "100s/50s": "1/5",
+        "top score": "126",
+        "catches/stumpings": "9/-"
+    },
+    "clubs": {},
+    "birth_date": "2002-09-2",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

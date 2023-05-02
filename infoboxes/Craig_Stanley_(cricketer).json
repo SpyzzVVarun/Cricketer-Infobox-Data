@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Craig Stanley",
+    "birth_place": "North Shields, Northumberland, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/20472.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "0",
+        "deliveries": "192",
+        "wickets": "3",
+        "bowl avg": "45.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/66",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Northumberland": "1991&ndash;2000"
+    },
+    "birth_date": "1971-12-17"
+}

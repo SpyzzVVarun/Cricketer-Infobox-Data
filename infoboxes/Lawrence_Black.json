@@ -1,0 +1,28 @@
+{
+    "name": "Lawrence Black",
+    "country": "England",
+    "fullname": "Lawrence Garfield Black",
+    "birth_place": "Lambeth, London, England",
+    "death_date": "1959",
+    "death_place": "Dewsbury, Yorkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/9118.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "36",
+        "bat avg": "7.20",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "276",
+        "wickets": "1",
+        "bowl avg": "229.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/27",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1903&ndash;1919"
+    }
+}

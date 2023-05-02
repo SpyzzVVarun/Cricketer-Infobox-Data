@@ -1,0 +1,33 @@
+{
+    "name": "Ted Barrett",
+    "country": "England",
+    "fullname": "Edward D'Oyley Barratt",
+    "birth_place": "Stockton-on-Tees, County Durham, England",
+    "death_date": "1891",
+    "death_place": "Kennington, London, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27713/27713.html CricketArchive ",
+    "First-class": {
+        "matches": "153",
+        "runs": "1,595",
+        "bat avg": "8.48",
+        "100s/50s": "0/1",
+        "top score": "67",
+        "deliveries": "32,827",
+        "wickets": "790",
+        "bowl avg": "17.54",
+        "fivefor": "69",
+        "tenfor": "18",
+        "best bowling": "10/43",
+        "catches/stumpings": "75/\u2013"
+    },
+    "clubs": {
+        "North": "1872",
+        "MCC": "1872",
+        "Surrey": "1876\u20131885",
+        "CI Thornton's XI": "1886"
+    },
+    "birth_date": "1844-4-21"
+}

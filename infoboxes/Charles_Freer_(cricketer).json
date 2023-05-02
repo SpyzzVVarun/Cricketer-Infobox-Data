@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Thomas Freer",
+    "birth_place": "Leicester, Leicestershire, England",
+    "death_date": "1882",
+    "death_place": "Buxton, Derbyshire, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/13297.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "66",
+        "bat avg": "4.71",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1842&ndash;1846"
+    }
+}

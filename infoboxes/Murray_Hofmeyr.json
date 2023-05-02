@@ -1,0 +1,31 @@
+{
+    "name": "Murray Hofmeyr",
+    "country": "England",
+    "fullname": "Murray Bernard Hofmeyr",
+    "birth_place": "Pretoria, Transvaal, South Africa",
+    "death_date": "2018",
+    "death_place": "Knysna, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Opening batsman",
+    "source": "https://cricketarchive.com/Archive/Players/13/13716/13716.html CricketArchive ",
+    "First-class": {
+        "matches": "44",
+        "runs": "3,178",
+        "bat avg": "44.76",
+        "100s/50s": "7/19",
+        "top score": "161",
+        "deliveries": "23",
+        "wickets": "1",
+        "bowl avg": "11.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1949\u20131951",
+        "North Eastern Transvaal": "1951/52\u20131953/54"
+    },
+    "birth_date": "1925-12-9"
+}

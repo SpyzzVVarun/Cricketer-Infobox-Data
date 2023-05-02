@@ -1,0 +1,22 @@
+{
+    "name": "Reginald Hudson",
+    "country": "England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-aus.cricinfo.com/columns/content/player/14393.html CricInfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "1,807",
+        "bat avg": "40.15",
+        "100s/50s": "5/8",
+        "top score": "217",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/0"
+    },
+    "clubs": {}
+}

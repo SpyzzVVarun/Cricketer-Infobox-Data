@@ -1,0 +1,16 @@
+{
+    "name": "Naeemuddin",
+    "birth_place": "Gujranwala, Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/318001.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1981-6-17",
+    "medaltemplates": [
+        "Country: {{PAK}}",
+        "Sport: Men's Cricket",
+        "Competition: Asian Games",
+        "Bronze Medal: 2010 Guangzhou Team"
+    ]
+}

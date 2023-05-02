@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Walter Oswald Vizard",
+    "birth_place": "Bellary, Madras Presidency, , British Raj",
+    "death_date": "1929",
+    "death_place": "Bayswater, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/22227.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "256",
+        "bat avg": "8.53",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "11/1"
+    },
+    "clubs": {
+        "Hertfordshire": "1897",
+        "Gloucestershire": "1882&ndash;1890"
+    },
+    "birth_date": "1861-11-16"
+}

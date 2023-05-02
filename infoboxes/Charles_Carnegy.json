@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Gilbert Carnegy",
+    "birth_place": "Kurrackel, British India",
+    "death_date": "df=yes",
+    "death_place": "Stutton, Suffolk, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/charles-carnegy-27710 Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "72",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "20",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1892/93\u20131902/03"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Warwick Snedden",
+    "country": "New Zealand",
+    "fullname": "Warwick Nesbit Snedden",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1990",
+    "death_place": "Auckland, New Zealand",
+    "family": "Nessie Snedden (father)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://content.cricinfo.com/newzealand/content/player/38525.html CricInfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "92",
+        "bat avg": "30.66",
+        "100s/50s": "0/1",
+        "top score": "75",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Auckland": "1946/47"
+    },
+    "birth_date": "1920-07-10"
+}

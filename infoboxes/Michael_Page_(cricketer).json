@@ -1,0 +1,50 @@
+{
+    "name": "Michael Page",
+    "country": "England",
+    "fullname": "Michael Harry Page",
+    "birth_place": "Blackpool, Lancashire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "type1": "FC",
+    "debutdate1": "3 June",
+    "debutyear1": "1964",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "23 August",
+    "lastyear1": "1975",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/31/31850/31850.html CricketArchive ",
+    "First-class": {
+        "matches": "254",
+        "runs": "11,538",
+        "bat avg": "28.55",
+        "100s/50s": "9/63",
+        "top score": "162",
+        "deliveries": "888",
+        "wickets": "7",
+        "bowl avg": "75.28",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/0",
+        "catches/stumpings": "248/\u2013"
+    },
+    "List A": {
+        "matches": "80",
+        "runs": "1,262",
+        "bat avg": "16.38",
+        "100s/50s": "0/4",
+        "top score": "83",
+        "deliveries": "13",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1964\u20131975"
+    },
+    "birth_date": "1941-6-17"
+}

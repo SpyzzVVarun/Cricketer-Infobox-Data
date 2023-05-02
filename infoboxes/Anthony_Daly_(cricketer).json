@@ -1,0 +1,49 @@
+{
+    "name": "Tony Daly",
+    "country": "Australia",
+    "fullname": "Anthony John Daly",
+    "birth_place": "Newcastle, New South Wales, Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "FC",
+    "debutdate1": "9 December",
+    "debutyear1": "1994",
+    "debutfor1": "Tasmania",
+    "debutagainst1": "New South Wales",
+    "lastdate1": "6 December",
+    "lastyear1": "1996",
+    "lastfor1": "Tasmania",
+    "lastagainst1": "Victoria",
+    "type2": "LA",
+    "debutdate2": "12 February",
+    "debutyear2": "1995",
+    "debutfor2": "Tasmania",
+    "debutagainst2": "Western Australia",
+    "lastdate2": "3 February",
+    "lastyear2": "1996",
+    "lastfor2": "Tasmania",
+    "lastagainst2": "Queensland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/2/2469/2469.html CricketArchive ",
+    "First-class": {
+        "matches": "13",
+        "runs": "579",
+        "bat avg": "26.31",
+        "100s/50s": "0/2",
+        "top score": "70",
+        "catches/stumpings": "7/&ndash;"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": [
+            ""
+        ],
+        "bat avg": "36.00",
+        "100s/50s": "0/0",
+        "top score": "72",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1994/95\u20131996/97"
+    },
+    "birth_date": "1969-7-25"
+}

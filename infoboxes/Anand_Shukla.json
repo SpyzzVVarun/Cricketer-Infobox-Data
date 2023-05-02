@@ -1,0 +1,49 @@
+{
+    "name": "Anand Shukla",
+    "country": "India",
+    "birth_place": "Kanpur, United Provinces, British India",
+    "death_date": "2015",
+    "death_place": "Ghaziabad, Uttar Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "family": "Rakesh Shukla (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/35100.html Cricinfo",
+    "First-class": {
+        "matches": "98",
+        "runs": "4,312",
+        "bat avg": "33.68",
+        "100s/50s": "9/24",
+        "deliveries": "17,833",
+        "wickets": "386",
+        "bowl avg": "21.00",
+        "fivefor": "31",
+        "tenfor": "9",
+        "best bowling": "8/50",
+        "catches/stumpings": "74/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "27",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "14.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Uttar Pradesh": "1975/76\u20131977/78",
+        "Central Zone": "1962/63\u20131964/65",
+        "Delhi": "1965/66",
+        "North Zone": "1965/66",
+        "Indian Starlets": "1965/66\u20131966/67",
+        "Bihar": "1966/67\u20131974/75",
+        "East Zone": "1966/67\u20131974/75",
+        "R. K. Mody's XI": "1969/70\u20131971/72"
+    },
+    "birth_date": "1941-1-15"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Cathy Garlick",
+    "female": "true",
+    "fullname": "Cathleen Garlick",
+    "batting": "Right-handed",
+    "role": "Batter; occasional wicket-keeper",
+    "internationalspan": "1973",
+    "country": "International XI",
+    "odidebutdate": "7 July",
+    "odidebutyear": "1973",
+    "odidebutagainst": "Young England",
+    "odicap": "13",
+    "lastodidate": "14 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "Jamaica",
+    "source": "https://cricketarchive.com/Archive/Players/17/17160/17160.html CricketArchive ",
+    "WODI": {
+        "matches": "2",
+        "runs": "22",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "catches/stumpings": "2/0"
+    },
+    "WFC": {
+        "matches": "7",
+        "runs": "443",
+        "bat avg": "73.83",
+        "100s/50s": "2/1",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WLA": {
+        "matches": "11",
+        "runs": "133",
+        "bat avg": "66.50",
+        "100s/50s": "0/0",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Victoria": "1972/73\u20131977/78"
+    }
+}

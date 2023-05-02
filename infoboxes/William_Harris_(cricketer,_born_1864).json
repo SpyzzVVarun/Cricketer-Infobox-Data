@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "William Harris",
+    "birth_place": "Kimberley, Nottinghamshire, England",
+    "death_date": "1949",
+    "death_place": "Crofton Park, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/14566.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Nottinghamshire": "1886"
+    },
+    "birth_date": "1864-6-17"
+}

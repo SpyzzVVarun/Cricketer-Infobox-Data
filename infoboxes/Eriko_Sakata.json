@@ -1,0 +1,33 @@
+{
+    "name": "Eriko Sakata",
+    "female": "true",
+    "country": "Japan",
+    "fullname": "Eriko Sakata",
+    "birth_place": "Japan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "odidebutdate": "22 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Ireland",
+    "odicap": "14",
+    "lastodidate": "23 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/55215.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "66",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {},
+    "birth_date": "1981-6-20"
+}

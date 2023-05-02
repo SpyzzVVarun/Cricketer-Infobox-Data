@@ -1,0 +1,61 @@
+{
+    "name": "Ross Allen",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "FC",
+    "debutdate1": "30 May",
+    "debutyear1": "2017",
+    "debutfor1": "North West",
+    "debutagainst1": "Northern",
+    "type2": "LA",
+    "debutdate2": "29 May",
+    "debutyear2": "2017",
+    "debutfor2": "North West",
+    "debutagainst2": "Northern",
+    "source": "http://www.espncricinfo.com/ci/content/player/526442.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "289",
+        "bat avg": "22.23",
+        "100s/50s": "0/1",
+        "top score": "81",
+        "deliveries": "294",
+        "wickets": "3",
+        "bowl avg": "49.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "3/\u2013"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "37",
+        "bat avg": "6.16",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "247",
+        "wickets": "12",
+        "bowl avg": "17.58",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/9",
+        "catches/stumpings": "4/\u2013"
+    },
+    "T20": {
+        "matches": "11",
+        "runs": "25",
+        "bat avg": "8.33",
+        "100s/50s": "0/0",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "71.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "North West Warriors": "2014\u2013present"
+    },
+    "birth_date": "1996-6-21"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Jack Parsons",
+    "country": "England",
+    "fullname": "John Henry Parsons",
+    "birth_place": "Headington, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Plymouth, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18520.html Cricinfo ",
+    "First-class": {
+        "matches": "355",
+        "runs": "17,969",
+        "bat avg": "35.72",
+        "100s/50s": "38/86",
+        "top score": "225",
+        "wickets": "83",
+        "bowl avg": "28.97",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/41",
+        "catches/stumpings": "260/0"
+    },
+    "clubs": {
+        "Warwickshire": "1910 to 1934",
+        "Europeans": "1919\u201320 to 1921\u201322"
+    },
+    "birth_date": "1890-5-30"
+}

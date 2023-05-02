@@ -1,0 +1,30 @@
+{
+    "name": "Christine Jacobson",
+    "female": "true",
+    "country": "Trinidad and Tobago",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutfor": "Trinidad and Tobago",
+    "odidebutagainst": "New Zealand",
+    "odicap": "4",
+    "lastodidate": "20 July",
+    "lastodiyear": "1973",
+    "lastodifor": "Trinidad and Tobago",
+    "lastodiagainst": "England",
+    "source": "http://espncricinfo.com/westindies/content/player/55133.html Cricinfo",
+    "WODI": {
+        "matches": "6",
+        "runs": "42",
+        "bat avg": "8.40",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "426",
+        "wickets": "8",
+        "bowl avg": "18.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/15",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

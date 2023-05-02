@@ -1,0 +1,18 @@
+{
+    "name": "Norma Ovasuru",
+    "female": "true",
+    "country": "Papua New Guinea",
+    "birth_place": "Port Moresby, Papua New Guinea",
+    "source": "http://www.espncricinfo.com/ci/content/player/333934.html ESPNcricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1989-7-10",
+    "medaltemplates": [
+        "Country: {{PNG}}",
+        "Sport: Women's Cricket",
+        "Competition: Pacific Games",
+        "Silver Medal: 2015 Port Moresby 20 over cricket"
+    ]
+}

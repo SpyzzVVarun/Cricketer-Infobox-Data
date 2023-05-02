@@ -1,0 +1,57 @@
+{
+    "name": "Neal Parlane",
+    "fullname": "Neal Ronald Parlane",
+    "nickname": "Flea last1=Pearse ",
+    "country": "New Zealand",
+    "birth_place": "Whangarei, New Zealand",
+    "heightcm": "172",
+    "batting": "Right-handed",
+    "FC": {
+        "matches": "103",
+        "runs": "5,602",
+        "bat avg": "35.91",
+        "100s/50s": "12/32",
+        "top score": "193",
+        "deliveries": "54",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "115/\u2013"
+    },
+    "LA": {
+        "matches": "108",
+        "runs": "2,590",
+        "bat avg": "27.26",
+        "100s/50s": "3/15",
+        "top score": "117",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "52/\u2013"
+    },
+    "T20": {
+        "matches": "28",
+        "runs": "721",
+        "bat avg": "30.04",
+        "100s/50s": "0/4",
+        "top score": "85",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "7/\u2013 |source         = https://www.espncricinfo.com/player/neal-parlane-38115 CricInfo |date           = 27 May |year           = 2022 "
+    },
+    "clubs": {
+        "Northern Districts": "1996/97\u20132000/01",
+        "Wellington": "2002/03\u20132010/11",
+        "Auckland": "2011/12"
+    },
+    "birth_date": "1978-8-9"
+}

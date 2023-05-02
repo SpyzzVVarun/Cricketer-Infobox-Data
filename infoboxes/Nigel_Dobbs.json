@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Nigel Patrick Dobbs",
+    "birth_place": "Scunthorpe, Lincolnshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/12003.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "1986\u20131994"
+    },
+    "birth_date": "1962-5-8"
+}

@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Martin Stewart Meeson",
+    "birth_place": "Marylebone, London, England",
+    "death_date": "df=yes",
+    "death_place": "Westminster, London, England",
+    "batting": "Left-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/17519.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1952&ndash;1963",
+        "Cambridge University": "1957"
+    }
+}

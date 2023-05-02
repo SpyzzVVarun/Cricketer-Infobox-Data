@@ -1,0 +1,23 @@
+{
+    "name": "Lionel White",
+    "country": "England",
+    "fullname": "Lionel Algernon White",
+    "birth_place": "Wateringbury, Kent",
+    "death_date": "1917",
+    "death_place": "Tunbridge Wells, Kent",
+    "family": "Edward White (cousin)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/22914.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "84",
+        "bat avg": "10.50",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kent": "1869"
+    },
+    "birth_date": "1850-11-09"
+}

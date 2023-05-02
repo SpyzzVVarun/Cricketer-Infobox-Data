@@ -1,0 +1,28 @@
+{
+    "country": "South Africa",
+    "fullname": "John Gauntlett Hirsch",
+    "birth_place": "Port Elizabeth, Cape Province, South Africa",
+    "death_date": "1958",
+    "death_place": "Wynberg, Cape Province,, South Africa",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/14845.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "166",
+        "bat avg": "15.09",
+        "100s/50s": "\u2013/1",
+        "top score": "56",
+        "deliveries": "144",
+        "wickets": "1",
+        "bowl avg": "93.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/41",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1903&ndash;1904",
+        "London County": "1903&ndash;1904"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Tim Ward",
+    "fullname": "Timothy Peter Ward",
+    "birth_place": "Wahroonga, New South Wales, Australia",
+    "batting": "Left-handed",
+    "role": "Opening batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/1213975.html Cricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "1313",
+        "bat avg": "36.47",
+        "100s/50s": "1/10",
+        "top score": "144",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "12/\u2013"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "22.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Tasmania( 61 )": "2020/21\u2013present"
+    },
+    "birth_date": "1998-2-16"
+}

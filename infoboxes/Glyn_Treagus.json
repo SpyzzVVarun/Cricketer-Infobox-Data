@@ -1,0 +1,27 @@
+{
+    "name": "Glyn Treagus",
+    "country": "England",
+    "fullname": "Glyn Robert Treagus",
+    "birth_place": "Rustington, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/21657.html Cricinfo ",
+    "LA": {
+        "matches": "7",
+        "runs": "104",
+        "bat avg": "17.33",
+        "100s/50s": "\u2013/1",
+        "top score": "76",
+        "deliveries": "233",
+        "wickets": "1",
+        "bowl avg": "220.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/44",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Dorset": "2000&ndash;present"
+    },
+    "birth_date": "1974-12-10"
+}

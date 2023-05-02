@@ -1,0 +1,44 @@
+{
+    "name": "David Banks",
+    "country": "England",
+    "fullname": "David Andrew Banks",
+    "birth_place": "Pensnett, Dudley, England",
+    "website": "www.stac-cricket.com",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/10/10697/10697.html CricketArchive ",
+    "FC": {
+        "matches": "30",
+        "runs": "1,034",
+        "bat avg": "27.21",
+        "100s/50s": "1/5",
+        "top score": "100",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "15/0"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "374",
+        "bat avg": "17.00",
+        "100s/50s": "0/2",
+        "deliveries": "108",
+        "wickets": "4",
+        "bowl avg": "23.75",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "2/46",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Worcestershire Cricket Board": "2000\u20132001",
+        "Staffordshire": "1986\u20131994",
+        "Warwickshire": "1988\u20131989",
+        "Worcestershire": "1982\u20131985"
+    },
+    "birth_date": "1961-1-11"
+}

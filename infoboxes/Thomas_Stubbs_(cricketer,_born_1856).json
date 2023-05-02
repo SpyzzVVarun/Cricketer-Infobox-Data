@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Thomas Walker Stubbs",
+    "birth_place": "Ashton upon Mersey, Cheshire,, England",
+    "death_date": "df=yes",
+    "death_place": "Stow-on-the-Wold, Gloucestershire,, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/21099.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "76",
+        "wickets": "3",
+        "bowl avg": "13.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/26",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1877"
+    }
+}

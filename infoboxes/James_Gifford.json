@@ -1,0 +1,20 @@
+{
+    "country": "Argentina",
+    "fullname": "James Gifford",
+    "birth_place": "Buenos Aires, Argentina",
+    "death_date": "1931",
+    "death_place": "Buenos Aires, Argentina",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/13605.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "143",
+        "bat avg": "17.87",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "37",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1897&ndash;1898"
+    }
+}

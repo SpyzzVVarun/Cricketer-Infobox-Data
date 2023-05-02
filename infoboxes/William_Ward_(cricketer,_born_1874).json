@@ -1,0 +1,28 @@
+{
+    "name": "William Ward",
+    "country": "England",
+    "fullname": "William Ward",
+    "birth_place": "Birmingham, Warwickshire, England",
+    "death_date": "1961",
+    "death_place": "Birmingham, Warwickshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/22739.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "79",
+        "bat avg": "7.18",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "1,937",
+        "wickets": "30",
+        "bowl avg": "32.16",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/61",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1895&ndash;1904"
+    }
+}

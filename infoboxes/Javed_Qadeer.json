@@ -1,0 +1,36 @@
+{
+    "name": "Javed Qadeer",
+    "country": "Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Wicketkeeper",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/40880.html ",
+    "Tests": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "-/-",
+        "top score": "12",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "-",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {}
+}

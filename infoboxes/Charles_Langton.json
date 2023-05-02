@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Langton",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1900",
+    "death_place": "Aigburth, Lancashire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/16754.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "5.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "36",
+        "wickets": "3",
+        "bowl avg": "24.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1849"
+    }
+}

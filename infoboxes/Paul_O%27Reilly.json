@@ -1,0 +1,25 @@
+{
+    "name": "Paul O'Reilly",
+    "fullname": "Paul John O'Reilly",
+    "birth_place": "Waterford, County Waterford, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18279.html Cricinfo ",
+    "List A": {
+        "matches": "4",
+        "runs": "10",
+        "bat avg": "&ndash;",
+        "100s/50s": "0/0",
+        "deliveries": "144",
+        "wickets": "2",
+        "bowl avg": "48.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/54",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Hertfordshire": "1996&ndash;2003"
+    },
+    "birth_date": "1962-8-4"
+}

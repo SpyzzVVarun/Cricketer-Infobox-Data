@@ -1,0 +1,32 @@
+{
+    "name": "Zain-ul-Hassan",
+    "country": "Pakistan",
+    "birth_place": "Islamabad, Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "LA",
+    "onetype1": "true",
+    "debutdate1": "19 June",
+    "debutyear1": "2018",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "West Indies A",
+    "source": "http://www.espncricinfo.com/ci/content/player/1098178.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "2018",
+        "Glamorgan": "2023"
+    },
+    "birth_date": "2000-10-28"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Rahul Tripathi",
+    "country": "India",
+    "fullname": "Rahul Ajay Kumar",
+    "birth_place": "Ranchi, Jharkhand, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batting (cricket)",
+    "T20Idebutdate": "5 January",
+    "T20Idebutyear": "2023",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "102",
+    "lastT20Idate": "1 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/446763.html Cricinfo ",
+    "T20I": {
+        "matches": "5",
+        "runs": "97",
+        "bat avg": "19.40",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Maharashtra": "2010\u2013present",
+        "Rising Pune Supergiant( 52 )": "2017",
+        "Rajasthan Royals( 52 )": "2018\u20132019",
+        "Kolkata Knight Riders": "2020\u20132021",
+        "Sunrisers Hyderabad": "2022\u2013present |clubnumber5 = 52"
+    },
+    "birth_date": "1991-3-2"
+}

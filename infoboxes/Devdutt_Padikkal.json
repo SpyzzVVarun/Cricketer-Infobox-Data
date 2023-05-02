@@ -1,0 +1,57 @@
+{
+    "name": "Devdutt Padikkal",
+    "country": "India",
+    "birth_place": "Edappal,  Kerala, India",
+    "height": "6 ft 3 in",
+    "batting": "Left-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Top-order-Batter",
+    "internationalspan": "2021- present",
+    "T20Idebutdate": "28 July",
+    "T20Idebutyear": "2021",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "89",
+    "T20Ishirt": "37",
+    "lastT20Idate": "29 July",
+    "lastT20Iyear": "2021",
+    "lastT20Iagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/ci/content/player/1119026.html Cricinfo ",
+    "T20I": {
+        "matches": "2",
+        "runs": "38",
+        "bat avg": "19.00",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "19",
+        "runs": "1,190",
+        "bat avg": "36.06",
+        "100s/50s": "1/10",
+        "top score": "178",
+        "catches/stumpings": "19/0"
+    },
+    "LA": {
+        "matches": "22",
+        "runs": "1,391",
+        "bat avg": "77.27",
+        "100s/50s": "6/8",
+        "top score": "152",
+        "catches/stumpings": "9/0"
+    },
+    "T20": {
+        "matches": "54",
+        "runs": "1,829",
+        "bat avg": "37.32",
+        "100s/50s": "2/13",
+        "catches/stumpings": "28/0"
+    },
+    "clubs": {
+        "Bellary Tuskers": "2017\u2013present",
+        "Karnataka": "2018\u2013present",
+        "Royal Challengers Bangalore": "2019\u20132021",
+        "Rajasthan Royals": "2022"
+    },
+    "birth_date": "2000-7-7"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "James Pollitt",
+    "country": "England",
+    "fullname": "James Peter Pollitt",
+    "source": "http://www.cricinfo.com/ci/content/player/19216.html Cricinfo ",
+    "FC": {
+        "matches": "9",
+        "runs": "83",
+        "bat avg": "5.92",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "?",
+        "wickets": "5",
+        "bowl avg": "?",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/?",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1851",
+        "Middlesex": "1850&ndash;1851",
+        "Hampshire": "1850"
+    }
+}

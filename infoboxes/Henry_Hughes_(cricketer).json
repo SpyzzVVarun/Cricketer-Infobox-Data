@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Henry Christopher David Hughes",
+    "birth_place": "Manchester, Lancashire, England",
+    "heightft": "5",
+    "heightinch": "9",
+    "nickname": "Noo Noo",
+    "family": "Christopher David Maxwell Hughes, Herbert Hughes",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/731965.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "1.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford MCCU": "2015"
+    },
+    "birth_date": "1992-9-11"
+}

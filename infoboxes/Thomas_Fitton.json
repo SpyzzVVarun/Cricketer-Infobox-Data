@@ -1,0 +1,22 @@
+{
+    "module": "child=yes   |embed=yes",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "id=13070   ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "156",
+        "wickets": "2",
+        "bowl avg": "38.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/76",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1932"
+    }
+}

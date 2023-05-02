@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "George Knight",
+    "birth_place": "Petworth, Sussex, England",
+    "death_date": "1901",
+    "death_place": "Petworth, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown arm underarm Unknown arm underarm slow",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/16081.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "125",
+        "bat avg": "6.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "88",
+        "wickets": "1",
+        "bowl avg": "43.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/25",
+        "catches/stumpings": "8/11"
+    },
+    "clubs": {
+        "Sussex": "1860&ndash;1874"
+    },
+    "birth_date": "1835-3-28"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Thomas Wickham",
+    "country": "England",
+    "fullname": "Thomas Provis Wickham",
+    "source": "http://www.cricinfo.com/ci/content/player/23386.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "14",
+        "bat avg": "4.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "10",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1851",
+        "Hampshire": "1850"
+    }
+}

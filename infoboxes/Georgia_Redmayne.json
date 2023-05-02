@@ -1,0 +1,35 @@
+{
+    "name": "Georgia Redmayne",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Georgia Prue Redmayne",
+    "birth_place": "Lismore, New South Wales, Australia",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper-batter",
+    "source": "https://www.espncricinfo.com/ci/content/player/381197.html ESPNcricinfo",
+    "WLA": {
+        "matches": "47",
+        "runs": "1,978",
+        "bat avg": "53.45",
+        "100s/50s": "6/8",
+        "catches/stumpings": "43/22"
+    },
+    "WT20": {
+        "matches": "74",
+        "runs": "1,399",
+        "bat avg": "24.12",
+        "100s/50s": "0/8",
+        "catches/stumpings": "33/22"
+    },
+    "clubs": {
+        "Worcestershire": "2012",
+        "New South Wales": "2014/15\u20132015/16",
+        "Tasmania": "2016/17\u20132018/19",
+        "Hobart Hurricanes": "2016/17\u20132018/19",
+        "Queensland": "2019/20\u2013present",
+        "Perth Scorchers": "2019/20",
+        "Brisbane Heat": "2020/21\u2013present",
+        "Welsh Fire": "2021"
+    },
+    "birth_date": "1993-12-8"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Jonathan Davies",
+    "birth_place": "Maesteg, Mid Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11824.html Cricinfo ",
+    "LA": {
+        "matches": "4",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "228",
+        "wickets": "4",
+        "bowl avg": "38.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/30",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Wales Minor Counties": "1998&ndash;2002"
+    },
+    "birth_date": "1980-2-23"
+}

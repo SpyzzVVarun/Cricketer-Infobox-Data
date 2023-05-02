@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Denis Leng",
+    "birth_place": "Pudsey, Yorkshire, England",
+    "death_date": "September 2020 (aged 85)",
+    "death_place": "Baildon, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24425.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "102",
+        "wickets": "1",
+        "bowl avg": "36.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/36",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1966"
+    }
+}

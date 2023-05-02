@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Norman Scott-Chad",
+    "birth_place": "Kensington, London, England",
+    "death_date": "1950",
+    "death_place": "Paddington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/20638.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "49",
+        "bat avg": "9.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "438",
+        "wickets": "6",
+        "bowl avg": "35.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/43",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Norfolk": "1920&ndash;1932"
+    }
+}

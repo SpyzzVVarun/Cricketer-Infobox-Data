@@ -1,0 +1,57 @@
+{
+    "name": "Sumit Narwal",
+    "country": "India",
+    "fullname": "Sumit Narwal",
+    "birth_place": "Chirao, Karnal district, Haryana",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ranji-trophy-2016-17/content/player/32084.html  ",
+    "FC": {
+        "matches": "57",
+        "runs": "1,827",
+        "bat avg": "27.26",
+        "100s/50s": "2/9",
+        "top score": "137",
+        "deliveries": "10,431",
+        "wickets": "201",
+        "bowl avg": "22.91",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "7/43",
+        "catches/stumpings": "12/\u2013"
+    },
+    "LA": {
+        "matches": "47",
+        "runs": "534",
+        "bat avg": "21.36",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "deliveries": "2,210",
+        "wickets": "62",
+        "bowl avg": "26.25",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/21",
+        "catches/stumpings": "13/\u2013"
+    },
+    "T20": {
+        "matches": "33",
+        "runs": "277",
+        "bat avg": "21.30",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "deliveries": "643",
+        "wickets": "27",
+        "bowl avg": "30.51",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/15",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Haryana": "2001/02\u20132003/04",
+        "Delhi": "2007/08\u20132016/17",
+        "Rajasthan Royals": "2009/10",
+        "Kolkata Knight Riders": "2013"
+    }
+}

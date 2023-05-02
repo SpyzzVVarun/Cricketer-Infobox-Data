@@ -1,0 +1,39 @@
+{
+    "name": "Roly Thompson",
+    "country": "England",
+    "fullname": "Roland George Thompson",
+    "birth_place": "Binley, Coventry, Warwickshire",
+    "death_date": "df=yes",
+    "death_place": "Coventry",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "11 May",
+    "debutyear1": "1949",
+    "debutfor1": "Warwickshire",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "4 September",
+    "lastyear1": "1962",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Somerset",
+    "source": "https://cricketarchive.com/Archive/Players/33/33280/33280.html CricketArchive ",
+    "First-class": {
+        "matches": "158",
+        "runs": "657",
+        "bat avg": "5.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "28009",
+        "wickets": "479",
+        "bowl avg": "22.75",
+        "fivefor": "21",
+        "tenfor": "5",
+        "best bowling": "9/65",
+        "catches/stumpings": "51/\u2013"
+    },
+    "clubs": {
+        "Warwickshire": "1949\u201362",
+        "Combined Services": "1952"
+    },
+    "birth_date": "1932-9-26"
+}

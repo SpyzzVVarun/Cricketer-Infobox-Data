@@ -1,0 +1,27 @@
+{
+    "name": "Jamahidaya Intan",
+    "female": "true",
+    "country": "Malaysia",
+    "fullname": "Jamahidaya Intan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "3 June",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "India",
+    "T20Icap": "4",
+    "lastT20Idate": "9 October",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/486818.html ESPNCricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1996-9-11",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Bronze Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Arthur Denis Bradford Cocks",
+    "birth_place": "Dharamshala, Punjab Province,, British India",
+    "death_date": "df=y",
+    "death_place": "Sword Beach, near Ouistreham, Normandy, France",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11208.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "30",
+        "bat avg": "15.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "306",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1924"
+    }
+}

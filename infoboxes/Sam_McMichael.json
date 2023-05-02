@@ -1,0 +1,23 @@
+{
+    "name": "Sam McMichael",
+    "country": "Australia",
+    "fullname": "Samuel Albert McMichael",
+    "birth_place": "Clifton Hill, Victoria, Australia",
+    "death_date": "1923",
+    "death_place": "Brighton, Victoria, Australia",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/player/samuel-mcmichael-6780 Cricinfo ",
+    "First-class": {
+        "matches": "27",
+        "runs": "1,032",
+        "bat avg": "24.57",
+        "100s/50s": "0/6",
+        "top score": "97",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1891/92\u20131903/04"
+    },
+    "birth_date": "1869-7-18"
+}

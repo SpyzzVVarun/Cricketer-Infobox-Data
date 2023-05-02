@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Rowland George Venables",
+    "birth_place": "Truro, Cornwall, England",
+    "death_date": "df=yes",
+    "death_place": "Oswestry, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm roundarm Left-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/22209.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "144",
+        "wickets": "4",
+        "bowl avg": "23.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/25",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1866&ndash;1869"
+    }
+}

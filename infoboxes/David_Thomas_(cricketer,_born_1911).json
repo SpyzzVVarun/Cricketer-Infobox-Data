@@ -1,0 +1,28 @@
+{
+    "name": "David Thomas",
+    "country": "England",
+    "fullname": "David John Thomas",
+    "birth_place": "Swansea, Glamorgan, Wales",
+    "death_date": "2001",
+    "death_place": "Swansea, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "source": "http://www.cricinfo.com/ci/content/player/21506.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "10",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "102",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1932"
+    },
+    "birth_date": "1911-11-25"
+}

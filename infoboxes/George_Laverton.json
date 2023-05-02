@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "George Aylmer Laverton",
+    "birth_place": "Westbury, Wiltshire, England",
+    "death_date": "df=yes",
+    "death_place": "Wallingford, Berkshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/george-laverton-30771 Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "202",
+        "bat avg": "18.36",
+        "100s/50s": "\u2013/1",
+        "top score": "51",
+        "deliveries": "289",
+        "wickets": "2",
+        "bowl avg": "83.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/1",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1917/18\u20131918/19"
+    }
+}

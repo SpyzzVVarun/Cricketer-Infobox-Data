@@ -1,0 +1,33 @@
+{
+    "name": "Charles Toppin",
+    "country": "England",
+    "fullname": "Charles Graham Toppin",
+    "nickname": "Tim",
+    "birth_place": "Great Malvern, Worcestershire",
+    "death_date": "1972",
+    "death_place": "Leamington Spa, Warwickshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "type1": "FC",
+    "debutdate1": "23 July",
+    "debutyear1": "1927",
+    "debutfor1": "Worcestershire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "13 July",
+    "lastyear1": "1928",
+    "lastfor1": "Worcestershire",
+    "lastagainst1": "Lancashire",
+    "source": "http://cricketarchive.co.uk/Archive/Players/33/33378/33378.html Cricketarchive  ",
+    "First-class": {
+        "matches": "4",
+        "runs": "17",
+        "bat avg": "3.40",
+        "100s/50s": "0/0",
+        "top score": "10",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "1927\u20131928"
+    },
+    "birth_date": "1906-4-17"
+}

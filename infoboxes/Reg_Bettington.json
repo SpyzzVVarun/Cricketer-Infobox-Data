@@ -1,0 +1,31 @@
+{
+    "name": "Reg Bettington",
+    "country": "Australia",
+    "fullname": "Reginald Henshall Brindley Bettington",
+    "birth_place": "Merriwa, New South Wales",
+    "death_date": "df=yes",
+    "death_place": "Gisborne, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://cricketarchive.com/Archive/Players/5/5737/5737.html Cricket Archive",
+    "First-class": {
+        "matches": "86",
+        "runs": "3314",
+        "bat avg": "27.38",
+        "100s/50s": "4/8",
+        "top score": "127",
+        "deliveries": "14788",
+        "wickets": "357",
+        "bowl avg": "23.79",
+        "fivefor": "21",
+        "tenfor": "5",
+        "best bowling": "8/66",
+        "catches/stumpings": "60/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1920 to 1923",
+        "Middlesex": "1928",
+        "New South Wales": "1928\u201329 to 1931\u201332"
+    },
+    "birth_date": "1900-2-24"
+}

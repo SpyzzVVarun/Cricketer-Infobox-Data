@@ -1,0 +1,38 @@
+{
+    "name": "Brad McNamara",
+    "fullname": "Bradley Edward McNamara",
+    "nickname": "'Buzzard '",
+    "birth_place": "Sydney, New South Wales",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/4/4359/4359.html CricketArchive ",
+    "FC": {
+        "matches": "59",
+        "runs": "2195",
+        "bat avg": "27.78",
+        "100s/50s": "2/11",
+        "deliveries": "6591",
+        "wickets": "116",
+        "bowl avg": "26.82",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "35/\u2013"
+    },
+    "LA": {
+        "matches": "47",
+        "runs": "473",
+        "bat avg": "18.19",
+        "100s/50s": "0/2",
+        "deliveries": "2176",
+        "wickets": "60",
+        "bowl avg": "23.41",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "6/25",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1965-12-30"
+}

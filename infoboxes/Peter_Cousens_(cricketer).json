@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Peter Cousens",
+    "birth_place": "Durban, Natal Province, , South Africa",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/10833.html Cricinfo ",
+    "First-class": {
+        "matches": "39",
+        "runs": "72",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "3,950",
+        "wickets": "44",
+        "bowl avg": "38.79",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/63",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Essex": "1950\u20131955"
+    },
+    "birth_date": "1932-5-15"
+}

@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Claude Vincent Godby Haines",
+    "nickname": "Bob",
+    "birth_place": "Bristol, England",
+    "death_date": "1965",
+    "death_place": "Lower Cwmtwrch, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "family": "Alfred Haines (father)",
+    "source": "http://www.espncricinfo.com/ci/content/player/13995.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "350",
+        "bat avg": "19.44",
+        "100s/50s": "&ndash;/2",
+        "top score": "59",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "33.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/15",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Devon": "1946",
+        "Glamorgan": "1933&ndash;1934"
+    },
+    "birth_date": "1906-1-17"
+}

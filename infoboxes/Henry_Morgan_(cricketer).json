@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Henry Randolph Morgan",
+    "birth_place": "Belfast, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Belfast, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24466.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "54",
+        "bat avg": "10.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "642",
+        "wickets": "18",
+        "bowl avg": "10.38",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "7/41",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1931&ndash;1938"
+    }
+}

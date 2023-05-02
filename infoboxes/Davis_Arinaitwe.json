@@ -1,0 +1,51 @@
+{
+    "name": "Davis Arinaitwe",
+    "country": "Uganda",
+    "fullname": "Davis Karashani Arinaitwe",
+    "birth_place": "Mbarara, Uganda",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/62/62444/62444.html CricketArchive ",
+    "FC": {
+        "matches": "3",
+        "runs": "63",
+        "bat avg": "15.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "572",
+        "wickets": "11",
+        "bowl avg": "18.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/32",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "38",
+        "bat avg": "4.75",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "665",
+        "wickets": "15",
+        "bowl avg": "38.86",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/53",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "T20": {
+        "matches": "6",
+        "runs": "30",
+        "bat avg": "10.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "96",
+        "wickets": "5",
+        "bowl avg": "18.60",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/18",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1987-4-20"
+}

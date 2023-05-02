@@ -1,0 +1,55 @@
+{
+    "name": "K. S. Bharat",
+    "country": "India",
+    "fullname": "Kona Srikar Bharat",
+    "birth_place": "Visakhapatnam, Andhra Pradesh, India",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper batsman",
+    "testdebutdate": "9 February",
+    "testdebutyear": "2023",
+    "testdebutagainst": "Australia",
+    "testcap": "305",
+    "lasttestdate": "9 March",
+    "lasttestyear": "2023",
+    "lasttestagainst": "Australia",
+    "source": "http://www.espncricinfo.com/india/content/player/529436.html Cricinfo ",
+    "Test": {
+        "matches": "4",
+        "runs": "101",
+        "bat avg": "20.20",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "7/1"
+    },
+    "FC": {
+        "matches": "90",
+        "runs": "4,808",
+        "bat avg": "37.27",
+        "100s/50s": "9/27",
+        "top score": "308",
+        "catches/stumpings": "303/36"
+    },
+    "LA": {
+        "matches": "64",
+        "runs": "1,950",
+        "bat avg": "33.62",
+        "100s/50s": "6/6",
+        "catches/stumpings": "69/13"
+    },
+    "T20": {
+        "matches": "67",
+        "runs": "1,116",
+        "bat avg": "19.57",
+        "100s/50s": "0/5",
+        "catches/stumpings": "48/13"
+    },
+    "clubs": {
+        "Andhra": "2012\u2013present",
+        "Delhi Daredevils": "2015",
+        "Royal Challengers Bangalore": "2021",
+        "Delhi Capitals": "2022"
+    },
+    "birth_date": "1993-10-3"
+}

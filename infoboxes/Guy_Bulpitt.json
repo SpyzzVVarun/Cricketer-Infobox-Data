@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Guy Bulpitt",
+    "birth_place": "Stafford, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/9364.html Cricinfo ",
+    "List A": {
+        "matches": "7",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "328",
+        "wickets": "8",
+        "bowl avg": "23.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/39",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Staffordshire": "1998\u20132004"
+    },
+    "birth_date": "1968-4-16"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Tess Cooper",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Tess Margaret Cooper",
+    "birth_place": "Townsville, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "source": "https://www.cricketarchive.com/Archive/Players/1232/1232553/1232553.html CricketArchive ",
+    "WLA": {
+        "matches": "10",
+        "runs": "130",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Queensland( 36 )": "2020/21",
+        "Brisbane Heat( 36 )": "2016/17\u20132017/18",
+        "Adelaide Strikers": "2021/22"
+    },
+    "birth_date": "1996-09-27"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Brendon Kuruppu",
+    "fullname": "Don Sardha Brendon Priyantha Kuruppu",
+    "birth_place": "Colombo, Sri Lanka",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper-batsman",
+    "country": "Sri Lanka",
+    "internationalspan": "1983\u20131991",
+    "testdebutdate": "16 April",
+    "testdebutyear": "1987",
+    "testdebutagainst": "New Zealand",
+    "testcap": "132",
+    "lasttestdate": "22 August",
+    "lasttestyear": "1991",
+    "lasttestagainst": "England",
+    "odidebutdate": "30 April",
+    "odidebutyear": "1983",
+    "odidebutagainst": "Australia",
+    "odicap": "35",
+    "lastodidate": "2 May",
+    "lastodiyear": "1990",
+    "lastodiagainst": "Australia",
+    "source": "http://content.cricinfo.com/srilanka/content/player/49368.html Cricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "320",
+        "bat avg": "53.33",
+        "100s/50s": "1/0",
+        "catches/stumpings": "1/0"
+    },
+    "ODI": {
+        "matches": "54",
+        "runs": "1022",
+        "bat avg": "20.03",
+        "100s/50s": "0/4",
+        "top score": "72",
+        "catches/stumpings": "30/8"
+    },
+    "clubs": {},
+    "birth_date": "5 January 1962"
+}

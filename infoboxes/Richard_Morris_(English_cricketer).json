@@ -1,0 +1,38 @@
+{
+    "name": "Richard Morris",
+    "country": "England",
+    "fullname": "Richard Kyle Morris",
+    "birth_place": "Newbury, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "James Morris (brother)",
+    "type1": "FC",
+    "debutdate1": "15 April",
+    "debutyear1": "2006",
+    "debutfor1": "Loughborough UCCE",
+    "debutagainst1": "Essex",
+    "lastdate1": "7 May",
+    "lastyear1": "2008",
+    "lastfor1": "Loughborough UCCE",
+    "lastagainst1": "Worcestershire",
+    "source": "http://www.cricinfo.com/ci/content/player/211850.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "97",
+        "bat avg": "24.25",
+        "100s/50s": "0/1",
+        "top score": "88",
+        "deliveries": "360",
+        "wickets": "5",
+        "bowl avg": "54.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/58",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Loughborough UCCE": "2006\u20132008",
+        "Berkshire": "2009\u2013"
+    },
+    "birth_date": "1987-09-26"
+}

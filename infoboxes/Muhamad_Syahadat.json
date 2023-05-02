@@ -1,0 +1,25 @@
+{
+    "name": "Muhamad Syahadat",
+    "country": "Malaysia",
+    "fullname": "Muhammad Syahadat Ramli",
+    "T20Idebutdate": "24 June",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Thailand",
+    "T20Icap": "5",
+    "lastT20Idate": "9 July",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Maldives",
+    "source": "http://www.espncricinfo.com/ci/content/player/348125.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1994-3-24",
+    "medaltemplates": [
+        "Country: {{MAS}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur 50 over",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Caroline Ward",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "female": "true",
+    "onetest": "true",
+    "testdebutdate": "28 February",
+    "testdebutyear": "1995",
+    "testdebutagainst": "New Zealand",
+    "testcap": "129",
+    "oneodi": "true",
+    "odidebutdate": "20 January",
+    "odidebutyear": "1994",
+    "odidebutagainst": "New Zealand",
+    "odicap": "73",
+    "source": "http://www.espncricinfo.com/ci/content/player/53581.html CricInfo  ",
+    "WTest": {
+        "matches": "1",
+        "runs": "25",
+        "bat avg": "24.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WODI": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WNCL": {
+        "matches": "16",
+        "runs": "237",
+        "bat avg": "18.23",
+        "100s/50s": "0/1",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {}
+}

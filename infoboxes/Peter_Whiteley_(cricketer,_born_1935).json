@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Peter Whiteley",
+    "birth_place": "Rochdale, Lancashire, England",
+    "death_date": "1989",
+    "death_place": "Crompton, Lancashire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "Wife Shiela Whiteley, Children Steven Whiteley and Jill Whiteley",
+    "source": "http://www.espncricinfo.com/ci/content/player/22938.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "86",
+        "bat avg": "14.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "32",
+        "deliveries": "600",
+        "wickets": "9",
+        "bowl avg": "29.55",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/70",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1957&ndash;1958"
+    },
+    "birth_date": "1935-8-12"
+}

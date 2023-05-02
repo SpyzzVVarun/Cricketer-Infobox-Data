@@ -1,0 +1,31 @@
+{
+    "name": "Helen Lee",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium-fast",
+    "family": "Ross Taylor (husband)",
+    "testdebutdate": "29 June",
+    "testdebutyear": "1963",
+    "testdebutagainst": "England",
+    "testcap": "60",
+    "lasttestdate": "20 July",
+    "lasttestyear": "1963",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/53530.html CricInfo  ",
+    "WTest": {
+        "matches": "2",
+        "runs": "60",
+        "bat avg": "30.00",
+        "100s/50s": "0/0",
+        "deliveries": "292",
+        "wickets": "4",
+        "bowl avg": "17.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/39",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "3 January 1943"
+}

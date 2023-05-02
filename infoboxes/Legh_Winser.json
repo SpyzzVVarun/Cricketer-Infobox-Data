@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Cyril Legh Winser",
+    "birth_place": "High Legh, Cheshire, England",
+    "death_date": "1983",
+    "death_place": "Barwon Heads, Victoria, Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/8368.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "64",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "catches/stumpings": "8/6"
+    },
+    "clubs": {
+        "South Australia": "1913/14&ndash;1920/21",
+        "Staffordshire": "1906&ndash;1909"
+    }
+}

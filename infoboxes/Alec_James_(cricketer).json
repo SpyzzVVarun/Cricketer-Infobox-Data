@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Alec Pearce James",
+    "birth_place": "Neath, Glamorgan, Wales",
+    "death_date": "1961",
+    "death_place": "Torquay, Devon, England",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/6075.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "93",
+        "bat avg": "13.28",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "23",
+        "deliveries": "986",
+        "wickets": "13",
+        "bowl avg": "35.92",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/56",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1914/15",
+        "Carmarthenshire": "1910"
+    },
+    "birth_date": "1889-5-22"
+}

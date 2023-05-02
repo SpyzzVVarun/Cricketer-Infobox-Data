@@ -1,0 +1,44 @@
+{
+    "country": "Pakistan",
+    "fullname": "Syed Baqar Rizvi",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/18/18953/18953.html CricketArchive ",
+    "FC": {
+        "matches": "23",
+        "runs": "306",
+        "bat avg": "11.76",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "2,464",
+        "wickets": "55",
+        "bowl avg": "30.36",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "6/75",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "33",
+        "runs": "239",
+        "bat avg": "11.95",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "deliveries": "1,150",
+        "wickets": "25",
+        "bowl avg": "35.88",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/41",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Wiltshire": "2002\u20132006",
+        "Karachi Whites": "1994/95-1996/98",
+        "Karachi": "1990/91",
+        "Karachi Blues": "1989/90-1995/96",
+        "Pakistan Universities": "1988/89"
+    },
+    "birth_date": "1968-2-9"
+}

@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "George Herbert Vasey",
+    "birth_place": "Islington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Norwich, Norfolk, England",
+    "family": "Percy Vasey (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/35688.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "238",
+        "bat avg": "34.00",
+        "100s/50s": "1/1",
+        "top score": "115",
+        "deliveries": "420",
+        "wickets": "9",
+        "bowl avg": "21.33",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/50",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Hertfordshire": "1906&ndash;1924",
+        "Europeans": "1917/18&ndash;1918/19"
+    }
+}

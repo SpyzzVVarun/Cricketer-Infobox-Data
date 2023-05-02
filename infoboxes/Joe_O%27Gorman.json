@@ -1,0 +1,38 @@
+{
+    "name": "Joe O'Gorman",
+    "country": "England",
+    "fullname": "Joseph George O'Gorman",
+    "birth_place": "Walworth, London, England",
+    "death_date": "1974",
+    "death_place": "Weybridge, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm legbreak",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "18 May",
+    "debutyear1": "1927",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "10 June",
+    "lastyear1": "1927",
+    "lastfor1": "Surrey",
+    "lastagainst1": "Leicestershire",
+    "source": "https://cricketarchive.com/Archive/Players/31/31789/31789.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "106",
+        "bat avg": "106.00",
+        "100s/50s": "0/0",
+        "deliveries": "384",
+        "wickets": "4",
+        "bowl avg": "41.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/49",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1927"
+    },
+    "birth_date": "1890-7-24"
+}

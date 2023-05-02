@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Albert Smith",
+    "birth_place": "Mexborough, Yorkshire, England",
+    "death_date": "Unknown",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://cricketarchive.com/Archive/Players/32/32825/32825.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "38",
+        "bat avg": "9.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "21",
+        "deliveries": "263",
+        "wickets": "7",
+        "bowl avg": "24.28",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/57",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Cheshire": "1895"
+    }
+}

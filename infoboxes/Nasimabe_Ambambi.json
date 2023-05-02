@@ -1,0 +1,39 @@
+{
+    "country": "Namibia",
+    "fullname": "Nasimane Elton Ambambi",
+    "birth_place": "Okakundu, Namibia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/897/897951/897951.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "342",
+        "wickets": "2",
+        "bowl avg": "106.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/44",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "132",
+        "wickets": "2",
+        "bowl avg": "70.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/23",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2009/10"
+    },
+    "birth_date": "1990-9-15"
+}

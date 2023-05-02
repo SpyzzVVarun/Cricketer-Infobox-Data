@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "William Mason Fenn",
+    "birth_place": "Checkendon, Oxfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Eton, Buckinghamshire, England",
+    "family": "Samuel Fenn (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/13262.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "113",
+        "bat avg": "5.65",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "deliveries": "?",
+        "wickets": "6",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/?",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1848&ndash;1851"
+    }
+}

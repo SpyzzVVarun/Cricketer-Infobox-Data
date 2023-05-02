@@ -1,0 +1,38 @@
+{
+    "name": "Leonard Oliver",
+    "country": "England",
+    "fullname": "Leonard Oliver",
+    "birth_place": "Glossop, Derbyshire, England",
+    "death_date": "1948",
+    "death_place": "Glossop, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "21 May",
+    "debutyear1": "1908",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "28 June",
+    "lastyear1": "1924",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Leicestershire",
+    "source": "https://cricketarchive.com/Archive/Players/31/31798/31798.html CricketArchive ",
+    "First-class": {
+        "matches": "174",
+        "runs": "6,303",
+        "bat avg": "20.39",
+        "100s/50s": "6/22",
+        "top score": "170",
+        "deliveries": "419",
+        "wickets": "5",
+        "bowl avg": "65.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/20",
+        "catches/stumpings": "69/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1908\u20131924"
+    },
+    "birth_date": "1886-10-18"
+}

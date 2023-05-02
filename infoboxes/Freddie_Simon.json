@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Frederic Peter Andre Simon",
+    "birth_place": "Cheltenham, Gloucestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/1089638.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "1",
+        "deliveries": "192",
+        "wickets": "3",
+        "bowl avg": "42.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/68",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Durham MCCU": "2017"
+    },
+    "birth_date": "1995-02-14"
+}

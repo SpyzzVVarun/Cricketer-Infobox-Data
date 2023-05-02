@@ -1,0 +1,43 @@
+{
+    "name": "Chloe Hill",
+    "female": "true",
+    "fullname": "Chloe Anne Elizabeth Hill",
+    "birth_place": "Aylesbury, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/492/492192/492192.html CricketArchive",
+    "WLA": {
+        "matches": "51",
+        "runs": "574",
+        "bat avg": "14.71",
+        "100s/50s": "0/2",
+        "top score": "78",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "28/9"
+    },
+    "WT20": {
+        "matches": "71",
+        "runs": "1,021",
+        "bat avg": "19.26",
+        "100s/50s": "0/5",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "26/26"
+    },
+    "clubs": {
+        "Buckinghamshire": "2022\u2013present",
+        "Worcestershire": "2016\u2013present",
+        "Central Sparks": "2020\u20132022",
+        "\u2192 Southern Vipers (on loan)": "2022"
+    },
+    "birth_date": "1997-1-3"
+}

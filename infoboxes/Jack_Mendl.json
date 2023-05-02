@@ -1,0 +1,24 @@
+{
+    "country": "Argentina",
+    "fullname": "Jack Francis Mendl",
+    "birth_place": "Hurlingham, Buenos Aires,, Argentina",
+    "death_date": "df=y",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "family": "Derek Mendl (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/25300.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "269",
+        "bat avg": "24.45",
+        "100s/50s": "\u2013/2",
+        "top score": "65",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxfordshire": "1939\u20131955",
+        "Minor Counties": "1949",
+        "Scotland": "1953\u20131955",
+        "Marylebone Cricket Club": "1957"
+    }
+}

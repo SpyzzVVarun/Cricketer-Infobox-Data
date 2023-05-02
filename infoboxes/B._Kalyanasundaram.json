@@ -1,0 +1,29 @@
+{
+    "name": "B. Kalyanasundaram",
+    "nickname": "Kalli",
+    "country": "India",
+    "fullname": "Balasubramoniam Kalyanasundaram",
+    "birth_place": "Kumbakonam, Tamil Nadu, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/india/content/player/30445.html ESPNcricinfo ",
+    "FC": {
+        "matches": "51",
+        "runs": "337",
+        "bat avg": "8.64",
+        "100s/50s": "0/0",
+        "deliveries": "6,066",
+        "wickets": "147",
+        "bowl avg": "20.09",
+        "fivefor": "7",
+        "tenfor": "1",
+        "best bowling": "6/47",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Kerala": "1966/67\u20131967/68",
+        "Tamil Nadu": "1968/69\u20131977/78"
+    },
+    "birth_date": "1947-8-12"
+}

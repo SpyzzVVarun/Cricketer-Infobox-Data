@@ -1,0 +1,29 @@
+{
+    "name": "Pat Brain",
+    "country": "England",
+    "fullname": "John Henry Patrick Brain",
+    "birth_place": "Caerau, Glamorgan, Wales",
+    "death_date": "1945",
+    "death_place": "Dinas Powis, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "William Brain (father), Michael Brain (brother), Joseph Brain (uncle)",
+    "source": "http://www.cricinfo.com/ci/content/player/9197.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "86",
+        "bat avg": "8.60",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "3/2"
+    },
+    "clubs": {
+        "Glamorgan": "1921&ndash;1928"
+    },
+    "birth_date": "1896-3-17"
+}

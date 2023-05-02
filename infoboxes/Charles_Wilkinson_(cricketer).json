@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Charles Allix Wilkinson",
+    "birth_place": "Swaffham Prior, Cambridgeshire, England",
+    "death_date": "1889",
+    "death_place": "Boxworth, Cambridgeshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "family": "Edward Wilkinson (nephew)",
+    "source": "https://www.espncricinfo.com/cricketers/charles-wilkinson-23395 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "286",
+        "bat avg": "20.42",
+        "100s/50s": "\u2013/2",
+        "deliveries": "?",
+        "wickets": "3",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1833\u20131835",
+        "Norfolk": "1833"
+    }
+}

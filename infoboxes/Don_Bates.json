@@ -1,0 +1,42 @@
+{
+    "name": "Don Bates",
+    "fullname": "Donald Lawson Bates",
+    "birth_place": "Hove, Sussex, England",
+    "death_date": "df=yes",
+    "death_place": "Brighton, Sussex",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/27/27749/27749.html Cricket Archive ",
+    "FC": {
+        "matches": "315",
+        "runs": "1525",
+        "bat avg": "7.58",
+        "100s/50s": "0/0",
+        "top score": "37 not out",
+        "deliveries": "50,381",
+        "wickets": "880",
+        "bowl avg": "25.88",
+        "fivefor": "34",
+        "tenfor": "2",
+        "best bowling": "8/51",
+        "catches/stumpings": "118/\u2013"
+    },
+    "List A": {
+        "matches": "47",
+        "runs": "74",
+        "bat avg": "6.16",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "2524",
+        "wickets": "63",
+        "bowl avg": "24.65",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "6/30",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1950 to 1971"
+    },
+    "birth_date": "1933-5-10"
+}

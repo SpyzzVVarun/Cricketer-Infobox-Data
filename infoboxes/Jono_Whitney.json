@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Jonathan David Whitney",
+    "nickname": "Jono",
+    "birth_place": "Bridgnorth, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/23496.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "39",
+        "bat avg": "39.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "39",
+        "deliveries": "36",
+        "wickets": "1",
+        "bowl avg": "26.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/26",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Shropshire": "2003&ndash;2013"
+    },
+    "birth_date": "1985-4-7"
+}

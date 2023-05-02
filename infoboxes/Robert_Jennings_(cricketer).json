@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Robert Alan Jennings",
+    "birth_place": "Bristol, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/15816.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire Cricket Board": "2001"
+    },
+    "birth_date": "1977-2-28"
+}

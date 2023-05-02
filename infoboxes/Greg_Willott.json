@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Greg Richard Willott",
+    "birth_place": "Stoke-on-Trent, Staffordshire, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22572.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "4",
+        "deliveries": "78",
+        "wickets": "3",
+        "bowl avg": "22.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/47",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "2000&ndash;present"
+    },
+    "birth_date": "1980-6-13"
+}

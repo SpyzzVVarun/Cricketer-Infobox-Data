@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "George Walsh",
+    "birth_place": "Over Darwen, Lancashire, England",
+    "death_date": "1904",
+    "death_place": "Darwen, Lancashire, England",
+    "source": "http://www.espncricinfo.com/ci/content/player/22710.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "16",
+        "bat avg": "5.33",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "1875\u20131877"
+    }
+}

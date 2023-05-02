@@ -1,0 +1,45 @@
+{
+    "name": "Maurits van Nierop",
+    "fullname": "Maurits William Albert van Nierop",
+    "birth_place": "Cape Town, South Africa",
+    "death_date": "df=yes",
+    "death_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "Batsman",
+    "country": "Netherlands",
+    "internationalspan": "2002\u20132006",
+    "odidebutdate": "28 November",
+    "odidebutyear": "2006",
+    "odidebutagainst": "Bermuda",
+    "odicap": "35",
+    "lastodidate": "1 December",
+    "lastodiyear": "2006",
+    "lastodiagainst": "Canada",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/45/45390/45390.html CricketArchive ",
+    "ODI": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "35.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "First-class": {
+        "matches": "4",
+        "runs": "134",
+        "bat avg": "33.50",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "1/0"
+    },
+    "List A": {
+        "matches": "7",
+        "runs": "131",
+        "bat avg": "21.83",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1983-5-11"
+}

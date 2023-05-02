@@ -1,0 +1,27 @@
+{
+    "name": "Geoffrey Davies",
+    "fullname": "Geoffrey Boisselier Davies",
+    "birth_place": "Poplar, London, England",
+    "death_date": "1915",
+    "death_place": "Hulluch, France",
+    "batting": "Right-handed",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/11816.html Cricinfo ",
+    "FC": {
+        "matches": "54",
+        "runs": "1487",
+        "bat avg": "18.35",
+        "100s/50s": "2/-",
+        "top score": "118",
+        "wickets": "141",
+        "bowl avg": "20.81",
+        "fivefor": "4",
+        "tenfor": "1",
+        "best bowling": "8/67",
+        "catches/stumpings": "43/0"
+    },
+    "clubs": {
+        "Essex": "1912\u20131914"
+    },
+    "birth_date": "1892-10-26"
+}

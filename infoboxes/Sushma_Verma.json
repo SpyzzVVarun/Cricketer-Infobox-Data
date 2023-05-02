@@ -1,0 +1,59 @@
+{
+    "name": "Sushma Verma",
+    "female": "true",
+    "country": "India",
+    "fullname": "Sushma Verma",
+    "birth_place": "Shimla, Himachal Pradesh",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "16 November",
+    "testdebutyear": "2014",
+    "testdebutagainst": "South Africa",
+    "testcap": "83",
+    "odidebutdate": "24 November",
+    "odidebutyear": "2014",
+    "odidebutagainst": "South Africa",
+    "odicap": "113",
+    "lastodidate": "17 March",
+    "lastodiyear": "2021",
+    "lastodiagainst": "South Africa",
+    "odishirt": "5",
+    "T20Idebutdate": "5 April",
+    "T20Idebutyear": "2013",
+    "T20Idebutagainst": "Bangladesh",
+    "T20Icap": "42",
+    "lastT20Idate": "4 December",
+    "lastT20Iyear": "2016",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/usa/content/player/597821.html ESPNcricinfo ",
+    "WTest": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "4/1"
+    },
+    "WODI": {
+        "matches": "38",
+        "runs": "178",
+        "bat avg": "9.88",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "catches/stumpings": "25/21"
+    },
+    "WT20I": {
+        "matches": "19",
+        "runs": "31",
+        "bat avg": "10.33",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "6/19"
+    },
+    "clubs": {
+        "Himachal Pradesh": "2011\u2013present",
+        "Velocity": "2019\u20132020",
+        "Gujarat Giants": "2023\u2013present"
+    },
+    "birth_date": "1992-11-05"
+}

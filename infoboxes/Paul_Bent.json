@@ -1,0 +1,41 @@
+{
+    "name": "Paul Bent",
+    "country": "England",
+    "fullname": "Paul Bent",
+    "birth_place": "Worcester, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "source": "https://cricketarchive.com/Archive/Players/11/11292/11292.html CricketArchive ",
+    "FC": {
+        "matches": "32",
+        "runs": "1,289",
+        "bat avg": "24.78",
+        "100s/50s": "2/6",
+        "top score": "144",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "4/0"
+    },
+    "LA": {
+        "matches": "3",
+        "runs": "51",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "N/A",
+        "best bowling": "-",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Worcestershire": "1985\u20131991"
+    },
+    "birth_date": "1965-5-1"
+}

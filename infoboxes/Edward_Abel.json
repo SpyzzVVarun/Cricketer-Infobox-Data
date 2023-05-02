@@ -1,0 +1,28 @@
+{
+    "name": "Edward Abel",
+    "country": "England",
+    "nickname": "Dis",
+    "birth_place": "Salisbury, Wiltshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm Orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/210489.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "154",
+        "bat avg": "30.80",
+        "100s/50s": "\u2013/1",
+        "top score": "60",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford UCCE/MCCU": "2008\u20132010",
+        "Wiltshire": "2005\u20132010"
+    },
+    "birth_date": "1988-01-30"
+}

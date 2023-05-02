@@ -1,0 +1,40 @@
+{
+    "name": "Peta Merrilees",
+    "female": "true",
+    "full_name": "Peta Anne Merrilees",
+    "birth_place": "Midland, Western Australia",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/9/9371/9371.html CricketArchive",
+    "WLA": {
+        "matches": "61",
+        "runs": "806",
+        "bat avg": "16.12",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/3"
+    },
+    "WT20": {
+        "matches": "21",
+        "runs": "113",
+        "bat avg": "10.27",
+        "100s/50s": "0/0",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Western Australia": "2000/01\u20132010/11"
+    },
+    "birth_date": "1982-10-25"
+}

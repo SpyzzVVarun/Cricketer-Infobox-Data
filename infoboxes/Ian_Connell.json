@@ -1,0 +1,26 @@
+{
+    "country": "Australia",
+    "fullname": "Ian Michael Connell",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4816.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "&ndash;",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "&ndash;",
+        "deliveries": "66",
+        "wickets": "2",
+        "bowl avg": "23.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/47",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "1992/93"
+    },
+    "birth_date": "1974-2-7"
+}

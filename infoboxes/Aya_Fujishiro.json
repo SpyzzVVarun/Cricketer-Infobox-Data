@@ -1,0 +1,28 @@
+{
+    "name": "Aya Fujishiro",
+    "female": "true",
+    "country": "Japan",
+    "fullname": "Aya Fujishiro",
+    "birth_place": "Japan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "role": "Wicket-keeper",
+    "odidebutdate": "26 July",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Pakistan",
+    "odicap": "1",
+    "lastodidate": "26 July",
+    "lastodiyear": "2003",
+    "lastodiagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/ci/content/player/55218.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "4",
+        "runs": "6",
+        "bat avg": "1.50",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1974-11-6"
+}

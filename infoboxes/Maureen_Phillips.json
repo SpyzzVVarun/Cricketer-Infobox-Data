@@ -1,0 +1,29 @@
+{
+    "name": "Maureen Phillips",
+    "female": "yes",
+    "fullname": "Maureen Phillips",
+    "role": "Bowler",
+    "country": "Trinidad and Tobago",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "New Zealand",
+    "odicap": "8",
+    "lastodidate": "18 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "International XI",
+    "source": "http://www.espncricinfo.com/ci/content/player/55147.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "2",
+        "runs": "11",
+        "bat avg": "11",
+        "100s/50s": "0/0",
+        "deliveries": "60",
+        "wickets": "1",
+        "bowl avg": "36.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/26",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

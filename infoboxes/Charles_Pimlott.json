@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Charles Robert Pimlott",
+    "birth_place": "Stockport, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18537.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "72",
+        "bat avg": "24.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "1,130",
+        "wickets": "17",
+        "bowl avg": "34.47",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/10",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1999&ndash;2000",
+        "British Universities": "2000",
+        "Lincolnshire": "2001"
+    },
+    "birth_date": "1979-9-25"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "James Robertson Wills",
+    "birth_place": "Killala, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Saint Saviour, Jersey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24540.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "66",
+        "bat avg": "9.42",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "516",
+        "wickets": "7",
+        "bowl avg": "33.71",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/5",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Dublin University": "1922&ndash;1926",
+        "Ireland": "1922"
+    }
+}

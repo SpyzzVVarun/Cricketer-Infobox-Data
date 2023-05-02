@@ -1,0 +1,54 @@
+{
+    "name": "Brody Couch",
+    "birth_place": "Warrnambool",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/1219972.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "1",
+        "bat avg": "1.00",
+        "100s/50s": "0/0",
+        "top score": "1",
+        "deliveries": "72",
+        "wickets": "1",
+        "bowl avg": "73.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/38",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "6",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "288",
+        "wickets": "6",
+        "bowl avg": "49.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/63",
+        "catches/stumpings": "2/\u2013"
+    },
+    "T20": {
+        "matches": "14",
+        "runs": "12",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "258",
+        "wickets": "16",
+        "bowl avg": "22.06",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/34",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Melbourne Renegades": "2020\u201321",
+        "Melbourne Stars": "2021\u201322"
+    },
+    "birth_date": "1999-12-5"
+}

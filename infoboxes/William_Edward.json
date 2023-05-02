@@ -1,0 +1,22 @@
+{
+    "name": "William Edward",
+    "country": "Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/scotland/content/player/25198.html ESPNCricinfo",
+    "First-class": {
+        "matches": "28",
+        "runs": "898",
+        "bat avg": "23.63",
+        "100s/50s": "0/6",
+        "top score": "99",
+        "deliveries": "4,128",
+        "wickets": "38",
+        "bowl avg": "38.81",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/51",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {}
+}

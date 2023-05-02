@@ -1,0 +1,41 @@
+{
+    "name": "Bob Zadow",
+    "country": "Australia",
+    "fullname": "Robert John Zadow",
+    "birth_place": "Mannum, South Australia, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://cricketarchive.com/Archive/Players/11/11108/11108.html CricketArchive ",
+    "First-class": {
+        "matches": "32",
+        "runs": "1,472",
+        "bat avg": "26.28",
+        "100s/50s": "2/5",
+        "top score": "144",
+        "deliveries": "8",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "22/&ndash;"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "39",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "22",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "South Australia": "1979/80&ndash;1986/87"
+    },
+    "birth_date": "1954-1-17"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Clive Rose",
+    "country": "Australia",
+    "fullname": "Clive Andrew Rose",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm Orthodox",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/australia/content/player/288285.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "240",
+        "bat avg": "17.14",
+        "100s/50s": "0/0",
+        "top score": "45",
+        "deliveries": "1823",
+        "wickets": "22",
+        "bowl avg": "49.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/64",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "27",
+        "runs": "253",
+        "bat avg": "16.86",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "1217",
+        "wickets": "22",
+        "bowl avg": "45.36",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/42",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "58",
+        "runs": "183",
+        "bat avg": "15.25",
+        "100s/50s": "0/0",
+        "deliveries": "965",
+        "wickets": "28",
+        "bowl avg": "48.32",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/14",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Victoria": "2012-2013",
+        "Tasmania": "2018&ndash;present",
+        "Melbourne Stars": "2012-2014",
+        "Hobart Hurricanes": "2015-2020"
+    },
+    "birth_date": "1989-10-13"
+}

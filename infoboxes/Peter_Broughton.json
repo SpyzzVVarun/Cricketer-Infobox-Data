@@ -1,0 +1,26 @@
+{
+    "name": "Peter Broughton",
+    "fullname": "Peter Norman Broughton",
+    "birth_place": "Castleford, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10040.html Cricinfo ",
+    "First-class": {
+        "matches": "30",
+        "runs": "162",
+        "bat avg": "10.12",
+        "100s/50s": "0/0",
+        "deliveries": "4950",
+        "wickets": "85",
+        "bowl avg": "28.58",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "6/38",
+        "catches/stumpings": "12/0"
+    },
+    "clubs": {
+        "Yorkshire": "1956",
+        "Leicestershire": "1960\u20131962"
+    },
+    "birth_date": "1935-10-22"
+}

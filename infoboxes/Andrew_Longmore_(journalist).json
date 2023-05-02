@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Andrew Nigel Murray Longmore",
+    "birth_place": "Woolwich, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Menton, Provence-Alpes-C\u00f4te d'Azur, France",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/16642.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "28",
+        "bat avg": "9.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1973&ndash;1975"
+    }
+}

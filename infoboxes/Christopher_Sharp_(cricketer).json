@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Christopher James Sharp",
+    "birth_place": "Orsett, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/20501.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "13.00",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Essex Cricket Board": "1999"
+    },
+    "birth_date": "1964-5-23"
+}

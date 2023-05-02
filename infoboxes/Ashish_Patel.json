@@ -1,0 +1,36 @@
+{
+    "name": "Ashish Patel",
+    "birth_place": "Gujarat, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/44/44925/44925.html Cricket Archive subscription required",
+    "ODI": {
+        "matches": "2",
+        "runs": "25",
+        "bat avg": "25.00",
+        "100s/50s": "0/0",
+        "top score": "25",
+        "deliveries": "60",
+        "wickets": "3",
+        "bowl avg": "24.33",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/41",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "3",
+        "runs": "46",
+        "bat avg": "46.00",
+        "100s/50s": "0/0",
+        "deliveries": "217",
+        "wickets": "5",
+        "bowl avg": "20.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/13",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "July 31, 1975"
+}

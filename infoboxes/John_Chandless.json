@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "John Chandless",
+    "birth_place": "Cardiff, Glamorgan, Wales",
+    "death_date": "1968",
+    "death_place": "Whitchurch, Glamorgan, Wales",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/10703.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "2",
+        "deliveries": "306",
+        "wickets": "6",
+        "bowl avg": "15.83",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/13",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1927",
+        "Wales": "1926"
+    },
+    "birth_date": "1884-8-21"
+}

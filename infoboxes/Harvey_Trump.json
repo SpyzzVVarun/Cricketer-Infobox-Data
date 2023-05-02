@@ -1,0 +1,42 @@
+{
+    "name": "Harvey Trump",
+    "fullname": "Harvey Russell John Trump",
+    "birth_place": "Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "family": "Gerald Trump (father)",
+    "source": "https://cricketarchive.com/Archive/Players/3/3862/3862.html CricketArchive ",
+    "FC": {
+        "matches": "107",
+        "runs": "991",
+        "bat avg": "12.38",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "19146",
+        "wickets": "243",
+        "bowl avg": "38.78",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "7/52",
+        "catches/stumpings": "76/&ndash;"
+    },
+    "LA": {
+        "matches": "122",
+        "runs": "177",
+        "bat avg": "7.37",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "5139",
+        "wickets": "107",
+        "bowl avg": "35.95",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "4/51",
+        "catches/stumpings": "46/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1988&ndash;1997",
+        "Marylebone Cricket Club": "1988"
+    },
+    "birth_date": "1968-10-11"
+}

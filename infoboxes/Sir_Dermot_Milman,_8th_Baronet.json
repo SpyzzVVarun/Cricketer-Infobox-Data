@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Dermot Lionel Kennedy Milman",
+    "birth_place": "Eltham, Kent, England",
+    "death_date": "df=y",
+    "death_place": "Warlingham, Surrey, England",
+    "family": "Lionel Milman (father), George Milman (great-uncle)",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/17601.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "276",
+        "wickets": "4",
+        "bowl avg": "35.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/55",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1931\u20131936",
+        "Cambridge University": "1932\u20131933"
+    }
+}

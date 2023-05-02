@@ -1,0 +1,28 @@
+{
+    "name": "Edward Foley",
+    "country": "England",
+    "fullname": "Edward Francis Walwyn Foley",
+    "birth_place": "Derby, England",
+    "death_date": "1923",
+    "death_place": "Kensington, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "17 August",
+    "debutyear1": "1871",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "onetype1": "true",
+    "source": "https://cricketarchive.com/Players/29/29451/29451.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Derbyshire": "1871"
+    },
+    "birth_date": "1851-10-6"
+}

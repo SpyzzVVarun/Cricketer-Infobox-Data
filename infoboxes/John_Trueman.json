@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "John Fieldston Trueman",
+    "birth_place": "Nottingham, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.cricinfo.com/ci/content/player/22126.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "24",
+        "bat avg": "24.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "24",
+        "deliveries": "60",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Derbyshire Cricket Board": "2002"
+    },
+    "birth_date": "1968-10-29"
+}

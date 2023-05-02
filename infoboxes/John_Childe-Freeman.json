@@ -1,0 +1,27 @@
+{
+    "name": "John Childe-Freeman",
+    "country": "Australia",
+    "fullname": "John Edward Childe-Freeman",
+    "birth_place": "Brisbane, Queensland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "http://www.espncricinfo.com/australia/content/player/4742.html Cricinfo ",
+    "First-class": {
+        "matches": "28",
+        "runs": "265",
+        "bat avg": "16.56",
+        "100s/50s": "0/1",
+        "top score": "55 not out",
+        "deliveries": "4520",
+        "wickets": "52",
+        "bowl avg": "44.21",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/134",
+        "catches/stumpings": "5/0"
+    },
+    "clubs": {
+        "Queensland": "1955-56 to 1961-62"
+    },
+    "birth_date": "1935-6-28"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Hilda Buck",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1935",
+    "fullname": "Hilda Evelyn Buck",
+    "birth_place": "Palmerston North, New Zealand",
+    "death_date": "1990",
+    "death_place": "Wellington, New Zealand",
+    "family": "Jimmy Ell (husband) ,  Agnes Ell (sister-in-law)",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "16 February",
+    "testdebutyear": "1935",
+    "testdebutagainst": "England",
+    "testcap": "3",
+    "source": "https://cricketarchive.com/Archive/Players/17/17243/17243.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WFC": {
+        "matches": "11",
+        "runs": "454",
+        "bat avg": "21.61",
+        "100s/50s": "0/3",
+        "top score": "74",
+        "catches/stumpings": "10/3"
+    },
+    "clubs": {
+        "Wellington": "1935/36\u20131945/46"
+    },
+    "birth_date": "1914-12-27"
+}

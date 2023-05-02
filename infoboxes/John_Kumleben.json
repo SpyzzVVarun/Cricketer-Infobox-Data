@@ -1,0 +1,28 @@
+{
+    "name": "John Kumleben",
+    "country": "South Africa",
+    "fullname": "John Michael Kumleben",
+    "birth_place": "Bloemfontein, Orange Free State, South Africa",
+    "death_date": "21 June 2014 (aged 81)",
+    "death_place": "Hermanus, Western Cape, South Africa",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/45943.html Cricinfo ",
+    "First-class": {
+        "matches": "29",
+        "runs": "955",
+        "bat avg": "19.89",
+        "100s/50s": "1/4",
+        "top score": "100",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "16/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1956 to 1957",
+        "Orange Free State": "1957-58 to 1960-61"
+    }
+}

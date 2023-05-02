@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Edward Paske Smith",
+    "birth_place": "Mussoorie, United Provinces,, British India",
+    "death_date": "df=yes",
+    "death_place": "Seaford, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/20852.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "3.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "152",
+        "wickets": "3",
+        "bowl avg": "14.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/24",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1876"
+    }
+}

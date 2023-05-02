@@ -1,0 +1,36 @@
+{
+    "honorific_prefix": "Sir",
+    "name": "Hubert Ashton",
+    "honorific_suffix": "country=GBR",
+    "constituency_MP": "Chelmsford",
+    "parliament": "United Kingdom",
+    "term_start": "23 February 1950",
+    "term_end": "25 September 1964",
+    "predecessor": "Ernest Millington",
+    "successor": "Norman St John-Stevas",
+    "birth_name": "Hubert Ashton",
+    "birth_place": "Calcutta, Bengal",
+    "death_date": "1979",
+    "death_place": "Wealdside, Essex, England",
+    "party": "Conservative",
+    "spouse": "Dorothy Gaitskell",
+    "module": "Infobox cricketer",
+    "embed": "yes",
+    "country": "India",
+    "country2": "Burma",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/4/4766/4766.html CricketArchive  ",
+    "First-class": {
+        "matches": "71",
+        "runs": "4,025",
+        "bat avg": "38.70",
+        "100s/50s": "8/21",
+        "catches/stumpings": "71/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1920\u20131922",
+        "Essex": "1921\u20131939",
+        "Marylebone Cricket Club": "1927"
+    },
+    "birth_date": "1898-2-13"
+}

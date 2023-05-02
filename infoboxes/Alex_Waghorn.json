@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Alexander Charles Waghorn",
+    "birth_place": "Wandsworth, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/993313.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "318",
+        "wickets": "5",
+        "bowl avg": "49.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/79",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Cambridge MCCU": "2016",
+        "Cambridge University": "2016"
+    },
+    "birth_date": "1995-1-9"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Enoch Cook",
+    "country": "England",
+    "birth_place": "Sandiacre, Derbyshire, England",
+    "death_date": "1927",
+    "death_place": "Long Eaton, Derbyshire, England",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "22 July",
+    "debutyear1": "1878",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Kent",
+    "lastdate1": "10 July",
+    "lastyear1": "1879",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Archive/Players/28/28685/28685.html CricketArchive ",
+    "First-class": {
+        "matches": "8",
+        "runs": "92",
+        "bat avg": "7.07",
+        "100s/50s": "0/0",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1878\u20131879"
+    },
+    "birth_date": "1845-4-23"
+}

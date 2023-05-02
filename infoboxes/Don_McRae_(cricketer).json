@@ -1,0 +1,50 @@
+{
+    "name": "Don McRae",
+    "fullname": "Donald Alexander Noel McRae",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1986",
+    "death_place": "Christchurch, New Zealand",
+    "heightft": "6",
+    "heightinch": "3",
+    "internationalspan": "1946",
+    "country": "New Zealand",
+    "testcap": "37",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "29 March",
+    "testdebutyear": "1946",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/37713.html Cricinfo ",
+    "Test": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "84",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "17",
+        "runs": "354",
+        "bat avg": "15.39",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "3,862",
+        "wickets": "56",
+        "bowl avg": "22.51",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/20",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1937/38\u20131945/46"
+    },
+    "birth_date": "1914-12-25"
+}

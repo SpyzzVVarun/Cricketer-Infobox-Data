@@ -1,0 +1,23 @@
+{
+    "name": "John Boys",
+    "country": "England",
+    "fullname": "John James Boys",
+    "birth_place": "Titchfield, Hampshire",
+    "death_date": "1883",
+    "death_place": "Woolwich, Kent",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/9923.html CricInfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "34",
+        "bat avg": "6.80",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "catches/stumpings": "4/2"
+    },
+    "clubs": {
+        "Kent": "1875\u20131881"
+    }
+}

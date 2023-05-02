@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Frederick William Capron",
+    "birth_place": "Westminster, Middlesex, England",
+    "death_date": "1942",
+    "death_place": "Kensington, London, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/11006.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "4.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "11",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1881&ndash;1882"
+    }
+}

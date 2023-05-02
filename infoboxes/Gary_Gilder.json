@@ -1,0 +1,42 @@
+{
+    "name": "Gary Gilder",
+    "country": "South Africa",
+    "fullname": "Gary Gilder",
+    "birth_place": "Salisbury, Rhodesia, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/4/4004/4004.html CricketArchive ",
+    "First-class": {
+        "matches": "51",
+        "runs": "408",
+        "bat avg": "10.73",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "8.251",
+        "wickets": "151",
+        "bowl avg": "26.70",
+        "fivefor": "6",
+        "tenfor": "2",
+        "best bowling": "8/22",
+        "catches/stumpings": "19/\u2013"
+    },
+    "List A": {
+        "matches": "55",
+        "runs": "123",
+        "bat avg": "8.78",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "2,267",
+        "wickets": "64",
+        "bowl avg": "26.57",
+        "fivefor": "1",
+        "tenfor": "n/a",
+        "best bowling": "6/25",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "KwaZulu-Natal": "1994\u20132002",
+        "Somerset": "2003"
+    },
+    "birth_date": "1974-07-06"
+}

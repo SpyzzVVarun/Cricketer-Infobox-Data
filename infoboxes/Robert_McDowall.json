@@ -1,0 +1,28 @@
+{
+    "name": "Robert McDowall",
+    "country": "Australia",
+    "fullname": "Robert Murray McDowall",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1894",
+    "death_place": "New Zealand",
+    "bowling": "Underarm",
+    "source": "http://www.espncricinfo.com/ci/content/player/6558.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "deliveries": "172",
+        "wickets": "16",
+        "bowl avg": "6.50",
+        "fivefor": "2",
+        "tenfor": "&ndash;",
+        "best bowling": "5/23",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Tasmania": "debutdate1=11-12 February |debutyear1=1851 |debutfor1=Tasmania |debutagainst1=Victoria |type1=First-class |lastdate1=3-4 March |lastyear1=1854 |lastfor1=Tasmania |lastagainst1=Victor"
+    },
+    "birth_date": "1821-11-21"
+}

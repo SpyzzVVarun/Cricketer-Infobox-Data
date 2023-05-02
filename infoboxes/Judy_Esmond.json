@@ -1,0 +1,28 @@
+{
+    "name": "Judy Esmond",
+    "country": "Australia",
+    "female": "true |role = Wicket-keeper",
+    "batting": "Right-hand bat",
+    "odidebutdate": "7 February",
+    "odidebutyear": "1985",
+    "odidebutagainst": "New Zealand",
+    "odicap": "46",
+    "lastodidate": "10 February",
+    "lastodiyear": "1985",
+    "lastodiagainst": "New Zealand",
+    "source": "http://www.espncricinfo.com/ci/content/player/53597.html CricInfo ",
+    "ODIs": {
+        "matches": "3",
+        "runs": "2",
+        "bat avg": "n/a (not out in only innings)",
+        "100s/50s": "0/0",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "4/1"
+    },
+    "clubs": {}
+}

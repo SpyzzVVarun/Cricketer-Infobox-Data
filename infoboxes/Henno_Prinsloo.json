@@ -1,0 +1,40 @@
+{
+    "country": "Namibia",
+    "fullname": "Henno Stephanus Prinsloo",
+    "birth_place": "Windhoek, South-West Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "https://cricketarchive.com/Archive/Players/97/97743/97743.html CricketArchive subscription required ",
+    "First-class": {
+        "matches": "8",
+        "runs": "88",
+        "bat avg": "7.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "342",
+        "wickets": "8",
+        "bowl avg": "29.12",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/26",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "88",
+        "bat avg": "22.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "35",
+        "deliveries": "48",
+        "wickets": "2",
+        "bowl avg": "17.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/13",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Namibia": "2006/07"
+    },
+    "birth_date": "1987-3-5"
+}

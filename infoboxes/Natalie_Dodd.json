@@ -1,0 +1,47 @@
+{
+    "name": "Natalie Dodd",
+    "female": "true",
+    "fullname": "Natalie Claire Dodd",
+    "birth_place": "Hamilton, Waikato, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Wicket-keeper",
+    "internationalspan": "2010\u2013present",
+    "country": "New Zealand",
+    "odidebutdate": "14 February",
+    "odidebutyear": "2010",
+    "odidebutagainst": "Australia",
+    "odicap": "116",
+    "lastodidate": "28 February",
+    "lastodiyear": "2021",
+    "lastodiagainst": "England",
+    "T20Idebutdate": "11 July",
+    "T20Idebutyear": "2015",
+    "T20Idebutagainst": "India",
+    "T20Icap": "45",
+    "lastT20Idate": "25 March",
+    "lastT20Iyear": "2018",
+    "lastT20Iagainst": "West Indies",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/324353.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "18",
+        "runs": "224",
+        "bat avg": "13.17",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "catches/stumpings": "6/\u2013"
+    },
+    "WT20I": {
+        "matches": "6",
+        "runs": "26",
+        "bat avg": "8.66",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northern Districts": "2007/08\u20132017/18",
+        "Central Hinds": "2018/19\u2013present"
+    },
+    "birth_date": "1992-11-22"
+}

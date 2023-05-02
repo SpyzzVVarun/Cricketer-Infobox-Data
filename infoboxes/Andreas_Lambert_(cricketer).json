@@ -1,0 +1,25 @@
+{
+    "country": "Denmark",
+    "fullname": "Andreas Lambert",
+    "birth_place": "\u00c5rhus, Denmark",
+    "batting": "Left-handed",
+    "bowling": "medium medium pace",
+    "source": "https://cricketarchive.com/Archive/Players/60/60784/60784.html CricketArchive ",
+    "List A": {
+        "matches": "3",
+        "runs": "74",
+        "bat avg": "37.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "18",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Denmark": "2003"
+    },
+    "birth_date": "1981-2-28"
+}

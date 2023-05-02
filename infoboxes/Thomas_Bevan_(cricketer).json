@@ -1,0 +1,18 @@
+{
+    "country": "England",
+    "fullname": "Thomas Bevan",
+    "birth_place": "Crayford, London, England",
+    "death_date": "1942",
+    "death_place": "Knightsbridge Box, near Tobruk, Cyrenaica, Italian Libya",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/9733.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

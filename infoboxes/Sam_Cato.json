@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Samuel John Cato",
+    "birth_place": "Chiswick, London, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "http://www.espncricinfo.com/england/content/player/566163.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "100",
+        "bat avg": "33.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "421",
+        "wickets": "4",
+        "bowl avg": "34.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/43",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "2013&ndash;2015"
+    },
+    "birth_date": "1992-11-23"
+}

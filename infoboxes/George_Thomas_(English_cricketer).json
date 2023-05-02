@@ -1,0 +1,33 @@
+{
+    "name": "George Thomas",
+    "fullname": "George William Thomas",
+    "birth_place": "Taunton, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "family": "Josh Thomas (brother)",
+    "type1": "List A",
+    "debutdate1": "10 August",
+    "debutyear1": "2021",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Leicestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1260859.html Cricinfo ",
+    "List A": {
+        "matches": "2",
+        "runs": "82",
+        "bat avg": "41.00",
+        "100s/50s": "0/1",
+        "top score": "75",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Somerset": "2021"
+    },
+    "birth_date": "2003-11-14"
+}

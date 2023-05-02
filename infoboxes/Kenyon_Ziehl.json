@@ -1,0 +1,40 @@
+{
+    "module": "Infobox cricketer",
+    "embed": "yes",
+    "name": "Kenyon Ziehl",
+    "country": "Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/zimbabwe/content/player/55875.html Cricinfo",
+    "Tests": {
+        "matches": "28",
+        "runs": "29",
+        "bat avg": "8.25",
+        "100s/50s": "0/0",
+        "top score": "1/29",
+        "deliveries": "78",
+        "wickets": "123",
+        "bowl avg": "29.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/29",
+        "catches/stumpings": "2/0"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "-",
+        "bat avg": "10.00",
+        "100s/50s": "0/2",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/1"
+    },
+    "clubs": {
+        "Manicaland": "1994-1996    "
+    }
+}

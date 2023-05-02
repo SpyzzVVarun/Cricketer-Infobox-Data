@@ -1,0 +1,24 @@
+{
+    "name": "Bob Bishop",
+    "fullname": "Robert Ernest Bishop",
+    "birth_place": "Wellington, New Zealand",
+    "death_date": "1969",
+    "death_place": "Waipawa, New Zealand",
+    "family": "Larry Bishop (brother)",
+    "heightft": "5",
+    "heightinch": "10",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/robert-bishop-36446 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "212",
+        "bat avg": "21.20",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hawke's Bay": "1914-15 to 1920-21"
+    },
+    "birth_date": "1892-4-16"
+}

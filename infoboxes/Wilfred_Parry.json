@@ -1,0 +1,21 @@
+{
+    "country": "South Africa",
+    "fullname": "Wilfred John Parry",
+    "birth_place": "Durban, Natal, South Africa",
+    "death_date": "1942",
+    "death_place": "Ruweisat Ridge, Kingdom of Egypt",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/46734.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "93",
+        "bat avg": "23.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "47",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Natal": "1930/31",
+        "Rhodesia": "1935/36"
+    }
+}

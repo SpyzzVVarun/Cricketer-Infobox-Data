@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "John Frederick Morris",
+    "birth_place": "Ampthill, Bedfordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Norwich, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/england/content/player/17692.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Bedfordshire": "1900&ndash;1902",
+        "Cambridge University": "1902"
+    }
+}

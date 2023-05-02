@@ -1,0 +1,41 @@
+{
+    "name": "Danthala Venkata Meher Baba",
+    "birth_place": "Kakinada, Andhra Pradesh",
+    "death_date": "2008",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/meher-baba-31312 Cricnfo ",
+    "FC": {
+        "matches": "68",
+        "runs": "2,649",
+        "bat avg": "24.08",
+        "100s/50s": "1/20",
+        "deliveries": "9,633",
+        "wickets": "173",
+        "bowl avg": "30.94",
+        "fivefor": "5",
+        "tenfor": "0",
+        "best bowling": "5/32",
+        "catches/stumpings": "54/\u2013"
+    },
+    "LA": {
+        "matches": "0",
+        "runs": "28",
+        "bat avg": "28.00",
+        "100s/50s": "0/0",
+        "deliveries": "558",
+        "wickets": "7",
+        "bowl avg": "46.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/35",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Andhra": "1970\u20131989",
+        "Andhra Bank Cricket Team": "1970\u20131993",
+        "South Zone": "1975\u20131984",
+        "Hyderabad": "1979"
+    },
+    "birth_date": "1950-01-02"
+}

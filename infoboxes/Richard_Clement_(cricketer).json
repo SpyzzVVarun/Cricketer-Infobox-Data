@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Richard Clement",
+    "birth_place": "Saint Peter, Barbados",
+    "death_date": "df=yes",
+    "death_place": "Bicester, Oxfordshire, England",
+    "family": "Reynold Clement (brother), Alleyne baronets (maternal relatives)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/11639.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "?",
+        "wickets": "2",
+        "bowl avg": "?",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/?",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1853"
+    }
+}

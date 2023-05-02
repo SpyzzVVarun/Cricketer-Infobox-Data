@@ -1,0 +1,23 @@
+{
+    "name": "Arthur Luard",
+    "country": "England",
+    "fullname": "Arthur John Hamilton Luard",
+    "birth_place": "Visakhapatnam, Andhra Pradesh, British Raj",
+    "death_date": "1944",
+    "death_place": "Guildford, Surrey, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/16363.html Cricinfo ",
+    "First-class": {
+        "matches": "75",
+        "runs": "1,218",
+        "bat avg": "13.53",
+        "100s/50s": "&ndash;/4",
+        "catches/stumpings": "25/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire": "1893&ndash;1896",
+        "Hampshire": "1897",
+        "Marylebone Cricket Club": "1893"
+    },
+    "birth_date": "1861-9-3"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Cliodhna Sharp",
+    "fullname": "Cliodhna Deirdre Sharp",
+    "female": "true",
+    "birth_place": "Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "country": "Ireland",
+    "internationalspan": "1997\u20132000",
+    "odidebutdate": "8 August",
+    "odidebutyear": "1997",
+    "odidebutagainst": "South Africa",
+    "odicap": "35",
+    "lastodidate": "14 December",
+    "lastodiyear": "2000",
+    "lastodiagainst": "Netherlands",
+    "source": "https://cricketarchive.com/Players/15/15006/15006.html CricketArchive ",
+    "WODI": {
+        "matches": "9",
+        "runs": "49",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WLA": {
+        "matches": "11",
+        "runs": "63",
+        "bat avg": "7.87",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1976-6-3"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Jack Saunders",
+    "birth_place": "Melbourne, Australia",
+    "death_date": "21 December 1927 (aged 51)",
+    "death_place": "Toorak, Victoria, Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium Slow left-arm Left-arm medium Slow left-arm orthodox",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "14 February",
+    "testdebutyear": "1902",
+    "lasttestdate": "21 February",
+    "lasttestyear": "1908",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/ci/content/player/7564.html ESPNcricinfo",
+    "Tests": {
+        "matches": "14",
+        "runs": "39",
+        "bat avg": "2.29",
+        "100s/50s": "0/0",
+        "deliveries": "3,565",
+        "wickets": "79",
+        "bowl avg": "22.73",
+        "fivefor": "6",
+        "tenfor": "0",
+        "best bowling": "7/34",
+        "catches/stumpings": "5/0"
+    },
+    "First-class": {
+        "matches": "107",
+        "runs": "586",
+        "bat avg": "4.76",
+        "100s/50s": "0/0",
+        "deliveries": "24,116",
+        "wickets": "553",
+        "bowl avg": "21.81",
+        "fivefor": "48",
+        "tenfor": "9",
+        "best bowling": "8/106",
+        "catches/stumpings": "71/0"
+    },
+    "clubs": {
+        "Victoria": "1899\u20131900 to 1909\u201310",
+        "Wellington": "1910\u201311 to 1913\u201314"
+    }
+}

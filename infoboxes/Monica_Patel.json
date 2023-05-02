@@ -1,0 +1,35 @@
+{
+    "name": "Monica Patel",
+    "female": "true",
+    "country": "India",
+    "fullname": "Monica Chhelaram Patel",
+    "birth_place": "Bangalore, Karnataka, India",
+    "odidebutdate": "7 March",
+    "odidebutyear": "2021",
+    "odidebutagainst": "South Africa",
+    "odicap": "128",
+    "lastodidate": "17 March",
+    "lastodiyear": "2021",
+    "lastodiagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/1213438.html Cricinfo ",
+    "WODI": {
+        "matches": "2",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "80",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Karnataka": "2016/17\u2013present",
+        "Supernovas": "2022",
+        "Gujarat Giants": "2023\u2013present"
+    },
+    "birth_date": "1999-4-26"
+}

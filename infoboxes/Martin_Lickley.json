@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Martin Gregory Lickley",
+    "birth_place": "Windsor, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/16424.html Cricinfo ",
+    "LA": {
+        "matches": "9",
+        "runs": "165",
+        "bat avg": "18.33",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "44",
+        "deliveries": "54",
+        "wickets": "1",
+        "bowl avg": "41.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/15",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Berkshire": "1981-1993"
+    },
+    "birth_date": "1957-8-15"
+}

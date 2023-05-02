@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Jeremy Cook",
+    "birth_place": "Leicester, Leicestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/11283.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "52",
+        "bat avg": "13.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "218",
+        "wickets": "7",
+        "bowl avg": "14.71",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/48",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1961&ndash;1963"
+    },
+    "birth_date": "1941-7-20"
+}

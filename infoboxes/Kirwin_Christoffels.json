@@ -1,0 +1,55 @@
+{
+    "name": "Kirwin Christoffels",
+    "country": "South Africa",
+    "fullname": "Kirwin Christoffels",
+    "birth_place": "Queenstown, Eastern Cape, South Africa",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/536369.html ESPNcricinfo ",
+    "FC": {
+        "matches": "6",
+        "runs": "184",
+        "bat avg": "16.72",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "120",
+        "wickets": "1",
+        "bowl avg": "42.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/42",
+        "catches/stumpings": "1/0"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "0",
+        "wickets": "0",
+        "bowl avg": "\u2014",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2014",
+        "catches/stumpings": "0/0"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "deliveries": "12",
+        "wickets": "1",
+        "bowl avg": "15.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/15",
+        "catches/stumpings": "2/0"
+    },
+    "clubs": {
+        "Eastern Province": "2014\u2013present"
+    },
+    "birth_date": "1994-10-31"
+}

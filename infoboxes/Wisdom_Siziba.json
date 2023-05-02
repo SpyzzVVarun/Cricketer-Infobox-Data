@@ -1,0 +1,49 @@
+{
+    "name": "Wisdom Siziba",
+    "country": "Zimbabwe",
+    "fullname": "Wisdom Thomas Siziba",
+    "birth_place": "Bulawayo, Zimbabwe",
+    "death_date": "2009",
+    "death_place": "South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "10 March",
+    "debutyear1": "2000",
+    "debutfor1": "Matabeleland",
+    "debutagainst1": "Manicaland",
+    "lastdate1": "28 February",
+    "lastyear1": "2005",
+    "lastfor1": "Zimbabwe A",
+    "lastagainst1": "Bangladesh A",
+    "type2": "LA",
+    "debutdate2": "4 April",
+    "debutyear2": "2001",
+    "debutfor2": "CFX Academy",
+    "debutagainst2": "Bangladesh",
+    "lastdate2": "22 November",
+    "lastyear2": "2004",
+    "lastfor2": "Matabeleland",
+    "lastagainst2": "Midlands",
+    "source": "https://cricketarchive.com/Archive/Players/10/10500/10500.html CricketArchive ",
+    "First-class": {
+        "matches": "29",
+        "runs": "1,225",
+        "bat avg": "23.11",
+        "100s/50s": "1/5",
+        "top score": "103",
+        "catches/stumpings": "37/1"
+    },
+    "List A": {
+        "matches": "17",
+        "runs": "168",
+        "bat avg": "12.92",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "13/4"
+    },
+    "clubs": {
+        "Matebeleland": "1999/00\u20132004/05"
+    },
+    "birth_date": "1980-10-26"
+}

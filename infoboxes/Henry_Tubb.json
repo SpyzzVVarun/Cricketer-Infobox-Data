@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Henry Tubb",
+    "birth_place": "Bicester, Oxfordshire, England",
+    "death_date": "1924",
+    "death_place": "Chesterton, Oxfordshire, England",
+    "heightft": "5",
+    "heightinch": "8",
+    "family": "Sir William Style (brother-in-law), John Stratton (brother-in-law), Eustace Mordaunt (son-in-law)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/21948.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "93",
+        "bat avg": "10.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1873&ndash;1877"
+    }
+}

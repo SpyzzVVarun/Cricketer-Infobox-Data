@@ -1,0 +1,19 @@
+{
+    "country": "England",
+    "fullname": "Robert Stafford Edwards",
+    "birth_place": "Chatham, Kent, England",
+    "death_date": "1899",
+    "death_place": "Watford, Hertfordshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/12750.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "106",
+        "bat avg": "17.66",
+        "100s/50s": "\u2013/1",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1849&ndash;1850"
+    }
+}

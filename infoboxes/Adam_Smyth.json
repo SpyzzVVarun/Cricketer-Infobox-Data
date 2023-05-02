@@ -1,0 +1,26 @@
+{
+    "name": "Adam Smyth",
+    "fullname": "Adam Charles Smyth",
+    "birth_place": "Coventry, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/20486.html Cricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "21",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "top score": "21",
+        "deliveries": "12",
+        "wickets": "1",
+        "bowl avg": "32.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/32",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Warwickshire Cricket Board": "2000"
+    },
+    "birth_date": "1981-5-16"
+}

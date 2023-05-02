@@ -1,0 +1,41 @@
+{
+    "name": "Alan Castell",
+    "country": "England",
+    "fullname": "Alan Terry Castell",
+    "birth_place": "Oxford, Oxfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium; leg break and Right-arm medium; leg break and googly",
+    "source": "http://www.cricinfo.com/ci/content/player/10688.html Cricinfo ",
+    "FC": {
+        "matches": "112",
+        "runs": "1,622",
+        "bat avg": "15.90",
+        "100s/50s": "\u2013/4",
+        "top score": "76",
+        "deliveries": "14,832",
+        "wickets": "229",
+        "bowl avg": "30.97",
+        "fivefor": "8",
+        "tenfor": "1",
+        "best bowling": "6/22",
+        "catches/stumpings": "89/\u2013"
+    },
+    "LA": {
+        "matches": "30",
+        "runs": "148",
+        "bat avg": "9.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "1,571",
+        "wickets": "28",
+        "bowl avg": "36.28",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/52",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1961\u20131971"
+    },
+    "birth_date": "1943-8-6"
+}

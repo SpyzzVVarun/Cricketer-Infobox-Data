@@ -1,0 +1,28 @@
+{
+    "country": "Scotland",
+    "fullname": "Christopher John Warner",
+    "birth_place": "Bloemfontein,, Orange Free State, South Africa",
+    "family": "Edmond Warner (father)",
+    "batting": "Left-handed",
+    "source": "https://www.espncricinfo.com/player/christopher-warner-25386 Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "391",
+        "bat avg": "30.07",
+        "100s/50s": "\u2013/4",
+        "top score": "70",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "12",
+        "runs": "265",
+        "bat avg": "22.08",
+        "100s/50s": "\u2013/1",
+        "top score": "59",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1978&ndash;1984"
+    },
+    "birth_date": "1945-1-15"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Kadeem Phillip",
+    "birth_place": "Antigua",
+    "batting": "Left-handed",
+    "bowling": "Slow left arm Slow left arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/468223.html ESPNcricinfo ",
+    "List A": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "1",
+        "runs": "20",
+        "bat avg": "20.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Leeward Islands": "2010",
+        "Windward Islands": "2017"
+    },
+    "birth_date": "1989-11-25"
+}

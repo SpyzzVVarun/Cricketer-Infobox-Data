@@ -1,0 +1,39 @@
+{
+    "name": "James Whitehead",
+    "country": "England",
+    "fullname": "Stephen James Whitehead",
+    "birth_place": "Enfield Highway, Middlesex, England",
+    "death_date": "1904",
+    "death_place": "Small Heath, Birmingham, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off-break/medium Right-arm off-break/medium pace",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "18 July",
+    "debutyear1": "1891",
+    "debutfor1": "Liverpool and District",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "11 August",
+    "lastyear1": "1900",
+    "lastfor1": "Warwickshire",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/33/33814/33814.html CricketArchive ",
+    "FC": {
+        "matches": "58",
+        "runs": "519",
+        "bat avg": "10.59",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "10151",
+        "wickets": "183",
+        "bowl avg": "23.93",
+        "fivefor": "11",
+        "tenfor": "4",
+        "best bowling": "8/43",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Liverpool and District": "1891\u201392",
+        "Warwickshire": "1894\u20131900"
+    },
+    "birth_date": "1860-9-2"
+}

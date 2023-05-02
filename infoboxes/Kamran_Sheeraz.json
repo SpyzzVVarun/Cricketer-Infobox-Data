@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Kamran Pasha Sheeraz",
+    "birth_place": "Wellington, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/20147.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "27",
+        "bat avg": "3.85",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "1,717",
+        "wickets": "27",
+        "bowl avg": "40.88",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "6/67",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "List A": {
+        "matches": "23",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "923",
+        "wickets": "17",
+        "bowl avg": "42.47",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/17",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Shropshire": "1999",
+        "Bedfordshire": "1992",
+        "Rawalpindi B": "1994/95",
+        "Gloucestershire": "1994&ndash;1997"
+    },
+    "birth_date": "1973-12-28"
+}

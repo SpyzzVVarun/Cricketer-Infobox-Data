@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Fitzgerald Gambier Jenyns",
+    "birth_place": "Bottisham, Cambridgeshire, England",
+    "death_date": "1888",
+    "death_place": "Knebworth, Hertfordshire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15790.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "88",
+        "bat avg": "8.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1849&ndash;1850"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Omer Hussain",
+    "country": "Scotland",
+    "fullname": "Rana Omer Hussain",
+    "birth_place": "Paisley, Renfrewshire, Scotland",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "family": "Majid Haq (cousin)",
+    "internationalspan": "2005\u20132010",
+    "odidebutdate": "5 August",
+    "odidebutyear": "2006",
+    "odidebutagainst": "Ireland",
+    "odicap": "23",
+    "lastodidate": "10 July",
+    "lastodiyear": "2010",
+    "lastodiagainst": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/62/62386/62386.html CricketArchive ",
+    "ODI": {
+        "matches": "8",
+        "runs": "63",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "17",
+        "catches/stumpings": "1/\u2013"
+    },
+    "FC": {
+        "matches": "3",
+        "runs": "10",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "catches/stumpings": "1/\u2013"
+    },
+    "LA": {
+        "matches": "17",
+        "runs": "193",
+        "bat avg": "13.78",
+        "100s/50s": "0/1",
+        "top score": "52",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1984-12-3"
+}

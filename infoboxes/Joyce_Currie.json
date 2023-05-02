@@ -1,0 +1,53 @@
+{
+    "name": "Joyce Currie",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1954\u20131957",
+    "fullname": "Margaret Joyce Inness",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "2012",
+    "death_place": "Wellington, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "testdebutdate": "24 July",
+    "testdebutyear": "1954",
+    "testdebutagainst": "England",
+    "testcap": "33",
+    "lasttestdate": "27 December",
+    "lasttestyear": "1957",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17256/17256.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "2.33",
+        "100s/50s": "0/0",
+        "deliveries": "450",
+        "wickets": "3",
+        "bowl avg": "56.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/36",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WFC": {
+        "matches": "35",
+        "runs": "438",
+        "bat avg": "11.23",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "4,310",
+        "wickets": "93",
+        "bowl avg": "18.36",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "6/22",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1951/52\u20131956/57",
+        "Wellington": "1957/58\u20131963/64"
+    },
+    "birth_date": "1931-11-04"
+}

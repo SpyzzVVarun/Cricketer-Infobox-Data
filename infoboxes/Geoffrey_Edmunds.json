@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Edmunds",
+    "birth_place": "Stoneleigh, Warwickshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/12568.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "27",
+        "bat avg": "27.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "312",
+        "wickets": "2",
+        "bowl avg": "104.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/41",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Shropshire": "1987\u20132003"
+    },
+    "birth_date": "1954-9-2"
+}

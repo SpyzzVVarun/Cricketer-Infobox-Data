@@ -1,0 +1,42 @@
+{
+    "name": "Terence Bowes",
+    "country": "Rhodesia",
+    "fullname": "Terence Russell Crosby Bowes",
+    "birth_place": "Bulawayo, Southern Rhodesia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/5/5039/5039.html CricketArchive ",
+    "First-class": {
+        "matches": "4",
+        "runs": "29",
+        "bat avg": "7.25",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "390",
+        "wickets": "4",
+        "bowl avg": "58.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/38",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "42",
+        "wickets": "1",
+        "bowl avg": "24.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/24",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Rhodesia": "1971/72\u20131974/75"
+    },
+    "birth_date": "1951-8-17"
+}

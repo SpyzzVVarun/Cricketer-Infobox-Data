@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Fitzhardinge Hancock Liebenrood",
+    "birth_place": "Eltham, Kent, England",
+    "death_date": "1969",
+    "death_place": "Poole, Dorset, England",
+    "family": "Harold Scott (son-in-law)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/16576.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "125",
+        "bat avg": "11.36",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "54",
+        "wickets": "2",
+        "bowl avg": "22.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/9",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1905&ndash;1907"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Geoffrey Acworth Rimbault",
+    "birth_place": "Streatham, Surrey, England",
+    "death_date": "df=y",
+    "death_place": "Bovey Tracey, Devon, England",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/19535.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "31",
+        "bat avg": "10.33",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1934/35"
+    }
+}

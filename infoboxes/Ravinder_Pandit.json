@@ -1,0 +1,39 @@
+{
+    "name": "Ravinder Pandit",
+    "birth_place": "Srinagar, Jammu and Kashmir, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "https://www.espncricinfo.com/india/content/player/32633.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "1179",
+        "bat avg": "26.20",
+        "100s/50s": "2/6",
+        "top score": "158",
+        "deliveries": "2311",
+        "wickets": "56",
+        "bowl avg": "27.23",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "8/33",
+        "catches/stumpings": "11/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "65",
+        "bat avg": "21.66",
+        "100s/50s": "0/0",
+        "top score": "32",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "n/a",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Jammu and Kashmir": "1978-79 to 1987-88"
+    },
+    "birth_date": "1959-8-10"
+}

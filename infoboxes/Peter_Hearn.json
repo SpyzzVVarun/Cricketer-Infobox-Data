@@ -1,0 +1,39 @@
+{
+    "name": "Peter Hearn",
+    "fullname": "Peter Hearn",
+    "birth_place": "Tunbridge Wells, Kent",
+    "death_date": "df=yes",
+    "death_place": "Tunbridge Wells, Kent",
+    "batting": "Left-handed",
+    "bowling": "Slow left Slow left arm",
+    "role": "Batsman",
+    "family": "Sid Hearn (uncle)",
+    "type1": "FC",
+    "debutdate1": "31 May",
+    "debutyear1": "1947",
+    "debutfor1": "Kent",
+    "debutagainst1": "Warwickshire",
+    "lastdate1": "25 August",
+    "lastyear1": "1956",
+    "lastfor1": "Kent",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/14687.html CricInfo",
+    "First-class": {
+        "matches": "200",
+        "runs": "8,138",
+        "bat avg": "25.51",
+        "100s/50s": "7/46",
+        "top score": "172",
+        "deliveries": "2,530",
+        "wickets": "22",
+        "bowl avg": "56.59",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/34",
+        "catches/stumpings": "60/\u2013"
+    },
+    "clubs": {
+        "Kent": "1947\u20131956"
+    },
+    "birth_date": "1925-09-19"
+}

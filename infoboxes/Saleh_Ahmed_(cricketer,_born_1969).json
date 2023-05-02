@@ -1,0 +1,37 @@
+{
+    "name": "Saleh Ahmed",
+    "full_name": "Mohammad Saleh Ahmed",
+    "birth_place": "Faridpur, Dhaka, Bangladesh",
+    "batting": "Right-handed",
+    "bowling": "Off-break",
+    "source": "http://www.espncricinfo.com/ci/content/player/56123.html Cricinfo",
+    "First-class": {
+        "matches": "5",
+        "runs": "152",
+        "bat avg": "21.71",
+        "100s/50s": "0/1",
+        "top score": "53",
+        "deliveries": "1377",
+        "wickets": "19",
+        "bowl avg": "26.52",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/52",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "136",
+        "wickets": "8",
+        "bowl avg": "12.62",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/37",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {}
+}

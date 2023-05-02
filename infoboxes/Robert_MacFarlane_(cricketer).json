@@ -1,0 +1,21 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert MacFarlane",
+    "birth_place": "Uddingston, Lanarkshire, Scotland",
+    "death_date": "1986",
+    "death_place": "Uddingston, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://www.espncricinfo.com/player/robert-macfarlane-25274 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "70",
+        "bat avg": "35.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "48",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1939"
+    }
+}

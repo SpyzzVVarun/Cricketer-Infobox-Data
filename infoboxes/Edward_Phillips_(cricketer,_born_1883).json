@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Edward Stone Phillips",
+    "birth_place": "Newport, Monmouthshire, Wales",
+    "death_date": "df=y",
+    "death_place": "Ypres, West Flanders, Belgium",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/18924.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "422",
+        "bat avg": "23.44",
+        "100s/50s": "1/1",
+        "top score": "107",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Monmouthshire": "1901\u20131914",
+        "Cambridge University": "1903\u20131904"
+    }
+}

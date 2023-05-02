@@ -1,0 +1,56 @@
+{
+    "country": "England",
+    "fullname": "Andrew John Clarke",
+    "birth_place": "Brentwood, Essex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/11559.html Cricinfo ",
+    "FC": {
+        "matches": "10",
+        "runs": "179",
+        "bat avg": "14.91",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "deliveries": "1,359",
+        "wickets": "26",
+        "bowl avg": "29.30",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/54",
+        "catches/stumpings": "4/\u2013"
+    },
+    "LA": {
+        "matches": "41",
+        "runs": "63",
+        "bat avg": "5.72",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "deliveries": "1,590",
+        "wickets": "53",
+        "bowl avg": "24.41",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/28",
+        "catches/stumpings": "9/\u2013"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "72",
+        "wickets": "2",
+        "bowl avg": "46.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/18",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "2007\u20132009",
+        "Essex": "2001\u20132004",
+        "Essex Cricket Board": "2001"
+    },
+    "birth_date": "1975-11-9"
+}

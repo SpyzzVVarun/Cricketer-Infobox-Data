@@ -1,0 +1,50 @@
+{
+    "name": "Julie May",
+    "female": "true",
+    "country": "England",
+    "fullname": "Julie Elizabeth May",
+    "birth_place": "Dartford, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "internationalspan": "1986",
+    "testdebutdate": "26 June",
+    "testdebutyear": "1986",
+    "testdebutagainst": "India",
+    "testcap": "99",
+    "lasttestdate": "12 July",
+    "lasttestyear": "1986",
+    "lasttestagainst": "India",
+    "source": "https://cricketarchive.com/Archive/Players/17/17052/17052.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "deliveries": "402",
+        "wickets": "1",
+        "bowl avg": "143.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/75",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WLA": {
+        "matches": "26",
+        "runs": "262",
+        "bat avg": "14.55",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "deliveries": "1,086",
+        "wickets": "13",
+        "bowl avg": "37.53",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/17",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Kent": "1984\u20131990"
+    },
+    "birth_date": "1964-03-19"
+}

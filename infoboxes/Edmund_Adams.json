@@ -1,0 +1,28 @@
+{
+    "name": "Edmund Adams",
+    "country": "England",
+    "fullname": "Edmund Joe Adams",
+    "birth_place": "Shepton Mallet, Somerset, England",
+    "death_date": "2005",
+    "death_place": "Kingston-upon-Thames, Surrey, England",
+    "batting": "Unknown",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "20 July",
+    "debutyear1": "1935",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Essex",
+    "source": "https://cricketarchive.com/Archive/Players/3/3399/3399.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "5.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1935"
+    },
+    "birth_date": "1915-02-01"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Gavin Derek Edwards",
+    "birth_place": "Penzance, Cornwall, England",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.cricinfo.com/ci/content/player/12557.html Cricinfo ",
+    "LA": {
+        "matches": "7",
+        "runs": "134",
+        "bat avg": "44.66",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/2"
+    },
+    "clubs": {
+        "Cornwall": "1997-present"
+    },
+    "birth_date": "1979-4-14"
+}

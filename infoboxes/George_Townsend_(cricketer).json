@@ -1,0 +1,27 @@
+{
+    "name": "George Townsend",
+    "country": "England",
+    "fullname": "George Barnard Townsend",
+    "birth_place": "London, England",
+    "death_date": "1870",
+    "death_place": "Christchurch, Hampshire, England",
+    "source": "http://www.cricinfo.com/ci/content/player/22090.html Cricinfo ",
+    "FC": {
+        "matches": "4",
+        "runs": "59",
+        "bat avg": "7.37",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1849"
+    },
+    "birth_date": "1814-7-17"
+}

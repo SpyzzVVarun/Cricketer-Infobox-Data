@@ -1,0 +1,26 @@
+{
+    "name": "Jefferson Jones",
+    "country": "England",
+    "fullname": "Jefferson Harcourt Jones",
+    "birth_place": "Christ Church, Barbados",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/15610.html Cricinfo ",
+    "List A": {
+        "matches": "11",
+        "runs": "20",
+        "bat avg": "6.66",
+        "100s/50s": "0/0",
+        "deliveries": "678",
+        "wickets": "15",
+        "bowl avg": "35.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1972\u20131994"
+    },
+    "birth_date": "1954-1-6"
+}

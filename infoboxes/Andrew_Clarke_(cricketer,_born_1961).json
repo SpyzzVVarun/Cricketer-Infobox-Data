@@ -1,0 +1,43 @@
+{
+    "name": "Andrew Clarke",
+    "country": "England",
+    "fullname": "Andrew Russell Clarke",
+    "birth_place": "Patcham, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Leg Leg break",
+    "source": "http://www.espncricinfo.com/england/content/player/10732.html Cricinfo ",
+    "First-class": {
+        "matches": "26",
+        "runs": "406",
+        "bat avg": "14.50",
+        "100s/50s": "0/1",
+        "top score": "68",
+        "deliveries": "4,194",
+        "wickets": "53",
+        "bowl avg": "35.32",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/60",
+        "catches/stumpings": "7/\u2013"
+    },
+    "List A": {
+        "matches": "55",
+        "runs": "60",
+        "bat avg": "3.52",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "2,730",
+        "wickets": "72",
+        "bowl avg": "26.93",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/36",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Sussex": "1988\u20131990",
+        "Buckinghamshire": "2001\u20132003",
+        "Norfolk": "2000"
+    },
+    "birth_date": "1961-12-23"
+}

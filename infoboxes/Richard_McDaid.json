@@ -1,0 +1,24 @@
+{
+    "name": "Richard McDaid",
+    "country": "Ireland",
+    "fullname": "Richard William McDaid",
+    "birth_place": "Derry, Northern Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/24255.html Cricinfo ",
+    "FC": {
+        "matches": "2",
+        "runs": "6",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "252",
+        "wickets": "2",
+        "bowl avg": "76.50",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/34",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1975-11-3"
+}

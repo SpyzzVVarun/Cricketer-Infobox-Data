@@ -1,0 +1,73 @@
+{
+    "name": "Shawn Findlay",
+    "country": "West Indies",
+    "fullname": "Shawn Eli Findlay",
+    "birth_place": "Mandeville, Jamaica",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "odidebutdate": "4 July",
+    "odidebutyear": "2008",
+    "odidebutagainst": "Australia",
+    "odicap": "140",
+    "lastodidate": "13 January",
+    "lastodiyear": "2009",
+    "lastodiagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/62/62440/62440.html CricketArchive ",
+    "ODI": {
+        "matches": "9",
+        "runs": "146",
+        "bat avg": "20.85",
+        "100s/50s": "0/1",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "FC": {
+        "matches": "10",
+        "runs": "281",
+        "bat avg": "15.61",
+        "100s/50s": "0/1",
+        "deliveries": "114",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "15",
+        "runs": "303",
+        "bat avg": "30.30",
+        "100s/50s": "0/2",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "8/\u2013"
+    },
+    "T20": {
+        "matches": "8",
+        "runs": "62",
+        "bat avg": "12.40",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Jamaica": "2004/05\u2014present"
+    },
+    "birth_date": "1984-3-3"
+}

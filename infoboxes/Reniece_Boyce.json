@@ -1,0 +1,45 @@
+{
+    "name": "Reniece Boyce",
+    "female": "true",
+    "country": "West Indies",
+    "internationalspan": "2017\u20132019",
+    "fullname": "Reniece Boyce",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "2 July",
+    "odidebutyear": "2017",
+    "odidebutagainst": "South Africa",
+    "odicap": "84",
+    "lastodidate": "19 September",
+    "lastodiyear": "2021",
+    "lastodiagainst": "South Africa",
+    "T20Idebutdate": "14 March",
+    "T20Idebutyear": "2018",
+    "T20Idebutagainst": "New Zealand",
+    "T20Icap": "36",
+    "lastT20Idate": "18 September",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "Australia",
+    "source": "http://www.espncricinfo.com/westindies/content/player/908047.html ESPNcricinfo ",
+    "WODI": {
+        "matches": "6",
+        "runs": "42",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "catches/stumpings": "1/2"
+    },
+    "WT20I": {
+        "matches": "6",
+        "runs": "20",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Trinidad and Tobago": "2015\u2013present",
+        "Barbados Royals": "2022\u2013present"
+    },
+    "birth_date": "1997-9-3"
+}

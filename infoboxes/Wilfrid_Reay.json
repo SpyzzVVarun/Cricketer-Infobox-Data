@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Wilfrid Francis Reay",
+    "birth_place": "Wallington, Surrey, England",
+    "death_date": "df=yes",
+    "death_place": "Thiepval, Somme, France",
+    "family": "Gilly Reay (brother)",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/19619.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "5",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "51.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/51",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

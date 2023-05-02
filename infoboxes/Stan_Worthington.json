@@ -1,0 +1,50 @@
+{
+    "name": "Stan Worthington",
+    "country": "England",
+    "fullname": "Thomas Stanley Worthington",
+    "birth_place": "Bolsover, Derbyshire, England",
+    "death_date": "1973",
+    "death_place": "King's Lynn, Norfolk, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "testdebutagainst": "New Zealand",
+    "testdebutdate": "10 January",
+    "testdebutyear": "1930",
+    "lasttestdate": "26 February",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1937",
+    "source": "https://cricketarchive.com/Archive/Players/0/534/534.html CricketArchive ",
+    "Test": {
+        "matches": "9",
+        "runs": "321",
+        "bat avg": "29.18",
+        "100s/50s": "1/1",
+        "top score": "128",
+        "deliveries": "633",
+        "wickets": "8",
+        "bowl avg": "39.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/19",
+        "catches/stumpings": "8/\u2013"
+    },
+    "First-class": {
+        "matches": "453",
+        "runs": "19,221",
+        "bat avg": "29.07",
+        "100s/50s": "31/94",
+        "deliveries": "49,020",
+        "wickets": "682",
+        "bowl avg": "29.22",
+        "fivefor": "16",
+        "tenfor": "2",
+        "best bowling": "8/29",
+        "catches/stumpings": "339/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1924\u20131947",
+        "Northumberland": "1949"
+    },
+    "birth_date": "1905-8-21"
+}

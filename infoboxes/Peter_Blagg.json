@@ -1,0 +1,21 @@
+{
+    "name": "Peter Blagg",
+    "country": "England",
+    "fullname": "Peter Henry Blagg",
+    "birth_place": "Basford, Nottinghamshire, England",
+    "death_date": "1943",
+    "death_place": "near Donbaik, Burma",
+    "batting": "Right-handed",
+    "role": "Wicketkeeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/9795.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "67",
+        "bat avg": "8.37",
+        "100s/50s": "0/0",
+        "top score": "28 not out",
+        "catches/stumpings": "17/12"
+    },
+    "clubs": {},
+    "birth_date": "1918-9-11"
+}

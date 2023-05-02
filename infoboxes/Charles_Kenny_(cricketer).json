@@ -1,0 +1,30 @@
+{
+    "name": "Charles Kenny",
+    "country": "England",
+    "fullname": "Charles John Michael Kenny",
+    "birth_place": "Wallington, Surrey, England",
+    "death_date": "1996",
+    "death_place": "Chiddingfold, Surrey",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15860.html Cricinfo ",
+    "First-class": {
+        "matches": "40",
+        "runs": "75",
+        "bat avg": "3.40",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "3348",
+        "wickets": "117",
+        "bowl avg": "28.61",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "7/45",
+        "catches/stumpings": "17/0"
+    },
+    "clubs": {
+        "Essex": "1950\u20131953",
+        "Cambridge University": "1952"
+    },
+    "birth_date": "1929-5-19"
+}

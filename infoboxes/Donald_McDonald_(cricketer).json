@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Donald McDonald",
+    "birth_place": "Chard, Somerset, England",
+    "death_date": "1961",
+    "death_place": "Southbourne, Dorset, England",
+    "batting": "Unknown",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "https://www.espncricinfo.com/player/donald-mcdonald-25286 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "6",
+        "bat avg": "6.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "6",
+        "deliveries": "288",
+        "wickets": "6",
+        "bowl avg": "24.66",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1913"
+    }
+}

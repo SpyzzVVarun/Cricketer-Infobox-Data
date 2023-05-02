@@ -1,0 +1,28 @@
+{
+    "name": "Pearl Savin",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1935",
+    "fullname": "Pearl Hannah Savin",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "2000",
+    "death_place": "Auckland, New Zealand",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "onetest": "true",
+    "testdebutdate": "16 February",
+    "testdebutyear": "1935",
+    "testdebutagainst": "England",
+    "testcap": "9",
+    "source": "https://cricketarchive.com/Archive/Players/17/17317/17317.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "18",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "15",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1914-6-20"
+}

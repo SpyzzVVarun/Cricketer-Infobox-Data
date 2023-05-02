@@ -1,0 +1,38 @@
+{
+    "name": "Mike Smedley",
+    "country": "England",
+    "fullname": "Michael John Smedley",
+    "birth_place": "Maltby, South Yorkshire",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "22 July",
+    "debutyear1": "1964",
+    "debutfor1": "Nottinghamshire",
+    "debutagainst1": "Northants",
+    "type2": "LA",
+    "debutdate2": "21 May",
+    "debutyear2": "1966",
+    "debutfor2": "Nottinghamshire",
+    "debutagainst2": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/32/32821/32821.html CricketArchive ",
+    "First-class": {
+        "matches": "360",
+        "runs": "16,482",
+        "bat avg": "31.21",
+        "100s/50s": "28/79",
+        "top score": "149",
+        "catches/stumpings": "261/0"
+    },
+    "List A": {
+        "matches": "206",
+        "runs": "3,674",
+        "bat avg": "21.73",
+        "100s/50s": "0/14",
+        "top score": "75",
+        "catches/stumpings": "55/0"
+    },
+    "clubs": {
+        "Nottinghamshire": "1964\u20131979"
+    },
+    "birth_date": "1941-10-28"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Percy Goodman",
+    "country": "England",
+    "fullname": "Percy Arnold Goodman",
+    "birth_place": "Sandford, St Philip, Barbados",
+    "death_date": "25 April 1935 (aged 60)",
+    "death_place": "Elbank, St Lawrence, Christ Church, Barbados",
+    "family": "Clifford Goodman (brother), G. Aubrey Goodman (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "https://www.espncricinfo.com/player/percy-goodman-51986 Cricinfo",
+    "First-class": {
+        "matches": "40",
+        "runs": "1824",
+        "bat avg": "30.91",
+        "100s/50s": "5/5",
+        "top score": "180",
+        "wickets": "88",
+        "bowl avg": "13.12",
+        "fivefor": "5",
+        "tenfor": "1",
+        "best bowling": "7/18",
+        "catches/stumpings": "47/\u2013"
+    },
+    "clubs": {
+        "Barbados": "1891-92 to 1912-13"
+    }
+}

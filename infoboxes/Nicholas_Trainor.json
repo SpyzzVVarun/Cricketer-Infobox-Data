@@ -1,0 +1,40 @@
+{
+    "name": "Nicholas Trainor",
+    "fullname": "Nicholas James Trainor",
+    "birth_place": "Gateshead, County Durham, England",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/england/content/player/21572.html Cricinfo ",
+    "FC": {
+        "matches": "30",
+        "runs": "1060",
+        "bat avg": "20.38",
+        "100s/50s": "1/6",
+        "top score": "121",
+        "deliveries": "354",
+        "wickets": "3",
+        "bowl avg": "59.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/42",
+        "catches/stumpings": "17/0"
+    },
+    "List A": {
+        "matches": "18",
+        "runs": "483",
+        "bat avg": "30.18",
+        "100s/50s": "1/2",
+        "top score": "143",
+        "deliveries": "228",
+        "wickets": "2",
+        "bowl avg": "90.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/25",
+        "catches/stumpings": "4/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1996\u20131998"
+    },
+    "birth_date": "1975-6-29"
+}

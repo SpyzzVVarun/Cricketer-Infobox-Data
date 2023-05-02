@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Thomas Clive Davies",
+    "birth_place": "Pontrhydyfen, Glamorgan,  Wales",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/11830.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "1,267",
+        "wickets": "18",
+        "bowl avg": "34.72",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/22",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Glamorgan": "1971&ndash;1972"
+    },
+    "birth_date": "1951-11-7"
+}

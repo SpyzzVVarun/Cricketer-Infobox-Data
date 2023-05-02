@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "George Nisbet Marten",
+    "birth_place": "Ghazipur, Uttar Pradesh Presidency, British India",
+    "death_date": "df=yes",
+    "death_place": "Crowborough, Sussex, England",
+    "family": "George Marten (uncle)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/17388.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "50",
+        "bat avg": "10.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1864&ndash;1869"
+    }
+}

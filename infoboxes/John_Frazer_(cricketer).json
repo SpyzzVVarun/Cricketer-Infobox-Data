@@ -1,0 +1,43 @@
+{
+    "name": "John Frazer",
+    "country": "England",
+    "fullname": "John Ewan Frazer",
+    "nickname": "Jack",
+    "birth_place": "Woollahra, Sydney, Australia",
+    "death_date": "1927",
+    "death_place": "Davos, Graub\u00fcnden, Switzerland",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "role": "Batsman",
+    "family": "Charles Frazer (brother)",
+    "type1": "First-class",
+    "debutdate1": "18 May",
+    "debutyear1": "1921",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Oxford University",
+    "lastdate1": "16 June",
+    "lastyear1": "1925",
+    "lastfor1": "Free Foresters",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3557/3557.html CricketArchive ",
+    "First-class": {
+        "matches": "37",
+        "runs": "887",
+        "bat avg": "13.64",
+        "100s/50s": "\u2013/1",
+        "top score": "81",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1921",
+        "Sussex": "1921\u201324",
+        "Oxford University": "1924"
+    },
+    "birth_date": "1901-4-2"
+}

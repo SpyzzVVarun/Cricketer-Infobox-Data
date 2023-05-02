@@ -1,0 +1,22 @@
+{
+    "country": "Argentina",
+    "fullname": "Charles H. Whaley",
+    "death_date": "Not known",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/23654.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "31",
+        "bat avg": "10.33",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "96",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

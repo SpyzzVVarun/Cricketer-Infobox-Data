@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Arthur William Crichton",
+    "birth_place": "Bushey, Hertfordshire, England",
+    "death_date": "1882",
+    "death_place": "Westminster, London, England",
+    "family": "Lord Lilford (nephew), Walter Powys (nephew), Horatio Powys-Keck (great-nephew)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11697.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "9.00",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1856"
+    }
+}

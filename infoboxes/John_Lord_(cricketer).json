@@ -1,0 +1,22 @@
+{
+    "name": "John Lord",
+    "country": "Australia",
+    "fullname": "John Carr Lord",
+    "birth_place": "Hobart, Tasmania, Australia",
+    "death_date": "1911",
+    "death_place": "Antill Ponds, Tasmania, Australia",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/6313.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "29",
+        "bat avg": "9.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "11",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1864",
+        "Tasmania": "1873"
+    }
+}

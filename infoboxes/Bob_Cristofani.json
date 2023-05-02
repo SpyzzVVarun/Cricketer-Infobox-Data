@@ -1,0 +1,26 @@
+{
+    "name": "Bob Cristofani",
+    "country": "England",
+    "fullname": "Desmond Robert Cristofani",
+    "birth_place": "Waverley, Sydney, New South Wales, Australia",
+    "death_date": "2002",
+    "death_place": "Fleet, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Leg-break / right-arm Leg-break / right-arm medium",
+    "source": "https://cricketarchive.com/Players/5/5802/5802.html CricketArchive ",
+    "FC": {
+        "matches": "18",
+        "runs": "749",
+        "bat avg": "26.75",
+        "100s/50s": "1/4",
+        "deliveries": "2,951",
+        "wickets": "48",
+        "bowl avg": "32.93",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/49",
+        "catches/stumpings": "12/0"
+    },
+    "clubs": {},
+    "birth_date": "1920-11-14"
+}

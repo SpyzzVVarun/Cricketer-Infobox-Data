@@ -1,0 +1,28 @@
+{
+    "name": "Nick Stevens",
+    "country": "Australia",
+    "fullname": "Nicholas Gerard Stevens",
+    "birth_place": "Toowoomba, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/505115.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "264",
+        "bat avg": "29.33",
+        "100s/50s": "1/0",
+        "top score": "158",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Queensland": "2013/14\u20132014/15"
+    },
+    "birth_date": "1994-5-20"
+}

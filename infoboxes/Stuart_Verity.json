@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Stuart Anthony Verity",
+    "birth_place": "Bradford, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/22214.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "55",
+        "bat avg": "11.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "deliveries": "518",
+        "wickets": "4",
+        "bowl avg": "65.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/42",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1969&ndash;1970"
+    },
+    "birth_date": "1948-11-11"
+}

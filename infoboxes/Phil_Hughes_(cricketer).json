@@ -1,0 +1,25 @@
+{
+    "name": "Phil Hughes",
+    "country": "England",
+    "fullname": "Philip Heywood Hughes",
+    "birth_place": "Southampton, Hampshire, England",
+    "heightft": "6",
+    "heightinch": "0",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/459436.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "500",
+        "bat avg": "29.41",
+        "100s/50s": "0/4",
+        "top score": "92",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Cambridge MCCU": "2010\u20132015",
+        "Cambridge University": "2010\u20132015"
+    },
+    "birth_date": "1991-6-17"
+}

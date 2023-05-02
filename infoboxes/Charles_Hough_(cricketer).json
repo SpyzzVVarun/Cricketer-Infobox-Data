@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Charles Henry Hough",
+    "birth_place": "Cambridge, Cambridgeshire, England",
+    "death_date": "1933",
+    "death_place": "Manchester, Lancashire, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/14972.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "10",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1883"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Rajesh Ramesh",
+    "country": "Pakistan",
+    "fullname": "Rajesh Ramesh",
+    "birth_place": "Karachi, Sindh, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/42497.html Cricinfo ",
+    "First-class": {
+        "matches": "67",
+        "runs": "982",
+        "bat avg": "12.75",
+        "100s/50s": "1/2",
+        "top score": "100",
+        "deliveries": "11,512",
+        "wickets": "242",
+        "bowl avg": "28.00",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "6/48",
+        "catches/stumpings": "21/\u2013"
+    },
+    "List A": {
+        "matches": "30",
+        "runs": "130",
+        "bat avg": "8.12",
+        "100s/50s": "0/0",
+        "deliveries": "1,263",
+        "wickets": "25",
+        "bowl avg": "50.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/36",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Karachi": "2000/01\u20132013/14",
+        "Public Works Department": "2001/02\u20132002/03",
+        "Sui Southern Gas Corporation": "2007/08\u20132015/16"
+    },
+    "birth_date": "1982-7-2"
+}

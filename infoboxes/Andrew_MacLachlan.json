@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "Andrew MacLachlan",
+    "birth_place": "Trearddur, Angelsey, Wales",
+    "death_date": "df=yes",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/17257.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "99",
+        "bat avg": "14.14",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "28",
+        "deliveries": "312",
+        "wickets": "3",
+        "bowl avg": "79.66",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/49",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1962"
+    }
+}

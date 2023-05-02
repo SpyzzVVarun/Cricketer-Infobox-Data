@@ -1,0 +1,28 @@
+{
+    "name": "Rashada Williams",
+    "female": "true",
+    "country": "West Indies",
+    "fullname": "Rashada Shieka Williams",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "odidebutdate": "15 July",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Pakistan",
+    "odicap": "93",
+    "lastodidate": "9 December",
+    "lastodiyear": "2022",
+    "lastodiagainst": "England",
+    "T20Idebutdate": "28 September",
+    "T20Idebutyear": "2022",
+    "T20Idebutagainst": "New Zealand",
+    "T20Icap": "63",
+    "lastT20Idate": "19 February",
+    "lastT20Iyear": "2023",
+    "lastT20Iagainst": "Pakistan",
+    "source": "http://www.espncricinfo.com/ci/content/player/769427.html Cricinfo ",
+    "clubs": {
+        "Jamaica": "2014\u2013present",
+        "Guyana Amazon Warriors": "2022\u2013present"
+    },
+    "birth_date": "1997-2-23"
+}

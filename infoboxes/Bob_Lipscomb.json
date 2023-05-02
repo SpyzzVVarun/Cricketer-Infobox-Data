@@ -1,0 +1,39 @@
+{
+    "name": "Bob Lipscomb",
+    "fullname": "Robert Lipscomb",
+    "birth_place": "Penshurst, Kent",
+    "death_date": "1895",
+    "death_place": "Tudeley Hale, Kent",
+    "family": "Frank Lipscomb (son)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "11 August",
+    "debutyear1": "1862",
+    "debutfor1": "Kent",
+    "debutagainst1": "England XI",
+    "lastdate1": "25 August",
+    "lastyear1": "1873",
+    "lastfor1": "Kent",
+    "lastagainst1": "Sussex",
+    "source": "http://www.espncricinfo.com/ci/content/player/16594.html Cricinfo ",
+    "First-class": {
+        "matches": "60",
+        "runs": "428",
+        "bat avg": "4.97",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "10,943",
+        "wickets": "271",
+        "bowl avg": "17.01",
+        "fivefor": "19",
+        "tenfor": "3",
+        "best bowling": "9/88",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Kent": "1862\u20131873"
+    },
+    "birth_date": "1837-2-28"
+}

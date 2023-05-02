@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Arthur Melbourne Sutthery",
+    "birth_place": "Clifton Reynes, Buckinghamshire, England",
+    "death_date": "1937",
+    "death_place": "Chelsea, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "https://www.espncricinfo.com/cricketers/arthur-sutthery-21137 Cricinfo ",
+    "First-class": {
+        "matches": "20",
+        "runs": "658",
+        "bat avg": "20.56",
+        "100s/50s": "\u2013/5",
+        "top score": "73",
+        "deliveries": "1,486",
+        "wickets": "23",
+        "bowl avg": "1",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "5/51",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1886\u20131887"
+    }
+}

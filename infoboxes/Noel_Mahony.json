@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Noel Cameron Mahony",
+    "birth_place": "Fermoy, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Lucan, Leinster, Ireland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24435.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "116",
+        "bat avg": "11.60",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "29",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1948&ndash;1953"
+    }
+}

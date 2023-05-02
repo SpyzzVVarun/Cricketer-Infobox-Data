@@ -1,0 +1,49 @@
+{
+    "name": "Kenny Carroll",
+    "fullname": "Kenneth Edward Desmond Carroll",
+    "birth_place": "Booterstown, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batsman",
+    "country": "Ireland",
+    "odidebutdate": "31 January",
+    "odidebutyear": "2007",
+    "odidebutagainst": "Bermuda",
+    "odicap": "15",
+    "lastodidate": "11 July",
+    "lastodiyear": "2007",
+    "lastodiagainst": "Netherlands",
+    "source": "http://www.espncricinfo.com/ci/content/player/245287.html ESPNcricinfo",
+    "ODI": {
+        "matches": "6",
+        "runs": "70",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "6",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "131",
+        "bat avg": "13.10",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Leinster Lightning": "2014\u20132016"
+    },
+    "birth_date": "1983-3-22"
+}

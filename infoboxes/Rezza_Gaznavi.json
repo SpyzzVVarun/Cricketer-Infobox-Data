@@ -1,0 +1,26 @@
+{
+    "name": "Rezza Gaznavi",
+    "country": "Singapore",
+    "birth_place": "Singapore",
+    "batting": "Right-handed",
+    "T20Idebutdate": "23 October",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Kenya",
+    "T20Icap": "17",
+    "lastT20Idate": "24 August",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Kuwait",
+    "source": "http://www.espncricinfo.com/ci/content/player/307775.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {},
+    "birth_date": "1992-10-15",
+    "medaltemplates": [
+        "Country: {{SGP}}",
+        "Sport: Men's Cricket",
+        "Competition: Southeast Asian Games",
+        "Gold Medal: 2017 Kuala Lumpur Twenty20",
+        "Silver Medal: 2017 Kuala Lumpur 50 over"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Arthur Cox",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "1977",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/player/arthur-cox-36765 Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "396",
+        "bat avg": "49.50",
+        "100s/50s": "1/2",
+        "top score": "204",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Canterbury": "1924-25 to 1926-27"
+    },
+    "birth_date": "1904-12-7"
+}

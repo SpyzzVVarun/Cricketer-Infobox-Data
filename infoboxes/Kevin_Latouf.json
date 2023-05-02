@@ -1,0 +1,32 @@
+{
+    "name": "Kevin Latouf",
+    "country": "England",
+    "fullname": "Kevin John Latouf",
+    "nickname": "Latsy",
+    "birth_place": "Pretoria, Transvaal, South Africa",
+    "heightft": "5",
+    "heightinch": "1",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.cricinfo.com/ci/content/player/16846.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "29",
+        "bat avg": "29.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "List A": {
+        "matches": "11",
+        "runs": "90",
+        "bat avg": "11.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "25",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "2005&ndash;2008"
+    },
+    "birth_date": "1985-9-7"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Richard Chee Quee",
+    "country": "Australia",
+    "fullname": "Richard Chee Quee",
+    "nickname": "Shiek, Cheeks",
+    "birth_place": "Camperdown, Sydney, Australia",
+    "batting": "Right-handed",
+    "role": "Top Order Batsman",
+    "source": "http://www.espncricinfo.com/australia/content/player/4564.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "21",
+        "runs": "1,029",
+        "bat avg": "28.58",
+        "100s/50s": "1/6",
+        "top score": "105",
+        "catches/stumpings": "16/\u2013"
+    },
+    "List A": {
+        "matches": "24",
+        "runs": "876",
+        "bat avg": "39.81",
+        "100s/50s": "1/5",
+        "top score": "131",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1992/93\u20131997/98"
+    },
+    "birth_date": "1971-1-4"
+}

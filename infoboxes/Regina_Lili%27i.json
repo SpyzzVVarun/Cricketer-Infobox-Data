@@ -1,0 +1,48 @@
+{
+    "name": "Regina Lili'i",
+    "female": "true",
+    "fullname": "Regina Sela Monika Lili'i",
+    "birth_place": "Apia, Samoa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "country": "Samoa",
+    "internationalspan": "2019",
+    "T20Idebutdate": "6 May",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Fiji",
+    "T20Icap": "5",
+    "lastT20Idate": "13 July",
+    "lastT20Iyear": "2019",
+    "lastT20Iagainst": "PNG",
+    "source": "http://www.espncricinfo.com/ci/content/player/491144.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {
+        "matches": "12",
+        "runs": "323",
+        "bat avg": "46.14",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "24",
+        "wickets": "2",
+        "bowl avg": "13.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/11",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Auckland": "2018/19\u20132020/21",
+        "Northern Districts": "2017/18"
+    },
+    "birth_date": "1986-10-3",
+    "medaltemplates": [
+        "Country: {{SAM}}",
+        "Sport: Women's Cricket",
+        "Competition: Pacific Games",
+        "Gold Medal: 2015 Port Moresby 20 over cricket",
+        "Gold Medal: 2019 Apia 20 over cricket"
+    ]
+}

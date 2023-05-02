@@ -1,0 +1,29 @@
+{
+    "name": "Sianna Ginger",
+    "female": "true",
+    "fullname": "Sianna Ushandi Ginger",
+    "birth_place": "Townsville, Queensland, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/2613/2613546/2613546.html CricketArchive",
+    "WLA": {
+        "matches": "2",
+        "runs": "68",
+        "bat avg": "34.00",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "48",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {},
+    "clubs": {
+        "Queensland": "2022/23\u2013present"
+    },
+    "birth_date": "2005-7-26"
+}

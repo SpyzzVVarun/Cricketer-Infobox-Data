@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "James Eardley Hill",
+    "birth_place": "St Pancreas, Middlesex, England",
+    "death_date": "1899",
+    "death_place": "Paddington, London, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/15239.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "21",
+        "bat avg": "7.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "18",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1857"
+    }
+}

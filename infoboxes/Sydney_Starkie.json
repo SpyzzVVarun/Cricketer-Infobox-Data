@@ -1,0 +1,29 @@
+{
+    "name": "Sydney Starkie",
+    "country": "England",
+    "death_date": "2017",
+    "birth_place": "Burnley, Lancashire",
+    "death_place": "Amersham, Buckinghamshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Bowler",
+    "source": "http://www.cricinfo.com/england/content/player/20996.html Cricinfo ",
+    "First-class": {
+        "matches": "95",
+        "runs": "857",
+        "bat avg": "10.71",
+        "100s/50s": "0/1",
+        "top score": "60",
+        "deliveries": "13,547",
+        "wickets": "166",
+        "bowl avg": "34.24",
+        "fivefor": "6",
+        "tenfor": "1",
+        "best bowling": "6/33",
+        "catches/stumpings": "64/&ndash;"
+    },
+    "clubs": {
+        "Northamptonshire": "1951&ndash;1956"
+    },
+    "birth_date": "1926-4-4"
+}

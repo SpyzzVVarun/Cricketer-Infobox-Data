@@ -1,0 +1,24 @@
+{
+    "name": "Harry Gouldstone",
+    "fullname": "Harry Oliver Michael Gouldstone",
+    "birth_place": "Kettering, Northamptonshire, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "6 September",
+    "debutyear1": "2020",
+    "debutfor1": "Northamptonshire",
+    "debutagainst1": "Gloucestershire",
+    "source": "http://www.espncricinfo.com/ci/content/player/1180781.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "155",
+        "bat avg": "25.83",
+        "100s/50s": "0/1",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Northamptonshire": "2020\u2013present"
+    },
+    "birth_date": "2001-3-26"
+}

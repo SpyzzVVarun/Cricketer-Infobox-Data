@@ -1,0 +1,23 @@
+{
+    "name": "Deryck Harrison",
+    "batting": "Right-handed",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26769/26769.html CricketArchive",
+    "First-class": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "11",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

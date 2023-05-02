@@ -1,0 +1,31 @@
+{
+    "name": "Edward Budgen",
+    "country": "South Africa",
+    "fullname": "Edward Albert Budgen",
+    "birth_place": "Heidelberg, Transvaal Republic",
+    "death_date": "1962",
+    "death_place": "Port Elizabeth, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "https://www.espncricinfo.com/cricketers/edward-budgen-44259 Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "275",
+        "bat avg": "7.23",
+        "100s/50s": "0/0",
+        "top score": "43",
+        "deliveries": "4,825",
+        "wickets": "110",
+        "bowl avg": "22.31",
+        "fivefor": "8",
+        "tenfor": "2",
+        "best bowling": "8/107",
+        "catches/stumpings": "12/\u2013"
+    },
+    "clubs": {
+        "Western Province": "1908/09\u20131919/20",
+        "Orange Free State": "1921/22\u20131925/26",
+        "Griqualand West": "1922/23"
+    },
+    "birth_date": "1884-12-9"
+}

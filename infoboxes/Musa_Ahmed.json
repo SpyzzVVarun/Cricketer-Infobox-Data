@@ -1,0 +1,35 @@
+{
+    "name": "Musa Ahmed",
+    "fullname": "Musa Nadeem Ahmed",
+    "birth_place": "Lahore, Punjab Pakistan",
+    "batting": "Left-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "family": "Shariz Ahmad (brother)",
+    "country": "Netherlands",
+    "odidebutdate": "7 June",
+    "odidebutyear": "2021",
+    "odidebutagainst": "Ireland",
+    "odicap": "74",
+    "lastodidate": "2 April",
+    "lastodiyear": "2023",
+    "lastodiagainst": "South Africa",
+    "source": "http://www.espncricinfo.com/ci/content/player/1184439.html Cricinfo ",
+    "ODI": {
+        "matches": "8",
+        "runs": "130",
+        "bat avg": "16.25",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "2/\u2013"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "159",
+        "bat avg": "15.90",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1997-12-10"
+}

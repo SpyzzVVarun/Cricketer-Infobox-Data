@@ -1,0 +1,26 @@
+{
+    "name": "Arthur Somerset",
+    "country": "England",
+    "fullname": "Arthur William FitzRoy Somerset",
+    "birth_place": "Brompton, Chatham, Kent, England",
+    "death_date": "1937",
+    "death_place": "Castle Goring, Worthing, Sussex, England",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/20931.html CricInfo ",
+    "FC": {
+        "matches": "48",
+        "runs": "1221",
+        "bat avg": "20.01",
+        "100s/50s": "?/?",
+        "deliveries": "108",
+        "wickets": "2",
+        "bowl avg": "26.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/37",
+        "catches/stumpings": "41/7"
+    },
+    "clubs": {},
+    "birth_date": "1855-9-20"
+}

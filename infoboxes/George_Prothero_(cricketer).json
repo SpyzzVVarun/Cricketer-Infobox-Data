@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "George Prothero",
+    "birth_place": "Newport, Monmouthshire, Wales",
+    "death_date": "df=yes",
+    "death_place": "Whippingham, Isle of Wight, England",
+    "family": "Rowland Prothero (son)",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19248.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "1.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "3",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1862"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Harry Whitta",
+    "country": "New Zealand",
+    "fullname": "Henry Beckett Whitta",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Christchurch",
+    "batting": "Right-handed",
+    "source": "https://cricketarchive.com/Archive/Players/23/23099/23099.html  Cricket Archive ",
+    "First-class": {
+        "matches": "19",
+        "runs": "749",
+        "bat avg": "22.69",
+        "100s/50s": "1/4",
+        "top score": "147",
+        "deliveries": "30",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Canterbury": "1903-04 to 1919-20"
+    },
+    "birth_date": "1883-3-2"
+}

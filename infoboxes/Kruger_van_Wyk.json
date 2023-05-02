@@ -1,0 +1,49 @@
+{
+    "name": "Kruger van Wyk",
+    "country": "New Zealand",
+    "fullname": "Cornelius Francoius Kruger van Wyk",
+    "birth_place": "Wolmaransstad, Transvaal Province, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "7 March",
+    "testdebutyear": "2012",
+    "testdebutagainst": "South Africa",
+    "testcap": "255",
+    "lasttestdate": "29 November",
+    "lasttestyear": "2012",
+    "lasttestagainst": "Sri Lanka",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/47780.html Cricinfo ",
+    "Test": {
+        "matches": "9",
+        "runs": "341",
+        "bat avg": "21.31",
+        "100s/50s": "&ndash;/1",
+        "top score": "71",
+        "catches/stumpings": "23/1"
+    },
+    "FC": {
+        "matches": "138",
+        "runs": "6,734",
+        "bat avg": "37.59",
+        "100s/50s": "7/41",
+        "catches/stumpings": "415/20"
+    },
+    "LA": {
+        "matches": "141",
+        "runs": "2,624",
+        "bat avg": "38.73",
+        "100s/50s": "1/14",
+        "catches/stumpings": "158/20"
+    },
+    "T20": {
+        "matches": "80",
+        "runs": "877",
+        "bat avg": "21.39",
+        "100s/50s": "0/1",
+        "catches/stumpings": "43/15"
+    },
+    "clubs": {
+        "Canterbury": ""
+    },
+    "birth_date": "1980-2-7"
+}

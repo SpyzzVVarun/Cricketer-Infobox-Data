@@ -1,0 +1,44 @@
+{
+    "name": "Saleem Mughal",
+    "country": "Pakistan",
+    "fullname": "Mohammad Saleem Mughal",
+    "birth_place": "Sheikhupura, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "source": "http://www.espncricinfo.com/ci/content/player/42730.html Cricinfo",
+    "FC": {
+        "matches": "70",
+        "runs": "3142",
+        "bat avg": "32.72",
+        "100s/50s": "6/18",
+        "top score": "193",
+        "deliveries": "2090",
+        "wickets": "18",
+        "bowl avg": "56.55",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/40",
+        "catches/stumpings": "50/&ndash;"
+    },
+    "List A": {
+        "matches": "62",
+        "runs": "1862",
+        "bat avg": "45.71",
+        "100s/50s": "1/14",
+        "top score": "133 not out",
+        "deliveries": "1702",
+        "wickets": "29",
+        "bowl avg": "46.34",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "3/30",
+        "catches/stumpings": "26/&ndash;"
+    },
+    "clubs": {
+        "Water and Power Development Authority": "1998-99",
+        "Lahore Division": "1999-00",
+        "Sheikhupura": "2000-01 to 2002-03",
+        "Sui Northern Gas Pipelines": "2001-02 to 2013-14"
+    },
+    "birth_date": "1978-3-4"
+}

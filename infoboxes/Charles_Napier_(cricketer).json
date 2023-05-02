@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "Charles Walter Albyn Napier",
+    "birth_place": "East Pennard, Somerset, England",
+    "death_date": "df=yes",
+    "death_place": "Chichester, Sussex, England",
+    "family": "Milo Talbot (nephew)",
+    "batting": "Unknown",
+    "bowling": "Unknown-arm Unknown-arm fast",
+    "source": "http://www.espncricinfo.com/england/content/player/23144.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "120",
+        "bat avg": "8.57",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1838",
+        "Oxford University": "1838&ndash;1839"
+    }
+}

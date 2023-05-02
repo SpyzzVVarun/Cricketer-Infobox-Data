@@ -1,0 +1,31 @@
+{
+    "name": "Alma Vogt",
+    "female": "true",
+    "country": "Australia",
+    "birth_place": "Melbourne, Victoria",
+    "death_date": "2006",
+    "death_place": "Queensland",
+    "batting": "Right-handed",
+    "bowling": "Right arm Right arm fast",
+    "role": "|onetest=true",
+    "testdebutdate": "15 January",
+    "testdebutyear": "1949",
+    "testdebutagainst": "England",
+    "testcap": "33",
+    "source": "http://www.espncricinfo.com/ci/content/player/53579.html CricInfo ",
+    "WTests": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "90",
+        "wickets": "0",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {},
+    "birth_date": "1925-02-25"
+}

@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Thomas Frederick Fowler",
+    "birth_place": "Kennington, Surrey, England",
+    "death_date": "1915",
+    "death_place": "Woolston, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/13170.html Cricinfo ",
+    "First-class": {
+        "matches": "10",
+        "runs": "208",
+        "bat avg": "18.90",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "273",
+        "wickets": "9",
+        "bowl avg": "10.88",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/37",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1863&ndash;1864",
+        "Marylebone Cricket Club": "1864&ndash;1867"
+    }
+}

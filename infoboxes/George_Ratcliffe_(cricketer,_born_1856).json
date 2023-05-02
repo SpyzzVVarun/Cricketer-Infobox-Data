@@ -1,0 +1,37 @@
+{
+    "name": "George Ratcliffe",
+    "country": "England",
+    "fullname": "George Ratcliffe",
+    "birth_place": "Ilkeston, Derbyshire, England",
+    "death_date": "1928",
+    "death_place": "Nottingham, England",
+    "batting": "Left-handed",
+    "type1": "First-class",
+    "debutdate1": "27 June",
+    "debutyear1": "1887",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Yorkshire",
+    "lastdate1": "15 August",
+    "lastyear1": "1887",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Surrey",
+    "source": "https://cricketarchive.com/Players/32/32252/32252.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "145",
+        "bat avg": "14.50",
+        "100s/50s": "0/1",
+        "top score": "64",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1887\u20131889"
+    },
+    "birth_date": "1856-4-1"
+}

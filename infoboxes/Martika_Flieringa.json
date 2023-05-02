@@ -1,0 +1,27 @@
+{
+    "name": "Martika Flieringa",
+    "female": "true",
+    "fullname": "Martika Flieringa",
+    "birth_place": "Haarlem, Netherlands",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "country": "Netherlands",
+    "internationalspan": "1999",
+    "odidebutdate": "21 March",
+    "odidebutyear": "1999",
+    "odidebutagainst": "Sri Lanka",
+    "odicap": "48",
+    "lastodidate": "30 March",
+    "lastodiyear": "1999",
+    "lastodiagainst": "Sri Lanka",
+    "source": "https://www.espncricinfo.com/player/martika-flieringa-54659 ESPNcricinfo ",
+    "WODI": {
+        "matches": "4",
+        "runs": "8",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {},
+    "birth_date": "1978-11-17"
+}

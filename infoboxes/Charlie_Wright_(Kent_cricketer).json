@@ -1,0 +1,29 @@
+{
+    "name": "Charlie Wright",
+    "fullname": "Albert Charles Wright",
+    "birth_place": "Borstal, Kent, England",
+    "death_date": "1959",
+    "death_place": "Westminster, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/34/34084/34084.html CricketArchive ",
+    "First-class": {
+        "matches": "225",
+        "runs": "3,260",
+        "bat avg": "13.09",
+        "100s/50s": "0/9",
+        "top score": "81",
+        "deliveries": "35,177",
+        "wickets": "596",
+        "bowl avg": "24.26",
+        "fivefor": "24",
+        "tenfor": "1",
+        "best bowling": "7/31",
+        "catches/stumpings": "127/\u2013"
+    },
+    "clubs": {
+        "Kent": "1921\u20131931"
+    },
+    "birth_date": "1895-04-04"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Frank Nicholson",
+    "birth_place": "Millom, Cumberland, England",
+    "death_date": "df=y",
+    "death_place": "Port Elizabeth, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "country": "South Africa",
+    "testdebutagainst": "Australia",
+    "testdebutdate": "14 December",
+    "testdebutyear": "1935",
+    "lasttestdate": "15 February",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1936",
+    "source": "http://content-uk.cricinfo.com/southafrica/content/player/46578.html Cricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "76",
+        "bat avg": "10.85",
+        "100s/50s": "0/0",
+        "top score": "29",
+        "catches/stumpings": "3/\u2013"
+    },
+    "First-class": {
+        "matches": "52",
+        "runs": "2,353",
+        "bat avg": "24.76",
+        "100s/50s": "4/14",
+        "top score": "185",
+        "catches/stumpings": "32/37"
+    },
+    "clubs": {},
+    "birth_date": "1909-9-17"
+}

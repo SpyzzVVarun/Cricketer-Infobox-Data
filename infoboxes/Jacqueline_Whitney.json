@@ -1,0 +1,51 @@
+{
+    "name": "Jackie Whitney",
+    "female": "true",
+    "country": "England",
+    "fullname": "Jacqueline Florence Olive Whitney",
+    "birth_place": "Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Batter",
+    "internationalspan": "1966",
+    "testdebutdate": "18 Jun",
+    "testdebutyear": "1966",
+    "testdebutagainst": "New Zealand",
+    "testcap": "67",
+    "lasttestdate": "6 August",
+    "lasttestyear": "1966",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17106/17106.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "75",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WFC": {
+        "matches": "4",
+        "runs": "167",
+        "bat avg": "23.85",
+        "100s/50s": "0/1",
+        "top score": "86",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1965\u20131979"
+    },
+    "birth_date": "1943-02-05"
+}

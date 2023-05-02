@@ -1,0 +1,27 @@
+{
+    "name": "Adam Glen",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "1937",
+    "death_place": "Auckland, New Zealand",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/37166.html ESPNcricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "29",
+        "bat avg": "3.22",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "655",
+        "wickets": "13",
+        "bowl avg": "20.53",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/55",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Otago": "1872/73\u20131886/87"
+    },
+    "birth_date": "1853-3-1"
+}

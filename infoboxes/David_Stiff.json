@@ -1,0 +1,48 @@
+{
+    "name": "David Stiff",
+    "country": "England",
+    "fullname": "David Alexander Stiff",
+    "nickname": "Stifler",
+    "birth_place": "Dewsbury, England",
+    "heightft": "6",
+    "heightinch": "6",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "source": "http://www.cricinfo.com/ci/content/player/21172.html Cricinfo ",
+    "FC": {
+        "matches": "20",
+        "runs": "321",
+        "bat avg": "22.92",
+        "100s/50s": "0/0",
+        "top score": "49",
+        "deliveries": "2578",
+        "wickets": "43",
+        "bowl avg": "44.32",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/91",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "1",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "deliveries": "30",
+        "wickets": "1",
+        "bowl avg": "27.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/27",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "2001\u20132003",
+        "Kent": "2004\u20132006",
+        "Leicestershire": "2006\u20132007",
+        "Somerset( 18 )": "2008\u20132010"
+    },
+    "birth_date": "1984-10-20"
+}

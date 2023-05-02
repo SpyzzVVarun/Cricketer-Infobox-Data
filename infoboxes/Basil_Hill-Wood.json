@@ -1,0 +1,39 @@
+{
+    "name": "Basil Hill-Wood",
+    "country": "England",
+    "fullname": "Sir Basil Samuel Hill-Wood, 2nd Baronet",
+    "birth_place": "Chelsea, London, England",
+    "death_date": "1954",
+    "death_place": "Farley Hill, Berkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Samuel Hill-Wood (father)",
+    "type1": "FC",
+    "debutdate1": "8 August",
+    "debutyear1": "1919",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "22 July",
+    "lastyear1": "1925",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Gloucestershire",
+    "source": "https://cricketarchive.com/Archive/Players/30/30252/30252.html CricketArchive ",
+    "First-class": {
+        "matches": "22",
+        "runs": "505",
+        "bat avg": "16.29",
+        "100s/50s": "0/1",
+        "top score": "61",
+        "deliveries": "2,565",
+        "wickets": "45",
+        "bowl avg": "31.24",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/74",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1919\u20131925"
+    },
+    "birth_date": "1900-2-5"
+}

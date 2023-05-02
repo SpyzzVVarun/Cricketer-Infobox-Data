@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "John Edwin Hall",
+    "birth_place": "Maseru, Basutoland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/14462.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "385",
+        "bat avg": "14.80",
+        "100s/50s": "\u2013/2",
+        "top score": "69",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "1968&ndash;1971",
+        "Cambridge University": "1969&ndash;1970"
+    },
+    "birth_date": "1950-1-5"
+}

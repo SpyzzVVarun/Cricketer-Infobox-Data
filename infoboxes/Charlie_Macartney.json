@@ -1,0 +1,53 @@
+{
+    "name": "Charlie Macartney",
+    "country": "Australia",
+    "fullname": "Charles George Macartney",
+    "nickname": "The Governor-General",
+    "birth_place": "West Maitland, New South Wales, Australia",
+    "death_date": "1958",
+    "death_place": "Little Bay, New South Wales, Australia",
+    "heightft": "5",
+    "heightinch": "3",
+    "batting": "Right-handed",
+    "bowling": "Left-arm orthodox Left-arm orthodox spin",
+    "testdebutdate": "13 December",
+    "testdebutyear": "1907",
+    "testdebutagainst": "England",
+    "lasttestdate": "14 August",
+    "lasttestyear": "1926",
+    "lasttestagainst": "England",
+    "source": "http://www.espncricinfo.com/australia/content/player/6434.html CricInfo ",
+    "Test": {
+        "matches": "35",
+        "runs": "2,131",
+        "bat avg": "41.78",
+        "100s/50s": "7/9",
+        "top score": "170",
+        "deliveries": "3,561",
+        "wickets": "45",
+        "bowl avg": "27.55",
+        "fivefor": "2",
+        "tenfor": "1",
+        "best bowling": "7/58",
+        "catches/stumpings": "17/\u2013"
+    },
+    "First-class": {
+        "matches": "249",
+        "runs": "15,019",
+        "bat avg": "45.78",
+        "100s/50s": "49/53",
+        "top score": "345",
+        "deliveries": "25,021",
+        "wickets": "419",
+        "bowl avg": "20.95",
+        "fivefor": "17",
+        "tenfor": "1",
+        "best bowling": "7/58",
+        "catches/stumpings": "102/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1905/06\u20131926/27",
+        "Otago": "1909/10"
+    },
+    "birth_date": "1886-6-27"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Douglas Goodwin",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26756/26756.html CricketArchive",
+    "First-class": {
+        "matches": "11",
+        "runs": "188",
+        "bat avg": "13.42",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "1,703",
+        "wickets": "20",
+        "bowl avg": "29.15",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/46",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

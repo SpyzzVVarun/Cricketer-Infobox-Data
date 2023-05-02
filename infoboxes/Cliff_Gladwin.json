@@ -1,0 +1,50 @@
+{
+    "name": "Cliff Gladwin",
+    "country": "England",
+    "fullname": "Clifford Gladwin",
+    "birth_place": "Doe Lea, Derbyshire, England",
+    "death_date": "1988",
+    "death_place": "Chesterfield, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Joseph Gladwin (father)",
+    "internationalspan": "1947\u20131949",
+    "testdebutdate": "5 July",
+    "testdebutyear": "1947",
+    "testdebutagainst": "South Africa",
+    "testcap": "322",
+    "lasttestdate": "25 June",
+    "lasttestyear": "1949",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/0/785/785.html CricketArchive ",
+    "Test": {
+        "matches": "8",
+        "runs": "170",
+        "bat avg": "28.33",
+        "100s/50s": "0/1",
+        "deliveries": "2129",
+        "wickets": "15",
+        "bowl avg": "38.06",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/21",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "374",
+        "runs": "6,283",
+        "bat avg": "17.35",
+        "100s/50s": "1/15",
+        "deliveries": "81,296",
+        "wickets": "1653",
+        "bowl avg": "18.30",
+        "fivefor": "101",
+        "tenfor": "18",
+        "best bowling": "9/41",
+        "catches/stumpings": "135/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1939\u20131959"
+    },
+    "birth_date": "1916-4-3"
+}

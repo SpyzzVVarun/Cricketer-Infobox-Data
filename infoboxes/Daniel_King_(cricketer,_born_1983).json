@@ -1,0 +1,23 @@
+{
+    "name": "Daniel King",
+    "country": "Australia",
+    "fullname": "Daniel Alexander King",
+    "birth_place": "Canberra, Australian Capital Territory",
+    "heightft": "5",
+    "heightinch": "7",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/6219.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "191",
+        "bat avg": "63.66",
+        "100s/50s": "1/0",
+        "top score": "189",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "2009\u20132010"
+    },
+    "birth_date": "1983-2-26"
+}

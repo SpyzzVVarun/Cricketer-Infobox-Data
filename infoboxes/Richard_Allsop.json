@@ -1,0 +1,31 @@
+{
+    "name": "Richard Allsop",
+    "country": "England",
+    "fullname": "Richard Allsop",
+    "birth_place": "Wirksworth, Derbyshire",
+    "death_date": "1908",
+    "death_place": "Burton-on-Trent, Staffordshire",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "28 June",
+    "debutyear1": "1872",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "23 July",
+    "lastyear1": "1874",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Kent",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/27/27464/27464.html CricketArchive ",
+    "First-class": {
+        "matches": "3",
+        "runs": "42",
+        "bat avg": "8.40",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Derbyshire County Cricket Club": "1872\u20131874"
+    },
+    "birth_date": "1849-6-10"
+}

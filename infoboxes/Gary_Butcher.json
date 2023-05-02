@@ -1,0 +1,38 @@
+{
+    "name": "Gary Butcher",
+    "fullname": "Gary Paul Butcher",
+    "birth_place": "Clapham, London, England",
+    "family": "Alan Butcher (father), Mark Butcher (brother), Martin Butcher (uncle) Ian Butcher (uncle)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/2/2330/2330.html CricketArchive",
+    "First-class": {
+        "matches": "53",
+        "runs": "1,841",
+        "bat avg": "27.89",
+        "100s/50s": "1/12",
+        "deliveries": "3,661",
+        "wickets": "63",
+        "bowl avg": "37.93",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "7/77",
+        "catches/stumpings": "19/\u2013"
+    },
+    "List A": {
+        "matches": "69",
+        "runs": "819",
+        "bat avg": "19.04",
+        "100s/50s": "1/0",
+        "top score": "126",
+        "deliveries": "1,278",
+        "wickets": "28",
+        "bowl avg": "49.67",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/32",
+        "catches/stumpings": "6/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1975-3-11"
+}

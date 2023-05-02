@@ -1,0 +1,23 @@
+{
+    "name": "Sumon Khan",
+    "fullname": "Sumon Khan",
+    "birth_place": "Manikganj, Bangladesh",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1163490.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "clubs": {
+        "Dhaka Division": "2018-present",
+        "Cumilla Warriors": ""
+    },
+    "birth_date": "2000-1-13",
+    "medaltemplates": [
+        "Country: {{BAN}}",
+        "Sport: Men's Cricket",
+        "Competition: South Asian Games",
+        "Gold Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

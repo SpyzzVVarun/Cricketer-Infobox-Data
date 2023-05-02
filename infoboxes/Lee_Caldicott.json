@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Lee Brian Caldicott",
+    "birth_place": "Stourport-on-Severn, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/10640.html Cricinfo ",
+    "LA": {
+        "matches": "1",
+        "runs": "35",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "47",
+        "wickets": "3",
+        "bowl avg": "12.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/37",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Herefordshire": "1997-1999"
+    },
+    "birth_date": "1969-6-26"
+}

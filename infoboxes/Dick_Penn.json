@@ -1,0 +1,38 @@
+{
+    "name": "Dick Penn",
+    "fullname": "Alfred Penn",
+    "birth_place": "Lee, London",
+    "death_date": "1889",
+    "death_place": "Lee, London",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm orthodox Slow left-arm orthodox (round-arm)",
+    "family": "John Penn (father) John Penn (brother) Frank Penn (brother) William Penn (brother)",
+    "type1": "FC",
+    "debutdate1": "12 July",
+    "debutyear1": "1875",
+    "debutfor1": "Kent",
+    "debutagainst1": "Sussex",
+    "lastdate1": "12 May",
+    "lastyear1": "1884",
+    "lastfor1": "Kent",
+    "lastagainst1": "MCC",
+    "source": "http://www.espncricinfo.com/england/content/player/18879.html CricInfo ",
+    "First-class": {
+        "matches": "48",
+        "runs": "539",
+        "bat avg": "7.81",
+        "100s/50s": "0/1",
+        "top score": "66",
+        "deliveries": "9,630",
+        "wickets": "222",
+        "bowl avg": "16.07",
+        "fivefor": "20",
+        "tenfor": "3",
+        "best bowling": "8/34",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Kent": "1875-1884"
+    },
+    "birth_date": "1855-1-6"
+}

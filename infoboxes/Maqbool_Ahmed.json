@@ -1,0 +1,37 @@
+{
+    "name": "Maqbool Ahmed",
+    "birth_place": "Sahiwal, Punjab, Pakistan",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm medium pace",
+    "role": "Wicket-keeper-batsman",
+    "source": "http://www.espncricinfo.com/pakistan/content/player/555448.html Cricinfo",
+    "FC": {
+        "matches": "33",
+        "runs": "949",
+        "bat avg": "29.65",
+        "100s/50s": "0/8",
+        "catches/stumpings": "89/14"
+    },
+    "LA": {
+        "matches": "29",
+        "runs": "316",
+        "bat avg": "24.30",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "catches/stumpings": "32/12"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "5",
+        "bat avg": "5",
+        "100s/50s": "0/5",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Multan": "2012\u20132014",
+        "State Bank of Pakistan": "2014\u20132015",
+        "Sui Southern Gas Company": "2016\u20132019",
+        "Southern Punjab": "2019\u2013present"
+    },
+    "birth_date": "1992-12-09"
+}

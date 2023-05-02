@@ -1,0 +1,27 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Garland Work Tait",
+    "birth_place": "Aberdeen, Aberdeenshire, Scotland",
+    "death_date": "1973",
+    "death_place": "Dundee, Angus, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "https://www.espncricinfo.com/player/robert-tait-25372 Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "590",
+        "bat avg": "24.58",
+        "100s/50s": "\u2013/3",
+        "top score": "59",
+        "deliveries": "180",
+        "wickets": "2",
+        "bowl avg": "64.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/8",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1907&ndash;1913"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "John Anthony Pitt",
+    "birth_place": "Dewsbury, Yorkshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18969.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "36",
+        "bat avg": "36.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1937-1-30"
+}

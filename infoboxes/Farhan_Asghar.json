@@ -1,0 +1,43 @@
+{
+    "name": "Farhan Asghar",
+    "birth_place": "Lahore, Pakistan",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "family": "|club1=Lahore City |year1=club2=Service Industries |year2=2003\u20132006 |club3=Sui Northern Gas Pipelines Ltd |year3=2007 |club4=Lahore Ravi |year4=2009\u20132010 |club5=Lahore Lions |year5=2012 |club6=United Bank Ltd |year6=20",
+    "type1": "First-class",
+    "debutdate1": "2 January",
+    "debutyear1": "2003",
+    "debutfor1": "Service Industries",
+    "debutagainst1": "Lahore Blues",
+    "lastdate1": "26 November",
+    "lastyear1": "2012",
+    "lastfor1": "Zarai Taraqiati Bank Ltd",
+    "lastagainst1": "United Bank Ltd",
+    "type2": "List A",
+    "debutdate2": "10 April",
+    "debutyear2": "1999",
+    "debutfor2": "Lahore City",
+    "debutagainst2": "Habib Bank Ltd",
+    "lastdate2": "6 March",
+    "lastyear2": "2012",
+    "lastfor2": "Lahore Lions",
+    "lastagainst2": "Khan Research Laboratories",
+    "source": "https://cricketarchive.com/Archive/Players/19/19005/19005.html CricketArchive subscription needed",
+    "FC": {
+        "matches": "23",
+        "runs": "465",
+        "bat avg": "16.60",
+        "100s/50s": "0/2",
+        "catches/stumpings": "63/3"
+    },
+    "LA": {
+        "matches": "10",
+        "runs": "204",
+        "bat avg": "25.50",
+        "100s/50s": "0/2",
+        "top score": "64",
+        "catches/stumpings": "7/5"
+    },
+    "clubs": {},
+    "birth_date": "1980-9-15"
+}

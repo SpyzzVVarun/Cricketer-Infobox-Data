@@ -1,0 +1,22 @@
+{
+    "name": "Noel Ferguson",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/26/26746/26746.html CricketArchive",
+    "First-class": {
+        "matches": "5",
+        "runs": "122",
+        "bat avg": "15.25",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "869",
+        "wickets": "19",
+        "bowl avg": "19.73",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/37",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {}
+}

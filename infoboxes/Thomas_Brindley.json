@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Thomas Brindley",
+    "birth_place": "Chester, Cheshire, England",
+    "death_date": "1911",
+    "death_place": "West Cliff, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm underarm Unknown-arm underarm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/9990.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "31",
+        "bat avg": "10.33",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1867"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Norman Harding",
+    "fullname": "Norman Walter Harding",
+    "birth_place": "Woolston, Hampshire",
+    "death_date": "df=yes",
+    "death_place": "Abingdon-on-Thames, Berkshire",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "role": "Bowler",
+    "type1": "FC",
+    "debutdate1": "18 August",
+    "debutyear1": "1937",
+    "debutfor1": "Kent",
+    "debutagainst1": "Gloucestershire",
+    "lastdate1": "27 August",
+    "lastyear1": "1947",
+    "lastfor1": "Kent",
+    "lastagainst1": "South Africans",
+    "source": "http://www.espncricinfo.com/england/content/player/14522.html CricInfo",
+    "First-class": {
+        "matches": "84",
+        "runs": "966",
+        "bat avg": "9.56",
+        "100s/50s": "0/2",
+        "top score": "71",
+        "deliveries": "11,958",
+        "wickets": "229",
+        "bowl avg": "28.51",
+        "fivefor": "9",
+        "tenfor": "1",
+        "best bowling": "5/31",
+        "catches/stumpings": "55/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1934\u20131945",
+        "Kent": "1937\u20131947"
+    },
+    "birth_date": "1916-03-19"
+}

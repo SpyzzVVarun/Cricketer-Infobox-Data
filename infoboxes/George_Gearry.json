@@ -1,0 +1,30 @@
+{
+    "name": "George Gearry",
+    "country": "New Zealand",
+    "fullname": "George Neville Gearry",
+    "birth_place": "Christchurch, New Zealand",
+    "death_date": "df=yes",
+    "death_place": "Christchurch, New Zealand",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "family": "Roy Gearry (son)",
+    "source": "https://www.espncricinfo.com/newzealand/content/player/37136.html Cricinfo ",
+    "First-class": {
+        "matches": "14",
+        "runs": "337",
+        "bat avg": "17.73",
+        "100s/50s": "0/2",
+        "top score": "79",
+        "deliveries": "2136",
+        "wickets": "32",
+        "bowl avg": "26.00",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/32",
+        "catches/stumpings": "11/0"
+    },
+    "clubs": {
+        "Canterbury": "1953-54 to 1956-57"
+    },
+    "birth_date": "1923-12-17"
+}

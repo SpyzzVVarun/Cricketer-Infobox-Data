@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Cyril Randolph",
+    "birth_place": "Eastry, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Chartham, Kent, England",
+    "family": "Leveson Randolph (cousin)",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/19936.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "99",
+        "bat avg": "5.82",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "24",
+        "deliveries": "769",
+        "wickets": "47",
+        "bowl avg": "17.62",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "8/?",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1844&ndash;1847"
+    }
+}

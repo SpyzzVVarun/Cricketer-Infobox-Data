@@ -1,0 +1,53 @@
+{
+    "name": "Ramnath Kenny",
+    "full_name": "Ramnath Baburao Kenny",
+    "birth_place": "Bombay, British India",
+    "death_date": "1985",
+    "death_place": "Bombay, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "country": "India",
+    "testcap": "87",
+    "testdebutfor": "India",
+    "testdebutagainst": "West Indies",
+    "testdebutdate": "31 December",
+    "testdebutyear": "1958",
+    "lasttestdate": "23 January",
+    "lasttestfor": "India",
+    "lasttestagainst": "Australia",
+    "lasttestyear": "1960",
+    "source": "https://www.espncricinfo.com/india/content/player/30066.html Cricinfo",
+    "Tests": {
+        "matches": "5",
+        "runs": "245",
+        "bat avg": "27.22",
+        "100s/50s": "0/3",
+        "top score": "62",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "1/-"
+    },
+    "First-class": {
+        "matches": "59",
+        "runs": "3079",
+        "bat avg": "50.47",
+        "100s/50s": "11/11",
+        "top score": "218",
+        "deliveries": "1041",
+        "wickets": "15",
+        "bowl avg": "31.19",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/8",
+        "catches/stumpings": "26/-"
+    },
+    "clubs": {
+        "Bombay": "1950-51 to 1960-61",
+        "Bengal": "1961-62"
+    },
+    "birth_date": "1930-9-29"
+}

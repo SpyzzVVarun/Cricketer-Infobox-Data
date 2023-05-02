@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Frederick Laurence Sprott",
+    "birth_place": "Shrewsbury, Shropshire, England",
+    "death_date": "1943",
+    "death_place": "Roydon, Norfolk, England",
+    "batting": "Left-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/player/frederick-sprott-34446 Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "450",
+        "bat avg": "13.63",
+        "100s/50s": "\u2013/1",
+        "top score": "68",
+        "catches/stumpings": "19/13"
+    },
+    "clubs": {
+        "Europeans": "1892/93\u20131914/15",
+        "Bombay": "1902/03"
+    }
+}

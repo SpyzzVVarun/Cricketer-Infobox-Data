@@ -1,0 +1,27 @@
+{
+    "name": "William Gardiner",
+    "birth_place": "Auckland, New Zealand",
+    "death_date": "1924",
+    "death_place": "Wellington, New Zealand",
+    "role": "Batsman",
+    "source": "http://www.espncricinfo.com/ci/content/player/37125.html Cricinfo ",
+    "First-class": {
+        "matches": "13",
+        "runs": "383",
+        "bat avg": "17.40",
+        "100s/50s": "0/2",
+        "top score": "61",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Auckland": "1889-90 to 1893-94",
+        "Wellington": "1895-96"
+    },
+    "birth_date": "1864-7-14"
+}

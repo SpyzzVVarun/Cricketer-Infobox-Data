@@ -1,0 +1,52 @@
+{
+    "name": "Gwen Sutherland",
+    "female": "true",
+    "country": "New Zealand",
+    "internationalspan": "1957",
+    "fullname": "Gwendoline Anne Sutherland",
+    "birth_place": "Perth, Australia",
+    "death_date": "1995",
+    "death_place": "Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "testdebutdate": "18 January",
+    "testdebutyear": "1957",
+    "testdebutagainst": "Australia",
+    "testcap": "36",
+    "lasttestdate": "27 December",
+    "lasttestyear": "1957",
+    "lasttestagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17326/17326.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "66",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "288",
+        "wickets": "2",
+        "bowl avg": "43.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/29",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WFC": {
+        "matches": "26",
+        "runs": "500",
+        "bat avg": "15.15",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "1,949",
+        "wickets": "43",
+        "bowl avg": "13.92",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/63",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1950/51\u20131957/58"
+    }
+}

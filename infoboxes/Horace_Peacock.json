@@ -1,0 +1,23 @@
+{
+    "name": "Horace Peacock",
+    "country": "England",
+    "fullname": "Horace Ogilvie Peacock",
+    "birth_place": "St Neots, Huntingdonshire, England",
+    "death_date": "df=yes",
+    "death_place": "Harston, Leicestershire, England",
+    "family": "Walter Boden (brother-in-law)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/18836.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "124",
+        "bat avg": "12.40",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "1895",
+        "MCC": "1896&ndash;1899"
+    }
+}

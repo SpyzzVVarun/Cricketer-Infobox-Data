@@ -1,0 +1,22 @@
+{
+    "name": "Peter Lee",
+    "fullname": "Peter Granville Lee",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://cricketarchive.com/Archive/Players/29/29966/statistics_lists.html CricketArchive",
+    "First-class": {
+        "matches": "202",
+        "runs": "779",
+        "bat avg": "8.11",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "33,369",
+        "wickets": "599",
+        "bowl avg": "25.60",
+        "fivefor": "29",
+        "tenfor": "7",
+        "best bowling": "8/34",
+        "catches/stumpings": "29/\u2013"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,27 @@
+{
+    "name": "William Fox",
+    "country": "England",
+    "fullname": "William Victor Fox",
+    "birth_place": "Middlesbrough, England",
+    "death_date": "1949",
+    "death_place": "Withington, Manchester, England",
+    "source": "http://cricketarchive.co.uk/Archive/Players/29/29520/29520.html CricketArchive ",
+    "FC": {
+        "matches": "163",
+        "runs": "6,654",
+        "bat avg": "26.61",
+        "100s/50s": "11/26",
+        "top score": "198",
+        "deliveries": "209",
+        "wickets": "2",
+        "bowl avg": "68.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1\u201313",
+        "catches/stumpings": "89/0"
+    },
+    "clubs": {
+        "Worcestershire": "1923\u20131932"
+    },
+    "birth_date": "1898-1-8"
+}

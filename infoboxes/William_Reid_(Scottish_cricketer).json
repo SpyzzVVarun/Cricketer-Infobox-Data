@@ -1,0 +1,26 @@
+{
+    "country": "Scotland",
+    "fullname": "William Hamilton Reid",
+    "birth_place": "Uddingston, Lanarkshire, Scotland",
+    "death_date": "1949",
+    "death_place": "Glasgow, Lanarkshire, Scotland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "source": "https://www.espncricinfo.com/player/william-reid-25328 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "171",
+        "wickets": "4",
+        "bowl avg": "13.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/29",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1923"
+    }
+}

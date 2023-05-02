@@ -1,0 +1,56 @@
+{
+    "name": "David Alleyne",
+    "country": "England",
+    "fullname": "David Alleyne",
+    "birth_place": "York, England",
+    "heightft": "5",
+    "heightinch": "11",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "2 August",
+    "debutyear1": "2001",
+    "debutfor1": "Middlesex",
+    "debutagainst1": "Sussex",
+    "lastdate1": "20 September",
+    "lastyear1": "2006",
+    "lastfor1": "Nottinghamshire",
+    "lastagainst1": "Sussex",
+    "type2": "LA",
+    "debutdate2": "19 September",
+    "debutyear2": "1999",
+    "debutfor2": "Middlesex",
+    "debutagainst2": "Glamorgan",
+    "lastdate2": "17 September",
+    "lastyear2": "2006",
+    "lastfor2": "Nottinghamshire",
+    "lastagainst2": "Sussex",
+    "source": "https://cricketarchive.com/Archive/Players/8/8185/8185.html CricketArchive ",
+    "FC": {
+        "matches": "22",
+        "runs": "849",
+        "bat avg": "29.27",
+        "100s/50s": "1/4",
+        "catches/stumpings": "57/5"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "321",
+        "bat avg": "11.06",
+        "100s/50s": "0/1",
+        "top score": "58",
+        "catches/stumpings": "29/7"
+    },
+    "T20": {
+        "matches": "11",
+        "runs": "36",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "6/0"
+    },
+    "clubs": {
+        "Middlesex": "1999\u20132003",
+        "Nottinghamshire": "2004\u20132006"
+    },
+    "birth_date": "1976-4-17"
+}

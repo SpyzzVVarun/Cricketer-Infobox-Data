@@ -1,0 +1,55 @@
+{
+    "name": "Ravi Kiran",
+    "country": "India",
+    "fullname": "Majeti Ravi Kiran",
+    "birth_place": "Hyderabad, Telangana, India",
+    "batting": "Right handed",
+    "bowling": "Right arm Right arm medium",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/556514.html Cricinfo ",
+    "FC": {
+        "matches": "46",
+        "runs": "168",
+        "bat avg": "5.09",
+        "100s/50s": "0/0",
+        "top score": "19",
+        "deliveries": "8,319",
+        "wickets": "149",
+        "bowl avg": "25.83",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/53",
+        "catches/stumpings": "13/\u2013"
+    },
+    "LA": {
+        "matches": "39",
+        "runs": "88",
+        "bat avg": "7.33",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "1,908",
+        "wickets": "57",
+        "bowl avg": "28.57",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/53",
+        "catches/stumpings": "5/\u2013"
+    },
+    "T20": {
+        "matches": "31",
+        "runs": "14",
+        "bat avg": "7.00",
+        "100s/50s": "0/0",
+        "deliveries": "684",
+        "wickets": "34",
+        "bowl avg": "24.32",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/23",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Hyderabad": "2012-present"
+    },
+    "birth_date": "1991-2-1"
+}

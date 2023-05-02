@@ -1,0 +1,40 @@
+{
+    "name": "Vincent Valentine",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "country": "West Indies",
+    "testdebutagainst": "England",
+    "testdebutdate": "22 July",
+    "testdebutyear": "1933",
+    "lasttestdate": "12 August",
+    "lasttestagainst": "England",
+    "lasttestyear": "1933",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/53197.html CricInfo",
+    "Test": {
+        "matches": "2",
+        "runs": "35",
+        "bat avg": "11.66",
+        "100s/50s": "0/0",
+        "deliveries": "288",
+        "wickets": "1",
+        "bowl avg": "104.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/55",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "24",
+        "runs": "500",
+        "bat avg": "17.85",
+        "100s/50s": "0/1",
+        "deliveries": "4,604",
+        "wickets": "49",
+        "bowl avg": "40.40",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/83",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {}
+}

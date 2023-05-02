@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Thomas Babington Jones",
+    "birth_place": "Maesteg, Glamorgan, , Wales",
+    "death_date": "1890",
+    "death_place": "Brislington, Somerset, , England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15738.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "146",
+        "bat avg": "16.22",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "40",
+        "deliveries": "706",
+        "wickets": "19",
+        "bowl avg": "14.05",
+        "fivefor": "1",
+        "tenfor": "1",
+        "best bowling": "6/26",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Oxford University": "1874"
+    },
+    "birth_date": "1851-1-20"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "David Pettit",
+    "country": "England",
+    "fullname": "David William Pettit",
+    "birth_place": "Canterbury, Kent, England",
+    "death_date": "df=yes",
+    "death_place": "Greta West, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/18916.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "22",
+        "deliveries": "570",
+        "wickets": "6",
+        "bowl avg": "72.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/51",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1958\u20131959"
+    }
+}

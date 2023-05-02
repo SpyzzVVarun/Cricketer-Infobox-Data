@@ -1,0 +1,29 @@
+{
+    "name": "Gilly Reay",
+    "country": "England",
+    "fullname": "Gilbert Martin Reay",
+    "birth_place": "Wallington, Surrey, England",
+    "death_date": "1967",
+    "death_place": "Croydon, Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "https://www.espncricinfo.com/england/content/player/19618.html Cricinfo",
+    "First-class": {
+        "matches": "29",
+        "runs": "423",
+        "bat avg": "13.21",
+        "100s/50s": "0/1",
+        "top score": "54",
+        "deliveries": "Unknown",
+        "wickets": "91",
+        "bowl avg": "21.54",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "5/22",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1913 to 1923"
+    },
+    "birth_date": "1887-01-24"
+}

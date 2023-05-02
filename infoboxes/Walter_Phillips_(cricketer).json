@@ -1,0 +1,29 @@
+{
+    "name": "Walter Phillips",
+    "birth_place": "West Malling, Kent",
+    "death_date": "df=yes",
+    "death_place": "Mereworth, Kent",
+    "batting": "Right-handed",
+    "type1": "FC",
+    "debutdate1": "28 May",
+    "debutyear1": "1903",
+    "debutfor1": "Kent",
+    "debutagainst1": "MCC",
+    "lastdate1": "27 June",
+    "lastyear1": "1912",
+    "lastfor1": "HDG Leveson's XI",
+    "lastagainst1": "Cambridge University",
+    "source": "https://www.espncricinfo.com/player/walter-phillips-18932 CricInfo",
+    "First-class": {
+        "matches": "2",
+        "runs": "83",
+        "bat avg": "20.75",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Kent": "1903"
+    },
+    "birth_date": "1881-04-01"
+}

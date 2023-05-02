@@ -1,0 +1,49 @@
+{
+    "name": "Ted Tyler",
+    "country": "England",
+    "fullname": "Edwin James Tyler",
+    "birth_place": "Kidderminster, England",
+    "death_date": "1917",
+    "death_place": "Taunton, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "onetest": "true",
+    "testdebutdate": "21 March",
+    "testdebutyear": "1896",
+    "testdebutagainst": "South Africa",
+    "testcap": "103",
+    "source": "https://cricketarchive.com/Archive/Players/0/208/208.html CricketArchive ",
+    "Test": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "145",
+        "wickets": "4",
+        "bowl avg": "16.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/49",
+        "catches/stumpings": "0/\u2013"
+    },
+    "First-class": {
+        "matches": "185",
+        "runs": "2,952",
+        "bat avg": "11.44",
+        "100s/50s": "0/6",
+        "top score": "66",
+        "deliveries": "39,291",
+        "wickets": "895",
+        "bowl avg": "22.09",
+        "fivefor": "77",
+        "tenfor": "22",
+        "best bowling": "10/49",
+        "catches/stumpings": "119/\u2013"
+    },
+    "clubs": {
+        "Cr team Somerset": "1891\u20131907"
+    },
+    "birth_date": "1864-10-13"
+}

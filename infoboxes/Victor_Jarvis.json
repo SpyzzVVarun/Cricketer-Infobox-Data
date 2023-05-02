@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Victor Edmund Jarvis",
+    "birth_place": "Hampstead, London, England",
+    "death_date": "1975",
+    "death_place": "Stokenchurch, Buckinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/15486.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "44",
+        "bat avg": "11.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "37",
+        "deliveries": "36",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Essex": "1925"
+    },
+    "birth_date": "1898-9-30"
+}

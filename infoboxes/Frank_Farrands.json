@@ -1,0 +1,29 @@
+{
+    "name": "Frank Farrands",
+    "country": "England",
+    "fullname": "Frank Henry Farrands",
+    "birth_place": "Sutton-in-Ashfield, Nottinghamshire, England",
+    "death_date": "22 September 1916 (aged 81)",
+    "death_place": "Sutton-in-Ashfield, Nottinghamshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast Right-arm fast (roundarm)",
+    "source": "https://www.espncricinfo.com/player/frank-farrands-13002 Cricinfo  ",
+    "First-class": {
+        "matches": "30",
+        "runs": "212",
+        "bat avg": "6.23",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "5172",
+        "wickets": "128",
+        "bowl avg": "15.03",
+        "fivefor": "12",
+        "tenfor": "4",
+        "best bowling": "6/23",
+        "catches/stumpings": "13/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1868\u20131880",
+        "Nottinghamshire": "1871"
+    }
+}

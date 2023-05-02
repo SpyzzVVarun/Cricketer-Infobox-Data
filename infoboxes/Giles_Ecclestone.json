@@ -1,0 +1,30 @@
+{
+    "country": "England",
+    "fullname": "Giles William Ecclestone",
+    "birth_place": "Lambeth, London, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Simon Ecclestone (brother)",
+    "source": "http://www.cricinfo.com/ci/content/player/12478.html Cricinfo ",
+    "LA": {
+        "matches": "13",
+        "runs": "270",
+        "bat avg": "20.76",
+        "100s/50s": "\u2013/2",
+        "top score": "92",
+        "deliveries": "180",
+        "wickets": "4",
+        "bowl avg": "39.25",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/43",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Cambridgeshire": "1989\u20131997",
+        "Essex Cricket Board": "1999\u20132001",
+        "Minor Counties": "1997",
+        "Natal Country Districts": "1992/1993"
+    },
+    "birth_date": "1968-10-17"
+}

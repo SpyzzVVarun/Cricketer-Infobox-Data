@@ -1,0 +1,23 @@
+{
+    "name": "Elliott Wilson",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/22470.html Cricinfo",
+    "First-class": {
+        "matches": "31",
+        "runs": "1,416",
+        "bat avg": "26.22",
+        "100s/50s": "3/7",
+        "top score": "116",
+        "catches/stumpings": "18/\u2013"
+    },
+    "List A": {
+        "matches": "33",
+        "runs": "526",
+        "bat avg": "19.48",
+        "100s/50s": "0/3",
+        "top score": "62",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {}
+}

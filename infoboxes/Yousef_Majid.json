@@ -1,0 +1,30 @@
+{
+    "name": "Yousef Majid",
+    "fullname": "Yousef Majid",
+    "birth_place": "Slough, Berkshire, England",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "type1": "List A",
+    "debutdate1": "2 August",
+    "debutyear1": "2022",
+    "debutfor1": "Surrey",
+    "debutagainst1": "Surrey",
+    "source": "https://www.espncricinfo.com/player/yousef-majid-1262578 ESPNcricinfo  ",
+    "List A": {
+        "matches": "8",
+        "runs": "10",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "deliveries": "336",
+        "wickets": "9",
+        "bowl avg": "34.66",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/74",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Surrey( 68 )": "2022"
+    },
+    "birth_date": "2003-9-8"
+}

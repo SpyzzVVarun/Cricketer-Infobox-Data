@@ -1,0 +1,38 @@
+{
+    "name": "Rajat Patidar",
+    "fullname": "Rajat Manohar Patidar",
+    "birth_place": "Indore, Madhya Pradesh, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "Batsman",
+    "source": "https://www.espncricinfo.com/cricketers/rajat-patidar-823703 ",
+    "FC": {
+        "matches": "52",
+        "runs": "3795",
+        "bat avg": "45.72",
+        "100s/50s": "11/22",
+        "top score": "196",
+        "catches/stumpings": "74/\u2013"
+    },
+    "LA": {
+        "matches": "51",
+        "runs": "1648",
+        "bat avg": "34.33",
+        "100s/50s": "3/8",
+        "top score": "158",
+        "catches/stumpings": "22/-"
+    },
+    "T20": {
+        "matches": "45",
+        "runs": "1466",
+        "bat avg": "37.58",
+        "100s/50s": "1/12",
+        "catches/stumpings": "24/-"
+    },
+    "clubs": {
+        "Madhya Pradesh": "2015\u2013present",
+        "Royal Challengers Bangalore": "2021\u2013present",
+        "India A": ""
+    },
+    "birth_date": "1993-6-1"
+}

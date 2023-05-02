@@ -1,0 +1,23 @@
+{
+    "module": "child=yes   |embed=yes",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm underarm",
+    "source": "id=20308   ",
+    "First-class": {
+        "matches": "13",
+        "runs": "581",
+        "bat avg": "31.40",
+        "100s/50s": "1/3",
+        "deliveries": "15",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1884\u20131899",
+        "Marylebone Cricket Club": "1886\u20131888"
+    }
+}

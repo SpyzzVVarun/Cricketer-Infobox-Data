@@ -1,0 +1,41 @@
+{
+    "name": "Brian Edmeades",
+    "country": "England",
+    "fullname": "Brian Ernest Arthur Edmeades",
+    "birth_place": "Matlock, Derbyshire",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All rounder",
+    "source": "http://www.espncricinfo.com//ci/content/player/12484.html CricInfo ",
+    "FC": {
+        "matches": "335",
+        "runs": "12593",
+        "bat avg": "25.91",
+        "100s/50s": "14/61",
+        "top score": "163",
+        "deliveries": "9688",
+        "wickets": "374",
+        "bowl avg": "25.90",
+        "fivefor": "10",
+        "tenfor": "1",
+        "best bowling": "7/37",
+        "catches/stumpings": "105/0"
+    },
+    "List-A": {
+        "matches": "155",
+        "runs": "2728",
+        "bat avg": "23.72",
+        "100s/50s": "1/13",
+        "deliveries": "3818",
+        "wickets": "167",
+        "bowl avg": "22.86",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/22",
+        "catches/stumpings": "22/0"
+    },
+    "clubs": {
+        "Essex": "1961\u20131976"
+    },
+    "birth_date": "1941-9-17"
+}

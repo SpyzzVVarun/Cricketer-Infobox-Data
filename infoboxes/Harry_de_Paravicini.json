@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Harry Farquhar de Paravicini",
+    "birth_place": "Kensington, Middlesex, England",
+    "death_date": "df=yes",
+    "death_place": "Hove, Sussex, England",
+    "family": "Percy de Paravicini (brother)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/12116.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "64",
+        "bat avg": "10.66",
+        "100s/50s": "\u2013/\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1882&ndash;1885"
+    }
+}

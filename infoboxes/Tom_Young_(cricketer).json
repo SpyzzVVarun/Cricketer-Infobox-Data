@@ -1,0 +1,38 @@
+{
+    "name": "Tom Young",
+    "fullname": "Archibald Young",
+    "birth_place": "Bathwick, Bath, Somerset, England",
+    "death_date": "1936",
+    "death_place": "Odd Down, Bath, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-spin",
+    "role": "All-rounder",
+    "type1": "FC",
+    "debutdate1": "24 August",
+    "debutyear1": "1911",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Worcestershire",
+    "lastdate1": "1 September",
+    "lastyear1": "1933",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3912/3912.html CricketArchive ",
+    "First-class": {
+        "matches": "312",
+        "runs": "13,159",
+        "bat avg": "25.45",
+        "100s/50s": "11/63",
+        "top score": "198",
+        "deliveries": "25,905",
+        "wickets": "388",
+        "bowl avg": "25.58",
+        "fivefor": "9",
+        "tenfor": "2",
+        "best bowling": "8/30",
+        "catches/stumpings": "216/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1911\u20131933"
+    },
+    "birth_date": "1890-11-6"
+}

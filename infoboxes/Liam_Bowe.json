@@ -1,0 +1,26 @@
+{
+    "name": "Liam Bowe",
+    "fullname": "Liam Bowe",
+    "nickname": "The Wizard, Harry Potter",
+    "bowling": "Left-arm unorthodox Left-arm unorthodox spin",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/ci/content/player/1076852.html Cricinfo",
+    "T20": {
+        "matches": "9",
+        "runs": "2",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "deliveries": "162",
+        "wickets": "8",
+        "bowl avg": "30.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/30",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Melbourne Stars": "2016/17\u20132019",
+        "Sydney Thunder": "2020-present"
+    },
+    "birth_date": "1997-09-23"
+}

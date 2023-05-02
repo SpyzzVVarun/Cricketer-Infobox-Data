@@ -1,0 +1,29 @@
+{
+    "name": "John Hellard",
+    "country": "England",
+    "fullname": "John Alexander Hellard",
+    "birth_place": "Stogumber, Somerset, England",
+    "death_date": "1916",
+    "death_place": "near Beaumont-Hamel, France",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/england/content/player/14151.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "18",
+        "bat avg": "6,00",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "15",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;/&ndash;",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1907\u20131910"
+    },
+    "birth_date": "1882-3-20"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Douglas Henry Henson",
+    "birth_place": "Shrewsbury, Shropshire, England",
+    "death_date": "2003",
+    "death_place": "Stoke-on-Trent, Staffordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/15129.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "49",
+        "bat avg": "24.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "28",
+        "deliveries": "177",
+        "wickets": "4",
+        "bowl avg": "16.75",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/16",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1963&ndash;1973"
+    },
+    "birth_date": "1930-5-27"
+}

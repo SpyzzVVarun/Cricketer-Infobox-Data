@@ -1,0 +1,21 @@
+{
+    "name": "Graeme Morris",
+    "country": "England",
+    "fullname": "Graeme Reginald Morris",
+    "birth_place": "Newcastle upon Tyne, Northumberland, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/17232.html Cricinfo ",
+    "List A": {
+        "matches": "3",
+        "runs": "76",
+        "bat avg": "38.00",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Northumberland": "1982\u20131997"
+    },
+    "birth_date": "1963-2-5"
+}

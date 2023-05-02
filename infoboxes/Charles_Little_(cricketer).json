@@ -1,0 +1,32 @@
+{
+    "name": "Charles Little",
+    "fullname": "Charles William Little",
+    "birth_place": "Tonbridge, Kent",
+    "death_date": "1922",
+    "death_place": "Southgate Hill, Winchester, Hampshire",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "type1": "FC",
+    "debutdate1": "29 May",
+    "debutyear1": "1890",
+    "debutfor1": "Oxford University",
+    "debutagainst1": "MCC",
+    "lastdate1": "31 July",
+    "lastyear1": "1893",
+    "lastfor1": "Kent",
+    "lastagainst1": "Yorkshire",
+    "source": "http://www.espncricinfo.com/ci/content/player/16604.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "160",
+        "bat avg": "10.66",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "catches/stumpings": "16/2"
+    },
+    "clubs": {
+        "Oxford University": "1890\u20131892",
+        "Kent": "1893"
+    },
+    "birth_date": "1870-5-22"
+}

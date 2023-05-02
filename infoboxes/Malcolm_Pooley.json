@@ -1,0 +1,41 @@
+{
+    "name": "Malcolm Pooley",
+    "fullname": "Malcolm William Pooley",
+    "birth_place": "Truro, Cornwall, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "role": "Bowler",
+    "source": "http://www.espncricinfo.com/england/content/player/18683.html Cricinfo ",
+    "FC": {
+        "matches": "12",
+        "runs": "155",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "1078",
+        "wickets": "15",
+        "bowl avg": "37.60",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/80",
+        "catches/stumpings": "4/0"
+    },
+    "List A": {
+        "matches": "24",
+        "runs": "8",
+        "bat avg": "10.00",
+        "100s/50s": "0/0",
+        "top score": "8",
+        "deliveries": "983",
+        "wickets": "24",
+        "bowl avg": "29.16",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/37",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Gloucestershire": "1988\u20131990"
+    },
+    "birth_date": "1969-7-27"
+}

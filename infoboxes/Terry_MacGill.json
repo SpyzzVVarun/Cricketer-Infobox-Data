@@ -1,0 +1,52 @@
+{
+    "name": "Terry MacGill",
+    "country": "Australia",
+    "fullname": "Terry Mornington David MacGill",
+    "birth_place": "Brunswick, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg spin",
+    "role": "Bowler",
+    "family": "CWT MacGill (father), SCG MacGill (son)",
+    "type1": "First-class",
+    "debutdate1": "27 Dec",
+    "debutyear1": "1968",
+    "debutfor1": "Western Australia",
+    "debutagainst1": "South Australia",
+    "lastdate1": "1 Dec",
+    "lastyear1": "1972",
+    "lastfor1": "Western Australia",
+    "lastagainst1": "New South Wales",
+    "source": "http://www.espncricinfo.com/ci/content/player/6442.html cricinfo.com ",
+    "F/C": {
+        "matches": "12",
+        "runs": "210",
+        "bat avg": "15.00",
+        "100s/50s": "0/0",
+        "top score": "34",
+        "deliveries": "2,104",
+        "wickets": "23",
+        "bowl avg": "40.04",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/94",
+        "catches/stumpings": "7/-"
+    },
+    "LA": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "13",
+        "deliveries": "n/a",
+        "wickets": "n/a",
+        "bowl avg": "n/a",
+        "fivefor": "n/a",
+        "tenfor": "n/a",
+        "best bowling": "n/a",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {
+        "Western Australia": "1968\u201372"
+    },
+    "birth_date": "1945-12-22"
+}

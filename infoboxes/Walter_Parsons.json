@@ -1,0 +1,35 @@
+{
+    "name": "Walter Parsons",
+    "country": "England",
+    "fullname": "Walter Dyett Parsons",
+    "birth_place": "Southampton, Hampshire, England",
+    "death_date": "1939",
+    "death_place": "East Wellow, Hampshire, England",
+    "type1": "First-class",
+    "debutdate1": "29 May",
+    "debutyear1": "1882",
+    "debutfor1": "Hampshire",
+    "debutagainst1": "Sussex",
+    "lastdate1": "8 August",
+    "lastyear1": "1882",
+    "lastfor1": "Hampshire",
+    "lastagainst1": "Somerset",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/6/6791/6791.html CricketArchive ",
+    "First-class": {
+        "matches": "2",
+        "runs": "31",
+        "bat avg": "15.50",
+        "100s/50s": "0/0",
+        "deliveries": "124",
+        "wickets": "1",
+        "bowl avg": "72.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/23",
+        "catches/stumpings": "1/0"
+    },
+    "clubs": {
+        "Hampshire": "1882"
+    },
+    "birth_date": "1861-6-26"
+}

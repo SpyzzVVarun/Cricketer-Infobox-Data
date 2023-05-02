@@ -1,0 +1,61 @@
+{
+    "name": "Michael Klinger",
+    "fullname": "Michael Klinger",
+    "birth_place": "Kew, Victoria, Australia",
+    "nickname": "Maxy",
+    "heightm": "1.79",
+    "batting": "Right-handed",
+    "role": "Opening batsman",
+    "country": "Australia",
+    "T20Idebutdate": "17 February",
+    "T20Idebutyear": "2017",
+    "T20Idebutagainst": "Sri Lanka",
+    "T20Icap": "84",
+    "lastT20Idate": "22 February",
+    "lastT20Iyear": "2017",
+    "lastT20Iagainst": "Sri Lanka",
+    "T20Ishirt": "52",
+    "source": "http://www.espncricinfo.com/ci/content/player/6161.html ESPNcricinfo",
+    "T20I": {
+        "matches": "3",
+        "runs": "143",
+        "bat avg": "47.66",
+        "100s/50s": "0/1",
+        "top score": "62",
+        "catches/stumpings": "2/\u2013"
+    },
+    "FC": {
+        "matches": "182",
+        "runs": "11,320",
+        "bat avg": "39.30",
+        "100s/50s": "30/49",
+        "top score": "255",
+        "catches/stumpings": "178/\u2013"
+    },
+    "LA": {
+        "matches": "177",
+        "runs": "7,449",
+        "bat avg": "49.33",
+        "100s/50s": "18/44",
+        "catches/stumpings": "72/\u2013"
+    },
+    "T20": {
+        "matches": "206",
+        "runs": "5,960",
+        "bat avg": "34.45",
+        "100s/50s": "8/33",
+        "catches/stumpings": "83/\u2013"
+    },
+    "clubs": {
+        "Victoria": "1999/00\u20132007/08",
+        "South Australia": "2008/09\u20132013/14",
+        "Kochi Tuskers Kerala": "2011",
+        "Adelaide Strikers( 18 )": "2011/12\u20132013/14",
+        "Worcestershire( 2 )": "2012",
+        "Gloucestershire( 2 )": "2013\u20132019",
+        "Western Australia( 7 )": "2014/15\u20132017/18",
+        "Perth Scorchers( 7 )": "2014/15\u20132018/19",
+        "Khulna Titans": "2017"
+    },
+    "birth_date": "1980-7-4"
+}

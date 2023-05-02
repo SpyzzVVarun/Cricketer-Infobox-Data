@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Devon Malcolm Endersby",
+    "birth_place": "East London, Cape Province, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/england/content/player/456581.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "107",
+        "bat avg": "11.88",
+        "100s/50s": "\u2013/1",
+        "top score": "53",
+        "deliveries": "414",
+        "wickets": "4",
+        "bowl avg": "72.75",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/38",
+        "catches/stumpings": "1/\u2013"
+    },
+    "List A": {
+        "matches": "6",
+        "runs": "50",
+        "bat avg": "12.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "21",
+        "deliveries": "156",
+        "wickets": "1",
+        "bowl avg": "212.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/53",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Loughborough MCCU": "2012&ndash;2014",
+        "Unicorns": "2013"
+    },
+    "birth_date": "1992-5-12"
+}

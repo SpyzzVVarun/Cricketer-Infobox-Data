@@ -1,0 +1,59 @@
+{
+    "name": "Anna Smith",
+    "female": "true",
+    "country": "New Zealand",
+    "fullname": "Anna Michelle Smith",
+    "birth_place": "Dunedin, New Zealand",
+    "batting": "Right-handed",
+    "role": "Batter",
+    "internationalspan": "1996\u20132002",
+    "onetest": "true",
+    "testdebutdate": "4 July",
+    "testdebutyear": "1996",
+    "testdebutagainst": "England",
+    "testcap": "112",
+    "odidebutdate": "13 February",
+    "odidebutyear": "1999",
+    "odidebutagainst": "South Africa",
+    "odicap": "75",
+    "lastodidate": "21 February",
+    "lastodiyear": "2002",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/7/7576/7576.html CricketArchive ",
+    "WTest": {
+        "matches": "1",
+        "runs": "27",
+        "bat avg": "27.00",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WODI": {
+        "matches": "19",
+        "runs": "497",
+        "bat avg": "33.13",
+        "100s/50s": "0/3",
+        "catches/stumpings": "3/\u2013"
+    },
+    "WFC": {
+        "matches": "13",
+        "runs": "522",
+        "bat avg": "26.10",
+        "100s/50s": "2/2",
+        "top score": "109",
+        "catches/stumpings": "6/\u2013"
+    },
+    "WLA": {
+        "matches": "118",
+        "runs": "3,155",
+        "bat avg": "31.23",
+        "100s/50s": "3/18",
+        "top score": "104",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Wellington": "1994/95\u20132006/07",
+        "Staffordshire": "2002"
+    },
+    "birth_date": "1978-5-12"
+}

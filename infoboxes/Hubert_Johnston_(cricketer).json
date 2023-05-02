@@ -1,0 +1,20 @@
+{
+    "country": "Scotland",
+    "fullname": "Robert Herbert Johnston",
+    "birth_place": "Edinburgh, Midlothian, Scotland",
+    "death_date": "1910",
+    "death_place": "Edinburgh, Midlothian, Scotland",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/robert-johnston-25246 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "13",
+        "bat avg": "6.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1905"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Dirk Viljoen",
+    "country": "Zimbabwe",
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/55825.html Cricinfo  ",
+    "Tests": {
+        "matches": "2",
+        "runs": "57",
+        "bat avg": "14.25",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "105",
+        "wickets": "1",
+        "bowl avg": "65.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/14",
+        "catches/stumpings": "1/\u2013"
+    },
+    "ODIs": {
+        "matches": "53",
+        "runs": "512",
+        "bat avg": "14.22",
+        "100s/50s": "0/2",
+        "deliveries": "2,075",
+        "wickets": "44",
+        "bowl avg": "37.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/20",
+        "catches/stumpings": "18/\u2013"
+    },
+    "clubs": {}
+}

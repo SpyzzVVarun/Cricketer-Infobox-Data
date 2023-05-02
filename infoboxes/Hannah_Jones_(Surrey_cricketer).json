@@ -1,0 +1,43 @@
+{
+    "name": "Hannah Jones",
+    "female": "true",
+    "fullname": "Hannah Violet Jones",
+    "birth_place": "Surrey, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/870/870885/870885.html CricketArchive",
+    "WLA": {
+        "matches": "54",
+        "runs": "621",
+        "bat avg": "13.80",
+        "100s/50s": "0/0",
+        "deliveries": "1,718",
+        "wickets": "54",
+        "bowl avg": "22.09",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/31",
+        "catches/stumpings": "26/\u2013"
+    },
+    "WT20": {
+        "matches": "59",
+        "runs": "527",
+        "bat avg": "14.24",
+        "100s/50s": "0/1",
+        "top score": "50",
+        "deliveries": "843",
+        "wickets": "45",
+        "bowl avg": "18.48",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/8",
+        "catches/stumpings": "7/\u2013"
+    },
+    "clubs": {
+        "Surrey": "2012\u20132021",
+        "Surrey Stars": "2017\u20132019",
+        "South East Stars": "2020\u20132021"
+    },
+    "birth_date": "1999-7-21"
+}

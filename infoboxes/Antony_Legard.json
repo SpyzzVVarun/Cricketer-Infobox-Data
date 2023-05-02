@@ -1,0 +1,42 @@
+{
+    "name": "Antony Legard",
+    "country": "England",
+    "fullname": "Antony Ronald Legard",
+    "nickname": "Loopy",
+    "birth_place": "Sialkot, Punjab, British India",
+    "death_date": "2004",
+    "death_place": "Kelsall, Cheshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "11 May",
+    "debutyear1": "1932",
+    "debutfor1": "Oxford Univ.",
+    "debutagainst1": "Leicestershire",
+    "lastdate1": "9 September",
+    "lastyear1": "1952",
+    "lastfor1": "MCC",
+    "lastagainst1": "Ireland",
+    "source": "http://cricketarchive.co.uk/Archive/Players/13/13920/13920.html CricketArchive ",
+    "First-class": {
+        "matches": "36",
+        "runs": "234",
+        "bat avg": "5.57",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "6,206",
+        "wickets": "93",
+        "bowl avg": "30.03",
+        "fivefor": "3",
+        "tenfor": "0",
+        "best bowling": "7/36",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Oxford University": "1932\u20131935",
+        "Worcestershire": "1935",
+        "Europeans": "1943/44",
+        "MCC": "1952"
+    },
+    "birth_date": "1912-1-17"
+}

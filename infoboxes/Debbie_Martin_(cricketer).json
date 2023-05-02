@@ -1,0 +1,26 @@
+{
+    "name": "Debbie Martin",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Deborah Leila Martin",
+    "birth_place": "Sydney",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://www.espncricinfo.com/australia/content/player/53533.html ESPNcricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "73",
+        "bat avg": "18.25",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "16",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1955-2-23"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Derrin Bassage",
+    "country": "South Africa",
+    "fullname": "Derrin James Bassage",
+    "birth_place": "Pietermaritzburg, Natal, South Africa",
+    "batting": "Left-handed",
+    "role": "Occasional wicket-keeper",
+    "type1": "First-class",
+    "debutdate1": "31 October",
+    "debutyear1": "2003",
+    "debutfor1": "Western Province",
+    "debutagainst1": "North West",
+    "lastdate1": "1 March",
+    "lastyear1": "2007",
+    "lastfor1": "Western Province",
+    "lastagainst1": "Eastern Province",
+    "type2": "List A",
+    "debutdate2": "24 October",
+    "debutyear2": "2004",
+    "debutfor2": "Western Province",
+    "debutagainst2": "Eastern Province",
+    "lastdate2": "18 February",
+    "lastyear2": "2007",
+    "lastfor2": "Western Province",
+    "lastagainst2": "Boland",
+    "source": "https://cricketarchive.com/Archive/Players/45/45523/45523.html CricketArchive ",
+    "FC": {
+        "matches": "36",
+        "runs": "1,828",
+        "bat avg": "30.98",
+        "100s/50s": "3/9",
+        "catches/stumpings": "34/1"
+    },
+    "LA": {
+        "matches": "15",
+        "runs": "362",
+        "bat avg": "24.13",
+        "100s/50s": "0/3",
+        "top score": "81",
+        "catches/stumpings": "8/0"
+    },
+    "T20": {
+        "matches": "4",
+        "runs": "48",
+        "bat avg": "12.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Western Province": "2003\u20132007",
+        "Cape Cobras": "2005\u20132007"
+    },
+    "birth_date": "1978-12-4"
+}

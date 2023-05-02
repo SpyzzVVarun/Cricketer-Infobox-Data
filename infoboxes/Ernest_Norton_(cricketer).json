@@ -1,0 +1,20 @@
+{
+    "name": "Ernest Norton",
+    "batting": "Right-handed",
+    "bowling": "Leg-break Leg-break googly",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/18166.html Cricinfo",
+    "First-class": {
+        "matches": "8",
+        "runs": "108",
+        "bat avg": "15.42",
+        "100s/50s": "0/0",
+        "deliveries": "576",
+        "wickets": "71",
+        "bowl avg": "51.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/74",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

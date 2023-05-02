@@ -1,0 +1,23 @@
+{
+    "country": "Uganda",
+    "fullname": "Peter de Souza",
+    "birth_place": "Karachi, Bombay, British India",
+    "batting": "Unknown",
+    "bowling": "Leg break Leg break googly",
+    "source": "https://www.espncricinfo.com/player/peter-de-souza-23980 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "31",
+        "bat avg": "31.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "16",
+        "deliveries": "60",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

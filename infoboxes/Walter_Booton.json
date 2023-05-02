@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Walter Thomas Booton",
+    "birth_place": "Kidderminster, Worcestershire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/24323.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "12",
+        "deliveries": "96",
+        "wickets": "2",
+        "bowl avg": "36.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/72",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1970"
+    },
+    "birth_date": "1941-1-13"
+}

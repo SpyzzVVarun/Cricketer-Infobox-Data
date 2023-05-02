@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Arthur Richard Harrie Skey",
+    "birth_place": "Lucknow, North-Western Provinces, British India",
+    "death_date": "df=yes",
+    "death_place": "Gosport, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/20791.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "4",
+        "deliveries": "234",
+        "wickets": "6",
+        "bowl avg": "19.50",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "5/27",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {}
+}

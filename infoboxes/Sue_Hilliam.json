@@ -1,0 +1,62 @@
+{
+    "name": "Sue Hilliam",
+    "female": "true",
+    "country": "England",
+    "fullname": "Susan Hilliam",
+    "birth_place": "Yorkshire, England",
+    "role": "Bowler",
+    "internationalspan": "1973",
+    "odidebutdate": "23 June",
+    "odidebutyear": "1973",
+    "odidebutagainst": "International XI",
+    "odicap": "5",
+    "lastodidate": "28 July",
+    "lastodiyear": "1973",
+    "lastodiagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/17/17026/17026.html CricketArchive ",
+    "WODI": {
+        "matches": "4",
+        "runs": "1",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "173",
+        "wickets": "6",
+        "bowl avg": "12.66",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/6",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WFC": {
+        "matches": "7",
+        "runs": "105",
+        "bat avg": "13.12",
+        "100s/50s": "0/0",
+        "top score": "23",
+        "deliveries": "672",
+        "wickets": "8",
+        "bowl avg": "28.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/15",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WLA": {
+        "matches": "9",
+        "runs": "89",
+        "bat avg": "22.25",
+        "100s/50s": "0/0",
+        "top score": "41",
+        "deliveries": "413",
+        "wickets": "12",
+        "bowl avg": "13.16",
+        "fivefor": "0",
+        "tenfor": "\u2013",
+        "best bowling": "3/6",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Yorkshire": "1963\u20131980"
+    },
+    "birth_date": "1941-"
+}

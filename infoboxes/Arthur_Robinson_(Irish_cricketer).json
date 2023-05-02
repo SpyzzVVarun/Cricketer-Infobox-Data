@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "Arthur Joseph Herbert Robinson",
+    "birth_place": "Rathmines, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Monkstown, Leinster, Ireland",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24507.html Cricinfo ",
+    "First-class": {
+        "matches": "7",
+        "runs": "155",
+        "bat avg": "12.91",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "32",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1924&ndash;1929",
+        "Dublin University": "1924"
+    }
+}

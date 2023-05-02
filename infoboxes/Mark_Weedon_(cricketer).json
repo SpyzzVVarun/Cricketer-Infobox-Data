@@ -1,0 +1,28 @@
+{
+    "name": "Mark Weedon",
+    "country": "England",
+    "fullname": "Mark John Hayley Weedon",
+    "birth_place": "Singapore",
+    "family": "Hayley Mills (cousin) Juliet Mills (cousin)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-pace",
+    "source": "http://www.espncricinfo.com/england/content/player/22828.html Cricinfo ",
+    "First-class": {
+        "matches": "17",
+        "runs": "164",
+        "bat avg": "12.61",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "deliveries": "3221",
+        "wickets": "45",
+        "bowl avg": "35.64",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/67",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1961\u20131962"
+    },
+    "birth_date": "1940-10-28"
+}

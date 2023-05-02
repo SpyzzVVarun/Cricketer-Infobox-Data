@@ -1,0 +1,40 @@
+{
+    "name": "Thomas Francis",
+    "country": "South Africa",
+    "fullname": "Thomas Egerton Seymour Francis",
+    "birth_place": "Uitenhage, Cape Province, South Africa",
+    "death_date": "1969",
+    "death_place": "Bulawayo, Zimbabwe",
+    "batting": "Right-handed",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "3 August",
+    "debutyear1": "1921",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Glamorgan",
+    "lastdate1": "9 January",
+    "lastyear1": "1928",
+    "lastfor1": "Eastern Province",
+    "lastagainst1": "MCC",
+    "source": "https://cricketarchive.com/Archive/Players/3/3556/3556.html CricketArchive ",
+    "First-class": {
+        "matches": "34",
+        "runs": "804",
+        "bat avg": "15.46",
+        "100s/50s": "\u2013/5",
+        "top score": "79",
+        "deliveries": "180",
+        "wickets": "3",
+        "bowl avg": "67.33",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/100",
+        "catches/stumpings": "14/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1921\u201325",
+        "Cambridge University": "1923\u201325",
+        "Eastern Province": "1927/28"
+    },
+    "birth_date": "1902-11-21"
+}

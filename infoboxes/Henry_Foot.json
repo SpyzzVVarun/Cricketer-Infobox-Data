@@ -1,0 +1,32 @@
+{
+    "name": "Henry Foot",
+    "country": "Australia",
+    "fullname": "Henry Boorn Foot",
+    "birth_place": "Romsey, Hampshire, England",
+    "death_date": "1857",
+    "death_place": "Brighton, Victoria, Australia",
+    "type1": "First-class",
+    "onetype1": "true",
+    "debutdate1": "29 March",
+    "debutyear1": "1852",
+    "debutagainst1": "Tasmania",
+    "source": "https://cricketarchive.com/Archive/Players/16/16039/16039.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "22",
+        "bat avg": "11.00",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Victoria": "1851/52"
+    },
+    "birth_date": "1805-11-21"
+}

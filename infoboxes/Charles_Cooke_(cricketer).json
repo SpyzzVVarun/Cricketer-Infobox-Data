@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "Charles Russell Cooke",
+    "birth_place": "Chelsworth, Suffolk, England",
+    "death_date": "1892",
+    "death_place": "Semer, Suffolk, England",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/11670.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "61",
+        "bat avg": "6.77",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "23",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1858",
+        "Cambridgeshire": "1858"
+    }
+}

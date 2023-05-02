@@ -1,0 +1,29 @@
+{
+    "name": "Richard Court",
+    "country": "England",
+    "fullname": "Richard Charles Lucy Court",
+    "birth_place": "Ambala, Punjab, British India",
+    "death_date": "1974",
+    "death_place": "Southampton, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/10832.html Cricinfo ",
+    "First-class": {
+        "matches": "18",
+        "runs": "224",
+        "bat avg": "10.18",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "35",
+        "deliveries": "2,273",
+        "wickets": "33",
+        "bowl avg": "37.21",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "4/51",
+        "catches/stumpings": "8/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1937\u20131939"
+    },
+    "birth_date": "1916-10-23"
+}

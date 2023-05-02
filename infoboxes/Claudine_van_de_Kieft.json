@@ -1,0 +1,33 @@
+{
+    "name": "Claudine van de Kieft",
+    "female": "true",
+    "country": "Netherlands",
+    "fullname": "Claudine van de Kieft",
+    "birth_place": "Netherlands",
+    "role": "Bowler",
+    "internationalspan": "2001",
+    "odidebutdate": "11 April",
+    "odidebutyear": "2001",
+    "odidebutagainst": "Pakistan",
+    "odicap": "59",
+    "lastodidate": "18 April",
+    "lastodiyear": "2001",
+    "lastodiagainst": "Pakistan",
+    "source": "https://cricketarchive.com/Archive/Players/34/34418/34418.html CricketArchive",
+    "WODI": {
+        "matches": "5",
+        "runs": "3",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "174",
+        "wickets": "4",
+        "bowl avg": "25.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/21",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1972-7-14"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Bethan Miles",
+    "female": "true",
+    "fullname": "Bethan Jane Miles",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Bowler",
+    "source": "https://cricketarchive.com/Archive/Players/2068/2068930/2068930.html CricketArchive",
+    "WLA": {
+        "matches": "6",
+        "runs": "11",
+        "bat avg": "3.67",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "deliveries": "240",
+        "wickets": "8",
+        "bowl avg": "11.75",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/15",
+        "catches/stumpings": "0/\u2013"
+    },
+    "WT20": {
+        "matches": "29",
+        "runs": "215",
+        "bat avg": "15.35",
+        "100s/50s": "0/1",
+        "deliveries": "582",
+        "wickets": "30",
+        "bowl avg": "15.30",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/9",
+        "catches/stumpings": "9/\u2013"
+    },
+    "clubs": {
+        "Buckinghamshire": "2018\u2013present",
+        "Surrey": "2021\u2013present",
+        "South East Stars": "2022\u2013present"
+    },
+    "birth_date": "2003-11-25"
+}

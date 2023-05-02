@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Charles Turner",
+    "birth_place": "Gringley-on-the-Hill, Nottinghamshire, England",
+    "death_date": "1926",
+    "death_place": "Thatcham House, Thatcham, Berkshire, England",
+    "source": "http://www.espncricinfo.com/ci/content/player/21970.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "33",
+        "bat avg": "6.60",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "17",
+        "deliveries": "235",
+        "wickets": "3",
+        "bowl avg": "39.66",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/16",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Gloucestershire": "1886&ndash;1889"
+    },
+    "birth_date": "1862-3-11"
+}

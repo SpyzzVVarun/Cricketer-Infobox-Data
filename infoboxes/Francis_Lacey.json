@@ -1,0 +1,30 @@
+{
+    "name": "Francis Lacey",
+    "country": "England",
+    "fullname": "Francis Eden Lacey",
+    "birth_place": "Wareham, Dorset, England",
+    "death_date": "1946",
+    "death_place": "Sutton Veny, Wiltshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm slow",
+    "source": "https://www.espncricinfo.com/player/francis-lacey-16169 Cricinfo ",
+    "First-class": {
+        "matches": "50",
+        "runs": "2,589",
+        "bat avg": "32.77",
+        "100s/50s": "4/12",
+        "top score": "211",
+        "deliveries": "2,234",
+        "wickets": "52",
+        "bowl avg": "21.59",
+        "fivefor": "3",
+        "tenfor": "1",
+        "best bowling": "7/149",
+        "catches/stumpings": "34/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1880\u20131897",
+        "Cambridge University": "1882",
+        "Marylebone Cricket Club": "1887\u20131896"
+    }
+}

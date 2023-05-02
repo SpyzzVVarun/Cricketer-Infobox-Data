@@ -1,0 +1,34 @@
+{
+    "name": "Arthur Robinson",
+    "country": "England",
+    "fullname": "Arthur W. Robinson",
+    "birth_place": "Yorkshire, England",
+    "type1": "FC",
+    "debutdate1": "20 January",
+    "debutyear1": "1906",
+    "debutfor1": "Natal",
+    "debutagainst1": "MCC",
+    "lastdate1": "4 June",
+    "lastyear1": "1926",
+    "lastfor1": "Worcestershire",
+    "lastagainst1": "Leicestershire",
+    "source": "http://cricketarchive.co.uk/Archive/Players/14/14463/14463.html CricketArchive ",
+    "First-class": {
+        "matches": "7",
+        "runs": "99",
+        "bat avg": "8.25",
+        "100s/50s": "0/0",
+        "top score": "37",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "3/\u2013"
+    },
+    "clubs": {
+        "Natal": "1905/06",
+        "Worcestershire": "1920\u20131926"
+    }
+}

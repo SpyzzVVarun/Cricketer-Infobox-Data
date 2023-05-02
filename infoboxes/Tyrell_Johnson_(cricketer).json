@@ -1,0 +1,40 @@
+{
+    "name": "Tyrell Johnson",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast",
+    "onetest": "true",
+    "country": "West Indies",
+    "testdebutagainst": "England",
+    "testcap": "51",
+    "testdebutdate": "19 August",
+    "testdebutyear": "1939",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/52202.html CricInfo",
+    "Test": {
+        "matches": "1",
+        "runs": "9",
+        "bat avg": "\u2013",
+        "100s/50s": "0/0",
+        "deliveries": "240",
+        "wickets": "3",
+        "bowl avg": "43.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/53",
+        "catches/stumpings": "1/0"
+    },
+    "First-class": {
+        "matches": "18",
+        "runs": "90",
+        "bat avg": "9.00",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "2,846",
+        "wickets": "50",
+        "bowl avg": "21.50",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/41",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {}
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Ahad Khan",
+    "country": "Pakistan",
+    "fullname": "Abdul Ahad Khan",
+    "birth_place": "Lahore, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://cricketarchive.com/Archive/Players/41/41583/41583.html Cricket Archive",
+    "First-class": {
+        "matches": "55",
+        "runs": "364",
+        "bat avg": "6.38",
+        "100s/50s": "0/0",
+        "top score": "40",
+        "deliveries": "10,508",
+        "wickets": "214",
+        "bowl avg": "19.29",
+        "fivefor": "12",
+        "tenfor": "1",
+        "best bowling": "9/7",
+        "catches/stumpings": "24/\u2013"
+    },
+    "clubs": {
+        "Pakistan Railways": "1962-63 to 1980-81"
+    },
+    "birth_date": "1937-9-25"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Susil Fernando",
+    "country": "Sri Lanka",
+    "fullname": "Ellekutige Rufus Nemesion Susil Fernando",
+    "testdebutdate": "4 March",
+    "testdebutyear": "1983",
+    "testdebutagainst": "New Zealand",
+    "testcap": "17",
+    "lasttestdate": "16 March",
+    "lasttestyear": "1984",
+    "lasttestagainst": "New Zealand",
+    "odidebutdate": "2 March",
+    "odidebutyear": "1983",
+    "odidebutagainst": "New Zealand",
+    "odicap": "30",
+    "lastodidate": "30 April",
+    "lastodiyear": "1983",
+    "lastodiagainst": "Australia",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/srilanka/content/player/48803.html Cricinfo ",
+    "Test": {
+        "matches": "5",
+        "runs": "112",
+        "bat avg": "11.19",
+        "100s/50s": "0/0",
+        "top score": "46",
+        "catches/stumpings": "0/\u2013"
+    },
+    "ODI": {
+        "matches": "7",
+        "runs": "101",
+        "bat avg": "20.19",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "21",
+        "runs": "963",
+        "bat avg": "30.09",
+        "100s/50s": "2/5",
+        "top score": "110",
+        "catches/stumpings": "8/\u2013"
+    },
+    "LA": {
+        "matches": "9",
+        "runs": "111",
+        "bat avg": "15.85",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1955-12-19"
+}

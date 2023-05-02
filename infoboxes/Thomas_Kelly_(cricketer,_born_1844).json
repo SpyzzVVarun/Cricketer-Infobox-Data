@@ -1,0 +1,35 @@
+{
+    "name": "Thomas Kelly",
+    "birth_place": "County Waterford, Ireland",
+    "death_date": "1893",
+    "death_place": "Hawthorn, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm",
+    "country": "Australia",
+    "testdebutagainst": "England",
+    "testdebutdate": "31 March",
+    "testdebutyear": "1877",
+    "testcap": "12",
+    "lasttestdate": "2 January",
+    "lasttestagainst": "England",
+    "lasttestyear": "1879",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/6138.html Cricinfo",
+    "Test": {
+        "matches": "2",
+        "runs": "64",
+        "bat avg": "21.33",
+        "100s/50s": "0/0",
+        "top score": "35",
+        "catches/stumpings": "1/\u2013"
+    },
+    "First-class": {
+        "matches": "16",
+        "runs": "543",
+        "bat avg": "20.11",
+        "100s/50s": "0/5",
+        "top score": "86",
+        "catches/stumpings": "20/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1844-5-3"
+}

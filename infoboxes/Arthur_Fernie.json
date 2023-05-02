@@ -1,0 +1,30 @@
+{
+    "name": "Arthur Fernie",
+    "fullname": "Arthur Ernest Fernie",
+    "birth_place": "Stone, Staffordshire, England",
+    "death_date": "df=yes",
+    "death_place": "Bideford, Devon, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/england/content/player/13031.html Cricinfo ",
+    "First-class": {
+        "matches": "22",
+        "runs": "121",
+        "bat avg": "7.56",
+        "100s/50s": "0/0",
+        "top score": "24",
+        "deliveries": "2,897",
+        "wickets": "61",
+        "bowl avg": "25.54",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "6/104",
+        "catches/stumpings": "11/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1897\u20131900",
+        "Staffordshire": "1898\u20131900",
+        "Marylebone Cricket Club": "1901",
+        "Berkshire": "1907"
+    }
+}

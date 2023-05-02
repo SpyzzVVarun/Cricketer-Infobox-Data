@@ -1,0 +1,52 @@
+{
+    "name": "Dorothy McEvoy",
+    "female": "true",
+    "fullname": "Dorothy Evelyn McEvoy",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "df=yes",
+    "death_place": "Worthing, West Sussex, England",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "internationalspan": "1949\u20131951",
+    "country": "England",
+    "testdebutdate": "15 January",
+    "testdebutyear": "1949",
+    "testdebutagainst": "Australia",
+    "testcap": "24",
+    "lasttestdate": "28 July",
+    "lasttestyear": "1951",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Players/17/17055/17055.html CricketArchive",
+    "WTest": {
+        "matches": "5",
+        "runs": "33",
+        "bat avg": "8.25",
+        "100s/50s": "0/0",
+        "top score": "16",
+        "deliveries": "930",
+        "wickets": "13",
+        "bowl avg": "19.15",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/23",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WFC": {
+        "matches": "23",
+        "runs": "237",
+        "bat avg": "13.16",
+        "100s/50s": "0/0",
+        "top score": "38",
+        "deliveries": "4,169",
+        "wickets": "61",
+        "bowl avg": "20.22",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/23",
+        "catches/stumpings": "15/\u2013"
+    },
+    "clubs": {
+        "Surrey": "1937\u20131951"
+    },
+    "birth_date": "1910-7-30"
+}

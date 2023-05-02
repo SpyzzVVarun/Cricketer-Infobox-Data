@@ -1,0 +1,25 @@
+{
+    "name": "Devang Gandhi",
+    "birth_place": "Bhavnagar, Gujarat",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/28770.html ESPNcricinfo",
+    "Test": {
+        "matches": "4",
+        "runs": "204",
+        "bat avg": "34.00",
+        "100s/50s": "0/2",
+        "top score": "88",
+        "catches/stumpings": "3/\u2013"
+    },
+    "ODI": {
+        "matches": "3",
+        "runs": "49",
+        "bat avg": "16.33",
+        "100s/50s": "0/0",
+        "top score": "30",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1971-09-06"
+}

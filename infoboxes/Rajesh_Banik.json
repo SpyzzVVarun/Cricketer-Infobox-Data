@@ -1,0 +1,54 @@
+{
+    "name": "Rajesh Banik",
+    "country": "India",
+    "fullname": "Rajesh Dhrubalal Banik",
+    "birth_place": "Agartala, Tripura, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm leg-spin",
+    "source": "https://cricketarchive.com/Archive/Players/9/9643/9643.html CricketArchive ",
+    "FC": {
+        "matches": "42",
+        "runs": "1469",
+        "bat avg": "19.32",
+        "100s/50s": "0/6",
+        "top score": "93",
+        "deliveries": "207",
+        "wickets": "2",
+        "bowl avg": "74.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/5",
+        "catches/stumpings": "33/0"
+    },
+    "LA": {
+        "matches": "24",
+        "runs": "378",
+        "bat avg": "18.00",
+        "100s/50s": "1/0",
+        "deliveries": "136",
+        "wickets": "8",
+        "bowl avg": "16.25",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/40",
+        "catches/stumpings": "7/0"
+    },
+    "T20": {
+        "matches": "18",
+        "runs": "203",
+        "bat avg": "11.94",
+        "100s/50s": "0/0",
+        "top score": "47",
+        "deliveries": "18",
+        "wickets": "1",
+        "bowl avg": "37.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/22",
+        "catches/stumpings": "3/0"
+    },
+    "clubs": {
+        "Tripura": "2000/01\u20132018/19"
+    },
+    "birth_date": "1984-12-12"
+}

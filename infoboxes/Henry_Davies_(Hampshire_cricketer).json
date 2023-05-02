@@ -1,0 +1,22 @@
+{
+    "name": "Henry Davies",
+    "country": "England",
+    "fullname": "Henry Gwyn Saunders Davies",
+    "nickname": "Changed name to Henry Gwyn Davies-Scourfield in March 1921",
+    "birth_place": "Pembroke, Pembrokeshire, Wales",
+    "death_date": "1934",
+    "death_place": "Patching, Sussex, England",
+    "batting": "Right-handed",
+    "source": "http://www.cricinfo.com/ci/content/player/11820.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "45",
+        "bat avg": "22.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "42",
+        "catches/stumpings": "&ndash;/&ndash;"
+    },
+    "clubs": {
+        "Hampshire": "1883"
+    }
+}

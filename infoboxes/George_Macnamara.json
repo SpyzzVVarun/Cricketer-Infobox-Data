@@ -1,0 +1,27 @@
+{
+    "country": "Ireland",
+    "fullname": "George Frederick Macnamara",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "18 August 1916 (aged 23)",
+    "death_place": "Loos-en-Gohelle, Pas-de-Calais,, France",
+    "batting": "Right-handed",
+    "bowling": "Unknown-arm Unknown-arm medium",
+    "source": "https://cricketarchive.com/Archive/Players/1547/1547191/1547191.html CricketArchive ",
+    "First-class": {
+        "matches": "1",
+        "runs": "54",
+        "bat avg": "54.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "30",
+        "deliveries": "78",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1913"
+    }
+}

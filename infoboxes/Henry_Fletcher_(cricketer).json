@@ -1,0 +1,29 @@
+{
+    "name": "Henry Fletcher",
+    "country": "England",
+    "birth_place": "Clay Cross, Derbyshire, England",
+    "death_date": "1937",
+    "death_place": "Chaddesden, Derbyshire, England",
+    "type1": "FC",
+    "debutdate1": "10 June",
+    "debutyear1": "1907",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Sussex",
+    "lastdate1": "2 July",
+    "lastyear1": "1908",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Kent",
+    "source": "https://cricketarchive.com/Players/29/29436/29436.html CricketArchive ",
+    "First-class": {
+        "matches": "5",
+        "runs": "17",
+        "bat avg": "2.12",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1907\u20131908"
+    },
+    "birth_date": "1882-7-25"
+}

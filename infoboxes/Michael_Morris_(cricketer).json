@@ -1,0 +1,26 @@
+{
+    "country": "England",
+    "fullname": "Michael John Morris",
+    "birth_place": "Melbourne, Victoria, Australia",
+    "batting": "Right-handed",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/ci/content/player/17180.html Cricinfo ",
+    "First-class": {
+        "matches": "25",
+        "runs": "452",
+        "bat avg": "13.29",
+        "100s/50s": "\u2013/1",
+        "top score": "60",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1989&ndash;1991"
+    },
+    "birth_date": "1969-3-8"
+}

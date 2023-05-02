@@ -1,0 +1,39 @@
+{
+    "name": "Norman Hardy",
+    "country": "England",
+    "fullname": "Norman Hardy",
+    "birth_place": "Norton Malreward, Somerset, England",
+    "death_date": "1923",
+    "death_place": "Fishponds, Bristol, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Bowler",
+    "type1": "First-class",
+    "debutdate1": "11 July",
+    "debutyear1": "1912",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Northamptonshire",
+    "lastdate1": "15 July",
+    "lastyear1": "1921",
+    "lastfor1": "Somerset",
+    "lastagainst1": "Worcestershire",
+    "source": "https://cricketarchive.com/Archive/Players/3/3602/3602.html CricketArchive ",
+    "First-class": {
+        "matches": "11",
+        "runs": "169",
+        "bat avg": "14.08",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "38",
+        "deliveries": "1750",
+        "wickets": "34",
+        "bowl avg": "21.97",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/22",
+        "catches/stumpings": "6/&ndash;"
+    },
+    "clubs": {
+        "Somerset": "1912&ndash;21"
+    },
+    "birth_date": "1892-3-11"
+}

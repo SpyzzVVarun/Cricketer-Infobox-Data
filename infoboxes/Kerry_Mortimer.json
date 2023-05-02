@@ -1,0 +1,28 @@
+{
+    "name": "Kerry Mortimer",
+    "female": "true",
+    "country": "Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "oneodi": "true",
+    "odidebutdate": "8 August",
+    "odidebutyear": "1976",
+    "odidebutagainst": "England",
+    "odicap": "21",
+    "source": "http://www.espncricinfo.com/ci/content/player/53602.html CricInfo  ",
+    "WODIs": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "-",
+        "100s/50s": "0/0",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-",
+        "catches/stumpings": "0/-"
+    },
+    "clubs": {},
+    "birth_date": "30 July 1955"
+}

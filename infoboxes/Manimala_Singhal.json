@@ -1,0 +1,42 @@
+{
+    "name": "Manimala Singhal",
+    "country": "India",
+    "female": "true",
+    "fullname": "Manimala Singhal",
+    "birth_place": "Delhi, India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "26 June",
+    "testdebutyear": "1986",
+    "testdebutagainst": "England",
+    "testcap": "34",
+    "lasttestdate": "9 February",
+    "lasttestyear": "1991",
+    "lasttestagainst": "Australia",
+    "odidebutdate": "19 February",
+    "odidebutyear": "1985",
+    "odidebutagainst": "New Zealand",
+    "odicap": "30",
+    "lastodidate": "27 July",
+    "lastodiyear": "1986",
+    "lastodiagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/17/17155/17155.html CricketArchive ",
+    "Test": {
+        "matches": "6",
+        "runs": "116",
+        "bat avg": "14.50",
+        "100s/50s": "0/0",
+        "top score": "44",
+        "catches/stumpings": "5/3"
+    },
+    "ODI": {
+        "matches": "6",
+        "runs": "12",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "5",
+        "catches/stumpings": "1/2"
+    },
+    "clubs": {},
+    "birth_date": "1965-4-11"
+}

@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Marcus James Marvell",
+    "birth_place": "Shrewsbury, Shropshire, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/17218.html Cricinfo ",
+    "List A": {
+        "matches": "5",
+        "runs": "71",
+        "bat avg": "17.75",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "deliveries": "66",
+        "wickets": "2",
+        "bowl avg": "29.50",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/21",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Suffolk": "2004",
+        "Minor Counties": "1996",
+        "Shropshire": "1994\u20132003"
+    },
+    "birth_date": "1970-11-18"
+}

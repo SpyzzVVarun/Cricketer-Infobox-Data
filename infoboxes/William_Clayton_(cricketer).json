@@ -1,0 +1,21 @@
+{
+    "country": "England",
+    "fullname": "William Clayton Clayton",
+    "birth_place": "Newcastle upon Tyne,, Northumberland, England",
+    "death_date": "df=yes",
+    "death_place": "Delhi, Punjab, British India",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/england/content/player/11169.html Cricinfo ",
+    "First-class": {
+        "matches": "6",
+        "runs": "90",
+        "bat avg": "11.25",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "26",
+        "catches/stumpings": "0/4"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1861"
+    }
+}

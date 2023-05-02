@@ -1,0 +1,40 @@
+{
+    "country": "South Africa",
+    "fullname": "Brian Dennis Gessner",
+    "birth_place": "Durban, Natal Province, , South Africa",
+    "batting": "Left-handed",
+    "bowling": "Left-arm Left-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/45263.html Cricinfo ",
+    "First-class": {
+        "matches": "32",
+        "runs": "68",
+        "bat avg": "5.23",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "5,202",
+        "wickets": "101",
+        "bowl avg": "20.54",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "6/67",
+        "catches/stumpings": "13/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "10",
+        "bat avg": "&ndash;",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "330",
+        "wickets": "8",
+        "bowl avg": "24.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/24",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {
+        "Staffordshire": "1978&ndash;1979",
+        "Natal": "1972/73&ndash;1976/77",
+        "Natal B": "1970/71&ndash;1976/77"
+    },
+    "birth_date": "1947-6-20"
+}

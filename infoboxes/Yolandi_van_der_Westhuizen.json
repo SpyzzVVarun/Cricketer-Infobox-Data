@@ -1,0 +1,62 @@
+{
+    "name": "Yolandi van der Westhuizen",
+    "female": "true",
+    "country": "South Africa",
+    "fullname": "Yolandi van der Westhuizen",
+    "birth_place": "Cape Town, South Africa",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "internationalspan": "2009\u20132014",
+    "odidebutdate": "12 March",
+    "odidebutyear": "2009",
+    "odidebutagainst": "New Zealand",
+    "odicap": "55",
+    "odishirt": "2",
+    "lastodidate": "9 September",
+    "lastodiyear": "2012",
+    "lastodiagainst": "Bangladesh",
+    "T20Idebutdate": "27 October",
+    "T20Idebutyear": "2011",
+    "T20Idebutagainst": "England",
+    "T20Icap": "28",
+    "lastT20Idate": "4 April",
+    "lastT20Iyear": "2014",
+    "lastT20Iagainst": "England",
+    "source": "https://cricketarchive.com/Archive/Players/338/338073/338073.html CricketArchive ",
+    "WODI": {
+        "matches": "8",
+        "runs": "40",
+        "bat avg": "5.71",
+        "100s/50s": "0/0",
+        "top score": "20",
+        "catches/stumpings": "4/\u2013"
+    },
+    "WT20I": {
+        "matches": "12",
+        "runs": "20",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "11",
+        "catches/stumpings": "2/\u2013"
+    },
+    "WLA": {
+        "matches": "100",
+        "runs": "2,589",
+        "bat avg": "33.62",
+        "100s/50s": "1/18",
+        "catches/stumpings": "86/46"
+    },
+    "WT20": {
+        "matches": "28",
+        "runs": "315",
+        "bat avg": "21.00",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "7/6"
+    },
+    "clubs": {
+        "Western Province": "2005/06\u20132006/07",
+        "Boland": "2007/08\u20132017/18"
+    },
+    "birth_date": "1981-12-11"
+}

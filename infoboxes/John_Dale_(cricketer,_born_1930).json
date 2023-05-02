@@ -1,0 +1,43 @@
+{
+    "name": "John Dale",
+    "country": "England",
+    "fullname": "John Ronald Dale",
+    "birth_place": "Cleethorpes, Lincolnshire",
+    "death_date": "2016",
+    "death_place": "Skegness, Lincolnshire",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "source": "http://www.espncricinfo.com/ci/content/player/12023.html CricInfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "96",
+        "wickets": "1",
+        "bowl avg": "31.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/31",
+        "catches/stumpings": "0/\u2013"
+    },
+    "List A": {
+        "matches": "4",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "deliveries": "270",
+        "wickets": "7",
+        "bowl avg": "23.85",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/33",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Lincolnshire": "1949\u20131979",
+        "Kent": "1958\u20131959"
+    },
+    "birth_date": "1930-10-24"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Roy Levy",
+    "country": "Australia",
+    "fullname": "Roy Mark Levy",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "death_date": "1965",
+    "death_place": "Clayfield, Queensland, Australia",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/16/16333/16333.html CricketArchive ",
+    "FC": {
+        "matches": "25",
+        "runs": "1,510",
+        "bat avg": "33.55",
+        "100s/50s": "3/7",
+        "top score": "148",
+        "deliveries": "972",
+        "wickets": "13",
+        "bowl avg": "54.69",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/44",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Queensland": "1928/29\u20131935/36"
+    },
+    "birth_date": "1906-4-20"
+}

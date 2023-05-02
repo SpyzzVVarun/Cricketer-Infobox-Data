@@ -1,0 +1,29 @@
+{
+    "name": "Bertram Bailey",
+    "country": "Australia",
+    "fullname": "Bertram Theodore Bailey",
+    "birth_place": "Adelaide, Australia",
+    "death_date": "1964",
+    "death_place": "Payneham, Australia",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "source": "http://www.espncricinfo.com/ci/content/player/4306.html Cricinfo ",
+    "First-class": {
+        "matches": "8",
+        "runs": "247",
+        "bat avg": "16.46",
+        "100s/50s": "\u2013/1",
+        "top score": "57",
+        "deliveries": "66",
+        "wickets": "1",
+        "bowl avg": "45.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/23",
+        "catches/stumpings": "5/-"
+    },
+    "clubs": {
+        "South Australia": "1896/97-1901/02"
+    },
+    "birth_date": "1874-12-5"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Thea Brookes",
+    "female": "true",
+    "fullname": "Thea Francis Brookes",
+    "birth_place": "Wordsley, West Midlands, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/228/228230/228230.html CricketArchive",
+    "WLA": {
+        "matches": "92",
+        "runs": "1,867",
+        "bat avg": "23.04",
+        "100s/50s": "2/7",
+        "top score": "128",
+        "deliveries": "2,054",
+        "wickets": "63",
+        "bowl avg": "21.15",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/26",
+        "catches/stumpings": "36/\u2013"
+    },
+    "WT20": {
+        "matches": "98",
+        "runs": "1,818",
+        "bat avg": "24.56",
+        "100s/50s": "0/11",
+        "deliveries": "687",
+        "wickets": "29",
+        "bowl avg": "20.41",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "21/\u2013"
+    },
+    "clubs": {
+        "Worcestershire": "2005\u20132017",
+        "Loughborough Lightning": "2016\u20132017",
+        "Warwickshire": "2018\u20132022",
+        "Yorkshire Diamonds": "2018",
+        "Southern Vipers": "2019",
+        "Central Sparks": "2020\u20132022",
+        "Birmingham Phoenix": "2021",
+        "Surrey": "2023\u2013present"
+    },
+    "birth_date": "1993-2-15"
+}

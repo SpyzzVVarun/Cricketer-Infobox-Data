@@ -1,0 +1,40 @@
+{
+    "name": "Andriani",
+    "female": "true",
+    "fullname": "Andriani Andriani",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "country": "Indonesia",
+    "T20Idebutdate": "12 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutagainst": "Hong Kong",
+    "T20Icap": "1",
+    "lastT20Idate": "8 November",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "Singapore",
+    "source": "http://espncricinfo.com/ci/content/player/1116777.html Cricinfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "WT20I": {
+        "matches": "14",
+        "runs": "139",
+        "bat avg": "27.80",
+        "100s/50s": "0/1",
+        "deliveries": "162",
+        "wickets": "10",
+        "bowl avg": "10.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/10",
+        "catches/stumpings": "3/3"
+    },
+    "clubs": {},
+    "birth_date": "1995-04-09",
+    "medaltemplates": [
+        "Country: {{INA}}",
+        "Sport: Women's Cricket",
+        "Competition: Southeast Asian Games",
+        "Silver Medal: 2017 Kuala Lumpur Twenty20"
+    ]
+}

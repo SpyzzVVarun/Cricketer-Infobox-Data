@@ -1,0 +1,23 @@
+{
+    "country": "England",
+    "fullname": "M. Thompson",
+    "batting": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/21798.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "5",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Middlesex": "1866"
+    }
+}

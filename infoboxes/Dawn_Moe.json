@@ -1,0 +1,37 @@
+{
+    "name": "Dawn Moe",
+    "female": "true",
+    "fullname": "Dawn Moe",
+    "birth_place": "South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "internationalspan": "1972",
+    "country": "South Africa",
+    "testdebutdate": "25 February",
+    "testdebutyear": "1972",
+    "testdebutagainst": "New Zealand",
+    "testcap": "19",
+    "lasttestdate": "24 March",
+    "lasttestyear": "1972",
+    "lasttestagainst": "New Zealand",
+    "source": "https://cricketarchive.com/Archive/Players/17/17380/17380.html CricketArchive ",
+    "WTest": {
+        "matches": "3",
+        "runs": "108",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "270",
+        "wickets": "1",
+        "bowl avg": "98.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/51",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Natal": "1968/69\u20131978/79"
+    },
+    "birth_date": "1952"
+}

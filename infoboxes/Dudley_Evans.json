@@ -1,0 +1,29 @@
+{
+    "name": "Dudley Evans",
+    "country": "England",
+    "fullname": "Dudley MacNeil Evans",
+    "birth_place": "Cape Colony",
+    "death_date": "1972",
+    "death_place": "Petersfield, Hampshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "family": "Alfred Evans (brother), William Evans (brother), Alfred Evans (uncle), John Evans (cousin), Ralph Evans (cousin)",
+    "source": "http://www.cricinfo.com/ci/content/player/12529.html Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "382",
+        "bat avg": "14.69",
+        "100s/50s": "\u2013/2",
+        "top score": "64",
+        "deliveries": "2,240",
+        "wickets": "55",
+        "bowl avg": "26.34",
+        "fivefor": "4",
+        "tenfor": "\u2013",
+        "best bowling": "6/81",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1904\u20131911"
+    }
+}

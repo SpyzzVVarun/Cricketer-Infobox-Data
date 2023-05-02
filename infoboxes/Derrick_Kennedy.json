@@ -1,0 +1,26 @@
+{
+    "country": "Ireland",
+    "fullname": "Derrick Edward de Vere Kennedy",
+    "birth_place": "Dublin, Ireland",
+    "death_date": "1976",
+    "death_place": "Johnstown, Dublin, Ireland",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.cricinfo.com/ci/content/player/24417.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "23",
+        "bat avg": "11.50",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "132",
+        "wickets": "1",
+        "bowl avg": "89.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "1/65",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1924"
+    }
+}

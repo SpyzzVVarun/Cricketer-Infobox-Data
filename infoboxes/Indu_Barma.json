@@ -1,0 +1,41 @@
+{
+    "name": "Indu Barma",
+    "female": "true",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "T20Idebutdate": "12 January",
+    "T20Idebutyear": "2019",
+    "T20Idebutfor": "Nepal",
+    "T20Icap": "11",
+    "T20Idebutagainst": "China",
+    "lastT20Idate": "24 June",
+    "lastT20Iyear": "2022",
+    "lastT20Iagainst": "UAE",
+    "lastT20Ifor": "Nepal",
+    "country": "Nepal",
+    "source": "http://www.espncricinfo.com/ci/content/player/500984.html CricInfo",
+    "module": "Infobox medal templates",
+    "titlestyle": "background-color: lightsteelblue;",
+    "expand": "yes",
+    "T20I": {
+        "matches": "30",
+        "runs": "339",
+        "bat avg": "16.95",
+        "100s/50s": "0/1",
+        "deliveries": "168",
+        "wickets": "10",
+        "bowl avg": "11.70",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/16",
+        "catches/stumpings": "8/0"
+    },
+    "clubs": {},
+    "birth_date": "1997-09-29",
+    "medaltemplates": [
+        "Country: {{NEP}}",
+        "Sport: Women's Cricket",
+        "Competition: South Asian Games",
+        "Bronze Medal: 2019 Kathmandu/Pokhara Team"
+    ]
+}

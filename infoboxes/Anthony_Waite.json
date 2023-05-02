@@ -1,0 +1,42 @@
+{
+    "country": "England",
+    "fullname": "Anthony Charles Waite",
+    "birth_place": "Pinner, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/22649.html Cricinfo ",
+    "First-class": {
+        "matches": "12",
+        "runs": "58",
+        "bat avg": "9.66",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "29",
+        "deliveries": "1,672",
+        "wickets": "18",
+        "bowl avg": "38.38",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "4/25",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "9",
+        "bat avg": "4.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "8",
+        "deliveries": "294",
+        "wickets": "2",
+        "bowl avg": "94.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "1/46",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Buckinghamshire": "1965&ndash;1970",
+        "Middlesex": "1962&ndash;1964",
+        "Marylebone Cricket Club": "1962"
+    },
+    "birth_date": "1943-5-29"
+}

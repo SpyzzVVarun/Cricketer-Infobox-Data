@@ -1,0 +1,52 @@
+{
+    "name": "Desmond Chumney",
+    "country": "Canada",
+    "fullname": "Desmond Randolph Chumney",
+    "birth_place": "Saint Kitts",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm offbreak",
+    "role": "Batsman",
+    "internationalspan": "2003-2007",
+    "odidebutdate": "11 February",
+    "odidebutyear": "2003",
+    "odidebutagainst": "Bangladesh",
+    "odicap": "16",
+    "lastodidate": "18 March",
+    "lastodiyear": "2007",
+    "lastodiagainst": "England",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/5/5581/5581.html CricketArchive ",
+    "ODI": {
+        "matches": "21",
+        "runs": "397",
+        "bat avg": "20.89",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "FC": {
+        "matches": "3",
+        "runs": "108",
+        "bat avg": "18.00",
+        "100s/50s": "0/0",
+        "top score": "33",
+        "catches/stumpings": "4/&ndash;"
+    },
+    "LA": {
+        "matches": "43",
+        "runs": "830",
+        "bat avg": "20.24",
+        "100s/50s": "0/3",
+        "top score": "64",
+        "catches/stumpings": "13/&ndash;"
+    },
+    "ICC T": {
+        "matches": "17",
+        "runs": "402",
+        "bat avg": "23.64",
+        "100s/50s": "0/3",
+        "top score": "64",
+        "catches/stumpings": "3/&ndash;"
+    },
+    "clubs": {},
+    "birth_date": "1968-1-8"
+}

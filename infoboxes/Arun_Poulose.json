@@ -1,0 +1,44 @@
+{
+    "name": "Arun Poulose",
+    "country": "Oman",
+    "fullname": "Arun Poulose",
+    "birth_place": "Aluva, Kerala, India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "List A",
+    "onetype1": "true",
+    "debutdate1": "10 February",
+    "debutyear1": "2010",
+    "debutfor1": "Kerala",
+    "debutagainst1": "Tamil Nadu",
+    "type2": "T20",
+    "debutdate2": "3 April",
+    "debutyear2": "2007",
+    "debutfor2": "Kerala",
+    "debutagainst2": "Karnataka",
+    "lastdate2": "14 March",
+    "lastyear2": "2011",
+    "lastfor2": "Kerala",
+    "lastagainst2": "Haryana",
+    "source": "https://cricketarchive.com/Archive/Players/168/168610/168610.html CricketArchive ",
+    "LA": {
+        "matches": "1",
+        "runs": "3",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "9",
+        "runs": "137",
+        "bat avg": "15.22",
+        "100s/50s": "0/0",
+        "top score": "42",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Kerala": "2007\u20132011"
+    },
+    "birth_date": "1986-7-22"
+}

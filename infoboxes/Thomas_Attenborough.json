@@ -1,0 +1,38 @@
+{
+    "name": "Thomas Attenborough",
+    "country": "England",
+    "fullname": "Thomas Attenborough",
+    "birth_place": "Ilkeston, Derbyshire, England",
+    "death_date": "1907",
+    "death_place": "Ilkeston, England",
+    "batting": "Right-handed",
+    "bowling": "Slow Slow left-arm",
+    "type1": "FC",
+    "debutdate1": "26 May",
+    "debutyear1": "1871",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Lancashire",
+    "lastdate1": "3 August",
+    "lastyear1": "1874",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Lancashire",
+    "source": "https://cricketarchive.com/Players/27/27566/27566.html CricketArchive ",
+    "First-class": {
+        "matches": "6",
+        "runs": "72",
+        "bat avg": "8.00",
+        "100s/50s": "0/0",
+        "top score": "27",
+        "deliveries": "60",
+        "wickets": "2",
+        "bowl avg": "14.50",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/9",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1871\u20131874"
+    },
+    "birth_date": "1833-7-18"
+}

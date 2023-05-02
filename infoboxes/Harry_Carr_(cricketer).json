@@ -1,0 +1,29 @@
+{
+    "country": "England",
+    "fullname": "Harry Lascelles Carr",
+    "birth_place": "Lambeth, London, England",
+    "death_date": "1943",
+    "death_place": "Marylebone, London, England",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/10670.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "54",
+        "bat avg": "10.80",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "33",
+        "deliveries": "\u2013",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/2"
+    },
+    "clubs": {
+        "Glamorgan": "1934",
+        "HDG Leveson-Gower's XI": "1931"
+    },
+    "birth_date": "1907-10-8"
+}

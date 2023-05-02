@@ -1,0 +1,41 @@
+{
+    "name": "Peter Clough",
+    "country": "Australia",
+    "fullname": "Peter Michael Clough",
+    "birth_place": "Sydney, New South Wales, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/4593.html Cricinfo ",
+    "FC": {
+        "matches": "43",
+        "runs": "421",
+        "bat avg": "11.69",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "34",
+        "deliveries": "8,920",
+        "wickets": "139",
+        "bowl avg": "31.23",
+        "fivefor": "5",
+        "tenfor": "&ndash;",
+        "best bowling": "8/95",
+        "catches/stumpings": "12/&ndash;"
+    },
+    "LA": {
+        "matches": "13",
+        "runs": "25",
+        "bat avg": "12.50",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "712",
+        "wickets": "14",
+        "bowl avg": "35.57",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/31",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Western Australia": "1984/85&ndash;1985/86",
+        "Tasmania": "1980/81&ndash;1983/84"
+    },
+    "birth_date": "1956-8-15"
+}

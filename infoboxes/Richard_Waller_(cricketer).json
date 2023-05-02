@@ -1,0 +1,25 @@
+{
+    "country": "England",
+    "fullname": "Richard Beaumont Waller",
+    "birth_place": "Islington, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium-fast",
+    "source": "http://www.espncricinfo.com/ci/content/player/22700.html Cricinfo ",
+    "First-class": {
+        "matches": "5",
+        "runs": "12",
+        "bat avg": "12.00",
+        "100s/50s": "\u2013/\u2013",
+        "deliveries": "512",
+        "wickets": "7",
+        "bowl avg": "51.85",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/31",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Cambridge University": "1991"
+    },
+    "birth_date": "1969-11-15"
+}

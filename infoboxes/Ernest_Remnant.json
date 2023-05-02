@@ -1,0 +1,30 @@
+{
+    "name": "Ernest Remnant",
+    "country": "England",
+    "fullname": "Ernest Richard Remnant",
+    "birth_place": "Croydon, Surrey, England",
+    "death_date": "1969",
+    "death_place": "Harrow, Middlesex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "family": "George Remnant (Father)",
+    "source": "http://www.cricinfo.com/ci/content/player/16343.html Cricinfo ",
+    "FC": {
+        "matches": "124",
+        "runs": "2,877",
+        "bat avg": "17.12",
+        "100s/50s": "1/10",
+        "deliveries": "9,196",
+        "wickets": "172",
+        "bowl avg": "27.32",
+        "fivefor": "7",
+        "tenfor": "&ndash;",
+        "best bowling": "8/61",
+        "catches/stumpings": "60/&ndash;"
+    },
+    "clubs": {
+        "Europeans (India)": "1916",
+        "Hampshire": "1908&ndash;1914 & 1919&ndash;1922"
+    },
+    "birth_date": "1881-5-1"
+}

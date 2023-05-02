@@ -1,0 +1,42 @@
+{
+    "name": "Alan Willows",
+    "country": "England",
+    "birth_place": "Brighton, Sussex, England",
+    "batting": "Right-handed",
+    "bowling": "Slow left-arm Slow left-arm orthodox",
+    "role": "Head of Cricket at SACS High School, Cape Town, South Africa",
+    "source": "https://www.espncricinfo.com/player/alan-willows-22624 Cricinfo ",
+    "FC": {
+        "matches": "5",
+        "runs": "5",
+        "bat avg": "2.50",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "644",
+        "wickets": "8",
+        "bowl avg": "31.62",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/33",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "26",
+        "bat avg": "13.00",
+        "100s/50s": "0/0",
+        "top score": "14",
+        "deliveries": "90",
+        "wickets": "0",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "0/&ndash;"
+    },
+    "clubs": {
+        "Dorset": "1990&ndash;1997",
+        "Sussex": "1980&ndash;1983"
+    },
+    "birth_date": "1961-4-24"
+}

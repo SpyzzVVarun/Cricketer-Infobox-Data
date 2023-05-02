@@ -1,0 +1,28 @@
+{
+    "country": "Ireland",
+    "fullname": "Alan Thomas Rutherford",
+    "birth_place": "Strabane, Northern Ireland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/24266.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "66",
+        "bat avg": "16.50",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "6/1"
+    },
+    "List A": {
+        "matches": "12",
+        "runs": "88",
+        "bat avg": "17.60",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "catches/stumpings": "16/1"
+    },
+    "clubs": {
+        "Ireland": "1996&ndash;1998"
+    },
+    "birth_date": "1967-6-2"
+}

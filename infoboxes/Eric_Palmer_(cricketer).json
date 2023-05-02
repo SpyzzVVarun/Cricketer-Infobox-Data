@@ -1,0 +1,27 @@
+{
+    "name": "Eric Palmer",
+    "country": "England",
+    "fullname": "Eric John Palmer",
+    "birth_place": "Romford, Essex, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/18402.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "39",
+        "bat avg": "39.00",
+        "100s/50s": "&ndash;/&ndash;",
+        "deliveries": "432",
+        "wickets": "7",
+        "bowl avg": "32.14",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "2/35",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Essex": "1957",
+        "Berkshire": "1955"
+    },
+    "birth_date": "1931-6-16"
+}

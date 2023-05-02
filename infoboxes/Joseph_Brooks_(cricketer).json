@@ -1,0 +1,37 @@
+{
+    "name": "Joseph Brooks",
+    "country": "England",
+    "fullname": "Joseph Brooks",
+    "birth_place": "South Normanton, Derbyshire, England",
+    "death_date": "1937",
+    "death_place": "Shuttlewood, Derbyshire, England",
+    "bowling": "Left-arm medium fast Left-arm medium fast bowler",
+    "type1": "First-class",
+    "debutdate1": "5 August",
+    "debutyear1": "1895",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Hampshire",
+    "lastdate1": "18 May",
+    "lastyear1": "1896",
+    "lastfor1": "Derbyshire",
+    "lastagainst1": "Nottinghamshire",
+    "source": "https://cricketarchive.com/Archive/Players/28/28171/28171.html ",
+    "First-class": {
+        "matches": "5",
+        "runs": "8",
+        "bat avg": "2,66",
+        "100s/50s": "/",
+        "top score": "6",
+        "deliveries": "267",
+        "wickets": "2",
+        "bowl avg": "95.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1-22",
+        "catches/stumpings": "1"
+    },
+    "clubs": {
+        "Derbyshire": "1895\u20131896"
+    },
+    "birth_date": "1870-9-10"
+}

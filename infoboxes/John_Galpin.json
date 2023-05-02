@@ -1,0 +1,29 @@
+{
+    "name": "John Galpin",
+    "country": "England",
+    "fullname": "John George Galpin",
+    "birth_place": "Alverstoke, Hampshire, England",
+    "death_date": "1917",
+    "death_place": "Luton, Bedfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm roundarm Right-arm roundarm fast",
+    "source": "http://www.cricinfo.com/ci/content/player/13325.html Cricinfo ",
+    "FC": {
+        "matches": "7",
+        "runs": "100",
+        "bat avg": "11.11",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "27",
+        "deliveries": "1,352",
+        "wickets": "28",
+        "bowl avg": "16.50",
+        "fivefor": "2",
+        "tenfor": "\u2013",
+        "best bowling": "6/68",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Hampshire": "1875\u20131877 & 1880"
+    },
+    "birth_date": "1843-1-13"
+}

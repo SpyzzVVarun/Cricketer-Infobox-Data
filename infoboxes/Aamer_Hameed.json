@@ -1,0 +1,39 @@
+{
+    "name": "Aamer Hameed",
+    "birth_place": "Lahore, Punjab, Pakistan",
+    "country": "Pakistan",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "odicap": "18",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/38963.html ",
+    "Tests": {
+        "matches": "-",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "-",
+        "wickets": "-",
+        "bowl avg": "-",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "-/-",
+        "catches/stumpings": "-/-"
+    },
+    "ODIs": {
+        "matches": "2",
+        "runs": "0",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "88",
+        "wickets": "1",
+        "bowl avg": "38.00",
+        "fivefor": "-",
+        "tenfor": "n/a",
+        "best bowling": "1/32",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {},
+    "birth_date": "18 October 1954"
+}

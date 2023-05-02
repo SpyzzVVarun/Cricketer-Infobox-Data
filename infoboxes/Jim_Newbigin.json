@@ -1,0 +1,26 @@
+{
+    "name": "Jim Newbigin",
+    "fullname": "Edward James Dudley Newbigin",
+    "birth_place": "Hastings, New Zealand",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38030.html Cricinfo ",
+    "First-class": {
+        "matches": "2",
+        "runs": "17",
+        "bat avg": "8.50",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "406",
+        "wickets": "7",
+        "bowl avg": "31.71",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/37",
+        "catches/stumpings": "0/0"
+    },
+    "clubs": {
+        "Wellington": "1953-54"
+    },
+    "birth_date": "1931-10-15"
+}

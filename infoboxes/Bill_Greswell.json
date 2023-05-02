@@ -1,0 +1,40 @@
+{
+    "name": "Bill Greswell",
+    "country": "England",
+    "fullname": "William Territt Greswell",
+    "birth_place": "Cuddalore, Madras Presidency, British India",
+    "death_date": "1971",
+    "death_place": "Bicknoller, Somerset, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "Bowler",
+    "family": "Ernest Greswell (brother)",
+    "type1": "FC",
+    "debutdate1": "3 August",
+    "debutyear1": "1908",
+    "debutfor1": "Somerset",
+    "debutagainst1": "Middlesex",
+    "lastdate1": "6 June",
+    "lastyear1": "1933",
+    "lastfor1": "Free Foresters",
+    "lastagainst1": "Oxford University",
+    "source": "https://cricketarchive.com/Archive/Players/3/3583/3583.html CricketArchive ",
+    "First-class": {
+        "matches": "134",
+        "runs": "2,580",
+        "bat avg": "14.91",
+        "100s/50s": "1/4",
+        "top score": "100",
+        "deliveries": "28,553",
+        "wickets": "540",
+        "bowl avg": "21.32",
+        "fivefor": "37",
+        "tenfor": "7",
+        "best bowling": "9/62",
+        "catches/stumpings": "103/\u2013"
+    },
+    "clubs": {
+        "Somerset": "1908\u20131930"
+    },
+    "birth_date": "1889-10-15"
+}

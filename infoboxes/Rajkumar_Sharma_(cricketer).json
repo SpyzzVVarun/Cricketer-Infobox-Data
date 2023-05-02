@@ -1,0 +1,34 @@
+{
+    "name": "Rajkumar Sharma",
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm Off Right-arm Off break",
+    "country": "Indian",
+    "source": "ref=india/content/player/33408.html",
+    "List A": {
+        "matches": "3",
+        "runs": "-",
+        "bat avg": "-",
+        "100s/50s": "-/-",
+        "top score": "-",
+        "deliveries": "180",
+        "wickets": "3",
+        "bowl avg": "42.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/33",
+        "catches/stumpings": "-/-"
+    },
+    "First-class": {
+        "matches": "9",
+        "runs": "46",
+        "bat avg": "23.00",
+        "deliveries": "1005",
+        "wickets": "11",
+        "bowl avg": "50.54",
+        "fivefor": "-",
+        "tenfor": "\u2013",
+        "best bowling": "2\u20136",
+        "catches/stumpings": "3/- |club1 = Delhi |year1 = 1986\u20131991"
+    },
+    "clubs": {}
+}

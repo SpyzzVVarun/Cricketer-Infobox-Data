@@ -1,0 +1,48 @@
+{
+    "name": "Raymond Bailey",
+    "country": "England",
+    "fullname": "Raymond Reginald Bailey",
+    "birth_place": "Bedford, Bedfordshire, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Occasional wicket-keeper",
+    "source": "http://www.espncricinfo.com/ci/content/player/9451.html Cricinfo",
+    "module": "embed = y",
+    "header-color": "#b0c4de |height        = |position      = Central defender |youthyears1   = |youthclubs1   = Bedford Town |years1        = 1966\u20131971 |clubs1        = Gillingham |caps1         = 160 |goals1        = 7 |years2        = 1971 |clubs2        = \u2192 Northampton Town (loan) |caps2         = 1 |goals2        = 0 |years3        = 1971\u20131973 |clubs3        = Romford |caps3         = 69 |goals3        = 7 |years4        = |clubs4        = Hitchin Town |caps4         = |goals4        = |years5        = |clubs5        = Dunstable Town |caps5         = |goals5        = |totalcaps     = |totalgoals    = |manageryears1 = |managerclubs1 = Milton Keynes City  ",
+    "First-class": {
+        "matches": "49",
+        "runs": "253",
+        "bat avg": "9.37",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "25",
+        "deliveries": "6,725",
+        "wickets": "108",
+        "bowl avg": "26.90",
+        "fivefor": "5",
+        "tenfor": "\u2013",
+        "best bowling": "5/25",
+        "catches/stumpings": "27/\u2013"
+    },
+    "List A": {
+        "matches": "42",
+        "runs": "138",
+        "bat avg": "7.26",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "13",
+        "deliveries": "1,926",
+        "wickets": "41",
+        "bowl avg": "26.07",
+        "fivefor": "1",
+        "tenfor": "\u2013",
+        "best bowling": "6/22",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {
+        "Minor Counties West": "1978",
+        "Buckinghamshire": "1975\u20131979",
+        "Marylebone Cricket Club": "1965",
+        "Northamptonshire": "1964\u20131973",
+        "Bedfordshire": "1963"
+    },
+    "birth_date": "1944-5-16"
+}

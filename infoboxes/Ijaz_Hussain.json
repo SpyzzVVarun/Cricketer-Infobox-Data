@@ -1,0 +1,32 @@
+{
+    "name": "Ijaz Hussain",
+    "country": "Pakistan",
+    "nickname": "Khapra",
+    "birth_place": "Bahawalpur, British India",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium, Right-arm medium, leg-spin",
+    "role": "Wicket-keeper",
+    "source": "https://cricketarchive.com/Archive/Players/34/34210/34210.html CricketArchive",
+    "First-class": {
+        "matches": "81",
+        "runs": "4476",
+        "bat avg": "33.65",
+        "100s/50s": "8/18",
+        "top score": "173",
+        "deliveries": "751",
+        "wickets": "16",
+        "bowl avg": "25.00",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/37",
+        "catches/stumpings": "119/38"
+    },
+    "clubs": {
+        "Bahawalpur": "1956-57 \u2013 1959-60",
+        "Multan": "1961-62 \u2013 1962-63",
+        "Railways": "1963-64 \u2013 1967-68",
+        "Public Works Department": "1968-69 \u2013 1969-70",
+        "National Bank": "1969-70 \u2013 1975-76"
+    },
+    "birth_date": "1942-4-7"
+}

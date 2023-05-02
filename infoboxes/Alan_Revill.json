@@ -1,0 +1,52 @@
+{
+    "name": "Alan Revill",
+    "fullname": "Alan Chambers Revill",
+    "birth_place": "Sheffield, England",
+    "death_date": "1998",
+    "death_place": "Brent, London, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "family": "Thomas Revill (father)",
+    "type1": "First-class",
+    "debutdate1": "18 May",
+    "debutyear1": "1946",
+    "debutfor1": "Derbyshire",
+    "debutagainst1": "Essex",
+    "lastdate1": "1 June",
+    "lastyear1": "1960",
+    "lastfor1": "Leicestershire",
+    "lastagainst1": "Middlesex",
+    "source": "https://cricketarchive.com/Players/32/32314/32314.html Crickerchive ",
+    "First-class": {
+        "matches": "387",
+        "runs": "15,917",
+        "bat avg": "26.48",
+        "100s/50s": "16/80",
+        "deliveries": "3,494",
+        "wickets": "49",
+        "bowl avg": "39.26",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/12",
+        "catches/stumpings": "396/\u2013"
+    },
+    "ListA": {
+        "matches": "1",
+        "runs": "0",
+        "bat avg": "0.00",
+        "100s/50s": "0/0",
+        "top score": "0",
+        "deliveries": "12",
+        "wickets": "1",
+        "bowl avg": "6.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/6",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Derbyshire": "1946\u20131957",
+        "Leicestershire": "1958\u20131960"
+    },
+    "birth_date": "1923-3-27"
+}

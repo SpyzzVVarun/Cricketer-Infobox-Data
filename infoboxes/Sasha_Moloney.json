@@ -1,0 +1,45 @@
+{
+    "name": "Sasha Moloney",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Sasha Kate Moloney",
+    "birth_place": "Longford, Tasmania, Australia",
+    "batting": "Right-handed",
+    "bowling": "Right-arm off Right-arm off break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/1753/1753492/1753492.html CricketArchive",
+    "WLA": {
+        "matches": "34",
+        "runs": "540",
+        "bat avg": "20.76",
+        "100s/50s": "0/3",
+        "deliveries": "707",
+        "wickets": "22",
+        "bowl avg": "27.76",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/37",
+        "catches/stumpings": "8/0"
+    },
+    "WT20": {
+        "matches": "76",
+        "runs": "466",
+        "bat avg": "12.26",
+        "100s/50s": "0/0",
+        "top score": "39",
+        "deliveries": "251",
+        "wickets": "15",
+        "bowl avg": "20.80",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/20",
+        "catches/stumpings": "16/1"
+    },
+    "clubs": {
+        "Tasmania": "2018/19\u2013present",
+        "Typhoons": "2015",
+        "Hobart Hurricanes( 99 )": "2015/16\u20132021/22",
+        "Melbourne Stars": "2023/23\u2013present"
+    },
+    "birth_date": "1992-6-14"
+}

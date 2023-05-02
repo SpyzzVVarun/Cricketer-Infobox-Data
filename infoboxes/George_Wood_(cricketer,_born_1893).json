@@ -1,0 +1,52 @@
+{
+    "name": "George Wood",
+    "country": "England",
+    "fullname": "George Edward Charles Wood",
+    "birth_place": "Blackheath, Kent",
+    "death_date": "1971",
+    "death_place": "Christchurch, Hampshire",
+    "batting": "Right-handed",
+    "bowling": "Occasional right arm Occasional right arm medium",
+    "role": "Wicket-keeper",
+    "testdebutdate": "14 June",
+    "testdebutyear": "1924",
+    "testdebutagainst": "South Africa",
+    "testcap": "217",
+    "lasttestdate": "15 July",
+    "lasttestyear": "1924",
+    "lasttestagainst": "South Africa",
+    "source": "http://content-aus.cricinfo.com/ci/content/player/22500.html Cricinfo ",
+    "Test": {
+        "matches": "3",
+        "runs": "7",
+        "bat avg": "3.50",
+        "100s/50s": "0/0",
+        "top score": "6",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "5/1"
+    },
+    "First-class": {
+        "matches": "101",
+        "runs": "2,773",
+        "bat avg": "19.94",
+        "100s/50s": "1/10",
+        "top score": "128",
+        "deliveries": "18",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "119/53"
+    },
+    "clubs": {
+        "Cambridge University": "1913\u20131920",
+        "Kent": "1919\u20131927"
+    },
+    "birth_date": "1893-8-22"
+}

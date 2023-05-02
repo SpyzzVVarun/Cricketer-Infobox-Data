@@ -1,0 +1,41 @@
+{
+    "country": "England",
+    "fullname": "Michael Youll",
+    "birth_place": "Newcastle upon Tyne, Northumberland, England",
+    "batting": "Left-handed",
+    "bowling": "Left-arm unorthodox Left-arm unorthodox spin",
+    "family": "Oliver Youll (son)",
+    "source": "http://www.espncricinfo.com/ci/content/player/23562.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "15",
+        "bat avg": "7.50",
+        "100s/50s": "0/0",
+        "top score": "9",
+        "deliveries": "506",
+        "wickets": "14",
+        "bowl avg": "21.57",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/99",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "List A": {
+        "matches": "3",
+        "runs": "65",
+        "bat avg": "32.50",
+        "100s/50s": "0/0",
+        "deliveries": "&ndash;",
+        "wickets": "&ndash;",
+        "bowl avg": "&ndash;",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "&ndash;",
+        "catches/stumpings": "1/&ndash;"
+    },
+    "clubs": {
+        "Warwickshire": "1956&ndash;1957",
+        "Northumberland": "1962&ndash;1981"
+    },
+    "birth_date": "1939-4-26"
+}

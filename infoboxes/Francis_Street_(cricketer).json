@@ -1,0 +1,21 @@
+{
+    "name": "Francis Street",
+    "country": "England",
+    "fullname": "Francis Edward Street",
+    "birth_place": "Hampstead, Middlesex, England",
+    "death_date": "1928",
+    "death_place": "Armidale, New South Wales, Australia",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/ci/content/player/21082.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "21",
+        "bat avg": "3.00",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {
+        "Kent": "1875\u20131877"
+    }
+}

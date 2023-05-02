@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Harold Leach",
+    "birth_place": "Rochdale, Lancashire, England",
+    "death_date": "1928",
+    "death_place": "Widcombe, Somerset, England",
+    "family": "William Leach (brother), Roger Leach (brother), Robert Leach (brother), John Leach (brother), Neil Smith (great-nephew)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm slow",
+    "source": "http://www.espncricinfo.com/ci/content/player/16498.html Cricinfo ",
+    "First-class": {
+        "matches": "3",
+        "runs": "101",
+        "bat avg": "25.25",
+        "100s/50s": "&ndash;/&ndash;",
+        "top score": "46",
+        "catches/stumpings": "2/&ndash;"
+    },
+    "clubs": {
+        "Lancashire": "1881"
+    }
+}

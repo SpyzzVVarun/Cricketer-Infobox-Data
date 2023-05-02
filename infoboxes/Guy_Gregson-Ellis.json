@@ -1,0 +1,28 @@
+{
+    "country": "England",
+    "fullname": "Guy Saxon Llewellyn Gregson-Ellis",
+    "birth_place": "Kensington, Middlesex, England",
+    "death_date": "df=y",
+    "death_place": "Banbury, Oxfordshire, England",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/28971.html Cricinfo ",
+    "First-class": {
+        "matches": "4",
+        "runs": "116",
+        "bat avg": "14.50",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "deliveries": "96",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1920\u20131923",
+        "Europeans": "1925/26\u20131926/27"
+    }
+}

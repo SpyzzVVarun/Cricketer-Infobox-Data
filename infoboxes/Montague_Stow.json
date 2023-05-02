@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Montague Haslam Stow",
+    "birth_place": "Whinmoor, Yorkshire, England",
+    "death_date": "1911",
+    "death_place": "Monifieth, Angus, Scotland",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "source": "https://www.espncricinfo.com/cricketers/montague-stow-21068 Cricinfo ",
+    "First-class": {
+        "matches": "16",
+        "runs": "303",
+        "bat avg": "13.17",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "41",
+        "catches/stumpings": "18/1"
+    },
+    "clubs": {
+        "Marylebone Cricket Club": "1867",
+        "Cambridge University": "1867\u20131869"
+    }
+}

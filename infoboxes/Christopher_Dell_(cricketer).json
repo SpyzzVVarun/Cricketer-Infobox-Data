@@ -1,0 +1,28 @@
+{
+    "name": "Christopher Dell",
+    "country": "Australia",
+    "fullname": "Christopher Ronald Dell",
+    "birth_place": "Devonport, Tasmania, Australia",
+    "batting": "Left-handed",
+    "bowling": "Left-arm fast Left-arm fast medium",
+    "role": "bowler",
+    "source": "http://www.cricinfo.com/ci/content/player/4938.html Cricinfo ",
+    "FC": {
+        "matches": "1",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "4",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Tasmania": "1986"
+    },
+    "birth_date": "1960-10-27"
+}

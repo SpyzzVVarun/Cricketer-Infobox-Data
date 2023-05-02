@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "John Bryan Richardson Jones",
+    "birth_place": "Shrewsbury, Shropshire, England",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "family": "Barry Jones (brother)",
+    "source": "http://www.espncricinfo.com/ci/content/player/15549.html Cricinfo ",
+    "List A": {
+        "matches": "20",
+        "runs": "502",
+        "bat avg": "25.10",
+        "100s/50s": "&ndash;/3",
+        "top score": "85",
+        "deliveries": "52",
+        "wickets": "3",
+        "bowl avg": "17.00",
+        "fivefor": "&ndash;",
+        "tenfor": "&ndash;",
+        "best bowling": "3/20",
+        "catches/stumpings": "5/&ndash;"
+    },
+    "clubs": {
+        "Shropshire": "1981&ndash;2002"
+    },
+    "birth_date": "1961-5-21"
+}

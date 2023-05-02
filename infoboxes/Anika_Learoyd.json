@@ -1,0 +1,29 @@
+{
+    "name": "Anika Learoyd",
+    "female": "true",
+    "country": "Australia",
+    "fullname": "Anika Learoyd",
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg Right-arm leg break",
+    "role": "Batter",
+    "source": "https://cricketarchive.com/Archive/Players/2407/2407371/2407371.html CricketArchive ",
+    "WLA": {
+        "matches": "5",
+        "runs": "17",
+        "bat avg": "17.00",
+        "100s/50s": "0/0",
+        "catches/stumpings": "1/\u2013"
+    },
+    "WT20": {
+        "matches": "2",
+        "runs": "\u2013",
+        "bat avg": "\u2013",
+        "100s/50s": "\u2013",
+        "top score": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Sydney Thunder": "2020/21\u2013present",
+        "New South Wales": "2020/21\u2013present"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Eddie Crush",
+    "country": "England",
+    "fullname": "Edmund Crush",
+    "birth_place": "Dover, Kent, England",
+    "death_date": "2007",
+    "death_place": "Deal, Kent, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium Right-arm off Right-arm medium Right-arm off spin",
+    "source": "https://www.espncricinfo.com/england/content/player/11468.html CricInfo ",
+    "First-class": {
+        "matches": "45",
+        "runs": "1,078",
+        "bat avg": "16.08",
+        "100s/50s": "0/5",
+        "top score": "78",
+        "deliveries": "6,659",
+        "wickets": "83",
+        "bowl avg": "38.10",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/50",
+        "catches/stumpings": "23/\u2013"
+    },
+    "clubs": {
+        "Kent County Cricket Club": "1946\u20131949"
+    },
+    "birth_date": "1917-4-25"
+}

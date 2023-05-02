@@ -1,0 +1,31 @@
+{
+    "name": "Churchill Gunasekara",
+    "country": "Sri Lanka",
+    "fullname": "Churchill Hector Gunasekara",
+    "birth_place": "Colombo, Ceylon",
+    "death_date": "1969",
+    "death_place": "Nawala, Ceylon",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/26/26272/26272.html CricketArchive ",
+    "First-class": {
+        "matches": "51",
+        "runs": "957",
+        "bat avg": "15.68",
+        "100s/50s": "0/6",
+        "deliveries": "6,439",
+        "wickets": "90",
+        "bowl avg": "31.94",
+        "fivefor": "4",
+        "tenfor": "0",
+        "best bowling": "5/15",
+        "catches/stumpings": "33/\u2013"
+    },
+    "clubs": {
+        "Royal College, Colombo": "1910\u20131912",
+        "Middlesex": "1919\u20131922",
+        "Ceylon": "1927\u20131935"
+    },
+    "birth_date": "1894-7-27"
+}

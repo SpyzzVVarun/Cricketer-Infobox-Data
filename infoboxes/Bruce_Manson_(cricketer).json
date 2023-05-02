@@ -1,0 +1,27 @@
+{
+    "country": "England",
+    "fullname": "Bruce Edward Alexander Manson",
+    "birth_place": "British India",
+    "death_date": "df=yes",
+    "death_place": "Tanga, German East Africa",
+    "batting": "Unknown",
+    "bowling": "Unknown",
+    "source": "http://www.espncricinfo.com/england/content/player/31140.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "8",
+        "bat avg": "4.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "7",
+        "deliveries": "132",
+        "wickets": "3",
+        "bowl avg": "18.00",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "3/54",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Europeans": "1903/04"
+    }
+}

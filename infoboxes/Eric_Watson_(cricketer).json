@@ -1,0 +1,38 @@
+{
+    "name": "Eric Watson",
+    "fullname": "Eric Alexander Watson",
+    "birth_place": "Dunedin, New Zealand",
+    "death_date": "2017",
+    "death_place": "Dunedin, New Zealand",
+    "family": "Leonard Watson (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "type1": "FC",
+    "debutdate1": "13 March",
+    "debutyear1": "1948",
+    "debutfor1": "Otago",
+    "debutagainst1": "Fiji",
+    "lastdate1": "8 January",
+    "lastyear1": "1960",
+    "lastfor1": "Otago",
+    "lastagainst1": "Northern Districts",
+    "source": "https://cricketarchive.com/Archive/Players/23/23066/23066.html CricketArchive ",
+    "First-class": {
+        "matches": "46",
+        "runs": "1,779",
+        "bat avg": "21.43",
+        "100s/50s": "1/8",
+        "top score": "103",
+        "deliveries": "375",
+        "wickets": "41",
+        "bowl avg": "30.46",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/26",
+        "catches/stumpings": "48/\u2013"
+    },
+    "clubs": {
+        "Otago": "1947/48\u20131959/60"
+    },
+    "birth_date": "1925-7-20"
+}

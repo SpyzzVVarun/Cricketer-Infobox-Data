@@ -1,0 +1,42 @@
+{
+    "name": "Gordon Brown",
+    "country": "Australia",
+    "fullname": "Gordon John Brown",
+    "birth_place": "Chinhoyi, Zimbabwe",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/71/71068/71068.html CricketArchive ",
+    "FC": {
+        "matches": "2",
+        "runs": "59",
+        "bat avg": "19.66",
+        "100s/50s": "0/0",
+        "top score": "36",
+        "deliveries": "29",
+        "wickets": "0",
+        "bowl avg": "n/a",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "0/9",
+        "catches/stumpings": "0/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "12",
+        "bat avg": "4.00",
+        "100s/50s": "0/0",
+        "top score": "7",
+        "deliveries": "174",
+        "wickets": "1",
+        "bowl avg": "119.00",
+        "fivefor": "0",
+        "tenfor": "n/a",
+        "best bowling": "1/42",
+        "catches/stumpings": "1/\u2013"
+    },
+    "clubs": {
+        "Manicaland": "2004\u20132005"
+    },
+    "birth_date": "1981-4-19"
+}

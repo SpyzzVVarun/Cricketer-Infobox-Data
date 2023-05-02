@@ -1,0 +1,44 @@
+{
+    "name": "Natalie Brown",
+    "female": "true",
+    "fullname": "Natalie Brown",
+    "birth_place": "Whiston, Merseyside, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "role": "All-rounder",
+    "source": "https://cricketarchive.com/Archive/Players/149/149641/149641.html CricketArchive",
+    "WLA": {
+        "matches": "113",
+        "runs": "1,975",
+        "bat avg": "20.78",
+        "100s/50s": "2/6",
+        "deliveries": "3,154",
+        "wickets": "68",
+        "bowl avg": "26.08",
+        "fivefor": "1",
+        "tenfor": "0",
+        "best bowling": "5/9",
+        "catches/stumpings": "38/\u2013"
+    },
+    "WT20": {
+        "matches": "82",
+        "runs": "887",
+        "bat avg": "17.74",
+        "100s/50s": "0/2",
+        "top score": "80",
+        "deliveries": "736",
+        "wickets": "44",
+        "bowl avg": "16.34",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/21",
+        "catches/stumpings": "19/\u2013"
+    },
+    "clubs": {
+        "Lancashire": "2006\u2013present",
+        "Lancashire Thunder": "2016\u20132016",
+        "North West Thunder": "2020\u20132022",
+        "Manchester Originals": "2021"
+    },
+    "birth_date": "1990-10-16"
+}

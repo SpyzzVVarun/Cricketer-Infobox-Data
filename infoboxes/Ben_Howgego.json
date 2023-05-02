@@ -1,0 +1,58 @@
+{
+    "name": "Ben Howgego",
+    "country": "England",
+    "fullname": "Benjamin Harry Nicholas Howgego",
+    "birth_place": "Kings Lynn, Norfolk",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "Opening Batsman",
+    "source": "http://www.cricinfo.com/ci/content/player/256958.html Cricinfo ",
+    "FC": {
+        "matches": "21",
+        "runs": "670",
+        "bat avg": "21.61",
+        "100s/50s": "0/1",
+        "top score": "80",
+        "deliveries": "12",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "11/\u2013"
+    },
+    "LA": {
+        "matches": "4",
+        "runs": "19",
+        "bat avg": "9.50",
+        "100s/50s": "0/0",
+        "top score": "12",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "T20": {
+        "matches": "2",
+        "runs": "4",
+        "bat avg": "2.00",
+        "100s/50s": "0/0",
+        "top score": "3",
+        "deliveries": "0",
+        "wickets": "\u2013",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {
+        "Northamptonshire( 27 )": "2008\u20132012",
+        "Cambridgeshire": "2015",
+        "Bedfordshire": "2016\u20132017"
+    },
+    "birth_date": "1988-3-3"
+}

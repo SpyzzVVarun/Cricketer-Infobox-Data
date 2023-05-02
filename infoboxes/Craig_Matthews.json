@@ -1,0 +1,40 @@
+{
+    "name": "Craig Matthews",
+    "fullname": "Craig Russell Matthews",
+    "birth_place": "Cape Town, South Africa",
+    "country": "South Africa",
+    "height": "192 cm",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "role": "All rounder",
+    "source": "http://www.espncricinfo.com/southafrica/content/player/46189.html CricInfo ",
+    "Test": {
+        "matches": "18",
+        "runs": "348",
+        "bat avg": "18.31",
+        "100s/50s": "0/1",
+        "deliveries": "3,980",
+        "wickets": "52",
+        "bowl avg": "28.88",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "5/42",
+        "catches/stumpings": "4/\u2013"
+    },
+    "ODI": {
+        "matches": "56",
+        "runs": "141",
+        "bat avg": "10.84",
+        "100s/50s": "0/0",
+        "top score": "26",
+        "deliveries": "3,003",
+        "wickets": "79",
+        "bowl avg": "25.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "4/10",
+        "catches/stumpings": "10/\u2013"
+    },
+    "clubs": {},
+    "birth_date": "1965-02-15"
+}

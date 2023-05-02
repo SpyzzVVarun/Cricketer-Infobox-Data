@@ -1,0 +1,23 @@
+{
+    "name": "Russell Cake",
+    "batting": "Right-handed",
+    "bowling": "Leg-break",
+    "source": "http://content-uk.cricinfo.com/ci/content/player/10940.html Cricinfo",
+    "First-class": {
+        "matches": "37",
+        "runs": "2,055",
+        "bat avg": "38.05",
+        "100s/50s": "4/9",
+        "top score": "108",
+        "catches/stumpings": "16/\u2013"
+    },
+    "List A": {
+        "matches": "5",
+        "runs": "111",
+        "bat avg": "22.20",
+        "100s/50s": "0/0",
+        "top score": "28",
+        "catches/stumpings": "2/\u2013"
+    },
+    "clubs": {}
+}

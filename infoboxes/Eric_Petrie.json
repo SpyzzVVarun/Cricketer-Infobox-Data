@@ -1,0 +1,38 @@
+{
+    "name": "Eric Petrie",
+    "full_name": "Eric Charlton Petrie",
+    "birth_place": "Ng\u0101ruaw\u0101hia, New Zealand",
+    "death_date": "2004",
+    "death_place": "\u014cmokoroa, New Zealand",
+    "internationalspan": "1955\u20131966",
+    "country": "New Zealand",
+    "testdebutagainst": "Pakistan",
+    "testdebutdate": "26 October",
+    "testdebutyear": "1955",
+    "testcap": "75",
+    "lasttestdate": "11 March",
+    "lasttestagainst": "England",
+    "lasttestyear": "1966",
+    "batting": "Right-handed",
+    "bowling": "Legbreak",
+    "role": "Wicket-keeper",
+    "source": "http://www.espncricinfo.com/newzealand/content/player/38123.html Cricinfo ",
+    "Test": {
+        "matches": "14",
+        "runs": "258",
+        "bat avg": "12.90",
+        "100s/50s": "0/1",
+        "top score": "55",
+        "catches/stumpings": "25/\u2013"
+    },
+    "First-class": {
+        "matches": "115",
+        "runs": "2788",
+        "bat avg": "17.98",
+        "100s/50s": "2/6",
+        "top score": "151",
+        "catches/stumpings": "198/37"
+    },
+    "clubs": {},
+    "birth_date": "1927-5-22"
+}

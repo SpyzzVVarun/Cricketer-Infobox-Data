@@ -1,0 +1,29 @@
+{
+    "country": "Ireland",
+    "fullname": "David Richard Pigot",
+    "birth_place": "Dublin, Leinster, Ireland",
+    "death_date": "df=yes",
+    "death_place": "Sandymount, Leinster, Ireland",
+    "family": "David Pigot, Jr. (son), James Pigot (brother)",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://www.espncricinfo.com/ireland/content/player/24491.html Cricinfo ",
+    "First-class": {
+        "matches": "11",
+        "runs": "338",
+        "bat avg": "15.36",
+        "100s/50s": "\u2013/1",
+        "top score": "51",
+        "deliveries": "42",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "4/\u2013"
+    },
+    "clubs": {
+        "Ireland": "1922&ndash;1939",
+        "Dublin University": "1922&ndash;1926"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "John Brunskill",
+    "batting": "Left-handed",
+    "bowling": "Right-arm Right-arm medium",
+    "country": "Ireland",
+    "source": "http://www.cricketarchive.co.uk/Archive/Players/28/28239/28239.html CricketArchive",
+    "First-class": {
+        "matches": "4",
+        "runs": "134",
+        "bat avg": "16.75",
+        "100s/50s": "0/1",
+        "top score": "58",
+        "deliveries": "85",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "\u2013",
+        "catches/stumpings": "0/\u2013"
+    },
+    "clubs": {}
+}

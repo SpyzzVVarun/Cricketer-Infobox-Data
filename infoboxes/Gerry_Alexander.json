@@ -1,0 +1,36 @@
+{
+    "name": "Gerry Alexander",
+    "country": "West Indies",
+    "fullname": "Franz Copeland Murray Alexander",
+    "birth_place": "Kingston, Colony of Jamaica",
+    "death_date": "2011",
+    "death_place": "Orange Grove, Jamaica",
+    "batting": "Right-handed",
+    "role": "Wicket-keeper",
+    "testdebutdate": "25 July",
+    "testdebutyear": "1957",
+    "testdebutagainst": "England",
+    "testcap": "96",
+    "lasttestagainst": "Australia",
+    "lasttestdate": "10 February",
+    "lasttestyear": "1961",
+    "source": "http://www.espncricinfo.com/westindies/content/player/51101.html ESPNcricinfo",
+    "Tests": {
+        "matches": "25",
+        "runs": "961",
+        "bat avg": "30.03",
+        "100s/50s": "1/7",
+        "top score": "108",
+        "catches/stumpings": "85/5"
+    },
+    "First-class": {
+        "matches": "92",
+        "runs": "3238",
+        "bat avg": "29.17",
+        "100s/50s": "1/21",
+        "top score": "108",
+        "catches/stumpings": "217/39"
+    },
+    "clubs": {},
+    "birth_date": "1928-11-2"
+}

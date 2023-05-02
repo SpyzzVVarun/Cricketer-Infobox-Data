@@ -1,0 +1,27 @@
+{
+    "name": "Maurice Nichol",
+    "country": "England",
+    "birth_place": "Hetton, County Durham, England",
+    "death_date": "1934",
+    "death_place": "Chelmsford, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm googly",
+    "source": "http://cricketarchive.co.uk/Archive/Players/31/31716/31716.html ",
+    "FC": {
+        "matches": "136",
+        "runs": "7,484",
+        "bat avg": "34.33",
+        "100s/50s": "17/38",
+        "deliveries": "1,858",
+        "wickets": "21",
+        "bowl avg": "61.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2\u20136",
+        "catches/stumpings": "64/0"
+    },
+    "clubs": {
+        "Worcestershire": "1928\u20131934"
+    },
+    "birth_date": "1904-9-10"
+}

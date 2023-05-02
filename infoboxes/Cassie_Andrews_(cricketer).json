@@ -1,0 +1,28 @@
+{
+    "name": "Cassie Andrews",
+    "country": "Australia",
+    "fullname": "William Charles Andrews",
+    "birth_place": "West Maitland, Australia",
+    "death_date": "1962",
+    "death_place": "Bombay, India",
+    "source": "http://www.espncricinfo.com/australia/content/player/3972.html Cricinfo ",
+    "First-class": {
+        "matches": "39",
+        "runs": "2246",
+        "bat avg": "31.63",
+        "100s/50s": "3/9",
+        "top score": "253",
+        "deliveries": "292",
+        "wickets": "6",
+        "bowl avg": "31.83",
+        "fivefor": "\u2013",
+        "tenfor": "\u2013",
+        "best bowling": "2/37",
+        "catches/stumpings": "17/\u2013"
+    },
+    "clubs": {
+        "New South Wales": "1928/29-1930/31",
+        "Queensland": "1931/32-1936/37"
+    },
+    "birth_date": "1908-07-14"
+}

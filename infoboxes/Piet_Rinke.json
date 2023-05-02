@@ -1,0 +1,62 @@
+{
+    "name": "Piet Rinke",
+    "fullname": "Harry Peter Rinke",
+    "nickname": "Piet",
+    "country": "Zimbabwe",
+    "birth_place": "Marondera, Zimbabwe",
+    "odidebutdate": "25 February",
+    "odidebutyear": "2006",
+    "odidebutagainst": "Kenya",
+    "odicap": "170",
+    "lastodidate": "10 October",
+    "lastodiyear": "2006",
+    "lastodiagainst": "Sri Lanka",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm fast-medium",
+    "source": "http://content-aus.cricinfo.com/zimbabwe/content/player/55737.html Cricinfo  ",
+    "ODI": {
+        "matches": "18",
+        "runs": "317",
+        "bat avg": "17.61",
+        "100s/50s": "0/3",
+        "top score": "72",
+        "deliveries": "277",
+        "wickets": "8",
+        "bowl avg": "34.12",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "2/11",
+        "catches/stumpings": "0/\u2013"
+    },
+    "FC": {
+        "matches": "9",
+        "runs": "346",
+        "bat avg": "24.71",
+        "100s/50s": "0/1",
+        "deliveries": "1,328",
+        "wickets": "26",
+        "bowl avg": "25.30",
+        "fivefor": "2",
+        "tenfor": "0",
+        "best bowling": "6/43",
+        "catches/stumpings": "6/\u2013"
+    },
+    "LA": {
+        "matches": "38",
+        "runs": "940",
+        "bat avg": "28.48",
+        "100s/50s": "2/6",
+        "deliveries": "878",
+        "wickets": "26",
+        "bowl avg": "33.76",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "3/15",
+        "catches/stumpings": "5/\u2013"
+    },
+    "clubs": {
+        "Manicaland": "",
+        "Matabeleland Tuskers": ""
+    },
+    "birth_date": "1981-11-05"
+}

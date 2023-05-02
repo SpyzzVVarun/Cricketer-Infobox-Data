@@ -1,0 +1,40 @@
+{
+    "name": "Ted Clark",
+    "fullname": "Edward Austen Clark",
+    "birth_place": "Balham, London, England",
+    "batting": "Right-handed",
+    "bowling": "Left-arm Left-arm medium",
+    "source": "http://www.espncricinfo.com/ci/content/player/11143.html Cricinfo ",
+    "FC": {
+        "matches": "200",
+        "runs": "8733",
+        "bat avg": "29.11",
+        "100s/50s": "6/53",
+        "top score": "149",
+        "deliveries": "3839",
+        "wickets": "58",
+        "bowl avg": "32.46",
+        "fivefor": "2",
+        "tenfor": "-",
+        "best bowling": "5/61",
+        "catches/stumpings": "106"
+    },
+    "List A": {
+        "matches": "10",
+        "runs": "223",
+        "bat avg": "24.77",
+        "100s/50s": "0/1",
+        "top score": "51",
+        "deliveries": "224",
+        "wickets": "6",
+        "bowl avg": "27.66",
+        "fivefor": "-",
+        "tenfor": "-",
+        "best bowling": "2/49",
+        "catches/stumpings": "1/-"
+    },
+    "clubs": {
+        "Middlesex": "1959\u20131976"
+    },
+    "birth_date": "1937-4-13"
+}

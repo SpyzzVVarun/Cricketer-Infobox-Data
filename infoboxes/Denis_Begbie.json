@@ -1,0 +1,50 @@
+{
+    "name": "Denis Begbie",
+    "country": "South Africa",
+    "fullname": "Denis Warburton Begbie",
+    "birth_place": "Middelburg, Transvaal, Union of South Africa",
+    "death_date": "2009",
+    "death_place": "Johannesburg, South Africa",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "All-rounder",
+    "testdebutdate": "16 December",
+    "testdebutyear": "1948",
+    "testdebutagainst": "England",
+    "testcap": "166",
+    "lasttestdate": "6 March",
+    "lasttestyear": "1950",
+    "lasttestagainst": "Australia",
+    "source": "https://cricketarchive.com/Archive/Players/0/839/839.html CricketArchive ",
+    "Test": {
+        "matches": "5",
+        "runs": "138",
+        "bat avg": "19.71",
+        "100s/50s": "0/0",
+        "top score": "48",
+        "deliveries": "160",
+        "wickets": "1",
+        "bowl avg": "130.00",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "1/38",
+        "catches/stumpings": "2/\u2013"
+    },
+    "First-class": {
+        "matches": "58",
+        "runs": "2,727",
+        "bat avg": "35.88",
+        "100s/50s": "6/8",
+        "deliveries": "4,469",
+        "wickets": "88",
+        "bowl avg": "23.69",
+        "fivefor": "5",
+        "tenfor": "2",
+        "best bowling": "7/96",
+        "catches/stumpings": "27/\u2013"
+    },
+    "clubs": {
+        "Transvaal": "1933/34\u20131949/50"
+    },
+    "birth_date": "1914-12-12"
+}

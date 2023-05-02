@@ -1,0 +1,39 @@
+{
+    "name": "Arnold Quick",
+    "country": "England",
+    "fullname": "Arnold Bertram Quick",
+    "birth_place": "Clacton-on-Sea, Essex, England",
+    "death_date": "1990",
+    "death_place": "Frinton-on-Sea, Essex, England",
+    "batting": "Right-handed",
+    "bowling": "Right-arm Right-arm off-break",
+    "role": "Batsman",
+    "type1": "First-class",
+    "debutdate1": "22 August",
+    "debutyear1": "1936",
+    "debutfor1": "Essex",
+    "debutagainst1": "Nottinghamshire",
+    "lastdate1": "27 August",
+    "lastyear1": "1952",
+    "lastfor1": "Essex",
+    "lastagainst1": "Yorkshire",
+    "source": "https://cricketarchive.com/Archive/Players/5/5264/5264.html Cricket Archive ",
+    "FC": {
+        "matches": "20",
+        "runs": "439",
+        "bat avg": "13.71",
+        "100s/50s": "0/2",
+        "top score": "57",
+        "deliveries": "11",
+        "wickets": "0",
+        "bowl avg": "\u2013",
+        "fivefor": "0",
+        "tenfor": "0",
+        "best bowling": "\u2013",
+        "catches/stumpings": "13/0"
+    },
+    "clubs": {
+        "Essex": "1936&ndash;1952"
+    },
+    "birth_date": "1915-2-10"
+}

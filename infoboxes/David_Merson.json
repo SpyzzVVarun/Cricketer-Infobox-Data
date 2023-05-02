@@ -1,0 +1,20 @@
+{
+    "country": "England",
+    "fullname": "Ronald David Merson",
+    "birth_place": "Stockton-on-Tees, County Durham, England",
+    "death_date": "2011",
+    "death_place": "Stockton-on-Tees, County Durham, England",
+    "batting": "Right-handed",
+    "source": "https://www.espncricinfo.com/player/david-merson-25301 Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "16",
+        "bat avg": "8.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "15",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Scotland": "1947"
+    }
+}

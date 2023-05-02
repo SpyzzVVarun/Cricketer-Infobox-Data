@@ -1,0 +1,22 @@
+{
+    "country": "England",
+    "fullname": "Dermot Howard Blundell-Hollinshead-Blundell",
+    "birth_place": "Mayfair, Middlesex, England",
+    "death_date": "df=y",
+    "death_place": "Kensington, London, England",
+    "family": "Gerald Ward (brother-in-law)",
+    "batting": "Right-handed",
+    "source": "http://www.espncricinfo.com/england/content/player/9824.html Cricinfo ",
+    "First-class": {
+        "matches": "1",
+        "runs": "45",
+        "bat avg": "45.00",
+        "100s/50s": "\u2013/\u2013",
+        "top score": "45",
+        "catches/stumpings": "\u2013/\u2013"
+    },
+    "clubs": {
+        "Berkshire": "1895\u20131904",
+        "Marylebone Cricket Club": "1902"
+    }
+}
